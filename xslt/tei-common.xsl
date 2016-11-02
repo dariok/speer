@@ -1,6 +1,11 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="xsl tei mets xlink exist xsi html" version="1.0" xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="xsl tei mets xlink exist xsi html"
+	version="2.0" xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd">
 	
 	<!-- erstellt 2015/10/23 DK: Dario Kampkaspar, kampkaspar@hab.de -->
+	<!-- angepaßt nach ed000216; 2016-11-02 DK -->
 	
 	<xsl:import href="http://diglib.hab.de/rules/styles/param.xsl"/>
 	<xsl:include href="http://diglib.hab.de/rules/functions/resolve.xsl"/>
@@ -23,7 +28,7 @@
 	<xsl:variable name="viewURL">
 		<xsl:choose>
 			<xsl:when test="$server='eXist'">
-				<xsl:text>http://dev2.hab.de:8080/exist/edoc/view.html</xsl:text>
+				<xsl:text>http://dev2.hab.de/edoc/view.html</xsl:text>
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:text>http://diglib.hab.de/content.php?dir=</xsl:text>
@@ -36,7 +41,7 @@
 	<xsl:variable name="baseDir">
 		<xsl:choose>
 			<xsl:when test="$server='eXist'">
-				<xsl:text>http://dev2.hab.de:8080/exist/rest/db/</xsl:text>
+				<xsl:text>http://dev2.hab.de/rest/db/</xsl:text>
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:text>http://diglib.hab.de/</xsl:text>
@@ -77,12 +82,10 @@
 		<title>
 			<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='short']"/>
 		</title>
-		<!-- neues Stylesheet für Intro; 2016-05-23 DK -->
 		<link rel="stylesheet" type="text/css" href="{$baseDir}/Layout/{$css}"/>
-		<!-- noscript entfernt; TODO bei Bedarf durch Alternative ersetzen; 2016-03-15 DK -->
 		<script src="http://diglib.hab.de/navigator.js" type="text/javascript"/>
 		<script src="http://code.jquery.com/jquery-2.2.4.js" type="text/javascript"/>
-		<script src="{$baseDir}/Layout/marginalia.js" type="text/javascript"/>
+		<script src="{$baseDir}/script/word.js" type="text/javascript"/>
 		<!-- Syncronisation mit Parallelfenster -->
 		<script type="text/javascript">
 			var dateityp = "introduction";
@@ -91,7 +94,8 @@
 			};
 		</script>
 	</head>
-	<body>
+	<!-- onDblClick ergänzt zum Nachschlagen von Ausdrücken; 2016-11-02 DK -->
+	<body onDblClick="zeige();">
 		<!-- Neugestaltung Seitenkopf; 2016-05-24 DK -->
 		<div id="sideBar">
 		</div>

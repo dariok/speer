@@ -1,7 +1,14 @@
 <!-- Introduction-XSL für \\edoc\ed000216 Karlstadt-Edition -->
-<xsl:stylesheet xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd" exclude-result-prefixes="html tei mets xlink xsl exist xsi" version="1.0" default-validation="strip" input-type-annotations="unspecified">
-	<!-- erstellt 05.02.2014 von Jennifer Bunselmeier <jennifer@bunselmeier.de> -->
-	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
+<xsl:stylesheet xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd"
+	exclude-result-prefixes="html tei mets xlink xsl exist xsi" version="2.0">
+	
+	<!-- erstellt für ed000245 basierend auf dem Skript aus ed000216; 2016-08-00 DK -->
+	<!-- TODO weiter anpassen und ungenutzte empfehlen; 2016-11-02 DK -->
+	
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
 	<xsl:import href="tei-common.xsl"/>
 	<!-- für bei HTML und TeX gemeinsame Formatierungen; 2016-05-26 DK -->
@@ -18,6 +25,7 @@
 	<xsl:variable name="metsfile">
 		<xsl:value-of select="concat($baseDir, '/mets.xml')" disable-output-escaping="no"/>
 	</xsl:variable>
+	
 	<!-- neu mit mode="content" enthält nur noch den tatsächlichen Inhalt; das Gerüst wird über Templating bzw. in common erstellt; 2016-07-14 DK -->
 	<xsl:template match="/" mode="content" as="item()*">
 		<!-- navbar in den container verschoben; 2016-07-11 DK -->
