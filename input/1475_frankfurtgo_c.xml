@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+  
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+          <title>Frankfurter Gerichtsordnung C 1475 :: Transkription Speer 2010 / 2016</title>
+        </titleStmt>
+              </fileDesc>
+      
+    </teiHeader>
+    <text>
+      <front><divGen depth="3" type="toc"/></front>
+                      <body>
+                        <div id="Editorial">
+                          <head>Editorial</head>
+                          <p>Quelle: Thomas, Johann Gerhard Christian: Der Oberhof zu Frankfurt am Main und das fränkische Recht in Bezug auf denselben / ein Nachlaß von Johann Gerhard Christian Thomas. Hrsg. von Ludwig Heinrich Euler. Bevorwortet von Jacob Grimm. - Frankfurt am Main : Jäger, 1841. - XXXII, 591 S. [DRWSigle: <quelle url="&drwsigle;FrankfOHof.">FrankfOHof.</quelle>] 285ff.</p></div>                
+                        
+<div id="Art1">
+      <head>[Artikel I</head>
+<p> 
+    [<quelle url="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g285.gif">Seite 285</quelle>]
+ Anno XIIII. C. LXX. quinto Uff frytag nach Martini, haben die Scheffene des
+Rychs geriechte zu  frankfurt, zu hanthabunge desselben Rychs geriechte, myt
+Verwilligunge des Rats, etliche irrige hendel hynfür zuvorkomen, sich dieser
+nach geschrieben artikele zu halten und durch jre geschworene dyenere zum
+gerichte, biß uff jre wiederabethun gehalten wollen haben, vereyniget, so lange
+den Scheffen und dem Rade eben ist, und behalten jne macht, die hernach  <term type="phrase">zu
+kortzen oder zu lengen</term>, obe yne fuglichen wurde.
+</p></div>
+
+<div id="Art2">
+	   <head>[Artikel II]</head>
+	  <p>
+Jtem so an die Richtere langet, den luden, Jnhalt gewyseter <term type="phrase">ortel
+oder gerichts zettel</term>, an jrer <term type="phrase">farende habe ader  eygen
+oder erbe</term> Rechts zu helffen; So
+sollen sie bynnen rechter zyt, also ist es erkant schult und in keyner messe
+gescheen, nach ußgange viertzehen tagen; syn eß aber hurige zinße, liedelone,
+berecht schult oder in den messen erkant oder erfolget, uber nacht den parthyen
+jnhalt jrer erlangten oder geriechts Zettele, an der schuldigen farende habe,
+so ferre sie farnde habe syn den Richten und nit mehe Wartzeychen gebenn, die
+farende habe der cleger, viertzehen tage nach der rachtunge, hynder dem
+schuldener lygen oder die an sich nemmen mag, und zu Ußgange der vietzehen [!]
+tage die selben farende habe und pfande dan hynder dem schuldigen myt eym
+Riechter, obe er anders die fur nyt gnomen hette, <term type="phrase">nemen und
+haben</term>, die  <term type="phrase">versetzen oder verkeuffen</term>  und
+dem, des die pfande syn mit eym Richtere verkunden, die in viertzehen tagen zu
+entschudden, und wer des nit thede, sunder lenger verzoige uber die vorbenante
+zyt, des ader der selben Rachtunge sulte  <term type="phrase">abe und dot
+syn</term> und sulte, obe er wulte jme von nuwenis rachtunge bescheen, so ferre
+der geriecht zettel noch unvorjert were, weres aber, daz der Jhene, des die
+pfande syn, sich myt dem der die pfande hynder sich in syn gewalt bracht hat,
+gutlichen vertrüge, die pfande lenger zu halten, daz mogen beyder teyle wole
+thun.
+	   <pb n="S. 286" url="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g286.gif"/></p></div>
+
+<div id="Art3">
+	   <head>[Artikel III]</head>
+<p>
+ Obe aber nyt farende habe furhanden were, damyt der cleger vernügt werden
+mochte, So sulte der Rychter jme an sym <term type="phrase">eygen und
+Erbe</term> rychten, die Rachtunge am nesten geriechte darnach besagen laßen,
+furter der Rachtunge als sich nach geriechts ordnunge gehoret, mit <term type="phrase">eygen
+und erbe</term>  umb zu gehen auch nachkomen.
+</p></div>
+
+<div id="Art4">
+	   <head>[Artikel IV]</head>
+<p>
+ Jtem die Rychtere sollen alle frevele, von stonts nach den getanen geboten by
+jren getanen eyden, den Schriber jnschriben, und keynen hynder dem geriechte
+mit iren  <term type="phrase">willen, wißen oder byweßen</term> verteydingen
+laßen, davon sie in den messen sehs heller und dem schriber dry heller nemen
+sollen, und wan eynen bürgermeistere und schriber not syn bedunckt, eyn fravel
+gericht zu halten, So sal eyn schriber den Rychtern ydem syn geboide in eynen
+Zettel vertzeychen, und bede parthyen verboden laßen, da jnne Schultheis und
+Scheffene von aicht uheren an im Somer, und nun uheren im wynther alle
+ungeverlich biß an Eylff Uheren ungeverlich sytzen, und den parthyen Rechts
+helffen sollen; So aber die parthyen fremde wegehafftig und nit burger zu 
+franckfurt  syn, und dieselben bußfellig erkant werden, die busse nach befelhe
+des geriechts von den fremden von stonts an, und <pb n="S. 287" url="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g287.gif"/> den burgernn in viertzehen tagen infordern, jnbrengen, und
+daz  gelt oder pfande in der Stede schriberye antwurten sollen, und sal man
+alle jare umb sant walburgen tage den Rychtern, dem Gerichtschribern, synem
+Dyener des Schultheissen botten, jre gewonliche mysßthat Zettel als von alter
+geben, uff daz sie dester flyssiger die frevele zu hanthaben und zu straffen.
+</p></div>
+
+<div id="Art5">
+	   <head>[Artikel V]</head>
+<p>
+ Iß sollen auch furter alle Jnsetze der farende habe, der schult sy <term type="phrase">wenig
+oder viel</term>, fur zweyen werntlichen Rychtern von 
+<term type="phrase">mannen und frauwen</term> gescheen, also daz die eelichen
+husfrauwen daby geynwurtig syn, umb daz siegel bieten gefraget werden, glich
+iren elichen hußwerten, doch nit mehe dan eyn gelt von der versiegelunge geben.
+Auch sollen furter alle jn dem schultbrieffe, der schult sy  <term type="phrase">wenig
+oder vil</term>, von zweyn werntlichen Rychtern oder zweyen
+Erbern personen versiegelt werden, also zuvor steende, synt eß elute, so sollen
+sie beyde samethafft  <term type="phrase">man und frauwe</term>  umb die
+Siegell bieten, hette ader der man eyn eygen Jngesigell, und nyt Rychter umb
+jre Ingesigel bieten wulten, so mag der man fur sich siegeln, dartzu sulte die
+eliche husfrauwe eynen Erbern man umb syn Jngesigel fur sie myt sampt jrem
+eelichen mann auch bieten, also das die eliche hußfrauwe des also wole, als jre
+elicher hußwirt wißen habe, Und ann welchem vorgenant artikel sumenis beschee,
+und dem jn eynem ader mehe nyt nachkomen wurde, So sulle es  <term type="phrase">doyt
+und abe  syn</term>, und keyne  <term type="phrase">kraftt
+oder macht</term> haben nach jrkentnis der Scheffene.
+</p></div>
+
+<div id="Art6">
+	   <head>[Artikel VI]</head>
+<p> 
+ Jß sal auch hynfür der Rychter der wuchener ist, oder eyn ander an syn stat,
+an des Richs gerichte so diecke man geriecht heldet, by einem Schultheis, dem
+obersten Rychter und schriber bliben, biß die glocke zwolffe geslagen hat, und
+der Schultheiß uffgestanden ist, und so <term type="phrase">eyner oder
+eyne</term>  komen, für den Schriber fordern, den jnzu schriben, und zu
+erfolgen, der selbe Rychter  dem oder der  die man <term type="phrase">jnschriben
+oder erfolgen</term> wil, uberlude mit den namen
+nennen, und Rüffen, obe er geynwürtig sy, ist dann  <term type="phrase">der
+oder die</term>, nach dem und der Rychtere  <term type="phrase">dem oder
+der</term>  zum dryttenmale gerüffen hat, nyt geynwürtig; So sal der Schriber
+das, als von alter herkomen ist, jnschribenn; So sal eyn yder geriechtes botte,
+so ferre und er jnheymsche ist, Jst er aber nyt jnheymsche der vorgenant
+Rychtere uff die uher glocken horen, und so die ußgeschlagen hat, dem
+Schultheiß das sagen, uffzüsteen.
+</p></div>
+
+<div id="Art7">
+	   <head>[Artikel VII]</head>
+<p> 
+ So sal eyn yder Stücker des Gaderns oben an der Stegen warten und den so er
+siecht, daz dem Schultheis von dem Riechter oder botten gesagt wirdet
+uffzusteen, zuthune und zuhalten, und daraffter nymants heruff laßen, der sich
+meynt des geriechts in den vorgenanten erfolgunge zu gebruchen.
+ </p></div></body>
+  </text>
+</TEI.2>

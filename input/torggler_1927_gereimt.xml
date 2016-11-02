@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2> 
+	<teiHeader> <fileDesc><titleStmt>
+		        <title>Das Klagenfurter Stadtrecht in Reimen. Herausgegeben und erläutert von Dr. Karl Torggler :: Elektronische Edition 2010/2013</title>                
+            </titleStmt>
+                        <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen type="toc" depth="3"></divGen>
+            </front>
+        <body>
+        	<div id="Editorial">
+        		<p>[Quelle: Archiv für vaterländische Geschichte und Topographie. Herausgegeben von dem <quelle url="http://www.geschichtsverein-ktn.at">Geschichtsvereine für Kärnten</quelle> mit Unterstützung der Akademie der Wissenschaften in Wien. 22. Jahrgang  (1927) 3-26. Digitale Edition: Verantwortlich Dr. Heino Speer. Die Edition erfolgt mit Genehmigung des Geschichtsvereins für Kärnten. Gedruckte Exemplare sind dort noch zum Preis von 3 Euro erhältlich.]</p></div>
+        		<div id="Einleitung">
+<head>Das Klagenfurter Stadtrecht in Reimen. Herausgegeben und erläutert von Dr. Karl Torggler.</head>
+<p>
+Der Geschichtsverein für Kärnten besitzt unter der Signatur XXV 630 1/2 eine aus dem Archive des Klosters Viktring stammende gereimte Darstellung über das Verfahren vor dem Stadtrechte in Klagenfurt, welche bereits von Luschin-Ebengreuth in seiner österreichischen Reichsgeschichte <quelle url="">Seite 379</quelle> erwähnt wurde. Die das Stadtrecht enthaltende Papierhandschrift umfaßt 27 Blätter in Folio und zerfällt in zwei deutlich unterscheidbare Teile. Der erste Teil enthält auf Fol. 1 bis 4' unter dem Titel "Dass lobliche stattrecht zu Clagenfurt" die oberwähnte Darstellung und besteht aus drei Bögen, bei denen nur das vordere Blatt beschrieben ist, und einem zur Gänze beschriebenen Halbbogen. Die Hinterseite des ersten Bogens,  welcher als Decke der ganzen Handschrift dient, weist wieder den vorerwähnten Titel auf. Der zweite Handschriftbestandteil enthält von Fol. 5 bis 23' das kaiserliche <quelle url="">Generale</quelle> über die Revision und Restitution vom <datum wert="1623-01-06">6. Jänner 1623</datum>, eine kurze Darstellung, wie Bußen und Strafen für verübte Gewalttaten festzusetzen sind, die Instruktion für den Weisboten (das Exekutionsorgan des <quelle url="&drwlemma;landschrannengericht">Landschrannengerichtes</quelle> und der Landeshauptmannschaft) in Kärnten, die kärntnerische Spännungsordnung (Ordnung der Steuerexekution) von 1582 sowie Beschwerdeartikel und einen Bericht der Kärntner Stände in Lehenssachen. Er besteht aus zehn Bögen, welche &md; mit Ausnahme des ersten, dessen rückwärtiges Blatt leer ist &md; derart beschrieben sind, daß zuerst die vorderen, dann die rückwärtigen Blätter den fortlaufenden Text enthalten. Beide Handschriftenteile rühren von derselben geübten Schreiberhand aus der ersten Hälfte des 17. Jahrhunderts her und sind in der Weise miteinander vereinigt, daß die Bögen dies zweiten Teiles nach dem Fol. 4 bis 4' umfassenden Halbbogen eingelegt sind. Umschlag und Foliierung sind neu. Fraktur ist für die Aufschriften der einzelnen Artikel und mehrmals für den Artikelanfang <pb n="S. 4"/> [<quelle url="&drqi;torggler_1927_004.jpg"> => Seite</quelle>] verwendet, Fremdwörter sind mit lateinischen Buchstaben geschrieben.</p>
+<p>Das gereimte Stadtrecht will in 198 Versen, welche in eine Einleitung und zehn (bis auf den vierten) mit Inhaltsüberschriften versehene Artikel untergeteilt sind, eine Darstellung der Zuständigkeit und des Verfahrens im Klagenfurter Stadtrechte geben. Hiebei dient als Grundlage die Kärntner Landrechtsordnung<note place="foot" n="1">"<quelle url="&kaerntlro_1577;">Des Ertzherzogthumbs Khärndten New aufgerichter Landtssrechtsordnung"</quelle> von 1577 (gedruckt 1578, Zacharias Bartsch, Graz) im folgenden als Lro. zitiert. Das Landrecht oder die Landschranne ist das für die Landstände zuständige Gericht.</note> und will der Verfasser nur die Besonderheiten, welche sich beim Stadtrechte ausgebildet haben, hervorheben. Die Arbeit ist zwar ohne jede selbständige juristische Bedeutung, verdient aber sowohl aus dem Gesichtspunkte der originellen Idee, diesen spröden Stoff in Reimen zu behandeln, als auch deshalb Beachtung, weil sie genaue Kunde über ein Rechtsverfahren gibt, welches tief in die sogenannte Rezeptionszeit hinein die mittelalterlichen Formen bewahrte.</p>
+<p>Bevor ich auf die Frage der Entstehungszeit und des vermutlichen Verfassers eingehe, möchte ich zum besseren Verständnis eine kurzgefaßte Darstellung der Zuständigkeit und des Verfahrens im Klagenfurter Stadtrechte vorausschicken. Hiebei werden die Ergebnisse einer größeren Arbeit, welche ich über das Zivilprozeßverfahren in Klagenfurt vom 16. bis 18. Jahrhundert verfaßte und die noch ungedruckt ist, verwertet.<note place="foot" n="2">Für diese größere Arbeit wurden in erster Linie das Aktenmaterial und die Protokolle im Klagenfurter Stadtarchiv und im Kärntner Landesarchiv verwertet. Für das als Vorbild des Stadtrechtes außerordentlich wichtige Landrechtsverfahren wurden außer der <quelle url="&kaerntlro_1577;">Landrechtsordnung von 1577</quelle> insbesondere <quelle url="&luschin_1913_ampfinger;#162">Luschin-Ebengreuth, Hanns Ampfingers Bericht über das gerichtliche Verfahren in Kärnten 1544 ("Carinthia I", 1913, S. 162 bis 190</quelle>, zitiert Ampfinger), der Entwurf einer Rechtsordnung vom Jahre 1629 (Kärntner Geschichtsverein, Hs. 5/20, zitiert Ro.), die Darstellungen des Landrechtsverfahrens von Hans Kraus (<quelle url="">Des Erzherzogthumbs Khärndten ... Lanndts Recht Process und gerichtliche Verfahrung ... 1585</quelle>, in zwei Handschriften im Kärntner Geschichtsverein, zitiert Kraus) und bei Freyhoffen-Marconegg (<quelle url="">Tribunal seu iudicum humanum ... stylo curiae huius Archi-Ducatus Carinthiae accomodatum, Druck Klagenfurt 1715</quelle>, S. 127 bis 172, zitiert Freyhoffen) benützt. Hier können natürlich nur die zum Verständnis des gereimten Stadtrechtes nötigen allgemeinen Grundlinien dargestellt werden und vermeide ich es absichtlich, auf den Zusammenhang der einzelnen Prozeßformen mit dem mittelalterlichen Recht einzugehen, da dies über den Rahmen einer Textausgabe allzusehr hinausgeht.</note></p>
+<p>Das Stadtrecht ist das für Klagen gegen Bürger der Stadt Klagenfurt zuständige Gericht, und zwar sowohl wegen beweglicher als auch wegen unbeweglicher Sachen und Rechte, doch nur dann, wenn der Streitwert mindestens 10 fl. beträgt. Hinsichtlich unbeweglicher Sachen ist weitere Voraussetzung, daß sie im Stadtgebiete gelegen sind. Weiters können dort auch Injurienklagen angebracht und verlorene Urkunden amortisiert werden. Nicht nachweisbar ist die Meldung von Rechten, um sie vor Verjährung zu schützen (wie es nach <quelle url="&kaerntlro_1577;&amp;fs=Art. 41">Lro. Art. 41</quelle> im Landrechte geschieht), doch dürfte dies sicher vorgekommen sein. Widerklagen sind nicht nachweisbar; nach <quelle url="&kaerntlro_1577;&amp;fs=Art. 7">Lro. Art. 7</quelle> sind sie zulässig, soweit sie Grund und Boden betreffen oder auf  "aufrichtigen Schuldbriefen" beruhen. Schließlich spielt sich im Stadtrechte noch die Zwangsversteigerung der Liegenschaften und zeitweise auch das Konkursverfahren ab, worüber weiter unten Näheres zu erörtern sein wird. Nicht geklagt können im Stadtrechte die Inwohner oder sonstigen nichtadeligen Bewohner Klagenfurts werden, für welche nur das Stadtgericht kompetent ist. Die Landstände, sonstige Adelige und die Angestellten der Landschaft (mit Ausnahme der Arbeiter) unterstehen, auch wenn sie in Klagenfurt wohnen, der städtischen Gerichtsbarkeit überhaupt nicht.</p>
+    <p>Die Zusammensetzung des Stadtrechtes erfolgt aus dem Stadtrichter als Vorsitzendem, einer wechselnden Zahl von <pb n="S. 5"/> [<quelle url="&drqi;torggler_1927_005.jpg"> => Seite</quelle>](mindestens sieben) Beisitzern, welche den Mitgliedern des inneren und äußeren Rates entnommen werden, und dem Stadtschreiber. Nach der Einführung des Bürgermeisteramtes hat ab <datum wert="1588-01-01">1. Jänner 1588</datum> der Bürgermeister bei Prozessen über Erb, Eigen und im Burgfried liegende Güter den Vorsitz, sonst der Stadtrichter. Ein Ablehnungsrecht der Parteien gegen einzelne Mitglieder des Gerichtes besteht nicht.</p>
+<p>Persönliches Erscheinen ist nicht vorgeschrieben.<note place="foot" n="3">Nach <quelle url="&kaerntlro_1577;&amp;fs=Art. 27">Lro. Art. 27</quelle> ist Vollmachtserteilung nur im Krankheitsfalle zulässig; einzig Klosterfrauen dürfen sich vertreten lassen und wird dieses Privileg durch landesfürstliche Resolution vom <datum wert="1606-01-30">30. Jänner 1606</datum> auf alle Geistlichen ausgedehnt. Ro. Art. 16 stellt das persönliche Erscheinen frei und hat sich dies in der Praxis durchgesetzt.</note> Die Übertragung des Gewaltsames erfolgt ursprünglich nur vor Gericht unter Ergreifung des Gerichtsstabes, später (erstmals am <datum wert="1591-10-15">15. Oktober 1591</datum> nachweisbar) auch durch Erteilung einer schriftlichen Vollmacht. Vertretung durch Advokaten (Landschrannenprokuratoren) ist häufig. Als gesetzliche Vertreter erscheinen für Minderjährige die <quelle url="&drwlemma;gerhabe">Gerhaben</quelle> (Vormünder), für Handwerksbruderschaften die Zechleute, für Kirchen die Kirchpröpste, für Konkursanten oder herrenlose Verlassenschaften die Versprecher, welche vom Stadtgerichte bestellt werden; aus späterer Zeit wird gelegentlich auch ein Abwesenheitskurator erwähnt.</p>
+<p>Stirbt eine Partei vor Streiteinlassung, so sind die Tage ab, also das Verfahren ist nichtig, während bei Ableben eines Streitteiles nach Kriegsbefestigung die Erben einzutreten haben.</p>
+<p>Jeder Klage hat ein gütliches Ersuchen entweder schriftlich oder durch zwei <quelle url="&drwlemma;beschickleute">Beschickleute</quelle> mindestens acht Tage (wohnt jedoch der Gegner außerhalb Klagenfurts, mindestens vierzehn Tage, wohnt er außer Landes, mindestens sechs Wochen) vorauszugehen. Dieselben Fristen gelten für alle weiteren im Laufe des Prozesses an den Gegner notwendig werdenden Zustellungen.</p>
+<p>Die Klage hat dem gütlichen Ersuchen gleichzulauten; sie enthält eine kurze Darstellung des Sachverhaltes, die Benennung der Beweismittel und das Begehren.</p>
+<p>In jeder Klage darf nur ein Begehren gestellt werden, so daß bei Einklagung eines Kapitals das verfallene Interesse mit eigener Klage geltend gemacht werden muß. Bei Einklagung von Zinsen oder in Abrechnungsprozessen überhaupt pflegt man sich in der Klage hinsichtlich der Anspruchshöhe darauf zu berufen, was gute Raitung bringen wird. Die Einbringung der Klage erfolgt ursprünglich<note place="foot" n="4">Das älteste vorhandene Klagenfurter Gerichtsprotokoll enthält auf Fol. 36 bis 41 eine Reihe derartiger "rechtlicher Klagen" aus den Jahren 1536 bis 1549, die anscheinend nach dem mündlichen Vorbringen protokolliert worden waren.</note> wohl meistens mündlich, später in der Regel schriftlich.</p>
+    <p>Die Normalform ist die Klage zu Tagen. Bei ihr wird nach Vortrag bzw. Verlesung im Stadtrechte zuerst der Kläger oder, falls er vertreten ist, sein Prokurator "Rechtens" gefragt, welcher Erteilung des Gerichtszeugsbriefes über den ersten Tag und Ladung des Beklagten verlangt. Nach Umfrage unter den Beisitzern wird diesem Begehren stattgegeben. Der Kläger muß <pb n="S. 6"/> [<quelle url="&drqi;torggler_1927_006.jpg"> => Seite</quelle>] dann noch an drei Gerichtstagen bei verschiedenen Stadtrechten (also insgesamt an vier Tagen) erscheinen und sich darüber Gerichtszeugsbriefe erteilen lassen. Eine weitere Ladung des Beklagten erfolgt nicht und ist dieser erst am vierten Tage verpflichtet, in Antwort einzutreten. Tut er dies nicht, so wird dem Kläger auf sein Begehren <quelle url="&drwlemma;behebnis">Behebnus</quelle> (Versäumnisurteil) und noch im selben Stadtrechte der Fronbote. zur <quelle url="&drwlemma;aufweisung">Aufweisung</quelle> (Pfändung) erteilt. Der Beklagte kann jedoch an jedem der vier Rechtstage in Antwort eintreten und werden dem Kläger, falls er nicht verhandelt, die Tage aberkannt, so daß er neu klagen muß, wenn er seinen Anspruch weiterverfolgen will. Bei gerechtfertigter Verhinderung muß der betreffende Streitteil seinen <quelle url="&drwlemma;scheinbote">Scheinboten</quelle> senden und findet, falls vom Stadtrechte ehafte Not angenommen wird, Vertagung statt.</p>
+<p>Der Beklagte kann die Klage entweder mit Exzeptionen oder in der Hauptsache bestreiten. Hiebei gilt das Prinzip der Formalstrenge insofern, als der Beklagte, wenn er sich mit Exzeptionen verteidigen will, sich nicht zur Antwort, sondern nur zu Recht anbieten darf. Vereinzelt zeigt, sich auch die Möglichkeit daß der Beklagte sich vor der Verantwortung Bedacht auf kurze Zeit nehmen darf.</p>
+<p>Erscheint dem Stadtrechte auf Grund des Parteienvorbringens, für welches jeder Streitteil das Recht auf zwei, allerhöchstens drei "Reden" hat, Beweis erforderlich, so wird durch Urteil ein Streitteil zur Weisung zugelassen, wobei dem Gegner &mdash; anscheinend, ohne daß er es besonders verlangen muß &mdash; die Gegenweisung vorbehalten wird. Als Beweismittel dienen Zeugen und Urkunden, allenfalls auch Augenschein. Vor der Landrechtsordnung von 1577 war es dem Kläger untersagt, gleichzeitig mit Zeugen und Urkunden zu weisen. Zum Zeugenbeweis wird auch die Vernehmung des Gegners gerechnet und gilt hier die Besonderheit, daß, wenn man sich auf den Gegner zieht, jeder andere Beweis unzulässig ist. Parteienvernehmung in eigener Sache ist ausgeschlossen.</p>
+<p>Nach Zulassung zur Weisung hat jene Partei, der sie aufgetragen ist, bis zum nächsten Stadtrechte einen Weisungsanzug einzubringen und dem Gegner zu übermitteln, widrigenfalls die Weisung für "desert" erkannt wird. Dies hat je nachdem, ob Kläger oder Beklagter säumig ist, entweder Entbrechung des Beklagten "heut und zu tagen" von der Klage oder Behebnuserteilung zur Folge.<note place="foot" n="5">Hinsichtlich des Klägers scheint zeitweise eine mildere Praxis vorgeherrscht zu haben und ihm nur die Tage aberkannt, also die Klage derzeit abgewiesen worden zu sein.</note></p>
+    <p>Urkunden sind dem Weisungsanzuge beizuschließen und hat dieser im Falle des Zeugenbeweises die Weisartikel zu enthalten, auf welche die Zeugen zu vernehmen sind. Gegen den Weisungsanzug kann der Gegner entweder exzipieren (weil er nicht dem Vorbringen entspricht, die angebotenen Beweismittel unzulässig <pb n="S. 7"/> [<quelle url="&drqi;torggler_1927_007.jpg"> => Seite</quelle>] sind usw.) oder er kann seine <quelle url="&drwlemma;fragstueck">Fragstücke</quelle>, über welche die Zeugen vernommen werden sollen, einbringen. Fragstückeeinbringung oder Exzeption hat bis zum nächsten Stadtrechte nach Einbringung des Weisungsanzuges zu erfolgen. Über die Berechtigung der Exzeption wird durch Urteil entschieden.</p>
+<p>Die Zeugenvernehmung erfolgt regelmäßig im ersten Stadtrechte nach Einbringung des Weisungsanzuges, allenfalls auch durch andere Gerichte. Wird der Gegner als Zeuge vernommen, so ist es diesem nicht gestattet, der anderen Partei den Eid zuzuschieben, was in wiederholten Entscheidungen bekräftigt wird. Die Streitteile haben nach Vereidigung der Zeugen abzutreten, so daß sie deren Vernehmung nicht beiwohnen. Der Beweisführer ist nicht verpflichtet, alle seine Beweismittel auf einmal anzubieten, sondern begegnen vielmehr häufig Additionalanzüge. Die Gegenweisung, zu der man ebenfalls durch Urteil zugelassen wird, spielt sich ebenso wie die Weisung ab.</p>
+<p>Nach Abführung des Beweisverfahrens erfolgt auf Antrag im Stadtrechte die Eröffnung der Weisung und die Erteilung von Abschriften. Dann ist bis zum nächsten Stadtrechte von jedem Streitteil eine Schlußschrift einzubringen. Im Stadtrecht wird Weisung und Gegenweisung verlesen, die Parteien tun ihre Rechtssätze und ergeht dann das Urteil.</p>
+<p>Dies erfolgt &mdash; wie alle im Laufe des Verfahrens notwendigen Urteile &mdash; in der Weise, daß ein Rechtsprecher vom Vorsitzenden des Urteils angefragt wird. Gewöhnlich nimmt sich dieser (zwecks Besprechung mit den anderen Beisitzern) Bedacht auf das nächste Stadtrecht. Hat er dann sein Urteil abgegeben, so muß sofort, bevor noch der zweite Beisitzer des Urteils angefragt wird, gedingt (späterhin begegnet der Ausdruck "appelliert") werden. Sonst entscheidet die Mehrheit der abgegebenen Stimmen und ist eine Appellation unzulässig.</p>
+<p>Das Urteil lautet entweder bei derzeitiger Abweisung der Klage<note place="foot" n="6">Sie erfolgt hauptsächlich bei Nichtbeobachtung der Vorschriften über das gütliche Ersuchen, Nichteinhaltung der Ladungsfristen, unzulässiger Klagenhäufung, Nichterscheinen des Klägers im Stadtrechte und in ähnlichen Fällen prozessualer Natur.</note> auf Aberkennung (<quelle url="&drwlemma;fällung">Fällung</quelle>) der Tage oder bei endgütiger Abweisung auf Entbrechung "heut und zu tagen". Bei Stattgebung der Abweisung heißt es, daß der Kläger seine Klage behabt hat.</p>
+    <p>Wird appelliert, so ist mittels Urteils über die Zulässigkeit zu entscheiden.<note  place="foot" n="7">Unzulässig ist die Appellation seitens des Beklagten bei landschadenbündigen Schuldbriefen, weiters nach der Praxis gegen Entscheidungen auf Grund der Landrechtsordnung oder eines Statuts (S. 10).</note> Das weitere Verfahren vollzieht sich nach der Landrechtsordnung in der Weise, daß das mündliche Parteienvorbringen erster Instanz in Schriften gestellt und die Appellation aufgerichtet wird. Ebenso dürfte sich der Vorgang ursprünglich im Stadtrechte abgespielt haben,<note place="foot" n="8">Im Landrechte (<quelle url="&kaerntlgo_1577;&amp;fs=Art. 16+4">Art. 16, Abs. 4</quelle>) sollen bei der Appellationsaufrichtung zwei <quelle url="&drwlemma;gedenkherr">Gedenkherren</quelle> anwesend sein, welche den Streit zwischen den Parteien über angebliche Neuerungen zu entscheiden haben. Im Stadtrechte fehlt diese Einrichtung.</note> doch hat hier schon frühzeitig eine Protokollierung der Parteienvorträge (Reden) bei der Verhandlung selbst stattgefunden. Die Aufrichtung muß bis zum nächsten Stadtrechte geschehen, späterhin gilt hiefür eine Frist von sechs Wochen, welche jedoch sehr selten eingehalten <pb n="S. 8"/> [<quelle url="&drqi;torggler_1927_008.jpg"> => Seite</quelle>] wird. Bei Säumnis erfolgt, wenn sie auf Seite des Appellanten liegt, Deserterkennung (Verfallserklärung) der Appellation, sonst deren Aufrichtung ex offo. Neuerungen sind unbedingt ausgeschlossen.</p>
+<p>Die Appellation wird dann samt einem <quelle url="&drwlemma;apostelbrief">Apostelbrief</quelle> dem Appellanten zur Vorlage an den verordneten Ausschuß der Kärntner Stände (als der Herren der Stadt seit der Schenkung Maximilians I. vom <datum wert="1518-04-24">24. April 1518</datum>) übergeben. Er muß die schriftliche Erledigung innerhalb sechs Wochen bringen oder sonst einen Schub (Fristerstreckung) bei den Verordneten erwirken. Der weitere Rechtszug geht an die niederösterreichische Regierung nach Wien (seit 1564 an jene in Graz) und zeigt das diesbezügliche Verfahren keine Besonderheiten.</p>
+<p>Als eine Art außerordentliches Rechtsmittel dient die Beschwerde, welche gesetzlich nicht geregelt ist.</p>
+<p>Revision als außerordentliches Rechtsmittel wird gelegentlich in jenen Fällen erwähnt, in denen Appellation unzulässig ist, also insbesondere in Gewaltsachen.</p>
+<p>Häufig findet sich bei Versäumung von Fristen, Auffindung von neuen Beweismitteln und in ähnlichen Fällen die <quelle url="&drwlemma;restitution">Restitution</quelle> (Wiedereinsetzung in den früheren Stand). Die Befugnis zur Restitutionserteilung wird ursprünglich sowohl von den Verordneten als auch vom Landesfürsten in Anspruch genommen; durch das kaiserliche Generale vom <datum wert="1623-01-06">6. Jänner 1623</datum> wird sie jedoch zu einem ausschließlich landesfürstlichen Rechte erklärt. Das Verfahren bei derselben ist jenes der gemeinrechtlichen Praxis und insbesondere im erwähnten Generale geregelt.</p>
+    <p>Ist Behebnus erteilt oder das Urteil unappelliert geblieben, so kann der Kläger bis zum nächsten Stadtrechte in der Weise Exekution führen, daß er auf Güter des Gegners unter Zuhilfenahme des Fronboten weist, welcher Vorgang in der Gerichtssprache <quelle url="&drwlemma;aufweisung">Aufweisung</quelle> heißt. Damit ist eine Besitzentziehung nicht verbunden. Im nächsten Stadtrechte hat der Betreibende durch den Fronboten Relation (Bericht) über die aufgewiesenen Güter tun zu lassen und erhält den Gerichtszeugsbrief des ersten Scherms, eine Beweisurkunde über die erfolgte Pfändung, in welcher zugesichert wird, den Gläubiger zu den Stadtrechten zu schützen. Der Gläubiger muß dann die Pfandstücke in vier Stadtrechten öffentlich ausrufen lassen (Pfand fürtragen), wobei dritte Personen ihre Ansprüche einredeweise und zwar auf die Priorität, den gleichen Rang oder das Übermaß (Überteuerung) geltend machen können. Löst der Schuldner bis zum vierten Tage des Pfandfürtragens die Pfandstücke nicht, so wird an diesem Tage dem Betreibenden das Anbot erteilt, das heißt, es werden dem Schuldner die <pb n="S. 9"/> [<quelle url="&drqi;torggler_1927_009.jpg"> => Seite</quelle>] Pfandstücke zur Ablösung angeboten. Erfolgt diese nicht, so wird auf Verlangen des Gläubigers ihm im nächsten Stadtrechte der Stadtscherm erteilt, wodurch er das volle Eigentum an den Pfandstücken erhält. Daran schließt sich die wirkliche Einantwortung durch den Fronboten.</p>
+<p>Der siegreiche Teil kann vom Gegner Ersatz von Kosten und Schaden<note place="foot" n="9">Für einzelne von einer Partei verschuldete Prozeßhandlungen kann diese zum Kostenersatze herangezogen werden.</note> verlangen. Die Taxierung der Expens (unter welchem Begriff Kosten und Schaden zusammengefaßt werden) erfolgt bei Klagsabweisung nach deren Rechtskraft, sonst normal erst nach Erteilung des Stadtscherms. Erfüllt aber der Schuldner vorher, so muß der Gläubiger im nächsten Stadtrechte seine Expens einbringen, nach Anbotserteilung sogar noch im selben Stadtrechte. Der Expenszedl wird dem Gegner zur Einbringung seiner Einwendungen übersandt und erfolgt im nächsten Stadtrechte nach Expenseinbringung die Taxierung.</p>
+<p>Eine besondere Verfahrensart gilt bei landschadenbündigen<note place="foot" n="10">In der Landschadenbundformel verbindet sieh der eine Vertragsteil, dem anderen jeden aus der Nichterfüllung des Vertrages entstehenden Schaden auf dessen schlichtes Wort hin zu ersetzen. Neben dieser Beweiserleichterung gibt die Formel das Recht, sich für den Schaden an der gesamten Habe des Gelobenden schadlos zu halten. Der exekutivische Charakter der Klausel tritt besonders in den älteren Landschadenbundtexten hervor und wurde anscheinend im Laufe der Zeit zu der abgekürzten Verfahrensart der Landrechtsordnung abgemildert. Eine eingehende Untersuchung dieses Institutes wäre sehr wünschenswert (vgl. <quelle url="http://dlib-zs.mpier.mpg.de/mj/kleioc/0010/exec/bigpage/'2085091_35+1914_0073'">Guido Kisch, Pfändungsklausel, "Zeitschrift der Savignystiftung für Rechtsgeschichte, germanistische Abteilung", Bd. 35, S. 41 bis 68</quelle>; <quelle url="">derselbe, Schadennehmen, "Rheinische Zeitschrift für Zivil- und Prozeßrecht", 5. Jahrg., S. 479, Anm 4</quelle> ; <quelle url="&chorinsky_1879;">Chorinsky, Der österreichische Exekutivprozeß</quelle>, S. 19 ff.).</note> Schuldbriefen und bei Klagen auf Lidlohn, worunter sämtliche Lohnansprüche, auch zum Beispiel Ärzte- und Advokatenhonorare, verstanden werden. Hier ergeht gleich auf die Klage ein Geschäft, mit welchem der Gegner aufgefordert wird, innerhalb vierzehn Tagen zu erfüllen oder im nächsten Stadtrechte seine Einwendungen zu erheben. Tut er dies nicht, so wird in diesem Stadtrechte Behebnus erteilt. Im Falle von Einwendungen spielt sich das weitere Verfahren wie im normalen Prozeß ab, jedoch ist bei landschadenbündigen Schuldbriefen die Appellation des Beklagten unzulässig.</p> 
+    <p>Die Kompetenz des Stadtrechtes war auch gegenüber Bürgern keine ausschließliche, mindestens seit Gerichtsprotokolle in Klagenfurt erhalten sind, also seit 1536. Es konnte aber der Bürger, wenn er im Stadtgerichte geklagt wurde, die Antwort verweigern und sich auf das Stadtrecht ziehen. Die Zuständigkeit des Stadtgerichtes ist wahrscheinlich aus mehreren Wurzeln entstanden, wenn sich auch Genaues mangels jeglichem urkundlichen Belege über das Klagenfurter Gerichtsverfahren im Mittelalter nicht feststellen läßt. Gegenüber Inwohnern war anscheinend &mdash; seit diese überhaupt einer städtischen Gerichtsbarkeit unterstanden &mdash; das Stadtgericht immer zuständig, ebenso, hinsichtlich Klagen gegen Bürger mit einem Streitwerte unter 10 fl. Dagegen hat sich seine Kompetenz in sonstigen Rechtsstreitigkeiten gegen Bürger wohl erst im Laufe der Zeit entwickelt, und zwar einerseits auf Grund der Zwangsgewalt des Richters, durch welche er die Bürger zum Erscheinen vor seinem Gerichte &mdash; wenn auch nicht zur Anerkennung seiner Zuständigkeit &mdash; zwingen konnte, anderseits auf Grund der freiwilligen Unterwerfung unter die Entscheidung des Stadtgerichtes, welche im ältesten Gerichtsprotokoll öfters erwähnt wird.<pb n="S. 10"/>[<quelle url="&drqi;torggler_1927_010.jpg"> => Seite</quelle>]</p> 
+<p>Das Verfahren im Stadtgerichte, auf welches hier leider nicht näher eingegangen werden kann, ist bedeutend mehr von der gemeinrechtlichen Praxis beeinflußt als jenes im Stadtrechte. Es spielt sich im allgemeinen schneller ab als das im Stadtrechte und ist besonders charakterisiert durch starke Anwendung des Mandatverfahrens.</p> 
+<p>Das Stadtrechtsverfahren hat im Laufe der Zeit nachweisbar in einigen Punkten Änderungen erlitten. Schon in der Zeit nach 1579 sind keine Stadtrechte mehr nachweisbar, weil dieses schwerfällige und zeitraubende Verfahren (es fanden im Jahre durchschnittlich höchstens vier bis sechs Stadtrechte statt, wodurch schon der gewöhnliche Prozeß ohne Streit von der Klagseinbringung bis zur Stadtschermerteilung zwei bis drei Jahre dauerte) wenig beliebt war. Auf Wunsch des Stadtrates bewilligten jedoch die Verordneten im Jahre 1587 die Wiederabhaltung der Stadtrechte und zeigt, sich in den nächsten Jahren sogar eine gewisse gesetzgeberische Tätigkeit des Rates, die sich in der Erlassung einer Reihe von Satzungen äußert, welche die Art und Zeit der Appellationsführung in Konkurssachen, die Abhaltung der Versteigerungen im Stadtrechte, die Form des gütlichen Ersuchens, die erleichterte Vollmachtserteilung zwischen Ehegatten regeln und in den Protokollen durch den Beisatz  "ist beschlossen" oder "statuiert" gekennzeichnet sind. Sie werden im Anhange mitgeteilt.</p> 
+    <p> Das Wichtigste unter diesen Neuerungen ist die Verlegung der Liegenschaftsversteigerung in das Stadtrecht. Während im allgemeinen in Innerösterreich im Exekutionsverfahren das Prinzip des Pfandverfalles herrscht, hat sich in Klagenfurt im. Konkursverfahren auf nicht mehr erweisbare Weise der Gerichtsbrauch ausgebildet, Liegenschaften mittels Aufrufes am öffentlichen Platze um einen ungefähren Preis durch den Fronboten versteigern zu lassen, welches Verfahren den Namen <quelle url="&drwlemma;kantorecht">Cantorecht</quelle> führte. Anläßlich der Wiedereinführung der Stadtrechte wurde das Konkursverfahren ins Stadtrecht verlegt, allerdings ohne dauernde Wirkung, da sich die konkurrierende Zuständigkeit des Stadtgerichtes erhielt und schon gegen 1597 auf diesem Gebiete das schwerfällige Stadtrechtsverfahren wieder verdrängte. Im Zusammenhang mit der Überleitung des Konkursvorfahrens in das Stadtrecht wurde am <datum wert="1588-05-24">24. Mai 1588</datum> beschlossen, das Cantorecht fortan unter schwebendem Stabe im Stadtrechte abzuhalten, wobei dieses um vier Uhr nachmittags sein Ende zu finden hatte. Diese Regelung hat sich erhalten und erfolgte die Versteigerung in der Weise, daß die Liegenschaft dreimal an verschiedenen Tagen im Stadtrechte ausgerufen und erst am letzten Tage dem Meistbietenden der Zuschlag erteilt wurde. Daran anknüpfend entwickelte sich ziemlich rasch im Wege des <pb n="S. 11"/>[<quelle url="&drqi;torggler_1927_011.jpg"> => Seite</quelle>] Gerichtsbrauches eine Befugnis der betreibenden Gläubiger, auch außerhalb des Konkurses bei Liegenschaften an Stelle des Stadtscherms die Versteigerung im Canto zu begehren. Hievon wurde insbesondere bei allzu hoher Schätzung im Stadtgerichte bzw. &mdash; seit sich die Schätzung für das Stadtrechtsverfahren eingebürgert hatte &mdash; im Stadtrechte Gebrauch gemacht. Klagenfurt hat hier in allem Anscheine nach selbständiger Entwicklung eine Befriedigungsart ausgebildet, zu der das übrige Innerösterreich erst durch die Justizreformen Josefs II. gelangte. Allerdings wurde das Cantorecht bereits durch Landtagsbeschluß vom <datum wert="1643-07-28">28. Juli 1643</datum> als dem allgemeinen Gerichtsgebrauche widersprechend beseitigt und fand die Versteigerung für Fahrnisexekutionen überhaupt nie Anwendung.</p> 
+<p>Weiterhin zeigen sich im Stadtrechtsverfahren, ebenso wie im Landrechte, Tendenzen, das Anwendungsgebiet der Urteile, gegen welche, wie erwähnt, Appellation nach dem Urteilsvorschlage des ersten Rechtsprechers ergriffen werden mußte, einzuschränken. Es werden daher, und zwar ungefähr nach <datum wert="1610">1610</datum>, die Zwischenentscheidungen in immer größerem Umfange im Wege von Bescheiden oder Abschieden gefällt, gegen welche die Beschwerde bzw. die Appellation ohne jene beengende Formvorschrift zulässig war. Nach <datum wert="1640">1640</datum> erfolgt im Appellationsverfahren die Entscheidung häufig in einem Verhöre vor den Verordneten, also durch ein mündliches an Stelle des schriftlichen  Berufungsverfahrens.</p> 
+    <p>Ferner bürgert sich der Brauch ein (erstmals am <datum wert="1606-02-27">27. Februar 1606</datum> nachweisbar, auch hier wahrscheinlich analog dem Landrechte), daß die Expensen schon vor der Stadtschermerteilung taxiert werden. Einem Hauptmangel des Verfahrens, daß in keinem Stadium der Exekution eine Schätzung stattfindet und der Betreibende nur im allgemeinen angehalten wird, nicht übermäßig aufzuweisen, wird ungefähr um dieselbe Zeit im Anschluß an eine Neuerung im Landrechtsverfahren abgeholfen. Hier war nämlich durch eine landesfürstliche Resolution vom <datum wert="1606-02-19">19. Februar 1606</datum> die Schätzung obligatorisch gemacht und in die Zeit nach erteiltem <quelle url="&drwlemma;landschirm">Landscherm</quelle> verlegt worden, wodurch indirekt auch das Recht des Schuldners, den Überschuß über die Forderung des Gläubigers samt Anhang herauszubekommen<note place="foot" n="11">Theoretisch hat dieses Recht immer bestanden, doch konnte der Schuldner bei einer unteilbaren Sache den Gegner nicht zum Pfandverkaufe zwingen und wurde daher erst dann ein Überschuß frei, wenn der Gläubiger das Pfand freiwillig veräußerte.</note>, gesichert wurde. Diese Neuerung fand bald auch im Stadtrechte Anwendung; erstmals ist sie am <datum wert="1617-11-27">27. November 1617</datum> nachweisbar.</p> <p> Von großer Bedeutung war schließlich der Umstand, daß seit dem Jahre <datum wert="1603">1603</datum> die Stadt ständig zwei Landschrannenadvokaten besoldet, damit diese den Stadtrechten beiwohnen und sonst der Stadt in Rechtssachen mit Rat und Tat beistehen. Dadurch wurde zweifellos der Anschluß an die Praxis des Landrechtes sehr <pb n="S. 12"/>[<quelle url="&drqi;torggler_1927_012.jpg"> => Seite</quelle>] gefördert, wenn auch die Beeinflussung begreiflicherweise im einzelnen nicht nachweisbar ist. Im Jahre 1619 versuchte man das Zwangsvollstreckungsverfahren zwecks größerer Publizität dieser Vorgänge ganz in das Stadtrecht zu verlegen, was allerdings an einer Entscheidung der Regierung aus dem Jahre 1622 scheiterte. Auch die Maßregel, alle Klagen über 10 fl. in das Stadtrechtsverfahren zu verweisen (Beschluß des Rates vom <datum wert="1639-03-15">15. März 1639</datum>), hatte keinen dauernden Erfolg. Vielmehr nahm trotz all dieser Reformen die Beliebtheit des Stadtrechtes ständig ab, da die Schwerfälligkeit des Verfahrens die Parteien abschreckte. Eine künstliche Nachblüte feierte es nur, als ein findiger Advokat im Stadtgerichte wieder die Einwendung, daß für Bürger nur das Stadtrecht zuständig sei, zur Anwendung brachte. Es geschah dies in den Jahren nach 1670, führte aber, da zahlreiche Parteien sich beschwerten, schließlich dazu, daß die Stände am <datum wert="1680-01-23">23. Jänner 1680</datum> zwar die weitere Abhaltung der Stadtrechte gestatteten, doch es dem Kläger freistellten, ob er im Stadtrechte oder vor dem Stadtgerichte klagen wolle. Damit war dem ersteren Verfahren die letzte künstliche Stütze entzogen und läßt sich von diesem Zeitpunkte an die Abhaltung von Stadtrechten nicht mehr nachweisen.</p> 
+<p>Zusammenfassend ergibt sich folgendes Bild: Das Stadtrecht ist das alte Gericht der Klagenfurter Vollbürgergemeinde. Es hält an den deutschrechtlichen Grundsätzen der Scheidung zwischen Urteiler und Richter, der Unscheltbarkeit eines ausgegebenen Urteiles sowie überhaupt an den aus dem Mittelalter überlieferten Verfahrensformen zähe fest, wobei das Vorbild des Landrechtes von ausschlaggebender Bedeutung ist. Es verliert mit der Entwicklung des sich stärker an das gemeine Recht anlehnenden Stadtgerichtsverfahrens immer mehr an Bedeutung und stirbt ab, als den Bürgern das Recht entzogen wird, den Gerichtsstand vor dem Stadtrechte verlangen zu können.</p> 
+<p>Was die Frage der Abfassungszeit des gereimten Stadtrechtes anlangt, so dienen als Anhaltspunkte für den Termin, vor welchem es nicht entstanden sein kann, nachstehende Umstände:
+    <list type="ordered"><item>Dem Verfasser ist die <quelle url="&kaerntlro_1577;">Landrechtsordnung von 1577 (Druck von 1578)</quelle> vorgelegen.<note place="foot" n="12">V. 37, hinsichtlich Abnehmung der Tage bei Nichteinhaltung der Ladungsvorschriften, bezieht sich auf <quelle url="&kaerntlro_1577;&amp;fs=Art.+5+2">Lro. Art. 5, Abs. 2</quelle>, da Ampfinger hierüber nichts erwähnt. Ebenso bezieht sich V. 52 auf <quelle url="&kaerntlro_1577;&amp;fs=Art.+6+1">Lro. Art. 6, Abs. 1</quelle>, während Ampfinger die Vorschrift, daß die Klage nur einen Hauptpunkt haben dürfe, nicht hat.</note></item>
+        <item>Das Cantorecht findet im Stadtrechte statt (Vers 169 bis <pb n="S. 13"/>[<quelle url="&drqi;torggler_1927_013.jpg"> => Seite</quelle>] 174), was erst seit dem <datum wert="1588-05-24">24. Mai 1588</datum> der Fall ist (vgl. Seite 10).</item>
+<item>Nach Vers 65 bis 74 kann die Erteilung des <quelle url="&drwlemma;gewaltsame">Gewaltsames</quelle> schriftlich oder vor dem
+Stadtrechte erfolgen. Aus den Protokollen läßt sich die erste Erteilung eines schriftlichen Gewaltsames am <datum wert="1591-10-15">15. Oktober 1591</datum> (Seite 5) nachweisen.</item>
+<item>Die Expenstaxierung soll vor der Stadtschermerteilung erfolgen. Nach der ursprünglichen Praxis (Seite 9) erfolgen die Taxierungen normal nach dem Stadtscherme, erstmals am <datum wert="1606-02-27">27. Februar 1606</datum> (Seite 11) vorher.</item></list></p>
+<p>Zur Bestimmung des Zeitpunktes, nach welchem das Stadtrecht nicht niedergeschrieben worden sein kann, dient folgendes:
+<list type="ordered"><item>Vers 113 bis 128 behandelt ausschließlich die Restitutionserteilung durch die Verordneten; dies wäre nach Erlassung des Generales vom <datum wert="1623-01-06">6. Jänner 1623</datum> (Seite 8) unmöglich gewesen und wurde tatsächlich die letzte Restitution seitens der Verordneten nach den Protokollen im Jahre 1611 erteilt.</item>
+<item>Die Möglichkeit einer Schätzung im Zuge der Exekution wird im gereimten Stadtrechte nirgends erwähnt, sondern nur zweimal betont, daß man nicht zuviel aufweisen solle (Vers 145 ff.) und sich nicht mehr zu eigen machen könne (Vers 186 ff.), als was Hauptsache samt Anhang ausmache. Die obligatorische Schätzung (vgl. Seite 11) ist erstmals am <datum wert="1617-11-27">27. November 1617</datum> nachweisbar und bürgert sich in den nächsten Jahren rasch ein.</item></list></p>
+<p>Daraus ergibt sich, daß die Abfassung in den Jahren 1606 bis 1617 erfolgt sein muß.</p>
+<p>Die Person des Verfassers ist in Dunkel gehüllt, doch glaube ich auch diesbezüglich eine Hypothese wagen zu können. Mit Sicherheit ist anzunehmen, daß der Autor ein Bewohner der Stadt Klagenfurt war, der über ziemliche Rechtskenntnisse verfügte. Trotzdem halte ich es für ausgeschlossen, daß er ein Rechtsgelehrter war, weil ein Landschrannenprokurator ader eine andere juristisch geschulte Persönlichkeit sich wohl kaum herbeigelassen hätte, den zähen Stoff in derben Knittelversen zu behandeln, sondern eher ein schwulstiges Latein angewendet haben würde<note place="foot" n="13">Über derartige dichterische Versuche des <name type="person">Johann Haiden</name>, Sekretärs bei der Landeshauptmannschaft in Klagenfurt, vgl. <quelle url="">Menhardt, Ein Klagenfurter Weihnachtsspiel von 1617 ("Carinthia I", 1923, S. 51 bis 59)</quelle>.</note>. Daran können auch die nicht allzu zahlreichen Ausdrücke aus der gemeinrechtlichen Gerichtssprache, soweit sie lateinischer Herkunft sind, meines Erachtens nichts ändern, da sich diese jeder Laie aneignen konnte, der öfters Gelegenheit hatte, Verhandlungen vor dem Stadtrechte beizuwohnen.</p>
+    <p>Nun zeigt das gereimte Stadtrecht große Ähnlichkeit mit einer anderen, ungefähr um dieselbe Zeit entstandenen Arbeit, <pb n="S. 14"/>[<quelle url="&drqi;torggler_1927_014.jpg"> => Seite</quelle>] mit der bekannten von Khull (<quelle url="">Archiv für vaterländische Geschichte und Topographie, 18. Jahrgang, Klagenfurt 1897, Seite 73 bis 111</quelle>) herausgegebenen Reimchronik von Klagenfurt. Die holperigen Verse, die unbeholfene Sprach- und Reimtechnik, die mundartliche Färbung und die eingestreuten lateinischen Fachausdrücke, wie sie damals wohl auch der Halbgebildete anwandte, lassen sich in beiden Werken in gleichem Ausmaße feststellen<note place="foot" n="14">Ohne eine eingehendere Untersuchung anstellen zu wollen, möchte ich auf die Endreime in Reimchronik V. 771 und 772 ( ankomben &md; Sumen), V. 1087 und 1088 (Sumen &md; komen) einerseits, Stadtrecht V. 195 bis 197 (sumen &md; khomen) anderseits oder auf Reimchronik V. 899 und 900 (verriechen &md; gesechen), Stadtrecht V. 39 und 40 (veriechen &md; beschechen) hinweisen.</note>. Meines Erachtens ist es daher kaum allzu gewagt, im Verfasser der Reimchronik und des gereimten Stadtrechtes ein und dieselbe Person zu vermuten: Der Autor der Reimchronik verfügt neben einigen recht oberflächlichen Kenntnissen hinsichtlich zeitgenössischer Ereignisse über ein sehr ansehnliches Wissen bezüglich der älteren Geschichte seiner Vaterstadt<note place="foot" n="15">Hier kommt insbesondere die genaue Darstellung der Schenkung und der Einnahme durch die Stände (V. 49 bis 172) in Betracht.</note>, und zwar auch aus Zeiten, von denen er nicht alles durch mündliche Tradition erfahren haben konnte. Man muß daher annehmen, daß er Einblick in das städtische Archiv gehabt hat, und würde dies in erster Linie auf einen Stadtschreiber als Verfasser hindeuten. Es trifft dies jedoch kaum zu. Der Autor der Reimchronik lebte nach der Gegenreformation in Klagenfurt, ist aber, wie seine Bemerkung über die Geistlichkeit<note place="foot" n="16">Bischof von Seckau V. 705 bis 708, Jesuiten V. 839 bis 842.</note>, die Darstellung der Gegenreformation von 1604<note place="foot" n="17">V. 789 bis 826.</note>, die Schilderung des Zusammenstoßes zwischen <name type="person">Propst Latomus</name> und <name type="person">Stadtrichter Winkler</name><note place="foot" n="18">V. 895 bis 934.</note> und sein warmes Lob auf <name type="person">Franz von Khevenhüller</name><note place="foot" n="19">V. 1007 bis 1016.</note> zeigen, wohl stets wie die meisten seiner Mitbürger ein heimlicher Protestant geblieben. Nun mußte der damalige Stadtschreiber <name type="person">Jodok Koch</name> 1604 als Protestant auswandern und wurde in seinem früher niemals erwähnten Nachfolger <name type="person">Primus Hauer</name> sicher ein verläßlicher katholischer Parteigänger auf diesen einflußreichen Posten befördert. Es scheiden daher beide aus dem Kreise der möglichen Verfasser aus. Dagegen ist es sehr wahrscheinlich, daß der Autor ein Mitglied des Rates war und so vermöge seiner Stellung sowohl Einblick in die für die Verfassung der Reimchronik nötigen Urkunden hatte, als auch sich die für die Verfassung des Stadtrechtes erforderlichen Kenntnisse des Verfahrens in seiner amtlichen Tätigkeit als Beisitzer erwarb.</p>
+    <p>Den einzigen sicheren Anhaltspunkt über die Lebenszeit des Verfassers enthalten zwei Stellen der Reimchronik (Vers 900, 1042), nach welchen er Ereignissen der Jahre 1606 und 1608 als Augenzeuge beiwohnte. Er dürfte zwischen 1540 und 1560 geboren worden sein, da er eine Reihe von Begebenheiten, insbesondere Elementarereignisse aus der ersten 1. Hälfte des 16. Jahrhunderts, in einer Art und Weise schildert, als ob er sie aus den Erzählungen seiner Kindheit oder teilweise aus eigener Wahrnehmung kennen würde<note place="foot" n="20">Feuersbrunst 1535 V. 219 bis 226, 1536 V. 227 bis 236, massenhaftes Auftreten von Kröten 1541 V. 337 bis 349, von Heuschrecken 1342 V. 351 bis 384 usw.</note>. Zur Zeit der Abfassung seines Werkes<note place="foot" n="21">Die Schlußbemerkungen bei den Jahren von 1605 an (V. 862, 936, 1016, 1044) weisen darauf hin, daß die Chronik damals schon bis zur Gegenwart fortgeführt worden war. Der Chronist glaubte dann, einen passenden Endpunkt für seine Darstellung im Freischießen von 1608 zu finden, und schloß seine Erzählung mit V. 1232 ab, worauf schon <quelle url="">Khull a.a.O. S. 74</quelle> hinwies. Ich vermute, daß der Verfasser bald nach dem Schießen seine Arbeit vollendete und dann zunächst noch die Darstellung der Feuersbrunst vom 26. Oktober 1608 hinzufügte, welche er wieder mit einem passenden Schlußvers abschloß (V. 1244). Darauf machte er nach und nach die weiteren Zusätze.</note> fühlt er bereits sein Ende herannahen (Vers 1231f., <pb n="S. 15"/>[<quelle url="&drqi;torggler_1927_015.jpg"> => Seite</quelle>] 1243 f.) und ist er mit seiner Arbeit offensichtlich nicht fertig geworden, da die in den Schlußversen 1355 ff. angekündigte Darstellung der Feierlichkeiten bei der Krönung des <name type="person">Erzherzogs Matthias</name> zum König von Ungarn im Jahre 1612 fehlt.</p>
+<p>Hier glaube ich nun an eine aus dem 17. Jahrhundert stammende Notiz anknüpfen zu können, welche die Reimchronik mit dem Namen <name type="person">Paul Khepiz</name> <note place="foot" n="22">Die Schreibart dieses Namens wechselt in den Rats- und Zunftprotokollen, Sterbe- und Taufbüchern zwischen Khepiz, Kheppiz, Kepiz, Köpitz, Kepitz. Ich halte mich an die Schreibweise Khepiz, wie sie im Testamente der Magdalena Khepiz (zwischen 1627 und 1629) und des Ratsbürgers Christoph Khepitz (26. Mai 1640, von ihm eigenhändig gefertigt) vorkommt (beide im Stadtarchiv). Die Familie zählte im 16. und 17. Jahrhundert in Klagenfurt zahlreiche Mitglieder, die Lederer, Hutmacher, zumeist aber Bäckermeister sind, und starb Ende des 18. Jahrhunderts in männlicher Linie aus.</note> in Verbindung bringt<note place="foot" n="23">Es sind dies die in Hs. 5/7 (200 alt) des Geschichtsvereines für Kärnten enthaltenen, "Extract auß Paul Kheppizen Clagenfurtherischen Chronikh" betitelten Prosaauszüge, welche der Schrift nach gegen Ausgang des 17. Jahrhunderts niedergeschrieben wurden. An sie schließen ein weiterer gleichlautender Prosaauszug und jene Chronikfragmente, welche <quelle url="">Khull a.a.O.</quelle> als Handschrift B bezeichnet, an. Beide weisen jedoch die Schriftzüge des späten 18. Jahrhunderts auf und ist diesbezüglich die Darstellung <quelle url="">a.a.O.</quelle> richtigzustellen.</note>. Eine Person dieses Namens existierte, ist aber nach den über ihr Leben vorhandenen Daten<note place="foot" n="24">Paul Khepiz ist nach dem Zunftprotokoll des Bäckerhandwerkes (Geschichtsverein, Hs. 1207) ein Sohn des Bäckermeisters und späteren Ratsbürgers Hans Khepiz, somit ein Enkel des noch zu erwähnenden Lorenz Khepiz. Seine Geburtsdaten lassen sich nicht feststellen, da die Taufbücher von 1600 bis 1633 fehlen. 1624 wird er von seinem Vater als Lehrjunge aufgedingt und als Meistersohn schon 1625 ledig gesprochen. Er vergleicht sich 1647 mit dem Bäckerhandwerk hinsichtlich der Wanderschaft, wird am 1. Dezember 1647 als Mitknecht aufgenommen und noch im selben Monat Meister, nachdem er am 6. Dezember 1647 Bürger geworden. Am 12. Juni 1649 prozessiert er mit dem Bäckerhandwerk, welches ihm nach dem Tode seines Vaters dessen Laden zugesichert hatte. Im Jahre 1650 spricht er bereits seinen Sohn Johannes frei und ledig.</note> keineswegs der Verfasser. Höchstens hat Paul Khepiz die Chronik durch die Verse erweitert, welche außerkärntnerische Ereignisse behandeln, im Drucke von 1790<note place="foot" n="25">Über den Druck (D) und dessen Verhältnis zur Handschrift B vgl. <quelle url="">Khull a.a.O. S. 74</quelle>.</note> fehlen und auch in den Prosaauszügen nicht benützt sind. Wohl aber passen alle obenerwähnten Umstände sowohl hinsichtlich der zeitlichen Entstehung des Stadtrechtes und der Reimchronik als auch hinsichtlich Alter und Stellung ihres Verfassers auf ein anderes Mitglied der Familie Khepiz, den Bäckermeister und Ratsherrn <name type="person">Lorenz Khepiz</name><note place="foot" n="26">Die folgenden Daten sind, soweit nichts anderes bemerkt, den Gerichtsprotokollen und Taufbüchern entnommen.</note>, den Großvater des Paul Khepiz.</p>
+    <p>Sein Geburtsdatum ist unbekannt, er wird am <datum wert="1581-04-15">15. April 1581</datum> Bürger, was nach der damaligen Übung, nur jene als Bürger aufzunehmen, die ein eigenes Haus hatten und verheiratet waren<note place="foot" n="27">Gerichtsprotokoll 1581, Fol. 82, 1601, Fol. 182; Bürgermeisteramtsprotokoll 1609, Fol. 85, 1614, Fol. 216. Statt Erwerbung eines Hauses genügte es, eine entsprechende Geldsumme gegen Verzinsung bei der Stadt anzulegen. Meister konnte man erst nach Erwerbung des Bürgerrechtes werden (Bürgermeisteramtsprotokoll 1614, Fol. 197).</note>, auf ein Alter von ungefähr fünfundzwanzig bis dreißig Jahren hindeutet. Im Jahre 1591 war er jedenfalls schon Bäckermeister, da er seinen Sohn Christoph als Lehrling aufdingt<note place="foot" n="28">Hs. 1207 des Geschichtsvereines für Kärnten.</note>. Er erscheint weiters seit 1604 als Mitglied des äußeren Rates, ist im Jahre 1612 Viertelmeister am Völkermarktertor, wird am <datum wert="1612-08-02">2. August 1612</datum> Mitglied des inneren Rates, jedoch schon im <datum wert="1613-06">Juni 1613</datum> anläßlich der Richterwahl von der Gmain herausgenommen. Am <datum wert="1614-07-29">29. Juli 1614</datum> hat er noch gelebt, muß aber vor Jahresschluß gestorben sein, da am Quatembersonntag vor Weihnachten 1614 seiner Witwe Elena (richtiger Magdalena) das Backen gestattet wird, solange sie im Backhause bleibt<note place="foot" n="28">Hs. 1207 des Geschichtsvereines für Kärnten.</note>. Er war zweimal verheiratet und hatte, soweit dies aus den Taufbüchern und dem Testamente seiner zweiten Frau Magdalena nachweisbar ist, insgesamt elf oder zwölf Kinder, von denen ihn neun überlebten. Er muß eine angesehene Stellung in der Bürgerschaft eingenommen haben, da seine ältesten Kinder von Mitgliedern der damals ersten Klagenfurter Bürgerfamilie Windisch, so vom Bürgermeister <name type="person">Christoph Windisch</name>, aus der Taufe gehoben werden und unter den Taufpaten seiner späteren Sprößlinge der Bürgermeister <name type="person">Georg Grinz</name> aufscheint. Bemerkenswert ist auch, daß er mit der Familie des Landschrannenadvokaten <name type="person">Hans Kraus</name>, des Mitverfassers der Kärntner Landrechtsordnung von 1577 und Autors einer Darstellung des Landrechtsprozesses, in Beziehungen stand<note place="foot" n="29">Dessen Gattin Ursula und ihr zweiter Mann, der Landschrannenprokurator <name type="person">Georg Zechner</name>, sind Taufpaten bei drei der jüngsten Kinder des <name type="person">Lorenz Khepiz</name>.</note>. Alle diese Umstände machen es sehr wahrscheinlich, <pb n="S. 16"/>[<quelle url="&drqi;torggler_1927_016.jpg"> => Seite</quelle>] in <name type="person">Lorenz Khepiz</name> den Verfasser der Reimchronik und des gereimten Stadtrechtes zu sehen.</p>
+<p>Im folgenden wird die einzige erhaltene Handschrift des gereimten Stadtrechtes wiedergegeben werden. Hiebei werden die damals gebräuchlichen Wortkürzungen aufgelöst, die Interpunktionen nach modernen Grundsätzen gesetzt und große Anfangsbuchstaben nur bei Eigennamen verwendet, während in der Handschrift jede Zeile mit einem großen Anfangsbuchstaben beginnt und mit einem Beistrich endet. Im übrigen halte ich mich streng an die Schreibweise der Handschrift und werden offensichtliche Schreibverstöße derselben in den Anmerkungen richtiggestellt. Ebenso wird bei den einzelnen Artikeln in Anmerkungen auf die jeweils einschlägigen Artikel der Landrechtsordnung von 1577 verwiesen und aus Zweckmäßigkeitsgründen auch eine Numerierung der Verse vorgenommen.</p>
+<p>Im Anhange folgen die mit den nötigsten Erläuterungen versehenen Statuten, welche den Stadtrechtsprotokollen entnommen sind.</p></div>
+<div id="Text">    
+<head>Dass lobliche stattrecht zu Clagenfurt.</head>
+<p>
+	<list>
+	<item n="1">Anfengklich wird menniglich alda gewisen,</item>
+	<item n="2">damit man sey also wol beflissen,</item>
+	<item n="3">löbliche landtrechtsordnung zu obseruiren,</item>
+	<item n="4">darnach sich das statrecht thut reguliren.</item>
+	<item n="5">[5] Aber doch so merkh man nebens frey,</item>
+	<item n="6">das in vill sachen ein undterschid sei.</item>
+	<item n="7">Umb landgüeter unndt gülten man aldort procedirt,</item>
+	<item n="8">im statrechten aber ein andern modum führt.</item>
+	<item n="9">Alda man procediren und klagen thuet</item>
+	<item n="10">[10] umb gründ und anders burgerlichs gut.</item>
+	<item n="11">Last sich nit alles auf landrechtsordnung dirigirn,</item>
+	<item n="12">darumb soll man nachfolgendt articl obseruirn.</item>
+	</list>
+</p>	   
+</div>
+
+<div id="A.1">
+    <head>Der erste artickl von guetlichen ersuchen.</head>
+    <p><note place="foot" n="30">Das gütliche Ersuchen wird weder bei Ampfinger noch in der Lro. erwähnt, war aber im Landrecht ebenfalls üblich, wie sich aus Kraus, Fol. 3, ergibt.</note></p>
+    <p>
+    <list>
+	<item n="13">Wer im stattrechten jemandt klagen will,</item> 
+	<item n="14">es sey umb gründ oder böden vill,</item>
+	<item n="15">[15] erbschafft, hauss, hof, raitung und schulden,</item> 
+	<item n="16">der muess sich wennigst 8 tag gedulden,</item>
+	<item n="17">ein guetlichs ersuechen aufs papier mallen. </item>
+	<item n="18">Vielleicht wird der schuldner vor der klag bezallen.</item>
+	<item n="19">8 tag vor den statrechten schickh ihms zu handt,</item>
+	<item n="20">[20] allso hat es auch ein gleichmässigen verstand</item>
+	<item n="21">mit übersendung der ladung dein,</item>
+	<item n="22">verkhindt schreiben oder was es mag sein.</item> 
+        <pb n="S. 17"/>[<quelle url="&drqi;torggler_1927_017.jpg"> => Seite</quelle>]
+	<item n="23">Anzüg und citationes auch darneben</item>
+	<item n="24">muss man den gegenthail fleissig übergeben.</item>
+	<item n="25">[25] Weiter ist allda zu mörckhen frey</item>
+	<item n="26">wenn es ausser des burgkhfridts sey,</item>
+	<item n="27">vierzechen tage bringt mit sich die zeit,</item>
+	<item n="28">ferrer es auch khain anstandt leidt.</item>
+	<item n="29">Wirt die ladung aber gesannt ausser landt,</item>
+	<item n="30">[30] 6 wochen termin sei dir bekhandt.<note place="foot" n="31"><quelle url="&kaerntlro_1577;&amp;fs=Art.+3">Lro. Art. 3</quelle> hat die gleiche Frist von 14 Tagen innerhalb des Landes, von 6 Wochen in Steiermark, Krain und Tirol, von 12 Wochen im dritten Lande und von 18 Wochen im vierten Lande von Kärnten.</note></item> 
+	<item n="31">Wellichen aber obbestimbte zeit</item>
+	<item n="32">nit in gueter gedächtnus leith</item>
+	<item n="33">oder dieselbe mit obseruiren wöllen,</item>
+	<item n="34">die tag kan man gar leichtlich stehlen</item>
+	<item n="35">[35] oder, dass ich gar deutlich sag,</item>
+	<item n="36">zur entrathung begern die klag,</item>
+	<item n="37">wie es in der lanndtsrechtsordnung ist angedeut<note place="foot" n="32"><quelle url="&kaerntlro_1577;&amp;fs=Art.+5+2">Lro. Art. 5, Abs. 2</quelle>.</note>,</item> 
+	<item n="38">dieselbig macht gar munter leuth.</item>
+	<item n="39">Thue auch beinebens alhie veriechen:</item>
+	<item n="40">[40] Das ersuchen mag auf zweierlei mitl beschechen.</item>
+	<item n="41">Man mag schickhen zu obbenanter zeit</item>
+	<item n="42">zum gegenthaill 2 guet ehelich leith,</item>
+	<item n="43">damit aber in sachen nit werd excifirt (so!),</item>
+	<item n="44">ist besser, dass es schriftlich verricht wirt.</item></list>
+	</p></div>
+
+<div id="A.2">
+<head>Der ander artickl von klagen.</head>
+    <p>
+<list>
+    <item n="45">[45] Merck weiter, wass ich dier hie sag:</item>
+    <item n="46">Es muess genommen werden ein jede clag</item>
+    <item n="47">aus den güetlich gethannenen zueschreiben</item>
+    <item n="48">und also fein beÿ der ordnung bleiben:</item>
+    <item n="49">[50]<note place="foot" n="Herausgeber">Ab hier müßten die originalen Versbezeichner in der darauffolgenden Zeile stehen, weil Vers 49 irrtümlich als 50 bezeichnet wurde.</note>Auss den ersuchen must nit spaziern gehn,</item>
+    <item n="50">nur ein intent oder punckt mues werden ventilirt,</item>
+    <item n="51">wie in der lanndtrechtsordnung ist inserirt<note place="foot" n="33"><quelle url="&kaerntlro_1577;&amp;fs=Art.+6+1">Lro. Art. 6, Abs. 1</quelle>, <quelle url="&kaerntlro_1577;&amp;fs=Art.+12+5">Art. 12, Abs. 5</quelle>.</note>.</item>
+    <item n="52">Obgleich im ersuchen mehr pünct sein einkhomen,</item>
+    <item n="53">must nur ein intent erzelen in der saumen,</item>
+    <item n="54">[55] damit den gegenthaill nicht ursach thust geben,</item> 
+    <item n="55">wider dich ein exception zuheben.</item>
+    <item n="56">Ist iemandt mit ein schuldbrief vergwist,</item>
+    <item n="57">darin od lanndtschadenbunt begrifen ist,</item>
+    <item n="58">oder einen liedlohn sonst zu begehren,</item>
+    <item n="59">[60] dem thut die ordnung auch dises lehrn.</item>
+    <item n="60">Auf ein gschäfft<note place="foot" n="34"><quelle url="&kaerntlro_1577;&amp;fs=Art.+23">Lro. Art. 23</quelle> (Lidlohn), <quelle url="&kaerntlro_1577;&amp;fs=Art.+24">Art. 24</quelle> (landschadenbündige
+Schuldbriefe).</note> und nit zu tagen</item>
+    <item n="61">muss man im statrechten klagen,</item>
+    <item n="62">des für undt unterpfants sich begeben</item>
+    <item n="63">oder die klag zu tag erheben<note place="foot" n="35"> Ebenso <quelle url="&kaerntlro_1577;&amp;fs=Art.+24+2">Lro. Art. 24, Abs. 2</quelle>.</note>.</item>
+</list></p></div>
+
+<div id="A.3">
+<head>Der dritte artickl von gewaltsämben.</head>
+    <p><note place="foot" n="36">Vgl. <quelle url="#Note3">Anm. 3</quelle>.</note></p>
+    <p>   
+    <list>
+	   <item n="64">[65] Ferner schreibt man in sachen davon,</item>
+	<item n="65">das in statrechten mag ein jede person</item>
+        <pb n="S. 18"/>[<quelle url="&drqi;torggler_1927_018.jpg"> => Seite</quelle>] 
+	<item n="66">selbst persönlich klagen und procediren</item>
+	<item n="67">oder ein gewaltstrager substituiren,</item>
+	<item n="68">den gwaltsamb aindtweder schriftlich zustellen</item>
+	   <item n="69">[70] oder die ergreifung des grichtsstab erwellen.</item> 
+	<item n="70">Ain ordentlicher gwaltstrag ist zuglassen,</item> 
+	<item n="71">affter gewalt zu geben doch sollicher massen, </item>
+	<item n="72">dass es nach erkhantnuss der beisizer gschiht,</item>
+	<item n="73">alss dan khan man excipiren nicht.</item></list></p></div>
+
+<div id="A.4">
+<head>Der vierdte artickl.</head>
+    <p>
+<list>
+    <item n="74">[75] Was undter 10 gulden ist,</item>
+    <item n="75">merkh alhie zu diser frist,</item>
+    <item n="76">im statrechten die klag nit wirt angenomen,</item> 
+    <item n="77">sondern muss für den statrichter khomen</item> 
+    <item n="78">unndt aldort abschidts dich erholen.</item>
+    <item n="79">[80] Dises ich auch beinebens anzeigen wolen:</item>
+    <item n="80">In statrechten die klag auf ein summa formir</item> 
+    <item n="81">oder dich auf guet raitung referir.<note place="foot" n="37">Ebenso in der Praxis des Landrechtes (<quelle url="">Freyhoffen, S. 135</quelle>).</note></item>
+    </list></p></div>
+
+<div id="A.5">
+    <head>Der fünfte artickl von exceptionen.</head>
+    <p><note place="foot" n="38"><quelle url="&drqs;KaerntLRO.+1577+1588&amp;fs=Art.+12">Lro. Art. 12</quelle>.</note></p>
+<p>
+    <list>
+	<item n="82">Aines muss man sich vermeiden,</item> 
+	<item n="83">dan das gericht wilss nit leiden.</item>
+	<item n="84">[85] Wan du in antwort tritest ein,</item> 
+	<item n="85">lass dirr dein gwissen lieber sein.</item>
+	<item n="86">Hüete dich vor ungerechter exception,</item>
+	<item n="87">welliche nur dahin ist gesechen ohn,</item> 
+	<item n="88">damit der klager aussgezogen wirdt</item>
+	<item n="89">[90] unnd die obrigkhait vergeblich moleestirt.</item> 
+	<item n="90">Aintweder zur haubtsächlichen antwort lendt</item> 
+	<item n="91">oder erhöbliche enntschuldigung verwend,</item>
+	<item n="92">es seÿ umb willen unordnung der instanz</item>
+	<item n="93">oder ob der klager sonst het übersechen die schanz,</item>
+	<item n="94">[95] alss wie auch in disen exempel beschicht.</item> 
+	<item n="95">Wann der gegenthail im rechten also spricht:</item> 
+	<item n="96">Ich ding mich den klager in antwort ohn,</item> 
+	<item n="97">undt woll aber nur excipiren der man,</item>
+	<item n="98">dass ist durchaus nit zuzulassen,</item>	
+	<item n="99">[100] sondern haubtsächlich antwort zu verfassen.</item> 
+	<item n="100">Durch dass wort ich ding mich in antwort an</item> 
+	<item n="101">hat man sich begeben aller exception.</item>
+	<item n="102">Wan man aber in erheblich excipirn will,</item> 
+	<item n="103">[105] muess man sich nit andingen zuvill,</item>
+	<item n="104">sondern zu recht sich anbieten,</item>
+	<item n="105">will er anderst ein errorem verhueten.</item>
+        <pb n="S. 19"/>[<quelle url="&drqi;torggler_1927_019.jpg"> => Seite</quelle>] 
+	<item n="106">Und wan es sich auch also zutrueg,</item>
+	<item n="107">das nach befestigung des khrieg</item>
+	<item n="108">neue gegenforderung oder begern</item>
+	<item n="109">[110] zu einer exception wolten eingfüert werren,</item> 
+	<item n="110">dass thut man durch auss nit gestatten,</item> 
+	<item n="111">sondern pflegt zuclagen: ist zurathen.<note place="foot" n="39">Über das Vorhergehende vgl. <quelle url="&luschin_1913_ampfinger;#177">Ampfinger, Art. 10</quelle>, welcher dieselben Vorschriften enthält.</note></item></list></p></div>
+
+<div id="A.6">
+    <head>Der sechste artickl von restitutionen.</head>
+    <p><note place="foot" n="40">Die Restitution wird weder bei Ampfinger noch in der Lro. geregelt; erst <quelle url="">Ro. Art. 49</quelle> enthält diesbezügliche Vorschriften, welche sich beinahe wörtlich an das Generale vom <datum wert="1623-01-06">6. Jänner 1623</datum> anlehnen.</note></p>
+    <p><list>
+	<item n="112">So es sich aber also verfüeg,</item>
+	<item n="113">das nach befestigung des khrieg</item>
+	<item n="114">[115] ine mutwilligen vorsäz beschäch,</item>
+	<item n="115">das einer die zeit auch übersäch</item>
+	<item n="116">oder sonst weisung undt urkhunden</item>
+	<item n="117">erst hernach hette gefunden,</item>
+	<item n="118">davon er hievor nit hette gwist.</item>
+	<item n="119">[120] Der khan und mag zu diser frist</item>
+	<item n="120">beÿ den herrn verordtneten gehorsam halten an</item> 
+	<item n="121">umb zulassung und ordenliche restitution.</item>
+	<item n="122">Damit es aber dem gegenthaill nit geschäch zur gfähr,</item> 
+	<item n="123">pflegt man die erlödigte beschwär</item>
+	<item n="124">[125] umb sein verantwortung zu khomen zulassen,</item>
+	<item n="125">allss dan der magistrat das gutt dunckhen zuuverfassen,</item> 
+	<item n="126">zu übergeben unsern gnedigen herrn,</item>
+	<item n="127">damit es khan erlödigt werden.</item></list></p></div>
+
+<div id="A.7">
+<head>Der 7 artickl von erheblichen verfechtungen.</head>
+<p>
+    <list>
+    <item n="128">Hebt sich ein erhöblich verfechtung an,</item>
+    <item n="129">[130] hauptsächlich oder rechtmässig exception,</item>
+    <item n="130">so wird dem beschwerten thaill</item>
+    <item n="131">vor guet<note place="foot" n="41">Soll offensichtlich "vergunt" heißen.</note> zuversuchen sein haill,</item>
+    <item n="132">wie es sich nach ordnung thut gebüren,</item>
+    <item n="133">die appellation zu prosequiren.<note place="foot" n="42"><quelle url="&kaerntlro_1577;&amp;fs=Art.+16">Lro. Art. 16</quelle>.</note></item>
+    <item n="134">[135] Da es sich aber also verlief</item>
+    <item n="135">das ein contract oder schuldtbrief</item>
+    <item n="136">neben den lanndtschaden bunt ist wohl sigilirt,</item> 
+    <item n="137">khein appellation darüber gestattet wirt,<note place="foot" n="43"><quelle url="&drqs;kaerntLRO.+1577+1578&amp;fs=Art.+25">Lro. Art. 25</quelle>.</note></item>
+    <item n="138">sonder dieselbe ist abgeschnitten,</item>
+    <item n="139">[140] muss zallen oder um geduld bitten.</item> 
+    <item n="140">Wan aber diss alles nit beschicht,</item> 
+    <item n="141">so hat man alss dan weiter gericht.</item> 
+    <item n="142">Auf des bekhlagten hab und gutt</item> 
+    <item n="143">man mit ordnung auf weisen thut.<note place="foot" n="44"><quelle url="&kaerntlro_1577;&amp;fs=Art.+18+1">Lro. Art. 18, Abs. 1</quelle>.</note></item>
+    <item n="144">[145] Seÿ aber der sachen richtbericht,</item>
+    <item n="145">das du dir ferner aigen machest nit</item> 
+    <item n="146">allss haubt summa, intresse, khost und schaden,</item>
+    <item n="147">mehrers ist des beclagten nit aufzuladen.</item>
+        <pb n="S. 20"/>[<quelle url="&drqi;torggler_1927_020.jpg"> => Seite</quelle>] 
+</list></p></div>
+
+<div id="A.8">
+    <head>Der 8 artickl von relationen.</head>
+    <p><note place="foot" n="45"><quelle url="&kaerntlro_1577;&amp;fs=Art.+18+1">Lro. Art. 18, Abs. 1</quelle>, und ausführlicher Kraus (Fol. 6' und speziell im Anhange "Verzaichnus wie der Weispott in Khärndten in dem Aufweisen sich verhalten solle", Fol. 167), der auch den in der Lro. nicht verwendeten Ausdruck "erster Scherm" gebraucht.</note></p>
+    
+    <p><list>
+	<item n="148">Hat jemandt in seinen recht gethan</item>
+	<item n="149">[150] zu der aufweisung sein relation,</item> 
+	<item n="150">mit ordnung soll er dieselb formiren,</item>
+	<item n="151">ein gerichts zeugbrief des 1 schermss zu inserirn,</item>
+	<item n="152">auf das ein jedliche partheÿ</item>
+	<item n="153">im procediren dessto gwisser seÿ.</item></list></p></div>
+
+<div id="A.9">
+    <head>Der 9 artickl von pfanndfürtragen.</head>
+    <p><note place="foot" n="46"><quelle url="&kaerntlro_1577;&amp;fs=Art.+18+2">Lro. Art. 18, Abs. 2</quelle>, und bedeutend ausführlicher Kraus, Fol. 7' bis 8'. Das Konkursverfahren (Edikt) wird in keiner der Darstellungen über das Landrecht erwähnt.</note></p>
+    <p>
+    <list>
+	<item n="154">[155] Wer klagt und glangt zum pfandt fürtragen,</item> 
+	<item n="155">der muss im auss diss lassen sagen:</item>
+	<item n="156">Ob einer hett besser prioritet</item>
+	<item n="157">Und derentwegen billiche einred thuett,</item> 
+	<item n="158">und sol die ordnung gehalten sein,</item>
+	<item n="159">[160] wie es im landtsrechten wirt obseruirt fein.</item>
+	<item n="160">Da es sich aber beim einreden befundt</item> 
+	<item n="161">augen scheinlich mit guttem grundt,</item>
+	<item n="162">das über eines ganzen vermögen</item> 
+	<item n="163">die schulden wern überglegen,</item>
+	<item n="164">[165] dass es alss zum verderben anzeukht,</item> 
+	<item n="165">soll man auss schreiben ein edict</item>
+	<item n="166">so wollen inner alss aussers lanndts,</item> 
+	<item n="167">damit ein jeder bring das seinige zuhandt.</item> 
+	<item n="168">Soll aber werden ein behausung verkauft</item>
+	<item n="169">[170] und dieselbig zum lant recht lauft,</item>
+	<item n="170">nicht 3, sondern 4 statrecht zu publiciren<note place="foot" n="47">Unter derartigen Objekten dürften jene Häuser zu verstehen sein, welche von Landständen vor dem Jahre 1581 gekauft worden waren und
+infolge des Vergleiches vom <datum wert="1581-01-18">18. Jänner 1581</datum> (Landesarchiv, Fasz. 116/2) der städtischen Besteuerung nicht unterlagen. Die Notwendigkeit von vier Stadtrechten wurde vermutlich analog den Bestimmungen der <quelle url="&kaerntlro_1577;&amp;fs=Art.+40">Lro. Art. 40</quelle> angenommen, welche bei Berufung von Brief und Siegel Aufruf in vier Landrechten für erforderlich halten. Ebenso wird bei Herren und Landleuten das Edikt im Konkursfalle nicht öffentlich angeschlagen, sondern nach <quelle url="&kaerntlro_1577;&amp;fs=Art.+40">Art. 40 Lro.</quelle> in einem Hoftaiding "berufen" (Lanndtsgebreich. in Steyer und Kerndten, aus dem Anfange des 17. Jahrhunderts, Geschichtsverein für Kärnten, Hs. 3/12).</note></item>
+	<item n="171">und die alte ordnung zu obseruiren:</item>
+	<item n="172">Wer am maisten legt beÿ sonnenschein,<note place="foot" n="48">An dieser Stelle steht in der Handschrift am Rande von derselben Hand der Vermerk "geht nur biß 4 uhr mitag" (vgl. Statut 2).</note></item>
+	<item n="173">dessen soll die behausung aigen sein.</item></list></p></div>
+
+<div id="A.10">
+    <head>Der 10 artickl von anpott.</head>
+    <p><note place="foot" n="49"><quelle url="&kaerntlro_1577;&amp;fs=Art.+19+1">Lro. Art. 19, Abs. 1</quelle>.</note></p>
+    <p>
+    <list>
+	<item n="174">[175] Wann nun sein sach allso gelinget,</item>
+	<item n="175">das er sein recht zum anpot bringet</item>
+	<item n="176">mit übertheurung oder sonst ein pro se,</item>
+	<item n="177">der muss dises fürnemen ehe.</item>
+	<item n="178">Acht tag vor dem negsten statrechten wöl dir aus</item> 
+	<item n="179">[180] und schickh den gegenthaill das anbot zu hauss.</item> 
+	<item n="180">Thut er nun denselben ein genüegen,</item>
+	<item n="181">machst dich zur ainigkhait verfüeegen.</item>
+	<item n="182">Will er aber ferner unkhosten nit ersparren,</item> 
+	<item n="183">so mag man auf dem statschermb verfarren.<note place="foot" n="50"><quelle url="&kaerntlro_1577;&amp;fs=Art.+19+1">Lro. Art. 19, Abs. 1, am Ende</quelle>.</note></item>
+	<item n="184">[185] Dieweill ob er ( !) gemeinen rechten nach,</item> 
+	<item n="185">wie oben ist gemelt von der sach,</item>
+        <pb n="S. 21"/>[<quelle url="&drqi;torggler_1927_021.jpg"> => Seite</quelle>] 
+	<item n="186">kheiner ihm mehreres aigen machen khan,</item>
+	<item n="187">allss was haubtgut, intresse und schaden trift an,</item>
+	<item n="188">vor stellung des statschermb sag ich zu enndt,</item>
+	<item n="189">[190] muss der klager sein alssbalt behendt,</item> 
+	<item n="190">mit dem gegenthail des intresse abraiten</item>
+	<item n="191">und volgents mit seiner expens vortschreiten,<note place="foot" n="51"><quelle url="&kaerntlro_1577;&amp;fs=Art.+22">Lro. Art. 22</quelle> kennt eine Expenstaxierung vor Landscherm außer im Falle der Ablösung durch den Schuldner nicht, anders die spätere Praxis sowohl im Landrechte (Ro. Art. 52) wie im Stadtrechte (S. 11).</note></item>
+	<item>der einreden muss darüber gewortent sein</item>
+	<item n="192">und auch des magistrat taxirung fein,</item>
+	<item n="193">[195] auf das haubtguet und intresse in ainer sumen</item> 
+	<item n="194">auch expens und schäden in statschermb mögen,</item> 
+	<item n="195">damit derselb ordenlich werd geschriben, khomen.<note place="foot" n="52">Das Schlußwort des Verses 197 gehört offensichtlich an das Ende des Verses 196 nach "mögen" ; es ergibt sich dann für die vier letzten Zeilen der Reim sumen &md; khomen, geschriben &md; verbliben.</note></item>
+	<item n="196">Bey diser ordnung ists allzeit verbliben.</item>
+        <pb n="S. 22"/>[<quelle url="&drqi;torggler_1927_022.jpg"> => Seite</quelle>] 
+    </list></p></div>
+
+<div id="Statuten">
+    <head>Statuten.</head>
+
+<div id="Statuten.1">
+    <p>1. (Stadtrechtsprotokoll 1588 bis 1590, Stadtarchiv A 22, Fol. 13', 23. Mai 1588).<note place="foot" n="53">Sämtliche Statuten sind, wie aus den Protokollen ersichtlich und teilweise auch noch aus der Textierung erkennbar, anläßlich konkreter Fälle beschlossen worden, um Verfahrensvorschriften in strittigen Fragen zu geben, für welche die Landrechtsordnung keine Bestimmung enthielt.</note> Darauf ist proponiret und beschlossen dass ein jeder beschwerter sich bei werrenden rechten alsbaldt zur appellation anmelden und nach der anmeldung in sechs wochen eintweder die appellation erledigter oder ein schub zu gericht lege, sonst seye die appellation desert.<note place="foot" n="54">Dem Wortlaute nach könnte dieses Statut als Regelung des stadtrechtlichen Appellationsverfahrens im allgemeinen aufgefaßt werden, würde jedoch dann im Widerspruch zu den Vorschriften der Landrechtsordnung (<quelle url="&kaerntlro_1577;&amp;fs=Art.+16">Art. 16</quelle>, vgl. S. 7) stehen. Im Stadtrechtsprotokolle gehen der wiedergegebenen Stelle unmittelbar zwei Parteienerklärungen zu einem Ediktsabschiede voraus. Das Statut kann sich daher nur auf das Appellationsverfahren in Konkursen beziehen und gleicht dieses dem Stadtrechtsverfahren insoweit an, als noch im gleichen Stadtrechte appelliert
+werden muß und infolgedessen die für Abschiede im Stadtgericht übliche gemeinrechtliche zehntägige Frist zur Appellationsanmeldung wegfällt.</note></p></div>
+<div id="Statuten.2">
+<p>
+2. (a.a.O., Fol. 15', 24. Mai 1588). Es ist ordentlich und mit statlicher beratschlagung beschlossen, das hinfüro die cantorecht unter schwebendem stab im statrechten sollen gehalten werden, also das das recht albeg nach ausgehung des statrechten umb vier uhr nachmittag, wan der leste gloggenstreich am rathauß beschehe, solle der burgermaister den stab niderlegen neben den lesten streich, wer nun mehr auf das cantostückh gelegt, dem solle ein landtleuffiger khaufbrieff darumb gegeben werden.</p></div>
+
+<div id="Statuten.3">
+<p>
+3. (Stadtrechtsprotokoll 1591 bis 1592, Stadtarchiv A 26, Fol. 2, 28. Jänner 1591) ... und ist darauf beschlossen und statuiert, daß ein ÿegliches güetliches ersuchen aindweder schrifftlich oder aber durch andere sonderbar guete leuth, umb willen besserer ordnung und daß es auch ein ernnst gleich sehe, beschehen solle.</p></div>
+
+<div id="Statuten.4">
+<p>4. (a.a.O., Fol. 87', 9. November 1592). Darauf ist <name type="person">Nouakh</name><note place="foot" n="55">Er war im Stadtrechte mit der Erklärung erschienen, seine Frau könne krankheitshalber nicht kommen und habe ihm Gewaltsam erteilt.</note> abgeschaffen und statuiert worden, das ein jeder in dergleichen fällen aintweder ain schrifftlichen schein des gewalts fürweisen solle oder aber, wann man oder weib ligerhafft unnd khrannckh ist, und der gesunte thaill mit ainen nachpern für gericht khumbt, der da sagen khan, das der khrannckhe den gesunten den gewalt zu procedieren übergeben, so solle das gericht glauben.
+</p></div></div></body></text></TEI.2>

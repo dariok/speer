@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                                <title>Bischoff, Das Pettauer Stadtrecht vom Jahre 1376 (1887) :: Transkription Speer 2014 / 2016</title>
+            </titleStmt>
+        </fileDesc></teiHeader>
+    <text><front></front>
+        <body>
+            <div id="Editorial">
+  <head>Editorial</head>
+                <p>Quelle:  Ferdinand Bischoff, Das Pettauer Stadtrecht vom Jahre 1376 [Aus dem Jahrgange 1886 der Sitzungsberichte der phil.-hist. Classe der kais. Akademie der Wissenschaften (CXIII. Bd., II. Hft. S. 695) besonders abgedruckt.]<lb/>
+                    <quelle url="https://www.rzuser.uni-heidelberg.de/~cd2/hdhs/objekte/6959.htm">Erfassung in HDHS.</quelle><lb/>
+Mit Hilfe eines OCR-Programms (Omnipage 18) aus dem Google-Digitalisat eines Exemplars der New York Public Library in einen maschinenlesbaren Volltext überführt und mit XML-Markup in Anlehnung an die TEI-Richtlinien versehen.<lb/>
+                    Heino Speer <lb/>
+                    Klagenfurt am Wörthersee im April 2014</p></div>
+            <div id="Einleitung">
+                <head>[Einleitung]</head>
+                <p>In den Reihen der bisher veröffentlichten steiermärkischen Rechtsquellen tritt recht auffallend der Mangel eines umfangreicheren Stadtrechtes aus dem Mittelalter hervor. Es sind    zwar schon zahlreiche Privilegien steiermärkischer Städte (am besten in den Geschichtsblättern von <name>Zahn</name>) bekannt geworden, aus denen zu ersehen ist, dass die Städte in Steiermark, wie anderswo, Handels- und Gewerberechte, Jahr- und Wochenmärkte, Meilen- und Niederlagsrechte, Mauth- und Zollrechte und Freiheiten, in der Regel auch ihre selbstgewählten Richter und Räthe hatten, aus denen aber nichts oder doch nur sehr wenig zu ersehen ist von der Art und Weise der Ausübung dieser Rechte, von den Einrichtungen, welche zu diesem Behufe  bestanden, vom Finanz- und Polizeiwesen der Städte, und am allerwenigsten von dem in den steiermärkischen Städten geltenden Privat- Straf- und Processrechte. Andere Quellen, aus  denen genauere Nachrichten über diese Gegenstände zu schöpfen wären, wurden bis jetzt nicht veröffentlicht, man müsste denn das (von <name>H. M. Schuster</name> herausgegebene) <quelle url="&drwsigle;WienStRb.">Wiener Weichbildbuch</quelle>, die <quelle url="../qu/1340_wienstadtrechtsprivileg.html">Handfeste Herzog Albrechts vom Jahre 1340</quelle><note n="3.1">Siehe <quelle url="">Peinlich, Die ältere Ordnung und Verfassung der Städte in Steiermark, 43</quelle>.</note> oder das <quelle url="&wienerneustadtstr_cap.1;">Stadtrecht von Wiener-Neustadt</quelle> zu den steiermärkischen Stadtrechtsquellen zählen, wozu aber jede Berechtigung zu fehlen scheint. Der Umstand, dass Judenburg eine jetzt im steiermärkischen Landesarchiv befindliche Abschrift des Wiener Weichbildbuches und der Handfeste Herzog Albrechts vom <pb n="4"/> Jahre 1340 für Wien besass,<note n="4.1">Siehe <quelle url="">Bischoff, Rechtshandschriften im steiermärkischen Landesarchive (Beiträge zur Kunde steiermärkischer Geschichtsquellen 6, 138</quelle>).</note> worin anstatt des Namens Wien der Name Judenburg gesetzt wurde, deutet darauf hin, dass einstens die Absicht bestanden haben mag, oder versucht wurde, das Wiener Rechtsbuch in Judenburg einzuführen und anzuwenden, berechtigt aber durchaus nicht zur Behauptung, dieses Rechtsbuch habe in Judenburg verbindliche Kraft erlangt. Dazu wäre doch wohl ein landesfürstliches Privilegium, eine Bewidmung oder eine darauf bezügliche Willkür der Bürgerschaft oder mindestens unzweifelhafte Zeugnisse der wirklichen Anwendung des Rechtsbuches nothwendig. Aber von all diesem ist nirgends eine Spur zu finden, die doch kaum ganz verloren gegangen wäre, da von Judenburg verhältnissmässig viele Urkunden, Protokolle und auch ein reichhaltiges, vom Stadtschreiber <name>Georg Lorber</name> im Jahre 1498 vollendetes Copialbuch erhalten sind. Die äussere Beschaffenheit der erwähnten, nun schon fünfhundert Jahre alten <hi>Papier</hi>handschrift des Wiener Rechtsbuches spricht nicht für häufigen Gebrauch derselben. Keinesfalls wurde sie vor dem Jahre 1381 gebraucht, da dieses Jahr als das der Ausfertigung der Albrechtinischen Handfeste am Schlusse der Handschrift angegeben ist; aber auch für die Vermuthung dieses spätmittelalterlichen Gebrauchs des Rechtsbuches oder der Handfeste fand sich nirgends ein Stützpunkt. — Diese in der Judenburger Handschrift dem Wiener Stadtrechtsbuche nachfolgende Albrechtinische Handfeste hat da die merkwürdige Ueberschrift:<lb/>
+        Hie hebt sich an die hant- <lb/>
+        fest der purger zu 'prugk'<lb/>
+        in der stat 1327 'judenburg'.</p>
+                <p>Sandhaas<note n="4.2">Zur <quelle url="">Geschichte des Wiener Weichbildrechtes, Sitzungsberichte der phil.-hist. Classe der kais. Akademie der Wissenschaften 41, 369</quelle>.</note> bemerkt hiezu: "Ob man aus dieser Ueberschrift den Schluss ziehen darf, dass Bruck bereits im Jahre 1327 eine Handfeste erhielt, welche mit der im Jahre 1340 der Stadt Wien ertheilten übereinstimmt und welche dann in unserer Handschrift auf Judenburg umschrieben wurde, das ist eine Frage, welche, so interessant sie ist, an dieser Stelle nicht <pb n="5"/> näher untersucht werden kann.' Diese Frage muss entschieden verneint werden. So wenig als das in der Judenburger Handschrift enthaltene Stadtrechtsbuch zuerst für Judenburg verfasst und dann erst auf Wien umgeschrieben wurde, ebenso wenig wurde die in dieser Handschrift dem Stadtrechtsbuche angehängte Handfeste im Jahre 1327 für Bruck erlassen und dann im Jahre 1340 der Stadt Wien ertheilt. Erscheint die Bewidmung Wiens mit dem Rechte eines so kleinen Städtchens, wie Bruck im Jahre 1327 war, von vorneherein als höchst unwahrscheinlich, so erweist sich die Verleihung einer mit der Wiener Handfeste übereinstimmenden durch Herzog Albrecht im Jahre 1327 an Bruck und dann erst im Jahre 1340 an Wien, nach Erwägung nachstehender Umstände als ganz unannehmbar. Weder von jener noch von dieser Verleihung hat sich — abgesehen von der mitgetheilten räthselhaften Ueberschrift — irgend eine Nachricht erhalten; weder in der für Wien gegebenen Handfeste, noch in den vielen Privilegien von Bruck findet sich eine Bezugnahme darauf. Im Jahre 1358 erlangten die Brucker vom Herzog Albrecht II. eine Bestätigung und deutsche Uebersetzung des ihnen im Jahre 1277 von Kaiser Rudolf verliehenen und von den Herzogen Albrecht, Friedrich und Rudolf erneuerten Privilegiums, wodurch Bruck die Rechte und Freiheiten anderer Städte des Königs und des Reiches und namentlich das Recht der Salzniederlage und Zoll- und Mauthfreiheit erhielt, und im Jahre 1347 hatte ihnen derselbe Herzog ein auf Bierbrauerei und Weinschank bezügliches Privilegium verliehen;<note n="5.1">Siehe <quelle url="">Zahn, Steiermärkische Geschichtsblätter 3, 107</quelle> und <quelle url="">42</quelle>.</note> von einem andern Privilegium Herzog Albrechts II. für Bruck ist nichts bekannt. Eine von Herzog Albrecht allein im Jahre 1327 für Bruck ausgefertigte Handfeste, wie die in Rede stehende, stünde in schwer lösbarem Widerspruche mit der Thatsache, dass Herzog Albrecht erst nach dem Tode König Friedrichs im Jahre 1330 die Regierung in Steiermark erlangt hat, vorher also höchstens mit Vollmacht und Einverständniss seines Bruders Friedrich Regierungshandlungen in Steiermark hätte vornehmen können. Aus dem Jahre 1327 ist auch keine einzige derartige Handlung Herzog Albrechts in Steiermark zu finden, wogegen Privilegienverleihungen und andere Urkunden König Friedrichs <pb n="6"/> an steiermärkische Städte bis zum Jahre 1330 vorliegen.<note n="6.1">Siehe <quelle url="&muchar_6;">Muchar, Geschichte der Steiermark 6, 238</quelle>, <quelle url="&muchar_6;">245</quelle>, <quelle url="&muchar_6;">246</quelle>.</note> Die Judenburger würden ihre Abschrift doch wohl kaum in Wien geholt haben, wenn sie selbe von der steiermärkischen Nachbarstadt Bruck hätten bekommen können. Uebrigens lehrt eine selbst nur oberflächliche Betrachtung des Textes der Wiener Handfeste, dass eine mit dieser übereinstimmende im Jahre 1327 für Bruck unmöglich erlassen worden sein kann. Laut des Eingangs wurde dieselbe auf Bitten des Bürgermeisters, Rathes u. s. w. verliehen; aber in ganz Steiermark gab es im 14. Jahrhundert noch keinen Bürgermeister, in Bruck namentlich nicht vor dem Jahre 1488. Das Institut der 'Genannten' scheint in Steiermark niemals bestanden zu haben; jedenfalls wäre eine Vermehrung derselben auf und über zweihundert für Bruck im Jahre 1327 unthunlich gewesen. Auch die Bestimmung der Handfeste bezüglich der Hausgenossen und der Laubenherrneinung passt nicht auf Bruck und der Satz; '<hi rend="it">der rath soll ihn legen in Cherner thuern</hi>', der in der Judenburger Abschrift lautet: '<hi rend="it">der rath soll ihn legen in den chercher oder in ein tuerem</hi>' weist doch ganz deutlich auf die Bestimmung der Handfeste für Wien und deren Unangemessenheit für Bruck hin. Das Wörtchen Bruck in der oben mitgetheilten Ueberschrift dürfte einem Versehen des Abschreibers zuzurechnen sein, welcher im Jahre 1381 das Wiener Rechtsbuch und die Handfeste für die Judenburger abschrieb, indem er statt Judenburg: Bruck schrieb, dann erst den Fehler bemerkte, den richtigen Namen nachträglich beifügte und durch Strichelchen andeutete, dass dieser an der Stelle von Bruck stehen sollte. Doch wie immer es hiermit beschaffen sein mag, sicher ist kein haltbarer Grund vorhanden, die Albrechtinische Handfeste für Brucker Recht zu halten. — Endlich bezüglich des Rechtes von Wiener-Neustadt, welche Stadt bekanntlich bald als zu Steiermark und bald als zu Oesterreich unter der Enns gehörig betrachtet wurde, ist zu bemerken, dass es als eine Quelle steiermärkischen Rechtes nicht gelten könne da zur Zeit seiner Entstehung und nachher niemals mehr eine Realunion zwischen Steiermark und Wiener-Neustadt bestanden hat und von einer Reception des Wiener-Neustädter Rechtes in Steiermark nichts bekannt ist.<pb n="7"/></p>
+                <p>Da es somit nach dem Gesagten als unzulässig erscheint, die besprochenen Rechtsdenkmäler zur Ergänzung und Vervollständigung der sehr dürftigen Nachrichten über mittelalterliches steiermärkisches Stadtrecht zu benützen, welche die bisher veröffentlichten Quellen bieten, so musste die Auffindung des Pettauer Stadtrechtes um so mehr erfreuen, als ungeachtet langjähriger und vielseitiger Nachforschungen in Steiermark und auswärts weder dieses Stadtrecht, auf dessen einstiges Vorhandensein ein im steiermärkischen Landesarchiv befindliches Pettauer Stadtrecht vom Jahre 1513 ziemlich deutlich hinweist,<note n="7.1">Siehe unten <quelle url="#18">S. 710</quelle>.</note> noch ein anderes steiermärkisches Stadtrecht von grösserem Umfange zu entdecken war. Diese Auffindung ist einer von Herrn <name>Dr. J. Babnik</name> aus Wien an das steiermärkische Landesarchiv gerichteten und mir vom Archivsdirector <name>Regierungsrath von Zahn</name> mitgetheilten Anfrage um Auskünfte über das in der herzoglichen Bibliothek zu Wolfenbüttel verwahrte Manuscript des Pettauer Stadtrechtes zu verdanken, durch welche ich veranlasst ward, um die Zusendung desselben zu ersuchen, die sofort in dankenswerthester Weise erfolgte.<note n="7.2">Babnik gedachte in dem Pettauer Rechte Spuren slovenischen Rechtes zu suchen.</note></p>
+    <p>Die dieses Stadtrecht enthaltende Handschrift findet sich in den 'Collectaneen zur Geschichte der deutschen Sprache und Literatur' von Lessing (<quelle url="">Bd. XII, 479 der Lachmann'schen</quelle>, und <quelle url="">Bd. XII, 698 der Hempel'schen Ausgabe</quelle>) mit den Worten verzeichnet: ,Das Stadtrecht von Pettau (in Nieder-Steyermark, dem Bischof von Salzburg gehörig) unter unsern Handschriften 55. 2. 4.' Laut Mittheilung des Herrn Bibliothekars soll diese Handschrift vom Gründer der Wolfenbüttler Bibliothek, dem <persName ref="&wp;August_von_Braunschweig">Herzog August dem Jüngeren von Braunschweig</persName>, um 4 Reichsthaler erworben worden sein. Sie besteht aus 52 Pergamentblättern in Kleinquartformat, von denen die beiden äussersten an die Innenseiten der mit rothem Leder überzogenen Einbandholzdecken angeklebt sind. Die Blätter 2-48 sind fünfzehnzeilig linirt und der ganzen Breite nach, jedoch mit Freilassung breiter Ränder mit einer schönen, grossen, scharfeckigen, gothischen Minuskel (nicht cursiv) beschrieben. Das erste und das <pb n="8"/> letzte Blatt ist unbeschrieben. Für die rothen Artikelüberschriften wurden keine besonderen Räume freigelassen, sondern diese — wie es scheint — erst nachträglich in die vom Texte nicht ausgefüllten Zeilenreste eingetragen, sind daher zumeist sehr kurz, oder, wie die längere Ueberschrift der drei ersten Artikel, auf die leeren Zeilenreste mehrerer Artikel vertheilt. Der Codex ist sehr gut erhalten und zeigt fast gar keine Gebrauchsspuren. Beachtet wurde er, wie scheint, nur von <name>Stobbe</name>, 
+        in dessen Buche: ‚<quelle url="http://books.google.at/books?id=9YkzAQAAMAAJ&amp;hl=de&amp;pg=PA218">Zur Geschichte des deutschen Vertragsrechtes' (S. 218, N. 5)</quelle> auf einen Artikel dieses Strafrechtes Bezug genommen ist.</p>
+<p>Laut des Vorwortes wurde das Stadtrecht im Jahre 1376 aufgeschrieben. Obwohl ich beim ersten Anblick die Wolfenbüttler Handschrift für jünger hielt, überzeugte mich doch die Vergleichung derselben mit mehreren unzweifelhaft der zweiten Hälfte des 14. Jahrhunderts angehörigen Handschriften, dass sie wirklich in dem angegebenen Jahre entstanden sein konnte. Der Schreiber ist nicht genannt und fehlt auch jeder Anhalt zu einer bestimmteren Vermuthung über denselben. Hätte der im Vorwort genannte <name>Stadtschreiber Jaclein</name> das Buch geschrieben, so würde er dies wohl bemerkt haben. Es ist auch nicht zu ersehen, ob diese Handschrift für die Stadt Pettau oder den Erzbischof von Salzburg oder für die Pettauer Landgerichtsherrschaft oder für wen sonst geschrieben worden, ob sie eine authentische Ausfertigung sei oder nicht.</p>
+                <p>Dagegen erfährt man aus dem Vorworte, dass das Pettauer Stadtrecht auf Begehren des Salzburgischen Vitzthums <name>Hanns Genschker</name> aufgeschrieben wurde. Pettau gehörte bekanntlich seit Jahrhunderten dem Erzstifte Salzburg. Laut einer von <quelle url="">Meiller (Salzb. Reg. 533, N. 94)</quelle> als unecht nachgewiesenen Urkunde <persName ref="&wp;Arnulf_(HRR)">Kaiser Arnulfs</persName> vom 20. November 890 hätte das Erzstift die Kirche in Pettau sammt dem Zehent und zwei Theile der Stadt mit Bann, Zoll und Brücke bereits von den Vorgängern dieses Kaisers erhalten, von ihm selbst den dritten Theil der Stadt mit Ausnahme einiger Güter und überdies noch hundert Huben und zehn Weingärten in der Nähe von Pettau. Diese Urkunde diente vermuthlich als Vorlage der Urkunden <persName ref="&wp;Otto_II_(HRR)">Kaiser Otto II.</persName> vom Jahre 977 und 982 (<quelle url="">Juvavia, Anhang. Nr. 75</quelle> und <quelle url="">Nr. 77</quelle>), durch welche dem Erzstifte der oben bezeichnete Besitz <pb n="9"/> bestätigt wurde, und welchen im Wesentlichen gleichlautende Urkunden späterer Kaiser, wie namentlich von <persName ref="&wp;Otto_III_(HRR)">Kaiser Otto III.</persName> im Jahre 984, von <persName ref="&wp;Heinrich_III_(HRR)">Kaiser Heinrich III.</persName> im Jahre 1051, von                       <persName ref="&wp;Heinrich_IV_(HRR)">Kaiser Heinrich IV.</persName> im Jahre 1057 (<quelle url="">l. c. Nr. 76</quelle>, <quelle url="">99</quelle>, <quelle url="">104</quelle>), folgten. Abgesehen von häufigen Besitzstörungen und manchmal lange andauernden Unterbrechungen bestand die Herrschaft Salzburgs über Pettau bis zu der im Jahre 1565 durch <persName ref="&wp;Maximilian_II_(HRR)">Kaiser Maximilian II.</persName> erfolgten Einlösung der seit 1506 nur mehr im Pfandbesitze des Erzstiftes gewesenen Stadt Pettau.<note n="9.1"><quelle url="&muchar_8;">Muchar a. a. O. 8, 226</quelle>, <quelle url="&muchar_8;">407</quelle> und <quelle url="">Zauner, Chronik 4, 262</quelle>; <quelle url="">5, 202</quelle>.</note> Zur Wahrnehmung und Ausübung der erzstiftischen Rechte in Pettau und in anderen steiermärkischen Gebieten bestellten die Erzbischöfe spätestens im zweiten Viertel des 13. Jahrhunderts Vicedomini zu Leibnitz, in der Regel geistliche Personen, welche ein Pfarramt in Steiermark bekleideten. <name>Hanns Genschkar</name>, auf dessen Begehren die Niederschrift des Pettauer Stadtrechtes erfolgte, war vermuthlich sowie seine Vorgänger im Vitzthumamte, <name>Hanns Windischgrätzer</name> und <name>Konrad von Weigolting</name>, Pfarrer zu Pettau (<quelle url="&muchar_7;">Muchar, Gesch. v. Steiermark 7, 59</quelle>).</p>
+<p>Welche Veranlassung der Vitzthum hatte, die Aufzeichnung des Stadtrechtes zu verlangen, war nicht zu ermitteln. Dass es nicht minder zur Wahrung der erzstiftischen als der städtischen Rechte geschah, ist wohl kaum zu bezweifeln. Da in dem Stadtrechte nirgends eine Bezugnahme auf eine bereits vorhandene Aufzeichnung desselben vorkommt, ist die im Jahre 1376 geschehene vermuthlich als die erste zu betrachten; eine Vermuthung, welche durch das Vorwort bekräftigt wird, indem dieses das Stadtrecht als Weisthum kennzeichnet.</p>
+                <p>Laut des Vorwortes wurde das Pettauer Stadtrecht nach der Weisung der Rathsgeschworenen des Jahres 1376 aufgezeichnet, und diese wiesen das Recht, wie es von ihren Eltern nach deren Erinnerung in den Zeiten der Erzbischöfe <persName ref="&wp;Konrad_(Salzburg)">Konrad</persName> und <persName ref="&wp;Heinrich_(Salzburg)">Heinrich</persName> und dann von ihnen selbst gehalten worden ist. <persName ref="&wp;Konrad_III._(Salzburg)">Erzbischof Konrad III.</persName>, an den hier zu denken ist, regierte in den Jahren 1291-1312; es reicht demnach das in dem Pettauer Weisthum vermerkte Recht bis in die letzten Decennien des 13. und in den Anfang des 14. Jahrhunderts hinauf, wie dies bezüglich der ersten Artikel des Stadtrechtes urkundlich <pb n="10"/> nachgewiesen werden kann. Diese Artikel betreffen die rechtliche Stellung der Stadt zu den Herren von Pettau, deren neuerliche schriftliche Feststellung man für besonders wichtig gehalten zu haben scheint, indem man sie gleich an die Spitze des Ganzen stellte.</p>
+                <p>Laut dieser Artikel hatten die Herren von Pettau, welche schon im 13. Jahrhunderte zu den reichsten und mächtigsten Geschlechtern in Steiermark gehörten und nicht erst — wie Meiller (<quelle url="">Salzb. Reg. Nr. 64, S. 524</quelle>) meint —, um die Mitte des 13. Jahrhunderts, sondern schon viel früher und spätestens schon hundert Jahre vorher zur Salzburger Kirche im Verhältnisse der Ministerialität standen,<note n="10.1"><quelle url="">Steiermärkisches Urkundenbuch von Zahn 1, S. 250</quelle>, <quelle url="">350</quelle>, <quelle url="">393</quelle>, <quelle url="">432</quelle> u. s. w.</note> die Hut der Burg und Stadt Pettau mit der Verpflichtung, den Erzbischof von Salzburg und dessen Leute in und ausserhalb der Stadt mit ganzen Treuen zu beschirmen, demselben auf Verlangen die Burg zu räumen, einen Getreidespeicher des Erzstiftes darin zu dulden und von der Burg aus gegen den Landesherrn oder gegen die Nachbarn keinen Krieg zu führen. Dafür gewährte ihnen das Erzstift die Behausung in der Burg, zwölf Hofstätten am Burgberg zur Behausung ihrer Leute, und Mauthrechte nach altem Herkommen. Diese Bestimmungen beruhen auf jenen urkundlichen Festsetzungen, durch welche die Zerwürfnisse zwischen den salzburgischen Erzbischöfen und den Herren von Pettau im letzten Viertel des 13. und im Anfange des 14. Jahrhunderts beigelegt und die Stellung und Verhältnisse der letzteren zum Erzstifte geregelt worden sind. Eine Hauptveranlassung dieser Zerwürfnisse war unzweifelhaft die Erwerbung der vom <persName ref="&wp;http://de.wikipedia.org/wiki/Ulrich_von_Seckau">Erzbischofe Ulrich</persName> dem <persName ref="&wp;Béla_IV._(Ungarn)">König Bela IV. von Ungarn</persName> auf der Veste und Stadt Pettau eingeräumten und von diesem auf den <persName ref="&wp;Ottokar_II._P%C5%99emyslOttokar_(Böhmen)">König Ottakar von Böhmen</persName> und weiter auf <persName ref="&wp;Rudolf_I._(HRR)">Kaiser Rudolf I.</persName> überkommenen Pfandrechte durch <name>Friedrich von Pettau</name> im Jahre 1279 (Urkunde vom 25. October 1279, abgedruckt von Chmel 
+                    in den <quelle url="">Wiener Jahrb. d. Liter. 1845, I, 261</quelle> nach dem Original im k. k. Haus-, Hof- und Staatsarchiv), der überdies durch mancherlei arge Ausschreitungen, Gewaltthaten und Bedrückungen des Erzstiftes und der Unterthanen desselben den gerechten Zorn seines Dienst- und Lehensherrn hervorgerufen hatte. Da <pb n="11"/> eine genauere Darstellung der sich durch Jahrzehnte hinziehenden, vor weltlichen und geistlichen Richtern geführten Rechtsstritte zwischen den Salzburger Kirchenfürsten und den Herren von Pettau<note n="11.1">Siehe darüber Ottokars Reimchronik bei <quelle url="">Pez, Script. rer. austr. 3, p. 218f.</quelle> und <quelle url="&muchar_5;">Muchar a. a. O. 5, 272</quelle>, <quelle url="&muchar_5;">282</quelle>, <quelle url="&muchar_5;">423</quelle>, <quelle url="">434</quelle> und <quelle url="">Bd. 6, 15 f., 32</quelle>.</note> hier weder möglich noch nöthig ist, genüge zur Bekräftigung der obigen Bemerkung über die Zeit, in welche das Pettauer Stadtrecht hinaufreicht, die Anführung einiger Stellen aus drei Urkunden, welche im Verlaufe dieser Streitigkeiten ausgefertigt worden sind. In der einen vom 18. Juli 1280 erklärt <name>Friedrich von Pettau</name>, nach Verzichtleistung auf die Stadt und Burgen wie auch auf die Vogtei über die salzburgischen Güter in der Mark: "<hi rend="it">purchhuta mihi deputata ego et heredes mei contenti erimus, scilicet muta et theloneo civitatis et iure, quod habet salzburgensis ecclesia in theloneo nundinarum . . . Insuper post prohibitionem archiepiscopi qui pro tempore fuerit, domino terre aut vicinis nostris de ipsis municionibus bella non movebimus, licet contra Ungaros defendere nos possimus ... Item si dominus archiepiscopus in castro pro tempore recipere se voluerit, purchgrafius medio tempore in alio comodo se locabit; habiturus etiam in castro granarium, si sue placuerit voluntati ...</hi>" Diese Urkunde<note n="11.2">Copie im steiermärkischen Landesarchiv <quelle url="">Nr. 1171</quelle>.</note> ist der Revers des Pettauers auf die m. m. gleichlautende Urkunde des <name>Erzbischofs Friedrich</name>.<note n="11.3"><quelle url="">l. c. Nr. 1172</quelle>.</note> Nach erneuertem Streite, in welchem dem Pettauer die Burghut über Pettau entzogen, dann aber auf Anlangen <name>Kaiser Rudolfs</name> und <name>Herzog Albrechts</name> wieder unpräjudicirlich rückgestellt wurde (Urkunde vom 16. März 1286, Original im k. k. Haus-, Hof- und Staatsarchiv), kam wieder am 16. December 1286 ein Sühnvertrag zu Stande, worin <name>Friedrich von Pettau</name> unter Anderem sagt: "<hi rend="it">ego itaque de fideli custodia castrorum et civitatis ipsi domino meo nomine ecclesie sue corporale prestiti sacramentum, ita tamen, quod ex tali commissione in castris et civitate Pettoviense nichil plus iuris vendicem, quam michi in privilegio dato per venerabilem dominum Fridericum olim archiepiscopum est permissum.  . . . Cives Pettovienses tam in civitate quam in terra fideliter defensabo, nec per me nec per aliquem de meis paciar molestari ...</hi>"<note n="12.4"><quelle url="">l.c. Nr. 1286 a</quelle>.</note> Das hier genannte Privilegium <pb n="12"/> des Erzbischofs Friedrich ist wohl kein anderes als die oben erwähnte Urkunde dieses Kirchenfürsten. — Die dritte hier in Betracht zu ziehende Urkunde wurde am 4. October 1309 ausgestellt von dem <name>Bischof Heinrich von Gurk</name>, <name>Gerol Vitzthum zu Friesach</name>, <name>Friedrich von Leibnitz</name> und <name>Ulrich von Walsee</name>, Hauptmann und Truchsess von Steiermark, von denen dieser als von <name complete="Hertneid von Pettau">Hertneid</name> und <name>Amelreich von Pettau</name> bestellter Schiedsmann, die anderen als Schiedsleute des <name>Erzbischofs Konrad III. von Salzburg</name> urkundeten. Sie vereinbarten da unter Anderem: "<hi rend="it">Es su&se;llen auch die Pettower ir teglich gesinde herbergen auf die vorgenanten zwelf hofstet. Es sullen auch die Pettower die mout in der stat, deu ir purckhut ist, nemen als es von alter herkomen ist, und sullen von den purgern ze Pettow dehein mout nemen ... Es sullen auch die Pettower unsern herrn von Salzburg und sein leut bewaren und beschermen in der stat und ausserhalb mit gantzen treun und ir purgsa&se;ss bewaren . . .</hi>"<note n="12.1"><quelle url="">l. c. Nr. 1731 b</quelle>.</note> Ein Blick auf die ersten fünf Artikel des Stadtrechtes zeigt die genaue Uebereinstimmung ihres Inhaltes mit den oben mitgetheilten Urkundenstellen und bewährt die Richtigkeit der im <quelle url="">Absatze e) des Vorwortes</quelle> enthaltenen Bemerkung der das Stadtrecht weisenden Rathsgeschworenen, dass sie von ihren Eltern über das Rechtsverhältniss der Stadt gegen die <name>Herren von Pettau</name>, wie es zur Zeit der Erzbischöfe <name>Konrad</name> und <name>Heinrich</name> und seither bestand, unterrichtet worden sind.</p>
+                <p>Die wenigstens theilweise wörtliche Uebereinstimmung der ersten fünf Artikel mit den oben bezeichneten Urkunden lässt kaum bezweifeln, dass diese bei der Niederschrift jener als Vorlage benützt wurden. Und wie diese fünf Artikel auf jenen Urkunden, so beruhen die <quelle url="#A.13">Artikel 13</quelle> -<quelle url="#A.17">17</quelle> des Stadtrechtes unzweifelhaft auf dem nachstehenden, von dem Marschall in Steiermark, <name>Herdegen von Pettau</name>, im Auftrage des <name>Herzogs Albrecht</name> am. 24. August 1342 gefällten Schiedsspruche:<note n="12.2"><quelle url="">Zahn, Steierm. Geschichtsbl. 2, 179</quelle>.</note> "<hi rend="it">das die burger von Feustritz die burger von Pettau nicht irren sullen an iren weinfueren und ander irer khaufmanschaft; was man des von Pettau fueret, die sullen seu durch Feustritz lassen fueren an all irrung, wo man hin will. Also sollen auch die burger von Pettau ungeirrt lassen die burger von Feustritz an den vier sachen . . . Es schullen die burger von Feustritz an dem markhtag zu Pettau <pb n="13"/> ir loden niderlegen auf tische und die verkhaufen wem sie wellen und verschneiden bei der elln. Welch burger von Feustritz khumbt gen Pettau mit ainem wagen, der sol geben vier phening ze prugkhrecht ainsts in dem iar und sol das iar ledig sein, und welcher get zu fuessen, der geit ein phening . . . Und ir rek und ir mäntl di sullen si legen auf tische und die an dem markhtag verkhaufen wem si wellent, di seu darbringent. Auch sprich ich, das die burger von Feustritz an dem markhtag zu Pettau ir geshnitens leder verkhaufen wem seu wellen. Auch sullen die burger von Pettau an den vier sachen, die oben geschrieben stuent, dieselben recht haben zu Feustritz, als si die von Feustritz habent zu Pettau. Es sullen auch die burger von Feustritz weder wachs, heut, vell, palg, was gewegener hab ist, oder zallkhauf, hinder dem viertl nit khaufen von gesten. Also sollen die burger von Pettau thuen dann (!) Feustritz ... Was aber ausserleut sind, die nicht burger sind zu Feustritz, gen den sullen die burger von Pettau ir alte recht haben ...</hi>" Einige Artikel des Stadtrechtes beruhen unmittelbar oder doch mittelbar auf dem bekanntlich auch in Steiermark verbreitet gewesenen Schwabenspiegel, namentlich die <quelle url="#A.150">Artikel 150</quelle> - <quelle url="#A.160">160</quelle> auf <quelle url="&schwsp;">Art. 8</quelle>, <quelle url="&schwsp;">9</quelle> und <quelle url="&schwsp;">14 Schwsp. Lassberg</quelle>, weniger <quelle url="#A.26">Art. 26</quelle> - <quelle url="#A.29">29</quelle> des Pettauer Stadtrechtes auf <quelle url="&schwsp;">Art. 156</quelle> und <quelle url="">154 Schwsp.</quelle>, wogegen die <quelle url="#A.30">Artikel 30</quelle> und <quelle url="#A.31">31</quelle>inhaltlich stärker mit den entsprechenden Artikeln des Sachsenspiegels übereinstimmen. Die <quelle url="#A.192">Artikel 192</quelle> und <quelle url="#A.193">193</quelle> über die Gerichtsbarkeit des Landrichters beruhen vermuthlich auf dem im Jahre 1322 aufgezeichneten Weisthum über die Rechte der Salzburger Kirche in Pettau.<note n="13.1">Siehe <quelle url="&oew_6;g403">Oesterreichische Weisthümer 6. 403</quelle>. Der <quelle url="#A.192">Art.192</quelle> findet sich nebst  den <quelle url="#A.183">Art. 183</quelle>-<quelle url="#A.185">185</quelle> und <quelle url="#A.191">191</quelle> im <quelle url="">Corpus iur. germ. von Senckenberg-Königsthal aus einer Handschrift des 15. Jahrhunderts, welche aufzufinden mir bisher nicht gelungen ist.</quelle></note> Mit diesen Artikeln schliesst das Pettauer Recht; die noch folgenden zwei Privilegien erscheinen gewissermassen nur als ein Anhang des Stadtrechtes. (In der Uebersetzung des ersten steht unrichtig Mainz statt Metz.)</p>
+<p>Andere bei der Zusammenstellung des Pettauer Rechtes benützte geschriebene Quellen als die angegebenen waren nicht nachweisbar, obwohl nicht zu bezweifeln ist, dass der grösste Theil seiner Bestimmungen, namentlich die über Handel und Gewerbe, über die Rechte und Verpflichtungen des Richters und der Rathsgeschworenen, über die mannigfachen Abgaben an <pb n="14"/> die Herrschaft oder an die Stadt, über die sogenannte Freiung (Jahrmarkt), über die Verhältnisse der verschiedenen Gerichtsgewalten im Pettauer Gebiete, die Stellung des Vitzthums, über Polizeiwesen u. s. w. auf Privilegien oder Verfügungen der Landesfürsten oder der Salzburger Erzbischöfe, oder auf gerichtlichen oder Schiedssprüchen, auf Gemeindebeschlüssen u. s. w. beruhen. Alle diese einst vorhanden gewesenen Urkunden scheinen unwiederbringlich verloren, das vorliegende Stadtrecht daher doppelt schätzbar, insofern es als Ersatz der nicht mehr vorhandenen Privilegien u. s. w. gelten kann.</p>
+                <p>Um das Verhältniss des Pettauer Rechtes zu anderen Rechten zu bestimmen, wurde dasselbe mit sämmtlichen gedruckten Stadt- und Landrechten und Weisthümern der deutsch-österreichischen Länder, mit dem bairischen Landrechte, bairischen und fränkischen Stadtrechten, dem Ofener Stadtbuch und den grossen mittelalterlichen deutschen Rechtsbüchern verglichen. Diese Vergleichung ergab für fast alle Artikel des Pettauer Rechtes, welche nicht eigenartige Pettauer Verhältnisse betreffen, mehr oder weniger sachlich übereinstimmende Rechtssätze<note n="14.1">Keine Parallelstelle fand ich zu <quelle url="#A.146">Art. 146</quelle>.</note> in den verglichenen Rechtsquellen, so dass der durchaus deutsche Charakter desselben allenthalben deutlichst und unverkennbar in die Augen springt;<note n="14.2">Dr. Babnik würde keine Spur slovenischen Rechtes darin gefunden haben.</note> aber diese Parallelstellen finden sich nur ganz zerstreut und vereinzelt in der einen und anderen verglichenen Rechtsaufzeichnung, nirgends in grösserer Anzahl oder in der Reihenfolge des Pettauer Rechtes, niemals ganz gleichlautend und häufig auch sachlich nicht ganz übereinstimmend. Die am genauesten übereinstimmenden Artikel sind meist solche, die in weitester Verbreitung geltend waren. Eine engere Beziehung des Pettauer Rechtes zu einem anderen Stadt- oder Landrecht, eine nähere Verwandtschaft mit anderen Rechten, wie sie z. B. zwischen dem Wiener Rechte und mehreren anderen Stadtrechten bestand, ist demnach nicht nachweisbar. Dass das Pettauer Recht im Ganzen und in Einzelnheiten mehr mit den süddeutschen, namentlich mit den Rechten der deutsch-österreichischen und bairischen Gebiete übereinstimmt als mit den norddeutschen, ist eine nothwendige Folge der geschichtlichen <pb n="15"/> Entwicklung Pettaus und jedem Kenner des mittelalterlichen deutschen Rechtes so in die Augen fallend, dass ein Nachweis dessen hier wohl unterbleiben kann. Das Gesagte dürfte rechtfertigen, dass den einzelnen Artikeln des Pettauer Rechtes die Parallelstellen der verglichenen Quellen nicht beigefügt wurden. Die wenigen, mit Bestimmungen des steiermärkischen Landrechtes übereinstimmenden Artikel des Pettauer Rechtes findet man in meiner Bearbeitung des ersteren bereits angegeben.</p>
+<p>Das Pettauer Stadtrecht ist unter allen bisher bekannt gewordenen mittelalterlichen Stadtrechtsaufzeichnungen aus den deutsch-österreichischen Ländern — vom Wiener Rechtsbuche abgesehen — die reichhaltigste. Wenn auch bei Weitem nicht erschöpfend, behandelt oder berührt es doch fast jede Seite des städtischen Rechtslebens. Am zahlreichsten sind die Handel und Gewerbe betreffenden Artikel und die damit zumeist zusammenhängenden Bestimmungen über Steuern und Abgaben; zahlreich die Artikel über die Stadtverfassung, Verwaltung und Polizei, über das Gerichtswesen, das Verhältniss des Landrichters zum Stadtgerichte und zu den anderen Gerichtsbarkeiten in der Stadt und im Salzburg-Pettauer Gebiete, verhältnissmässig zahlreich und sehr beachtenswerth die privatrechtlichen Artikel, dürftig die strafrechtlichen.</p>
+                <p>Dieser Stoff ist nun zwar nicht streng systematisch geordnet, aber doch scheint bei der Anlage des Ganzen ein gewisser Plan vorgeschwebt zu haben, demzufolge die denselben Gegenstand betreffenden oder sonstwie zusammenhängenden Bestimmungen in mehr oder weniger langen Reihen aneinander gefügt wurden, so dass das Ganze gewissermassen in mehrere grössere Abschnitte getheilt erscheint, zwischen welche aber einzelne nicht hineinpassende Bestimmungen hinein gerathen sind. Den wichtigen Satzungen über die Rechte der Salzburger Erzbischöfe (<quelle url="#A.1">Art. 1</quelle> bis <quelle url="#A.5">5</quelle>) folgt eine Reihe der werthvollsten, vornehmlich auf Gewerbe und Handel bezüglichen Privilegien (<quelle url="#A.6">Art. 6</quelle> - <quelle url="#A.25">25</quelle> excl. <quelle url="#A.19">19)</quelle>, dann nach einigen strafrechtlichen und einigen civilrechtlichen Artikeln (<quelle url="#A.27">27</quelle> - <quelle url="#A.31">31</quelle>) ein ziemlich die Hälfte des ganzen Stadtrechtes umfassender Abschnitt, der fast durchaus Bestimmungen über die Rechte und Verpflichtungen des Richters und Rathes enthält (<quelle url="#A.33">Art. 33</quelle> - <quelle url="#A.121">121</quelle>), wo freilich die verschiedenartigsten Gegenstände zur Sprache kommen und gelegentlich auch solche, <pb n="16"/> die unter den angedeuteten Gesichtspunkt nicht fallen; z. B. Art. <quelle url="#A.94">94</quelle> - <quelle url="#A.96">96</quelle>, <quelle url="#A.98">98</quelle>, <quelle url="#A.99">99</quelle> u. a. Auf diesen grossen Abschnitt und ein kurzes Kunterbunt (<quelle url="#A.122">Art. 122</quelle> - <quelle url="#A.127">127</quelle>) folgt eine Reihe von Bestimmungen über den Handel mit Auswärtigen, das Gastrecht (<quelle url="#A.128">Art. 128</quelle> - <quelle url="#A.140">140</quelle>); ein Abschnitt über Familiengüterrecht, Vormundschaft und Erbrecht (<quelle url="#A.141">Art. 141</quelle> - <quelle url="#A.160">160</quelle>), weiters einige Artikel betreffs der Gerichtsbarkeit über sogenannte schädliche Leute und über Verschuldungen von Pettauer Bürgern gegen Diener der Herren von Pettau und dieser gegen jene (<quelle url="#A.162">Art. 162</quelle> - <quelle url="#A.168">168</quelle>). Sodann folgt wieder ein längerer Abschnitt über das Recht in der Freiung (Jahrmarktsfreiheit, <quelle url="#A.169">Art. 169</quelle> - <quelle url="#A.185">185</quelle>), und schliesslich 
+                    noch Bestimmungen über die Verhältnisse, namentlich über die Gerichtsbarkeit des Landrichters gegenüber dem Stadtrichter und den sonstigen Gerichtsherrschaften in Pettau und dem Salzburg-Pettauer Gebiete (<quelle url="#A.186">Art. 186</quelle> - <quelle url="#A.193">193</quelle>). Der Artikel <quelle url="#A.194">194</quelle> ist die Uebersetzung eines königlichen Privilegiums;<note n="16.1">Siehe <quelle url="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10721306_00227.html">Kurz, K. Ottokar 2, 213</quelle>.</note> der Artikel <quelle url="#A.195">195</quelle> ein landesfürstliches Privilegium der Salzburger Kirche allgemeineren, auch in Steiermark wirksamen Inhaltes.</p>
+                <p>Bezüglich der Bearbeitung und Wiedergabe des Textes wurden die im <quelle url="&oew_1;">ersten Bande der akademischen Weisthümerpublication von Siegel und Tomaschek</quelle> aufgestellten Grundsätze als massgebend betrachtet; doch schien es hier, wo es sich um Wiedergabe der einzigen bisher bekannten mittelalterlichen Handschrift eines mindestens für die österreichische Rechtsgeschichte sehr wichtigen Rechtsdenkmales handelt, zweckmässig, alle bemerkenswerthen Eigenthümlichkeiten derselben bestimmt und deutlich anzugeben oder — soweit dies mit bequemer Lesbarkeit des Textes vereinbar schien — geradezu beizubehalten. Deshalb wurde nicht nur die mitunter recht ungeschickte Eintheilung des Textes in Artikel fast unverändert beibehalten und jede Abweichung davon bezeichnet, sondern selbst die bei der Kürze der meisten Artikel ziemlich überflüssigen und meist nichtssagenden Ueberschriften derselben wurden mitgetheilt, fehlende aber nicht durch selbstgewählte ersetzt. Bezüglich der Wortschreibung sei nur besonders bemerkt, dass anstatt des handschriftlichen <hi rend="it">cz</hi> für <hi rend="it">z</hi> am Anfang und inmitten der Worte, nicht aber für das deutlich <pb n="17"/> unterscheidbare <hi rend="it">tz</hi>, z. B. in <hi rend="it">vitztumb</hi>, <hi rend="it">setzen</hi> u. s. w. <hi rend="it">z</hi>; statt <hi rend="it">v</hi> oder <hi rend="it">w</hi> in der Bedeutung von <hi rend="it">u</hi>, abgesehen von Eigennamen, die unverändert wiedergegeben wurden, immer <hi rend="it">u</hi> gesetzt wurde. Das Dehnungszeichen bei dem Worte <hi rend="it">an</hi> = ohne wurde leichterer Lesung halber beigefügt. Alle sonst noch einigermassen bemerkenswerth scheinenden Abweichungen von dem handschriftlichen Texte wurden in den Fussnoten angegeben, nur ganz unzweifelhafte Schreibfehler oder Versehen ohne Bemerkung berichtigt. In der Handschrift sind die Artikel nicht gezählt; die hinzugefügte Nummerirung und das alphabetische Inhaltsverzeichniss werden der Benützung des Rechtsbuches hoffentlich willkommene Dienste leisten.</p>
+                <p>Obwohl, wie bereits bemerkt wurde, die besprochene Stadtrechtshandschrift kein Zeichen amtlicher Ausfertigung an sich trägt, ist doch an der Giltigkeit und Anwendung der darin verzeichneten Rechtssätze und Bestimmungen gar nicht zu zweifeln. In einer Urkunde vom 6. Juli 1466<note n="17.1">Copie im steiermärkischen Landesarchiv <quelle url="">Nr. 7133b</quelle>.</note> sagt <name>Erzbischof Bernhard von Salzburg</name>: "<hi rend="it">das für uns khomen unser getreu&se; der richter, der rat und die ganz gemain unser statt Pettau, und gaben uns zu erkhennen, wie sie etwa vill recht und gewonhait zu gemainem nuz derselben stat brauchten und lang zeit her braucht hietten, die in von weilent unsern vorfordern sel. ged. erzbischofen von Saltzburg bestet weren, darumb sie uns der bemelten unserer vorfordern brieflich khundschaft fuerhielten und sehen liessen und baten mit diemietigem vleiss, dass wir dieselben recht und gewonhait zu vernewen, auch gnädiglich zu bestätten geruehten. Nun wir aber genaigt sein, gemainen nuz unserer stat zu befördern, auch sie bei löblichen gewonhaiten und gueten rechten vestiglich zu halten, haben wir ir vleissige bete angesehen und in die bemelten ire recht und herkhomen vernewert und bestet, vernewen und bestätten in auch die mit dem gegenwärtigen unserm briefe in nachgeschrieben forme. Von erst, das in der vorstat khain man khaufmanschaft treiben soll; wellen aber die hofstetter khaufmanschaft in der stat treiben an dem erchtag, das sullen sie thuen als ander gest.</hi>" Dieser Artikel ist übereinstimmend mit <quelle url="#A.6">Artikel 6</quelle> des Pettauer Stadtrechtes. Demselben folgen in dem genannten Privilegium noch fünfzehn Artikel, welche den Artikeln <quelle url="#A.7">7</quelle>, <quelle url="#A.8">8</quelle>, <pb n="18"/> <quelle url="#A.9">9</quelle>, <quelle url="#A.10">10</quelle>, <quelle url="#A.11">11</quelle>, <quelle url="#A.12">12</quelle>, <quelle url="#A.13">13 (erste Hälfte)</quelle>, <quelle url="#A.18">18 (excl. fine)</quelle>, <quelle url="#A.19">19</quelle> bis <quelle url="#A.25">25</quelle> dieses Stadtrechtes — abgesehen von ganz unbedeutenden Abweichungen — dem Inhalt, Wortlaut und der Aufeinanderfolge nach genau entsprechen. Nur in dem dem <quelle url="#A.22">Artikel 22</quelle> des Stadtrechtes entsprechenden Artikel über die zu Pettau bestehenden Freiungen findet sich der Zusatz: "<hi rend="it">in unserm casten und ambthof</hi>". Dass in diese Bestätigung nicht auch die ersten fünf das Verhältniss der Erzbischöfe von Salzburg zu den Herren von Pettau regelnden Artikel des Stadtrechtes aufgenommen wurden, erklärt sich aus den inzwischen eingetretenen Aenderungen dieser Verhältnisse, bezüglich welcher übrigens unzweifelhaft verbindliche, keiner neuerlichen Bestätigung bedürftige Urkunden vorhanden waren. Andererseits beschränkte sich die Confirmationsurkunde <name>Erzbischof Bernharts</name> nicht auf die oben bezeichneten Artikel, sondern sagt im weitern Verlaufe: "<hi rend="it">"Wir wollen auch, das die vorgenannt unser stat Pettau bei allen den rechten und gewonhaiten beleiben, die sie unz her gebraucht hat an allen den stückhen, die hie nicht verschrieben sind.</hi>" Demnach dürfte die Vermuthung wohl gestattet sein, dass unter der "<hi rend="it">brieflich khundschaft</hi>" der erzbischöflichen Vorfahren, welche die Pettauer dem <name>Erzbischofe Bernhart</name> fürhielten und sehen liessen, das Stadtrecht vom Jahre 1376, oder doch neben anderen Vorlagen auch dieses Stadtrecht zu verstehen sei. Uebrigens lässt sich die fortdauernde Giltigkeit desselben im Ganzen und fast aller seiner Bestimmungen bis in das 16. Jahrhundert in kaum anfechtbarer Weise darthun. Im steiermärkischen Landesarchive befindet sich nämlich eine dem 17. oder 18. Jahrhunderte angehörige Handschrift mit dem Titel: "<hi rend="it">Der Statt Pettau Freyhaits-Abschrift</hi>", enthaltend die vom Salzburger <persName ref="&wp;Leonhard_von_Keutschach">Erzbischof Leonhart von Keutschach</persName> am St. Oswaldstag 1513 bestätigte und reformirte Pettauer Stadtordnung. Dieser Reformation und Confirmation muss aber das Stadtrecht vom Jahre 1376 vorgelegen haben, da es sich in derselben zum allergrössten Theile wiederfindet. Zwar ist diese Stadtordnung weit umfangreicher als das Stadtrecht, enthält Bestimmungen über manche in diesem gar nicht behandelte Gegenstände, z. B. über die von der Stadt zu verleihenden Stiftungen und Pfründen, führt andere viel weiter aus, namentlich die auf Handel und Gewerbe bezüglichen, bringt die Bestimmungen des Stadtrechtes oft in anderer Ordnung und durch Einschübe neuer <pb n="19"/> Bestimmungen getrennt (wie es scheint ganz planlos), manche auch mehr oder weniger im Inhalt und sehr viele im Wortlaut abweichend; behält aber die meisten wenigstens dem Inhalte und viele auch der Reihenfolge nach ganz unverändert bei, muss sie also als zur Zeit der veranstalteten Reformation noch giltig und verbindlich angesehen haben. Die Publication dieses Stadtbuches, wozu sich hoffentlich einmal eine gute Gelegenheit finden wird, würde die obige Behauptung vollkommen rechtfertigen. Vorläufig möge hiezu die Mittheilung einiger nicht für diesen Zweck besonders ausgesuchter Artikel desselben und die nachstehende vergleichende Tabelle dienen. Ein Absatz des <quelle url="#A.118">118. Artikels</quelle> lautet: "<hi rend="it">Khumbt ain gast von Hungern mit vischen her gen Pettau, die sol der gast vail haben drei ganze tag und die bei ainzigen oder gar hieigen bürgern verkhaufen; ob er aber die in den dreien tagen nit verkhaufen nicht, so mag er die verkhaufen wem er will, oder ferer füeren</hi>." Hierauf folgt: "<hi rend="it">Der richter soll des fleissig sein, das die statt bei rechten beleib und nit gestatten, das ain gast in der wochen mit dem andern handl, nur an dem ertag allain, mit kaufen und verkhauffen, und das doch desselben tags derselb handl wider der stat recht nit beschech.</hi>" Man vergleiche damit <quelle url="#A.53">Artikel 53</quelle>, <quelle url="#A.54">54</quelle> und <quelle url="#A.12">12</quelle> des Stadtrechtes von 1376. — <quelle url="">Artikel 23 des Stadtbuches von 1513</quelle> lautet: "<hi rend="it">Ob ain man oder ain frau etwas verlierent, was das sei, das ain ander findet und wissentlich ist, und gibt das nicht wider so man darnach fragt, es ist der finder darumb ze bessern. Ob aber der finder laugnet, so hat man den fund für dieperei. Gibt er es aber wider so man darnach fragt, soll man im fundmiet geben. Und ob man dem, der solch gut verloren hat, nicht glauben wölt, so soll er darzu thuen, was recht ist; saget er aber rechte warzaichen zu der hab, so ist im zu glauben unberechtent.</hi>" Man vergleiche <quelle url="#A.100">Artikel 100</quelle> bis <quelle url="#A.102">102</quelle> des folgenden Stadtrechtes. — <quelle url="">Artikel 52 Stadtbuch</quelle>: <hi rend="it">"Der richter soll auch fleissig sein, was der merer thail des rats der stat erfindet und aufsetzt, das es dabei beleib."</hi> Vgl. <quelle url="#A.68">Artikel 68 von 1376</quelle>. — In der nachstehenden Tabelle bezeichnen die den Artikelzahlen beigesetzten Buchstaben die Abschnitte der längeren Artikel in der Stadtordnung von 1513, die Sternchen bemerkenswerthe Abweichungen der Artikel in dieser von den entsprechenden Artikeln im Stadtrecht von 1376.<pb n="20"/></p></div>
+            <div id="Tabelle">
+                <head>[Tabelle]</head>
+                <p>[Auf eine Transkription der Tabelle wurde verzichtet und statt dessen das <quelle url="pettaustr_tabelle.pbm">Seitenabbild</quelle> eingefügt.]</p>
+<p>Diese Vergleichung zeigt, dass von den hundert und sechsundneunzig Artikeln des Stadtrechtes v. J. 1376 nahezu hundert und vierzig in die Reformation v. J. 1513 aufgenommen wurden und mehr als hundert davon im Wesentlichen ohne Aenderung. Das alte Stadtrecht stand demnach zum grössten Theile noch im 16. Jahrhundert in Geltung.</p>
+<p>Ich lasse nun den Text desselben folgen.<pb n="21"/></p></div>
+                   <div id="Text">
+                <head>[Vorwort]</head>
+<p>a. Anno ab incarnacione domini m°. ccc°. lxxvi°. zu den zeiten des hochwirdigen unsers gnedigen herren ertzbischoff Pilgereyms von Saltzburg<lb/>
+        b. Und zu den zeiten des ersamen herren herren Hansen Genschker vitztum zu Leibnitz<lb/>
+        c. Und zu den zeiten Petter Poltleins die zeit statrichter zu Pettau sind vermercht der stat recht zu Pettau nach begier des selben vitztums und nach gedechnus der gesworen dez ratz der 
+selben zeit:<lb/>
+        d. Mertleins des pecken, Jureins des fleischacker, Petreins des hofsneider, Lienhartz in der Tragassen, Jacleins des statschreibers, Hermans von Lindau, Hansen des Graser, des schon Jacleins und Jacobs des Lindecker.</p>
+<head>Zu den zeiten ertzpischof Cunratz.</head>
+<p>        e. Von erst geben wir zu erchennen, daz wir von unsern eltern gehort haben, die da gewesen sind zu den zeiten ertzbischoff Cunratz von Saltzburg und darnach zu den zeiten ertzbischoff Hainreichs von Saltzburg, wie sie sich gein der herschaft von Pettau und die von Pettau herwider gein der stat mit rechten gehalten haben und mit welhen rechten die stat untz an seu herchomen ist in der freiung und uber iar.</p>
+<head>Zu den zeiten ertzpischof Ortolf.</head>
+<p>f. Die selben habent uns underweist der selbigen rechten mit irrer gedechnu&se;s und also haben wir dieselben rechten gehalten pei des hochwirdigen unsers gnedigen herren ertzbischoff Ortolf zeiten des Weyssenecker.<lb/>
+        g. Die selbig zeit war herr Hans der Windischgretzer vitztum ze Leibnitz und pfarrer ze Pettau und Lewpolt der Czwickel war richter.</p>
+                       <head>Her Cholman vitztumb.</head>
+<p>h. Nach des selben Windischgretzer tod wart zu einem vitztumb genomen vitztumb Cholman und herr Cunrat von Wigolting der wart pfarrer hie zu Pettau. <pb n="22"/>
+</p>
+                       <head>Hans Mawrer richter.</head>
+<p>i. Da Lewpolt der Czwickel starb da nam man zu einem richter Hansen den Mawrer seinen aeiden.</p>
+<head>Ertzpischof Pilgreym.</head>
+<p>k. Anno (mccc°.) lx°. iiii°. starb pischoff Ortolf; da wart ertzbischoff Pilgreim zu herren erwelt der Puochaymer.</p>
+<head>Herr Chunrat vitztumb.</head>
+<p>l. Pei des selben Pischof Pilgreyms zeiten starb vitztumb Cholman; da wart zu vitztumb genomen her Chunrat von Weygolting unser pfarrer.</p>
+<head>Hans Hallinger richter.</head>
+<p>m. Zu des selben vitztumb Cunratz zeiten starb Hans der Mawrer; da nam man zu einem richter Hansen den Halinger.</p>
+<head>Hans Genschker vitztumb.</head>
+<p>n. Da derselb vitztumb Cunrat starb da wart ze einem vitztumb genomen herr Hans der Genschker.</p>
+<head>Peter Poltel richter.</head>
+<p>o. Zu des selben vitztumbs zeiten starb Hans der Ha&se;linger; da nam man zu einem richter Petter Poltlein. der selb was richter lxxiiii°. und v°. und anno vi°.</p></div>
+<div id="A">
+<head>Wie sich die Pettawer gein dem landes fursten und  gein dem von Saltzburg halten schullen.</head>
+<p>Und sind daz die recht, die wir und unser eltern gehalten haben untz auf die zeit des iars lxxvi°. als ditz puech geschriben ist.</p>
+    <div id="A.1">
+ <p>1. Es schullen die von Pettaw dem landesherren oder nachgepauern von dem geslos hie zu Pettaw chainen krieg anstossen.</p></div>
+    <div id="A.2">
+<p>2. Es mag auch der von Saltzburg sich geziehen in die vest hie zu Pettaw wie offt es im hie gevelt und schol im der von Pettaw die vesten raumen; aber er mag wol einen kasten darin haben, ob er wil.<pb n="23"/></p></div>
+<div id="A.3">
+    <p>3. Es schol auch der von Pettaw sein tegleich gesind herbergen auf die zwelf hofstet an dem perg, die im geben sind zu der behausung.</p></div>
+    <div id="A.4">
+        <head>Umb die maut.</head>
+<p>4. Es schol auch der von Pettaw die maut, die im zu purchhuet geben ist, nemen alz es von alter her chomen ist und schol man von den purgern zu Pettaw chain maut nich nemen.</p></div>
+<div id="A.5">
+<head>Der von Pettaw.</head>
+<p>5. Es schol auch der von Pettau unsern herren von Saltzburg und seine leut bewaren und auch beschirmen in der stat und auswendecleich mit gantzen treuen.</p></div>
+    <div id="A.6">
+<head>Das sint der statrecht.</head>
+<p>6. Es schol auch in der vorstat chain man sein, der chaufmanschaft treib; wellen aber die hofstetter chaufmanschaft treiben an dem eretag in der stat, daz schullen seu tun als ander gest.</p></div>
+    <div id="A.7">
+<head>Statrecht.</head>
+<p>7. Es schol auch vor der stat chain pachofen sein da man vails prot inne pach, noch niemand vor der stat  chain vailz prot nicht haben, noch schuester noch lederer die schuchwerich noch lederwerch wurchen, noch chain fleischker, der fleisch vail hat, alz die Pessnitz sagt und die Tra&se;u; nur in der stat zu Pettau.</p></div>
+<div id="A.8">
+<head>Statrecht.</head>
+<p>8. Es mugen auch die geufleischker an dem ertag in der stat wol bachein fleisch vail haben und verchauffen pei gantzen pachen, pei halben, pei virtailn und nicht minner; aber in der 
+wochen schullen seu in der stat nicht vail haben.</p></div>
+    <div id="A.9">
+<head>Statrecht.</head>
+<p>9. Welicher purger auf das ungrisch oder anderswa vert oder sein diener oder sein hab dahin sendet und chauffet da oder nimpt aus chaufmanschaft ân geva&se;r, da schol man zu Pettau 
+nicht von mauten. <pb n="24"/></p></div>
+<div id="A.10">
+<head>Statrecht.</head>
+<p>10. Es mag auch chain auzer man hintz zu einem purger nichtz pewa&se;ren; nu&se;r mit purgern oder zu dem minnisten mit einem purger und mit einem ausern man.</p></div>
+<div id="A.11">
+<head>Statrecht.</head>
+<p>11. Wer auch in die stat vert und enphacht purchrecht und sitz darinne geruet jar und tag, damit hat sein herr nicht zu schaffen, er sei hold oder eigen man, und mugen wir in fur unsern 
+purger wol versprechen.</p></div>
+    <div id="A.12">
+<head>Statrecht.</head>
+<p>12. Chumpt ein gast von Ungern mit vischen, die mag der gast wol vail haben als lang er wil und mag die visch verchauffen pei clain und pei grossen wem er wil.</p></div>
+<div id="A.13">
+<head>Statrecht.</head>
+ <p>13. Waz auch stet umb Pettau gelegen sind, der purger schullen in der stat haben ire handlung als ander gest, wan man daz selbig tun mus in iren steten; ausgenomen die purger von Feustritz, die mugen an dem marchtag ir loden niderlegen auf tisch und mu&se;gen die verchauffen und versneiden bei der ellen wem sie wellen.</p></div>
+    <div id="A.18">
+<p>14. Rock und mentel, die seu herbringen auf den marcht, schollen seu niderlegen auf tisch und mugen die verchauffen wem sie wellen des selben tags.</p></div>
+<div id="A.15">
+    <p>15. Sie mugen auch ir gesnittez leder, daz seu herpringen auf stu&se;l legen und mugen das an dem marchtag verchauffen, wem sie wellen.</p></div>
+    <div id="A.16">
+        <head>Statrecht.</head>
+        <p>16. Zu gleicher weis haben die purger von Pettau die selbenn recht zu Feustritz an iren marchtag.</p></div>
+                       <div id="A.17">
+                           <head>Statrecht.</head>
+<p>17. Auch schullen unser wein von Pettau und all ander unser chaufmanschaft zu Feustritz durchgen, wellent man welle, ân alle irrung. <pb n="25"/></p></div>
+                               <div id="A.18">
+                                   <head>Statrecht.</head>
+<p>18. Es schullen auch die iuden in der stat zu Pettau weder schencken noch chainerlay chaufmanschaft treiben und schullen auch mit leiden. so der stat ein grosz notdurft zustet mit pessrung.</p></div>
+                             <div id="A.19">
+                                 <head>Statrecht.</head>
+<p>19. Cheumpt ein feuer auz ân geva&se;r und von unbesicht, daz schol der man, in des haus es geschicht, pessern an die stat mit einem pfunt pfenning.</p></div>        
+    <div id="A.20">
+        <head>Statrecht.</head>
+        <p>20. Es schol auch chain purger der edelleut heuser umb zins haben noch besten und schol chain edelman in eins purger haus herbergen uber seinen willen.</p></div>
+    <div id="A.21">
+        <head>Statrecht.</head>
+        <p>21. Es mag auch ein ietzleicher unversprochner purger zu Pettau in unserm statgericht da selbs ein recht ertailen nach seiner gewissen.</p></div>
+    <div id="A.22">
+        <head>Statrecht.</head>
+        <p>22. Es schol auch in chainen haus in der stat zu Pettau chain freiung nicht sein, dan da sie von alter zu recht sein schol, daz ist in den zwain clostern und in dem obern des von Pettau 
+hoff, der pei den predigern gelegen ist.</p></div>
+                             <div id="A.23">
+                                 <head>Statrecht.</head>
+<p>23. Man schol auch in chains hoffmans haus zu Pettau wein schencken, den der Pettauer wein mag man wol schencken.</p></div>
+                             <div id="A.24">
+                                 <head>Statrecht.</head>
+<p>24. Sich schol auch chain purger, in unser stat zu Pettau gesessen, an niemand herren, dann an uns, unsern vitztumb zu Leibnitz oder unsern richter zu Pettau.</p></div>
+                             <div id="A.25">
+                                 <head>Statrecht.</head>
+<p>25. Man schol auch niemand in der stat zu Pettau aufhaben oder verpieten umb deuf oder umb nachtschach, des er selben nicht getan hat.</p></div>
+    <div id="A.26">
+        <head>Statrecht.</head>
+<p>26. Man schol ze hals hintz chainer swangern frauen richten, die lebntigz chint trait; ist aber die schuld so groz, daz man si <pb n="26"/> darumb maint zu toten, so sol man sei behalten in beschaidner vanchnuz untz daz si dez chindes ledig wirt.</p></div>
+    <div id="A.27">
+<p>27. Ist aber die schuld ringer daz den halz nicht ruert, so schol man sei zuchtigen mit beschaiden slegen, daz si dez chindes davon icht ân werd.</p></div>
+    <div id="A.28">
+        <head>Notnuft.</head>
+<p>28. Swer ein fraun irer eren beraubt wider irn willen und hort man ir geschrai oder tut si ez den leuten zu stunden mit clag und mit geschrai zu wissen und chumpt damit an daz gericht, 
+ob si ez erlangen mag, der richter schol ir richten.</p></div>
+    <div id="A.29">
+<p>29. Ist si maid gewesen, man schol in also lebntigen begraben; hat si aber ain man oder hat ain man gehabt, so sol man im den halz mit ainer dilln abstoszen.</p></div>
+    <div id="A.30">
+                   <head>Von behaltnus.</head>
+<p>30. Swelich man dem andern sein gut ze halten geit, wirt ez im verstoln oder mit raub genomen oder verprant oder stirpt ez, ob ez vich ist, mag der inhaber darumb sein recht getun, daz es ân sein schuld geschehen ist, er ist im daran nichtz schuldig ze gelten.</p></div>
+    <div id="A.31">
+        <head>Von leihen.</head>
+<p>31. Swaz aber ain man dem andern leicht oder setzt, daz schol er im unverderbt und ungeergert hinwider geben oder er schol imz gelten nach seinem wert; stirbt aber daz pharcht oder daz vich, daz im versatzt ist, ân sein schuld, der ez inne hat, mag er daz beweisen oder recht darzu tun, daz ez ân sein schuld geschehen ist, er gilt sein nicht; aber sein gelt, daz er darauf gelihen hat, daz hat er verlorn; ez si dan, daz ir gelubd gein enander anders stee.</p></div>
+    <div id="A.32">
+<head>So geswistret mitenander tailn wellen.</head>
+<p>32. So geswistret mitenander tailn wellent, oder ander erben, die geleich gefreunt sind, so schol der elter tailen und der iunger schol die wal nemen an dem tail.</p></div>
+    <div id="A.33">
+<head>So man ainen richter erweln wil.</head>
+<p>33. Es haben die gesworen des ratz iercleich ainen richter zu erweln, oder als offt des not geschicht, der unserm herrn von <pb n="27"/> Saltzburg um sein vodrung gu&se;t ist und den man genu&se;tzen mag in der stat notdurft und der auch der stat recht erchent und wais.</p></div>
+    <div id="A.34">
+<head>Dem statrichter pan und a&se;cht.</head>
+<p>34. Dem selben richter hat der selb unser herr verlihen pan und a&se;cht und hat in bestet zu dem gericht nach unser pett.</p></div>
+    <div id="A.35">
+<p>35. Und schol das gericht alweg zu sanct Peters tag in dem lantzen in und auz gend.</p></div>
+    <div id="A.36">
+<p>36. Und schol der selb richter unsern herren von Saltzburg oder seinen vitztumb, die weil er daz gericht inne hat, ia&se;rleichen geben virtzik march phenning.</p></div>
+<div id="A.37">
+    <head>Der dienst zu dem gericht.</head>
+<p>37. So ist das der dienst, der zu dem gericht gehort.<lb/>
+Die fleischker geben zins und losung zwir in dem iar, a&se;ins nach der freiung geben seu zwelf march minner xx den. und a&se;ins nach der liechtmess geben seu auch zwelf march minner xx den.</p></div>
+    <div id="A.38">
+<head>Salczcherin.</head>
+<p>38. Der salczcherin schullen sein xxiiii, der geit iede zu unser frauen tag der gepurd x den., das pringt ein libra den., und zu unser frauen tag der liechtmess als vil.</p></div>
+    <div id="A.39">
+        <head>Pekchen.</head>
+<p>39. Die pekchen geben ein libra den. losung zu sancte Michels tag und zu der liechtmess i libra den. losung.</p></div>
+    <div id="A.40 ">
+<head>Schu&se;ster.</head>
+<p>40. Die schuester geben zu sanct Michels tag iii schilling den. und zu der liechtmess iii schilling den., und geben drei stund in dem iar zolschuech.</p></div>
+    <div id="A.41">
+<head>Ledrer.</head>
+<p>41. Die ledrer geben zu sanct Michels tag drei schilling den. und zu der liechtmess drei schilling den.</p></div>
+    <div id="A.42">
+<head>Die wachserin.</head>
+<p>42. Der wachserin schulen viii sein; der geit iede zu sanct Michels tag vi den. und zu der liechtmess vi den. <pb n="28"/> </p></div>
+    <div id="A.43">
+        <head>Die fragnerin.</head>
+<p>43. Der fragnerin schullen vi&se;r sein, die stuel haben; der geit iede zu sanct Michelstag vi den. und ze der liechtmess vi den.</p></div>
+    <div id="A.44">
+<head>Leikeb denar.</head>
+<p>44. Leikebphennig nimpt man zwir im jar ab, ains im mosted und ains pein wein; geit iedermann der da wein schencht iii den. Wer aber sein pauwein schencht, der geit nichtz.</p></div>
+    <div id="A.45">
+<head>Das gruntrecht.</head>
+<p>45. Das gruntrecht nimpt er ab zwischen sanct Michels tag und zwischen sanct Merten tag. Daz pringt v march minner ix den.</p></div>
+    <div id="A.46">
+<p>46. Wer aber in der zeit sein gru&se;ntrecht nicht geit, wil der richter darauf fragen, so wirt im ertailt imer u&se;ber virtzehen tag lx den. als oft er darauf fragt; und schol auch die selben heuser
+als oft nennen.</p></div>
+<div id="A.47 ">
+<head>Auzrichten nach rat.</head>
+<p>47. Der richter schol auzrichten was im mit clag fur chu&se;mpt, und ob im ein handel ze fromd wer, so schol er es tun nach rat.</p></div>
+    <div id="A.48">
+<head>Wie sich der richter halten schol.</head>
+<p>48. Und waz vor gericht und in dem rat ausgericht wirt, daz schol er dapei behaben, daz der rat hinfur damit chain mu&se;e hab.</p></div>
+    <div id="A.49">
+<p>49. Es schol auch derselb richter alweg sein schreiber pei im haben in der schrang, der pei aller chlag sei und vermercht die zeugprieff, die vor gericht ertailt werden.</p></div>
+    <div id="A.50">
+<head>So man seich waigert an den vitztumb.</head>
+<p>50. Wer umb sein chlag fur gericht chumpt und rechtens darumb begert, dem schol der richter richten. So sich aber zwen tail umb ir sach willecleich schieben an den vitztumb, daz schol also besten untz auf sein chunft. Daz schol er dan nach rat ausrichten; daz aber iedem tail nach der stat recht genueg geschech.</p></div>
+    <div id="A.51">
+<head>Umb weu man urtail dingt.</head>
+<p>51. Was aber vor gericht mit chlag fur chumpt und darumb man redleich urtail an den vitztumb dingt zu rechter zeit ee daz <pb n="29"/> der richter uber den dritten gewragt hat, daz schol also einen furganch haben und schol wider fur recht chomen zu rechten ta&se;gen nach der statrecht; ist der vitztumb in dem land, so schol die urtail fur chomen in vierzechen tagen; ist er aber auz dem land, so schol die urtail fur chomen in sechs wochen.</p></div>
+    <div id="A.52">
+<head>Statrecht.</head>
+        <p>52. Aber welich chlag fur chumpt fur gericht mit weisung, oder mit anzeugen dargelegt wirt, umb dieselb chlag schol man furbas chain urtail dingen.</p></div>
+                        <div id="A.53">
+                            <head>Statrecht.</head>
+<p>53. Der richter schol des fleizsig sein, daz die stat pei recht beleib; er schol nicht gestatten, daz in der wochen ein gast mit dem andern chainerlei handel treib, nuer an dem ertag allain.</p></div>
+    <div id="A.54">
+        <p>54. Er schol auch nicht gestatten, daz ein gast am ertag wider der stat recht handel mit chauffen und verchauffen.</p></div>
+                        <div id="A.55">
+                            <head>Statrecht.</head>
+<p>55. Er schol schauen zu eln und zu glo&se;t und zu ander mas und sei des fleizsig, das mit wag und mit mas iederman recht beschech.</p></div>
+                        <div id="A.56">
+                            <head>Statrecht.</head>
+<p>56. Er schol dez fleizsig sein, damit die purgerin von erst chauffen an dem ertag ir notdurft und darnach die fragnerin, die es mit der losung verdient; aber den huchlerin schol er nicht gestatten, daz seu auf gewin chauffen, waz man zu der stat pringt.</p></div>
+                        <div id="A.57">
+                            <head>Statrecht.</head>
+<p>57. Aber was seu in den dorffern chauft haben, oder was seu selb da ha&se;im erzogen und erpaut haben, daz haben seu in der stat verchaufft zu rechter zeit des morgens, die weil man fruemess gesungen hat, untz auf das ampt, und dez abentz, die weil man vesper geleut und gesungen hat und nicht lenger.</p></div>
+                        <div id="A.58">
+                            <head>Statrecht.</head>
+<p>58. Der richter schol des fleissig sein, daz man der pauern wa&se;gen stellet auf den sweinmarch, daz der platz zu andern sachen geraum beleib. <pb n="30"/></p></div>
+    <div id="A.59">
+        <head>Statrecht.</head>
+<p>59. Und schol darzu sechen, daz man ein gleichen protchauf ta&se;glich hab nach dem und der getraid vail ist, und daz die stat mit prot ta&se;gleich nicht versaumpt werd.</p></div>
+                <div id="A.60">
+                    <head>Statrecht.</head>
+<p>60. Er schol nicht gestatten, daz iemand in der stat cha&se;inerlai gewerff oder arbait treib, der nicht purchrech hab.</p></div>
+                <div id="A.61">
+                    <head>Statrecht.</head>
+<p>61. Der richter schol nicht gestatten, daz iemand wachs hinsneid hinder dem pfund, nuer die es verdien mit der losung.</p></div>
+                <div id="A.62">
+                    <head>Statrecht.</head>
+<p>62. Er schol auch nicht gestatten, daz iemand saltz hin sneid oder verchauf hinder einem halben fu&se;der, nu&se;r die es verdien mit der losung.</p></div>
+    <div id="A.63">
+        <head>Von den platz und gassen.</head>
+<p>63. Er schol nicht gestatten, das man den mist an die gassen slach und daz man den platz und die gassen mit holtz verleg.</p></div>
+             <div id="A.64">
+                 <head>Von den feuerstetten.</head>
+<p>64. Der richter schol fleissig sein, daz man alle chotemper die feuerstet beschaut und waz man ungewa&se;rleich funde, daz man daz selb wende, und daz man daz cho&se;t aufheb und auz fu&se;r.</p></div>
+<div id="A.65">
+<p>65. Er schol nicht gestatten, daz iemand der stat grunt mit pau invach und sich der a&se;igen.</p></div>
+    <div id="A.66">
+<head>Von der vormaut.</head>
+<p>66. Der selb richter schol den mu&se;lneren nicht gestatten, daz seu uber jar chain vormaut nemen, nuer wan die Tra&se; mit rogeiz rinnet.</p></div>
+    <div id="A.67">
+        <head>Gerecht mul metzen.</head>
+<p>67. Er schol fleiszig sein, daz die mu&se;lner zu maut recht metzen nemen, der achtzehen auf ein statvirtail gen.</p></div>
+    <div id="A.68">
+<head>Statrecht.</head>
+        <p>68. Er schol auch fleissig sein, waz der merer ta&se;il des ratz der stat zu nutz erfunde und aufsetzt, daz er es dapei behab. <pb n="31"/></p></div>
+    <div id="A.69">
+<head>Von der gewer.</head>
+<p>69. Wes ein man nutz und gwer chomen ist, der schol des ân recht nicht entwert werden.</p></div>
+    <div id="A.70">
+<p>70. Wer vor gericht zu rechten ta&se;gen seine recht erlangt auf ein erb mit wissen ander gelter untz daz im der scherm daruber erfunden und ertailt ist worden ân irrung und ân widerred ander gelter, der schol furbas da mit geru&se;t beleiben, es sei dann, daz a&se;in ander gelter in dem land nicht zu den zeiten gewesen ist und umb die chlag nicht gewest hat; dem hat daz nicht geschat an seinem rechten, die weil seich der scherm nicht veria&se;rt hat.</p></div>
+<div id="A.71">
+<head>So der richter ein haus aufgeit.</head>
+<p>71. Chauft einer a&se;in haus in der stat, so schol es der richter aufgeben und schol darumb entphahen seine recht; von dem der verchauft hat schol er nemen zwai gruntrecht, und schol nemen von dem der chauft hat ain gruntrecht. Und so daz geschermpt wirt jar und tag, damit schol er furbas geruet beleiben.</p></div>
+<div id="A.72">
+<head>So der richter chaufbrief sigelt.</head>
+<p>72. So der richter chaufprief umb ein haus oder umb ainen acher sigeln schol, so schol er den alten brief und den neuen genenander verhoren ob seu mit dem dinst unde rechten pimerchen gleich sagen.</p></div>
+    <div id="A.73">
+<head>So man ain achker aufgeit.</head>
+<p>73. Und so er einen acher in dem purchfried aufgeit, so schol er nemen von dem verchauffer vir den. und von dem chauffer zwen phenning.</p></div>
+    <div id="A.74">
+<head>So ainer purchrecht enphecht.</head>
+<p>74. So ainer purchrecht enphecht, der swert ain aid und geit dem richter xl den. und geit auf die stat xl den; hat er aber ain haus in der stat oder hat ein purgerin oder aines purger tochter zu weib genomen, so ist er der phening ledig; aber er mus dannoch sweren.<pb n="32"/> </p></div>
+    <div id="A.75">
+<head>Geit nicht aid denar.</head>
+<p>75. Swert ain purger ain aid in der schrang, von welherlai sach wegen daz chumpt, der geit chain aid den.; ain frau geit auch nicht aid denar.</p></div>
+    <div id="A.76">
+<head>Zwir pantaiding.</head>
+<p>76. Pantaiding die sint zwir in dem jar, ains nach dem chirchtag, ains nach der liechtmes, und werent alweg virtzehen tag.</p></div>
+    <div id="A.77">
+<head>Daz wandel in den pantaidingen.</head>
+<p>77. Chlait ainer den andern in den pantaidingen, versitzt der antwurter, so ist er dem richter ein wandel; ist das er aber antwurt und dem clager vervolt, so ist er dem richter aber ain wandel; daz ist xii den. auf gnad.</p></div>
+    <div id="A.78">
+<head>Die gewonleich steuer.</head>
+      <p>78. Der gewondleichen steuer, die man gein hof geraicht hat, ist von alter alweg gewesen sechzig march und dem vitztumb xii march; die hat man geben zwischen sanct Marten tag und weinachten.</p></div>
+    <div id="A.79">
+<p>79. Daz ist pei vitztumb Chu&se;nratten von Wigolting chomen auf sibenzk march gein hoff und dem vitztumb xii march.</p></div>
+    <div id="A.80">
+<p>80. So man die gewondleich steuer anlegt, so geit der richter nicht steuer noch der stat schreiber. Und das man die steuer inpringt, si sei clain oder groz, da von gevelt dem statschreiber zwo march und dem schergen ein halp libra.</p></div>
+    <div id="A.81">
+<head>Zinsgelt, der ab ze losen ist.</head>
+<p>81. Waz zinsgelt ist auf heusern in der stat, der nicht ewig ist, mag man wol ain march geltz ablo&se;sen mit zehen march phenning.</p></div>
+    <div id="A.82">
+<head>Gotzheuser zinsgelt.</head>
+<p>82. Hat ein gotzhaus zinsgelt auf heusern, die schullen umb iren versessen zins mit gerichtz potten phenten in dem haus. Mu&se;gen seu sich aber in dem haus nicht gephenten, so fragen vor gericht darauf; so wirt in ertailt: imer uber virzehen tag lx den. <pb n="33"/></p></div>
+    <div id="A.83">
+<head>Ain ratman ze setzen.</head>
+<p>83. Es hat auch der rat, so es die notdurft pringt, ein ratman zu setzen. Die nemen darzu ainen, den seu erchennen, der darzu nutz ist und den man in der stat notdu&se;rft genutzen mag, so des not geschicht und der auch der stat recht erchennet und wais furzupringen.</p></div>
+    <div id="A.84">
+<head>Von dem ratman.</head>
+<p>84. Umb was ain ratman vor gericht spricht pei seinen treuen, daz hat als gross chraft als sa ein gemein man ain aid swert.</p></div>
+    <div id="A.85">
+<head>Von dem ratman.</head>
+<p>85. Wer wider ain ratman tu&se;t, der schol daz pessern und ablegen gein dem gantzen rat.</p></div>
+    <div id="A.86">
+<p>86. Ein ratman geit dem richter chain schrangwandel; er geit auch dem schergen chain furpotphenning.</p></div>
+    <div id="A.87">
+<head>Von den flaischkern.</head>
+<p>87. Es hat der rat gewalt, die sechser ze setzen under den flaischkern, wan des not ist, und mu&se;gen seu auch gepessern umb ir schuld.</p></div>
+    <div id="A.88">
+        <head>Von den semelpechken.</head>
+<p>88. Also mag auch der rat under den semelpechen der maister mer gemachen, wann des not ist, damit die stat nicht versaumpt wirt, nach der leut und der stat notdurft, und mu&se;gen die gepessern nach iren schulden, alz daz mit gewonhait von alter her chomen ist.</p></div>
+    <div id="A.89">
+<head>Der aufsatz under den pecken und der vael.</head>
+<p>89. Und ist daz der aufsatz under den pechen :<lb/>
+ So die stat mit prot gesaumpt ist, so schol der richter hintz ze allen pechen gen und datz zu welhem pekchen er mel vindet und hat nicht prot auf den marcht oder in dem ofen oder taig in dem trog, der ist vervallen der stat lx den, und dem richter lx den.</p></div>
+    <div id="A.90"> 
+<p>90. Welker pekch aber des mels nicht hat, der ist desselben wandels ledig.</p></div>
+     <div id="A.91">
+    <head>Von den pecken.</head>
+<p>91. Wan aber die pekhen daz bro&se;t zu clain pachen, so schol der richter und die darzu gesatzt sind daz selb prot aufheben und schullen es den armen leuten in daz spittal senden. <pb n="34"/></p></div>
+    <div id="A.92">
+<p>92. Haben seu aber gesechen, das ein notdurft gewesen ist das prot zu verchauffen, so haben seu daz prot gesnitten und gesatz zu verchauffen nach seinem wert.</p></div>
+    <div id="A.93">
+<head>Von den pecken.</head>
+<p>93. Und welher pekch daz also nicht verchauft hat, den hat aber der richter gephendet der stat umb lx den. und im selb umb lx den.</p></div>
+    <div id="A.94">
+<head>Wer mit der stat nicht leidet.</head>
+<p>94. Wer mit der stat nicht leidet der schol auch mit der stat nicht aufheben.</p></div>
+    <div id="A.95">
+<p>95. Ain ieder schol dem auzwarten, daz im enpholhen ist. Ein ampman schol seinem ampt auzwarten und den pauern auf dem urbar, die im entpholhen sind und schol seich chains handels underwinden, der den purgern zu schaden chom.</p></div>
+    <div id="A.96">
+<head>Iuden richter.</head>
+<p>96. Der iuden richter schol den iuden auzwarten nach irn rechten.</p></div>
+    <div id="A.97">
+<head>Von den iuden.</head>
+<p>97. Und schullen die iuden ire brief, die seu haben hintz den purgern, ja&se;rlich furtragen in die schrang fur den statrichter und ir vordrung darauf melden.</p></div>
+    <div id="A.98">
+<head>Iuden.</head>
+<p>98. Aber ireu schreinphant, die seu von den christen habent, die mu&se;gen seu an dem phinstag fur iren iudenrichter furtragen und iren rechten damit nachvaren.</p></div>
+    <div id="A.99">
+<head>Iuden.</head>
+<p>99. Auf kirchen chlained, auf plutigs gewant, auf rochz garn, auf ungewundenz choren und auf gesnittens gewant, daz noch unberait ist, schullen die iuden nicht leihen.</p></div>
+    <div id="A.100">
+<head>Von verlust.</head>
+<p>100. Ob ein man oder frau etwaz verleust, waz daz sei, und daz vindet ain ander und geit daz nicht wider, so man darnach <pb n="35"/> fragt, wirt ez darnach offenbar, es ist darumb ze pessern; und ob es sein laugent, so ist es verstoln.</p></div>
+<div id="A.101">
+<head>Von der funtmiet.</head>
+<p>101. Geit er es aber wider, so man darnach fragt, so ist im schuldig zu geben sein fundmiet; und ob man im nicht glauben wolt, daz er ez verloren hiet, so schol er darzu tu&se;n, daz recht ist.</p></div>
+    <div id="A.102">
+<p>102. Sagt er aber gleich zu und wortzaichenleich (!) waz der hab ist, so ist im ze glauben unberecht.</p></div>
+<div id="A.103">
+<head>Statrecht.</head>
+    <p>103. Es hat auch der statrichter ze richten in dem purchgraben, auf den pruken und auf den gri&se;szen und in den mu&se;ln, die auf der stat gru&se;ntten haften, und daz sich zwischen den purgern verget.</p></div>
+                         <div id="A.104">
+                             <head>Statrecht.</head>
+<p>104. Es hat auch der richter alle schuld zu pessern nach dez ratz rat; so man aber dem richter und rat nicht gehorsam ist, so mag wol der vitztumb die selb schuld gepessern.</p></div>
+    <div id="A.105">
+<head>Statrecht.</head>
+<p>105. Ainem gesessen unbesprochen purger schol man nach sag umb chain untat anvallen, es si dan, das man es mit weisung hintz im pringen mu&se;g nach der stat recht.</p></div>
+  <div id="A.106">
+      <head>Statrecht.</head>
+      <p>106. Chlagt ainer dem vitztumb uber ein purger, der vitztumb mag in ze red setzen, und vindet er den purger mit solcher antwurt, das er dem cla&se;ger gehilt, der vitztumb mag wol schaffen mit im, daz er sich mit im richt nach der stat recht; scheubt sich aber der purger mit antwurt fur daz gericht, so schol man in nicht verrer dringen.</p></div>
+                         <div id="A.107">
+                             <head>Statrecht.</head>
+<p>107. Der richter ist nicht schuldig ainen gevangen lenger ze behalten, dan auf den dritten tag, es sei dann, das er auf ain lengern tag zu dem rechten vergwist wirt. <pb n="36"/></p></div>
+    <div id="A.108">
+        <head>Statrecht.</head>
+<p>108. Chumpt ein man gewichen in ains purger haus umb solich schuld, die den to&se;d nicht ruert, daz gericht schol im in daz haus nicht nachvolgen; aber der wirt schol in dem gericht herauz antwurten, ob in der richter vodert.</p></div>
+                       <div id="A.109">
+                           <head>Statrecht.</head>
+<p>109. Wer aber der wirt die zeit nicht gegenwurtig, und der fluchtig wolt davon trachten, wil der richter, er mag es wol gewenden.</p></div>
+    <div id="A.110">
+        <head>Statrecht.</head>
+<p>110. Hat er aber gewichen um solich schuld, die den tod ruert, das gericht mag in wol herauz nemen oder aber seine chnecht.</p></div>
+   <div id="A.111">
+<head>Wirt ain man erschlagen.</head>
+<p>111. Wirt ein man erslagen in der stat, er sei von wan er sei, den schol man in der stat fur recht tragen.</p></div>
+    <div id="A.112">
+<head>Wais man den rechten geschol.</head>
+<p>112. Wais man den rechten gescholn chundleich, der den todslag getan hat, den selben schol man darumb bechlagen vor gericht ze ta&se;gen alz recht ist; da selbs schol sich vergen pan und acht.</p></div>
+    <div id="A.113">
+<head>So man den rechten geschol nicht waiz.</head>
+<p>113. So man aber den rechten gescholn nicht chundleich waiz, so schol man alle die in die chlag nemen, die pei der tat dez aintails gewesen sind; so sich aber ainer auz den selben meldet und sich des to&se;des anzeucht und tu&se;t daz mit solicher redleicher po&se;tschaft, alz darzu gehort, hintz demselben schol man furbas chlagen umb den tod und schol die andern alle auz der vodern chlag laszen. Dieselben schullen vor gericht tu&se;in, daz recht ist, und beleiben damit geruet.</p></div>
+    <div id="A.114">
+<head>In furpan zu kunden.</head>
+<p>114. In den fu&se;rpan ze chu&se;nden oder in die a&se;cht ze ru&se;ffen, daz schol der richter tun, der den pan hat, stend, ungeweist und schol von im tun allez waffen.</p></div>
+    <div id="A.115">
+<p>115. Der furban schol sich vergen mit der hanthaft ze drein virzehen ta&se;gen und mer, und schol geweist werden, alz recht ist.<pb n="37"/></p></div>
+<div id="A.116">
+    <head>In die acht zu ruffen.</head>
+<p>116. Von demselben tag uber sechs wochen und mer schol sich die acht vergen und schol geweist werden alz recht ist.</p></div>
+    <div id="A.117">
+<head>Den aid zu geben.</head>
+<p>117. So man vor gericht umb solich sach sweren schol, daz den tod ruert, so schol der richter den aid geben, der den pan hat.</p></div>
+    <div id="A.118">
+<p>118. Chumpt aber der verwunt man lebmptiger auz dem statgericht in daz auszer gericht und stirbt darinne, so mag man in wol in dem selben aussern gericht fur recht tragen; da selbs schol sich vergen pan und a&se;cht.</p></div>
+    <div id="A.119">
+<head>Der richter nimpt sein wandel.</head>
+<p>119. Aber der statrichter nimpt dannoch seine wandel davon.</p></div> 
+    <div id="A.120">
+<p>120. Zu gleiher weis ist ez auch also, ob sich so&se;lcher handel verget in dem auzsern lantgericht.</p></div>
+    <div id="A.121">
+<head>Wie man der purger gedingter chnecht und dirn handeln schol.</head>
+<p>121. Der richter schol ains purger gedingten knecht oder sein diern umb seine schrangwandel oder umb geltschuld nicht gevangen legen, ez sei dann, daz sein herr fur seu nicht versprechen wel untz auf daz recht.</p></div>
+    <div id="A.122">
+<p>122. Man schol auch eins purger gedingten chnecht, der leikeb um sein weingelt oder der spiler umb sein spilgelt, nicht enplo&se;szen noch abziehen, alz er mit gurtel umbvangen ist, durch daz er seinem  herren sein dinst nicht versaumpt.</p></div>
+    <div id="A.123">
+<p>123. Hat der herr dem chnecht ain mantel oder ein swert gelihen oder sein petgewant, daz schol von dem chnecht nieman nemen.</p></div>
+    <div id="A.124">
+<p>124. Alle die weil ain gedingter chnecht oder ein versprochner knecht oder ain diern irem herren ir zil nicht auzgedient haben, so schol seu niemand zu sich laden.</p></div>
+    <div id="A.125">
+<head>Chnecht und dirn nichts behalten.</head>
+<p>125. Von ainem dinstknecht oder von ainer dinstdirn schol man nichtz aufnemen in behaltnuz, es sei den wissenlich, daz ez in rechli&se;ch zugehor. <pb n="38"/></p></div>
+    <div id="A.126">
+<head>Umb verdeufte hab.</head>
+<p>126. Wan ein man sein verdeufte hab, ez sei ein pha&se;rcht oder ain ander vich anvecht in dem statgericht zu dem rechten, das schol er besta&se;ten selb dritt; mag er aber der zwaier zu sich nicht gehaben, so swer selb drei aid.</p></div>
+    <div id="A.127">
+<head>Umb erb.</head>
+<p>127. Chlagt ainer hintz dem andern umb ain erb, waz daz sei, und die pa&se;id auf weisung gent, daz selb recht schol sich vergen ze virtzehen tagen und die weisung von der gewer get fur, ob er die gewer rechli&se;ch inne hat.</p></div>
+    <div id="A.128">
+<head>Statrecht.</head>
+        <p>128. Ez schol ain ietzleich gast, der her chumpt mit seiner chaufmanschaft, den marcht hie haben dez ertags hintz auf den abent, so schol er inlegen.</p></div>
+    <div id="A.129">
+        <head>Statrecht.</head>
+        <p>129. Er schol auch des selben tags verchauffen purgern oder herren, die hie umb gesessen sein pei chlain und pei groszen, wie sie des begern.</p></div>
+    <div id="A.130">
+        <head>Statrecht.</head>
+        <p>130. Es schol auch ain gast dem andern des ertags under einem phunt gewegner hab nicht verchauffen, noch chain gantz stuck barchant nicht versneiden, noch under ainem virtail wachs noch palg nicht verchaufen.</p></div>
+    <div id="A.131">
+        <head>Statrecht.</head>
+<p>131. Und sunderlich in der wochen schol ain gast dem andern nichtz verchaufen, chlain noch grosz, haimleich noch offenleich. Welher gast daz ubervert, der ist darumb ze pu&se;sz vervallen auf die stat v march den., dem richter lx den., jedem zwelfer lx den. und dem schergen xx den.</p></div>
+    <div id="A.132">
+<head>Statrecht.</head>
+        <p>132. Ubervert er der stat recht wissenleich zu dem andern mal, man sagt in den gewerf ab mit den gesten; aber mit den purgern mag er dannoch gewerf haben ungeva&se;rlich.</p></div>
+                       <div id="A.133">
+                           <head>Statrecht.</head>
+<p>133. Treibt aber ein purger mit den gesten solchen handel, der geva&se;rleich geschicht und seich davon nicht weisen la&se;t, demselben <pb n="39"/> sagt man den gewerf und daz purchrecht ab, ob man in nicht anders gepessern mag an der hab.</p></div>
+                         <div id="A.134">
+                             <head>Statrecht.</head>
+<p>134. Ez schullen die gest in iren gewelben eln noch wag nicht haben. Ez schol auch ein gast dem andern sein hab nicht zaigen in der wochen; nu&se;r allain schol er allen seinen handel tu&se;n redleich an dem ertag.</p></div>
+    <div id="A.135">
+<head>Statrecht.</head>
+<p>135. Und ob daz geschech, daz ain gast dem andern mit der werung an dem ertag ângeva&se;r mit der wag oder mit der zal nicht mocht genug tun, daz schol sich ângeva&se;r hinnach vergen an dem mittichen oder aines andern tags.</p></div>
+                         <div id="A.136">
+                             <head>Statrecht.</head>
+<p>136. Welch gast mit seiner hab gein Ungern varen wil, der mag ze Pettau wol durchgevaren; er schol aber zu Pettau die selb hab nicht auflosen.</p></div>
+    <div id="A.137">
+        <head>Statrecht.</head>
+<p>137. Man schol zu Pettau ain gast fur den andern nicht aufhaben, er sei dann der recht selbgeschol.</p></div>
+<div id="A.138">
+    <head>Wein in die stat.</head>
+<p>138. Man scholl nach sanct Mertten tag in die stat oder durch die stat chain wein furen. Wer daz ubervert, dem mag man die wein auf die erden schlahen oder in das spittal den siechen nemen, oder zu meinez herren von Saltzburg handen nemen.</p></div>
+<div id="A.139">
+<head>Von den wein.</head>
+<p>139. Welich auzzer man zu rechter zeit wein in die stat legt, der geit davon ze steuer von ainem gantzen vas xl den, und von ainem halben xx den.</p></div>
+<div id="A.140">
+    <head>Von den wein.</head>
+<p>140. Die selben wein mag er wol verchauffen auf daz lant, aber in der stat getar seu chain purger nicht geschenchen, er hab seu dann redleich chauft vor sanct Mertten tag.<pb n="40"/></p></div>
+<div id="A.141">
+    <head>Von chindern.</head>
+<p>141. Ez mag ein vater seine chind verheiraten wie im gevelt nach seinem willen in der stat oder auzzer der stat, zu vervaren oder auf leibgeding ân alle irrung.</p></div>
+<div id="A.142">
+    <head>Von chindern.</head>
+<p>142. Er mag sei auch mit gescha&se;ften von ainander getailn, ob er wil, zu vervaren oder auf leibgeding.</p></div>
+<div id="A.143">
+    <head>Von chindern.</head>
+<p>143. Get er aber mit dem to&se;d ab und hat seine kind mit heirat noch mit gescha&se;ft von einander nicht getailt, so haben die chinder furbas geleich geerbet mit dem tail und mit wartung ab ainem auf daz ander und sind ze furzicht nicht getailt warden.</p></div>
+<div id="A.144">
+    <head>Von den chindern.</head>
+<p>144. Sind die selben chinder in solcher jugent gewesen und hat sei der vater nicht gevogt mit ainem freund oder mit ainem fromden, so hat seu der rat gevogt nach iren treuen und sind ze furzicht nicht verheirat worden.</p></div>
+    <div id="A.145">
+<head>Von den chindern.</head>
+<p>145. Hat seu aber der vater mit gescha&se;ften gevogt mit ainem der im darzu gevallen hat, wer der halt gewesen ist, der selb hat die chinder gehandelt nach seinen treuen.</p></div>
+<div id="A.146">
+    <head>Von den chinden.</head>
+<p>146. Ist aber der selb gerhab und inhaber mit dem tod abgangen ee daz die chinder darzu chomen sind, daz sie ains vogtz geraten mo&se;hten, der selb gerhab hat seu wol mu&se;gen vogten mit ainem andern, wer im darzu gevallen hat, und hat darzu nicht bedurffen der freunt willen.</p></div>
+                       <div id="A.147">
+                           <head>Von den chinden.</head>
+<p>147. Ist aber der selb gerhab ab gangen und hat die chinder nicht gevogt, so hat seu der rat gevogt nach iren treuen, recht alz vor. Der selb gerhab, den der rat dar zu genomen hat, er sei <pb n="41"/> freunt oder fro&se;mder gewesen, hat dem rat mu&se;ssen verantwurten der chinder hab untz daz die chinder zu in selb chomen sind.</p></div>
+<div id="A.148">
+<head>Von den chinden.</head>
+<p>148. So ain man abgangen ist mit dem to&se;d, der nicht chinder gelaszen hat, wie der selb seine gescha&se;fft getan hat, dapei ist es beliben ân irrung.</p></div> 
+                     <div id="A.149">
+                         <head>Von den chinden.</head>
+<p>149. Ist er aber abgangen ân erben und ân gescha&se;ft, die nachsten freunt die haben sein hab geerbt und haben die gelter und die sel davon ausgericht nach rat.</p></div>
+    <div id="A.150">
+<head>Ân erben, ân gescheft und ân freunt.</head>
+<p>150. Ist er aber abgangen ân erben und ân geschaft und hat nicht freunt gelaszen, die sein hab erben scholten, der richter und der rat haben seich der hab underwunden zu des herren handen und habent damit furbas gehandelt nach des herren wil.</p></div>
+<div id="A.151">
+    <head>Ân erben und hat ein frauen gelaszen.</head>
+<p>151. Sa aber ein man abgangen ist ân erben und ân gescha&se;ft und hat ein wirtin gelaszen, die nachsten freunt die haben dieselben sein wirtin von der hab auzgericht nach dem rechten und haben das getan nach rat.</p></div>
+    <div id="A.152">
+<p>152. Wen ein man abgangen ist mit dem to&se;d, der chinder hinder im gelaszen hat und hat derselben chinder muter auch hinder im gelassen, der selben frauen hat nach gevolgt von seiner hab, daz rechtlich gewesen ist; aver ir selbs haimsteuer hat sei gen einem andern man nicht mu&se;gen verheiraten ze vervaren ân ir chinder willen.</p></div>
+    <div id="A.153">
+<head>Ain frau hairaten.</head>
+<p>153. Aber si hat wol mugen ein man nemen, wa es ir hin gevallen hat ân all irrung.</p></div>
+    <div id="A.154">
+<head>Von der varunden hab.</head>
+<p>154. Und so ains frauen die varund hab nachvolgen schol, daz ist wein, getraid, vich, petgewant und ander hausrat, der in dem haus ist; aber chaufmanschaft, satz, geltschuld, beraitschaft, <pb n="42"/> daz ist nicht varunde hab; daz selb volgt den chindern und den geltern, wan es alles chumpt auz der gelter hab.</p></div>
+    <div id="A.155">
+<p>155. Also  mag auch ain iederman, so er des an im selbs enphindet, daz im daz wesen in der stat nicht fugt, sich wol geziehen oder gesetzen war in gevalt ân alle irrung.</p></div>
+    <div id="A.156">
+<head>Stirbt ein man der gelten sol.</head>
+<p>156. Ist daz ein man stirbt und gelten schol und hat nicht hinder im laszen, da von sein weib oder sein erben gelten schullen, die schullen dez selben geltes ledig sein vor got und vor den leuten.</p></div>
+    <div id="A.157">
+<p>157. Und ob das weib ein andern man nimpt, zu dem ir ire freunt gu&se;t geben, daz sie vor nicht gehabt hat, oder ob sie ainen man nimpt, der guet hat, oder wie sei got berat, daz sie pei ainem andern man zu gu&se;t chumpt, weder der man noch das weib geltent nichtz des vordern mans geltschuld, nuer als vil seu got ermant und daz seu von aigem willen gern tun wellen.</p></div>
+    <div id="A.158">
+<head>Ob ain man gelten sol.</head>
+<p>158. Und stirbt ainem man sein weib, der gelten schol und hat nicht zu bezaln und nimpt ein ander weib, die im varund gu&se;t zupringt, er mag von der varunden hab wol gelten. Daz ist da von gesatz, das der man des weibes vogt und auch maister ist.</p></div>
+    <div id="A.159">
+<head>Von ainem chind, daz verhairat ist.</head>
+<p>159. Stirbt ainem vater ain chind, daz er verheirat hat und hat im gu&se;t auzgeben, es sei ligund oder varund gu&se;t, und daz lat weder weib noch chind, der vater erbet des chindes gut und mag der pruder noch die swester nicht geerben. Daz ist davon, daz es von vater chomen ist.</p></div>
+    <div id="A.160">
+<head>Wer erben schol.</head>
+<p>160. Hat aber der sun ander gut gewunen, dann daz im sein vater gab, er geit ez mit gesuntem leib oder an dem to&se;tpett wem er wil. Get er aber ab ân gescha&se;ft, die nachsten erben schullen daz gu&se;t erben und schullen der sel ir tail davon geben und den leuten davon gelten; und mugen die selben erben geraichen untz in die sibend sipp. <pb n="43"/></p></div>
+    <div id="A.161">
+<head>So man verruffen wil.</head>
+<p>161. So man in der stat icht verrueffen wil daz selb schol tun der inner scherg oder der weinrueffer mit des richter und dez ratz willen.</p></div>
+    <div id="A.162">
+        <head>Von schedleichen leuten.</head>
+<p>162. So man ain schedleichen menschen in der stat uberwinden wil, der nicht hanthaft hat, daz schol geschehen mit siben; der selben hort der stat richter funf und der lantrichter die zwen.</p></div>
+    <div id="A.163">
+<head>Hanthaft.</head>
+<p>163. Hat der selb mensch hanthaft, so schol ez geschehen mit zwain; der selben hort der stat richter den ain und der lantrichter den andern.</p></div>
+    <div id="A.164">
+        <head>Von gericht in der stat.</head>
+<p>164. Wil aber der lantrichter durch des clager pet willen seine recht horen in der stat, daz schol er tun mit des richter und des ratz willen unserm herren von Saltzburg und seiner stat rechten ân schaden.</p></div>
+    <div id="A.165">
+        <head>Umb daz antwurten ausz der stat.</head>
+<p>165. So der statrichter dem lantrichter ain ubersagten menschen zu seinen hanten aus dem statgericht antwurten wil, daz schol geschehen enhalb des graben, da die pruken ein ende hat.</p></div>
+    <div id="A.166">
+<head>Statrecht.</head>
+        <p>166. So ain zerednuz geschehen ist zwischen den purgern oder iren knechten von des von Pettau leuten, waz under augen nicht gerochen ist warden, darumb hat man furbas clagt.</p></div>
+    <div id="A.167">
+        <head>Statrecht.</head>
+        <p>167. Hat ein purger wider des von Pettau diener icht verschuldet, das hat der richter gepessert. Also hat es auch der von Pettau wider gehalten: ob der sein ainer wider ain purger icht verschuldet hat, das hat der von Pettau gepessert.</p></div>
+                        <div id="A.168">
+                            <head>Statrecht.</head>
+<p>168. Es schol der von Pettau die purger unbeswert lassen an all ir hab, si sein to&se;d oder lebntig, in der stat und auszwendecleich.<pb n="44"/></p></div>
+<div id="A.169">
+<head>Von dem gericht in der freiung.</head>
+<p>169. Von alter untz in Petreins des Kelner gewalt habent alweg die purger daz gericht in der freiung gehabt zu der maut; die selben haben gewest und erchant der stat recht und ist iederman unbeswa&se;rt beliben.</p></div>
+    <div id="A.170">
+        <head>Statrecht.</head>
+<p>170. Es hat auch iederman sein selbs weinzurl gepessert umb die schuld, die er im tan hat.</p></div>
+                         <div id="A.171">
+                             <head>Statrecht.</head>
+<p>171. Ob der innern ainer von ainer untat wegen gewichen hat auz der stat in daz lantgericht, den selben hat der lantrichter dem gericht wider geantwurt in die stat. Also hat auch der statrichter hinwider getan gein dem lantrichter.</p></div>
+                         <div id="A.172">
+                             <head>Statrecht.</head>
+<p>172. Wie sich die purger veraint haben umb ain gesatzten lon gein weingarten mit des von Pettau willen, daz ist verruft worden und sta&se;t belieben von innern und von auszern.</p></div>
+    <div id="A.173">
+<head>Die recht in der freiung.</head>
+<p>173. Ez schol niemand fla&se;isch vail haben in der freiung, wen der stat flaischker; die schullen daz tun an den stetten als seu das mit gewonhait von alter her bracht haben.</p></div>
+                      <div id="A.174">
+<head>In der freiung.</head>
+<p>174. Die schuester mugen wol ir leder in der stat smierben und zusneiden; aver vor der stat am chirchtag schullen seu die schu&se;ch machen.</p></div>
+    <div id="A.175">
+        <head>In der freiung.</head>
+<p>175. Seu schullen auch die selbig zeit irn stant haben in der piergassen vor den heusern zu paiden seiten.</p></div>
+    <div id="A.176">
+<head>In der freiung.</head>
+<p>176. Pekchen, fuetrer, fragnerin die schullen von den stetten, die seu in der freiung haben under dem turn und zwischen den pruken der stat zinsen.<pb n="45"/></p></div>
+    <div id="A.177">
+<head>In der freiung.</head>
+<p>177. Wer daz urlaub in der freiung von der herschaft nicht hat, der schol mit offen gatern nicht wein schenken; er schol auch den wein mit phenwerten auz dem haus nicht geben.</p></div>
+    <div id="A.178">
+<head>In der freiung.</head>
+<p>178. Aber in dem haus mag er mit versperter tur sein wein wol geschenken und mag aus dem haus geben emperweis, wie vil er wil.</p></div>
+    <div id="A.179">
+        <head>In der freiung.</head>
+<p>179. Ez hat in der freiung der selb richter hintz zu ainem purger oder ze seinem knecht oder diern nicht anders zu richten, dann als der statrichter uber jar recht hat ze richten.</p></div>
+    <div id="A.180">
+<head>In der freiung.</head>
+<p>180. Hat man icht ze chlagen hintz ainem purger in der freiung, darumb schol man in dez abntz ze rechter zeit fur laden und daz selb recht schol der freiung richter hintz dem purger verhoren in der stat, ains im tag. Aber an dem letzten tag der freiung mag man ain purger furgeladen wie oft man wil.</p></div>
+    <div id="A.181">
+<p>181. Es geben auch die purger chain aidphening, recht als uber jar, und der ratman geit chain schrangwandel noch chain furpot den.</p></div>
+    <div id="A.182">
+        <head>In der freiung.</head>
+<p>182. Wes ein purger jar und tag nutz und gewer gesessen ist, des schol man in ân recht nicht entweren in der freiung.</p></div>
+    <div id="A.183">
+<head>In der freiung.</head>
+<p>183. Was in der freiung heuser in der stat oder a&se;cher in dem purchfrid oder huttstett an dem iarmarcht verchauft werden, die schol der freiungrichter aufgeben und nicht der lantrichter.</p></div>
+    <div id="A.184">
+<head>In der freiung.</head>
+<p>184. Den lantrichter gehort in der freiung nicht anders auszzerichten, dann alz er uber jar hat ze richten.</p></div>
+    <div id="A.185">
+<head>In der freiung.</head>
+<p>185. Wirt ain urtail geding in der freiung ze rechter zeit, die schol gedingt werden an den von Pettau oder an den von <pb n="46"/> Saltzburg; aber wider weisung oder anzug mag man chain urtail gedingen, recht alz uber jar.</p></div>
+    <div id="A.186">
+<head>Der lantrichter schol chain anvallen uber iar.</head>
+<p>186. Ez schol im iar der lantrichter oder sein scherg chainen purger noch chaines purger knecht noch dinstvolch anvallen umb solch tat, die der statrichter oder der purger selb zu pessern hat.</p></div>
+    <div id="A.187">
+<p>187. Hat der lantrichter hintz ainem in der stat redleich wandel zu vordern, die sich in seinem gericht im jar gehandelt haben, daz schol er dem statrichter zu wissen tun. Der statrichter schol den selben tail zu red setzen und ob er vernimpt an seiner antwurt, daz er im daz wandel schuldig ist, so schol er mit im schaffen, das er sich darumb mit im in virzehen tagen richt.</p></div>
+    <div id="A.188">
+<head>Der statrichter hin auz.</head>
+<p>188. Ta&se;t er dez nicht, so schol er im phant dafur antwurtten; laugent aber der ta&se;ft, so tue im daz recht.</p></div>
+    <div id="A.189">
+<head>Der lantrichter her in.</head>
+<p>189. Daz selb schol auch der lantrichter her wider ze gleicher weis halten gein dem statrichter.</p></div>
+    <div id="A.190">
+<head>Ein gast dem andern.</head>
+<p>190. Ob ain gast hintz dem andern ze chlagen hat, die paid ze der stat arbeiten mit ir hab, daz selb recht schol sich vergen vor dem statrichter und nicht vor dem lantrichter; wan ob in der selben chlag ichtes verhandelt wurd, darumb werden nuer die von der stat gephrengt und aufgehalten und nicht daz lantgericht.</p></div>
+    <div id="A.191">
+<head>Pan und a&se;cht.</head>
+<p>191. Pan und a&se;cht schol der lantrichter enphahen von dem von Saltzburg.</p></div>
+    <div id="A.192">
+<head>Daz hat der lantrichter ze richten.</head>
+<p>192. Daz sind die sach, die der lantrichter auf meins herren gu&se;t von Saltzburg ze richten hat ze Pettau. <pb n="47"/></p>
+<p> Item zu dem ersten mal hat er ze richten alle sach, da man den to&se;d mit verdient, wie die gehaszen sind. Item zu dem andern mal alle pluetig wunden, sie sein clain oder grosz, die man frevenleich beget. Item zum dritten mal deuff, sie sein clain oder grosz. Item zu dem virden mal straszraub und nottnuft. Item zu dem funften mal gewaltigs und veintleichs haeimsuchen mit verdachtem mu&se;t und tur oder to&se;r auffpruch. Item zu dem sechsten mal umb solch gult, da ein herre zu seinem holden nicht richten wil, so daz recht dreistunt an in gevordert wirt.</p></div>
+    <div id="A.193">
+<head>Der lantrichter nicht richten sol.</head>
+<p>193. So sind daz die sach, die der lantrichter ze recht nicht richten schol. Zu dem ersten mal all peulsleg und zerauffen, daz da geschicht ân vergiessung des plutes. Item zu dem andern mal fluchen und schelten und ander ubelhandlung mit worten. Item zu dem dritten mal umb gult, wie fra&se;venleichen die der gelter dem chlager vor hat. Item ze dem virden mal etzat und phantung, die er nimpt auf seinen schaden, do er phentleich mit vert und wandelt. Item zu dem funften mal all ubervang, die da geschehen an uberrainn und uberern. Darzu schol der lantrichter niemptz holden vachen umb chain inzicht; er schol dez ersten vragen, ob sein her oder sein amptman in zu ainem rechten stellen wil. Lubt daz der herre oder der amptman, daz er ez tun wil, dez schol sich der lantrichter laszen genugen; wolt man in aber nicht zu recht stellen, so mag in der lantrichter gevachen auf dem gut, als er mit gurtel umbvangen ist also, daz von dem richter noch von sein helfern, noch von sein schergen dez mannes herren gu&se;t an nichteu entphremdet werd oder peswart werd. Ez schol auch marchtags der lantrichter nicht richten hintz den gesten, so ainer den andern aufhabt oder verpeut umb gult oder um glub oder ander clain sach.</p></div>
+    <div id="A.194">
+<head>Des romischen chunigez brief.</head>
+<p>194. In dem namen der hailigen und ungetailten trivaltichait. Hainreich der sibend von gotts genaden romischer chunig, ze allen zeiten merer des reiches. Vor unser kegenwurtikhait wesenleich gesezzet unser lieber und getreuer furst der ersam erzbischoff ze Saltzburg, ze Nu&se;renberg in unserm furnemen hof, vor des reiches kegnwurtigen fursten: dem von Choln, dem von Trier erzbischofen, dem von Maintz (!), dem von Regenspurkch, dem von Passau, dem <pb n="48"/> von Freisingen unde dem von Augspurg bischofen, den von Payern und von Osterreich herzogen und andern des reichs grossen herren, hat begert mit urtail ze ervinden, ob iemantz leuten die weg und u&se;bung an den kunigleichen und offen strazsenn zu ir chaufmanschaft ze treiben und andern irn gewerf ze tuen von den herren dez landes oder von ander jemand mug oder schul verbotten werden? Hat die urtail der fursten darum erfunden, daz daz selb niempt erlaubt ist und daz auch iemant dhainen schul an seiner chaufmanschaft und gewerf irren. Darumb haben wir dieselb urtail, die von gemainem willen der fursten redleich ist, besta&se;tigt von unserm kuniglicher gewalt und mit dem kegnwurtigen instrument und kreftigen auch den mit bewarung unsers insigl. Geben zu Nurenberg nach Christi gepurd tausant zwaihundert und in dem vir und zwainzigisten jar, in der zwelften indicion und an der zehenden kalend Augusti.</p></div>
+    <div id="A.195">
+<head>Der fursten brief von Osterreich.</head>
+<p>195. Wir Albrecht und Leopold gebru&se;der von gotts genaden herzogen ze Osterreich, ze Steyer, ze Ka&se;rnden und zu Krain, grafen ze Tyrol etc. bechennen und tuen kund, das der erwirdig unser lieber freunt her Pilgreim, erzbischof cze Saltzburg, legat des stuels ze Rom also von uns geschaiden ist, daz wir in wellen in allen unsern landen und herscheften beleiben laszen auf wasser und auf land pei den rechten und freiungen und gewonhaiten, die sein gotzhaus in denselben unsern landen und herscheften von alter gehabt hat ân alles geva&se;rd, und wellen in und die seinen, sie sein edel oder unedl, dapei behalten und schermen, daz in chain irrung davon widervar. Mit urchund ditz brieffs geben zu Wyen am ertag vor dem hailigen auffarttag nach Christi gepurd dreuzehen hundert jar darnach in dem sechs und sechzigisten jar. <pb n="49"/></p></div>
+    <div id="R">
+<p>[Auf Seite 49 - 52 folgt ein Register, das hier nicht transkribiert wird.]</p>
+    </div></div></body></text></TEI.2>
+<!-- 
+    <head>Register.</head>
+<p>(Die den Worten beigesetzten Buchstaben weisen auf die Absätze des Prologes, die Ziffern auf die des Textes des Stadtrechtes.)</p>
+        <div id="R.1">
+<head>a. Personen und Orte.</head>
+            <p>
+                <table><row><cell>Albrecht, Herzog v. Oesterreich</cell><cell>195.</cell></row>  
+                    
+Cholman, Vitzthum h, 1.
+Cunrad, Erzbischof v. Salzburg e.
+Czwickel Leop., Stadtrichter g, i.
+Gensehker Hanns, Vitzthum b, n.
+Graser Hanna, Rathsgeschworner c.
+Hallinger Hanns, Stadtrichter m, o.
+Heinrich VII., Kaiser 195.
+Heinrich, Erzbischof v. Salzburg e.
+Jäckl, Rathsgeschworner c.
+Jure, Rathsgeschworner c.
+Leibnitz, Ort su&se;dl. v. Graz b,g,24.
+Leopold, Herzog v. Oesterreich 195.
+Lienhart, Rathsgeschworener c.
+Lindau, Hermann von, Rathsgeschworner c.
+Lindecker, Jacob, Rathsgeschworner c.
+Maurer, Hans, Stadtrichter i, m.
+Mertl, Rathsgeschworner c.
+Ortolf der Weissenecker, Erzbischof  v. Salzburg f, k.
+Peter, Rathsgeschworner e.
+Peter der Kellner 169.
+Pettau, die Herren von, 1, 2, 3, 4, 
+5, 22, 23, 166, 167, 168, 172, 185.
+Pettau, Herrschaft e, 177.
+Pettau, Stadt c, e, g, h, 7, 9, 13, 16, 
+17, 18, 21, 22, 23, 24, 25, 136, 137. 
+Klöster in Pettau 22. 
+Pfarrer v. Pettau s. Wigolting Cunrad, 
+Windischgretzer Hanns. 
+Schloss, Feste 1, 2. 
+Biergasse 175, 
+Tragasse d. 
+,unter dem Thurm und zwischen den Brücken' 176.
+Pilgreim der Puechaymer, Erzbischof v. Salzburg a, k, 1, 195.
+Pöltl Peter, Stadtrichter c, o.
+Salzburg, Herr von, 138, 185, 192; 
+s. Erzbischof.
+Ungarn 9, 12, 136.
+Wigolting, Cunrad, h, l, n, 79. 
+ Windisch-Feistritz 13-17. 
+ Windischgretzer, Hans, g, h.
+
+                               b. Sachen.
+Abgaben: Eidpfennig 74, 75, 181.       Abzugsfreiheit 155. 
+   Fu&se;rbotpfennig 86, 181. Gerichts-    Acht, s. Bann und Acht. 
+   dienst 37-43. Grundrecht 45, 46,    Amtmann 95, 193.
+   71, 73. Losung s. Gerichtsdienst.   Anevang 126.
+   Steuer (Hof-) 78 f. Leitgebenpfen-  Anwartschaft 143.
+   nig 44. Richters Abgabe 36. Ab-     Aufhaben 25, 137, 193.
+   gabe von Wein 139. Zins 37 f., 176. Aufheben 94; siehe auch Confis- 
+   Zollschuhe 40. — S. auch Strafen,       cation.
+   Wandel.                             Auflassung 71, 73, 183. 
+Ablösung von Zinsgeld 81.              Auslieferung, s. Innerer, Schäd-
+Abtheilung der Kinder 142, 143.            licher Mensch, Verbrecher.
+                                                               4*
+
+50                                 Bischoff.                          . [742]
+
+Ausschank von Getränken 18, 23,          Erbrecht 143, 148, 149, 154, 159, 
+    44, 140, 177, 178.                       160.
+Aussergericht 118.                       Erbtheilung 32.
+Aussermann 10, 139, 140. S. Gast.        Ertag 6, 8, 128, 134; s. Markttag. 
+Backofen 7.                              Erzbischof 2, 5, 24; s. Cunrat,
+Bäcker 39, 88-93, 176.                       Heinrich, Ortolf, Pilgreim. 
+Bann und Acht 34, 112, 114, 116,         Fahrende Habe 154, 158. 
+    118, 191.                            Feldschaden 193.
+Bannrecht 7.                             Feuer 19, Feuerstätte 64.
+Banntaiding 76, 77.                      Finden 100, 101.
+Bauer 95.                                Fischhandel 12.
+Bestätten selbdritt 126.                 Fleisch 8, 173.
+Beulschläge 193.                         Fleischer 7, 8, 37, 87, 173. 
+Bewähren 10.                             Fluchen und schelten 193. 
+Beweis, s. Bestätten, Bewähren, Eid,     Fragen auf Grund- oder Zinsgeld
+    Handhaft, Uebersiebnen, Weisung,         46, 82.
+    Zeugen und Art. 30, 31, 162, 163.    Fragnerin 43, 56, 176.
+Brief fu&se;rtragen 97, siegeln 72.          Frau 26, 28, 75.
+Brothandel 7, 95; -satzung 92, 93.       Freiung (Asyl) 22, (Jahrmarktsf.) 
+Bru&se;cken (Gerichtsbarkeit) 103.               173 f.
+Bu&se;rger von Windischfeistritz 13 bis      Freund 144, 147, 149, 151. 
+    15; von Pettau 4, 9, 10, 16, 20, 21, Fu&se;rbann 114, 115. 
+    75,103, 106, 133, 166-169, 172 bis   Fu&se;rbotpfennig 86, 181. 
+    179, 181, 182, 186; gesessener un-   Fu&se;rtragen (Judenbrief) 97, (Schrein-
+    besprochener 105; Bu&se;rgers Knecht         pfand) 98, (Erschlagene) 111, 118. 
+    und Diern 121-125,166,179,186;       Futterer 176.
+    Bu&se;rgers Haus 108-110; Bu&se;rgers        Gast 12, 13, 53, 54, 128, 190, 193. 
+    Tochter 74.                          Gefangenschaft 26, 107, 121, 193. 
+Burgfrieden 73, 183.                     Geldschuld 121, s. Spielgeld, Wein- 
+Burggraben 103.                              geld.
+Burgrecht 11, 60, 74, 133.               Geldstrafe 19, 89, 90, 93, 131; 
+Bu&se;rgerin 56, 74.                             s. Fu&se;rbotpfennig, Gelter, Wandel. 
+Busse s. Geldstrafe.                     Gelter 149, 154.
+Confiscation 91, 138.                    Gericht s. Landrecht, Stadtrecht, 
+Depositum 30, 125.                           Vitzthum.
+Diebstahl 25, 100, 126, 192.             Gerichtsbarkeit (u&se;ber Pettauer 
+Dienstmiethe 124.                            Bu&se;rger) 167, 169; (u&se;ber Leute der 
+Dingen (Urtheil) 51, 52, 185.                Pettauer) 168 ; (herrschaftliche) 
+Edelleute 20.                                192, 193; (niedere) 193; (getheilte) 
+Ehe, zweite, 153, 157, 158.                  162, 163; (in der Freiung) 169, 
+Eid 74, 75, 84, 101, 117, 126, 181.          179, 180, 183-185.
+Einfang des Stadtgrundes 65.             Gerichtsbote 82.
+Enthaupten (Hals mit der Dillen          Geschäft (letztwilliges) 142, 148, 
+    abstossen) 29.                           145, 148, 160.
+Erbe 149, 160; s. auch: Freund.          Gewand (blutiges) 99.
+Erbenhaftung 149, 154, 156.              Gewere 69, 127, 182. 
+Erbloses Gut 150.                        Gotteshaus 82.
+
+[743]                 Das Pettauer Stadtrecht vom Jahre 1876.            51
+
+Griess (Gerichtsbarkeit darauf) 103.    Losung 37 f., 56, 61, 62.
+Grundrecht s. Abgaben.                  M a a s s und Gewicht 55,134; s. Mauth-
+Gtlltsachen 192, 193.                      metzen.
+Gut (wohlgewonnenes) 160.               Markttag 193; s. Ertag.
+Handel 6, 8, 9, 12, 13-17, 18, 53       Mauth 4, 9, 169.
+    bis 57,59-62,128-140, 173-178.      Mauthmetzen 67.
+Handhaft 115, 162, 163.                 Melden (Forderungen) 97, (Ver-
+Hausmiethe 20.                             brecher) 113.
+Heimsteuer 152.                         Mertentag 138.
+Heimsuchung 192.                        Mu&se;hlen 103, Mu&se;ller 66, 67.
+Heirat 141.                             Mauthmannschaft 24.
+Hofmann 23.                             Nachtschach 25.
+Hofstätte 3, Hofstätter 6.              Nothzucht 28, 29, 192.
+Holden 192, 193.                        Pfand 31, 98. Pfändung 82, 122,
+Huchlerin 56, 57.                          123, 188, 193.
+Jahr und Tag 11, 71, 182.               Pfarrer s. Wigolting, Windisch-
+Jahrmarkt s. Freiung.                      gretzer.
+Innerer (Stadtbewohner) 171.            Pimerk 72.
+Inzicht 193.                            Pru&se;gelstrafe 27.
+Juden 18, 96-99.                        Rächen unter Augen 166.
+Kasten (Getreide-) 2.                   Rath, Rathsgeschworne 33, 47, 48,
+Kauf (Haus-) 71. Kaufbrief 72.             50, 68, 83-88, 131, 144, 147, 181;
+Kinder s. Abtheilung, Erbrecht, Ge-        s. Graser, Jäcl, Jure, Lienhart,
+    schäft, Heimsteuer, Heirat, Thei-      Lindau, Lindecker, Mertl, Peter.
+    lung, väterliche Gewalt, Vervaren,  Rauferei 193.
+    Verzicht, Vormundschaft.            Recht ertheilen 21, verhören 180,
+Kirchenkleinod 99.                         zu Recht stellen 193, Rechtsver-
+Klage 47, 49, 50-52, 77, 106, 112,         weigerung 192.
+    113, 127.                           Richter, der den Bann hat 114,117;
+Kloster 22.                                in der Freiung 169, 179, 180, 183;
+Korn (ungebunden) 99.                      s. auch Judenrichter, Landrichter,
+Ladung (gerichtliche) 180.                 Stadtrichter.
+Landesherr 1. S. auch: Salzburg.        Richter und Rath 104, 150, 161, 165.
+Landgericht 120, 171.                   Rock und Mantel 14.
+Landrichter 162-165, 171, 183,          Rogeis 66.
+    184, 186-193.                       Salzerin 38.
+Lebendig begraben 29.                   Salzhandel 62.
+Leder 7, 16. Lederer 41.                Schadenhaftung s. Depositum,
+Leibgeding 141.                            Leihe, Pfand.
+Leihe 31.                               Schädliche Leute 162, 163.
+Leitgeb 44, Leitgebenpfennig 122.       Scherge 80, 86, 131, 186. Inner-
+Letzter Wille s. Geschäft.                 scherg 161.
+Leute (arme) 91, (schädliche) 162,      Scherm 70, 71.
+    (tibersagte) 165, (des Salzburger   Schrannwandel 86, 121.
+    Erzstiftes) 5, (des Pettauers) 166. Schreiber, Gerichts- 49, Stadt- 80.
+Loden 13.                               Schreinpfand 98.
+Lohn 172.                               Schub 50, 106.
+
+52              Biscboff. Das Pettauer Stadtrecht vom Jahre 1376. [744
+
+Schuster 7, 40, 174, 175.            Verbalinjurie 193.
+Sechser 87.                          Verbieten 25.
+Seelgeräthe 149, 160.                Verbrechen 26, 27, 105, 108, 110, 
+Siegelung von Kaufbriefen 72.            117, 192; s. auch Diebstahl, Nacht- 
+Spieler, Spielgeld 122.                  schach, Nothzucht.
+Spital 91, 138.                      Verbrecher 108-110, 171. 
+Städte um Pettau 13.                 Verjährung 11, 70, 71.
+Stadtgericht 21, 48-52, 97, 106,     Verkauf von Immobilien 183. 
+    108-112, 118, 126, 162, 165.     Verrufen 161, 172.
+Stadtgrund s. Einfang.               Vervaren 141, 142, 152. 
+Stadtrecht 50,51, 105,106,132, 169.  Verwundung 118, 192.
+Stadtrichter 24, 33-51, 53-56,       Verzicht, Theilung zu, 143; Ver-
+    58-68, 71-74, 77, 80, 89, 91 bis     heiratung zu 141, 144. 
+    93, 97, 103, 104, 107-110, 119,  Vitzthum 24, 50, 51, 78, 79, 104,
+    121, 131, 162-165, 167, 171, 179,    106; s. auch Cholmann, Genschker,
+    186-190; s. auch Czwickel, Hal-      Windischgretzer, Wigolting. 
+    linger, Maurer, Pöltl.           Vormauth 66.
+Standplätze der Gewerbsleute 173     Vormundschaft 144-147. 
+    bis 175.                         Vorstadt 6.
+Steuer, Hofsteuer 78-80, von Wein    Wachserin 42. Wachshandel 61. 
+    139.                             Waffen 114.
+Strafe 46, 132, 133; s. enthaupten,  Wahrzeichen 102.•
+    lebendig begraben, Pru&se;gelstrafe, Wandel 77, 86, 121, 181, 187. 
+    Geldstrafe, Wandel.              Wartung 143.
+Strassenpolizei 58, 63, 64.          Wein 17, 43, 44, 138-140, 177, 178; 
+Strassenraub 192.                        Weinrufer 161.
+Tag, Gerichtstag, Termin 112, 115,   Weinzierl 170.
+    116, 127.                        Weisung 52, 105, 116, 127, 185. 
+Todtschlag 111-113.                  Witwe 151-154, 156, 157. 
+Ueberbau 65, Ueberfang und Ueber-    Zahlungsauftrag 187. 
+    rainen 193.                      Zeugbrief 49..
+Uebersiebnen 162.                    Zeuge 52, 185.
+Urtheil 51, 52, 185.                 Zins 81, 82, 176.
+Vater 159, väterliche Gewalt 141,    Z w elf er s. Rathsgeschworne.
+    142, 144, 145.
+
+~r
+
+Ki
+
+MZI
+
+
+        </body></text></TEI.2>
+-->

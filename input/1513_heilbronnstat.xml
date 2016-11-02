@@ -1,0 +1,1173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+<title>Statuten von Heilbronn. — Angefangen 1513 Jan. 6 :: Transkription Speer 2010 / 2016</title>
+ </titleStmt>
+ </fileDesc>
+</teiHeader>
+ <text>
+  <front><divGen depth="3" type="toc"/>
+ </front>
+ <body>
+ <div id="Editorial">
+<head>Editorial</head>
+ <p>Quelle: Urkundenbuch der Stadt Heilbronn. - Stuttgart. Band III 1501 - 1524 / bearb. von Moriz von Rauch (1916). (= Württembergische Geschichtsquellen ; 19) III 337ff.</p></div>
+<div id="Vorbemerkung">
+     <head>Statuten von Heilbronn. — Angefangen 1513 Jan. 6.</head>
+ <p> Hlbr. K. 7. Statuten I, 1, geschrieben und ohne Zweifel auch verfasst von
+Syndikus Johann Grienbach (Korrekturen von späterer Hand sind nicht
+berücksichtigt). — Auf den Grienbach'schen Statuten fussen der 2., 3., 4., 5.
+und 6. Teil der gedruckten Heilbronner Statuten von 1541 (Exemplare u. a. im
+Hlbr. Stadtarchiv), während andere Bestandteile der gedruckten Statuten den von
+Grienbach gesammelten Ratsverordnungen (s. II, Nr. 1087) entnommen sind. — Nach
+einem archivalischen Vermerk von 1783 bei den Grienbach'schen Statuten wären
+diese 1521 von Karl V. bestätigt worden, allerdings bestätigte Karl V. am 15.
+Febr. 1521 der Stadt ihr „alt Herkommen und gut Gewohnheit" (vgl. Nr. 2612 a
+und b), aber so lautet der Ausdruck auch in der Bestätigung von Heilbronns
+Rechten etc. durch König Maximilian<note place="foot" n="337.1">Aus dem Regest
+in II, Nr. 1701, ist dies nicht ersichtlich.</note>; eine ausdrückliche
+Bestätigung der von Grienbach aufgesetzten Statuten ist nicht erfolgt. Die 1541
+gedruckten Statuten bestätigte Karl V. am 20. Juni 1541 in Regensburg. </p>
+</div>
+
+<div id="Titel">
+ <head>Der statt zu Heylpronn recht, statutten, gewonhytten und altherkommen in schryfft verfaßt etc. Sanctus Spiritus assit nobis
+gratia. Incepta trium regum anno etc. 13.</head>
+ <p/>
+ </div>
+
+<div id="Praeambel">
+     <head>[Präambel] Die vorred in das buch.</head>
+ <p>In dem namen der heyligen unzerteylten driveltikayt, amen, haben wir, die
+burgermaister und beyd rädtt, new und alt, des heyligen reychs stat zu
+Heylpronn, betracht und war genommen, das in den stätten, communen und
+oberkaytten unter den menschen nichtzit nutzers und loblichers erfunden mag
+werden dann handthabung gemains nutz, rechtlicher ordnung, fryds und ainekaytt
+und nichtzit zerstorlichers, dann wo sollicher mangell gelaßen wurdt, darzu
+auch der menig<note place="foot" n="337.2">Menge (in der Vorrede zu dem
+gedruckten Statutenbuch von 1541 irrig: Meinung)</note> der gerichtzshendell,
+so täglich ye mer erwachsend, mit notturftiger hylff zu begegnen und damit
+<term type="phrase">fryd, recht und ainigkaytt</term> in unser <term type="phrase" >stat
+und gepieth</term> dester steyffer und statlicher furter
+gehalten, die unschuld und gehorsame beschyrmett und die ubeltattigen und
+ungehorsamen nach yrm verdienen <term type="phrase">gebessert und
+gestrafft</term> werden, auch yedermann die billickaytt und das recht <term type="phrase">gedyhen
+und wyderfarn</term> mag und damit auch unser stat
+gesatzs, fryhaytten, statrecht, gebrauch und alt gewontheytten, durch unser
+voreltern lange zeytt hin herpracht und von kayßern und konigen <term type="phrase">confirmiert
+und bestettigt</term>, allerlay irtung (!), zwyfel,
+ungleych verstandt zu furkommen, in ainem buch beschryben und in gedachtnuß an
+den tag gebracht und allermanglichem geoffenbart werde, so haben wir zuvor dem
+almechtigen got, seiner werde mu&so;tter, der hymelkonigin Marien, allem
+hymelschlichen here zu breyß, er, lob und pracht umb gemains <pb n="S. 338" url="../DRQI/HeilbronnUB_III_338.jpg"/> nutzs, wolfart und
+notturft willen, darauff dann unser fursorg stett, auch allen unsern burgern,
+einwonern unser stat und gepietten, auch <term type="phrase">auswendigen und
+frembden</term>, und sonderlich, so vor uns oder unserm statgericht zu rechten
+oder sonst zu handlen haben, zu gu&so;tt und furdrung mit hohem fleys,
+zeyttiger betrachtung und hylff der rechtgelerten crafft gemains geschryben
+kayserlichen rechten, zulassung kayßerlicher und koniglicher fryheydtt, damit
+wir begabt,
+auch gwalts unserer oberkayt und regiments, <term type="juridical">jus
+magistratus</term> im rechten zu latein gnannt, dise nachvolgend <term type="phrase">reformation
+und ordnung</term> furgenommen und unser <term type="phrase">statrecht, gesazt ordnungen,
+statuten, pollicyen, alt herkommen
+und gu&so;tt gewonheytten der gemainen kayserlichen rechten</term>, so vil sich
+das nach unser stat Heylpronn <term type="phrase">gelegenheytten, herkommen und
+leuffen</term> hat erlyden mogen, nachfolgender weyß in ain bu&so;ch oder
+volumen beschreyben und zusamenbringen laßen. Und wollen auch, das nun furohin
+sollich <term type="phrase">reformation, ordnung und statuten</term> allen
+unsern <term type="phrase">burgern, burgerin und einwonern</term> diser stat,
+auch in allen unsern <term type="phrase">gepietten und oberkayten</term> und
+von allermenglichen <term type="phrase">haymischen und frembden</term>, so vor
+uns oder in unser gerichten zu rechtfertigen und zu handeln haben, es sye in
+oder ausserhalb rechtens, volzogen und gehalten werden sollen, was aber fur
+handel wern, die hievor durch gerichtlich ubung oder ausserhalb rechtens <term type="phrase">erwunden,
+gestylt, geendet, vertragen oder angenommen</term>
+weren, in yrem stand und weßen also <term type="phrase">geendet und
+hingelegt</term> belyben sollen, ob es schon nit lautt diser unser reformation
+ergangen were; desglychen wollen mir den ihenen, so yetzund in rechtvertigung
+und hangenden rechten gegen ainander steend, hiemit auch nichzit gegeben noch
+benommen haben; was aber hinfuro nach offenbarung diser unser <term type="phrase">ordnung
+und reformation</term> <term type="phrase">gehandelt und 
+angenommen</term> soll werden, das alls soll geschehen laut diser unser <term type="phrase">ordnung
+reformation satzung und gesetzen</term>, wie nach
+geschryben stat, doch vorbehaltlich, ob yetzund oder hernach <term type="phrase">uber
+kurtz oder lang</term> in der bemelten unser <term type="phrase">ordnung, reformation
+oder satzungen</term> etwas geprechen,
+irtung (!) unglycher verstand oder tuncklin<note n="338.1" place="foot">Dunkelheit
+(1541: dunckely).</note> einfielle und begebe, die
+selbgen zu erfullen, zu bessern, zu ercleren, auch zu endren, zu ernüwern, zu
+meren, zu mindern oder genzlich abzuthon und anders zu machen, alles nach
+gelegenheytt der leuff der zeyt und uns oder unsern nachkommen hiemit in allweg
+vorbehalten haben on all geverdt. Amen.<pb n="S. 339" url="../DRQI/HeilbronnUB_III_338.jpg"/></p>
+ </div>
+
+<div id="Buch.1">
+ <head>[Buch I] Das erst bu&so;ch von verheyratten, vermeheln und beywonung
+eelichs Stands.<note  place="foot" n="339.1">Vgl. Heilbronner Statutenbuch von 1541,
+<quelle url="&heilbronnstat_1541;&fs;Bl. 16 r">S. 16ff.</quelle></note></head>
+
+<div id="Buch.1.1">
+	 <head>[Buch I 1]</head>
+ <p>So die eltern yr kinder verheyratten oder sonst personen, were sy wern, hie
+zu Heylpronn und unsern gepietten in eelichen stand tretten, vermehelten und
+zusammen kommen und zwischen innen genu&so;gsam <term type="phrase">verschrybung,
+heyratbrieff, pact und geding</term>, <term type="juridical">dotalia instrumenta</term>
+genant, <term type="phrase">aufgericht und gemacht</term> sind, darbey soll es also
+on verer
+eintrag belyben, es were dan sach, das solliche <term type="phrase">gemacht und
+heyrats beredung</term> so <term type="phrase">ungemeß und unleydenlich</term>
+were, so soll die <term type="phrase">tax und messigung</term>, wie von alter
+here, zu uns, dem radt, als ordenlicher oberkayt steen. Ob aber alain ain
+heyratt zwyschen eeluten durch erber leutt <term type="phrase">abgered und
+beslossen</term> und were doch sollich berednuß nit mit notturftiger
+verschrybung begryffen noch aufgericht, wo dann sollicher <term type="phrase">heyratt,
+abred oder berednuß</term> der maßen ergangen sein durch
+erber redlich leutt <term type="phrase">mit lebendiger stym 
+und kundtschaft</term> zu recht gnug bewysen mag werden, soll es abermals dabey
+belyben on widerred, doch abermals uns, wie oblaut, die messigung in allweg
+vorbehalten. Wo aber nit verschryben heyratt oder dero beredung durch ware
+kundtschaft bewyssen oder darbracht mag werden, so sollen dieselbigen personen,
+so also in eelichen standt getretten, nach unserer stat recht in eelichen stand
+zusammenkommen seyn, bey ainander zu sytzen und zu wonen verstanden und dann
+nachvolgender weyß gehalten werden und also.</p>
+ </div>
+
+<div id="Buch.1.2">
+ <head>[Buch I 2] Statrecht.</head>
+ <p>So zway eegemacht nunmer in eelichen stand dermassen on <term type="phrase">verschrybungen
+und beredungen</term> zusammen kommen, <term type="phrase">zu kyrchen und strassen
+gangen</term> und sy <term type="phrase">die eelich deck beslagen</term> hatt und
+get dan derselbigen
+personen aine, welche die ist, in jarsfrist on eelich leyberben von ir beyder
+leyb geporn mit tode abe, so soll dann die uberlebendig person den halben teyll
+aller zubrachten und syder<note n="339.1" place="foot">Seither.</note> ererbten
+<term type="phrase">hab und guetter</term>, liegend und farends, nichzt
+ausgenommen, von stund an <term type="juridical">nach dem dryssigsten</term>
+wyderumb hinder sich an die abgestorben frundtschaft fallen [lassen] und der
+ander halb teyll an farender hab soll der uberlebendigen person aygentlich
+belyben; was aber lygender gutter, jarlicher gulten, verunderpfand schulden
+weren, soll sy alain yrn <term type="phrase">beysitz und usufructum</term>
+haben und nach yrm absterben hinder sich an der vorgestorben person nechst
+erben, so ye zu zytten sein werden, wyderumb fallen.<pb n="S. 340" url="../DRQI/HeilbronnUB_III_340.jpg"/></p>
+ <p> Wo aber derselbgen person aine erst nach ausgang des jars von der andern
+on eelich leybserben von yr beyder leyb geporn mit tod abgieng, so soll dann
+die selbig uberlebend person die gestorben person an aller farenden hab auch
+gewonnen und errungen guttern erben, die yr aygentlich belyben sollen, und by
+den ligenden guttern, gultbrieffen und verpfandten schulden, die von der
+abgangen person dar oder herzu bracht sind oder von yrer zubrachten heyrats
+oder ererbten barschaft erkaufft weren worden, yr leben lang ain <term type="juridical">beysitz
+und usufructum</term> haben und ruwigklichen belyben
+sytzen on allermenglichs verhindern; dieselbigen ligenden gutter und gultbrieff
+und verpfandt schulden sollen dann nach der überlebendigen persone tod wyder
+hindersich an der ersten abgestorben person nachsten erben, so zu der selbigen
+zeyt in leben sein werden, fallen. Es soll auch die uberlebendig persone in
+disem und volgentem fall der selbigen gutter noch gulten kains <term type="phrase">weder
+versetzen noch verkauffen</term>, es erscheinte dann zuvor
+solliche eehaft und nott, die von uns, dem radt, oder unserm statgericht fur
+gnügsam erkennt mocht werden in fallen, wie dann die recht zugeben und
+vermugen, sunder zu wyderfall laßen onverendert ligen auch die in gu&so;tten
+ern und baw 
+halten, desglychen die gulten, was abglest wurdt, mit kundtschaft wyderumb
+anlegen, auch umb die verpfandten schulden, die sy empfieng, <term type="phrase">burgschaft
+und erstattung</term> thon, damit sy, so es zum fall
+kompt, wyderumb erfunden wurde. Und wo also widerfallige guetter und die zu
+wyderfall ligend, wie oblaut, verhanden sind, so sollen die inhaber der
+wyderfalligen guetter und die, so des wyderfalls derzeytt vermeinent wartig zu
+sein, fur gericht zu der stat buch kommen, dieselbigen wyderfalligen guetter
+einschryben und verzeichnen laßen, damit nach <term type="phrase">tod und
+abgang</term> der persone die rechten erben, so zu derselben zyt im leben sein
+werden, des wyderfalls wyssen zu gewartten; doch so soll sollich einschreyben
+niemantzs an seinem rechten <term type="phrase">kain schaden noch
+verletzung</term> gepern. Was zway eelich gemacht durch yr <term type="phrase">geschicklicheyt,
+fleys und arbeytt</term> mit gsampter hand in
+stender ee mit ainander gewonnen und erungen betten, es were <term type="phrase">ligends
+oder farends</term>, und yr ains sturb also on eelich
+leyberben von yr beyder lyb geporn von dem andern ab, solche <term type="phrase">erungne
+und gewonne guetter</term>, so vere sonst kain ander
+<term type="phrase">gmacht oder gschrifft</term> verhanden, sollen nach unser
+stat alt herkomen der uberlebendigen person aygentlich sein und belyben, die
+mag darmit thon und laßen nach yrm wyllen und gefallen. Were aber sach, das
+under zwayen eelutten ains vorm andren mit <pb n="S. 341" url="../DRQI/HeilbronnUB_III_340.jpg"/> tod vergieng und
+verließ die gestorben der lebendigen eeliche kinder von yr beyder leyb geborn
+hynder yr, es were ains oder mere, so sol und mag die uberlebendig person by
+kindern und gu&so;tt als ain recht und woltunde person, diewyll sy im wyttib
+stand belybt, ruwigklichen sytzen, die kinder <term type="phrase">erberlich und
+zimlich</term> ernern, aufzyhen zu zucht, lerung, handtwercken oder andrem,
+darzu sy geschickt irs stands, anhalten und, so sy zu yrn tagen kommen, in
+<term type="phrase">geistlichen oder weltlichen stand</term> mit seinem
+gepurenden angehorigen <term type="phrase">teyll oder porcion</term> von der
+abgestorben person verlassen hab und guetter oder, wo es des nit enhette (!),
+sonst nach gelegenheyt der guetter und radt der freund zimlich ausstewern,
+darzu furdern und seins vermogens nit hindern und, wo irtung hierin entstiend
+und einfiell, soll die <term type="phrase">erclerung und messigung</term>
+abermals in allweg bey uns, dem rat, als der oberkait steen. Ob sich aber die
+selbig uberlebendig person wyderumb verheyratten oder in <term type="phrase">gaystlich
+oder weltlich stand</term> verendern wolt, das zu yrm
+fryen wyllen steet, so vere dann die abgestorben person so statlich geweßen und
+etwas hab oder guetter, darvon die kinder enthalten mochten werden, hinder yr
+verlaßen hett, so mag die uberlebendig person, doch mit unser <term type="phrase">bewylligung,
+zugeben und erkentnis</term>, zyhen und nemen yr
+<term type="phrase">zupracht und ererbte guetter</term> und was von yr linien
+herkompt, darzu zimliche <term type="phrase">klayder, klainet, 
+geschmuck, gebend</term> und was ongvarlich zu yrm leyb gehordt und darzu von
+der abgestorben person verlassen hab und guetter <term type="phrase">zu er und
+gunst</term> eelichs stands, so vere der kinder uber zway seind, ainen glychen
+kindsteyll, wo ir aber zway und darunder, ainen dryttall nemmen und zyhen und
+damit hindan sein, doch den kinden, so es zum fall kompt an der uberlebendigen
+person, es sy <term type="phrase">uber kurtz oder lang</term>, an irer
+erblichen gerechtkayt und zugang in allweg <term type="phrase">onvorgryffen und
+onnachtylig</term>; und alles anders, so die gestorben person verlaßen, soll
+den kindern oder yren verordnetten formundern zugestelt werden on wyderred und
+soll darnach bey ains radts erkantnuß sten, ob die kind bey vatter oder mutter
+belyben oder durch die formunder sonst versehen sollen werden oder nit. Und ob
+ain sollich person in der andern ee mit seinem nachnehmenden eegemahl noch
+kinder uberkem, also das stieffkinder vorhanden weren, soll es auch der weyß
+ghalten werden wie oblaut, damit kain kind siner vatterlichen oder
+muetterlichen hylff, narung, zucht, aussturung und erbs entwerdt sonder in
+allweg seiner erblichen gerechtkayt gewartig und, so es zu yedem fall kompt,
+seinen zugang haben meg. Und so also die uberlebendig <pb n="S. 342" url="../DRQI/HeilbronnUB_III_342.jpg"/> person wyderumb, wie
+obstet, in die andren ee tritt, so soll sy dem selbigen yrm andern eegemahel
+nit mer zu vermachen macht haben, dann so vil und ain kindsteyll der ersten ee
+erraycht, und was daruber were, so sol es von unwurden sein und aberkant
+werden, damit die kinder erster ee yrs <term type="phrase">legittima und
+naturlichen anteyls</term> von rechten zugehorende nit entsetzet werden. Doch
+ob ain person nach absterben yrs eelichen gemahels, die sich wyderumb, wie
+oblaut, zu verendern wyllens, mit den verlaßen kinden in obgemeltem fall alle
+hab und guetter, die yrn und der abgestorben, durch den banck hinweg glych
+abteylen wolt, da anders zimliche hab und guetter verhanden sind, soll zu
+unserer erkantnuß steen, und wo sollichs durch uns zugelassen, so mag sich dann
+die selbig vertaylt person mit seinem teyll, der im aygentlich zusten soll, in
+die ander ee onverhindert der kinder erster ee wyderumb verheyratten und
+denselben seinen teyll dem andern gemahell <term type="phrase">gar oder zum
+teyll</term> <term type="phrase">vermachen, gyfften oder verschaffen</term>;
+doch was <term type="phrase">onverschafft und unvermacht</term> belyb oder der
+ander eegemahel aber zuvor mit tod vergieng (also das sich der fall begeb, das
+sollich hab und guett fry wyderumb zu der bemelten person kemen), den kindern
+daran an yrem erlichen (!) zugang onbenommen; was auch ye zu zeytten zimlicher
+<term type="phrase">rychtung und verträg</term>, so durch erber leutt, wie offt
+byßhere zwyschen den partheyen beschehen, hierinnen aufgericht werden, so vere
+sy sonst stand im rechten tragen, wollen wir auch nit wyder sein doch wollen
+wir uns in disen fallen unser oberkaytt, die zu deklariern, messigen und zu
+erclarn, in allweg vorbehalten haben. Ob aber ain eegemacht vor dem andern
+absturb und verließ kinder hinder ime und sein gu&so;tzs nichtzit oder so
+wenig, das die kinder nit mochten fuglich damit 
+enthalten werden, so mag ain radt, so vere es im gefallig ist, derselbgen
+uberlebendigen person kind und gu&so;tt bey ainander laßen; dan<note place="foot" n="342.1">Das
+Folgende ist nicht klar.</note>) nemmen billicher die
+kinder in dem fall anders dann yr eltern alß vatter und mutter altvatter und
+altmutter <term type="phrase">neren und zyhen</term> sollen; doch ob etwas
+<term type="phrase">hab und gutlin</term> verhanden, es were wievill es wolt,
+wellen wir dannoch formunder darzu verordnen, die ain getrüw aufmercken darzu
+haben sollen on geverd. So aber die uberlebendig person arm geweßen und der
+abgestorben nichzit zugebracht hat, soll sy in disem fall in allweg, doch mit
+obgemeltem underschid, so wie der kinder zwen oder darunder sind, von der
+abgestorben person verlaßen hab und guettern <pb n="S. 343" url="../DRQI/HeilbronnUB_III_342.jpg"/> ainen kindsteyll
+zesampt <term type="phrase">kleyder, klainett, geschmuck, gebend</term> und was
+ungevarlich zu yrm leyb gehordt <term type="phrase">zyhen und nemmen</term>. Es
+sollen auch zu volstreckung sollicher abtaylungen, wie oblaut, auch hernach in
+andern erbfallen, die personen, so inheber der guetter sind, glawblich alles,
+das in die taylung gehördt, erfür legen und anzaygen bey <term type="phrase">truw
+und glawben</term> und ganz nichzit hieher geherende
+verhalten und, wa die wyderteyll sollichs begerten und nit erlaßen wolten oder
+uns not sein geduchte oder erkant wurde, darumben zu got und den heylgen
+schweren sollen; und ist das der ayd nach gemainen rechten. Die form des aydes:
+Ich N. schwere, das ich alle und yede hab und guetter, ligends und farends,
+<term type="phrase">gesuchts und ungesuchts</term>, <term type="phrase">ob und
+under erd</term>, nichzitt ausgenommen, in gemain teylung gehorig, getruwlich
+furbracht und anzaygt und geverlich nichzit verhalten oder verschwygen hab; und
+ob ich noch etwas mer erfunde oder bedechte, das auch zu teylen sich gepürte,
+wyll ich auch melden und schaffen getaylt werden getruwlich und on alle geverd,
+als mir got helff und die heyligen. Wir <term type="phrase">wollen ordnen und
+setzen</term> in austeurung der kinder, ob emans ain kind velliger dan das
+ander aussteuerte, das man dan, in ansechung und ain kind gegen seinen eltern
+verdienter dann das ander ist, vom rechten thon mag, so soll doch sollichs
+zimlich geschechen und kain geverdt gebracht, damit, wan es zum fall kompt, das
+die andern auch umb so vil oder zum wenigsten yrs legitima verglychen mogen
+werden; es sollen auch die selbigen kinder, so also, wie oblaut, mer empfangen,
+so es zu erben kompt, so vere sy anders erben wollen, antweders einwerffen oder
+byß zu der andern verglychung styllsten; dan wo sollichs mit der unmaß
+gescheche, soll die messigung in allweg zu uns, dem radt, als der oberkayt
+sten. Wir wollen auch, das nemands, were der were, die hab und guetter, darauff
+er seinen gemahell verwydembt, <term type="juridical">predia dotalia</term>
+gnannt, oder seine kinder vatterlichs oder mutterliche erbs oder ainer andern
+erblichen gerechtkayt verwysen hett, on der egemahell oder der kinder oder
+derselben formunder oder anderer frundt, die ein interesse habend, <term type="phrase">wyssen
+und bewilligung</term> nit zu verkauffen, zu 
+versetzen noch in andren weg zu verendern macht haben sollen; und were das
+thet, soll kain craft haben, es were dann sach, das ainer die selbgen mit so
+statlichen guettern, als die vorigen geweßen, wyderumb hersetzte und sollichs
+durch uns oder unser stat gericht oder unser geschworen feldbeseher, so ye zu
+zeytten darzu verordnett werden, fur gnugsam erkant werde. Were es dann sach,
+das eeleutt kind <pb n="S. 344" url="../DRQI/HeilbronnUB_III_344.jpg"/>
+mit ainander hetten und gieng dann der lebendigen eegmacht ains tods ab,
+welches das were, und sturbe dann der selbgen kinder ains oder mer, die eygen
+gu*ett verlassen, so sollen die selbgen lebendigen person, es sey vatter oder
+mutter, mitsampt den andern lebendigen kindern, den geschwistrigitten, das oder
+die gestorben kinder nach satzung gemainer kayserlicher recht mit ainander zu
+gleychen teyln erben, es were dann, das in heyrats brieffen, testamenten und
+ander geschefften anders hierinnen geordnett were; doch wa sich strytt
+hierinnen begeben, soll zu unser erklerung oder erkantnuß sten. Und damit der
+eeliche stand als ain sacrament der cristenlich kyrchen nit onloblich sonder
+mit erlichem und bestandigem eingang und anfang gezyrdt werde, so orden und
+setzen wir hemit, das nemands alhie zu Heylpronn, weder frembds noch haymischs,
+kainer sein kind oder frundt on wyssen seiner eltern oder formunder <term type="phrase">verkuppeln,
+hingeben noch 
+verendren</term> soll; und were das thet und uberfure, den wyll der radt
+darumben straffen nach seiner ubertrettung. Were aber umb das ander werben oder
+nach im zu den ern stellen welt, der soll es aufrecht mit glimpf und und [sic]
+redlich an der selbigen kinder eltern als an vatter und mutter oder, ob es
+deren nit hett, sonst an sein nechsten frundt oder formynder langen laßen und
+also mit erbern zuchten werben; und wer darwyder <term type="phrase">geverlichayt,
+lust oder behendigkeyt</term> su&so;chte oder
+brauchte, den wollen wir darumben nach gelegenheyt der sach straffen. Wir <term type="phrase">orden
+und satzen</term> auch, wo zway eegemacht mit besampter
+handt schulden machen, sy syen <term type="phrase">verbriefft oder sonst
+redlich schulden</term>, und get der selbigen personen aine mit tod ab oder die
+glaubiger wollen sonst in yr beyder leben nit lenger styl sten noch der
+bezalung geratten oder wurdt innen nach unser stat recht zu gesloßen oder sonst
+gepfendt, so sollen an die selbigen schulden anfangs geben werden <term type="phrase">alle
+barschaft und farende hab</term>, als vere die geraychen
+mogen, ausgenommen beyder eegmacht zimliche <term type="phrase">klayder,
+kleinet und gebend</term>, was also ungeverlich zu yrm leyb gehordt (dero
+messigung zu unser oder unsers statgerichts erkentnuß sten soll), und darnach
+<term type="phrase">gewonne und erungne guetter</term>, die sy bey ainander
+gewonnen haben; und wo dann daran bruch wurde, das die schulden nit bezalt
+mochten werden, so soll man dann greyffen zu irn ligenden guettern, die dann
+von beyden personen herkommen sind, und von ainem teyll als vil als von dem
+andren, und was dann der selbgen guetter uberlybten<note place="foot" n="344.1">Übrig
+blieben.</note>, die sollen alsdann yedem <pb n="S. 345" url="../DRQI/HeilbronnUB_III_345.jpg"/> teyll zum fall ligen
+ongeverlich, es were dann durch <term type="phrase">heyrats brieff, testament
+und ander rechtlich verschrybungen</term> anders versechen, darbey, so vere die
+schuldner bezalt, man es auch belyben mag lassen ongeverlich, doch uns unser
+oberkaytt hierin in allweg vorbehalten. Zu auffenthalt dem eelichen wesen auch
+allerlay unordenlich keuff, so zu zytten hinder dem wein <term type="phrase">unbedachtlich
+und on vorradt</term><note place="foot" n="345.1">Vorberatung.</note> beschehen, die
+selbgen zu furkommen, orden und
+setzen wir aus bewegenden ursachen, das von kainem egmacht der weyß furohin
+ligende gu&so;tter kaufft oder verkaufft sollen werden, dann mit des andren
+seines eegemahels <term type="phrase">wyssen und wyllen</term>; wo sich aber
+ain eegemahell auß ungegrundten ursachen dar wyder satzte und spenig wurden,
+wie dann wir sy darumben entscheyden, dar bey soll er (!) belyben: wo aber
+ainer sich seiner hausfrau zu machtigen unterstiend und sich daruber die fraw
+den kauff zu halten sperte und nit haben welt, den wollen mir umb sein <term type="phrase">verklaynung
+und selbs verachtung und spott</term> nach
+gelegenheyt darumben straffen; darnach wyß sich ain yeder zu richten.</p>
+</div>
+     </div>
+
+<div id="Buch.2">
+ <head>[Buch II] Das ander bu&so;ch von formundschaft.<note place="foot" n="345.2">Vgl.
+ Heilbronner Statutenbuch von 1541. <quelle url="&heilbronnstat_1541;&fs;Bl. 13 r">S.
+13ff.</quelle></note></head>
+ <p> Nach dem die kayserlichen recht von dryerlay formundschaft meldung thund,
+etlich
+ <term type="juridical">legyttim</term>, die nachgesypten und angebornen, die
+ ander <term type="juridical">testamentarii</term>, die zu <term type="phrase"  >testamenten
+und letsten wyllen</term> gesatzt werden, die dritten <term  type="juridical">dattivi</term>,
+als die von der oberkaytt gegeben werdend,
+ und wiewoll die zwu&so; ersten formundschaften in unser stat byßhere nit in
+sonder
+ genger <term type="phrase">ubung noch brauch</term> geweßen, noch dannoch, wo
+ ain hawsvatter seinen kindern in ainem <term type="phrase">testament oder
+ letsten wyllen</term> taugenlich personen zu formundern ernante oder
+ verordnette, wo sy dann uns nachvolgens anzaygt und durch uns geschickt und
+nutz
+ angesehen und also von uns confirmiert wurden, ließen mirs auch belyben.</p>
+ <p> Zum andern, nachdem ain yeder vatter nach satzung kayserlicher rechten von
+wegen
+ <term type="juridical">vätterlicher gewaltsam</term>, zu latin <term  type="juridical">patria
+potestas</term> genannt, seiner naturlichen und
+ eelichen kinder, es sye <term type="phrase">sone oder dochtern</term>,
+ muetterlicher und anderer geerbter hab und guetter die <term type="phrase"  >verwaltung
+und administration</term> in und ausserhalb rechtens hatt (doch
+ die selbgen den kind zu nachteyll nit zu verendern), dieweyll dann der vatter
+zu sollicher verwaltung dapfers stands, herkommens, vernunft und wesens halben
+geschickt were, mogen wir in seiner kinder vormunder woll belyben laßen, es
+were dann sach, das der <pb n="S. 346" url="../DRQI/HeilbronnUB_III_346.jpg"/> kinder nachst frundschaft durch gruntlich einred wyderfachten und
+ander formunder oder im imands zu formundern zuzugeben an uns begerten und
+deßhalben <term type="phrase">irtung und unainigkayt</term> hierin zwyschen den
+frunden enstiend, soll zu unserer <term type="phrase">erkantnuß und
+erclarung</term> sten. Am drytten werdend die <term type="phrase">formunder
+oder pfleger</term>, die weyll die kinder sone unter 14 jaren und dochterlin
+under 12 jaren sind, <term type="juridical">tutores</term> genempt, darnach
+hinauß byß zu 25 jarn <term type="juridical">curatores</term>; und wo die
+jungen pflegkinder in <term type="phrase">irtung und unainkayt</term> mit yrn
+formundern kommen und villicht in rechtvertigung mit in sten muesten, wellen
+wir inen auf yr oder yr freundtschaft ansuchen ainen oder mer vogt zum rechten,
+als lang die rechtvertigung werett, zuordnen, und erfend sich als dann, das der
+oder die formunder den kinden nit nutz oder arckwenig weren, so stet in unser
+macht, die selbigen laßen zu ru&so;wen und ander zu setzen, des wir uns in
+allen fellen vorbehalten haben wellen. Am vierden wo kinder in unser stat sind,
+die formunder notturftig weren, sollen der selbgen kinder nachst frundt fur uns
+in unsern radt kommen und denselbgen formunder begeren, mogen auch dar bey
+etlich personen zu formundern anzaygen, wellen wir inen die selbigen oder ander
+gelegen personen zu formundern bestatten (!) und confirmiren. Die selbgen, so
+also zu formundern angnommen werdend, sollen die nachvolgenden drey ding zu
+thon schuldig sein. Am ersten, das die formunder die kinder, denen sie also
+gesatzt, die formunderschafft nach unserm befelch und erkantnuß mit allem fleis
+<term type="phrase">annemen und versehen</term>. Am andern, das sy glawbwirdig
+inventarien machen, der kinder hab und guetter aygentlich zu beschryben, auch
+rechnung, wie nachvolgend, zu thon etc. Am drytten der formunder pflicht, wie
+nachvolgt, zu thon; die pflicht der formunder, so von unß verordnet und ain
+yeder formunder thon soll: Ain formunder soll an ayds stat globen, das er der
+ jungen seiner pflegkinder person, hab und guetter getruwlich versehe und
+bewarn
+ nach seinem verstand, yrn <term type="phrase">nutz und frommen</term> furdern
+ und schaden verhuetten, die ligenden guetter zu schaden den kindern nit vergen
+ laßen sonder in zimlichem weßen behalten, derer kinder <term type="phrase">leyb,
+ hab und guetter</term> in und ausserhalb rechtens auf yr der kinder kosten
+ und schaden zu versen, verantworten und beschyrmen, wo das nott sein wurdt,
+der
+ kind hab und guetter getruwlich laßen <term type="phrase">beschryben und
+ inventiern</term> und zu gepirlichen zytten und sonderlich, wan er des von
+ der oberkaytt oder sonst ervordert wurdt, <term type="phrase">rechnung, red
+und
+ antwurt</term> darumben geben und sonst, was ainem formunder herin zu thon
+ <pb n="S. 347" url="../DRQI/HeilbronnUB_III_346.jpg"/> gepurdt, handlen, alles ungevarlich. Wir haben auch
+ herauff etlich unser radtfrundt sollich rechnung von den formundern zu
+empfahen
+ verordnett, die auch darzu globt und zu den heylgen geschworn haben, sollich
+ rechnung ordenlich zu nemen lautt der recess in ainem sondern buch der
+ formunderschaft begryffen, das wir hierumben verordnett haben etc.
+ Formunderschaft, dieweyll sy nach satzung der recht den priestern verboten,
+ lassens wir auch darbey belyben; und wiewoll frawsbylder, so vere sy sich yr
+ fryheyt im rechten, <term type="juridical">ad Velleyanum</term> genant,
+ verzygen, mochten auch formunderschaft tragen, aber diewyll es byß her der
+ brauch in unser stat nit geweßen, lassends wir auch darby beru&so;wen, doch
+wollen
+ wir den frowen, die nach absterben yrer eelichen hawßwirtt zu wyttib stand als
+ wolthond recht personen by hab und gu&so;tt mogen belyben sytzen, wie oben im
+ ersten buch lautet, hiemit nichzit benommen haben. <term type="phrase">Curatores
+ und pfleger</term> soll man und mag man auch vom rechten geben und verordnen
+ <term type="phrase">unsynnigen, hawptkrancken, dawben, stummen,
+ unvernunftigen</term> und denen, die yr guett <term type="phrase">unnutzlich
+ und yppigklich</term>
+ <term type="phrase">verthond, verspylen, verbrassen, verschlemmen oder
+ verschwenden</term> und der administration (der verwaltung) yr guetter nach
+ nutz nit vorsein kunden, ob sy schon uber 25 jar alt sind. Wir wollen auch
+ ordnen und setzen, welcher also von uns zu <term type="phrase">formunder,
+ pfleger tutor oder curator oder vogt</term>
+ <term type="phrase">zum rechten erwelt, geordnet und gesezt</term> wurdt, der
+ solle sollich <term type="phrase">formunderschaft und pfleg oder vogtey</term>
+ tugentlich<note place="foot" n="347.1">1541: eigentlich.</note> annemmen und
+ sich mit nichten <term type="phrase">wydern oder sperren</term>, es were dann
+ sach, das er so treffenlich ursachen hette und die selbigen vor uns anzaygte
+und
+ wir erkennen mochten, das die selbgen ursachen so statlich weren, das er
+ sollicher formunderschaft zu erlaßen were, so solt er entschuldig sein, sonst
+ nit. Und so sich nun die formunderschaft durch alter oder durch verenderung
+der
+ jungen in eelichen stand oder sonst endett, sollen die formunder alßdann
+ volkommen erber wyderrechnung thon und sollen die jungen die formunder mit
+sampt
+ yrn eelichen gemaheln, ob sy der hetten, oder were sy der formunderschaft zu
+ erlassen hat, erberlich und nach notturft quittieren.</p>
+ <p>Ursach entschuldigung der formunderschaft: So sind auch etlich ursachen,
+die
+ ainen von der burdin der formunderschaft <term type="phrase">entschuldigen und
+entheben</term> mogen; anfangs die offne ampter haben als <term type="juridical">administratores
+fisci</term> oder sonst hoch gewält; am andern
+die umb gemains nutz wyllen in krieg oder ander geschefften reipublice
+außgesandt sind; am drytten der da für sich selber mit <pb n="S. 348" url="../DRQI/HeilbronnUB_III_348.jpg"/> den jungen, deren
+formunder er sein solt, händl hat, darumben er in rechtvertigung sten mu&so;ß;
+am vierden armutt; am fünften wirige kranckheyt; am sechten (!) all <term type="phrase">unwyssend,
+ainfeltig und unvernunftig</term> personen; am
+sybenden wo hawpt findschaft zwyschen den jungen und dem, der der formunder
+sein solt, were; am achtenden so ainer uber die sybenzig jar alt ist; zum
+newnden die doctores, die artzett, magistri, rethorici, schultmaister (!) und
+der glychen personen, die der kunst und lerung yr facultatem abzulegen schuldig
+sind; zum zehenden wa ainer ain <term type="phrase">verschwender und
+verthoner</term> oder sonst <term type="phrase">suspect und argkwenig</term>
+were, mag davon thon werden; und sonst was ursachen einfyelen oder erschynen,
+dardurch wir erkennen mochten, das die personen untaugenlich zu formunder zu
+setzen weren; doch soll sollichs alles zu unserer <term type="phrase">erkantnus
+und erclerung</term> sten.</p> </div>
+
+<div id="Buch.3">
+ <head>[Buch III] Das drytt bu&so;ch von <term type="phrase">ordnung und
+satzung</term>
+ <term type="phrase">testament und letsten wyllen</term>.<note place="foot"  n="348.1">Vgl.
+Heilbronner Statutenbuch von 1541, <quelle url="&heilbronnstat_1541;&fs;Bl. 32 r">S.
+32ff.</quelle></note></head>
+
+<div id="Buch.3.1">
+     <head>[Buch III 1]</head>
+ <p> Welcher burger, einwoner oder ain ander, der unser stat recht, oberkaytt
+und ordneng (!) underworffen, ain <term type="phrase">testament, codicill oder
+ain ordnung seins letsten wyllens</term> machen wyll, der soll das
+nachvolgender weyß thon. Anfangs dieweyll die recht vermutten, das kain <term type="phrase">actus
+oder handl</term> glawbwirdig sein mog, dann der <corr resp="HS" sic="ver">vor</corr>
+seiner ordenlichen oberkaytt <term type="phrase">vollendet und volstreckt</term>
+wurdt, demnach so ordnen und
+sezen wir, das ain yeder sein <term type="phrase">testament, codicill oder
+letsten wyllen</term> vor uns in unserm radt als der oberkaytt oder vor unserm
+statgericht offen machen und verfast in schryfft einlegen mit begere in zu
+verlessen und, so er verleßen wurdt, so soll er oder ain yeder <term type="phrase">offen
+sagen und bekennen</term>, das sollichs sein letster wyll
+sein, mit begere im den aufzurichten, namlich <term type="phrase">glawblich
+schein und briefflich urkundt</term> darumben in gewonlicher form, doch auf
+ains yeden selbs costen, under unser stat secret insigell zu geben, das wir
+dann, so vere es ordenlich geschicht, der warheyt zu gu&so;tt zu thon urbyttig
+sein werden, mag auch darzu unsers radts und gerichts geschwurn notari umb
+underschrybung auch <term type="phrase">ervordern und bytten</term>, die es
+dann also yrs ampts halben zu thon auch schuldig sein sollen, des auch
+schultheys und die richter, so yeder zeytt an unserm statgericht sytzen werden,
+in der gleychen <term type="phrase">geschefften und gemachten</term> auch thon
+werden, doch dem gericht an seiner alten gerechtkayt (!) und herkommen in
+allweg onvergryffen, welches vor allen dingen auch darglegt werden soll. Und
+solliche <term type="phrase">testament, codicill, geschafft und letst
+wyllen</term> vor uns als der oberkaytt oder <pb n="S. 349" url="../DRQI/HeilbronnUB_III_348.jpg"/> unserm statgericht,
+wie oblaut, gemacht bedorffen kainer veren<note n="349.1" place="foot">Ferneren,
+weiterem.</note> solemnitett noch gezeugen auch 
+kainer andren <term type="phrase">publication noch insinuation</term>, ist auch
+nit nott ymands anderm darzu zu verkunden. Am andern wo aber emands sein <term type="phrase">testament,
+codicill, geschafft und letsten wyllen</term> vor uns
+alls der oberkaytt oder unserm statgericht aufzurichten ungelegen, so mag er
+das vor glawbwirdigen notarien und stathafften gezeugen, wie dan sollichs die
+kayserlichen recht vermogen und der brauch byßhere im heylgen reych geweßen und
+noch ist, thon, <term type="phrase">aufrichten und vollenden</term>. Und wer
+also ain <term type="phrase">testament und letsten wyllen</term> zu machen
+fuernympt, der soll das thon vor ainem notary und syben zeugen; wo er aber kain
+notarien gehaben mocht, soll er allweg fur die person des notarien zwu&so;
+ander personen nemmen. Und were dan welt<note place="foot" n="349.2">Wollte.</note>,
+das sein testament becreftigt und stand im rechten
+hab, der soll ainen oder mer erben darinnen <term type="phrase">benennen,
+instituirn und ordnen</term>; dann testament on satzung ains oder merer
+gemainer erben im rechten kain crafft hat, dieweyll <term type="juridical">institutio
+heredis</term>, <term type="juridical">satzung des
+erben</term>, ain fundament und ain wesenlich hawptstuck ains testaments ist.
+Aber in codicillen, darinnen man alain legatten und sonderlich ding verschafft,
+ist nit von notten satzung ains gemainen erben sonder alain austeylung der
+legatten und zu becrafftigung der codicill ist genug an fünff zeugen nach
+auswysung der recht. Doch wollen und setzen wir, das die <term type="phrase">testament,
+ordnungen oder letsten wyllen</term>, do ain vatter
+seinen kinden allein on einzyhung frembder personen oder da ainich person zu
+auffenthaltung unserer stat an yrn <term type="phrase">gebauwen, muren, graben,
+thurnen, brucken, weg, steg</term> oder dem gemainen nutz unserer stat fisco
+(in die rechenstuben genannt) etwas verschaffte, deßgleychen an gotzgaben,
+armen oder gaistlichen leutten, ellendherbergen, spyttallen und der glychen,
+(<term type="juridical">ad pias causas</term> genannt) etwas <term type="phrase">gebe,
+sazte oder vermachte</term>, die sollen crafft und macht
+haben, ob schon nit mer dann zwen oder drey zeugen darby wern, wie dann das
+recht solchs zugybt; sonst sollen obgemelte wesenliche formen des testaments
+gehalten werden. Es soll auch ain yedes <term type="phrase">testament oder
+letster wyll</term> zu ainem mall onunderlaßlich und nit zu getaylter zeytt
+oder underschayden tagen gemacht werden. Deßgleychen mogen auch die <term type="juridical">ubergaben
+von tods wegen</term> vor uns als der oberkaytt oder
+unserm statgericht oder vor notari und dreyen oder vier zeugen gemacht
+werden.<pb n="S. 350" url="../DRQI/HeilbronnUB_III_350.jpg"/></p>
+ </div>
+
+<div id="Buch.3.2">
+ <head>[Buch III 2] bVon untaugenlichen testamenten, geschafften und letsten
+wyllen.</head>
+ <p> Ain <term type="phrase">testament oder letster wyll</term>, darinnen der
+ kinder ains oder mer nit bedacht sonder <term type="phrase">ubersehen,
+ furgangen oder on ursach enterbt</term> weren, ist<note n="350.1"  place="foot">Wohl
+aus Missverständnis ausgestrichen.</note>
+ <term type="phrase">von nichten und oncrefftig</term>, ob schon glych die
+ andren kinde, gemayner nutz, kyrchen, spyttal oder der glychen erben gesazt
+ weren; darumben von notten ist, das der vatter sein kinder alle zu erben
+ setze oder aus nachvolgenden ursachen enterben und furgen moge. Am andern
+ ist ain testament untaugenlich, da kain erb innen <term type="phrase"  >gesatzt,
+benempt und instituiert</term> ist. Am drytten ist das
+ testament untaugenlich, darinnen kinder in das, so nit in weßen ist,
+ eingesezt weren worden. Am vierden ist das testament <term type="juridical"  >nichtig
+per nativitatem posthumi</term>, so nach absterben des
+ testators sein nachglaßen wyttfrow ain kind oder mer (die sy von dem selbgen
+ yrm eemann empfangen) gepere, dar von doch der mann nit wyssens gehapt, auch
+ des im testament nit gedacht hette; sollich testament crafftlos ist; dann
+ deßhalben von nötten ist, das der testator seine nachgebornen kinde auch zu
+ erben mach und setze. Am funfften als nach den kayserlichen satzungen
+ nichzig fryers ist dann <term type="phrase">ordnung und geschafft des
+ letsten wyllens</term>, daran man niemands, dem des vom rechten nit
+ verbotten und zu thon macht hat, verhindern soll, dann auch ain yeder,
+ dieweyll er lebt und brauchung seiner vernunfft hatt, er sey gesundts oder
+ krancks leybs, woll ordnen mag, und were ainen sollichen daran verhindert,
+ hette sein erbliche gerechtkaytt, ob im die sunst ausserhalb testaments ab
+ intestato zustiend, verfallen; also herwyderumb, wo iemans zu <term  type="phrase">testament
+und letsten wyllen</term> zu machen gezwungen
+ oder durch trawung<note place="foot" n="350.2">Drohung.</note> dahin
+ gebracht wurdt sollich testament und letsten wyllen auß <term type="phrase"  >traw,
+forcht oder gezwangknuß</term> zu machen, ist <term type="phrase"  >nichtig und von
+unwyrdin</term>. Am sechsten wo in ainem testament den
+ kindern mynder dann yr gepurender teyll, <term type="juridical"  >legittima</term>
+genannt, gesatzt wurde, die selbgen kinder mogen
+ clagen wider das testament umb erstattung yrs legittima oder gepurenden
+ teyls; und ist der gepurd (!) <note n="350.3" place="foot">Der
+ gebührende.</note> teyll, legittima vom rechten genannt, der: wann der
+ kinder sind viere oder darunder, so ist yr legittima von der gestorben aller
+ verlaßen hab und gutter der dryttall, sind aber der kinder uber viere, ist
+ legittima der halb teyll aller verlaßen hab und gutter, der in von natur
+ zugehorett und kains wegs entsetzt mogen werden, es seye durch testament,
+ <pb n="S. 351" url="../DRQI/HeilbronnUB_III_350.jpg"/> ubergab, gemacht oder was tittell es were. Am sybenden der
+ im den tod selber thu&so;tt, des testament ist <term type="phrase">ab und von
+ unwyrden</term>.</p>
+ </div>
+
+<div id="Buch.3.3">
+ <head>[Buch III 3] Ursachen, darumben vatter und mu&so;tter yr kinder enterben
+mogen.</head>
+ <p> Nach gemainen kayserlichen rechten sind vil velle, darinnen aus ursachen
+die
+ eelichen und leyblichen kinder mogen yrer vatterlichen und muetterlichen
+ erbfalle durch <term type="phrase">testament und geschafft</term>
+ <term type="phrase">entsetzt und enterbt</term> worden, doch das sollich
+ enterbung und ursach, warumben es gescheche, in <term type="phrase"  >testament
+oder geschafft</term> namlich bestympt werde und die so
+ offenbare sye, das auch nach abgange der eltern solliche bestympte ursachen
+ durch des abgegangen gemachte erben auf die selbigen enterbten kinder, ob sy
+ der in abred sein werden, bewysen mogen werden. Anfangs so die kinde frevel
+ handt oder gwalt an yr eltern legen. Am andern so die kinder schwere
+ unersame schmach und <term type="phrase">unrechte und freveliche wortt und
+ iniury</term> an yr eltern legen oder gegen innen furnemen. Am drytten
+ so die kinder yr eltern vor gericht oder der oberkeytt umb peinlich sachen
+ <term type="phrase">beschuldigen und anclagen</term>, es were dann sach,
+ das sy schwere verhandlung oder schmechung wyder den romischen kayser, konig
+ oder ainen gemainen radt diser stat oder ganz gemaind, nutz und weßen diser
+ stat, <term type="juridical">crimen lese maiestatis</term> oder <term  type="juridical">ketzerey,
+sedition, aufgeleff</term> antreff,
+ furgenommen hetten. Am vierden so die kinder mit gyfft oder in ander weys
+ das leben yr eltern zu verderben understend. Am funften so ain kind sein
+ stieffmutter, seines lyplichen vatters eeliche hausfrau, sich zu vermyschen
+ oder zu beschlaffen verstanden hette. Am sechsten so die sone sich nit
+ wollen verpflichten noch burg werden fur yr eltern, so die in unzimlicher
+ gefancknuß begryffen sind, wiewoll diser fall die dochtern nit berürt, alain
+ die sone. Am sybenden so die kinder verhindern yre eltern gepurlich <term  type="phrase">testament
+oder geschafft</term> zu machen; und so die
+ eltern yr testament und geschafft thu&so;n, so mogen sy die selbgen kinder
+ diser ursach halben in sollichen yrn geschafften enterben. Am achtenden wo
+ ain kind das ubell wyder die natur begangen hette, mag enterbt werden. Am
+ newnden, wo ain dochter ain <term type="phrase">unrain, leuchtvertig,
+ unkuschs leben und weßen</term> gieng und sonder, so der vatter sy zu
+ eelichem stand, ee und sy 25 jar alt worden, bestatten hat wollen. Am
+ zehnden so die kinder vatter und mutter notturftige <term type="phrase"  >narung
+und artzney</term> mitzutaylen <term type="phrase">versagen, wegern
+und versaumen</term> und wann dieselbigen kinder durch ander frembd leutt yrn
+eltern sollich <term type="phrase">narung, artzney und notturft</term>
+mitzutaylen rechtlich ersucht <pb n="S. 352" url="../DRQI/HeilbronnUB_III_352.jpg"/> werden und es
+verachten und die frembden helffen in<note n="352.1" place="foot">Ihnen.</note>,
+so sollen dieselben frembden personen an stat der ungetruwen kindern die
+selbigen eltern erben, denen auch sollicher erbfall vervolgen soll. Am aylften
+wa vatter und mutter cristen weren und die kinder ketzer weren oder in ketzerey
+vielen. </p>
+ </div>
+
+<div id="Buch.3.4">
+ <head>[Buch III 4] Von dunckel testamenten.</head>
+ <p> Wan ainer ain dunckel oder unverstandig testament gemacht hett oder
+nachvolgend ain unverstand darein fiell an ainem oder mer ortten, das mag der
+selbig testator vor zwayen erbern gezeugen darnach <term type="phrase">bessern
+und erclaren</term>, aber gar ab mag ers on die solemnitett darzu geherend, wie
+nachvolgt, nit thon.</p>
+ </div>
+
+<div id="Buch.3.5">
+ <head>[Buch III 5] Wie und wann testament mogen wyderrufft werden.</head>
+ <p> Ain yetlich <term type="phrase">testament, letster wyll, geschafft oder
+ gemacht</term> soll und mag <term type="phrase">geenndert und
+ wyderruffen</term> werden mit der bescheydenheyt, als es gemacht ist. So
+ mag auch ain testament durch ain anders nachvolgend, das auch ordenlich und
+ wie recht ist gmacht, wyderrufft werden. Wir wollen auch setzen und ordnen,
+ das ain yeder <term type="phrase">testator oder testatorin</term> mag sein
+ <term type="phrase">testament und letsten wyllen</term>, ob er schon das
+ selbig vor uns als der oberkaytt <term type="phrase">publiciert, ereffnet
+ und insinuiert</term> hett, wan in verlust, wyderueffen on verhinderung
+ und einred manigklichs.</p>
+ </div>
+
+<div id="Buch.3.6">
+ <head>[Buch III 6] Welche person nit mogen testament machen.</head>
+ <p> Ainer jeden person under 14 jarn alt ist verbotten testament zu machen,
+codicillirn noch ubergab von tod halben zu thon, auch mit verwilligung der
+formunder. Am andern ain <term type="phrase">son oder dochter</term>, die noch
+in yrs vatters hauß und under der vatterlichen gwalt noch sind, <term type="juridical">filii
+vel filie familias</term> gnannt, sollen nit testament
+machen, es were dann sach, das die person <term type="phrase">doctor oder
+rytter</term> were; die mochten testament oder geschafft machen von denen
+guettern, die ain doctor mit seiner kunst oder ain rytter in strytten oder
+kriegshendl gewonnen hett. Am drytten welche on underlaß unsynnig und nit <term type="juridical">lucida
+intervalla</term> hett oder ain verschwender des
+seinen, dem verwaltung seiner guetter verbotten were, auch ainer gantzen
+stommen oder dawben, denen sind im rechten testament zu machen verbotten. Am
+vierden leutt, die verurtylt sind zu tod oder sonst umb schwere hawpt
+mißhandlung geurteylt als <term type="juridical">pro famoso aut capitali
+crimine</term> als ketzerey, <term type="juridical">crimen lese
+maiestatis</term> und derglychen, auch der selbigen <pb n="S. 353" url="../DRQI/HeilbronnUB_III_352.jpg"/> <term type="phrase">ketzer und ubeltetter enthalter und ubertrager</term>.
+Am funften
+offenbar wuchrer megen nit testament machen, es sy dann, das sy den wu&so;cher
+<term type="phrase">wyder geben und restituiern</term> oder gnu&so;same (!)
+burgschaft thund, das er wyderlegt werde. Wir wollen auch ordnen und setzen,
+das furohin <term type="phrase">in unser stat, oberkaytten und gebietten</term>
+kain mynderjariger, auch ober 14 jaren, diewill er oder sy noch verformundert
+und verpflegt sind, es sy <term type="phrase">mit tutoribus oder
+curatoribus</term>, sollen sy nit macht haben, fur sich selber <term type="phrase">on
+wyssen, wyllen, beysein und decrett yr 
+formunder und pfleger</term> kain <term type="phrase">testament, geschafft,
+gemacht, donation noch derglychen</term> aufzurichten macht haben, es were
+dann, das yr ains an der frembden<note n="353.1" place="foot">Unverständlich
+(1541 weggelassen).</note> etwas zimlich an ain gotzgab zu trost seiner sell
+etwas verordnett hette, das wolten wir auch nit verhindern. Dan wo es sonst
+furter geschehen wurde, soll sollich <term type="phrase">testament, letst
+wyllen, donation</term>, es sye von tod wegen oder under den lebendigen, ganz
+tod ab, yetel<note n="353.2" place="foot">Eitel.</note> und von unwurden sein
+und darauff nichzit erkannt werden. Wir wollen, ordnen und setzen, das ain
+yeder, der in ainem testament zu erben gemacht oder gesatzt oder sonst on
+testament der natturlich oder nachst <term type="juridical">erb ab
+intestato</term> were, ist der selbig gegenwertig, so soll er haben vier monat,
+ist er aber <term type="phrase">abwesig oder auß lendischs</term>, der soll ain
+jar haben sich zu bedencken, ob er das gsatzt erb annemmen oder sich des
+entslahen well; und ob mer dan ain erb gesatzt were und ainer aus den gesatzten
+erben sich <term type="phrase">offenlich oder stylschwigende</term> des
+gesatzten erbfalls entsliege und das nit anneme in obbestympter zeytt, so felt
+des selbigen teyll den andren zu merung irer satzung. Wir wollen auch und
+ordnen, welcher also zu ainem erben gesatzt oder sonst on testament der nachst
+naturlich erb ab intestato ist und sich des erbfalls underzeucht und zu handen
+nempt und nit machte ain inventarium, als sich gepürdt, der ist und wurdt
+pflichtig, alle und yede des gestorben schulden zu bezalen; so sy aber aller
+des gestorben verlassen hab und guetter in annemung der erbschaft ain <term type="juridical">inventarium
+und beschrybung</term> machen, so sind sy nit mer
+schuldig zu thon noch bezaln, dann so vil des gestorben hab und guetter im
+erbfall sich erstrecken mogen. Es soll auch ain ydes inventarium, das anders
+stat im rechten haben soll, gemacht werden durch ainen notarium in
+gegenwirtikayt dryer zeugen zum wenigsten. Wir wollen, setzen und ordnen auch,
+das der oder die in geschafften und letsten wyllen zu erben benannt sind oder
+wo sellwarter und <pb n="S. 354" url="../DRQI/HeilbronnUB_III_354.jpg"/> executores darinnen gesazt und benempt weren worden, zu dero gwalt
+sollich zu thon zustiend, sollen in ainem jar nach abgang des <term type="phrase">geschafftmachers
+oder testators</term> das selbig geschafft <term type="phrase">ausrichten und volstrecken</term>,
+und so sy in sollichem <term type="phrase">lessig oder sumig</term> weren, sind es
+gesatzt erben, sollen sy
+des erbs oder satzung verfallen und beraubt sein und alsdann die volstreckung
+oder ausrichtung des selbgen testaments oder letsten wyllens an uns, den radt,
+als die oberkaytt anwachsen und der gmachten erben teyll zum dritten teyll
+unser stat fisco in die rechenstuben und die andren zwen teyll den rechten
+natturlichen und nachsten erben haimgefallen sein; wo aber der mangell der
+volstreckung an den selwartern erfunden wurde, die sollen darumben an yrm aygen
+gutt nach unser erkantnuß und yrer ubertrettung darumben unnachleßlich
+gestrafft werden.</p> </div>
+ </div>
+
+<div id="Buch.4">
+ <head>[Buch IV] Das vierd buch von ubergaben under den lebendigen, <term type="phrase">inter
+vivos</term> gnannt<note n="354.1" place="foot">Vgl.
+Heilbronner Statutenbuch von 1541, <quelle url="&heilbronnstat_1541;&fs;Bl. 28 r ">S.
+28ff.</quelle></note></head>
+
+<div id="Buch4.1">
+	 <head>[Buch IV 1]</head>
+ <p> Wir setzen und ordnen: welches, das an seinem alter 25 jar und darob hat
+oder sonst eelichs oder anders stands halben fur sich selber mündig ist, dem
+andern bey lebendigem leyb etwas, es sey <term type="phrase">wenig oder
+vil</term>, <term type="phrase">farends oder ligends</term>, sein gu&so;tt gar
+oder zum teyll ubergeben wyll, das soll geschechen vor unserm schultheyßen und
+statgericht, wie von alter herkommen; es soll auch dem gericht sein
+gerechtekayt, wie von alter geweßen, auch darlegen und soll solliche
+gufftung<note n="354.2" place="foot">Geben (vgl. Mit-Gift).</note> und gab von
+aygner hab und guetter, und nit vom wyderfalligen oder die andern verhafft
+sind, beschechen. Es mag auch ain eegemacht dem andern (wo nit kinder weren
+oder, wo kinder verhanden weren, ausgesteuwert und yrs <term type="juridical">legyttima</term>
+gnugsamlich entricht oder mit in abgeteylt
+hetten) yr fry aigen hab und gu&so;tt, wie von alter herkommen, vor gericht
+ubergeben, doch das yr yedes zuvor sein truw geb und zu got und seinen heylgen
+schwere, das solliche <term type="phrase">ubergab und gufftung</term> von fryen
+guttem wyllen beschehe, also das yr kains das ander darzu weder <term type="phrase">gezwungen
+noch gedrungen</term> hab; und so sollichs geschicht,
+so mogen sy einander offen vor gericht mit hand und halm ubergabung und
+gyfftung thon, die alßdann nach unser stat recht also fur krefftig erkant und
+gehalten werden soll. Und auf das geverd, arglyst und betrug in den ubergaben
+verhuett und vermitten belyb, kunftig zanck und hader zu furkommen, so setzen
+und ordnen wir, das den (!) nachstgesypten erben und zum wenigsten die
+angebornen frundt, die, wa das gemacht nit were, erben sein und interesse <pb n="S. 355" url="../DRQI/HeilbronnUB_III_355.jpg"/> haben mochten, sy syen
+gaistlich oder weltlich, frembd oder haymischs, darzu beru*effen, citiert,
+verkundet und ervordert werden, zu sehen und hern sollich ubergab zu
+geschechen, oder aber redlich ursach zu sagen, warumben es nit geschehen soll;
+und die selbgen erschynen alsdann oder nit, soll nichzit dester minder
+geschechen und gehandlet werden, was billich und recht sein wurdt. Wo aber die
+nachsten erben oder frundt fu*egklich nit anzukommen weren, so soll solliche
+verkundung, citacion und ladung an alle, die des zu thon oder interesse haben,
+in gewonlicher form an unser pfarkyrchen aufgeslagen werden und in dry oder
+vier nachster gericht verkundet werden.</p> </div>
+
+<div id="Buch.4.2">
+ <head>[Buch IV 2] Ursachen, umb dero wyllen die ubergaben wyderriefft und vom
+rechten abgetryben mogen werden.</head> 
+     <p> Anfangs so die person, der sollich ubergab beschechen were, frevell
+hand an legte an die person, die sy begabt hette. Am andern so die begabt
+person die gebend mit schmechlichen, schentlichen worten ubergebe oder
+antaschte, die man nent atroces iniurias, oder mit schadlichen waffen anfier,
+gwaltigklich uberyll, uber sy zuckte, jagte oder fienge oder sy gefancklich
+hielte. Am drytten wann die begabt person die (!) gebend mercklichen schaden
+durch zugryffe an seinem gu&so;tt, narung oder ere zufuegte. Am vierden wan die
+begabt person der gebenden understiende sorgkfeltikayt seins lebens zuzuwenden,
+ob schon sollichs nit mit den wercken sein furgang gewonne, als mit vergifften,
+verratten und derglychen felle, da ainer seins lebens in sorg sten mueste oder
+mochte. Am funften mog ain ubergab wyderriefft werden von der nachgepornen
+kinder wegen, wie woll sollich ubergab in disem fall fur sich selber gefallen,
+tod und ab ist; ob schon die uber gab an gotzgaben beschehen were, so ist sy ab
+und von unwirde. Am sechsten so es were ain ubergab von tods wegen, mag sy
+allweg glych wie ain yeder ander letster wyll wyderruefft werden. Am sybenden
+so ainer person etwas mit furworten und geding gegeben wurdt, wo sy dem nit
+nachkompt und das angeding erfult, ist die ubergab gefallen und nichzit. Am
+achten wa ain ubergab, gemacht oder satzung unmessig oder uber die maß were und
+den kindern, so verhanden, schadlich, also das ain vatter den meren teyll
+seiner gutter wolt hin geben, vermachen oder setzen und den kinden nit yrn
+gepurenden anteyl, legittima gnannt, laßen, die sind ganz unbindig und
+craftloß.</p> <p> Die ubergaben von tods wegen ist an nott<note n="355.1" place="foot">Ohne
+Not, unnötig.</note> hie vil zu <pb n="S. 356" url="../DRQI/HeilbronnUB_III_356.jpg"/> schryben, dann sy die
+natur der letsten wyllen an innen haben und tragen.</p> </div></div>
+
+<div id="Buch.5">
+ <head>[Buch V] Hernach volgt das funft bu&so;ch von den naturlichen und
+nachgesypten<note n="356.1" place="foot">Nahe Gesippten.</note> oder verwandten
+erbschafften on testament und letsten wyllen, ab intestato gnannt.<note place="foot" n="356.2">Vgl.
+Heilbronner Statutenbuch von 1541, <quelle url="&heilbronnstat_1541;&fs;Bl. 39 r">S.
+39ff.</quelle></note></head>
+     <p>So nit testament, geschafft, gemacht und letst wyllen oder ubergaben,
+wie oblautt, verhanden sind, so kommen von gemainen kayserlichen rechten, auch
+diser unser stat satzung, die natturlichen oder gesypten erben, die vom plutt
+der gebürdt oder freuntschafft der gestorben person verwandt, und der sind
+dryerlay: ettlich in abstygender linien, etlich in aufstygender linien, etlich
+in der beiseytsgesypten, zwerch oder neben seytten oder linien gnannt.</p> 
+     <p> Die erbschaft in abstygender linien würdt erlernett aus den vier
+nachvolgenden regeln der rechten. Anfangs so der abgestorben in abstygender
+linien in leben verlast kinder, kindskinder (enckel gnannt), urenckel und also
+furauß zu rechnen, ist dann der selbigen ain person alain, es sye kind oder
+kindskind (enckel gnannt) oder urenckell oder furauß zu rechnen, so weyt es
+ymmer sein mag, so ist das selbige ain ayniger erb und schlüst auß alle die
+ihenen, so in der aufstygenden oder beiseytzsgesypten linien dem abgestorben
+gesypt oder verwandt sind. Am andern verlast aber der abgestorben mer personen
+in abstygender linien, sind die dann alle im ersten und glychen grad, als
+kinder, so soll der erbfall glych in die hawpter, das ist als vil personen als
+vil thayll, under sy, es syen sone, dochter, die unverzygen (?) sind, abgetaylt
+werden on allen underschyd. Am drytten sind aber der selbgen verlaßen erben in
+abstygender linien etlich im ersten grad, als kinder, etlich in weytterm grad,
+als kindskinder (enckel gnannt), oder noch verer hinab, die selbigen
+kindskinder, yr syen wenig oder vil, sollen zugelaßen werden an stat yrs vatter
+oder mutter mit den rechten kindern des ersten grads in stirpes zu erben an
+yrer anherren oder anfrawen verlaßen hab und gu&so;ttern, so vil yr vatter oder
+mu&so;tter hetten mogen erben, so sy noch in leben weren, und also fur und
+furuß in abstygender linien zu rechnen, also das allweg, so erben in
+abstygender linien in unglychem grad gelaßen<note n="356.3" place="foot">Hinterlassen.</note>
+werden, als kind und kindskinder (gnannt
+enckel) und urenckel, sollen die kindskind und urenckel und also fur auß zu
+rechnen an yr vatter <pb n="S. 357" url="../DRQI/HeilbronnUB_III_356.jpg"/> und mu&so;tter stat in stirpes (in stammen) erben, das ist zu
+versten, yr syen wenig oder vil, eins wytern grads für ain person zu rechnen
+und zu nemen, so vil und nit mer irn vatter oder mu&so;tter, so die in leben
+weren, zu zeytten erbfalls gepurdt hette. Am vierden so aber der abgestorben in
+abstygender linien nit erben im ersten grad, als kinder, verlast sonder alain
+in weytterm grad, als kindskinder oder urenckell etc., die selbgen erben das
+anherlich und anfrowlich, das uranherlich oder uranfrowlich hab und guetter
+glych in die stammen (in styrpes) zu teyllen, sy syen in glychem oder weytterm
+grad, und stend an die stat yrs vattern oder mu&so;ttern zu erben in stammen
+oder zu erben ainen stamteyll, yr syen wenig oder vil.</p> 
+     <p> Die erbschafft in aufstygender linien wurdt erlernett auß den
+nachvolgenden sechs regeln. Anfangs und zum ersten: verlast die abgestorben
+person yr vatter und mu&so;tter beyde samentlich oder yr ains alain in leben
+und kain geschwisterygt, als brueder oder schwestern auß beyden eltern (das ist
+die von vatter und mu&so;tter der abgestorben<note n="357.1" place="foot">Der
+abgestorbenen Person.</note> gesypt sind), oder auch der selbgen abgestorben
+geschwystert von beyden eltern kinder<note place="foot" n="357.2"> Also Neffen
+oder Nichten.</note>, so erben die selbgen vatter und mutter beyde oder das
+ain, welches in leben were, yr eeliche kinder und schliessend auß alle andere,
+die weytter in aufstygender linien gesypt, als sind anhern, anfrawen und fur
+auf zu rechnen, und ist ain gewysse regell in disem fall, das das neher im grad
+in der aufstygenden linien das weytter ausschlist, als namlich vatter und
+mutter auschliessend anher und anfraw und also furauß; so auch die erbung
+beschicht in aufstigender linien nach vatter und mutter, also das anher, anfrow
+oder furauf erben, so erben die von vätterlicher linien, als anher oder anfrow
+vom vatter, und die von muetterlicher linien, als anher oder anfrow von der
+mu&so;tter, sollicher maß, das die auf des vatters sytten nemen das halb und
+die auf der mu&so;tter seytten das ander halbteyll, unangesehen, ob auf ainer
+sytten nit mer dann ain person, als wer ain anher vom vatter in leben und auf
+der andern sytten zwen, als anher und anfrow von der mu&so;tter, die beyde
+nemen nit mer dann ain teyll und der anher vom vatter das ander halbteyll. Am
+andern oder die ander regell: verlast aber das abgestorben<note n="357.3" place="foot">Die
+abgestorbene Person.</note> vatter und mu&so;tter, beyde oder
+yr ains alain, und zu den selbigen auch <pb n="S. 358" url="../DRQI/HeilbronnUB_III_358.jpg"/> sein, des abgestorben,
+bruedere und schwistere oder brueder oder swester kinder, welche brueder oder
+swester dem abgestorben von beyden eltern, von vatter und mutter, gesypt sind,
+so erben die selbgen vatter und mu&so;tter, bruder und schwester beydenthalben
+oder der selbgen abgestorben brueder oder schwester kind beydenthalben den 
+abgestorbenen, yrn sone, bruder oder swestern oder vettern<note n="358.1" place="foot">Eigentlich:
+Oheim.</note>, alle samentlich in die haupter zu
+teylen, so vil personen, so vil teyl, ausgenommen das brueder und swesterkind
+anstat yr vätter oder mu&so;tter in dem falle im stamteyll erben, das ist so
+vil und nit mer, dann was yr vatter oder mu&so;tter, so sy noch in leben wern,
+erben. Am drytten: verlast aber das abgestorben vatter, mu&so;tter oder yr ains
+und brueder und schwester oder der selben kindere, die ainthalben im gesypt
+sind, so werdend die selbigen brueder oder swestere ainhalb gesypt oder yr
+kinder zu erbung des abgestorben mit vatter und mu&so;tter nit zugelaßen. Am
+vierden: verlast aber das abgestorben nit vatter oder mu&so;tter sonder weytter
+in aufstygender linien anher, anfraw und fur auß zu rechnen, sind dann nit in
+leben des abgestorben brueder oder schwester oder deren kinder, so erben die
+selbgen anhern oder anfraw furauß den abgestorben und schliessend auß all andre
+in der zwerch oder beseyts gesypten linien. Am funften: so aber zu den selbgen
+anhern, anfrow oder ander in aufstygender linien auch in leben sind des
+abgestorben brueder oder schwester, die von beyden eltern im gesypt, oder der
+selbgen kind, so sollen nach der mer bewarten<note place="foot" n="358.2" >Bewährten.</note>
+und gemainern oppinion und maynung der rechtgelerten die
+selben brueder oder swester beydenthalben gesypt oder yre kind (doch die
+selbgen bruder oder swester kinde nit anders dann in styrpes, in stamteyll, an
+stat yr vatter oder mu&so;tter, als ob die noch in leben weren) mit den
+bemelten anhern oder anfrowen oder andren weytteren in aufstygender linien den
+gestorbenen zu erben zugelaßen werden; sind aber die brueder, swester oder yre
+kinder dem abgestorben alain ainthalb gesypt, so schliessend die in schlechter
+aufstygender linien die selbigen ganz auß und werden mit innen zu erben nit
+zugelaßen. Am sechsten: ist eben zu mercken, als vor gemelt ist, das des
+abgestorben vatter, mu&so;tter, anhere oder anfrow etc. in aufstygender linien
+sampt den bruedern oder schwestern beydenthalben dem abgestorben gesypt oder
+derselben kind zu erben samentlich zugelaßen werden, sol an den selbigen <pb n="S. 359" url="../DRQI/HeilbronnUB_III_358.jpg"/> brueder oder schwester
+kindern erwinden<note n="359.1" place="foot">= Aufhören.</note> und aufhorn und
+sich nit erstrecken in der erbung diß fals auf brüder oder schwester
+kindskinder (enckel gnannt)<note place="foot" n="359.2">Grossneffen und -nichten
+(Enkel von Geschwistern).</note> oder in weyterm grad in absteygender linien,
+sonder die in aufstygender linien den selben brüder oder schwester kinds
+kindern vorgeen in der erbschaft.</p>
+     <p> Die erbschaft in der neben, beseytzgesypten oder zwerchlinien wurdt
+erlernet aus
+ den nachvolgenden acht regeln. Anfangs und zum ersten ist die regell: so das
+abgestorben verlast alain bru&so;der oder swestern, sind sy dann ime von beyden
+eltern, als von vatter und mu&so;tter, gesypt, so erben sy nach anzale der
+personen, das ist: so vil personen, so vil teyll. Am andern: verlast er aber
+brueder oder schwestern beydenthalben gesypt und darzu bru&so;ders oder
+swesters beydenthalb gesypter kindere, so erben die selbigen kind mit des
+abgestorben brueder oder schwestern in stamteyll, das ist: so vil und nit mer
+als yr vatter oder mu&so;tter, so die noch in leben weren, hetten mogen erben.
+Am drytten: verlast er aber nit brueder oder swestern beydenthalben sonder
+seins abgestorben bru&so;ders oder swester, so im beydenthalben gesypt sind
+geweßen, kinder, die werden zu erben zugelaßen vor brueder oder schwester ime
+ainthalben gesypt; und so in disem fall also der abgestorben nit verlast
+brueder oder swestern von beyden seytten sonder kinder von zwayen oder noch
+merern bruedern oder swestern, so ime von beyden seytten verwandt geweßen sind,
+das nach der gemainer und bewerter maynung und oppinion der rechtgelerten
+sollich erbung under den selbigen bruedern oder schwester kindern geschicht in
+stamteyl, das ist, das yedes geschwisterygts verlaßen kind, der sye vil oder
+wenig, neme so vil und nit mer, dann sein vatter oder mu&so;ter, so die in
+leben weren, erben mochten. Am vierden: verlast aber der abgestorben in leben
+brueder oder swestern ainthalben im verwant und darzu kinder von brueder und
+schwester, so im von beyden seytten verwant gewest sind, so erben die selbigen
+kinder vor bru&so;der und schwestern einthalben verwandt. Am fünften: verlast
+aber der gestorben nit hinder im in leben brueder oder schwestern beydenthalben
+verwandt oder dero kinder, sonder alain brueder oder schwestern ainthalben (das
+ist von vatter oder von mu&so;tter), sind die selbigen alle von ainer seytten,
+so erben sy glych alle hab und guetter, nach anzall der personen zu teylen;
+sind aber etlich dem gestorben vom vatter, etlich von der mu&so;tter <pb n="S. 360" url="../DRQI/HeilbronnUB_III_360.jpg"/> gewandt, so erben die,
+so vom vatter gewant sind, alle, guetter, so von des abgestorbens vatters
+linien in aufstigender linien herkommen, und die, so von der mu&so;tter halben
+gewandt sind, erben die guetter, so von der mu&so;tter in aufstygender linien
+herkommen, und in den guettern, so von vatter und mu&so;tter samenthaftig oder
+anderswo herriern, erben sy glych nach anzall der personen; sind aber zu
+brueder und swester ainthalben auch in leben kinder, so des abgestorben brueder
+oder swester ainthalben verlaßen haben, so erben die selbgen brueder oder
+swester kind in stamteyll (zu versten, wie obstet) mit irer vatter oder mutter
+bru&so;der oder swestern, aber zu versten, wie yetz darvor begryffen mit
+underschydung der guetter von yeder linien herkommen. Am sechsten: so der
+abgestorben nit verlast brueder oder swester sonder brueder oder swester kind,
+dero vatter oder mu&so;tter beyden oder ainthalben gewant geweßen sind, so
+schliessend sy allweg auß der abgestorben vatter oder mu&so;tter geschwystert,
+das ist die vetter und basen<note n="360.1" place="foot">Eigentlich: Oheime und
+Tanten.</note>, oder andere furauß in der zwerch linien ime gesypt geweßt,
+unangesehen das die selbigen, yrs vatter geschwisterigt, und die brueder und
+swester kind in glychem grad dem abgestorbern verwandt geweßen sind. Am
+sybenden: verlast das abgestorben nit brueder oder swestern, auch nit der
+selbigen kinder von vatter und muetter verwandt, sonder der selbgen kindskindt
+(enyckel, nepotes oder niptes gnannt)<note place="foot" n="360.2">Enkel von
+Geschwistern.</note>, die selbigen enckel werden zu erben zugelassen mit
+brueder oder swestern oder der selbigen kindern ainthalben verwandt doch in
+styrpes (in die stammen), wie oblautt, und, wa die ainthalben verwandt, auch
+getaylt, also das etlich yrer eltern halb von der mu&so;tter, etlich vom vatter
+gesypt sind, so erben sy alle, wie oblaut, in styrpes (in die stamteyll), doch
+mit underschyd der guetter wie vor im fünften artickel oder regell oben gemelt
+ist. Am achten und letsten ist ain gemaine regell und satzung furauß in der
+beiseyzgesypten oder zwerchlinien: wann der abgestorben nit verlast brueder
+oder swester oder brueder oder swester kinder, welche dann darnach in der
+beseyzgesypten oder zwerchlinien die nachstgesypten sind, die schliessend auß
+die in weytterm grad sind; und welche alßdann in glychem grad sind, die erben
+glych in die haupter nach anzall der personen, sy syen von vatter oder
+mu&so;tter halben gesypt, das ist danmals und furauß ausserhalben obbestimpter
+felle, auch von welcher linien die guetter herriern, kain underschyd <pb n="S. 361" url="../DRQI/HeilbronnUB_III_360.jpg"/> mee, sonder, welche im
+grad vorgeend, schlyssend die andren auß; welche glych sind, erben glych.</p>
+     <p> Arbor consanguinitatis, der bom der sypt oder frundschaft, als in der
+hochgelert doctor Johannes Andree beschrybt, sol hie inseriert sein<note n="361.1" place="foot">Im
+<quelle url="&heilbronnstat_1541;&fs;Bl. 43 v">Heilbronner Statutenbuch von 1541 ist
+S. 43</quelle> „der Baum der
+Blutsippschaft" abgebildet, doch nur nach weltlichem Recht.</note>. Und damit
+man dester baß in erkantnuß der obgmelten erbschaften kommen mog, so wollen mir
+hiemit den bom von der sybschaft oder frundschaft erclaren und anzaygen, darab
+ain yeder vernemen mag, in welcher linien und graden, wie vere und nach<note place="foot" n="361.2">Fern
+und nah.</note> die personen, von dero wegen sich
+yederzyt der strytt haltet, ain ander verwandt und gefrundt sind; und zu
+bericht ist anfangs zu wissen, das sypschaft ist ain zugehorung oder ain band
+der personen von ainem gemainen stammen kommender aus dem geplu*ett oder
+leyplicher gepurdt entstanden, also das sypschaft wurdt im rechten gnannt des
+gepluets oder gepurdt ainickayt. Am andern ist zu vermercken, das die linea ist
+ain versamlung der personen von ainem gemainen stammen kommender, die da
+inhaltet die grad und staffeln und der selbigen zalen underschyd machend; und
+sind, wie oblaut, dryerlay linien: die erst ist der abstygenden oder
+nachkommen, die ander der aufstygenden oder vorfarend, die drytt der neben,
+zwerch oder beisytzgesypten. Nun ist die linien noch zwayerley: die (!)
+recht<note n="361.3" place="foot">Im Statutenbuch von 1541 heisst es: nach
+zweyerleyen der recht, was einen ganz anderen Sinn gibt.</note> als der
+aufstigenden und abgenden; der besytz oder zwerch linien ist auch zwayerlay:
+glych und ongelych; die gleych ist, wann ain person als vere von dem gemainen
+stamm ist als die ander, die unglych, wann aine verer ist von dem gemainen stam
+dann die ander. Am drytten ist zu mercken, das der grad ist ain gemerckt,
+dardurch zu erkennen ist, wie vere die personen in gesypp, fruntschaft oder
+magschaft ainander verwandt oder von ainander geschyden sind, wie dann sollichs
+alles in der figur des boms clarlich anzaygt wurdt. Am vierden den bom der
+syppschaft oder frundtschaft zu machen sollen wir am ersten bedencken und
+ansechen die zellen und ring der aufstygenden und vorfarenden, zum andern der
+abstygenden und nachkommen, zum drytten der neben, zwerch oder beseytsgesypten;
+die alle sind in yr rechenschaft anzuheben von der ledigen, ungenanten,
+abgestorbnen zell, von der die andern zellen yrn namen haben, hinauf als sein
+vatter, <pb n="S. 362" url="../DRQI/HeilbronnUB_III_362.jpg"/> hinab
+als sein son und beseytzs als sein geschwisterigytt. Und ist zu mercken, das
+die aufstygenden und abgonden zellen getailt sind mitten herab und zu der
+rechten seytten geschryben sind die namen der mann, als vater, anhere etc., und
+zu der lincken seytten die namen der frawen, als mu&so;tter, anfrau etc., yr
+yetlichs mit seinen vorfarnden etc. Nun aufzusteygen so stet zunächst ob der
+selbgen unbenanten ledigen abgestorben zell die zell, darinnen beschryben stat
+vatter, mutter, und hat oben ainen rotten und unden ainen schwartzen puncten;
+nachst darob ist die zell anher und anfrow, die oben hat 2 rott und unden 2
+schwartzen puncten; auf <note n="362.1" place="foot">Über.</note> der selbigen
+ist die zell des uranhern und uranfrawen und hat oben dry rott und unden dry
+schwartzen puncten; in der obristen zell stett ururanhere oder ururani und die
+ururanfraw oder ururan und hat oben vier rott und unden vyer schwartz puncten.
+Nun ab zu gen under der ledigen unbenanten zell stet in der nachsten zell oder
+ring darunder sun, dochter und het oben ain 
+rotten und unden ain schwartzen puncten, darunder in der anderen zell stet
+kindsson, kinddochter (als kindskind oder enckel) und hat oben zwen rott und
+unden zwen schwartz puncten; darunder in der drytten zell stett enickels son
+oder dochter oder urenckel, hat oben dry rott und unden dry schwartz puncten;
+in der vierden zell stet des urenckels son<note place="foot" n="362.2">Korrigiert
+aus: des nifftels oder enckels kinds son; das Wort kinds
+blieb aus Versehen stehen.</note> oder dochter, ururenckel gnannt, und hat oben
+vier rott und unden vier schwartz puncten. Die zwu&so; linien, aufstigende und
+abgende, abzurichten, ee und mir kommen zu der beseytzsgesypten, ist zu
+vernemen, das der puncten zall bedeutt die zall und weyttin der grad und
+staffeln der sypschaft aller andern zell und personen des boms gegen der
+unbenempten zell und die oberen rotten puncten bedeuttend die rechnung und
+gemerck des gaistlichen rechtens und dienen zu erlernen, welche sypschaft
+eelich vermehelung zulast oder verhindert; dann alle die ainander gesypt sind
+in dem vierden grad oder näher, die mogend on bapstliche dispensation oder des
+selbgen gewalts mit ainander nit vermehelt werden. Aber die underen schwartzen
+puncten zaygend an die rechnung weltlichs rechten und dienet zu erkantniß der
+nahin und vernin<note n="362.3" place="foot">Nähe und Ferne.</note>, nach der
+die erbfäll zeyttlichs gu&so;ts zu oder abgesprochen werden. Aus dem volgt, das
+in der yetzbeschryben rechten linien, der <pb n="S. 363" url="../DRQI/HeilbronnUB_III_362.jpg"/> aufstygenden und
+abgenden, die grad beyder rechten, gaistlicher und weltlicher, sich
+verglychend, also das allweg ain person der andern ain person zulegt. Und damit
+die selbgen grad aygentlichen erkent werde, sol man mercken etlich regeln. Die
+erst regell in der aufsteygenden und abgenden<note n="363.1" place="foot">Linie.</note>:
+wievil der selbgen personen uberall sind,
+ausgenommen alain aine, zum anfang und als zum zyll, so vil grad sind zwyschen
+inen; exemplum: wie vil grad der ururanher von der ledigen ungnannten zell
+gescheyden sey? hinauf zu rechnen, so vinden wir, das der personen zwyschen
+innen und sy beyde darzu funf sind; so laßen wir die aine fallen und ungezelt,
+dannocht sind vier grad; deßglychen hinab zu rechnen von der ledigen unbenanten
+zell byß an den understen des encklins kinds son, ururenckel gnant, finden mir
+funf personen; da soll die ain ungezelt sein, so belybend vier grad. Wollen wir
+dann rechnen von dem obristen ururanheren byß an den understen des ururenkel,
+so finden mir uber alle mit der ledigen ungnanten zelle newn personen und sind
+acht grad. So aber wir kommen zu denen, die ainander beseytzsgesypt sind, so
+berechnen mir in dem figurierten bome umb kurzung wyllen alain die ain seytten
+als ain baner, dann glycher weyß würdt die ander seytten in yr rechenschaft
+auch erkant; so stet nachst an der seytten der ledigen zell die zelle des
+bru&so;ders oder swester, darunder zu nachst stet des brueders son oder
+dochter, —<note place="foot" n="363.2">Hier ist ausgelassen: darnach des Bruders
+Sohnssohn oder Tochterssohn.</note> (enckel gnannt), darnach des encklins kind,
+urenckel, und zu letscht des encklins kindskind, ururenckel<note n="363.3" place="foot">Zu
+ergänzen ist immer: des Bruders; das letztgenannte Glied ist
+übrigens nicht mehr auf dem Baum des <quelle url="&heilbronnstat_1541;&fs;Bl. 43 v">Statutenbuchs
+von 1541</quelle>.</note>. Der bruder ist gegen der ledigen zell
+im ersten grad nach gaistlichen rechten und im andren nach weltlichen rechten,
+des bru&so;ders son im andren nach gaistlichen und im drytten nach weltlichen
+rechten, sein enckel im drytten des gaistlichen und im vierden des weltlichen
+rechten, sein urenckel im vierden des gaistlichen und im funften des weltlichen
+rechten. Darnach nemen wir fur uns den stamen des anhern, von dem kompt des
+vatters brueder oder swester, das ist der vetter und die baß<note place="foot" n="363.4">Oheim
+und Tante.</note>; von denselben kompt des vatters bruders oder
+swester kind, das ist des vetters oder baßen son und dochter; darnach der
+selbigen kinder (enckel genannt) und zu letscht dero urenckel. Der vetter<note n="363.5" place="foot">Oheim.</note>
+ist gegen der ledigen zell im andern <pb n="S. 364" url="../DRQI/HeilbronnUB_III_364.jpg"/> grad, des vettern son
+auch im andern grad, (des vetters sons kind auch im andern grad nach
+gaistlichen rechten, aber nach weltlichen rechten ist des vetters sons kind im
+drytten und des urenckel im vierden)<note n="364.1" place="foot">Das
+Eingeklammerte sollte heissen: des vetters sons kind im dritten und des [d.h.
+des Vetters = Oheims] urenckel im vierten nach geistlichen rechten; aber nach
+weltlichen rechten ist</note> der vetter im drytten, des vetters son im
+vierden, sein son<note place="foot" n="364.2">Also des Vetters (= Oheims) 
+Enkel.</note> im funften und des enckel<note n="364.3" place="foot">Also des
+Vetters (= Oheims) Urenkel.</note> im sechsten grad; und also sollen beyde rott
+und schwartzen punctierungen zu ordenlicher zall der grad nach beyden rechten
+im bam verzaychnet sein. Also mogen wir den uranheren stammen setzen,
+deßglychen zum letsten den ururanhern, und herab, wie oblaut, zelen nach den
+puncten rot und schwartz, wie dann im bom verzaychnet sein sollen zu underschyd
+gaistlichs und weltlichs rechten. Nun sind zu mercken die regeln, aus denen wir
+erkennen mogen die grad der selbgen, die also beseytzs ainander gesypt sind in
+gleycher lini; zum ersten nach gaistlichen rechten: die erst regell der beseytz
+gesypten, die doch in glycher linien sind: wievil und was grad ainer von dem
+oberen stammen ist, so vil grad sind die selbgen von ain ander; exemplum: wann
+wir setzen den obristen ururanhern als ain gmainen stamen der ledigen
+ungenanten abgestorben zell und des ururanhern ururenckel<note place="foot" n="364.4">Es
+heisst unrichtig: Urenkel.</note>, die selbig ledig zell und das
+gmelt ururenckel sind zwerch in glycher linien und yr yetlicher ist von dem
+gemainen stammen im vierden grad, darumben sind sy gegen ainander auch im
+vierden grad. Aber nach weltlichen rechten ist ain andere regel, also in den
+beseytzs gesypten, die in glycher linien gegen ainander sind, wievil und was
+grad einer von dem obern gemainen stammen ist, zwyfeltig so vil sind die
+selbigen von ainander; deßhalben sehen wir von der obgeschryben zall der
+puncten, das die lebendig ungenante zell und des ururanhern ururenckel sind im
+achten grad von ain ander. Und geschicht der underschyd auß der ursach: dann
+das gaistlich recht rechnet die grad in erkennung, welich sypschaft
+verhinderung eelicher vermehelung bring, aber das weltlich recht umb des
+wyllen, das wir wyssen, welchem ain erbfall billicher zusten; wann aber ain ee
+wirdt, so gehörend zwu&so; personen darzu, also nach gaistlichen rechten
+machend zwu&so; personen ain grad aber zum erbfall ist ain person genu&so;gsam,
+darumben <pb n="S. 365" url="../DRQI/HeilbronnUB_III_364.jpg"/> so
+macht in weltlichen rechten in den beseyzs gesypten ein yetlich person ain
+grad.</p>
+ <p> Nun furbaß zu erfinden die grad der beseytzs gesippten, die in unglycher
+lini sind, ist das die ander regell und erstens nach gaistlichen rechten. Die
+ander regell ist die: under denen, die in besytzs gesyppter und in unglycher
+lini sind, wie vil grad die verer<note n="365.1" place="foot">Die fernere</note>
+person von dem gemeinen stammen ist, so vil grad sind die selben personen von
+ain ander. Exemplum: wann wir setzen den oberisten ururanhern als ain gemain
+[stammen] der ledigen ungenanten abgestorben zell und des uranhern vatters son,
+die in unglycher lini sind, so erfinden mir, das die selbig ledig zell als die
+verer von dem gemainen stam vier grad ist; darumben so sind sy gegen ainander
+auch im vierden grad und des glychen alß abher byß zu der glychen linien die
+selben all im vierden grad sind; aber nach weltlichem rechten ist ain andre
+regell; also under den beseytzs gesypten, die in unglycher linien sind, wie vil
+der selbigen personen uberall sind, ausgenommen den stammen, so vil grad sind
+die selbgen personen von ainander; also ist die ledig ungenant zell von dem
+obristen stammen vier grad, von des uranhern<note place="foot" n="365.2">Sollte
+heissen: ururanhern.</note> vatter funf grad, von des selbgen son oder kind
+sechs grad, von des selbgen kind kind (enckel gnannt) syben grad und von des
+selbgen urenckel acht grad; also macht yede person ain sondern grad. Deßhalben
+mecht die ledig zell mit kainer person des bambs sich eelich vermeheln, dann sy
+alle mit yr im vierden grad oder neher sind. Amen.</p></div>
+ </body>
+ </text>
+</TEI.2>

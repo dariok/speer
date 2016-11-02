@@ -1,0 +1,1064 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+  
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Friedrich Battenberg, Eine Darmstädter Handschrift zur Kammergerichtsordnung Kaiser Friedrichs III. von 1471 :: Transkription Speer 2010 / 2016</title>
+    </titleStmt>
+    </fileDesc>
+</teiHeader>
+<text>
+<front><divGen depth="3" type="toc"/></front>
+  <body>
+<div id="Editorial">
+  <head>Editorial</head>
+  <p>Friedrich Battenberg, Eine Darmstädter Handschrift zur Kammergerichtsordnung Kaiser Friedrichs III. von 1471, in: Archiv für hessische Geschichte und Altertumskunde Neue Folge 36. Band 1978, 37-62.<lb/>
+Ich danke Herrn Professor Battenberg für die freundliche Erlaubnis, seinen Text digitalisieren und hier integrieren zu dürfen.<lb/>
+Heino Speer</p>
+</div>
+
+
+<div id="Aufsatz1">
+
+<head>I</head>
+  <p><pb n="S. 37"/>
+  Bei der systematischen Erfassung aller - auf die verschiedensten Bestände
+verstreuten - Akten zur Geschichte des Reichskammergerichts im Hessischen
+Staatsarchiv Darmstadt<note place="foot" n="1">Da die Akten des
+Reichskammergerichts zu einem bedeutenden Teil bereits im 19. Jahrhundert auf
+Veranlassung von Archivdirektor <name type="person">Ludwig Baur</name>
+vernichtet wurden, geht es hier vor allem um die Erfassung von Kammergerichts-
+und Reichshofratsakten aus den Archiven der Prozeßparteien.</note> fand sich an
+versteckter Stelle eine Handschrift zur Kammergerichtsordnung <name type="person">Kaiser
+Friedrichs III.</name> von 1471, die meines Wissens bisher
+weder benutzt noch überhaupt beachtet worden ist.<note place="foot" n="2">Sign.:
+E 9 (Justizangelegenheiten), Nr. 2/1.</note> Schuld daran ist
+einerseits die leider nur sehr unzureichende Verzeichnung des betreffenden
+Bestandes (Justizangelegenheiten, heute Sign. E 9), die die provenienzmäßigen
+Zusammenhänge nur sehr selten eindeutig erkennen läßt - der falsche Obertitel
+der Abteilung ("Reichskammergericht, Nichthessische Angelegenheiten") tut
+hierzu ein übriges, andererseits aber auch die Tatsache, daß die Ordnung seit
+<name type="person"><quelle url="&wp;Johann Christian Lünig">Johann Christian
+Lünig</quelle></name> vielfach gedruckt wurde<note place="foot" n="3">Johann
+Christian Lünig, Das Teutsche Reichs-Archiv, Band IV (Leipzig 1720), <quelle url="http://digbib.bibliothek.uni-augsburg.de/25/index.html?http://digbib.bibliothek.uni-augsburg.de/25/pages/02_XII_05_2_0331_04_0316.html">S.
+272 ff.</quelle>; [J. J. Schmaus/Heinrich Christian von Senckenberg], Neue und
+vollständigere Sammlung der Reichs-Abschiede 1 (Frankfurt 1747, Neudruck
+Osnabrück 1967), <quelle url="&nsra_1747F1;249">S. 249 ff.</quelle>; Johann
+Heinrich von Harpprecht, Staatsarchiv des kayserlichen und des heiligen
+Römischen Reichs Cammergericht..., Teil 1 (Ulm/Frankfurt 1757), S. 220
+ff.</note> und zuletzt in die Quellensammlung zur Geschichte der Deutschen
+Reichsverfassung in Mittelalter und Neuzeit Karl Zeumers<note place="foot" n="4">Karl
+Zeumer, Quellensammlung zur Geschichte der Deutschen
+Reichsverfassung in Mittelalter und Neuzeit (= Quellensammlungen zum Staats-,
+Verwaltungs- und Völkerrecht 11, Tübingen 1913&s2;), <quelle url="&zeumer_1913_1;270">S.
+270 Nr. 170</quelle>.</note> Eingang fand und dadurch
+für den studentischen bzw. wissenschaftlichen Gebrauch längst allgemein
+zugänglich war. Übersehen wurde bisher, daß alle Druckausgaben voneinander
+abhängen und im großen und ganzen den bei Lünig gebrachten Text, zum Teil in
+bereinigter Form, wiedergeben. Welche Originalquellen den Texten
+zugrundeliegen, ob überhaupt eine rechtsgültig veröffentlichte Ausfertigung der
+kaiserlichen Kanzlei als Vorlage diente, ist nicht erkennbar. Schon allein
+deswegen erscheint es sinnvoll, die im Staatsarchiv Darmstadt gefundene
+Handschrift - die, wie sich zeigen wird, bald nach 1471 in der kurmainzischen
+Kanzlei entstanden ist - zu edieren. Darüber hinaus erscheint es bedeutsam, der
+Frage nachzugehen, ob die Ordnung überhaupt jemals publiziert wurde oder ob sie
+Entwurf geblieben <pb n="S. 37"/> ist, der zwar im Prozeßgang beachtet wurde,
+jedoch niemals rechtsverbindliche Wirkung erlangt hatte. Auf eine umfassende
+Analyse des Gesetzestextes und einen Vergleich der in ihm enthaltenen
+Vorschriften mit der Rechtspraxis des Kammergerichts muß hier verzichtet
+werden. Es soll aber schon hier darauf hingewiesen werden, daß auch der
+Landeskundler, der sich mit Kammergerichtsverfahren des späteren Mittelalters -
+etwa im Hinblick auf Relevanz für territoriale Veränderungen - zu befassen hat,
+kaum an der Kammergerichtsordnung von 1471 vorbeisehen kann, zumal von ihr eine
+direkte Linie zu den Kammergerichtsentwürfen von 1486/87,<note place="foot" n="5">Rudolf
+Smend, Das Reichskammergericht, Geschichte und Verfassung (Weimar
+1911. Neudruck Aalen 1965), S. 6 ff.</note> der <quelle url="&rkgo_1495;">Kammergerichtsordnung
+von 1495</quelle> und schließlich der für
+die Folgezeit maßgebenden <quelle url="&rkgo_1555;">Ordnung von 1555</quelle><note place="foot" n="6">Neueste
+Ausgabe: Die Reichskammergerichtsordnung von 1555,
+unter Mitarbeit von Christa Belouschek und Bettina Dick hrsg. von Adolf Laufs
+(=: Quellen und Forschungen zur Höchsten Gerichtsbarkeit im Alten Reich 3,
+Köln/Wien 1976) [Ergänzung H.Speer: <quelle url="&drwsigle;RKGO.(Laufs)">Digitale
+Version</quelle>].</note> führt. Um deshalb die Lektüre der Ordnung vor allem für
+den, der mit der juristischen Terminologie weniger vertraut ist, etwas zu
+erleichtern, soll am Schluß dieses Beitrags eine kurze inhaltliche
+Zusammenfassung der in der Ordnung enthaltenen Rechtsvorschriften gegeben
+werden.</p></div>
+
+<div id="Aufsatz2">
+<head>II</head>
+<p>
+Bei der Handschrift handelt es sich um ein Fragment eines für interne
+Kanzleizwecke zusammengestellten Geschäftsbuches. Die vier erhaltenen Blätter
+der Größe von ca. 302 x 218 mm, entsprechend einer Lage, wurden einem
+Papierkodex entnommen, der einen braunen Pappeinband trug. Erkennbar sind noch
+die Fadenheftung sowie an der Faltstelle des Papiers geringe Reste des
+Einbands.</p>
+<p>
+  Der Kodex, dessen Inhalt im einzelnen unbekannt ist, dürfte unter Nr. 1 mit
+einer Gerichtsordnung oder sonstigen Rechtsvorschriften begonnen haben, die der
+Kammergerichtsordnung zeitlich vorausgingen oder diese an Bedeutung übertrafen.
+Genaueres ist nicht bekannt, da sich weitere Fragmente des Kodex offenbar nicht
+erhalten haben. Als Nr. 2 schließt sich die hier edierte Kammergerichtsordnung
+an, und zwar mit der Überschrift "keyser Friderichs reformacien sins kammer
+gerihtz". Die Ordnung umfaßt insgesamt fünf vollbeschricbene Seiten, wobei
+jeweils der linke Rand der Seite mit einer Breite von ca. 40 mm für eventuelle
+<pb n="S. 38"/> Bemerkungen der Kanzlei freigelassen wurde. Auf den rechten Rand
+hin wurden die Seiten jeweils voll ausgeschrieben und auch über dem Textblock
+wurde meist nicht mehr als ein 10 mm breiter Freiraum belassen. Unmittelbar im
+Anschluß an den Text der Ordnung folgen auf den Seiten 3 v und 4 die Namen der
+Richter, Urteiler, Prokuratoren, Advokaten und Kammergerichtsschreiber, die
+1471 eingesetzt wurden. Auf S. 4 findet sich darüber hinaus eine interne
+Vereinbarung der Prokuratoren zur Geschäftsverteilung bei der Wahrnehmung von
+Prozeßterminen. Auf S. 4 v folgt eine Zusammenstellung der Prokuratoren des
+Hofgerichts Rottweil für das Jahr 1476. Diese Zusammenstellung hat mit der
+Kammergerichtsordnung unmittelbar nichts mehr zu tun. Warum die Liste an dieser
+Stelle aufgenommen wurde, ist nicht ganz klar. Doch ließe sich das folgende
+vermuten: Die Kammergerichtsordnung und die Personallisten des Gerichts wurden
+- wie gleich noch zu zeigen sein wird - von der Kanzlei <name type="person">Kurfürst
+Adolfs von Mainz</name> oder seiner unmittelbaren
+Nachfolger für interne Kanzleizwecke zusammengestellt, um die Ubersicht über
+Organisation und Personal des Kammergerichts zu behalten. Als Reichserzkanzler
+hatte der Erzbischof - Kurfürst Adolf außerdem noch als Pachtinhaber des
+Kammergerichts<note place="foot" n="7">Vgl. Richard Schröder/Eberhard Frhr. von
+Künssberg, Lehrbuch der deutschen Rechtsgeschichte (Berlin/Leipzig 1932<hi rend='sup'>7</hi>,
+Neudruck 1966), S. 601 f.; Johann Lechner, Reichshofgericht
+und königliches Kammergericht im 15. Jahrhundert, in: Mitt. des öster.
+Instituts für Geschichtsforschung, Ergänzungsband 7 (1907), S. 110ff.; Otto
+Franklin, Das königliche Kammergericht vor dem Jahre 1495 (Berlin 1871), S.
+1.</note> - entscheidenden Einfluß auf die Besetzung der Stellen und mußte sich
+um die Rekrutierung kümmern. Da das Rottweiler Hofgericht in dieser Zeit neben
+dem Kammergericht die einflußreichste Stellung im Rahmen der
+Reichsgerichtsbarkeit einnahm<note place="foot" n="8">Georg Grube, Die
+Verfassung des Rottweiler Hofgerichts (= Veröffentlichungen der Kommission für
+Geschichtliche Landeskunde in Baden-Württemberg, B, Bd. 55, Stuttgart 1969), S.
+14 ff.</note> und in gewisser Weise an die Stelle des 1451 eingegangenen
+Reichshofgerichts trat,<note place="foot" n="9">Friedrich Battenberg,
+Reichserbkämmerer Konrad von Weinsberg und die Falkensteiner Erbschaft. Die
+Prozesse am Reichshofgericht, am Hofgericht Rottweil und am königlichen
+Kammergericht 1420-1447, in: AHG NF 35 (1977), S. 99-176, hier S. 127
+ff.</note> lag es nahe, daß für die dort fungierenden Prokuratoren eine
+Tätigkeit auch am Kammergericht in Betracht kam. Ob einzelne Rottweiler
+Prokuratoren aushilfsweise am Kammergericht tätig waren und ob sie auf Grund
+ihrer Beeidigung ohne weiteres Prozesse am Kammergericht führen durften, auch
+ohne Erledigung zusätzlicher Formalitäten, wie sie für die übrigen Prokuratoren
+nach der Ordnung von 1471 vorgeschrieben waren, müßte erst noch untersucht
+werden. In irgendeiner Weise dürfte es jedoch der Kammergerichtskanzlei möglich
+gewesen sein, auf sie zurückzugreifen. Insofern ist für die Liste auf S. 4 v
+der Handschrift - genannt werden <name type="person">Cunrat Laudenberg</name>,
+<name type="person">Johannes Vogel</name>, <name type="person">Melcher
+Bodemer</name>, <name type="person">Meister Jörg Hut</name> und <pb n="S. 40"/>
+<name type="person">Johannes Schutzer</name> - doch ein gewisser Zusammenhang
+zum Kammergericht anzunehmen.</p>
+<p>
+Mit der soeben besprochenen Prokuratorenliste bricht die Handschrift ab. Ob in
+ihr weitere Ordnungen des Kammergerichts, andere Kanzleiordnungen der Mainzer
+Kanzlei oder auch Protokolleinträge zu konkreten Verfahren enthalten waren,
+könnte nur dann geklärt werden, falls sich weitere Fragmente der Handschrift
+finden würden.</p></div>
+
+<div id="Aufsatz3">
+    <head>III</head>
+<p>
+  Der Schrift nach muß die hier besprochene Quelle der zweiten Hälfte des 15.
+Jahrhunderts zugewiesen werden.<note place="foot" n="10">Vgl. Walter
+Heinemeyer, Studien zur gotischen Urkundenschrift (Köln/Graz 1962), insb. S.
+127 ff.</note> Es handelt sich um eine mit flüchtiger Hand geschriebene
+Kanzleikursive. Auffallend sind die häufig gebrochenen Buchstaben und das
+Bemühen, diese durch Vermeidung übermäßiger Kursivierungen voneinander
+abzusetzen. Es sollte offenbar eine gute Lesbarkeit zu Kanzleizwecken erreicht
+werden. Andererseits finden sich noch nicht die für den Beginn des 16.
+Jahrhunderts typischen sekundären Brechungen. Die Form insbesondere der
+Minuskelbuchstaben - als Beispiele seien genannt g, h, r, s, z - deutet noch
+auf das 15. Jahrhundert. Alles spricht daher dafür, daß die Handschrift wohl
+nicht sehr viel später nach 1471 entstanden ist. Da der Eintrag auf S. 4 v von
+1476 von der gleichen Hand stammt, wie die übrigen Einträge und offensichtlich
+mit diesen in einem Zug geschrieben wurde, dürfte dieses Jahr als terminus a
+quo für das gesamte Handschriftfragment anzusehen sein. Mindestens dieser Teil
+des Geschäftsbuchs ist damit wohl kaum vor der Regierungszeit des Kurfürsten
+<name type="person">Diether von Isenburg</name> (1476-1482) entstanden,
+vielleicht auch erst unter <name type="person">Berthold von Henneberg</name>.
+Auf Grund des Wasserzeichens (Ochsenkopf) läßt sich gegenwärtig leider eine
+nähere Eingrenzung noch nicht vornehmen.<note place="foot" n="11">Unter den
+Akten des Staatsarchivs Darmstadt fand sich leider kein Hinweis, in welcher
+Zeit ein Papier dieses Wasserzeichens in Mainz benutzt wurde, da sich nur sehr
+spärliche Aktenreste aus dem 15. Jahrhundert Kurmainzer Provenienz erhalten
+haben. Das für die Kanzlei Erzbischof Bertholds öfters verwendete Papier mit
+Ochsenkopfwasserzeichen (z. B. StA Darmstadt, E 5 B, Nr. 275/5 und 365/4) sieht
+anders aus. Ein Stück mit vergleichbarem Ochsenkopf (E 5 B Nr. 365/1) konnte
+weder der Provenienz noch der zeitlichen Einordnung nach eindeutig fixiert
+werden. Eine eventuelle Analyse müßte sich auf breiteres Quellenmaterial auch
+aus den Empfängerarchiven stützen. Bei Walter Piccard (Die
+Ochsenkopf-Wasserzeichen, Findbuch II, 1-3 [= Veröffentlichungen der
+staatlichen Archivverwaltung Baden-Württemberg], Stuttgart 1966) findet sich
+kein vergleichbarer Ochsenkopf. Typ I, 220, der auf die Jahre 1461-64
+festgelegt wird, hat am ehesten Ähnlichkeit, doch haben die Hörner dort nicht
+die gleiche Spannweite (42 mm).</note></p>
+<p>
+  Das Schriftstück kann mit großer Wahrscheinlichkeit der Kurmainzer Kanzlei
+zugewiesen werden. Es kam mit der Sammlung Bodmann-Habel an das damalige
+Reichsarchiv in München und wurde von dort zu Beginn unseres Jahrhunderts an
+das Staatsarchiv Darmstadt <pb n="S. 41"/> abgegeben.<note place="foot" n="12">Heribert
+Hopfenbeck, Das Bodmann-Habelsche Archiv, in: Archival.
+Zeitschrift 38 (1929), S. 305. Vgl. Albrecht Eckhardt, Abteilung C 1,
+Handschriften (= Repertorien des Hessischen Staatsarchivs Darmstadt,
+Darmstadt/Marburg 1974&s2;), S. 5; ders., Hessisches Staatsarchiv und
+Stadtarchiv Darmstadt, Übersicht über die Bestände (= Darmstädter
+Archivschriften 1, Darmstadt 1975&s2;), S. 42, 100.</note> Aber auch diese
+Sammlung wurde nicht in ihrem ursprünglichen Zusammenhang belassen, sondern auf
+die verschiedensten Bestände des Staatsarchivs aufgeteilt. Heute existiert nur
+noch eine knappe, maschinenschriftliche Übersicht, die die wesentlichen Stücke
+der Sammlung erfaßt<note place="foot" n="13">StA Darmstadt, Abt. O 61 Bodmann,
+Repertorium. Vgl. die Beständeübersicht (Anm. 12), S. 100.</note>; der
+eigentliche Nachlaß <name type="person">Franz Joseph Bodmanns</name>, der sich
+im Staatsarchiv Darmstadt unter Abteilung IV (Geschichte, Statistik und
+Topographie) befand, fiel 1944 den Bombenangriffen auf Darmstadt zum Opfer. Da
+die zitierte maschinenschriftliche Übersicht das hier besprochene Schriftstück
+(ursprünglich Nr. 2293 der Sammlung) nicht aufführt und die Liste auch keine
+weiteren, vergleichbaren Aktenstücke angibt, die im Zusammenhang mit der
+Kammergerichtsordnung stehen könnten, läßt sich über die Herkunft unserer
+Handschrift kaum noch Sicheres angeben. Andererseits enthält die Sammlung
+Bodmanns überwiegend Schriftstücke, die provenienzmäßig der Kurmainzer Kanzlei
+oder sonstigen Mainzer Stiftsregistraturen zuzuordnen sind, soweit nicht eigene
+Urkundenabschriften Bodmanns vorliegen. Es scheint also, daß dieser Mainzer
+Gelehrte des 18. Jahrhunderts die Handschrift einem Kurmainzer Geschäftsbuch
+entnommen hatte. Sicheres könnte erst nach einer eingehenden Erforschung der
+Mainzer Kanzlei unter den Erzbischöfen <name type="person">Diether von
+Isenburg</name>, <name type="person">Albrecht von Sachsen</name> und <name type="person">Berthold
+von Henneberg</name> gesagt werden, eine Arbeit, die im
+Rahmen dieses Beitrags nicht geleistet werden konnte.</p>
+<p>
+Zugleich kann die Handschrift des Bestandes E 9 als eine Abschrift im
+aktenkundlichen Sinne qualifiziert werden. Darauf deuten eine ganze Reihe von
+Einzelheiten hin. Die Korrekturen, die alle während der Niederschrift
+vorgenommen wurden, resultieren durchweg auf Abschreibfehlern. So wurde z. B.
+S. 2v, Z. 8, das dem Sinne nach hierher gehörende Wort "antworter" nachträglich
+über der Zeile eingefügt. Ohne dieses Wort wäre der Satz nicht verständlich.
+Auf Z. 18 von S. 2 findet sich die Stelle "oder fursprechen dann obgemeldt ist"
+gestrichen. Die gleiche Stelle findet sich eine Zeile weiter im richtigen
+Zusammenhang. Dasselbe ließ sich S. 2 v, Z. 14, für "uff sin begern von der
+clage" und auf S. 3, Z. 8/9, für "zwischen eyn ander sach verhören möht"
+feststellen. Offenbar hat sich hier also der Kopist in der Zeile geirrt und
+eine Zeile der Vorlage <pb n="S. 42"/> übersehen. Hinzu kommt, daß sich in der
+Handschrift eine Reihe von Auslassungen befinden, die offenbar darauf beruhen,
+daß während der Abschrift ein Wort versehentlich weggelassen wurde. Dies gilt
+für Bl. 2 v, Z. 21 (es fehlt "geschehen"), Bl. 3 Z. 15 (es fehlt "mit") und Z.
+24 ("tausend", das vorhergehende Wort "ye" wurde möglicherweise als "m[ille]"
+mißverstanden) sowie Bl. 3 v Z. 5 ("Mentz"). Sachlich bedingte Streichungen
+oder spätere Einfügungen, die die Annahme eines noch nicht fertiggestellten
+Entwurfs nahelegen würden, fehlen andererseits.</p>
+    <p>
+Die drei zuerst zitierten Streichungen geben darüber hinaus wichtige Hinweise
+auf das äußere Aussehen der Vorlage. Sofern der Gedankengang richtig ist, daß
+der Kopist eine Zeile übersprungen hat, und, nachdem er seinen Irrtum bemerkte,
+die zu früh geschriebene Zeile (bzw. den Zeilenanfang) wieder ausstrich, so
+ergibt sich folgendes: Die ursprünglich ausgelassenen Zeilen der Vorlage, die
+sich danach rekonstruieren lassen, entsprechen in ihrer Länge ziemlich genau
+einer Zeilenlänge der Abschrift. Sie enthalten 12 ("alles ungeverlich. Ob ouch
+ein fürst, graff oder commune andere advocaten"), 10 ("und litem contestiret
+hette, ungehorsam würde, so solt der antworter") bzw. 12 ("eynichen parthien
+ein zit zü bedencken vergönnet würd, also das man da") Worte. Dies bedeutet,
+daß der Satzspiegel der Vorlage hinsichtlich seiner Breite in etwa der
+Abschrift entsprochen haben mußte. Für das äußere Aussehen der Vorlage bedeutet
+dies: Es mußte sich entweder um einen längeren <quelle url="&wp;Rotulus">rotulus</quelle>
+gehandelt haben, der parallel zur Schmalseite
+beschrieben wurde, oder um ein <quelle url="&wp;Libell">Libell</quelle>, das in
+Größe und Umfang etwa der hier besprochenen Handschrift nahe kam.
+Auszuschließen ist andererseits, daß dem Abschreiber eine Pergamenturkunde als
+Vorlage diente, da diese bei einem Text von der Länge der Kammergerichtsordnung
+einen ganz anderen Schriftspiegel aufweisen würde. Eine in Libellform
+ausgestellte Pergamenturkunde wäre für diese Zeit zumindest ungewöhnlich und
+würde vor allem den Gewohnheiten der kaiserlichen Kanzlei widersprechen.
+Zugleich ergibt sich damit für den Inhalt der Vorlage, daß auch diese nicht die
+Originalausfertigung der Kammergerichtsordnung von 1471 gewesen sein kann. Dem
+Kopisten lag entweder eine gleichzeitige Abschrift vor, die vielleicht
+ebenfalls in einem Geschäftsbuch der <pb n="S. 43"/> Kurmainzer Kanzlei enthalten
+war, oder aber ein Konzept, zu dem er über die Kanzlei des Mainzer Erzbischofs
+Zugang hatte und das er zur Rechtssicherung in ein Amtsbuch übertragen wollte.
+Für das letztere würde sprechen, daß der Schreiber der Darmstädter Handschrift
+einige Schwierigkeiten mit der Abschrift hatte, eine ganze Reihe von Worten
+mißverstand und Fehler stehen ließ, die sich nicht alle durch einen flüchtigen
+und unsorgfältigen Abschreibvorgang erklären lassen. Ihm lag offenbar eine
+nicht leicht lesbare Vorlage vor, die ihrerseits durch Streichungen und
+flüchtige Schreibweise einige Probleme aufgab.</p>
+<p>
+Damit ergibt sich die Frage, warum der Kopist sich auf eine derart
+unzureichende Vorlage stützte. In der Kurmainzer Kanzlei hätte er sicher am
+ehesten Zugang zu der Originalurkunde oder wenigstens einer genauen und gut
+lesbaren Abschrift gehabt. Oder existierte überhaupt gar keine Ausfertigung der
+Kammergerichtsordnung, war sie vielleicht auch sachlich nicht über das
+Entwurfsstadium hinausgediehen? Dieser Frage soll nun etwas anhand des Inhalts
+der Ordnung nachgegangen werden.</p>
+<p>
+Der Urkundeneingang entspricht dem üblichen Protokoll der Urkunden <name type="person">Kaiser
+Friedrichs III.</name>, ist allerdings ungewöhnlich knapp
+gehalten und ohne die sonst bei wichtigeren Reichsgesetzen (z. B.
+Landfriedensordnungen) üblichen Floskeln. Das <quelle url="&wp;Eschatokoll">Eschatokoll</quelle>
+der Urkunde entspricht ebenfalls der
+in der kaiserlichen Kanzlei gebräuchlichen Form. Es fehlt allerdings der
+übliche und in einer Urkunde dieser Bedeutung zu erwartende Kanzleivermerk, der
+den Beurkundungsbefehl nebst dem Namen des verantwortlichen Kanzleinotars
+enthalten haben müßte. Sofern also bei Protokoll und Eschatokoll nicht
+eigenmächtige Auslassungen des Abschreibers vorliegen, deuten bereits diese
+Beobachtungen darauf hin, daß das Gesetzeswerk nicht über das Entwurfsstadium
+hinaus gediehen ist. Es kommt hinzu, daß die Ordnung nicht in einem
+fortlaufenden, geschlossenen Text geschrieben ist. Die Eidesformel der
+Kammerrichter wird mit den Worten eingeleitet: "sollend die selbend [...] tun
+disen noch geschriben eyd, der luttet also". Der Gerichtsschreibereid, der an
+sich mit ähnlichen Worten eingeleitet werden müßte, beginnt ganz unvermittelt
+unter der Überschrift: "gerihtzschryber eydt". Prokuratoren-und Advokateneid
+werden zwar wieder jeweils mit einer Formel <pb n="S. 44"/> eingeleitet, die der
+des Richtereids entspricht, doch stehen die Eidesformeln selbst
+merkwürdigerweise nicht unmittelbar unter den Einleitungsformeln, sondern unter
+erneuter Überschrift ("der procurator eyd"; "der advocaten eydt") an anderer
+Stelle. Lediglich der Eid der Gerichtsboten entspricht in seiner äußeren Form
+(Einleitungsformel und Eidformular) wieder dem Eid des Kammerrichters. Diese
+Ungleichmäßigkeiten dürften mit Sicherheit in einer etwaigen endgültigen,
+ausfertigungsfähigen Fassung des Gesetzestextes bereinigt worden sein. Man
+hätte sich dann entweder entschieden, die Eidesformel jeweils mit einem
+einleitenden Satz beginnen zu lassen, oder aber auf diesen ganz zu verzichten
+und sich mit jeweils einer Uberschrift zu begnügen. Selbst wenn man aber
+annimmt, das Original der Ordnung von 1471 sei einheitlich, mit fortlaufendem
+Text gefaßt gewesen und nur der Kopist habe für seine Zwecke an passenden
+Stellen vereinfacht, läßt sich die systematische Stellung der Prokuratoren- und
+Advokateneide nicht erklären, da der Abschreiber sicher keine eigenmächtigen
+Umstellungen vorgenommen hat. Viel eher ist anzunehmen, daß die systematische
+Stellung der einzelnen Gesetzesartikel noch gar nicht feststand, insbesondere,
+ob die Eidesformulare unmittelbar dem Rechtssatz (Schwurgebot) anzugliedern
+waren oder aus praktischen Gründen ans Ende des gesamten Gesetzestextes oder
+eines Abschnitts zu stellen waren.</p>
+<p>
+  Es spricht demnach alles dafür, daß die hier besprochene Ordnung ursprünglich
+nur als interne Arbeitsgrundlage gedacht war und eine offizielle Publizierung
+von Seiten <name type="person">Kaiser Friedrichs III.</name> niemals erfolgt
+ist. Die in der Literatur vielfach anzutreffende Formulierung, die Ordnung sei
+am <datum wert="1471-10-24">24. Oktober 1471</datum> erlassen<note place="foot" n="14">Smend
+(Anm. 5), S. 6; Franklin (Anm. 7), S. 1.</note> bzw.
+verkündet<note place="foot" n="15">Otto Franklin, Das Reichshofgericht im
+Mittelalter I (Weimar 1867, Neudruck Hildesheim 1967), S. 375; Lechner (wie
+Anm. 7), S. 110. Joseph Chmel, Regesta Chronologico-Diplomatica Friderici IV.
+Romanorum regis (Wien 1838, Neudruck Hildesheim 1962), gibt unter Nr. 6488 als
+Regest an: "Kaiser Friedrich erläßt ein Mandat in Betreff seiner neuen
+Kammer-Gerichts-Ordnung" (nach der bei Lünig, Reichsarchiv [Anm. 3]
+abgedruckten Vorlage). Bezeichnenderweise ist die Kammergerichtsordnung, wie
+sich aus den Regesten Chmels ergibt, nicht in die Reichsregister aufgenommen
+worden. Daß dies nicht geschehen sei, weil es sich um ein Mandat gehandelt habe
+(wie Chmel angibt), ist dem Inhalt des Textes nach auszuschließen.</note>
+worden, müßte demnach noch einmal überprüft werden. Offenbar hatte man bisher
+die im Schlußprotokoll des Gesetzestextes enthaltenen Worte "Geben und
+öffentlich verkundt zu Weyne uff ..." überbewertet. Solche Worte konnten
+durchaus in dieser Form schon in einem Entwurf gestanden haben. Vorbehaltlich
+dessen, daß sich keine anderen Quellen über die Verkündung der Urkunde von
+<datum wert="1471-10-24">1471 Oktober 24</datum> finden,<note place="foot" n="16">Eine
+intensive Sucharbeit konnte im Rahmen dieses Beitrags nicht
+geleistet werden. Es sei aber nochmals betont, daß hier nur Vermutungen
+aufgestellt wurden, die bei Auffinden anderer Quellen durchaus noch entkräftet
+werden könnten.</note> muß auf Grund des hier ermittelten Befundes davon
+ausgegangen werden, daß die Kammergerichtsordnung von 1471 Entwurf geblieben
+ist. Inwieweit die <pb n="S. 45"/> Ordnung in der Praxis befolgt wurde, müßte im
+einzelnen noch geklärt werden. Im Grundsatz kann jedoch hier schon gesagt
+werden, daß der Entwurf in der Folgezeit Grundlage des kammergerichtlichen
+Verfahrens wurde und damit eine ähnliche Bedeutung hatte, wie in späterer Zeit
+das Cammer-Concept von 1613 für die Rechtssprechung des
+Reichskammergerichts.<note place="foot" n="17">Wolfgang Sellert, Über die
+Zuständigkeitsabgrenzung von Reichshofrat und Reichskammergericht (=
+Untersuchungen zur deutschen Staats- und Rechtsgeschichte NF Bd. 4, Aalen
+1965), S. 7.</note></p></div>
+
+<div id="Aufsatz4">
+    <head>IV</head>
+<p>
+  Bevor der Text der Ordnung, wie er sich aus der Darmstädter Handschrift
+ergibt,<note place="foot" n="18">Zugrundegelegt wird der hier emendierte Text.
+Umgestellt wurden die Eidesformulare der Prokuratoren und Advokaten.</note>
+hier mitgeteilt wird, soll eine kurze inhaltliche Übersicht gegeben werden.
+Besonderes Augenmerk soll dabei auf die Abweichungen vom Text der Zeumerschen
+Quellensammlung gerichtet werden. <name type="person">Zeumer</name> seinerseits
+stützt sich auf den Abdruck in der Neuen Sammlung der Reichsabschiede<note place="foot" n="19"><quelle url="&nsra_1747F1;249">Band
+1 (Anm. 3), S. 249
+ff.</quelle></note> und die Wiedergabe im Lünigschen Reichsarchiv.<note place="foot" n="20"><quelle url="http://digbib.bibliothek.uni-augsburg.de/25/index.html?http://digbib.bibliothek.uni-augsburg.de/25/pages/02_XII_05_2_0331_04_0316.html">Band
+IV (Anm. 3), S. 272 ff.</quelle></note> Beide Drucke - ebenso wie auch die
+übrigen, älteren Drucke - gehen jedenfalls nicht auf die Darmstädter
+Handschrift zurück, wenn man nicht annehmen will, daß die Herausgeber seit
+Lünig ihre Vorlage selbständig veränderten.</p>
+<p>
+<quelle url="#A1">Art. 1</quelle> betrifft die Einsetzung eines Kammerrichters
+sowie von Beisitzern und Urteilern, die insgesamt das Kammergericht bilden
+sollen. Im Unterschied zur Zeumerschen Vorlage ist nicht von den "beysitzenden
+urteilern" sondern von "besitzern" und "urteilern" die Rede. Der Satzteil:
+"stetiglichs, wo wir zu zeiten im reich sein oder cammergericht zu halten"
+fehlt zwischen "unsers kammer gerihtz" und "befolhen". Hier scheinen jedoch
+keine sachlichen Diskrepanzen zu bestehen: "Beisitzende Urteiler" und
+"Beisitzer und Urteiler" dürfte jeweils das gleiche meinen, der Zusatz der
+Zeumerschen Vorlage ist eine nähere Präzisierung. Allerdings ist auch möglich,
+daß der Kopist der Darmstädter Handschrift hier versehentlich eine Zeile
+übersprungen hat, und dies, da der Satz immer noch sinnvoll war, nicht
+bemerkte.</p>
+<p>
+  <quelle url="#A2">Art. 2</quelle> enthält den Eid des Kammerrichters und der
+Urteiler. Dieser Eid war jeweils vor Amtsantritt zu leisten, wohl in Gegenwart
+des <pb n="S. 46"/> Kaisers oder eines seiner Beauftragten, und zwar ausdrücklich,
+damit eventueller Argwohn vermieden werde. Hier haben wir eine Bestimmung vor
+uns, die auf die unparteiische und unverdächtige Amtsführung des Normadressaten
+hinzielt.<note place="foot" n="21">Vgl. dazu Friedrich Battenberg/Albrecht
+Eckhardt, Der Richter in eigener Sache, dargestellt anhand
+spätmittelalterlicher Quellen insbesondere des Burggerichts Friedberg/Hessen
+und des Reichshofgerichts, in: Zeitschrift der Savigny-Stiftung für
+Rechtsgeschichte, Germ. Abt. Bd. 95 (1978).</note> Es folgt in ähnlicher Weise
+(<quelle url="#A3">Art. 3</quelle>), jedoch ohne den einleitenden Satz, der Eid des
+Gerichtsschreibers. In <quelle url="#A4">Art. 4</quelle> werden der Fürsprecher und
+der Prokurator zur Eidesleistung verpflichtet. Ausdrücklich wird hinzugesetzt,
+daß niemand zu einem dieser beiden Ämter zugelassen werden solle, der nicht den
+vorgeschriebenen Eid geleistet habe. Entsprechendes wird in <quelle url="#A5">Art.
+5</quelle> für den Advokaten festgelegt, wobei zusätzlich bestimmt
+wurde, daß dieser "redelich und gelert" sein solle. Daraus ergibt sich, daß
+offenbar eine wissenschaftliche Bildung für Fürsprecher und Prokuratoren, die
+in der Gerichtsverhandlung selbst aufzutreten hatten, nicht erforderlich war,
+wohl aber für den Advokaten, der die Schriftsätze zu formulieren hatte.</p>
+<p>
+Hinsichtlich des Prokuratoren- bzw. Advokateneids bestehen Diskrepanzen
+zwischen der Darmstädter und der Zeumerschen Handschrift. Im Prokuratoreneid
+ist zu Beginn in der letzten Zeile zwischen "keynerley" und "furgedinge" ein
+Satzteil eingeschoben ("falsch und unrecht gebrauchen, daß ich mit derselben
+meiner parthien keinerley"). Dieser Zusatz, der einer Zeile entsprochen haben
+dürfte, scheint vom Kopisten der Darmstädter Handschrift versehentlich
+ausgelassen worden zu sein; möglicherweise hielt er ihn aber auch für
+entbehrlich. Weiter wird in der Zeumerschen Handschrift bestimmt, daß der
+Prokurator den ihm zustehenden Sold nicht mehren "oder gedingen, beschweren
+oder erhöern wil". Diese Bestimmung ist so nicht ganz verständlich, da ein
+ausbedungener Sold zwar unrechtmäßigerweise erhöht, nicht aber gedungen, oder
+beschwert werden könnte. Verständlich wird der Satz, wenn man die Darmstädter
+Handschrift daneben hält. Hiernach soll der Prokurator seinen Lohn nicht mehren
+"oder andern gedingen nit besworen oder erhören". Es handelt sich danach um
+zwei voneinander unabhängige Gebote, die sich beide auf das dem Prokurator
+zustehende Entgelt beziehen. Zum einen geht es um die unzulässige nachträgliche
+Erhöhung, zum andern um jeden sonstigen Vertrag (Gedinge), der nachträglich
+über das Entgelt zustande kommt. Durch diese zusätzliche Bestimmung
+  <pb n="S. 47"/> der Darmstädter Handschrift wird zugleich bewiesen, daß sich der
+Schreiber dieses Textes offenbar auf eine andere Vorlage stützte als später
+Lünig und die von ihm abhängigen Drucke.<note place="foot" n="22">Vorausgesetzt,
+Lünig hielt sich genau an die Vorlage.</note></p>
+<p>
+Eine weitere Diskrepanz findet sich im Rahmen des Prokuratoreneids bei der
+Regelung etwaiger Differenzen zwischen Prokurator und Partei um das Entgelt.
+Für Streitigkeiten zwischen beiden waren nach der Zeumerschen Vorlage der
+Kammerrichter und die Urteiler oder aber ein von ersterem zu bestimmender
+Urteiler zuständig; nach der Darmstädter Handschrift nur letzterer als
+kommissarisch eingesetzter Richter, nicht jedoch das Kammergericht insgesamt.
+Zwar beruht diese Abweichung ebenfalls auf einer Auslassung seitens des
+Kurmainzer Schreibers, doch sprechen sachliche Gründe dafür, daß sie gewollt
+war. Möglicherweise hatte sich seit dem erstmaligen Entwurf (1471) und der
+erneuten Abschrift (1476 oder später) am Kammergericht die Praxis
+herausgebildet, daß sich bei derartigen Gebührenstreitigkeiten der Anwälte mit
+den Parteien nicht das gesamte Gerichtskollegium mit der Sache zu befassen
+hatte, vielmehr nur ein im Einzelfall einzusetzender Richter aus dem Kreis der
+Urteiler bestimmt werden sollte.</p>
+<p>
+Eine weitere Auslassung im Rahmen des Advokateneids geht in die gleiche
+Richtung. Für Irrungen zwischen dem Advokaten und der Partei um
+Gebührenforderungen sollte nach der Darmstädter Handschrift nur der
+Kammerrichter, nach der Zeumerschen Handschrift das gesamte Gerichtskollegium
+zuständig sein, allerdings mit der Einschränkung, daß sich nicht alle Beisitzer
+beteiligen mußten, sondern nur diejenigen, die der Kammerrichter dazu bestimmt
+hatte. Warum allerdings der Darmstädter Handschrift nach bei
+Gebührenstreitigkeiten der Advokaten der Kammerrichter, bei solchen der
+Prokuratoren und Fürsprecher nur ein vom Kammerrichter zu bestellender Urteiler
+zuständig sein sollte, ist nicht eindeutig ersichtlich. Möglicherweise warfen
+die Advokatenstreitigkeiten größere rechtliche Schwierigkeiten auf; vielleicht
+sollte auch nur eine sachliche Arbeitsteilung zwischen Richter und Urteilern
+erzielt werden. Es müßte allerdings erst noch geklärt werden, inwieweit die
+Varianten der Darmstädter Quelle der Prozeßpraxis entsprachen. <pb n="S. 48"/></p>
+<p>
+  In <quelle url="#A6">Art. 6</quelle> der Kammergerichtsordnung wurde festgelegt,
+daß jede Partei jeweils nur einen Advokaten und einen Prokurator bestellen
+dürfe. Um eine Umgehung der Bestimmung zu vermeiden, solle die Partei
+denjenigen Rechtsvertreter, den sie zu ihrer Beratung bestellt habe, auch zu
+ihrem Advokaten bzw. Prokurator aufnehmen. In <quelle url="#A7">Art. 7</quelle>
+geht es um die Zubilligung von Armenrecht im Prozeß. Derjenigen Partei, die
+sich aus sozialen Gründen keinen Anwalt leisten kann, soll der Kammerrichter
+einen solchen zuordnen. Mehrere Armensachen sollen unter verschiedenen Anwälten
+aufgeteilt werden, um nicht einen von ihnen über Gebühr zu belasten. Nach <quelle url="#A8">Art.
+8</quelle> blieb es den Parteien<note place="foot" n="23">Das Wort
+herre und graff ist in der Darmstädter Handschrift wohl versehentlich
+ausgelassen worden.</note> unbenommen, sich zur Beratung weiterer, am
+Kammergericht nicht beeidigter, Rechtsvertreter zu bedienen. Soweit diese vor
+Gericht auftreten wollten, mußten sie sich jedoch ad hoc beeidigen lassen. In
+<quelle url="#A9">Art. 9</quelle> der Ordnung ist die Eidesleistung der
+Gerichtsboten geregelt. <quelle url="#A10">Art. 10</quelle> legt fest, was bei
+Gebührenstreitigkeiten zwischen dem Gerichtsboten mit den Parteien geschehen
+solle. Beide Vorlagen gehen hier von einer Entscheidungszuständigkeit des
+Kammergerichts insgesamt oder auch eines ad hoc kommissarisch eingesetzten
+Richters aus.</p>
+<p>
+  <quelle url="'A10">Art. 10</quelle>-<quelle url="#14">14</quelle> enthalten
+detaillierte Bestimmungen über das Verfahren bei Säumnis einer Partei.<note place="foot" n="24">Diese
+Regelungen wurden offenbar noch nicht durchweg
+beachtet, da z. T. noch das ältere Achtverfahren praktiziert wurde, um den
+säumigen Beklagten zur Einlassung zu zwingen, s. Friedrich Battenberg, Die
+Lichtenberg-Leiningensche Fehde vor dem Kammergericht Kaiser Friedrichs III.,
+in: Zeitschr. f. Geschichte des Oberrheins 124 (1976), S. 105-176, insb. S. 113
+f.</note> Es wird genau differenziert zwischen der Säumnis vor der
+Streiteinsetzung (<emph>litis contestatio</emph>) und der danach eingetretenen
+Säumnis. Jeder Fall wird hinsichtlich der Gerichtskosten unterschiedlich
+behandelt. Gerade in diesen vier Bestimmungen werden Einflüsse der Rezeption
+deutlich sichtbar.</p>
+<p>
+<quelle url="#A15">Art. 15</quelle> legt genaue Fristen für mögliche Appellationen
+fest, um eine ungebührliche Verzögerung des Rechtsstreits zu vermeiden. Die
+bisher übliche Jahresfrist wird auf sechs Monate abgekürzt. Aus <quelle url="#A16">Art.
+16</quelle> ergibt sich, daß immer jeweils nur ein Rechtsstreit
+erledigt werden durfte, es sei denn, ein Prozeß werde zeitweise ausgesetzt.
+Offenbar sollten die Parteien dazu angehalten werden, den Streitgegenstand in
+der Klage klarer zu präzisieren; eine Vermengung mehrerer Streitigkeiten sollte
+aus Gründen größerer Klarheit nach Möglichkeit vermieden werden.</p>
+<p>
+In <quelle url="#A17">Art. 17</quelle> wurde ergänzend bestimmt, "daß auch die, die
+desselben gerihtz zu warten verbunden sin", gleich den (ordentlichen) Richtern
+und <pb n="S. 49"/> Urteilern beeidigt werden sollten. Es können damit nur die ad
+hoc eingesetzten kommissarischen Richter gemeint sein. Insofern gilt für sie
+die gleiche Regelung, wie sie für die "außerordentlichen" Prokuratoren
+vorgesehen war.</p>
+<p>
+  <quelle url="#A18">Art. 18</quelle> enthält eine detaillierte Gebührenordnung. Es
+wurde bestimmt, daß der Kläger jeweils für 100 Gulden Streitwert 2 Gulden
+Gebühren vorab zu entrichten habe (Sporteln). Bei einem Streitwert über 1000
+Gulden sollten für jedes weitere Hundert jeweils nur noch ein Gulden, bei einer
+Summe von über 2000 Gulden 1/2 % entrichtet werden. Die Gebühren waren demnach
+nach der Höhe des Streitwerts gestaffelt. Die endgültige Kostentragung hing
+dagegen vom Prozeßerfolg ab, das heißt, derjenige, der letztendlich obsiegte,
+konnte etwa geleistete Gebühren von der Gegenpartei zurückfordern.<note place="foot" n="25">Hierzu
+neuerdings Wolfgang Sellert, Die Akzessorietät von
+Kostentragung und Prozeßerfolg. Ein historisches Problem von aktueller
+Bedeutung, in: Rechtsgeschichte als Kulturgeschichte. Festschrift für Adalbert
+Erler zum 70. Geburtstag (Aalen 1976), S. 509 ff. Vgl. dazu die Rezension in:
+AHG NF 35 (1977), S. 397 (Friedrich Battenberg).</note></p>
+<p>
+  Damit ergibt sich, daß die Kammergerichtsordnung von 1471 zwar nicht den
+vollständigen Prozeßgang und die Verfassung des Gerichts regelte, immerhin aber
+einige wichtige Punkte herausgriff, die offenbar immer wieder Anlaß zu
+Streitigkeiten gaben oder die aus andern Gründen schriftlich festgelegt werden
+mußten. Dies betraf traditionsgemäß die Eidesformeln des Gerichtspersonals, da
+über die Statuierung einer Eidespflicht eine Reihe von Amtspflichten unter
+strafrechtliche Sanktion gestellt werden konnte, deren Verletzung ohne dieses
+Bekräftigungsmittel nicht strafbar gewesen wäre.<note place="foot" n="26">Vgl.
+Friedrich Battenberg, Gerichtsschreiberamt und Kanzlei am Reichshofgericht
+1235-1451 (= Quellen und Forschungen zur Höchsten Gerichtsbarkeit im Alten
+Reich 2, Köln/Wien 1974), S. 18, 169; Robert Scheyhing, Eide, Amtsgewalt und
+Bannleihe. Eine Untersuchung zur Bannleihe im hohen und späten Mittelalter (=
+Forschungen zur Deutschen Rechtsgeschichte 2, Köln/Graz 1960), S. 22.</note> Es
+kann in diesem Zusammenhang darauf hingewiesen werden, daß die einzigen
+überlieferten Rechtsvorschriften zur Geschichte des Reichshofgerichts im 15.
+Jahrhundert zwei Eidesformulare für den Hofrichter und den Hofschreiber
+sind.<note place="foot" n="27">Battenberg (Anm. 26), S. 19 f., 168 ff.</note>
+Mittelbar lassen sich über die Eidesformeln wieder Aufschlüsse über
+Zuständigkeits- und Verfassungsfragen gewinnen, und auch die
+Kammergerichtsordnung von 1471 bietet hierzu umfassendes Material, das im
+Rahmen dieses Beitrags nicht ausgeschöpft werden sollte.</p>
+<p>
+  Des weiteren wurde das Säumnisverfahren geregelt, wobei es hier offenbar im
+wesentlichen auf die differenzierte Behandlung der Säumniskosten ankam. Die
+vier Bestimmungen, die sich damit befassen (<quelle url="#A11">Art. 11</quelle> bis
+<quelle url="#A14">14</quelle>) wirken etwas als Fremdkörper, da sich in ihnen
+bereits - ohne daß diese hier im einzelnen ausgeführt werden kann - der <pb n="S. 50"/>
+römisch-kanonische Prozeßgang niederschlägt. Derartige Bestimmungen
+sind hier um so erstaunlicher, als mindestens wenige Jahre vorher das ältere
+Achtverfahren des deutschen Rechts für Säumnisfälle am Kammergericht der Sache
+nach noch gehandhabt wurde. Dies konnte jedenfalls für einen Prozeß zwischen
+Lichtenberg und Leiningen aus den Jahren 1458 bis 1466 an anderer Stelle
+dargelegt werden.<note place="foot" n="28">Friedrich Battenberg (Anm. 24), S.
+113 f.</note></p>
+<p>
+Regelungsbedürftig waren weiter die Gerichts- und Anwaltskosten und
+Zuständigkeitsfragen bei eventuellen sich daraus ergebenden Streitigkeiten.
+Hier ist es für die Folgezeit bedeutsam, daß für Gebührenverfahren zwischen den
+Parteien einerseits, Prokuratoren, Advokaten und Fürsprechern andererseits ein
+besonderer Gerichtsstand vor dem Kammerrichter oder einem von diesem
+eingesetzten kommissarischen Richter begründet wurde. In diesen Punkten
+jedenfalls wich die Darmstädter Handschrift von der Zeumerschen Vorlage ab.
+Ebenfalls im Zusammenhang mit den Gebührenregelungen steht die Festlegung des
+Armenrechts. Es kommt dadurch ein ausgesprochen sozialer Zug in die
+Gerichtsordnung; zugleich werden erste Ansätze zur Ausbildung anwaltlicher
+Standespflichten sichtbar (Pflicht zur Mandatsübernahme bei richterlichem
+Gebot).</p>
+<p>
+Einem klaren Prozeßgang bzw. der Prozeßbeschleunigung dienten diejenigen
+Vorschriften, die sich mit der Befristung der Appellation und der Abgrenzung
+des Streitgegenstandes befaßten. Bereits hier werden Probleme angesprochen, die
+noch heute im Prozeßrecht bedeutsam sind. Letzten Endes dienten diese
+Bestimmungen dem Schutz der Parteien.</p>
+<p>
+Eine Ergänzung der Kammergerichtsordnung stellt die auf Bl. 4 der Darmstädter
+Handschrift eingefügte Einung der Prokuratoren dar. Unter Zustimmung des
+Kaisers legten diese hier fest, in welcher Reihenfolge die Prozesse zu
+behandeln seien. Rechtsgeschichtlich bedeutsamer scheint mir hier aber zu sein,
+daß die Prokuratoren mit diesem Vertrag erstmals als Korporation im Rahmen der
+Gerichtsverfassung des Kammergerichts faßbar werden, und in der Lage waren,
+ihre internen Angelegenheiten im Rahmen der geltenden Prozeßordnung
+eigenständig zu regeln.<pb n="S. 51"/></p></div>
+
+<div id="RKGO">
+    
+<head>keyser Friderichs reformacie sins kammergerihtz</head>
+<p>
+  Wir Friderich von gots gnaden römscher keyser zu allen ziiten merer<note place="foot" n="a">Schluß-r
+verbessert aus s</note> des richs, zu Hungern,
+Dalmacien, Croacien etc. kunig, hertzog zu Österrich, zu Styre etc. setzen und
+ordenen,</p></div>
+
+<div id="A1">
+  <head>[1]</head>
+  <p>das hin fur unser kammer gericht besitzen sollend ein kammer richter mit
+einer zimlichen zale erbern und redelichen<note place="foot" n="b">Vorlage
+rederichen</note> besitzern und urteilern, die uberbunden sin<note place="foot" n="c">t
+am Ende von sin durchstrichen</note> sollend, unsers kammer gerihtz
+befolhen zu halten, zu gewarten oder des mern urteilers usser yn.</p></div>
+
+<div id="A2">
+   <head>[2]</head>
+<p>
+  Und uff das aller argwon vermitten werde, sollend die selbend und wer hinfur
+zu kammerrihtern und urteilern uff genomme(n) werdent, tun disen noch
+geschriben eyd, der luttet also:</p>
+<p>
+  Ich N. glob und swere, das ich nach allem minen besten verstentniß und sinnen
+reht urteiln und reht sprechen sol und wil in sachen, so vor mir in dem kammer
+gericht gehandelt und fur genomme(n) werdend, und das nit lassen umb reht,
+gunst, liebe, gabe oder versprechniß eynicher gabe oder anders, min urteil
+ouch<note place="foot" n="d">folgt gestr. ge</note> zu sprechen<note place="foot" n="e">Buchstabe
+am Wortende gestr.</note> geverlich nit verhalten
+oder verziehen, ouch mit keiner parthy, die vor dem geriht zu schaffen hand,
+eynich furred haben, noch keiner parthy<note place="foot" n="f">Vor y ein e
+gestrichen</note> wider die ander hilff oder bistand tun nach ihtz von inen
+nemen oder in iren sachen raten sunder alles geverde.</p></div>
+
+<div id="A3">
+  <head>[3] Gerihtzschryber eydt:</head>
+<p>
+  Ich N. glob und swere, das ich all gerihtz handel, vor mir gehandelt,
+getruwelich und eygentlich uffschriben wil und register, brieffe und<note place="foot" n="g">folgt
+gestr. urb</note> urkund, so zu geriht furbraht und
+gelegt werdent, by dem geriht getruwlich halten und keiner parthy oder yemantz
+von iren wegen ubergeben, offnen, lesen, hören oder abgeschrifft davon werden
+losen, es wurde dann zü geschehen von rihter und urteilern erloubt.</p></div>
+
+<div id="A4.1">
+  
+  <head>[4]</head>
+<p>
+Item es sol kein fursprech oder procurator das wort zum rehten zu tund
+zügelassen werden, er sii dann vor von unsern wegen zugelassen, uffgenomme(n)
+und habe disen nachgeschribenen eydt getan:</p></div>
+
+<div id="A4.2">
+    <head>Der procurator eyd:</head>
+<p>
+  <note place="foot" n="h">Die Eidesformel findet
+    sich im Text der Abschrift - entsprechend der Edition bei Zeumer - erst nach
+    den gemeinsamen Bestimmungen für Prokuratoren und Advokaten (hier unter Nr. 6
+    abgedruckt).</note>Ich N. glob und swere, das ich den parthien und sachen, zü handeln ich mich
+annym, in denselben sachen mit gantzen und rehten truwen meynen und die sach im
+rehten noch myner besten verstentniß<note place="foot" n="i">Vorlage
+verstenniß</note> der parthien zu gut furbringen und handeln, ouch darinn<note place="foot" n="k">Vorlage
+darim</note> wissentlich keynerley furgedinge oder
+furwort machen, darumb ich ein teil von der sachen, darumb die parthy in reht
+stet, wartend sy, ouch heimlikeit und behelff, so ich von derselben parthye
+vernemen<note place="foot" n="l">Vorlage vernemmen</note> oder noch
+underrichtung der sachen von mir selbß mercken wurd, der parthie zü schaden
+wissentlich nyemant offenbaren. Dar zu ouch die parthie uber den soldt un(d)
+lon, der mir in anfang des rehtens versprochen wer, nit meren oder andern
+gedingen nit besworen oder erhören wil. Und ob des soldes und lones halb
+zwischen der parthy und mir irrung oder gespenn entstunde, des wil ich bliben
+by den, der kammer rihter das uß den urteilen<note place="foot" n="m">folgt
+gestr. behelffen</note> befelhen wurde. Und wie die mich darumb entscheyden,
+wil ichs daby bliben lassen. Ouch der sach, so ich angenomme(n) hab, mich on
+redlich ursach und des richteres erloubung mich<note place="foot" n="n">Vorlage
+mit</note> niht entslahen, sunder der parthy zu gut getruwlich biß zu ende uß
+des rehten handeln, in disem allen geverd und argelist genzlich<note place="foot" n="o">z
+verschrieben</note> ußgescheiden.</p></div>
+
+<div id="A5.1">
+  <head>[5]</head>
+  <p>
+    Desglichen<note place="foot" n="p">Vorlage gesglicht</note> sol nyemant
+advocat sin oder advocieren, er sy dann zuvor durch uns oder wem<note place="foot" n="q">Vorlage
+wenn</note> wir das befelhen zu solichem<note place="foot" n="r">Vorlage solichen</note>
+ampt uff genomme(n), uff das
+redeliche<note place="foot" n="s">Vorlage rederiche</note> und gelerte
+advocaten, die den parthien <pb n="S. 53"/> wissen zu raten, uffgenomme(n) werden.
+Und e er zü solichem<note place="foot" n="t">Vorlage solichen</note> ampt
+gelassen wirt, sol er globen und sweren<note place="foot" n="u">d am Ende von
+sweren durchstrichen</note> den eyd, als hie unden von den advocaten geschriben
+statt.</p></div>
+
+<div id="A5.2">
+  <head>[Bl. 2] Der advocaten eydt:</head>
+<p>
+  <note place="foot" n="v">Die Eidesformel
+    findet sich im Text der Abschrift - entsprechend der Edition bei Zeumer - erst
+    im Anschluß an die Eidesformel der Prokuratoren (vgl. oben <quelle url="#Note.h">h</quelle>).</note>Ich N. glob und swere, das ich in den sachen, durch mich angenomme(n), dem
+rehten noch getruwlich raten und handeln, keinen valsch<note place="foot" n="w">Vorlage
+vlsch</note> oder geverd darinn bruchen wil und die heimlikeit
+und gestalt<note place="foot" n="x">Vorlage gestat</note> der sachen myner
+parthy zu wider mit geverden nymantz offenbaren, ouch mit der parthy sunder
+gedinge umb ein teil der houbtsummen zu habend nit machen oder annemen, sunder
+mich zimlichs und redelichs solds benugen. Und ob zwischen der parthy und mir
+deshalb irrung entstind, nach erkentniß des kammer rihteres daby ungeweygert
+bliben lassen wil.</p></div>
+
+<div id="A6">
+  
+  <head>[6]</head>
+<p>
+  Es sol ouch kein parthy uber eynen advocaten und procurator in einer sach
+uffnemen oder bestellen, uff dz die ander parthie ouch mege advocaten und
+fursprechen bekomme(n). Und das darinn kein geverlikeit<note place="foot" n="y">Vorlage
+gevelikeit</note> gebrucht werden möge, sol kein advocat oder
+procurator eynicher parthy in irer sach<note place="foot" n="z">en nach sach
+gestr.</note> raten. Die selb parthy, die in umb rat ersücht, woll dann den
+advocaten und procurator zü den sachen advocieren und zu procurator
+uffnemen.</p></div>
+
+<div id="A7">
+    <head>[7]</head>
+<p>
+  <note place="foot" n="aa">Diese Bestimmung folgt in der
+    Vorlage im Anschluß an den Advokateneid (vgl. oben <quelle url="#Note.v">v</quelle>).</note>Item, uff das armut halb nyemants rehtlosß<note place="foot" n="ab">Vorlage
+rehlosß</note> gelassen werd, sol der kammer rihter, so zu ziten sin wirt, die
+sachen der armen, die ir armut mit iren eyden, ob der gesonnen<note place="foot" n="ac">Vorlage
+gesomen</note> wurde, erwisetend<note place="foot" n="ad">nach erwis folgt gestr.
+Stelle, danach etend</note>, den advocaten <pb n="S. 54"/> und procuratorn behelffen,
+darinn zu raten und zum besten in reht fur
+zu bringen. Und welichem advocaten oder procurator solich sachen von dem kammer
+rihter enpfolhen wurde, sol schuldig und pflihtig sin, by pene entsatzung sins
+amptz, die on widerred wie vor gemeldt anzunemende. Doch so sol der kammer
+rihter, ob der sachen me dann ein wurde, die glich under die procuratores und
+advocaten<note place="foot" n="ae">folgt gestr. fursprechen dann obgemeldt
+ist</note> teilen alles ungeverlich<note place="foot" n="af">s nach ungeverlich
+gestr.</note>.</p></div>
+
+<div id="A8">
+  <head>[8]</head>
+<p>
+  Ob ouch ein furst, graff oder<note place="foot" n="ag">Vorlage order</note>
+comune andere advocaten oder fursprechen dann obgemeld ist im rehten zü raten
+oder zü reden nemen woltent, oder ob jemantz im selbß sin wort im rechten tun
+wolt, solten sy maht haben, doch uff eyde den selben zu tunde, so sich durch
+reht geburen wurd.</p></div>
+
+<div id="A9">
+  <head>[9]</head>
+<p>
+Was gerihtz botten sint, sollent disen nochgeschribenen eydt tun, und waz sy
+also uff den eyd sagend und furbringen, dem sol gestanden werden.</p>
+<p>
+  Ich N. glob und swere, das<note place="foot" n="ah">Vorlage dach</note> ich
+all ladung, urteil, procesß- und gebottsbriefe, so mir beholhen werdent,
+getruwlich verkunden und uberantworten wil, wohin mir das zu tund befolhen und
+sich geburen wurdet, und des getruwlich relacion zu yeder zit tun, wo, wann und
+wem<note place="foot" n="ai">Vorlage wenn</note> ich solichs tun sol, und
+darinn kein geverlikeit bruchen noch umb yemantz willen<note place="foot" n="ak">folgt
+gestr. s</note> lassen, ouch nit anders furbringen noch
+referieren, dann wie sich die dinge begeben haben, sunder alles
+geverde.</p></div>
+
+<div id="A10">
+  <head>[10]</head>
+<p>
+  Es sollent ouch die botten sich umb iren lon von yeder mihe<note place="foot" n="al">b
+verschrieben</note> zimlich vernugen lassen. Wurd aber dar über
+zwischen im und der parthyen<note place="foot" n="am">Vorlage parthen</note>
+irrung, wi sy dann unser kammer rihter und urteiler oder wem er das befelhen
+wurde darumb setzen und entscheyden, daby sollen es bede parthien bliben lassen
+und dem nach kummen.<pb n="S. 55"/></p> </div>
+
+<div id="A11">
+    <head>[11]</head>
+ <p>
+   Und uff das sich ein yeder in sachen, so hinfur in unserm kammer geriht
+gehandelt werdent, zü halten wisse, setzen und ordenen wir, so der cleger uff
+den gesetzten rehttag nit<note place="foot" n="an">Vorlage rehtag mit</note>
+erschine, ouch kein ehaffte sach siner verhinderung, der zü reht genug wer,
+bybringen lassen wurd, wann dann solich sin ußblibung und contumacion geschiht,
+e der antworter uff die clage geantwort hette und litem contestieret, so solt
+der antworter und soliche geriht uff dasselb<note place="foot" n="ao">Vorlage
+dsselb</note> mol entledigt werden und die gerihtz costen, so daruff gangen
+weren, erclagt haben.</p></div>
+
+<div id="A12">
+  <head>[12]</head>
+<p>
+  Ob aber der antworter<note place="foot" n="ap">antworter über der Zeile
+eingefügt</note> begert, sich von der clag und ansprach, so in der citacion
+bestympt oder von des clegers teil in reht furbraht wer, mit reht zü entledigen
+und sin unschuld und<note place="foot" n="aq">und verschrieben</note>
+gerechtikeit furbringen wolt und sich erbutte, solichs in reht zü volfuren, so
+sol er in solichen erbeiten also gehört und zugelassen werden und uff sin
+fürbringen und kuntschafft mit endtlichem urteil geschehen, was reht
+were.</p></div>
+
+<div id="A13">
+  <head>[13]</head>
+<p>
+  Ob aber der clager, nach dem der antworter uff sin clage geantwort<note place="foot" n="ar">folgt
+gestr. uff sin begern von der clage</note> und litem
+contestiret<note place="foot" n="as">contestiret in der Mitte
+verschrieben</note> hette, ungehorsam wurde, so solt der antworter uff sin
+begern von der clage, darumb er geladen were, entledigt werden und sinen
+gerihtz costen behabt haben, es wer dann, das der rihter und die urteiler<note place="foot" n="at">folgt
+gestr. n were</note> uß dem furbringen und gerihtz
+handel, als kuntschaften und anders, den weg abnemen möhtend. Was yenen in
+solichen zu erkennen und zu urteilen<note place="foot" n="au">Vorlage
+urteilern</note> were, dem sollend sy also nachkomme(n) und umb gerihtz costen
+[geschehen]<note place="foot" n="av">fehlt in der Vorlage</note>, was sich in
+reht geburet.</p></div>
+
+<div id="A14">
+  <head>[14]</head>
+<p>
+Würd aber der antworter vor oder nach siner antwort ungehorsam, so sollend
+rihter und urteiler uff des clagers anruffen in den sachen mit der verhörung
+alles fürbringens wollfaren und bitz zu endtlichen urteil <pb n="S. 56"/> und
+andern processen und executorialn procediren und dem clager, so er doch dz
+entlich urteil behalt hat, den ungehorsamen erlangten in gerihtzcosten
+urteilen. So aber das urteil für den antworter gesprochen wurde, so sol umb
+gerichtz costen ouch geschehen, als sich in reht geburt.</p></div>
+
+<div id="A15">
+  <head>[15]</head>
+<p>
+  Und uff das geverlich verlengerung die parthie, so geappelliert hat, bitzher
+durch schyn irer appelacion dick gesucht haben, hinfur vermitten werden, so
+orden und setzen wir, das die parthye, wider die geappelliert wurde, die dann
+pars appellata heisset, nü furter nit schuldig sy, das iar ußzuwarten, das dann
+den, die appellieren, zu vollfürung denselben der appellacion im rehten zu
+geben ist. Sunder sy mögen noch verlouffen sehß monaten von zit der appelacion
+vor unserm geriht erschynenn<note place="foot" n="aw">folgt in, das Wort
+Instrument auf S. 3 in der ersten Zeile jedoch neu begonnen</note> [Bl.
+3] instrument solicher appellacion und der<note place="foot" n="ax">und der doppelt
+geschrieben</note> verkundung furbringen,
+daruff	ladung<note place="foot" n="ay">Kürzungsstrich über u fehlt</note>
+erlangen und die appelacion prosequieren.</p></div>
+
+<div id="A16">
+  <head>[16]</head>
+<p>
+  Uff das ouch durch Vermischung der reden die sachen nit verhindert noch den
+rihter und urteilern unverstendig gemaht werdend, so wellend wir, das so ein
+sach zu dem geriht fürgewendt wurt, das kein ander sache, dwil die parthien
+gegeneinander durch sich oder ir anwolte reden, fürgenommen<note place="foot" n="az">Gemination
+von m fehlt in der Vorlage</note> werde, bitz die sache noch
+notdurft verhört, zu reht gesatzt<note place="foot" n="ba">Schluß-t fehlt in
+der Vorlage</note> oder uff den standt broht were, als das reht erfordert, es
+were dann, das<note place="foot" n="bb">folgt gestr. eyn ander sach verhören
+möht</note> eynichen parthien ein zit zu bedencken vergönnet<note place="foot" n="bc">Vorlage
+vergömet</note> wurd, also das man da zwischen ein ander sach
+verhören möht, oder das eynicher parthie furbringung<note place="foot" n="bd">Vorlage
+furbrinung</note> zugeteilt wurde. Alß dann solt man ein ander
+sach verhören, wie obgemeldt ist. Wer sich ouch da wider satze und anders
+hielt, der sol unserm fiscal an unser stat zehen guldin zu bezalen verfallen
+sin und doch nit anders, dami wie vor gemeldt ist, verhöret werden.<pb n="S. 57"/></p></div>
+
+<div id="A17">
+  <head>[17]</head>
+<p>
+  Als im anfang gemeldt stet, wie unser kammer geriht [mit]<note place="foot" n="be">fehlt
+in der Vorlage</note> rihtern und urteilern besatzt<note place="foot" n="bf">Schluß-t
+fehlt in der Vorlage</note> werden solle, die
+desselben gerihtz zu warten verbunden sin, sollend ouch eyde daruber tun, wie
+obgemelt ist.</p></div>
+
+<div id="A18">
+  <head>[18]</head>
+<p>
+  Uff das dann wir deste trefflicher personell daran zu setzen gehabend mögend,
+die ouch darumb, als billich ist, iren soldt haben sollen, so setzen wir, das
+ein yeder clager im anfang des rehtens von jedem hundert guldin, als hoch sich
+sin ansproch trifft, zwen<note place="foot" n="bg">zwen doppelt</note> guldin
+geben solle, das dann unser vorfaren römisch<note place="foot" n="bh">Vorlage
+römsch</note> keyser<note place="foot" n="bi">durchstr. Buchstabe vor r</note>
+und kunige sportulas genant<note place="foot" n="bk">Kürzungsstrich für n
+fehlt</note> haben, da von den rihtern und urteilern iren soldt zu bezalen und
+ußzürihten, doch also, ob ein sach sich uber tusent gulden haben wurde, so solt
+von dem überigen bitz an zwey [tausend]<note place="foot" n="bl">fehlt in der
+Vorlage</note> ye von hundert guldin ein gulden, so aber die summ uber
+zweytusent guldin treffe, von den uberigen ye von hundert guldin ein halber
+guldin bezalt werden. Und solich<note place="foot" n="bm">folgt gestr.
+felt</note> gelt, sportulae<note place="foot" n="bn">Vorlage sportube; la wohl
+in b verlesen</note>, sol die parthie, die in die costen nach der endtlichen
+urteil geteilt<note place="foot" n="bo">Schluß-t fehlt in der Vorlage</note>
+wirdet, der bezalten parthie wider geben und ußrihten.</p></div>
+
+<div id="Schluss">
+    <p>
+      Geben und offentlich verkundt zu Weyne uff den vierundzwentzigsten<note place="foot" n="bp">g
+fehlt in der Vorlage</note> tag des monatz octobris, nach
+Christi geburt viertzehenhundert und in dem ein und sibentzigsten<note place="foot" n="bq">g
+in der Vorlage verschrieben</note>, unserer riche des
+römischen<note place="foot" n="br">Vorlage römschen</note> in dem zwey und
+drissigsten, des keyserthums<note place="foot" n="bs">Vorlage
+keysersthums</note> im zwanzigsten und des hungerischen<note place="foot" n="bt">Vorlage
+hungeriscen</note> in drizehensten iaren.</p></div>
+
+<div id="Besetzung">
+  <head>Uff dise hievorgeschriben satzung und ordenung hat die keyserliche <pb n="S. 58"/>
+[Bl. 3v] maiestat das kammer geriht
+besatzt<note place="foot" n="bv">Schluß-t fehlt in der Vorlage</note> mit disen
+nochgeschribenen<note place="foot" n="bw">Vorlage nachgeschribenden</note>
+personen:</head>
+  <p>
+<list>
+<item>Züm ersten den hochwurdigen fürsten und herren herrn <name type="person">Adolphen
+ertzbischoff zü Mentz</name>, ertzcantzeler, legaten und
+kurfürsten zu [Mentz]<note place="foot" n="bx">fehlt in der Vorlage</note>,
+rihter des kammer gerihtz.</item></list>
+  <list><item><hi rend="strong">Zu besitzern, urteilern und rehtsprechern dise nachgeschriben:</hi>
+    <note place="foot" n="29">Vgl. hierzu die Liste bei Johann
+      Lechner, Reichshofgericht und königliches Kammergericht im 15. Jahrhundert, in:
+      Mitt. des Instituts f. Österreich. Geschichtskunde, Erg.bd. 7 (1907), S.
+      44-185, hier S. 161.</note></item>
+    <item><name type="person">Doctor Georien Pfeffer vom Romhart</name> uß
+Francken<note place="foot" n="30">Dr. Georg Pfeffer vom Romhart, aus Franken,
+auch in der Urteilerliste des Urteilsbuchs von 1471 f. (HHStA Wien, Hs. 1065;
+vgl. Lechner, S. 52 ff.) aufgeführt.</note></item>
+    <item><name type="person">Doctor und ritter Anshelmen von Ibe</name><note place="foot" n="31">Dr.
+Anselm von Eyb, im Urteilsbuch ohne Bezeichnung Dr. und
+Ritter.</note></item>
+    <item><name type="person">Doctor Bernhardten Groß von Mersheim</name> uß
+Hessen<note place="foot" n="32">Dr. Bernhard Groß von Megersheim (= Hof
+Schönau) aus Hessen, wie im Urteilsbuch.</note></item>
+    <item><name type="person">Doctor Otten Spiegel von Grünow</name> uß
+Missen<note place="foot" n="33">Dr. Ott Spiegel von Grüna aus Meißen, im
+Urteilsbuch nicht aufgeführt.</note></item>
+    <item><name type="person">Doctor Heinrich von Metestadt</name> uß
+Francken<note place="foot" n="34">Dr. Heinrich von Mettenstadt aus Franken, im
+Urteilsbuch nicht aufgeführt.</note></item>
+    <item><name type="person">Doctor Gunther Wilwitz von Erffurt</name><note place="foot" n="35">Dr.
+Gunther Wilwitz von Erfurt, im Urteilsbuch nicht
+aufgeführt.</note></item>
+    <item><name type="person">Doctor Bertholt von Lorich</name> uß dem Rynggow,
+probst zu Nuwhusen by Wurmsß<note place="foot" n="36">Dr. Berthold von Lorch im
+Rheingau, Propst zu Neuhausen bei Worms, im Urteilsbuch unter doctor Bertoldt
+Lorch aufgeführt.</note></item></list>
+    <list><item><hi  rend="strong">Advocaten und procuratores hie noch genant:</hi></item>
+<item><name type="person">Meister Hans Keller</name>, fiscal</item>
+<item><name type="person">Meister Arnolt von Bloe</name></item>
+<item><name type="person">Meister Johans Glockengeisser</name></item>
+<item><name type="person">Behtolt Kappe</name></item>
+<item><name type="person">Heinrich Sibott von Rambach</name></item>
+<item><name type="person">Meister Johans Pistoris</name></item>
+<item><name type="person">Meister Jacob Helmerich</name></item>
+<item><name type="person">Meister Martin Keller</name></item>
+<item><name type="person">Meister Görg Schreitel</name></item>
+<item><name type="person">Meister Peter Stude</name></item>
+<item><name type="person">Meister Wolffgang Strobel</name></item>
+<item><name type="person">Peter Here</name></item>
+      <item><name type="person">Martin Heyden</name><note place="foot" n="37">Im
+Urteilsbuch unter den Urteilern als doctor Marttin Hayden
+aufgeführt.</note></item></list>
+    <pb n="S. 59"/></p>
+  <p>
+    Umb rihtikeit willen<note place="foot" n="by">Vorlage villen</note> hant
+mit willen und gehell der keyserlichen maiestatt und des kamer rihteres die
+procuratores, als sy in ordenung hie vor nach ein ander sint gesatzt<note place="foot" n="bz">Schluß-t
+fehlt in der Vorlage</note>, sich geeynt, also an
+welichem züm ersten ist die ordenung, der sol bestymmen den sachen, die er in
+sine ordenung, so die an in kommet, wil furnemen, und sol, wann er die vor
+geriht melden wil, des antworters<note place="foot" n="ca">Vorlage
+antwortes</note> procurator daczu antworten usserhalb siner ordenung. Und mag
+des clagers procurator die den sachen obgemelt in siner ordenung zu dem reht
+bringen.<note place="foot" n="cb">Vorlage bringt</note> So sol er anderwen
+bestymmen der<note place="foot" n="cc">Vorlage dey</note> sachen, die er
+darnach wil furnemen und handeln, so die ordenung an in wurt langen. In disen
+dingen sol kein procurator den andern irren oder hindern.</p>
+<p><list><item><hi rend="strong">Notarien und schriber des cammer gerihtz:</hi></item>
+  <item><name type="person">Johannes Waldener</name></item>
+<item><name type="person">Johannes Kronberger</name></item>
+<item><name type="person">Meister Jost Kaps</name> von Landow</item>
+  </list></p></div>
+</body></text></TEI.2>
+<!--  Anmerkungen  1 Da die Akten des Reichskammergerichts zu einem bedeutenden Teil bereits im 19. Jahrhundert auf Veranlassung von Archivdirektor Ludwig Baur vernichtet wurden, geht es hier vor allem um die Erfassung von Kammergerichts- und Reichshofratsaktcn aus den Archiven der Prozeßparteien.  2 Sign.: f. 9 (Justizangelegenheiten), Nr. 2/1.  3   4 Karl Zeumer, Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit (= Quellcnsammlungcn zum Staats-, Verwaltungs- und Völkerrecht 11, Tübingen 19132), S. 270 Nr. 170.  6 Rudolf Smend, Das Reichskammergericht, Geschichte und Verfassung (Weimar 1911. Neudruck Aalen 1965), S. 6 ff.  59  FRIEDRICH BATTENBERG  6 Neueste Ausgabe: Die Reichskammergerichtsordnung von 1555, unter Mitarbeit von Christa Belouschek und Bettina Dick hrsg. von Adolf Laufs (=: Quellen und Forschungen zur Höchsten Gerichtsbarkeit im Alten Reich 3, Köln/Wien 1976).  7 Vgl. Richard Schröder/Eberhard Frhr. von Künssberg, Lehrbuch der deutschen Rechtsgeschichte (Berlin/Leipzig 193z1, Neudruck 1966), S. 601 f.; Johann Lechner, Rcichshofgericht und königliches Kammergericht im 15. Jahrhundert, in: Mitt. des öster. Instituts für Geschichtsforschung, Ergänzungsband 7 (1907), S. noff.; Otto Franklin, Das königliche Kammergericht vor dem Jahre 1495 (Berlin 1871), S. 1.  8 Georg Grube, Die Verfassung des Rottweiler Hofgerichts (= Veröffentlichungen der Kommission für Geschichtliche Landeskunde in Baden-Württemberg, b, Bd. 55, Stuttgart 1969), S. 14 ff.  * Friedrich Battenberg, Reichserbkämmerer Konrad von Weinsberg und die Falkensteiner Erbschaft. Die Prozesse am Reichshofgericht, am Hofgericht Rottweil und am königlichen Kammergericht 1420-1447, in: ahg nf 35 (1977), S. 99-176, hier S. 127 ff.  10 Vgl. Walter Heinemeyer, Studien zur gotischen Urkundenschrift (Köln/Graz 1962), insb. S. 127 ff.  11 Unter den Akten des Staatsarchivs Darmstadt fand sich leider kein Hinweis, in welcher Zeit ein Papier dieses Wasserzeichens in Mainz benutzt wurde, da sich nur sehr spärliche Aktenreste aus dem 15. Jahrhundert Kurmainzer Provenienz erhalten haben. Das für die Kanzlei Erzbischof Bertholds öfters verwendete Papier mit Ochsenkopfwasserzeichen (z. B. StA Darmstadt, e 5 b, Nr. 275/5 ur,d 365/4) sieht anders aus. Ein Stück mit vergleichbarem Ochsenkopf (e 5 b Nr. 365/1) konnte weder der Provenienz noch der zeitlichen Einordnung nadi eindeutig fixiert werden. Eine eventuelle Analyse müßte sich auf breiteres Quellenmaterial auch aus den Empfängerardiiven stützen. Bei Walter Piccard (Die Ochsenkopf-Wasscrzcidien, Findbuch 11, 1-3 [= Veröffentlichungen der staatlichen Ardiivverwaltung Baden-Württemberg], Stuttgart 1966) findet sich kein vergleichbarer Ochsenkopf. Typ 1, 220, der auf die Jahre 1461-64 festgelegt wird, hat am ehesten Ähnlichkeit, doch haben die Hörner dort nicht die gleiche Spannweite (42 mm).  12 Heribert Hopienbeck, Das Bodmann-Habelsche Archiv, in: Archival. Zeitschrift 38 (1929), S. 305. Vgl. Albrecht Eckhardt, Abteilung c 1, Handsdiriften (= Reper-torien des Hessischen Staatsarchivs Darmstadt, Darmstadt/Marburg 19742), S. 5; ders., Hessisches Staatsarchiv und Stadtarchiv Darmstadt, Ubersicht über die Bestände (= Darmstädter Archivschriften 1, Darmstadt 19752), S. 42, 100.  13 StA Darmstadt, Abt. o 61 Bodmann, Repertorium. Vgl. die Beständeübersicht (Anm. 12), S. 100.  14 Smend (Anm. 5), S. 6; Franklin (Anm. 7), S. 1.  15 Otto Franklin, Das Rcichshofgericht im Mittelalter 1 (Weimar 1867, Neudruck Hildesheim 1967), S. 375; Leciiner (wie Anm. 7), S. 110. Joseph Chmel, Rcgesta  60  KAMMERGERICHTSORDNUNG VON 1471  Chronologico-Diplomatica Fridcrici iv. Romanorum regis (Wien 1838, Neudruck Hildesheim 1962), gibt unter Nr. 6488 als Regest an: >Kaiser
+Friedrich erläßt
+ein Mandat in Betreff seiner neuen Kammer-Gerichts-Ordnung< (nach der bei Lünig, Reichsarchiv [Anm. 3] abgedruckten Vorlage). Bezeichnenderweise ist die Kammergerichtsordnung, wie sich aus den Regesten Chmels ergibt, nicht in die Reichsregister aufgenommen worden. Daß dies nicht geschehen sei, weil es sich um ein Mandat gehandelt habe (wie Chmel angibt), ist dem Inhalt des Textes nach auszuschließen.  16 Eine intensive Sucharbeit konnte im Rahmen dieses Beitrags nicht geleistet werden. Es sei aber nochmals betont, daß hier nur Vermutungen aufgestellt wurden, die bei Auffinden anderer Quellen durchaus noch entkräftet werden könnten.  i" Wolfgang Sellert, Über die Zuständigkeitsabgrenzung von Reichshofrat und Reichskammergericht (= Untersuchungen zur deutschen Staats- und Rechtsgeschichte nf Bd. 4, Aalen 1965), S. 7.  18 Zugrundegelegt wird der hier emendierte Text. Umgestellt wurden die Eidesformulare der Prokuratoren und Advokaten.  i> Band 1 (Anm. 3), S. 249 ff.
+
+20 Band iv (Anm. 3), S. 272 ff.
+
+24 Vgl. dazu Friedrich Battenberg/Albrecht Eckhardt, Der Richter in eigener
+Sache, dargestellt anhand spätmittclalterlicher Quellen insbesondere des
+Burggerichts Friedberg/Hesscn und des Reichshofgerichts, in: Zeitschrift der
+Savigny-Stiftung für Rechtsgeschichte, Germ. Abt. Bd. 95 (1978).
+
+22 Vorausgesetzt, Lünig hielt sich genau an die Vorlage.
+
+23 Das Wort herre und graff ist in der Darmstädter Handschrift wohl
+versehentlich ausgelassen worden.
+
+24 Diese Regelungen wurden offenbar noch nicht durchweg beachtet, da z. T. noch
+das ältere Achtverfahren praktiziert wurde, um den säumigen Beklagten zur
+Einlassung zu zwingen, s. Friedrich Battenberg, Die Lichtenberg-Leiningcnsche
+Fehde vor dem Kammergericht Kaiser Friedrichs 111., in: Zeitschr. f. Geschichte
+des Oberrheins 124 (1976), S. 105-176, insb. S. 113 f.
+
+25 Hierzu neuerdings Wolfgang Sellert, Die Akzessorietät von Kostentragung und
+Prozeßerfolg. Ein historisches Problem von aktueller Bedeutung, in:
+Rechtsgeschichte als Kulturgeschichte. Festschrift für Adalbert Erler zum 70.
+Geburtstag (Aalen 1976), S. 509 ff. Vgl. dazu die Rezension in: ahg nf 35
+(1977), S. 397 (Friedrich Battenberg).
+
+26 Vgl. Friedrich Battenberg, Gerichtsschreiberamt und Kanzlei am
+Reichshofgericht 1235-1451 (= Quellen und Forschungen zur Höchsten
+Gerichtsbarkeit im Alten Reich 2, Köln/Wien 1974), S. 18, 169; Robert
+Scheyhing, Eide, Amtsgewalt und Bannleihe. Eine Untersuchung zur Bannleihe im
+hohen und späten Mittelalter (= Forschungen zur Deutschen Rechtsgeschichte 2,
+Köln/Graz i960), S. 22.
+
+27 Battenberg (Anm. 26), S. 19 f., 168 ff.
+
+61
+
+FRIEDRICH BATTENBERG
+
+28 Friedrich Battenberg (Anm. 24), S. 113 f.
+
+29 Vgl. hierzu die Liste bei Johann Lechner, Reichshofgericht und königliches
+Kammergericht im 15. Jahrhundert, in: Mitt. des Instituts f. Österreich.
+Geschichtskunde, Erg.bd. 7 (1907), S. 44-185, hier S. 161.
+
+3" Dr. Georg Pfeffer vom Romhart, aus Franken, auch in der Urteilerliste des
+Urteilsbuchs von 1471 f. (HHStA Wien, Hs. 1065; vgl. Lechner, S. 52 ff.)
+aufgeführt.
+
+31 Dr. Anselm von Eyb, im Urteilsbuch ohne Bezeichnung Dr. und Ritter.
+
+32 Dr. Bernhard Groß von Megersheim (= Hof Schönau) aus Hessen, wie im
+Urteilsbuch.
+
+33 Dr. Ott Spiegel von Grüna aus Meißen, im Urteilsbuch nicht aufgeführt.
+
+34 Dr. Heinrich von Mettenstadt aus Franken, im Urteilsbuch nicht aufgeführt.
+
+35 Dr. Gunther Wilwitz von Erfurt, im Urteilsbuch nicht aufgeführt.
+
+36 Dr. Berthold von Lorch im Rheingau, Propst zu Neuhausen bei Worms, im
+Urteilsbuch unter doctor Bertoldt Lorch aufgeführt.
+
+37 Im Urteilsbuch unter den Urtcilcrn als doctor Marttin Hayden aufgeführt.
+-->

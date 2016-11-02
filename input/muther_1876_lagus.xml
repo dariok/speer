@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Theodor Muther: Doctor Conrad Lagus. Ein Beitrag zur Geschichte der Systematik des Civilrechts und der Lehre vom Autorrecht.<note place="foot" n="Quellenangabe">Zur Geschichte der Rechtswissenschaft und der Universitaeten in Deutschland von D. Theodor Muther (Jena 1876) S. 299-351</note></title>
+            </titleStmt>
+               </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+<div id="T1">
+		  <p><pb n="S. 299" url="../DRQI/muther_lagus_299.jpg"/>
+
+      Conrad Lagus ist geboren zu <name type="place">Kreutzburg</name> in
+Hessen<note place="foot" n="299.1">Diess bezeugt <name type="person" reg="Johannes Hoppe">Ioannes
+Hoppe</name> in seiner Oratio funebris de obitu
+clarissimi viri Cunradi Lagi, iurium Doctoris etc. (Regiom.) 1548 8°. Sign. A
+7a. [<quelle url="&vd16;ZV 20625">VD16 ZV 20625</quelle>]</note> zu Ende des 15.
+oder zu Anfang des 16. Jahrhunderts. Näheres konnte ich nicht ermitteln. Die
+Eltern des Lagus werden bezeichnet als "ehrbare Leute" (honesti homines), was
+auf bürgerlichen Stand und Nahrung hindeutet. Glieder der Familie bekleideten
+um die Mitte des 15. Jahrhunderts in der Vaterstadt öffentliche
+Ehrenämter.<note place="foot" n="299.2">Hoppe a.a.O.</note></p>
+<p>Dass der Name Lagus (Λαγος) der Sitte der Zeit gemäss den deutschen
+Vaternamen griechisch wiedergebe, erhellt auf den ersten Blick. Wir werden also
+denselben übersetzen dürfen mit: Hase oder Hasse, vielleicht auch Hesse, was
+bei der vielfach wechselnden und ganz unsicheren Namenschreibung des 16.
+Jahrhunderts sich nicht bestimmen lässt.</p>
+<p>
+      In die Matrikel der Universität <name type="place">Wittenberg</name> ist
+"Conradus Häss de crutzbergk magun. diöc." unter dem 16. Nov. 1519
+eingetragen<note place="foot" n="299.3">Album acad. Viteberg, ed. Foerstemann
+p. 87.</note>.<pb n="S. 300" url="../DRQI/muther_lagus_300.jpg"/></p>
+<p>	
+Es wird berichtet, dass Conrad Lagus schon von früh auf sorgfältigen Unterricht
+genossen habe<note place="foot" n="300.1">Hoppe a.a.O.</note>. Auf den
+Universitäten <name type="place">Leipzig</name> und Wittenberg vervollkommnete
+er seine philologische Ausbildung, zugleich studirte er mit höchstem Eifer die
+philosophischen Disciplinen. Von seinem gewaltigen Lerneifer erzählt ein
+wohlunterrichteter Biograph<note place="foot" n="300.2">Hoppe a.a.O. Sign. A
+7b.</note>, dass er ohne Unterlass bei Tag und bei Nacht der Arbeit obgelegen
+und von zeitraubenden Jugendvergnügungen sich fern gehalten habe. Er erwarb
+sich dadurch den Beifall und die Liebe der ausgezeichnetsten Lehrer an beiden
+Hochschulen.</p>
+<p>
+      Unsere Quellen geben keine sichere Auskunft, ob Lagus zuerst in Leipzig
+und dann in Wittenberg studirte. Beglaubigt ist, dass er hier wie dort auch als
+Lehrer in der Artistenfacultät auftrat<note place="foot" n="300.3">Hoppe a.a.O.
+Sign. A 8b.</note>, er selbst giebt als die Zeit, innerhalb deren er zu
+Wittenberg docirte, die Jahre 1522-1540 an.<note place="foot" n="300.4">Protestatio
+Cunradi Lagi adversus improbam suorum commentariorum de
+doctrina iuris editionem ab Egenolpho factam. Gedani 1544 Sign. A,3b [<quelle url="&vd16;L 116">VD16
+L 116</quelle>]</note></p>
+<p>
+Wahrscheinlich ist, dass Lagus vor 1519 Leipzig, nachher Wittenberg besuchte.
+Ob er von da an in Wittenberg blieb und erst im Jahre 1522 dort zu dociren
+anfing, oder ob er von Wittenberg nach Leipzig zurückkehrte und sich dann Anno
+1522 wieder nach Wittenberg wendete, oder endlich, ob er vielleicht nach einem
+dritten Ort sich von Wittenberg aus begeben hatte, ehe er 1522 seine
+Docentenlaufbahn an dieser Universität begann, darüber vermag ich nicht einmal
+eine Vermuthung auszusprechen.</p>
+<p>
+      Bemerkenswerth ist, dass unter dem <datum wert="1521-12-28">28. December
+1521</datum> ein "Conradus Hasse Brunsvicensis" in Wittenberg immatriculirt
+wurde<note place="foot" n="300.5">Album acad. Viteb. p. 109.</note>, ohne dass
+jedoch dessen Identität mit Conrad Lagus sich nachweisen liesse.<pb n="S. 301" url="../DRQI/muther_lagus_301.jpg"/></p>
+<p>
+Ein späterer Biograph<note place="foot" n="301.1">"Erneuertes Andenken des
+ersten Danziger Syndicus, Dr. Conrad Lagus" in: Preussische Sammlung allerley
+bisher ungedruckter Urkunden, Nachrichten und Abhandlungen (von Prof. Hunov),
+1. Bd. (Danzig 1747) S. 107.</note> des Lagus vermuthet, dass derselbe im Jahre
+1522 oder 1525 von Leipzig nach Wittenberg gegangen sei, da in diesen Jahren
+<name type="person">Herzog Georg zu Sachsen</name> starke Verfolgungen über
+Luther's Anhänger in Leipzig verhängt hatte, so dass die Studirenden in hellen
+Haufen nach Wittenberg zogen.</p>
+<p>
+Mag dem nun sein, wie ihm wolle, wir können Lagus' Thätigkeit erst vom Jahre
+1522 an verfolgen. Er scheint zunächst als Privatlehrer sich in Wittenberg
+niedergelassen zu haben. Den Grad eines Magister artium hat er nach glaubhafter
+Nachricht erst später erlangt. So stand er denn vorläufig in keinem äusseren
+Zusammenhang mit der Universität. Er hielt wahrscheinlich, wie diess damals
+nicht selten zu geschehen pflegte, eine Privatschule mit Pensionat.
+Oeffentliche Anstalten, welche bestimmt waren, für die Universität
+vorzubereiten, waren noch sehr selten: die Kenntnisse, welche man heut zu Tage
+auf Gymnasien sich erwirbt, erlangte man durch den Unterricht von
+Privatlehrern, welche am Sitze einer Hochschule oder auch anderwärts Wohnung
+genommen und mitunter ziemlich umfangreiche und gut organisirte Lehranstalten
+begründet hatten. &md; Wahrscheinlich war Lagus damals schon verheirathet;
+seine Ehefrau war gebürtig aus <name type="place">Zwickau</name>.</p>
+<p>
+      Der lateinischen und griechischen Sprache vollkommen mächtig, ja selbst
+im Hebräischen bewandert, hatte Lagus auch die sonstigen, in den
+Artistenfacultäten gepflegten Wissenschaften mit Eifer getrieben; so konnte es
+denn nicht fehlen, dass sein Unterricht in den Disciplinen, "welche zur Pflege
+des richtigen Ausdrucks eingeführt sind", vielen <pb n="S. 302" url="../DRQI/muther_lagus_302.jpg"/> Beifall fand<note place="foot" n="302.1">Hoppe a. a. O. Sign. B
+1b.</note>.
+Auch in späteren
+Zeiten war er seinen Schülern ein strenger Mahner, es mit dem Studium der
+artistischen Fächer nicht leicht und obenhin zu nehmen, sondern mit Ausdauer
+und Fleiss dabei zu verweilen.<note place="foot" n="302.2">Hoppe a. a. O. Sign.
+A 7b.</note></p>
+		  <p>
+			Doch auch den Umfang seines eigenen Wissens zu
+erweitern, war Lagus noch eifrig bemüht. Die geistige Bewegung jener Zeit
+concentrirte sich im theologischen Gebiet. Ein aufgeweckter und gewissenhafter
+Mann, wie Conrad Lagus, konnte demselben nicht vorbeigehen, ohne zu versuchen,
+durch eigenes Studium sich den Weg zur selbständigen Lösung der wichtigen
+Streitfragen, welche die christliche Welt in Aufregung versetzten, zu bahnen.
+Lagus widmete mehrere Jahre seines Lebens dem ernsten Studium der heiligen
+Schriften und erlangte, durch seine treffliche humanistische Bildung
+unterstützt, eine nicht gewöhnliche Kenntniss derselben. Auch hierin schritt er
+so weit fort, dass er im Stande war, Andere zu unterrichten.<note place="foot" n="302.3">Hoppe
+a. a. O. Sign. B 2b.</note></p>
+		  <p>
+			Neben den theologischen betrieb Lagus juristische
+Studien. Um jene Zeit machte er sich mit den Elementen der Rechtslehre bekannt,
+so dass er seinen Privatschülern die Justinianischen Institutionen zu erklären
+vermochte.<note place="foot" n="302.4">Hoppe a. a. O. Sign. B 4a und
+Protestatio Sign. A 4a.</note> Lagus folgte hierin nur der Sitte seiner Zeit
+und dem Gebot der Nothwendigkeit: denn die Väter der ihm anvertrauten vornehmen
+Zöglinge mussten verlangen, dass ihre Söhne auf diese Weise in die
+Rechtswissenschaft eingeführt würden, da es sonst keinen Weg gab, sie zum
+Verständniss der exegetischen Vorlesungen der Rechtsprofessoren
+vorzubereiten.</p>
+		  <p>
+			Der Sommer des Jahres 1527 war für Wittenberg ein
+überaus trauriger. Eine jener ansteckenden Krankheiten, <pb n="S. 303" url="../DRQI/muther_lagus_303.jpg"/> welche man als Pest
+bezeichnete, suchte die Stadt und Umgegend stärker, denn je zuvor, heim. Die
+Universität wurde im Monat August zeitweise nach Jena verlegt. Von da siedelte
+sie nach einiger Zeit (15. September) nach <name type="place">Schlieben</name>
+über.</p>
+		  <p>
+			Ob Lagus der Universität nach Jena folgte, ist
+zweifelhaft, darüber aber sind wir unterrichtet, dass er sich nicht in
+Schlieben, sondern in <name type="place">Bautzen</name> einige Zeit
+aufhielt<note place="foot" n="303.1">Hoppe a. a. O. Sign. B 3.</note>. Hier
+wurde er, wie uns erzählt wird, vom Rath und der Bürgerschaft gut aufgenommen,
+bei den Vornehmen der Stadt, besonders bei dem Canonicus <name type="person">Christoph
+von Haugwitz</name>, kam er in grosse Gunst. Haugwitz
+lud ihn mit gastfreier Gesinnung ein, Wohnung in seinem Hause zu nehmen. Lagus
+bewies seine Dankbarkeit dadurch, dass er, auf Bitten seines Gastfreundes für
+diesen, sowie für dessen Collegen und Freunde Vorlesungen über das Evangelium
+Marci hielt. Er richtete dabei sein Augenmerk darauf, den Unterschied des
+Gesetzes und des Evangeliums seinen noch an der Lehre von der Gerechtigkeit der
+Werke festhältenden Zuhörern klar zu legen.<note place="foot" n="303.2">Hoppe
+a. a. O. Sign. B 3.</note></p>
+		  <p>
+			Die Universität kehrte im April 1528 nach Wittenberg
+zurück. Lagus nahm nunmehr den Grad eines Magister artium an<note place="foot" n="303.3">Hoppe
+a. a. O. Sign. B 3b.</note>, wodurch er in nähere Verbindung
+mit der Universität kam. Wenn er auch kein besoldetes Lehramt erhielt, so war
+er doch als recipirter Magister Mitglied der Artistenfacultät und hatte als
+solches die Befähigung zum Decanat. Von seinen Vorlesungen erfahren wir, dass
+sie sich über die philosophischen Disciplinen erstreckten. Zugleich aber
+erklärte er in einem sehr zahlreichen Auditorium die reine Lehre von Gott aus
+den biblischen Schriften „auf eine gewisse methodische Weise". „Durch diese
+seine <pb n="S. 304" url="../DRQI/muther_lagus_304.jpg"/> Mühe war er den Studien Vieler förderlich, so dass diese später die
+erkannte Lehre der evangelischen Religion in der Kirche weit
+verbreiteten".<note place="foot" n="304.1">Hoppe a.a.O. Sign. B 3b.</note></p>
+<p>
+Auch das Pensionat im Hause, sowie die Privatschule wurde nicht aufgegeben.
+Damals befand sich unter Lagus' Zöglingen ein Knabe aus Bautzen, Namens <name type="person">Johann
+Hoppe</name><note place="foot" n="304.2">Hoppe a.a.O.
+Sign, A 2 und A 6b.</note>, der nachmals seinem, wie einen zweiten Vater
+verehrten Lehrer ein biographisches Denkmal setzte. Diesem danken wir
+vorzugsweise unsere Kenntniss vom Wesen und Wirken des Mannes.</p>
+<p>
+Die Privatlectüre der Institutionen, welche Lagus mit seinen vornehmen Schülern
+zu treiben genöthigt war, zog ihn allmählich mehr und mehr zur Jurisprudenz
+hin. Er fühlte einen starken Trieb, sich für den Dienst des öffentlichen Lebens
+tüchtig zu machen, und da ihm auch seine besondere Beanlagung für die
+Rechtswissenschaft nicht lange zweifelhaft bleiben konnte, fasste er den
+Entschluss, sich ganz auf diese Studien zu verlegen. Bald hatte er es so weit
+gebracht, dass er in seinem Hause juristische Privatvorlesungen halten konnte,
+auch fing er an, wie es damals viele Magistri artium thaten, als Advocat zu
+practiciren.<note place="foot" n="304.3">Hoppe a.a.O. Sign. B 4 und
+5.</note></p>
+<p>
+Lagus selbst erzählt<note place="foot" n="304.4">Protestatio Sign. A
+3b.</note>, es sei zu <name type="place">Jena</name> gewesen, wo er zuerst dem
+Verlangen seiner Schüler nachgegeben und für sie die Elemente der Rechtslehre
+zu einem Dictat zusammengestellt habe. Wahrscheinlich ist damit nicht der
+Aufenthalt in Jena im Jahre 1527 gemeint, sondern die spätere Uebersiedelung im
+Sommer 1535? Auch damals wüthete die Pest in Wittenberg, und Lehrer wie
+Studirende begaben sich der gesunderen Luft wegen nach der von Bergen umgebenen
+<pb n="S. 305" url="../DRQI/muther_lagus_305.jpg"/>
+thüringischen Landstadt. Der geordnete Gang der herkömmlichen Vorlesungen war
+unterbrochen, Docenten wie Hörer suchten daher auf ausserordentlichen,
+ungewöhnlichen Wegen ihre Ziele zu verfolgen. So war im Jahre 1527 bei dem
+Aufenthalt der Universität in <name type="place">Schlieben</name> <name type="person">D.
+Johann Apel</name> auf seine "Anwendung der dialektischen
+Kunst auf die Rechtswissenschaft" gekommen. Und jetzt machte Conrad Lagus den
+Anfang mit einem dogmatisch-systematischen Compendium des Civilrechts, welches
+kaum von minderem Gewicht ist, als die Arbeiten Johann Apel's. &md; Wir werden
+unten hierauf zurückkommen, vorläufig wollen wir den einfachen Lebensgang des
+Conrad Lagus verfolgen.</p>
+<p>
+Im Wintersemester 1531/32 finden wir ihn als Decan der Artistenfacultät, er
+promovirte als solcher 12 Magistri (darunter den späteren schwarzburgischen
+Canzler <name type="person">Benedict Reinhard</name>, welcher sich durch seine
+Differentiae iuris civilis et saxonici bekannt gemacht hat); dann bekleidete er
+das Decanat wieder im Sommer 1538, diesmal 14 Magistri promovirend.<note place="foot" n="305.1">Sennert,
+Athenae etc, ed. II p. 122. [<quelle url="http://katalog.ub.uni-heidelberg.de/titel/2184451">Titelaufnahme
+UB
+Heidelberg</quelle>] Es ist unrichtig, wenn behauptet wird, Lagus habe nächst
+<name type="person">Melanchthon</name> die höchsten Promotionszahlen
+erreicht.</note> Eine "Rede über Plato", welche er bei dieser Gelegenheit
+hielt, ist uns noch erhalten.<note place="foot" n="305.2">Oratio de Platone
+habita a Cunrado Lago, cum decemeret titulum Magisterij quibusdam studiosis.
+Anno MDXXXVIII. Vittebergae. 8°. [<quelle url="http://katalog.ub.uni-heidelberg.de/titel/5051152">Titelaufnahme
+UB
+Heidelberg</quelle>]</note> Sie zeichnet sich aus durch gutes Latein, Belesenheit
+in den griechischen und römischen Classikern, und giebt eine Erzählung vom
+Leben und den Schriften des Plato. <name type="person" reg="Melanchthon">Melanthon</name>
+schickte die Rede unter dem 15. Octbr. 1538
+an <name type="person">Everhard Rogge</name> aus <name type="place">Danzig</name>,
+Bürgermeister in <name type="place">Culm</name>.<note place="foot" n="305.3">Corp.
+Reform. ed.
+Bretschneider III p. 588. [<quelle url="http://katalog.ub.uni-heidelberg.de/titel/1446560">Titelaufnahme
+UB
+Heidelberg</quelle>]</note> &md; 1539 wird Lagus unter denjenigen Magistri artium
+aufgeführt, welche "disputirt <pb n="S. 306" url="../DRQI/muther_lagus_306.jpg"/> haben", d.h. ihrer
+Pflicht, die vorschriftsmässigen Disputationen zu leiten, genügten.<note place="foot" n="306.1">Grossherzogl.
+und herzogl. sächsisches Hauptarchiv in
+Weimar Reg. O. Lit. BBB. Fol. 126.</note></p>
+<p>
+Als Consulent in Rechtsangelegenheiten und Advocat erlangte Lagus bald ein
+grosses Ansehen. Hatte er zu reden, so geschah es mit Ernst und Umsicht; beim
+Auseinandersetzen von Streitigkeiten trug er nicht bloss dem Rechtsgefühl und
+der Billigkeit Rechnung, sondern er zeigte auch, wie es zur Humanität sich
+neigenden Naturen eigen ist, ausnehmende Milde, Höflichkeit und Bescheidenheit.
+Höflich und bescheiden setzte er seine Worte nicht bloss bei wichtigen
+Verhandlungen vor öffentlichen Behörden und Richtern, sondern auch bei
+häuslichen Zusammenkünften und in Privatgesprächen. Er erkannte, dass einem
+braven Manne wohlanstehe, beim Urtheilen die Verschiedenheit der Personen und
+Umstände zu berücksichtigen. Zuverlässigkeit, Fleiss, Ausdauer zeichnete seine
+Geschäftsführung aus.<note place="foot" n="306.2">Hoppe, a.a.O. Sign. B 7a
+8.</note></p>
+<p>
+Das Vertrauen, welches er sich erwarb, drückt sich darin aus, dass ihm das Amt
+eines gelehrten Notarius der Universität übertragen wurde. Er musste in dieser
+Eigenschaft bisweilen auch dem Kurfürsten von Sachsen, so wie der Landschaft
+dienstlich sein.<note place="foot" n="306.3">Hauptarchiv in Weimar Reg. O. Lit.
+BBB. Fol. 126.</note></p>
+<p>
+Weit über Wittenberg hinaus verbreitete sich sein Ruf. Als man in Zwickau, der
+Vaterstadt seiner Ehefrau, daran ging, das Stadtrecht zu reformiren, übertrug
+man ihm diese Arbeit. Er vollendete sie zu grosser Zufriedenheit seiner
+Auftraggeber.<note place="foot" n="306.4">Hoppe a.a.O. Sign. B 8.</note></p>
+<p>
+      Wenn nun auch Lagus, wie wir sahen, mancher Erfolge sich erfreuen konnte,
+so nahm er doch bei der Universität eine hervorragende Stellung nicht ein. Er
+selbst spricht sich <pb n="S. 307" url="../DRQI/muther_lagus_307.jpg"/> darüber in späterer
+Zeit folgendermassen aus: "Niemand ist, der zwischen den Jahren 1522-1540 an
+der Hochschule sich aufhielt, der nicht wusste, dass ich dort niemals ein
+öffentliches Lehramt bekleidete, sondern dass ich es nur &md; ich weiss nicht,
+ob es so mein Schicksal bestimmte, oder ob Ungunst der Menschen gegen mich,
+oder meine eigene Nachlässigkeit die Ursache war &md; dazu brachte,
+Privatvorlesungen zu halten."</p>
+<p>
+Es ist sehr wahrscheinlich, dass gewisse reformatorische Ideen bezüglich der
+Unterrichtsmethode, welchen Lagus nachhing, den Grund abgaben, weshalb man ihn
+bei Besetzung der ordentlichen Lehrerstellen überging.</p>
+<p>
+In einem Rescript des Kurfürsten <name type="person">Johann Friedrich von
+Sachsen</name> d. d. Sonnabends nach Galli 1538, allerlei Gebrechen der
+Universität Wittenberg und deren Abstellung betreffend, heisst es: Da sich
+mehrere unterstehen, in iure zu lesen, die zuvor keine ordentliche Schule
+durchgemacht, und sogar gegen die hergebrachte Lehrmethode aufzutreten, so soll
+denselben ihre Anmassung untersagt und ihr etwaiger Ungehorsam dem Kurfürsten
+angezeigt werden.<note place="foot" n="307.1">Muther, Universitäts- und
+Gelehrtenleben S. 299.</note></p>
+<p>
+Wir werden kaum fehlgreifen, wenn wir annehmen, dass die Verordnung
+vorzugsweise gegen Lagus sich richtete. Er war, wie aus dem bereits Erzählten
+sich ergiebt, in der Jurisprudenz Autodidact, sein grosser Einfluss aber auf
+das Studium der Rechte in Wittenberg wird aus dem unten Mitzutheilenden
+hervorgehen.</p>
+<p>
+      Das schon angezogene kurfürstliche Rescript kommt mehrmals auf diejenigen
+Magistri artium, welche mit den Scholares iuris Institutiones lesen und
+dieselben in grammatica und institutiones üben, zurück. Auch bei der
+Bestimmung, dass denselben gestattet sein solle, für ihren Unterricht und ihre
+Aufsicht jährlich 10 Gulden zu berechnen, <pb n="S. 308" url="../DRQI/muther_lagus_308.jpg"/> wird die Bedingung
+hinzugefügt: Doch sollen solche Magistri selbst praeceptores in iure gehört
+haben und ziemlich in Rechten instituirt sein.<note place="foot" n="308.1">Hauptarchiv
+in Weimar R. O. Lit. RR. Fol. 115 116.</note></p>
+<p>
+Diese Verordnung war erlassen nach einer Berathung mit den Seniores der
+Universität: <name type="person">D. Martin Luther</name>, <name type="person">D.
+Justus Jonas</name>, <name type="person">D. Hieronymus
+Schürpf</name>, <name type="person">D. Augustin Schürpf</name> und dem Rector
+des Sommersemesters 1538: <name type="person" reg="Melanchthon">M. Philipp
+Melanthon</name>. In den Acten der Vorverhandlungen ist bezüglich der
+Institutionen lesenden Magistri nur der Kostenpunkt erwähnt, die auf die
+Lehrmethode abzielende Bestimmung muss daher auf privatem Weg bei den
+kurfürstlichen Räthen in Anregung gebracht sein. Vielleicht war es <name type="person">Hieronymus
+Schürpf</name>, welcher den Neuerungen in der Methode
+des Rechtsunterrichts entgegenzuwirken sich verpflichtet fühlte. In der
+kurfürstlichen Canzlei aber waren Männer, wie <name type="person">D. Melchior
+von Osse</name>, bei denen es nicht vielen Mahnens bedurfte, um sie gerade in
+dieser Richtung in Bewegung zu setzen.</p></div>
+
+<div id="T2">
+<p>
+Den elenden Zustand des Rechtsunterrichts auf deutschen Universitäten während
+des ersten Viertels des 16. Jahrhunderts habe ich an anderer Stelle
+geschildert.<note place="foot" n="308.2">Muther a.a.O. S. 234 ff.</note>
+Reformpläne tauchten hie und da auf. Einer der bedeutendsten ist derjenige
+<name type="person">Johann Apel</name>'s, welcher auf eine dogmatische und
+systematische Behandlung der Rechtslehre hinauslief. Auch in dieser Beziehung
+darf ich auf meine frühere Arbeit verweisen.<note place="foot" n="308.3">Muther
+a.a.O. S. 268 ff. 288 ff.</note></p>
+<p>
+      Interessant bleibt es, dass noch vor dem Druck oder kurz nach dem
+Erscheinen von Apel's auf Verbesserung des juristischen Studiums gerichteter
+Hauptschrift (<quelle url="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-31697">Methodica
+dialectices iratio ad iurisprudentiam adcommodata 1535</quelle>) ein <pb n="S. 309" url="../DRQI/muther_lagus_309.jpg"/>
+anderer Wittenberger, eben unser Conrad Lagus, bereits Hand ans Werk legte und
+eine "Methodus" des damaligen gemeinen Rechts verabfasste. Lagus hat dabei von
+Apel's Bestrebungen wahrscheinlich Kenntniss gehabt. Hatte er doch mit
+demselben in Wittenberg längere Zeit zusammengelebt, war doch Apel's Werk noch
+vor der Herausgabe in vielen Abschriften verbreitet worden. Dennoch lässt sich
+nicht sagen, dass Lagus lediglich auf Johann Apel's Schultern stehe: sein Plan
+geht ein gutes Stück über Johann Apel's ursprüngliche Idee hinaus. Während
+dieser das ganze Gewicht auf die dogmatisch-dialectische Behandlung der
+einzelnen Materien legt und erst später zu dem Gedanken einer systematischen
+Verbindung derselben fortschritt, hat Lagus gleich von vorne herein das System
+in den Vordergrund gestellt. Bis dahin hatte man die Quellen des römischen und
+des canonischen Rechts streng getrennt und deren Inhalt im Anschluss an die
+Texteslectüre abgesondert vorgetragen. Lagus zuerst unternahm es, dieselben zu
+einem Ganzen zu verbinden und das durch das canonische Recht modificirte
+römische Recht in einem systematischen Compendium dogmatisch darzustellen.</p>
+<p>
+      Ich glaube nicht zu irren, wenn ich <name type="person" reg="Melanchthon">Melanthon</name>
+als das Vorbild bezeichne, welchem Lagus
+auch in dieser Beziehung nachzueifern bemüht war. Im Jahre 1521 hatte der
+"Lehrer Deutschlands" zum ersten Male seine <quelle url="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00029741-0">Loci
+communes</quelle> erscheinen lassen, eine systematische Zusammenfassung der
+Glaubenslehren, welche als erstes Compendium der evangelischen Dogmatik gelten
+kann. Der grosse Erfolg, welchen diess Buch erzielte, der bedeutende Einfluss,
+welchen dasselbe auf das Studium der Theologie gewann, regte an, für andere
+Fächer, und insonderheit für die Jurisprudenz, Aehnliches zu versuchen.</p>
+<p>
+      Lagus hatte bei seinen Privatvorlesungen über Institutionen nicht
+unbeachtet gelassen, dass dieselben nach Kaiser <pb n="S. 310" url="../DRQI/muther_lagus_310.jpg"/> Justinian's
+Anordnung als systematisches Lehrbuch für den ersten Rechtsunterricht dienen
+sollten. Er ging daher auf die methodus, d.i. das System, des Buches näher ein.
+Diess gab seinen Zuhörern Veranlassung, ihn zu bitten, eine mehr detaillirte
+systematische Ausführung der Rechtslehre, als diejenige der Institutionen ist,
+zu bearbeiten. "Denn es schien diese zu knapp, um daraus ein umfassendes und
+scharfes Bild der gesammten Rechtslehre zu entnehmen, welches den Lernenden
+beim Eingehen auf einzelne Rechtsfragen und deren umfangreiche Literatur
+gleichsam als Wegweiser dienen könnte."<note place="foot" n="310.1">Protestatio
+Sign. A 4b.</note></p>
+<p>
+Lagus konnte seinen Zuhörern nicht Unrecht geben, "da nach dem Urtheil aller
+Gelehrten die methodus der Weg ist, auf welchem durch Sammeln der allgemeinen
+Sätze (communium observationum) irgend einer ganzen Disciplin der Zugang
+geöffnet wird zur Uebung in derselben an Beispielen über einzelne Punkte und
+Fragen, die in der Praxis vorkommen können".<note place="foot" n="310.2">Protestatio
+l. c.</note></p>
+<p>
+Wir entnehmen einer späteren Schrift des Lagus noch folgende Betrachtungen,
+welche ihn geneigt machten, dem Wunsche seiner Schüler zu willfahren.</p>
+<p>
+"Die gebräuchlichen Institutionen-Commentare", sagt er, "enthalten zwar viele
+nützliche und brauchbare Dinge, aber die Verfasser haben sie häufig, um ihr
+Talent oder ihre Gelehrsamkeit zu zeigen, mit den fremdartigsten Materien
+angefüllt. Diess gilt hauptsächlich von den Abschweifungen, welche, sobald sich
+eine entfernte Gelegenheit bei irgend einem Worte zeigt, lediglich um die
+Subtilität im Anknüpfen zu beweisen, beliebt werden. Solche Behandlung der
+Institutionen zerstreut und umflort die Geister der Lernenden; erst auf Umwegen
+und spät erreicht man das Ziel. Doch <pb n="S. 311" url="../DRQI/muther_lagus_311.jpg"/> das ist eine alte
+Klage. <name type="person">Johannes Faber</name> und <name type="person">Panormitanus</name>
+haben sie längst ausgesprochen.</p>
+<p>
+Was die ausführlichere Behandlung der einzelnen Rechtslehren anlangt, so
+knüpfen die Juristen dieselbe an die sogenannten loci ordinarii, d.h. Stellen
+der Rechtsbücher, welche das Herkommen dazu bestimmt, an. Allein jene Stellen
+sind von dem noch Unerfahrenen nicht leicht zu finden, weil bisweilen der
+Ordinarplatz für eine Materie wechselt, oder mitunter eine Lehre an
+verschiedenen Orten behandelt wird. Auch wurden dieselben nie in eine solche
+geordnete Verbindung gebracht, dass aus ihrer Stellung schon die Lernenden
+ersehen könnten, welches der Zusammenhang unter ihnen sei und wie sie in diesem
+gewissermassen ein Compendium der gesammten Rechtslehre darstellen.</p>
+<p>
+Ein Fortschritt in dieser Beziehung ist allerdings in den sogenannten Summen zu
+finden, unter denen die des <name type="person">Azo</name> und <name type="person">Hostiensis</name>
+sich besonders auszeichnen. Allein das
+Bestreben der Summisten ist nicht gewesen, die Rechtsmaterien in gewisse
+Hauptglieder des ganzen Körpers zu vertheilen, sondern sie sind nur bemüht, den
+Inhalt der einzelnen Titel in der nämlicher Ordnung, in welcher sich dieselben
+in dem Codex Justin. und in den Decretalen vorfinden, auf eine didaktische
+(dogmatische) Weise darzustellen. Daher hat man hier mehr Auszüge aus den
+einzelnen Titeln, als ein Rechtssystem (methodum iuris) vor sich."<note place="foot" n="311.1">Protestatio
+Sign. B 1a.</note></p>
+<p>
+Indem Lagus diess in Erwägung zog, liess er sich bestimmen, den Versuch zu
+wagen: "ob die Rechtsmaterien sich in einen Körper vereinigen liessen, an
+welchem der Lernende sofort wahrnehmen könnte, aus welchen Hauptgliedern die
+Rechtswissenschaft und deren System im Allgemeinen bestehe". Wenn jede Materie
+gewissermassen an <pb n="S. 312" url="../DRQI/muther_lagus_312.jpg"/> ihrem Sitz für den
+Herantretenden locirt sei, meinte er, werde schon durch die Stellung auf
+dieselbe mehr Licht geworfen, als es durch den längsten Commentar geschehen
+könne.<note place="foot" n="312.1">Protestatio Sign. B 1b.</note></p>
+<p>
+Den Anfang mit seinem Werk machte Lagus, wie bereits erwähnt, zu Jena. Er
+unternahm es, mit Hülfe eines sehr geringen Büchervorrathes die Lehren vom
+Ursprung des Rechts und von den Personen in einer dogmatisch-systematischen
+Weise darzustellen. Später setzte er in Wittenberg die Arbeit fort. Allein
+obwohl er hier einen ausreichenden literarischen Apparat zur Hand hatte, so
+sollte doch die jetzige Arbeit bloss ein Versuch sein, ob der Grundgedanke
+überhaupt sich realisiren lasse. Deshalb bemühte sich Lagus, rasch zu Ende zu
+kommen, die weitere Ausführung der Zukunft überlassend. Er will daher
+dasjenige, was er zusammenbrachte, mehr als eine Materialiensammlung und rohe
+Formirung des Stoffes als ein vollendetes Werk betrachtet wissen.<note place="foot" n="312.2">Ibid.
+Sign. B 2a f.</note></p>
+<p>
+      Ohne ausreichende Muse &md; denn seine Zeit gehörte dem Erwerb des
+Unterhaltes &md; ohne nennenswerthe Vorarbeiten Anderer &md; denn die erwähnten
+Summae, so wie die bis dahin als Lernbücher dienenden Expositiones sive
+declarationes titulorum, nebst dem <quelle url="http://www.qsensei.com/content/19t63h">Viatorium
+seu directorium
+iuris</quelle> <name type="person" reg="Johannes Berberius">Johannis
+Berberij</name> (verabfasst 1475)<note place="foot" n="HS1">Zu Berberius vgl.
+<quelle url="&drqw;Johannes Berberius">DRQWiki</quelle></note> und den <quelle url="http://daten.digitale-sammlungen.de/~db/bsb00004341/image_1">Compendia
+iuris civilis</quelle> und <quelle url="http://daten.digitale-sammlungen.de/~db/0002/bsb00020195/image_1">canonici</quelle>
+des <name type="person" reg="Tommai, Pietro">Petrus Ravennas</name> sind kaum
+als solche zu betrachten &md; brachte Lagus eine "Summa iuris" oder "Methodus
+iuris" zusammen, welche ihm die Gewissheit gab, dass sein Plan ausführbar
+sei.</p>
+<p>
+Ueber die Schwierigkeit der Arbeit spricht sich Lagus folgendermassen aus:
+<name type="person">Cicero</name> meine, es sei ein Leichtes, das ungeordnete
+(diffusum) und zerstreut liegende (dissipatum) <pb n="S. 313" url="../DRQI/muther_lagus_313.jpg"/> Recht unter gewisse
+Theilungsglieder und so in ein wissenschaftliches System zu bringen.<note place="foot" n="313.1">Lagus
+bezieht sich hier auf die bekannte Stelle Cic. de
+orat. II 33. Er folgt dabei der in älteren Ausgaben durchgehenden Lesart: "ad
+artem facile redacturum". Einen richtigeren Sinn gewinnt die Stelle, wenn man
+mit Neueren die auch handschriftlich beglaubigte Lesart: "ad artem facilem"
+vorzieht.</note> Das würde wahr sein, wenn bloss die Natur der Sache (naturalis
+ratio) in rechtlichen Dingen massgebend wäre. Allein da nicht sowohl diese, als
+das Bedürfniss des Verkehrs den Rechtsinstituten ihre Gestalt gebe, müsse
+anders geurtheilt werden, zumal, wenn man bedenke, wie gross die Reihe der
+Gesetze und Verordnungen des römischen Rechts sei, welches als gemeines Recht
+diene. Zur Zeit Cicero's allerdings habe sich diess anders verhalten, wie schon
+der Ausspruch desselben über die zwölf Tafeln beweise. Da war das Recht kurz,
+klar, einfach und in wenigen Capiteln jenes Gesetzes zusammengefasst. In der
+Gegenwart aber müsse das Corpus iuris civilis in seinen einzelnen
+Bestandtheilen und obendrein das canonische Recht, welches einen nicht geringen
+Theil des bürgerlichen Rechts auf die Normen des göttlichen Rechts zurückführe,
+berücksichtigt werden. Daher dürfte Niemand leugnen, "dass grosse und beinahe
+unüberwindliche Schwierigkeiten dem entgegenstehen, welcher es bei dem weiten
+Umfang und so grosser Verschiedenheit der überlieferten römischen Rechtsquellen
+unternimmt, das Recht in gewisse Hauptstücke zusammenzuziehen, Niemand möchte
+tadeln, dass man für solches Werk viele Muse in Anspruch nimmt".<note place="foot" n="313.2">Alles
+nach Protestatio Sign A 4a ff.</note></p>
+<p>
+      Lagus dictirte das vollendete Werk seinen Zuhörern. Dabei schärfte er
+ihnen nachdrücklich ein, es solle dasselbe lediglich zu ihrem Privatgebrauch
+dienen, Veröffentlichung wünsche er nicht.<pb n="S. 314" url="../DRQI/muther_lagus_314.jpg"/></p>
+<p>
+"Denn ich wusste wohl", sagt er, "dass solche Weise, das Recht zu lehren, allen
+denen verhasst und ridicül sei, welche im Besitz der Katheder und anerkannter
+Autorität an der hergebrachten Methode festhalten. Sie sind in dieselbe so
+verstrickt, dass sie vermeinen, die Rechtslehre lasse sich wegen der
+Verschiedenartigkeit und Verwicklung der einzelnen Lehren überhaupt nicht in
+ein Compendium zusammenfassen. Und eben so befangen urtheilen einige von ihnen
+über die Personen, welche, in humanistischer Schule gebildet, von dem
+ausgetretenen Weg der traditionellen Lehrmethode abzuweichen sich erkühnen: sie
+halten dieselben für untauglich zum Lehramt. Auch kann ein nicht
+oberflächlicher Beobachter der sogenannten öffentlichen Meinung sich nicht
+verhehlen, dass der Haufe der lernenden Juristen dasjenige missachten werde,
+was in der angegebenen Weise gesammelt wurde. Denn jene Menschenclasse wird in
+Folge der Unreife des Alters, oder der Unkenntniss und Vernachlässigung der
+schönen Wissenschaften und Künste, mehr durch anscheinende und leicht
+begreifliche Beispiele angezogen, als durch eine sichere und richtige Methode
+im Betreiben des Studiums."<note place="foot" n="314.1">Protestatio Sign. A
+3b.</note></p>
+<p>
+Werfen wir nunmehr einen Blick auf das System, wie es sich unter den Händen des
+Lagus gestaltete.</p>
+<p>
+Die Rechtslehre zerfällt nach ihm in einen philosophischen und einen
+historischen Theil. Der erstere beschäftigt sich mit Untersuchung der Ursachen
+der bindenden Kraft des Rechts, der andere mit Betrachtung der einzelnen
+Rechtsfiguren (Rechtsinstitute), welche für die Geschäfte des menschlichen
+Verkehrs, für die Ahndung der Verletzungen Anderer die Normen abgeben sollen.
+Jener ist rein philosophisch, d.h. den wahren Grundlagen allen Rechts, insoweit
+der menschliche Verstand sie verfolgen kann, <pb n="S. 315" url="../DRQI/muther_lagus_315.jpg"/> nachforschend,
+dieser historisch, da jene Figuren, obwohl sie gewisse unwandelbare Grundlagen
+haben, doch dem Wechsel unterworfen sind je nach Bedürfniss des Lebens, was
+sich hauptsächlich in Umänderung und Verbesserung der Gesetze zeigt.</p>
+<p>
+Nach diesen einleitenden Bemerkungen (Pars I c. 1) und Darlegung seines Planes
+(P. I c. 2) beginnt Lagus seinen ersten Haupttheil der Rechtslehre. Vom
+natürlichen Recht; vom Recht, welches die öffentliche Gewalt einführt; vom
+Gewohnheitsrecht handeln die folgenden Capitel (P. I c. 3, 4, 5). Dann:
+Eintheilungen des Rechts (P. I c. 6), Anwendbarkeit des Rechts ("de obligatione
+iuris", P. I c. 7), Auslegung und Ergänzung des Rechts. Letztere Lehre
+erstreckt sich über eine Reihe von Capiteln, welche die Ueberschriften tragen:
+Von der Interpretation der Gesetze und Statuten (P. I c. 8) ; von der
+einschränkenden Interpretation der Gesetze und Statuten (P. I c. 9); von der
+ausdehnenden Interpretation der Gesetze und Statuten (P. I c. 10); von der
+Rechtsfiction (P. I c. 11); von den Arten der Allegation der Gesetze (P. I c.
+12); von der Vernunft anstatt des Gesetzes (P. I c. 13); welche von mehreren
+Meinungen im Zweifel vorzuziehen sei (P. I c. 14).</p>
+<p>
+Der historische Theil zerfällt in folgende Unterabtheilungen:
+<list>
+<item>1) Personenrecht (de iure personarum);</item>
+<item>2) von dem Erwerb, der Veräusserung und dem Verlust der Sachen;</item> 
+<item>3) von Verträgen und Obligationen;</item> 
+<item>4) von Klagen und Einreden;</item> 
+<item>5) vom Process (de iudiciis);</item> 
+<item>6) von Privilegien und Rechtswohlthaten.</item></list></p>
+<p>
+Diese "Capita secundae partis" sind in den gedruckten Ausgaben in sofern in
+einige Unordnung gekommen, als nur nr. 1 und 2 unter der Ueberschrift: "Pars
+secunda" <pb n="S. 316" url="../DRQI/muther_lagus_316.jpg"/> stehen, nr. 3, 4, 5 und 6 aber mit resp. Pars tertia, P. quarta, P.
+quinta, P. sexta überschrieben sind. Wir werden beim Citiren den Editionen
+folgen müssen.</p>
+<p>
+Es ist kein unebener Gedanke, dass Lagus die Lehre von der Entstehung des
+Rechtes oder den Rechtsquellen der Rechtsphilosophie zuweist. Denn wenn auch in
+dieser Beziehung das positive Recht Normen aufstellen muss, so kommen dieselben
+doch immer gewissermassen erst in zweiter Linie in Betracht, die
+Hauptuntersuchung muss von dem Wesen des Rechts ausgehen und durch
+Verstandesoperationen die Factoren feststellen, welche zur Rechtserzeugung
+dienen. Dass dagegen die Frage nach den Ordnungen des Verkehrs, welche das
+Gemeinleben der Menschen ermöglichen, auf dem Wege historischer Forschung zu
+beantworten, ist, möchte heut zu Tage keiner besonderen Vertheidigung bedürfen.
+Die Anordnung des historischen Theils ruht im Wesentlichen auf dem römischen
+Institutionensystem, doch nicht ohne Anfänge selbständiger Formation. Wir haben
+hier schon die auch bei Neueren wiederkehrenden Kategorien: Personenrecht,
+Sachenrecht, Obligationenrecht. Nur das Erbrecht als selbständiges Hauptglied
+fehlt und ist nach Vorgang der Römer im Anschluss an das Sachenrecht
+vorgetragen. Dass Actionenrecht und Process als besondere Glieder der
+Privatrechtslehre abgehandelt werden, entspricht dem römischen Muster. Eine
+eigenthümliche Idee aber bleibt es, alles anomale Recht (privilegia und iuris
+beneficia) in einem Abschnitt zusammenzufassen und dem normalen Recht
+gegenüberzusetzen.</p>
+<p>
+Die Darstellung des Einzelnen schliesst sich an die Dogmen der
+mittelalterlichen Italiener an. Deshalb ist das Buch noch heute brauchbar. Wer
+sich rasch über die Gestalt einer Lehre, welche dieselbe unter den Händen der
+Glossatoren und Commentatoren im Grossen und Ganzen gewonnen hatte, belehren
+will, thut am besten, Conrad Lagus <pb n="S. 317" url="../DRQI/muther_lagus_317.jpg"/> nachzuschlagen.
+Ohne viele Mühe wird er wenigstens in so weit sich orientiren, um beurtheilen
+zu können, ob weitere Untersuchung erspriesslich oder nicht. Beispielsweise
+zeige ich hier auf die Lehre von den Naturalobligationen hin, welche Pars III
+c. 2 sich findet. Diese gerade habe ich ausgewählt, weil Lagus an die
+mittelalterliche italienische Doctrin eine eigene Untersuchung knüpft, welche
+beweist, dass Probleme, deren Lösung noch die Gegenwart beschäftigt, schon das
+Nachdenken unseres Autors reizten. Mag Vieles; was wir hier lesen, uns noch so
+befremdlich erscheinen, es bleibt erspriesslich unseren unter dem Einfluss der
+französischen Schule des 16. Jahrhunderts stehenden Dogmen gegenüber, die trotz
+des Scheins der Quellenmässigkeit doch oft sehr willkürlich sind und von der
+römischen Auffassung abweichen, selbständige Gedankengänge kennen zu lernen, zu
+welchen, anknüpfend an die mittelalterliche Doctrin, durch frisches
+Quellenstudium gerade deutsche Juristen des 16. Jahrhunderts nicht selten
+gelangten. Deshalb hat denn das Werk nicht bloss ein dogmengeschichtliches
+Interesse.</p>
+<p>
+Seine treffliche humanistische Bildung verwerthete Lagus in vielen historischen
+Excursen. So findet sich ein Capitel: De mutatione Imperii Romani, und manche
+geschichtliche, antiquarische, philologische Bemerkung nicht ohne Hinweis auf
+die grossen historischen Entwicklungsgänge und die gewaltige Kluft zwischen
+antiken und modernen Anschauungen: diess Alles in der hinlänglich bekannten
+Manier <name type="person" reg="Melanchthon">Melanthon's</name>.</p>
+<p>
+      Auch an gelegentlichen politischen und religiösen Auslassungen fehlt es
+nicht. In ersterer Beziehung erklärt sich Lagus für die Monarchie. Diese hält
+er für die löblichste Staatsform, denn, "wie Manche es gar nicht ungeschickt
+zusammengefasst haben, gleichwie <emph>eine</emph> Sonne ist, welche die Welt
+erleuchtet, so ist es nützlich, dass <emph>ein</emph> Regiment den Erdkreis
+beherrsche. Und es findet sich bei Herodot im 3. Buch eine elegante Discussion
+über die Staatsformen, <pb n="S. 318" url="../DRQI/muther_lagus_318.jpg"/> welche bei den
+Persern geführt wurde, als die Frage entstand, unter was für einem Regiment zu
+leben sei. Schliesslich einigten sich Alle, dass die Monarchie den Vorzug
+verdiene, das, was auch Homer gewollt zu haben scheint mit seinem εις βασιλενς
+εστω. Und die Erfahrung Vieler bezeugt es, dass wegen des Zwiespalts, welcher
+über Regierungsfragen zu entstehen pflegt, es nützlich für die Staaten sei,
+wenn bei einem Einzigen die höchste Gewalt sich befinde, besonders in
+gefahrvollen Zeiten (P. II c. XXII)".</p>
+<p>
+Man vermeine nicht, dass Lagus in dieser Beziehung nur der seiner Zeit
+herrschenden Ansicht nachgehe. Denn gerade die neuerwachte Begeisterung für das
+classische Alterthum bewog Viele, die Demokratie im Princip für die beste
+Regierungsform zu erklären. Ja selbst <name type="person" reg="Melanchthon">Melanthon</name>
+steht nicht an, einer aristokratischen
+Republik (freilich wohl mit besonderem Hinblick auf das deutsche Reich) seinen
+besonderen Beifall zu schenken.</p>
+<p>
+In religiöser Beziehung steht Lagus, wie wir kaum zu erinnern brauchen, auf dem
+Standpunkt der Reformation. Er polemisirt mitunter gegen Einrichtungen und
+Gesetze der römischen Kirche, z.B. gegen das Cölibat (P. I c. 7), gegen den
+Papst (P. VI c. 4 und  5 u. f.) u.s.w., doch warnt er ausdrücklich davor, das
+canonische Recht zu missachten, besonders für das Gerichtswesen sei dasselbe
+sehr wichtig, da seine Processordnung mehr für Beförderung der Rechtspflege
+geeignet erscheine (P. V c. 1).</p>
+<p>
+Die Darstellung des Rechtsganges in Pars V nimmt etwa ein Viertel des Raumes,
+welchen das ganze Werk ausfüllt, ein und geht mehr ins Detail, als manche
+selbständige Schriften über Process. Deshalb wird Lagus mitunter &md; und zwar
+nicht mit Unrecht &md; den Processschriftstellern beigezählt, wenn es auch
+schwer sein möchte, eine abgesondert erschienene "Practica Conradi Lagi", von
+der Manche faseln, nachzuweisen. Ich kann nicht umhin, auf diese Partie <pb n="S. 319" url="../DRQI/muther_lagus_319.jpg"/>
+von Lagus' Buch besonders hinzuzeigen, sie ist dem Besten an die Seite zu
+stellen, was im 16. Jahrhundert über Process geschrieben wurde. Wer sich
+überzeugen will, lese nur das 1. Capitel: De iudiciis eorumque differentiis,
+und in demselben die Auseinandersetzung über iudicia ordinaria, i
+extraordinaria, processus de plano et sine figura iudicii, summatim cognoscere
+u.s.w.<note place="foot" n="319.1">Die ganze vorstehende Ausführung stützt
+sich, wie nicht weiter ausgeführt zu werden braucht, auf Lagus' nachmals unter
+dem Titel "Methodica iuris utriusque traditio" öfter gedrucktes Werk selbst.
+Ich benutzte dabei die Ausgabe : Lugduni apud haeredes Seb. Gryphii. 1562.
+8°.</note></p>
+
+<div id="T3">
+<p>
+Neben seiner Methodus iuris civilis, die wir mit moderner Terminologie als ein
+systematisches Lehrbuch des Pandekten- und Processrechtes bezeichnen dürfen,
+unternahm Lagus noch eine andere Arbeit. Hören wir darüber den späteren
+Herausgeber derselben, <name type="person">D. Joachim Gregorij</name> aus <name type="place">Prietzen</name>
+zu <name type="place">Magdeburg</name>, welcher
+unter dem <datum wert="1597-03-10">10. März 1597</datum> Folgendes schreibt<note place="foot" n="319.2">Compendium
+Iuris Civilis et Saxonici (<quelle url="#Note326.1">s. S. 326 Not. 1</quelle>) in
+der
+Widmungsepistel. [Vgl. das
+digitale <quelle url="&drqs;Lagus,Kompendium(Gregorii) 1597"> Faksimile</quelle> in
+<quelle url="http://www.drqedit.de">DRQEdit</quelle>] </note>:</p>
+<p>
+      "Vor sechtzig Jaren vngefehrlich, hat sich der hochgelahrter Herr
+Cunradus Lagus, der Rechten Doctor vnd Professor in der Vniuersitat zu
+Wittenberg, vber den Sachsenspiegel, Weichbild vnd Lehnrecht gemacht, vnd sich
+zum höchsten beflissen, auss den dreyen vnterschiedenen Büchern Sächsischen
+Rechtens ein Compendium vnd richtigen kurzen ausszug zu begreiffen, in etliche
+gewisse Bücher vnd titulos zu fassen, vnd die zusamen gehörende materias in
+gewisse locos vnd titulos zu redigiren vnd zu vermelden, was in den Texten vnd
+Glossen nit zu finden, das solchs in den gemeynen Kayserlichen Rechten zu
+suchen vnd zu suppliren sey."<pb n="S. 320" url="../DRQI/muther_lagus_320.jpg"/> </p>
+<p>
+Diess Compendium iuris Saxonici ist also um das Jahr 1537, somit nach der
+Methodus iuris civilis, in deutscher Sprache verabfasst. Eine Vergleichung der
+Inhaltsübersichten lehrt, dass Lagus im Grossen und Ganzen das System, welches
+er für den Vortrag des römischen Rechts aufgestellt, auch für die Darstellung
+des sächsischen oder deutschen Rechts, wie wir sagen würden, beibehält. Lagus
+selbst deutet in der Vorrede: "Die weise zu studiren im Rechten" seinen Plan
+an:</p>
+<p>
+"Hierumb so ist es mein fürsatz, die gemeinen Fälle des Sächsischen Rechts
+gegen dem Keyserlichen geschriebenen Rechten zuuergleichen vnd anzuzeigen, wo
+sie von denen gesondert, vnd wil das thun nach ordentlicher art vnd weise, wie
+sie an jhnen selbst zu handeln seind."</p>
+<p>
+Dann folgt die Uebersicht der "Capittel der Hauptsachen in den Rechten":
+<list>
+<item>I. "Wie die Rechten auffkommen, oder auffgehoben werden" (De origine et
+abolitione).</item>
+<item>II. "Wie eine Person vber die andere ein Recht gewinne" (De iure
+personarum).</item>
+<item>III. "Wie einer des andern Gut zu eigen oder ein Recht daran vberkomme"
+(De iure rerum et modis acquirendi Dominia et possessiones rerum).</item>
+<item>IV. "Aus was Handlungen die leut, vnter einander verbunden werden, oder
+in eine verpflichtung fallen" (De pactis et obligationibus).</item>
+<item>V. "Von Misshandlungen in gemein" (De delictis in genere).</item>
+<item>VI. "Was oder welcher gestalt einer vor Gericht sich beklagen (oder
+schützen) möge" (De iure actionum).</item></list></p>
+<p>
+Den hier angedeuteten "Capitteln" entsprechen in der Ausführung selbst die
+Bücherüberschriften.
+      <pb n="S. 321" url="../DRQI/muther_lagus_321.jpg"/> </p>
+<p>
+Buch I zerfällt in 5 Titel.
+<list>
+<item>Tit. 1: "Von des Rechts Handeln vnnd Vrsachen" giebt einen kurzen Auszug
+aus den ersten Capiteln des philosophischen Theils der Methodus.</item>
+<item>Tit. 2: "Wie aus dem angebornen vornemen des Rechten, ein Recht erwachse"
+(in margine: "Quomodo natura ius constituatur") entspricht dem 3. Capitel des
+ersten Haupttheils der Methodus.</item>
+<item>Tit. 3: "Wie aus befehl der Obrigkeit ein Recht komme", correspondirt
+Method. I c. 4: "Quomodo instituatur ius auctoritate publica".</item>
+<item>Tit. 4: "Wie ein Recht aus alter gewonheit entstehe" giebt den Inhalt von
+Method. I c. 5: "Ex consuetudine quomodo ius oriatur".</item>
+<item>Tit. 5: "Wie weit sich ein jedes Recht erstrecke" behandelt das, was in
+der Method. I c. 7, unter der Ueberschrift: "De obligatione iuris" (s. oben)
+vorgetragen ist.</item>
+<item>Die in der Methodus nun folgende Lehre von der Interpretation fehlt in
+dem Compend. iuris Saxonici.</item></list></p>
+<p>
+Das "Ander Buch" enthält in Tit. 1: eine "Vorrede auff die Fünff folgende
+Bücher der Hauptsachen im Rechte". Unser Autor macht darauf aufmerksam:</p>
+<p>
+      "Das in allen den Capitteln oder Titeln, die hernach folgen, die Rechte
+nicht dargethan oder gesatzt werden, wie sie am billichsten seyn sollten,
+Sondern wie sie die Sachsen jhnen gewillkört haben, vnd durch die Römischen
+Keyser neben dem gemeinen Recht des Reichs jhnen aus gnaden nachgelassen sein
+worden." Daher soll bloss angezeigt werden, was der Text des Sachsenspiegels
+und Weichbildes dargiebt. Was die Glossen hie und da zur Erfüllung des
+sächsischen Rechtes dazu setzen, soll nicht berücksichtigt werden, "damit wir
+nicht, wie man sagt, das hundert in das tausend werfen, vnd die gemeinen <pb n="S. 322" url="../DRQI/muther_lagus_322.jpg"/>
+Keyser-Rechte mit den Sechsischen vermischen". Wo aber die Glosse das
+sächsische Recht erklärt, soll sie dankbarst benutzt werden.</p>
+<p>
+Daraus ergiebt sich, dass der Titel: "Compendium iuris Civilis et Saxonici",
+welchen Joachim Gregorij wählt, in soweit er des Civilrechts, d.i. des
+römischen Rechts gedenkt, falsch, und wohl nur aus Speculation also gefasst
+ist. Der unrichtige Titel hat übrigens zu dem allgemeinen Irrthum geführt, das
+von Gregorij herausgegebene Compendium enthalte nur eine Uebersetzung oder
+deutsche Bearbeitung der Methodus, so dass man beide Werke höchst verkehrter
+Weise identificirte.</p>
+<p>
+Der Inhalt der folgenden Titel des zweiten Buches des Compendium ist folgender:
+<list>
+<item>Tit. 2: "Wie eine Person vber die ander ein Recht gewinne in
+gemein."</item>
+<item>Tit. 3: Väterliche Gewalt.</item>
+<item>Tit. 4: Vormundschaft.</item>
+<item>Tit. 5: Von der Herren Gewalt.</item>
+<item>Tit. 6: "Von mancherley Stenden der Personen."</item> 
+<item>Tit. 7: "Von vnrechten vnd Ehrlosen Leuten."</item>
+<item>Tit. 8: "Von weltlicher Herrschaft."</item>
+<item>Tit. 9: "Von Geistlichen Obrigkeiten."</item>
+</list></p>
+<p>
+Das "Dritte Buch" ist überschrieben: "Von der Güter Recht oder Eigenthumb vnd
+Gewehr etc."
+<list>
+<item>Tit. 1: "Wie einer ein Gut zu Eigen, oder ein Recht daran bekomme, nach
+aller Welt Recht."</item>
+<item>Tit. 2: "Von der vorjährung"</item>
+<item>Tit. 3: "Von Ubergaben oder Geschencken."</item>
+<item>Tit. 4: "Von Erbgerechtigkeit."</item>
+<item>Tit. 5: "Von den Gliedern der Sippschaft oder derselbigen Erbnemung." In
+diesen Titel ist eingefügt: "Delineatio Saxonicae cognationis. Folget der Baum
+der angebornen Magschafft, vnd des angebornen Geblüts, nach gemeiner
+sechsischer sprach."
+      <pb n="S. 323" url="../DRQI/muther_lagus_323.jpg"/> </item> 
+<item>Tit. 6: "Von den Diensten der Güter."</item></list></p>
+<p>
+"Das Vierde Buch": "Von Verpflichtungen" etc. hat folgende Titel:
+<list>
+<item>Tit. 1: "Von Verpflichtungen in gemein."</item>
+<item>Tit. 2: "Von Gelübden in gemein."</item>
+<item>Tit. 3: "Vom Leihen vnd Borgen."</item>
+<item>Tit. 4: "Von Dingen, die zu getrewen Henden oder Pfande gegeben
+werden."</item>
+<item>Tit. 5: "Von Handgelübden vnd Bürgschafften."</item>
+<item>Tit. 6: "Von Brieffen."</item>
+<item>Tit. 7: "Von Keuffen und Verkeuffen."</item>
+<item>Tit. 8: "Von Mieten, Vermieten vnd Erbzins."</item>
+<item>Tit. 9: "Von Gesellschaften."</item>
+<item>Tit. 10: "Von der Ehe" ("Die Ehe ist in viel Stücken gleich einer
+Gesellschaft").</item>
+<item>Tit. 11: "Von Befehlich vnd Vollmachten."</item>
+<item>Tit. 12: "Von vngenandten Gedingshandlungen" ("Hiervon ordnen die
+Sechsischen Rechte nichts." Es sind die Innominat-Contracte gemeint).</item>
+<item>Tit. 13: "Von Pflicht der Handelungen, die ohne Geding die Leute binden"
+(Quasicontracte).</item></list></p>
+<p>
+Das "Fünfte Buch".
+<list>
+<item>Tit. 1: "Von Misshandelungen im gemein."</item>
+<item>Tit. 2: "Von Gotteslesterung."</item>
+<item>Tit. 3: "Von Trewlosen Leuten."</item>
+<item>Tit. 4: "Von Todtschlegern vnd Mördern."</item>
+<item>Tit. 5: "Von Freuelern vnd Friedebrechern."</item> 
+<item>Tit. 6: "Von Ehebruch vnd Hurerey."</item>
+<item>Tit. 7: "Von Dieberei vnd Reuberey."</item>
+<item>Tit. 8: "Von denen, die da fälschlich andere mit worten
+beschweren."</item>
+<item>Tit. 9: "Von denen, die mit bösen Begierden den andern hindern."
+      <pb n="S. 324" n2="S. 320" url="../DRQI/muther_lagus_320.jpg"/> </item>
+<item>Tit. 10: "Von Misshandelungen, die nicht am Leibe gestrafft
+werden."</item>
+<item>Tit. 11: "Von vnterscheid der straffen, die nicht an den Leib
+gehen."</item>
+<item>Tit. 12: "Von Kindern, die sich gegen jhren Eltern veruntrewen."</item>
+<item>Tit. 13: "Von Nothwere."</item>
+<item>Tit. 14: "Von verbüssung der wunden vnd schlege."</item>
+<item>Tit. 15: "Von Schaden, die einem durch eines andern verwarlosung
+wiederfaren."</item>
+<item>Tit. 16: "Von Schaden, die eines Leuthe oder Viehe einem thun."</item>
+<item>Tit. 17: "Von Schaden, den Kinder vnd Sinlose Leuthe thun."</item>
+<item>Tit. 18: "Von denen, die sich fremder Güter vnterwinden, mit eigner
+Gewalt, vnter dem schein, als stehen sie jhnen zue."</item>
+<item>Tit. 19: "Von Argelist."</item>
+<item>Tit. 20: "Von unbenandten Misshandlungen."</item>
+<item>Tit. 21: "Von Verpflichtung, die aus blosser ordnung der Rechte
+kompt."</item></list></p>
+<p>
+"Das Sechste Buch."
+<list>
+<item>Tit. 1: "Die Vorrede."</item>
+<item>Tit. 2: "Von gemeiner form aller Rechtlichen Klagen vnd derern
+vnterscheidt."</item>
+<item>Tit. 3: "Von gemeinen vrsachen aller Klagen."</item>
+<item>Tit. 4: "Von klagen insonderheit."</item>
+<item>Tit. 5: "Wie einer das seine, von wegen seines Eigenthumbs, von dem, der
+es in seiner gewehr, oder verwahrung hat, fordern mag."</item>
+<item>Tit. 6: "Wie einer mit dem andern vmb die gewehr seines vermeinten Guths
+zu Rechte gehen möge."</item>
+<item>Tit. 7: "Welche Klage der andern solle vorgezogen werden, wenn man beyde,
+vmb das Eigenthumb vnd vmb die gewehr zu rechten hat."
+      <pb n="S. 325" url="../DRQI/muther_lagus_325.jpg"/> </item> 
+<item>Tit. 8: "Wie einer vmb das vnuolkomliche eigenthumb seines wolgewonnen
+Guts rechten möge."</item>
+<item>Tit. 9: "Wie man vmb gedingte oder verwirckte pflicht, einen zu Rechte
+fürnemen möge."</item>
+<item>Tit. 10: "Wie einer von dem andern begeren müge jhres gesambten guts
+theylung."</item>
+<item>Tit. 11: "Wie vmb Marckscheiden geklagt möge werden."</item>
+<item>Tit. 12: "Durch was Klage einer möge gewiss gemacht werden, dess das er
+suchet, so er zweifelt, was er eigentlich bitten möge."</item>
+<item>Tit. 13: "In was Fällen sonderliche Klage zu Rechte geordnet oder
+nicht."</item>
+<item>Tit. 14: "Wie von wegen der Gewalt vber eine gemeine eine klage erhoben
+möge werden."</item>
+<item>Tit. 15: "Was sonderlicher klagen von wegen der gewalt, die einer vor
+sich selbst, vber einer andern person gewonnen, erhoben mögen werden."</item>
+<item>Tit. 16: "Wie vmb Güter, die wir nach aller welt Recht weyse bekommen,
+gerechtet werde."</item>
+<item>Tit. 17: "Wenn einer von wegen der verjährung ein gut ansprechen möge vor
+das seine oder nicht."</item>
+<item>Tit. 18: "Wie man vmb gegebene Güter rechten möge."</item>
+<item>Tit. 19: "Was vor klagen vmb angestorben Erbe mögen vorgenommen
+werden."</item>
+<item>Tit. 20: "Wie vmb Dienste der Güter gerechtet werde."</item>
+<item>Tit. 21: "Wie vmb schuldt und geliechen Ding geklagt werde."</item>
+<item>Tit. 22: "Wie vmb vertrawet Gut vnd pfandt geklaget werde."</item>
+<item>Tit. 23: "Wie vmb Handgelübte vnd Bürgschafft geklagt werde."</item>
+<item>Tit. 24: "Wie vmb kauff vnd Miethe geklagt werde."</item>
+      <item>Tit. 25: "Wie vmb Misshandlunge vnd vngerichte möge geklaget
+werden."</item></list><pb n="S. 326" url="../DRQI/muther_lagus_326.jpg"/> </p>
+<p>
+      Diess der Inhalt des Compendium iuris Saxonici. Nicht ohne Grund haben
+wir uns so lange bei dieser Uebersicht verweilt, denn abgesehen davon, dass die
+Exemplare des Buches recht selten geworden zu sein scheinen<note place="foot" n="326.1">Ich
+habe ein Exemplar der <quelle url="http://www.gbv.de/du/services/gLink/vd17/3:308953C_001,800,600">Ausgabe
+von 1603</quelle> benutzt, welches auf der Erlanger Bibliothek (A. 7. 384. 4)
+sich befindet.</note>, so beansprucht der erste Versuch, das sächsische Recht
+in die römischen Kategorien methodisch einzuordnen, und dabei principiell alles
+aus nichtsächsischen Quellen entstammende Recht auszuschliessen, unser
+besonderes Interesse. Lagus erscheint auch in dieser Beziehung als Vorläufer
+der Gegenwart, wenn auch aus seinem Werke direct gewiss nur wenige der modernen
+Germanisten geschöpft haben.</p>
+<p>
+      Was die Behandlung der einzelnen Lehren anbetrifft, so haben wir es im
+Wesentlichen nur mit einer Zusammenstellung des häufig missverstandenen
+Quelleninhalts zu thun. Das dogmengeschichtliche Interesse möchte nicht
+allzuhoch anzuschlagen sein. Diess thut jedoch der Bedeutung des Buches keinen
+Abbruch. Es wird heut zu Tage Niemandem einfallen, daraus deutsches oder
+sächsisches Recht lernen zu wollen. Wohl aber ist es von hohem Belang, dass
+geraume Zeit vor <quelle url="http://de.wikipedia.org/wiki/Georg_Beyer">Georg
+Beyer</quelle> († 1714) ein erst in vielen Abschriften verbreitetes, dann zu
+Ausgang des 16. und zu Anfang des 17. Jahrhunderts mehrfach gedrucktes
+systematisches Lehrbuch des deutschen Rechtes aus den sächsischen Quellen
+existirte.</p></div>
+
+<div id="T4">
+<p>
+Wir kehren zum Lebenslauf des Verfassers der eben besprochenen Arbeiten
+zurück.</p>
+<p>
+      Von Lagus' Beschäftigung mit juristischer Praxis und dem Ruhme, welchen
+er als Consulent erlangte, ist bereits die Rede gewesen. Als nun die Stadt
+Danzig im Jahre 1538 eines Syndicus bedürftig war, schickte sie ihren <pb n="S. 327" url="../DRQI/muther_lagus_327.jpg"/>
+Secretär, <name type="person">M. Georgius Donner</name>, nach Wittenberg, um
+dort nach einer passenden Persönlichkeit sich umzusehen. Durch <name type="person" reg="Philipp Melanchthon">Philipp
+Melanthon</name> wurde Donner's
+Aufmerksamkeit auf Conrad Lagus gelenkt. Die hierauf angeknüpften, erst
+mündlich, dann schriftlich gepflogenen Unterhandlungen führten zu keinem
+definitiven Abschluss. Lagus versprach nur, sich nach Danzig zu begeben und
+dort dem Rathe vorzustellen.</p>
+<p>
+Als aber drei Vierteljahre verflossen waren, ohne dass Lagus die Reise
+unternahm, erliess unter dem <datum wert="1539-03-29">29. März 1539</datum> der
+Danziger Rath an ihn ein Schreiben<note place="foot" n="327.1">Danziger Archiv:
+Libri Missivarum 1537/39. Fol. 393. &md; Herrn <name type="person">Prof. Dr.
+Theodor Hirsch</name> (jetzt in <name type="place">Greifswald</name>) verdanke
+ich die abschriftliche Mittheilung.</note>, worin der Verabredung: "Das sich E.
+Achtpar.ᵗ das erste als müglich hieheer vorferttigen, sich mit unns sehenn und
+weyther ein notigk vornemen auf eine ezcliche Condition (die ihrer persoen
+nutzlich und alszo ferner unser gemeynen Stadt zcirlich sein muchte) mit unns
+zcu haben" gedacht wird. Daran knüpft der Rath das Ansinnen: E. Achtpar.ᵗ
+"wolle unns nicht lenger auffhaltenn, szunder sich zcu disser farth mit den
+unsern<note place="foot" n="327.2">Damit sind wohl Danziger Messkaufleute
+gemeint.</note>, und im fall, do sie es unsicherheit halben nicht thuen
+dorffte, sich auff unser kosten mit etzlichen Rewtheren bisz in die Orther, dar
+sich E. Ach.ᵗ W. forth mehr keiner unvorhofften zcufelle zcu befhahen habe,
+vorsehen und also hieheer begeben wolle: sich darop mit unns zcu beredenn auch
+gelegenheit unser stadtt unnd eigentschafft der gemeynen eynwhoner antzumerkenn
+und alsso ferner bey einander seinde beider seits notturft unnd obligen bewoge
+und was sunst zcu solcher Condition von nothen alles mit fleiss beredt und
+bedocht werden moge".</p>
+<p>
+      Ob Lagus sich nun nach Danzig verfügte oder ob die weiteren Verhandlungen
+schriftlich geführt wurden, ist nicht <pb n="S. 328" url="../DRQI/muther_lagus_328.jpg"/>	ersichtlich. Wir
+wissen nur, dass der Rath der Stadt Danzig unter dem <datum wert="1539-06-17">17.
+Juni 1539</datum> eine Bestallung für Lagus ausfertigen
+liess, aus der wir Folgendes hervorheben:</p>
+<p>
+      "Wiewol seine Erbarheit, uns auf sulchs hett anzeigen lassen die
+stattliche Besoldunge und Zugänge so er bei der Universitaet zu Wittenberg
+hätte, welche zu begeben Ihme beschwerlich, und sunderlich diweil er keine
+Ursach hätte, warumb Er sich derselbigen mit Billigkeit begeben möchte; dennoch
+angesehen seines vielgeliebten Herrn Praeceptoris <name type="person" reg="Philipp Melanchthon">Philippi
+Melanchtonis</name> Raht und bewegen, wie
+och eines Erbahren Rahts dieser Königlichen Stadt freundl. Anlangen, hätte er
+sich entschlossen, 2 Jahre dieser Königlichen Stadt und einem Erbahren Raht
+derselbigen zu dienen ... Hier entkegen hatte gemeldter Herr Magister vor sich
+bedinget und ausberedt: dass er och sich in keine offentliche Contention diese
+oder jehne Religion zu erhalten keine Wege einlassen will, als welches seiner
+Vocation, als der Jura und nicht Theologiam profitiret hat, entkegen ist.
+Hiemit aber will er sich nicht entziehen dieser gutten Stadt und E. Ehrbahren
+Rahts Notturftt zu reden, so viel als ihme aus gemeinem Beschluss Eines
+ehrbaren Rahts im Befehl möge gegeben werden, vor Königl. Mayt. und sunst alles
+darin zu reden, do E. Ehrbar Raht in Sachen der Religion angefochten möchte
+werden. Zum dritten, weil obgemeldter Magister Conradus in Bluttsachen bisz
+anhero von keinem Fürsten oder Potentaten sich zu gebrauchen hat bewegen
+lassen, will Er sich das och vor Gerichte vor Jedermäniglich zustehen und in
+keinen Miszthaten zur rechtlichen Straffe zu verfordern gäntzlich entschlagen
+und begeben haben. Im Fall aber, do die Stadt von einem offenbahren Feinde
+angefochten wurde, über sölch einen zu klagen und alle Nohtdurft der Staat
+wieder denselben offentlich zu reden, wil er sich och bisz auf Verhafftungen
+desselbigen nicht ausziehen. Da aber ein solcher in Verhafftunge <pb n="S. 329" url="../DRQI/muther_lagus_329.jpg"/> gebracht und
+alsdann weiter peinliche Straffe vor Gerichte über denselbigen zu fürdern nötig
+sein würde, dieweil zu sulcher Furderunge die rechte Procuratores verordnen und
+benennen, wil er sich als das seinem Beruffe und Stande von Nachtheil ist,
+nicht verpflichten. Den Procuratoren aber, so ein Erb. Raht zu sulchen Handelen
+bekommen, sol dennoch seine Erbarh. mit Raht und Schrift wasz zu derselbigen
+peinlichen Furderunge nötig sein wurde Aufsatz zu setzen und zu unterrichten
+pflichtig sein ... Hierneben hat sich och obgemeldter Herr Magister versprochen
+Unser Jugend oder sunst, die solches zu hören begierig seyn werden, eine
+Lection in den Rechten zu thuende, zu gelegenen Zeiten und Stellen, do er sich
+sulches nach seiner und eines Erb. Rahts Bedenken und Gelegenheit bereden
+wird."<note place="foot" n="329.1">Vgl. Preussische Sammlung a.a.O. S. 118-121.
+Leider kann ich einen genaueren und vollständigeren Abdruck der Bestallung
+nicht darbieten. Herr Prof. Dr. Th. Hirsch hat im Danziger Archiv nach
+derselben gesucht, sie war aber nicht aufzufinden.</note></p>
+<p>
+Aber Lagus zögerte immer noch, nach Danzig überzusiedeln. Am ersten Ostertag
+des Jahres 1540 richtete er von Wittenberg aus ein Entschuldigungsschreiben an
+den Danziger Rath, welches wir hier in extenso mitzutheilen nicht unterlassen
+können.<note place="foot" n="329.2">Nach einer durch die Güte des Herrn Prof.
+Dr. Th. Hirsch mir aus dem Danziger Archiv (Acta Internunciorum 1539/40)
+zugekommenen Abschrift.</note> Es lautet:</p>
+<p>
+      Meyne gefliessene dienste zuuor, gestrengen ehrnfesten, erbarn wolweyse
+groszgünstige lieben herren. Ich hab E. W. schriefftliches begeren neben des
+gestrengen herrn <name type="person">Hansen von Werden</name> schreyben yres
+inhalts gnugsam vornumen. Und wue ich eyniges weges hette vormocht sollchem
+yrem begeren unnd schreyben nachzwkommen, so solt E. W. mich gancz bereyt darzw
+befunden haben. Es hatt aber <pb n="S. 330" url="../DRQI/muther_lagus_330.jpg"/>	E. W. gesandter
+fuhrman gesehen, wie übel meyn weyb unnd kindelleyn dieses mal yrer krangkheyt
+halben zw wandern geschigkt gewesszt, also das, wen ich gleych sunst keyne
+hinderung gehabt, ich mit ynen mich auff den wegk nicht hatte kunnen begeben
+ane grossze gefahr yrer geszuntheyt zw vorlieren daruber.</p>
+<p>
+      Zw dem so haben die sterbens leuffte, die den wintter über allhie
+gewesen, die herren der Juristenfacultet also zurstrewet gehabt, das ich yrer
+vorsamlung nicht eh hab kunnen haben unnd in yrer gegenwartt künnen disputiren
+pro gradu doctoratus dan auff den nechst vorschienen freyttag nach letare.
+Derwegen sie dan auch meyner promotion zwgewartten entschlosszen allerst zw
+auszgange des Leypzischen margktes. Unnd sintemal die nicht eynheymisch, die am
+meysten darzw zw thun dieses mal haben, mag sollche yre entschliessung nicht
+hinttergangen adder die malzeyt, die darauff gehaltten nicht anderst
+angeschlagen werden, umb yrer bestellung willen mit wiltprett unnd anderer
+notturfft, die hie schwerlich auff eyne eyl zw bekommen ist. Derhalben so hab
+ich den fuhrman darauff zw wartten nicht wollen auffhaltten, sondern ym
+auffgeladen das er auff seynen wegen hatt künnen bringen. Ich wöllt ym woll
+alles auffgeladen haben, das ich bedacht auff dieses mal mit myr zw nemen, wan
+grösser gefessz auff seynen wagen zw seczen gewesszt wer, damit E. W. die
+unkosten nicht vorgebens gethan hette mit ym. Nachdem auch E. W. gewillt, das
+ich yn alhie und auff dem wege, so ich mit ym gezogen, vorzehrete, so habe ich
+vor yn in der herbergk geben vier fl. VI gr. unnd IIII pf. unnd zur zehrung
+auff dem wege sechs tahler. Unnd bitte E. W. wollen mith angezeygter
+verhinderung halben entschuldiget nenten, das ich auff dieses mal mit ym nicht
+zw E. W. kommen bin. So ferne mich gottes gewaldt nicht verhindern wirdt, so
+will ich auff den vierden odder drietten tag vor pfingsten zw eynes erbarn
+Radts geschigkten gen <pb n="S. 331" url="../DRQI/muther_lagus_331.jpg"/> <name type="place">Stetin</name> mich verfügen mit meynem
+gesindleyn.
+Unnd sintemal
+E. W. begeren, das ich mich alda von meynem armen heuffleyn scheyde, so bitte
+ich eyn erbar Radt, wöll umbeschweret seyn, yemandes mit yren geschigkten dahyn
+abzwferttigen, der meyn weyb unnd kinderleyn follents bisz gen Danczig beleyte,
+auff das sie one mich nicht gancz elendiglich in umbekantten landen unvorwusszt
+der weg und gelegenheyt der herbergen ziehen müsszen. Das verdiene ich umb E.
+W. über meyne pflicht, damit ich eynem erbarn Radte zwgethan nach allem meynem
+vormügen willig unnd fleyssiglich. Hiemit befehle ich E. W. dem schucze des
+almechtigen. Gegeben zw Wittenbergk am ostertage im xl. iahr.<lb/>
+		  E. E. H.<lb/>
+		  Diener<lb/>
+		  Conradus Lagus.<lb/></p>
+<p>
+      Nunmehr wurde es mit dem Abzug von Wittenberg Ernst. Wie es in dem
+mitgetheilten Schreiben angekündigt war, geschah es. Nachdem Lagus zum Doctor
+beider Rechte promovirt wart<note place="foot" n="331.1">Lagus' Name fehlt zwar
+in den mir bekannten gedruckten und handschriftlichen Verzeichnissen der in
+Wittenberg promovirten Doctoren, allein jene sind überhaupt unvollständig und
+wenig zuverlässig.</note>, verliess er mit den Seinigen um Pfingsten
+Wittenberg. In Stettin trennte er sich von seiner Familie. Diese zog ostwärts
+gen Danzig, er schlug auf Befehl seiner neuen Herren den Weg nach <name type="place">Lübeck</name>
+ein. Damals suchten die Danziger Ersatz des
+Schadens, den sie durch die Lübecker zur See erlitten hatten. Eine Danziger
+Gesandtschaft war zu diesem Behufe im Monat Mai des Jahres 1540 bei der
+"hansaverwandten Zusammenkunft" zu Lübeck erschienen. Lagus wurde den Danziger
+"Sendboten" beigeordnet. Die Verhandlungen zogen sich durch beider Parteien
+Rede und Widerrede bis Anfangs Juli hin.<note place="foot" n="331.2">Nach G.
+Lengnich, Geschichte der preussischen Lande I 216.</note> Zwei	<pb n="S. 332" url="../DRQI/muther_lagus_332.jpg"/>  Briefe des
+Lagus aus Lübeck an den Rath in Danzig vom <datum wert="1540-06-23">23.
+Juni</datum> und <datum wert="1540-07-03">3. Juli 1540</datum> befinden sich noch
+im Danziger Archiv.<note place="foot" n="332.1">Mittheilung von Prof. Dr.
+Hirsch.</note> Um jene Zeit war die Danzig-Lübecker Sache spruchreif. Allein
+die Versammlung der Hansaverwandten schritt nicht sofort zur Fällung des
+Urtheils, sondern fand es für gut, die von <name type="place">Bremen</name>,
+<name type="place">Rostock</name>, <name type="place">Lüneburg</name> und <name type="place">Stettin</name>
+zu Schiedsrichtern zu ernennen. Vor diesen sollte
+ein schriftliches Verfahren bis zur Quadruplik stattfinden und dann ein
+unbedingt bindender Spruch erfolgen. Diess Resultat entsprach den Wünschen der
+Danziger Abgesandten nicht, und sie zogen es vor, mit den Lübeckern einen
+Vergleich zu schliessen, kraft dessen die Letzteren eine Entschädigungssumme
+von 8000 Mark Lübisch innerhalb zehn Jahren (jedes Jahr 800 Mark) zu zahlen
+hatten.<note place="foot" n="332.2">Lengnich a.a.O.</note></p>
+ <p>
+       Nunmehr folgte Lagus den Seinigen nach der nordischen Stadt, welche
+dort, wo unabsehbare, mit blinkenden Wohnungsstätten besäete Ebene zum
+grünbewaldeten Hügelland emporsteigt, wo das rege Leben des mächtigen Stromes
+zum Ausgang in den dunkelfarbigen Hintergrund des ewigen Meeres eilt, im
+Schmuck erhabener Kunst sich erhebt, durch den Ernst und die Zierlichkeit ihrer
+Bauten nicht minder als durch die Anmuth der Umgebung, wie vor Alters, so noch
+heute, den Sinn des Beschauers fesselnd, dessen Erinnerung bei ihr zu weilen
+stets von Neuem geneigt ist. Lagus wurde ehrenvoll ("magna gratulatione totius
+civitatis propter salutem publicam") empfangen.<note place="foot" n="332.3">Hoppe
+Sign. B 8.</note> Bald wusste er sich grosses Ansehen und
+allgemeine Gunst zu erwerben. "Man suchte sein Haus, wie ein Orakel, wenn er
+daheim war", sagt einer seiner Biographen<note place="foot" n="332.4">In der
+Preussischen Sammlung a.a.O. S. 122.</note>, "er war so beliebt, dass man ihn
+für einen Mann vom Himmel gesendet <pb n="S. 333" url="../DRQI/muther_lagus_333.jpg"/>	ansah", der
+andere.<note place="foot" n="333.1">Hoppe a.a.O.</note> Hervorgehoben wird
+seine intime Freundschaft mit dem Danziger Rathspräsidenten <name type="person">Ritter
+Johann von Werden</name>.<note place="foot" n="333.2">Johanni de Werden
+"Gedanensis
+Reipublicae Administratori primario"
+ist Hoppe's Oratio funebris gewidmet.</note> Darauf gründet sich die
+Vermuthung, dass Lagus nicht ohne Antheil gewesen sei an Fortpflanzung der
+evangelischen Wahrheit in Danzig.<note place="foot" n="333.3">Preussische
+Sammlung a.a.O. S. 124.</note></p>
+<p>
+      Die amtliche Stellung des Lagus als Syndicus brachte es mit sich, dass
+er, um wichtigen Verhandlungen Namens der Stadt beizuwohnen, vielfach verreisen
+musste. So finden wir ihn im November 1541 zu <name type="place">Marienburg</name>.<note place="foot" n="333.4">Briefe
+von Lagus
+aus Marienburg vom <datum wert="1541-11-26">26.</datum> und <datum wert="1541-11-30">30.
+November 1541</datum> befinden sich im Danziger Archiv.
+Mittheilung von Hirsch.</note> Von da begab er sich nebst einem Rathmann nach
+<name type="place">Königsberg</name>, um nach gehabter Audienz bei <name type="person">Herzog
+Albrecht in Preussen</name> und gepflogener Unterhandlung
+mit dem Rath der Stadt, die Reise nach <name type="place">Wilna</name>
+fortzusetzen.<note place="foot" n="333.5">Lengnich I S. 234.</note> Dort langte
+man am <datum wert="1542-01-07">7. Januar 1542</datum> an, suchte beim
+polnischen Hof durchzusetzen, dass die littauischen Zölle wieder auf den alten
+Fuss gebracht würden, aber vergeblich, und kehrte dann nach Danzig zurück.<note place="foot" n="333.6">Lengnich
+a.a.O. Ein Brief des Lagus aus Wilna vom <datum wert="1542-01-23">23. Januar
+1542</datum>
+im Danziger Archiv. Mittheilung von
+Hirsch.</note></p>
+<p>
+      Auf dem Landtage zu Marienburg wurde 1542 eine Revision des Culmschen
+Rechtes in Anregung gebracht. Eine Commission, bestehend aus dem Canzler des
+Bischofs zu <name type="place">Culm</name>, dem Woywoden von Marienburg, "der
+in alten Landesgebräuchen grosse Erfahrenheit hatte", und Conrad Lagus, sollte
+in Marienburg Montags nach Johannis (<datum wert="1542-06-26">26. Juni</datum>)
+zusammentreten, um die Arbeit in Angriff zu nehmen. Allein der Woywode wurde
+krank, und so lud der Bischof von <pb n="S. 334" url="../DRQI/muther_lagus_334.jpg"/>	Culm, welcher die
+Leitung des Revisionswerkes übernommen hatte, die Danziger ein, auf Jacobi e.
+a. ihren Syndicus nach <name type="place">Löbau</name> zu senden. Der Danziger
+Rath aber entschuldigte sich, da er D. Lagus nicht entbehren könne : es sei
+dessen Verschickung in hanseatischen Angelegenheiten nothwendig.<note place="foot" n="334.1">Lengnich
+I S. 242, 243.</note></p>
+<p>
+      Es wird vermuthet, dass eine Sendung des Lagus an den dänischen Hof
+gemeint sei, wegen des von Dänemark gesperrten Seehandels nach den
+österreichischen Niederlanden.<note place="foot" n="334.2">Preussische Sammlung
+S. 123.</note></p>
+		  <p>
+ Im Februar 1543 finden wir Lagus in <name type="place">Krakau</name>. Er
+wünschte damals, dass man ihm eine Reise nach Deutschland verstatten möge. Der
+Danziger Rath stellte unter dem    <datum wert="1543-02-17">17. Februar
+1543</datum> die Gewährung dieser Bitte unter gewissen Eventualitäten in
+Aussicht.<note place="foot" n="334.3">Mehrere Briefe des Lagus aus dieser Zeit,
+denen die obigen Notizen entnommen sind, im Danziger Archiv. Mittheilung von
+Hirsch.</note> Ob es zu dieser Reise kam, weiss ich nicht zu sagen. Vielleicht
+hing der Plan, sie zu unternehmen, zusammen mit den Verhandlungen über die
+Stellung Danzigs zum deutschen Reich. Letzteres hatte die Stadt schon mehrfach
+zu Reichstagen und zum obersächsischen Kreistag eingeladen, während dieselbe,
+als zur Krone Polen gehörig, sich weigerte, zu erscheinen.<note place="foot" n="334.4">Lengnich
+I S. 222, 234, 235, 236.</note></p>
+<p> 
+      Im December des Jahres 1544 rief Lagus seine Amtspflicht wieder an den
+polnischen Hof, der damals in <name type="place">Krakau</name> residirte. Eine
+Danziger Rechtssache ("die Putziger Sache") schwebte dort in der
+Appellationsinstanz. Zur Rechtfertigung der Appellation wurde Termin auf den
+<datum wert="1545-02-23">23. Februar 1545</datum> anberaumt. Zu demselben
+erschienen ausser Lagus noch ein Danziger Bürgermeister und ein Rathmann. Am
+<datum wert="1545-03-09">9. März</datum> hatten die Gesandten Audienz beim
+Könige. Der Process aber zog sich in die Länge und Lagus hatte um so weniger
+Aussicht, bald zu den Seinigen zurückzukehren, als unter dem <pb n="S. 335" url="../DRQI/muther_lagus_335.jpg"/>  <datum wert="1545-03-27">27.
+März</datum> die Stadt von dem Reichs-Instigator des
+Verbrechens der beleidigten Majestät angeklagt wurde. Von dieser Beschuldigung
+erlangten die Abgesandten Absolution. Allein in der Putziger Sache fiel die
+Entscheidung nicht zu ihren Gunsten aus. Das Erkenntniss wurde am Sonnabend vor
+dem <datum wert="1545-05-03">3. Mai</datum> (Fest des heil. Kreuzes)
+gefällt.<note place="foot" n="335.1">Lengnich I S. 245 f. Documente S.
+262.</note> Briefe des Lagus über diese Angelegenheiten vom 3. und 6. März, so
+wie vom <datum wert="1545-05-02">2. Mai 1545</datum> befinden sich noch im
+Danziger Archiv.<note place="foot" n="335.2">Mittheilung von Hirsch.</note></p>
+		  <p>
+ Lagus kehrte in die Heimath zurück. Doch schon im folgenden Winter musste er
+wieder die beschwerliche Reise nach Krakau antreten. Unter dem <datum wert="1546-03-17">17.
+März 1546</datum> schrieb er von dort an den Danziger
+Rath.<note place="foot" n="335.3">Danziger Archiv. Mittheilung von
+Hirsch.</note></p></div>
+
+<div id="T5">
+		  <p>
+ Während Lagus ein vielbewegtes und aufreibendes Geschäftsleben im Dienste
+seiner Stadt führte, konnte er kaum daran denken, das wissenschaftliche
+Unternehmen fort und zu Ende zu führen, dessen wir oben gedachten. Aber es
+wurde von anderen, wenn auch unberechtigten Händen dafür gesorgt, dass seine
+Methodus der Nachwelt nicht verloren gehe. Sie war bei den Studirenden in
+grosse Gunst gekommen und wurde abschriftlich nicht bloss in Wittenberg,
+sondern durch ganz Deutschland in vielen Exemplaren verbreitet.<note place="foot" n="335.4">Defensio
+Christiani Egenolphi ad Domini Conradi Lagi
+Iure consulti protestationem. Francof. 1544. 4. Sign. B 2a C u. ö. [<quelle url="http://opac.bib-bvb.de:8080/InfoGuideClient.fasttestsis/start.do?Language=De&amp;Query=-1=%22BV007725084%22">BSB-Katalogisat</quelle>
+</note></p>
+		  <p>
+			Man schrieb das Jahr 1539, als eines Tages bei dem
+Buchdrucker und Verleger <name type="person">Christian Egenolf</name> in <name type="place">Frankfurt
+am Main</name> ein junger Mann eintrat, welcher sich für
+einen ehemaligen Wittenberger Studenten ausgab. Er legte Egenolf ein starkes
+juristisches Manuscript vor und bot es demselben zum Kaufe an. Egenolf trug
+Bedenken, auf den Handel <pb n="S. 336" url="../DRQI/muther_lagus_336.jpg"/>	einzugehen, weil
+ihm das Buch unbekannt war und für die Publication zu umfangreich erschien.</p>
+		  <p>
+ Als aber der Verkäufer ihm mittheilte, es seien Concurrenten für den Kauf
+vorhanden, zögerte Egenolf nicht länger, den mässigen Kaufpreis zu zahlen und
+sich in Besitz des Manuscripts zu setzen. Dasselbe enthielt eine fehlerhafte
+Abschrift der Dictate, welche Conrad Lagus seinen Zuhörern als Methodus iuris
+civilis gegeben hatte.</p>
+		  <p>
+ Egenolf legte das Buch vorläufig bei Seite. Als aber Schreiben einliefen von
+"Solchen, die um den Handel wussten", mit der Mahnung, Egenolf möge dem
+allgemeinen Bedürfniss zu Hülfe kommen und jenes Werk, welches einen kostbaren
+Schatz enthalte, den Rechtscandidaten nicht länger vorenthalten, befragte sich
+derselbe bei Gelehrten und erfahrenen Geschäftsmännern, ob das Manuscript der
+Herausgabe würdig sei. Die Antwort fiel bejahend aus, besonders deshalb, weil
+in dieser Wissenschaft Niemand vorher ein System (eine Methodus) geschrieben
+habe.</p>
+		  <p>
+ Diess die eigene Erzählung Egenolfs.<note place="foot" n="336.1">Defensio
+A.</note> Wir werden kaum irren mit der Annahme, dass unter den "Gelehrten und
+erfahrenen Geschäftsmännern", welche Egenolf um ihr Gutachten anging, <name type="person">Justinus
+Gobler</name> sich befand, ja, dass vielleicht auf seine
+alleinige Person der von Egenolf gebrauchte Plural zu reduciren sei. Gobler
+unterstützte die vielfach mit geraubtem Material arbeitende Bücherfabrik
+Egenolfs durch seinen literarischen Beistand: er schweisste fremde Arbeiten zu
+voluminösen Compilationen zusammen, oder lieferte auch, je nach Umständen, ohne
+weitere Zuthaten fremde Bücher unter die Presse.</p>
+		  <p>
+			Egenolf nahm nunmehr den Druck der Methodus in Angriff.
+Doch scheinen ihm nachträgliche Bedenken über seine Berechtigung gekommen zu
+sein. Im Frühjahr 1543 <pb n="S. 337" url="../DRQI/muther_lagus_337.jpg"/>	schrieb er
+wiederholt an Lagus, um dessen Erlaubniss zur Publication zu erlangen.<note place="foot" n="337.1">Protestatio
+A.</note> Lagus antwortete in einem längeren
+Schreiben und versagte unter Ausführung der Gründe seine Einwilligung. Er
+mahnte Egenolf, von Veröffentlichung des Buches wider seinen, des Verfassers,
+Willen abzustehen. Auch will er &md; was jedoch Egenolf leugnet &md; gedroht
+haben, falls die Mahnung unbeachtet bliebe, mit einer Diebstahlsanklage gegen
+den Drucker vorzugehen.<note place="foot" n="337.2">Protestacio A 2b, cf.
+Defensio A 4b B 1a.</note></p>
+		  <p>
+ Als dieser Brief in Frankfurt ankam, war "die Sache schon so weit
+vorgeschritten, dass Egenolf ohne grossen Vermögensverlust das Unternehmen
+nicht wieder aufgeben konnte"<note place="foot" n="337.3">Defensio B
+1a.</note>, d. h. wohl: der Druck war schon vollendet oder seiner Vollendung
+nahe.</p>
+		  <p>
+			So erschien denn im Jahre 1543 bei Christian Egenolf zu
+Frankfurt a. M. ein stattlicher Folioband unter dem Titel : "Iuris utriusque
+traditio methodica". Die Ueberschrift des auf dem 5. Blatt des Buches
+beginnenden eigentlichen Werkes heisst: "Iuris civilis traditio methodica, per
+clarissimum Iure consultum Dn. Conradum Lagum, Ordinarium Vitebergensem publice
+praelecta." Egenolf stand also bei Beginn des Druckes in dem Wahne, Lagus habe
+als ordentlicher Rechtslehrer (ordinarius) die Methodus in Wittenberg
+öffentlich vorgetragen. Als der Titel des Buches gesetzt wurde, was damals
+schon, wie auch heut zu Tage, erst bei Beendigung des Druckes zu geschehen
+pflegte, war er davon unterrichtet, dass Lagus weder das Amt eines Ordinarius
+in Wittenberg bekleidet, noch die Methodus öffentlich vorgetragen hatte, denn
+es heisst daselbst: "Ex ore doctissimi Conradi Lagi Iureconsulti annotata" etc.
+Jedenfalls also hat Egenolf während <pb n="S. 338" url="../DRQI/muther_lagus_338.jpg"/>	des Druckes diese
+Kenntniss erhalten, und vielleicht war es gerade das Bedenken, ob er eine
+Privatvorlesung zu veröffentlichen befugt sei, welches ihn veranlasste, die
+schon erwähnte Anfrage an Lagus zu richten.</p>
+		  <p>
+			In seinem Vorwort "an den Candidaten des
+Rechtsstudiums" führt Egenolf aus, er habe gewünscht, die Herausgabe des Werkes
+bis auf gelegenere Zeit zu verschieben, bis er selbst mehr Muse hätte gewinnen
+können und zugleich die Revision des Autors dem Buche zu statten gekommen wäre.
+Allein dieser Plan sei mehr durch Zufall als durch seine (Egenolf's) Schuld
+vereitelt worden. Denn die so nothwendige Revision des Conrad Lagus sei nicht
+zu erlangen gewesen wegen grosser Occupation des Mannes in Staats- und
+advocatorischen Geschäften. Der Herausgeber würde daher die Publication lieber
+unterlassen haben, wenn nicht das Bitten und Drängen der jungen
+Rechtsbeflissenen zu heftig gewesen wäre. "Daher will ich", fährt Egenolf fort,
+"vor allen Dingen Zeugniss ablegen, nicht nur, dass Conrad Lagus diese
+Publication keineswegs veranlasst, sondern dass er nicht einmal etwas davon
+gewusst hat. Denn wenn er geneigt gewesen wäre, seine bessernde Hand anzulegen,
+so würde zweifelsohne das Buch weit correcter und in allen Beziehungen
+vollkommener in die Oeffentlichkeit gelangt sein. Darauf habe ich mit Nachdruck
+aufmerksam machen wollen, damit der Leser, wenn ihm Dunkelheiten oder sonstige
+Unvollkommenheiten aufstossen, diess nicht etwa dem Lagus als Nachlässigkeit
+anrechnet, sondern vielmehr der Fehlerhaftigkeit der Abschrift, welche mir in
+die Hände kam, zuschreibt.  Herr Conrad Lagus wird über die Veröffentlichung
+des Buches in dieser Gestalt nicht ungehalten sein dürfen, denn dieselbe
+geschah nicht, um jemand Unrecht zu thun, sondern sicherlich nur zur
+Bequemlichkeit der Studirenden und zum Vortheil der Wissenschaft."<pb n="S. 339" url="../DRQI/muther_lagus_339.jpg"/> </p>
+		  <p>
+ Egenolf's böses Gewissen drückt sich in dieser Vorrede sichtlich aus, noch
+mehr aber kam seine mala fides im weiteren Verlauf der Angelegenheit zu
+Tage.</p>
+		  <p>
+Lagus war nicht gewillt, die ihm widerfahrene Unbill hinzunehmen. Schon im März
+des folgenden Jahres liess er eine kleine Schrift unter dem Titel:
+"Protestation des Conrad Lagus wider die unberechtigte Herausgabe seiner
+Commentare über die Rechtslehre durch Christian Egenolf" erscheinen. Dieselbe
+ist an den Baseler Drucker <name type="person"> Oporinus</name> gerichtet und
+bei demselben, obwohl sie als Erscheinungsort <name type="place">Danzig</name>
+bezeichnet, wohl auch gedruckt.</p>
+<p>
+Die Protestatio führt aus :<lb/>
+Zur letzten Frankfurter Messe habe der Buchdrucker Christian Egenolf eine
+unvollkommene Compilation von Ausführungen über Rechtsmaterien herausgegeben,
+der ein unverschämt anmassender Titel unter Beifügung des Namens des Verfassers
+der Protestatio, als ob die Compilation einem Dictat desselben in öffentlicher
+zu Wittenberg gehaltener Vorlesung entstamme, vorgesetzt sei. Diess bringe
+Lagus grosse Schande bei angesehenen und gelehrten Männern und da die
+Speculation offenbar auf den Geldbeutel unvorsichtiger Käufer es absehe, könne
+sich Schreiber nicht enthalten, diese Gegenschrift ausgehen zu lassen, um seine
+Ehre zu wahren und die Rechtsstudiosen zu warnen, sich nicht in den Schlingen
+des unredlichen Speculanten zu fangen. Bloss Gewinn habe der Letztere
+beabsichtigt, diess zeige sich schon darin, dass er gar keine Sorgfalt auf die
+Herausgabe verwendet: es sei kaum eine Zeile in dem Buch zu finden, die nicht
+von Grammatikalien strotze.</p>
+		  <p>
+			Dass die Publication ohne Wissen des Lagus geschehen,
+vermelde der Herausgeber selbst, er hätte aber auch hinzufügen müssen, dass er
+dieselbe wider den ausdrücklich erklärten Willen des Verfassers unternommen
+habe.<pb n="S. 340" url="../DRQI/muther_lagus_340.jpg"/> </p>
+		  <p>
+Daher könne sich Egenolf nicht beklagen, wenn ihn Lagus des Plagium
+beachuldige. "Denn da Plagiarius der heisst, welcher einen fremden Menschen
+demjenigen, in dessen Gewalt sich dieser befindet, entzogen hat: was steht
+entgegen, dass dieses Verbrechens jener für schuldig erachtet werde, welcher
+wissend und sehend, dass er gegen meinen Willen und meinem Protest zuwider die
+Herausgabe meiner Commentarien vornehme, sich nicht abschrecken liess, sein
+Vorhaben auszuführen: das Vorhaben unter Missachtung meiner Ehre, meines Rufes
+, meiner Glaubhaftigkeit, wider meinen Willen meine Dictate sehr fehlerhaft zu
+publiciren."<note place="foot" n="340.1">Den Ausdruck plagiarius für Einen, der
+sich die Veröffentlichung eines fremden Geistesproductes anmasst, finden wir
+schon früher. Von einer Leipziger Universitätsverhandlung ai 1528 über eine
+Disputation des Mr. Muschler, in welcher ein sophisma de plagiarijs und eine
+quaestio de plagiarijs et librorum subductoribus proponirt war, wie es scheint
+mit Beziehung auf einen concreten Fall, in welchen die MM. Curio und Laurentius
+Sibeneichel verwickelt waren, berichtet Zarncke, Acta Rector, p. 27,
+28.</note></p>
+		 <p>
+Um sein Vergehen für Unkundige zu verdecken, erwähne Egenolf unverschämt genug,
+Lagus habe die Compilation in Wittenberg öffentlich als Ordinarius dictirt,
+natürlich, damit er dem Vorwurf des Diebstahls eines noch unveröffentlichten
+Geistesproductes ausweiche. Wahrlich sehr fein, wenn man dolose Verschlagenheit
+überhaupt loben dürfe, aber unerträglich unverschämt, denn es sei notorisch,
+dass Lagus nicht einmal ein öffentliches Lehramt, geschweige denn das
+Ordinariat &md; die erste Stelle in der Juristenfacultät &md; bekleidet
+habe.</p>
+		  <p>
+			Nun folgt die Erzählung von der Entstehung und die
+Ausführung über den Plan der Methodus, welche wir bereits kennen. Lagus legt
+Gewicht darauf, dass er seinen Schülern die Veröffentlichung des Dictates
+verboten. Die Unvollkommenheit derselben entschuldigt er mit seiner Occupation
+durch die Praxis. Er habe sich durch seinen Versuch <pb n="S. 341" url="../DRQI/muther_lagus_341.jpg"/>	vergewissert, dass
+er etwas Besseres zu Stande bringen könne, wenn ihn ein Mäcen unterstützen und
+so viel Muse gewähren wollte, dass er Dasjenige, was er gesammelt, fleissig
+ergänzen und sorgfältig überarbeiten könnte. Ohne eine solche Hülfe aber sei er
+betreffs der Vollendung des begonnenen Werkes etwas zu versprechen ausser
+Stande.</p>
+		  <p>
+Wenn man aber zugeben müsse, dass zur Ausführung eines Planes, wie er dargelegt
+worden, ruhige Muse und viele Zeit gehöre, so seien alle Fehler der von Egenolf
+veröffentlichten Compilation der Unverschämtheit des Druckers anzurechnen.
+Derselbe gestehe selbst, eine fehlerhafte Abschrift angekauft zu haben. Das
+zeige sich auch in dem Druck. Denn nicht bloss die zahllosen Styl- und
+grammatischen Fehler seien zu rügen, es sei auch Vieles ausgelassen und manches
+Fremde beigemischt: die abgedruckte Handschrift sei, wie sich nicht bezweifeln
+lasse, aus vielen Fragmenten zusammengesudelt. Und das könne nicht anders sein,
+da es sich um ein nachgeschriebenes Dictat handle. Solche nachgeschriebene
+Hefte seien immer ungenau und von einander abweichend. Manche Fehler des
+Druckes aber mögen nicht einmal in dem Manuscript gestanden haben, so kindisch
+sind sie, sie fallen lediglich dem Drucker zur Last.</p>
+		  <p>
+Lagus habe anfänglich daran gedacht, Einiges nachzutragen und zu verbessern, da
+aber die Auslassungen, Zusätze, Sprach- und andere Fehler in zu grosser Menge
+vorhanden, müsse von jeder Correctur Abstand genommen werden.</p>
+		  <p>
+Deshalb lasse er das von Egenolf unter seinem Namen Veröffentlichte als
+αυεκδοτα jetzt uncorrigirt, und was ihm davon nicht angehöre, wolle er als
+Nichtanerkanntes verworfen haben.</p>
+		  <p>
+			Wer Lagus tadle, dass er so grosse Schwierigkeiten
+mache, den ersten Druck seines Werkes selbst zu besorgen, der möge bedenken,
+dass der Autor hierauf schon längst <pb n="S. 342" url="../DRQI/muther_lagus_342.jpg"/>	seinen Wunsch
+gerichtet habe, dass aber derselbe oft gezwungen sei, seine Lieblingspläne
+hintanzusetzen und der Nothwendigkeit des Augenblicks zu gehorchen.</p>
+		  <p>
+Sollten unter den Käufern der Compilation sich solche finden, welche über die
+Hälfte verletzt zu sein glauben, da der Inhalt des Buches dem Titel nicht
+entspricht, so können sie mit der Wandelklage (actio redhibitoria) wider den
+Verkäufer klagen. "Denn obwohl es bisher nicht üblich war, die Redhibition von
+Büchern abseiten der Verkäufer zu erlangen, wenn nach der Tradition sich
+herausstellte, dass dieselben fehlerhaft seien, so ist doch, da jene Klage
+gegeben wird, damit der Käufer nicht durch die Arglist des Verkäufers getäuscht
+werde bezüglich eines verborgenen Fehlers des Viehes und eines nicht offenbaren
+Mangels der Waare überhaupt, kein Hinderniss, dieselbe auch Bücherkäufern zu
+gestatten.</p>
+		  <p>
+Was gegen den zu erkennen sei, welcher wider den ausgesprochenen Willen des
+Autors bei dessen Lebzeiten ein Buch herausgiebt, untersuche ich jetzt nicht
+und überlasse die Ahndung des Delicts dem Richter."</p>
+		  <p>
+Möchten doch, wenn die Zulässigkeit der genannten Klagen bezweifelt werden
+sollte, die Staatsregierungen bestrebt sein, durch Gesetze die Zügellosigkeit
+der Drucker zu beschränken, wenigstens die Insolenz der schlechte Ausgaben
+besorgenden Drucker, z. B. des Egenolf in Frankfurt, welchen dieser Vorwurf
+besonders treffe.</p>
+		  <p>
+Schliesslich wendet sich Lagus an den Drucker <name type="person">Oporinus</name>
+in <name type="place">Basel</name> und schreibt
+ihm die Protestatio zu. Schon oft habe Oporinus den Verfasser um die Erlaubniss
+gebeten, die Methodus publiciren zu dürfen, doch habe er stets dessen
+abschlägliche Antwort respectirt.</p>
+		  <p>
+So weit unser protestirender Autor.</p>
+		  <p>
+Egenolf liess im September 1544 eine "Vertheidigung auf die Protestation des
+Herrn Conrad Lagus etc." erscheinen.<pb n="S. 343" url="../DRQI/muther_lagus_343.jpg"/></p>
+		  <p>
+Es wird hier behauptet, Lagus sei weniger aus eigenem Antrieb, als angestachelt
+von Concurrenten Egenolfs &md; damit ist Oporinus gemeint &md; so heftig
+aufgetreten. Deshalb sei Antwort überflüssig; allein auf den Rath seiner
+Freunde wolle Egenolf die Injurien des Lagus zurückweisen. "Denn es ist wohl
+Niemand, der, wenn er meine Absicht beim Druck jener Commentare über die
+Rechtslehre kennt, mir heftig zürnen, geschweige denn, dass er mich des Plagium
+oder eines anderen öffentlichen Vergehens mit Recht beschuldigen könnte."</p>
+		  <p>
+Erzählung von dem Kauf des Manuscripts und Egenolf's anfänglichem Zögern mit
+der Publication.</p>
+<p>
+Der Beweggrund der letzteren, sei lediglich in dem Bestreben zu suchen, den
+Rechtsstudirenden nützlich zu werden. Dass Egenolf das Buch als verkäuflich auf
+den Markt gebracht habe, könne ihm Niemand, der bei Verstand, verargen, da er
+doch für seine Auslagen und seine Mühe etwas haben dürfe. Hätte er heimlich und
+arglistig handeln wollen, so würde er nicht erst brieflich den Lagus um die
+Erlaubniss zur Veröffentlichung angegangen haben, er hätte ja auch die Methodus
+ohne Nennung seines (des Druckers) Namens herausgeben können..</p>
+		  <p>
+Die Beschuldigung des Plagium sei haltlos. Dieses Vergehen sei bloss an freien
+Menschen möglich, nie an Sclaven, und sei nicht abzusehen, wie an dasselbe bei
+diesem durch ganz Deutschland verbreiteten Buch gedacht werden könne. Lagus
+habe es auch unterlassen, die Klage, mit der er gedroht, anzustellen.</p>
+		  <p>
+			Der Druck sei für das Buch nur vortheilhaft. Die
+unzähligen Abschriften, die gefertigt würden, seien von Tag zu Tag fehlerhafter
+geworden, die gedruckte Ausgabe aber könne von Fehlern ailmählig gesäubert
+werden. An Arbeit habe es Egenolf bei der Herausgabe nicht fehlen lassen : die
+Correctur mangle nirgends, es sei unbillig, wenn Lagus <pb n="S. 344" url="../DRQI/muther_lagus_344.jpg"/>	sage, dass kaum
+einige Zeilen von grammatikalischen Fehlern frei sein.</p>
+		  <p>
+Hätte Lagus sein Buch im Schreibtisch behalten und die Abschrift nicht
+gestattet, so würde die Sache ganz anders liegen. Da er diess aber nicht that,
+vielmehr das Werk überall in den Bibliotheken der Studiosen anzutreffen ist,
+that der Drucker nichts Unziemliches, als er es herausgab. Der Name des Lagus
+ist auf den Titel gesetzt nicht aus Speculation, sondern um dem Autor den Ruhm
+seiner Arbeit nicht zu entziehen.</p>
+		  <p>
+Es sei zu verwundern, dass Lagus sich entschlossen habe, ein Pasquill,
+angefüllt mit Drohungen, Schmähungen etc., gegen Egenolf zu veröffentlichen, da
+ihm doch der viel ehrenvollere Weg der Klage offen gestanden habe. Wenn er
+diesen nicht habe einschlagen wollen, hätte er wenigstens Beleidigungen
+vermeiden sollen. Egenolf lebe in seiner Stadt länger denn 13 Jahre in grossem
+Ansehen, jedermann sei überzeugt, dass die Protestation des Lagus unbegründet
+und durch den Neid Uebelwollender angeregt sei.</p>
+		  <p>
+Was die Wandelklage anlange, so sei dieselbe schon deshalb unzulässig, weil in
+der Vorrede ausdrücklich bemerkt werde, der Druck sei nach einer fehlerhaften
+Abschrift besorgt und Conrad Lagus sei keineswegs der Urheber, ja nicht einmal
+der Mitwisser der Publication.</p>
+		  <p>
+Den Titel Ordinarius habe Egenolf dem Lagus beigelegt, weil er ihn mit vielen
+Anderen dafür gehalten, nicht aus einem anderen Grunde.</p>
+		  <p>
+			Es sei nicht der Mühe werth, von diesem Druck eines
+handschriftlich sehr verbreiteten und vom Verfasser denen, welchen er es
+dictirte, verkauften Buches so viel Aufhebens zu machen. Vor etwa 30 Jahren
+seien viele Schriften des <name type="person">Erasmus</name> und <name type="person" reg="Philipp Melanchthon">Ph.
+Melanthon</name>, selbst
+Privatschreiben derselben an Freunde, veröffentlicht worden, ohne dass der
+Zustimmung der Verfasser gedacht wäre. <pb n="S. 345" url="../DRQI/muther_lagus_345.jpg"/></p>
+		  <p>
+Manche Commentare des <name type="person">Zasius</name> zu verschiedenen Titeln
+der Rechtsbücher seien erst nach dessen Tod gedruckt, obwohl der Autor sie
+gewiss nicht zur Publication bestimmt und mit geringerer Sorgfalt ausgearbeitet
+hatte.<note place="foot" n="345.1"><name type="person">Nicolaus Freigius
+(Frey)</name>, der Vater von <name type="person">Johann Thomas Freigius</name>,
+hatte mehrere Vorlesungen des <name type="person">Zasius</name> nach dessen
+Tode herausgegeben. Keineswegs aber ohne Widerspruch der Erben des grossen
+Juristen; denn diese schlugen den Rechtsweg gegen Freigius ein. Vgl, Schreiber,
+Universität Freiburg II S. 220 ff. 329, 330.</note> Doch das habe dem Ruhme des
+Zasius, besonders in Italien, keinen Eintrag gethan. Wer es nicht glaubt, höre
+die Erzählungen der aus Italien oder Frankreich zurückkehrenden Studenten. Wäre
+es wohl wünschenswerth, dass die Vorlesungen des Zasius ungedruckt geblieben?
+handelte es sich bloss um die wissenschaftliche Ehre des Mannes, dann gewiss,
+da aber hier die Rücksicht auf den Nutzen der Fachgenossen massgebend ist,
+bleibt es dankenswerth, dass jene Ausgaben veranstaltet wurden.</p>
+		     <p>
+Vor einigen Jahren ist ein Werk des <name type="person">Andreas Alciat</name>
+unter dessen Namen sogar wider seinen offenbarten Willen herausgegeben worden,
+ohne dass der Drucker mit einem Wort den Leser von diesem Umstand
+benachrichtigte. Hierüber schrieb Alciat an den Bischof von Bologna: "Vor
+Kurzem hat irgend ein Verleger mein Buch über den Titel: "Si certum petatur"
+aufgekauft und veröffentlicht. Ich würde mich darüber nicht sehr grämen, wenn
+nur etwas mehr Fleiss angewendet, so dass die Ausgabe correcter und
+unverstümmelt in die Hände der Käufer gelangt wäre. Aber es fehlen im Druck
+nicht bloss einige Zeilen, sondern an einer Stelle ganze Blätter."</p>
+		  <p>
+			"Das ist nun doch", fährt Egenolf fort, "etwas ganz
+anderes, als was ich gethan habe. Gegen den, welcher im bösen Glauben eine
+fremde Sache öffentlich feil hält, als wenn der Eigenthümer das erlaubt hätte,
+möchte die Wandelklage <pb n="S. 346" url="../DRQI/muther_lagus_346.jpg"/> eher zulässig sein.
+Dass aber ich Niemanden übervortheilt habe, geht schon daraus hervor, dass ich
+von allen Seiten um Erneuerung der Auflage angegangen werde, was gewiss nicht
+geschehen würde, fände das Buch keinen Absatz. Doch ich werde mich hüten eine
+neue Ausgabe zu besorgen. Wenn auch mein Gegner sagt, ich sei aus Gewinnsucht
+zu allem fähig, so wird er doch in meinem Verlag nicht ein Buch nachweisen
+können, welches einen falschen Titel trägt, oder den Ort der Herausgabe aus
+Hinterlist falsch angiebt. Aber bei jener Protestation ist es erlogen, dass sie
+zu <name type="place">Danzig</name> gedruckt sei. Wer ist der Drucker, welchem
+Lagus das Pasquill zur Veröffentlichung gab? Wer glaubt es, dass Papier aus
+<name type="place">Lerch</name>, einem Dorf in Baden ("bapyrus formata Lerchij
+Marchionis Badensis vico"), welches kaum eine deutsche Meile von Basel entfernt
+liegt, bis nach Danzig transportirt sei? Als ob es da an Papierfabriken fehlte
+und man nöthig habe, um ein Heft für drei Pfennige (librum triobolarem) zu
+drucken, das Papier über hundert deutsche Meilen weit herzuholen. Das
+Papierzeichen beweist deutlich, dass der Druckort der Protestatio erlogen ist.
+Was hat sich der Drucker gedacht, als er diese Schrift wider mich druckte?
+Hielt er mich für so bornirt, dass ich den Rauch nicht durchschauen würde?
+Stellt man mein Benehmen und das jenes bescheidenen Druckers, welcher ein Werk,
+das mich zu infamiren bestimmt war, nicht bloss mit Verheimlichung seines
+Namens, sondern auch unter falscher Ortsangabe druckte, gegenüber, so neigt
+sich die Wagschale sehr zu meinen Gunsten. Wer eine Schrift von dem Charakter
+der Protestatio druckte, der musste eigentlich rein von allem Makel dastehen.
+Denn obwohl er die Protestatio nicht schrieb, so hat er es doch an Hetzen nicht
+fehlen lassen und die Unterstützung seiner Arbeit geboten. Er ist also gleicher
+Theilnehmer der That des Lagus, aber hassenswerther, da ihn  <pb n="S. 347" url="../DRQI/muther_lagus_347.jpg"/>  die Sache
+gar nichts anging und er bloss aus Neid oder Gehässigkeit handelnd seine Ehre
+aufs Spiel setzte.</p>
+		  <p>
+			Lagus aber möge seine Hörner nicht bloss gegen mich
+erheben, sondern auch seinen Drucker an dessen Pflicht erinnern; dieser hat
+durch Angabe des falschen Drnckortes gelogen und verdient daher Schandtitel
+aller Art. Ich habe lediglich aus Irrthum &md; wie ich dazu kam, ist bereits
+erzählt &md; zum Namen des Lagus den Titel ordinarius gesetzt. Und ärgert
+dieser Titel den Lagus gar zu sehr, so möge er ihn ausstreichen, oder die
+Methodus ganz verleugnen ; das soll mir gleich bleiben. Die Studenten freuen
+sich über das Buch und fragen nichts nach dem Verfasser. Dass ich ihnen durch
+den Druck der Methodus diese Freude bereitete, ist mir eine grosse Genugthuung,
+so dass ich darüber keinem Menschen Rechenschaft geben werde, es müsste denn
+sein, dass der Weg Rechtens beschritten würde. Und das Geschäft, wider mich zu
+klagen, wird Lagus keinem Hitzigeren übertragen können, als <name type="person">Oporinus</name>,
+welchem es ihm beliebte, die gedruckte
+Protestatio zu übersenden. Denn Oporinus hat sich um die Verbreitung der
+Schrift sehr verdient gemacht, indem er sie jedem, der mit ihm in Berührung
+kam, überreichte. Daher hätte Lagus gewiss gut gethan, die Protestatio dem
+Oporinus zum Druck zu übersenden. Dieser würde sicherlich grosse Mühe darauf
+verwendet haben. Manche wollen behaupten, Oporinus habe in der That die
+Protestatio gedruckt. Allein das glaube ich nicht, denn Oporinus ist ja ein
+Biedermann. Sollte es aber so sich verhalten, so will ich nicht unterlassen,
+Oporinus zu seiner ausgezeichneten Ehrbarkeit zu gratuliren, denn dann hat
+gewiss er allein unter allen Druckern niemals etwas begangen, was Tadel
+verdiente, sicherlich hat er nie ein Buch ohne Zustimmung des Autors gedruckt,
+sondern offen, bieder, anständig, wie es einem braven Manne zukommt, hat er
+Alles angefangen ; wenn dem so ist, beim <pb n="S. 348" url="../DRQI/muther_lagus_348.jpg"/>	Zeus! dann wird er
+mit Recht bis in den Himmel erhoben und durch die Schriften der Gelehrten mit
+ewigem Ruhme verherrlicht."<note place="foot" n="348.1">Die Titel der hier
+ausgezogenen Streitschriften s. oben <quelle url="#Note300.4">S. 300 Not.
+4</quelle> u. <quelle url="#Note335.4">S. 335 Not. 4</quelle>.</note></p>
+		  <p>
+ Dass diese dumme und unverschämt freche Vertheidigung, deren Concipient wohl
+ein Schmierer wie <name type="person">Justinus Gobler</name> war, mehr gegen
+den Rivalen <name type="person">Oporinus</name> als gegen Lagus gerichtet ist,
+braucht kaum bemerkt zu werden. Oporinus beneidete Egenolf um das gute Geschäft
+und dieser wirft jenem Uncollegialität, so wie Gewerbsbeeinträchtigung vor. Der
+arme Autor diente im Streite der erbitterten Drucker nur als Werkzeug. Der
+Protestatio des Lagus ungeachtet wurde später das Werk seines Schweisses noch
+oftmals von gewinnsüchtigen Druckern, ja auch von Oporinus in verderbter
+Gestalt ins Publicum geschleudert. Der Verfasser hatte den Aerger, wurde von
+den Kathederbesitzern todt geschwiegen und, als sein Buch ausser Cours kam,
+ganz vergessen, doch die Buchdrucker mästeten sich bis ins 17. Jahrhundert
+hinein mit seinem Werk.</p></div>
+
+<div id="T6">
+		  <p>
+			Conrad Lagus überlebte die widerrechtliche
+Veröffentlichung seiner Methodus nicht lange. Auf der obgedachten Reise nach
+<name type="place">Krakau</name> wurde sein Wagen umgeworfen und er erhielt
+dabei einen Stoss auf die Brust. Seitdem litt er an einer gefährlichen
+Affection der Lunge. Trotz der Hülfe der Aerzte wuchs das Uebel, heftige
+Blutauswürfe schwächten seine Kraft, am <datum wert="1546-11-07">7. November
+1546</datum> gab er unter Anrufung von Christi Barmherzigkeit den Geist
+auf.<note place="foot" n="348.2">Nach Hoppe B 8. Die genaue Angabe des
+Todestages findet sich bei Paul. Eber, Calendar. p. 358.</note><pb n="S. 349" url="../DRQI/muther_lagus_349.jpg"/></p>
+		  <p>			    
+Sein Schüler <name type="person">Johann Hoppe</name>, der, durch <name type="person">Christoph
+Jonas</name> empfohlen, seit 1542 an der neuerrichteten
+Gelehrtenschule zu <name type="place">Königsberg i. Pr.</name> wirkte<note place="foot" n="349.1">Königsberger
+geh. Archiv 3. Schrank Fach 40 n.
+19.</note>, hielt ihm bald nach seinem Hintritt eine Gedächtnissrede. In
+derselben wird der Wunsch ausgesprochen, es möge sich jemand finden, welcher
+die Methodus des Lagus aus den in der Nachlassenschaft des Verfassers sich
+vorfindenden Materialien bearbeite und vollende. Ein späterer Danziger Biograph
+des Lagus aber<note place="foot" n="349.2">Preussische Sammlung S. 126.</note>
+versichert, ein hinterlassenes Manuscript der Methodus sei nicht aufzufinden.
+Auch auf meine Nachfrage ist eine ähnliche Antwort erfolgt. Doch führen
+vielleicht erneute Nachforschungen zu einem günstigeren Resultat.</p>
+		  <p>
+Die Egenolf'sche Ausgabe der Methodus wurde bis ins 17. Jahrhundert hinein
+oftmals abgedruckt. Das Werk diente als Lehr- und Lernbuch, bis es durch neuere
+Compendien verdrängt wurde. Mir sind neun Drucke desselben bekannt. Auch der
+Wunsch des Lagus, dass eine castigirte Ausgabe seines Werkes veranstaltet
+werde, ging später in Erfüllung, doch schwerlich im Sinne des Verfassers. Wegen
+der in demselben enthaltenen Polemik gegen manche Einrichtungen der römischen
+Kirche kam das Buch auf den Index ; da es aber bei den Studirenden für
+unentbehrlich galt, veranstaltete man mehrere katholisch-kastrirte Ausgaben,
+die sich freilich auch rühmen &md; ob mit Grund? das möchte fraglich sein &md;
+die übrigen Fehler beseitigt zu haben.</p>
+		  <p>
+Das Compendium iuris Saxonici gelangte, wie bereits erwähnt, erst lange nach
+dem Tode des Lagus unter die Presse. Mir sind drei Ausgaben desselben
+vorgekommen, doch scheinen die Exemplare des Buches äusserst selten geworden zu
+sein.</p>
+		  <p>
+			Obwohl später der Name des Lagus verscholl und seine
+Bücher vom Staub der Bibliotheken überdeckt wurden, lässt <pb n="S. 350" url="../DRQI/muther_lagus_350.jpg"/> sich doch nicht
+behaupten, dass sein geistiges Schaffen ohne nachhaltige Wirkung geblieben sei.
+Freilich wird sich schwer ermitteln lassen, wie viel davon und was in unser
+heutiges Lehrgebäude des Civilrechts übergegangen ist. Allein dass ein Buch,
+welches fast ein Jahrhundert lang als Lernbuch gebraucht wurde, nicht ohne
+Einfluss bleiben konnte auf die Gestaltung der Wissenschaft, versteht sich von
+selbst. Ueberdem haben sich an Lagus' Arbeit nachweisbar weitere
+wissenschaftliche Bemühungen angeschlossen. Es ist in Literargeschichten viel
+die Rede von dem Einfluss, welchen in der zweiten Hälfte des 16. Jahrhunderts
+die Philosophie des <name type="person">Petrus Ramus</name> auf die Behandlung
+der Rechtswissenschaft geübt habe. Namentlich sind es die Schriften des <name type="person">Joh.
+Thomas Freigius</name><note place="foot" n="350.1">Sohn des
+Nicolaus Freigius (s. <quelle url="#Note345.1">Note S. 345</quelle>). Joh. Thomas
+Freigius ist geboren 1543 lehrte zu Freiburg, Basel, Altorf, war begeisterter
+Anhänger des Petrus Ramus und † 16. Januar 1583 zu Basel. S. über ihn
+Schreiber, Universität Freiburg II S. 220-232. Stintzing  in Pözl's
+Vierteljahrsschrift III S. 626.</note>, in welchen sich die Ramistische
+Philosophie unverkennbar spiegeln soll. Diess mag im Allgemeinen nicht
+unrichtig sein. Aber bezüglich eines Hauptwerkes des Freigius, welches
+wiederholt gedruckt wurde und entschieden Einfluss auf die Systematik des
+Civilrechts geübt hat, bleibt es zweifellos, dass es nicht sowohl auf
+Ramistische Principien, als auf die Methodus des Conrad Lagus zurückzuführen
+ist. Ich meine die Partitiones iuris utriusque des Freigius.</p>
+		  <p>
+Die erste Ausgabe dieses Werkes erschien Basil. 1571 Fol. Trotz des auf die
+Justinianischen Rechtsbücher als Hauptquelle hinweisenden Titels finden wir in
+demselben kaum etwas Anderes als einen schematisirten Auszug aus Lagus.
+Freigius erkennt diess auch an, denn auf der Hinterseite von Bl. III findet
+sich die Ueberschrift :<lb/>
+			"Elenchus partitionum iuris Ex Conradi La. Methodo."
+			<pb n="S. 351" url="../DRQI/muther_lagus_351.jpg"/></p>
+		  <p>
+In einer späteren Ausgabe der Partitiones (Basil. 1581 Fol.) ist sogar der
+Titel des Werkes berichtigt und heisst nunmehr derselbe :<lb/>
+"Ioannis Thomae Freigii partitiones iuris ex Conradi Lagi methodo expressae"
+etc.</p>
+		  <p>
+			Spätere haben Lagus wohl benutzt, aber den Namen
+desselben kaum genannt. Nur bei <name type="person">Hermann Vultejus</name>,
+dessen Iurisprudentiae Romanae a Justiniano compositae libri duo (zuerst 1590)
+[<quelle url="http://katalog.ub.uni-heidelberg.de/titel/64225255">Titelaufnahme
+UB Heidelberg</quelle>] immer noch gangbar sind, steht im προλεγομευου de studio
+iuris zu lesen, es sei das Compendium des Lagus keineswegs zu verwerfen, wenn
+auch die studirende Jugend vorzugsweise auf das Studium der Quellen und der an
+diese enger sich anschliessenden Schriften hingewiesen werden müsse.</p>
+		  <p>
+Unter den juristischen Literarhistorikern berichtet nur <name type="person">C.
+F. Hommel</name><note place="foot" n="351.1">Litteratura iuris § 65.</note>
+etwas ausführlicher über die Methodus. Doch scheint er die Arbeit des Lagus
+nicht allzu hoch anzuschlagen. Derselbe habe, meint er, nichts Anderes gethan,
+als das natürliche, bürgerliche und canonische Recht in ein System
+zusammengezogen.</p>
+		    </div></div></body></text></TEI.2>

@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+ <title>Badische Hofgerichtsordnung 1509 :: Transkription Speer 2010 / 2016</title>
+ </titleStmt>
+ 
+ </fileDesc>
+</teiHeader>
+ <text>
+ <front>
+ <divGen depth="3" type="toc"/>
+ </front>
+ <body>
+ 	<div id="Editorial">
+ 		<head>Editorial</head>
+ 		<p>Quelle: Rudolf Carlebach, Badische Rechtsgeschichte. I. Das ausgehende Mittelalter und die Rezeption des römischen Rechts unter Mitteilung der wichtigeren bisher ungedruckten Landesordnungen (Landrechte). Heidelberg 1906. S. 118 - 134. Transkription: Heino Speer Mai 2013. Aktualisierung 13. Mai 2016<lb/>
+ 			<quelle url="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=carlebach,badrg.+i&amp;seite=o01tit">Faksimile Deutsches Rechtswörterbuch</quelle><lb/>
+ 			[<quelle url="&carlebach_1906_1;118">Seite 118</quelle>]</p></div>
+
+<div id="Vorrede">
+	 <head>[Vorrede]</head>
+<p>[<quelle url="&carlebach_1906_1;118">Faksimile S. 118</quelle>] 
+Unser Cristofs, von Gottes gnaden margrave zu Baden und Hochberg, grave zu
+Spanheim, herr zu Rateln und zu Susemburg, <term>satzungen, ordnungen und
+statuten</term> unsers hofgerichts, die wir unsern <term>richtern und
+rethen</term> auch allen und jedem unsern amptleiten und herschaften auch allen
+andern, uns sonst von wegen unser furstlichen und hohen oberkait underworfen,
+und den spenen, so an demselben unserm hofgericht gerichtlich handlin werden,
+<term>bevelhen und gepieten</term> hinfur (bis auf unser oder unser erben
+<term>widerrufen und änderung</term>) zu halten, darauf zu urtheilen und
+der irs inhalts zu leben, die wir also ernewert und gesetzt haben anzaigende uf
+Sanct Martinus des heiligen bischofstag nechstkompt.</p></div>
+
+<div id="1">
+<head>[§ 1] [Zeit, Ort und Besetzung des Gerichts.]</head>
+ <p>
+Erstlich so wollen wir, daß unser hofgericht hinfür eins jeden jars
+drei male, nämlichen das erst in der wochen nach dem sontag
+Quasimodogeniti, das ander in der wochen nach Bartholomei Apostoli, das drit in
+der wochen nach der hailigen Dreier Königtag allweg zu tagen, die wir in
+unserm usschreiben benennen, gehalten werden sollen.</p>
+<p>
+	 Dasselb unser hofgericht soll mit einem richter und rethen besetz
+werden in einer zale, daß mit dem richter under sieben personen nit
+seien, und gehalten werden an enden unsers fürstenthumbs, dahin wirs
+beschaiden werden.[<quelle url="&carlebach_1906_1;119">Faksimile S. 119</quelle>] </p></div>
+
+<div id="2">
+	 <head>[§ 2] Mit was form und wie die appellation geschehen
+soll.</head>
+ <p>
+Item welcher sich von einer urtheil an unser hofgericht berufen will, der mag
+das thon nach eröffnung der urtheil in gegenwürtigkait des gerichts,
+zuvor und ehe das ufstet, <term>mit lebendiger stime</term> und sich gebrauchen
+in der wirdigkait der wort &#8222;Ich bin der urtail beschwert und beruf mich
+davon für mein gnedigen heren und seiner gnaden hofgericht und bitt und
+begere an euch, <term>stabhalter und urtelsprecher</term>, ir wollet mir diser
+meiner berufung <term>brief und urkundt</term> geben". Ob aber ainer hernach,
+so das gericht ufgestanden, an rat funde, daß er beschwerdt wer, so
+lassen wir zu, daß er sich in zehen tagen nach eröffnung der urtail
+oder von der zeit seines erfarens, so er die urtail vormals nit gehört
+oder gewußt hete, vor dem gericht oder richter, davon er appellieren
+würde, in schriften oder nach gewonlich herbrachter übung vor einem
+bekanten notarien und gezeugen <term>berufen und appellieren</term> mege; doch
+daß soll ich berufen geschehe in geschrift und darüber ufgericht
+werde ein <term>instrument</term>. Und wan die <term>appellation</term>
+jetztgemelter massen in schriften vor notarien und gezugen geschieht, so soll
+der appellant die innerhalb dreissig tagen (anzurechnen von dem tag beschehener
+appellation) dem stabhalter der gericht oder seinem verweser verkünden und
+von im begeren <term>appostelurkund und urtailbrief</term>. Des gleichen wa in
+abwesen des appellaten oder seines anwaldts appelliert, soll dem appellaten die
+gethon appellation, deren verkündung dem richter beschehen und wo derselb
+der appellation <term>deferirt</term> oder statt gethon hett, verkündet
+werden nach form des rechtens.</p></div>
+
+<div id="3">
+<head>[§ 3]</head>
+ <p>
+	 Item in fellen, so die hernach von einer <term>vor- oder
+beiurtail</term> an den undergerichten zu appelliren zugelassen ist, soll
+dieselb appellation allweg geschehen schriftlich und nit mundtlich und mit
+inhaltung und sonderlicher meldung der ursach seiner beschwerden und mit
+begerung der <term>apposteln und verkundtsbriefe</term> vom richter, auch
+verkündungen dem richter und den widerpartheien, wie in nechsten articuln
+vormals begriffen ist. [<quelle url="&carlebach_1906_1;120">Faksimile S. 120</quelle>] </p></div>
+
+<div id="4">
+<head>[§ 4] Vom anbringen der appellation.</head>
+ <p>
+ Item ein jede appellation, so die in obgeschribner maß beschicht, soll
+von den appellanten oder seinem gewalthaber inerhalb dreissig tagen, als sie
+geschehen ist, anbracht und verkundt werden in unser cantzlei und daselbs
+ufgezaichtnet werden, uf welchen tag solchs anbrangen geschehen sei.</p></div>
+
+<div id="5">
+	 <head>[§ 5] In was sachen die appellation zugelassen ist.</head>
+ <p>
+Item es soll an unserm hofgericht kain appellation angenomen, noch rechtlich
+verhört werden, es sei dann daß die hauptsach darumb were zehn pfund
+penning oder darüber; und ob zwischen partheien der <term>sum und
+tax</term> halben spenen entstaun, soll sein zu dem aide des appellanten, wie
+er sein ansprach in dem ersten gerichtzwang achtet unnd taxiert. Doch so sollen
+in disem unsern gesatze nit begriffen sein <term>sachen und hindele</term>, die
+er oder stende zinß gulten antreffende, und mag derhalben an unser
+hofgericht wol appelliert werden unangesehen, ob es die sum erreicht. Aber von
+urtail, damit uns frefeln, busen nach lut unser landsordnung zuerkannt werden,
+soll nit mögen appelliert werden; doch was <term>abtrag, busen oder
+straven</term> herrürt userthalb freveln inhalt gemelter landsordnung, so
+uns zu- oder aberkannt würden, die nit den <term>leib, glieder oder
+peinlich strafen</term> inhaltend, davon mag wol appelliert werden, doch nit
+witer, dann fur unser hofgericht.</p></div>
+
+<div id="6">
+	 <head>[§ 6]</head>
+ <p>
+	 Wie wol nun unser mainung, wie obstat, nit ist, daß einich
+appellationsachen, da die hauptsum under zehen pfund ist, an unserm hofgericht
+gehordt werden sollen, so lassen wir doch zu, daß in allen sachen, da die
+hauptsach fünf pfund oder darüber ist, an uns appelliert werden
+möge nach <term>form und inhalt</term> diser unser ordnung und, wan solchs
+appellation beschehen und in unser cantzlei anpracht wurde, so sollen und
+wollen uf der appellanten ansuchen wir oder unser stathalter bestimpte
+appellation, so fünf pfund oder darüber und doch die zehen nit
+ergriffen megen, zu rechtlichem <term>entscheide und ustrag</term> bevelhen und
+conmittieren usserthalb unsers hofgerichts in die empter, dannen appellation
+beschehen wer; wollen doch [<quelle url="&carlebach_1906_1;121">Faksimile S. 121</quelle>] gehapt haben, daß von solch unser commissarien
+spruch weiter nit appelliert.</p></div>
+
+<div id="7">
+	 <head>[§ 7]</head>
+ <p>
+ Item es soll an den undergerichten von keiner <term>vor- oder
+beiurtheil</term>, die die endurtheil nit uf ir tregt, oder der beschwerung
+durch die appellation, so von der endurthail beschicht, widerbracht werden mag,
+nach form des kaiserlichen rechten nit appelliert, noch an unserm hofgericht
+gehert und im selben falle die partheien wider an das undergericht gewisen und
+der appellant in costen verdampt werden.</p></div>
+
+<div id="8">
+	 <head>[§ 8]</head>
+ <p>
+ Wann auch von ainer beiurtheil an unsern undergerichten appelliert wurde,
+sover dann den unterrichter bedunckt, daß die <term>frevlich oder
+unnotturftigliche</term>, [so] mag er der appellation nit <term>deferiren oder
+stat geben</term>, sondern in der sachen volfaren, so lang und bis im von uns
+oder unserm hofgericht <term>inhibits- und verpotsbrief</term> zukomen &#8212;,
+doch so soll derselb underrichter, sover und ehe er der appellation nit stat
+geben will, uf beschehen begerung der appostel geben abschlegig, zu latin
+<term>refutationes</term> genant.</p></div>
+
+<div id="9">
+	 <head>[§ 9] Vom gerichtshandel den undergerichten
+ufzuschreiben:</head>
+ <p>
+	 Item es sollen von den undergerichten uf begeren der partheien eins
+oder baider theils in sachen, davon an unser hofgericht appelliert wurdt,
+urtheilbrief uf costen der partheien, <term>furtrege, clag, antwurt, wider- und
+nachreden</term>, auch ingelegt briefe oder schriften und gefürte
+kuntschaften, auch anzaige gethaner appellation, tagszeit und form und, wie vor
+inen beschehen und was darauf zu antwurt gefallen sei, [ufgeschrieben] und
+solich gerichthindel mit fleisig besicherung des gerichts under irem oder eins
+amptmans daselbst sigel den begerenden partheien uf iren zimlichen
+schreibercosten geben werden. Ob aber ein urtail gienge, da kain schreiber
+were, sollen zwei von demselbigen gericht an ir obergericht unverzogenlich,
+weil sie die furtreg noch in frischer gedechtnus haben, geschickt werden, da
+sie einen schreiber finden, daselbs die sachen in vorgerüter maß
+ufzuschreiben und zu fertigen, doch nit zu versiglin, es haben dan andere ir
+mitrichtere die zuvor auch gehert und zu gelassen. Denselben zwaien richteren
+[<quelle url="&carlebach_1906_1;122">Faksimile S. 122</quelle>] soll dann
+der, der urtails-brief haben will, ir zimliches zu dem schreiber lon (der soll
+auch zimlich genommen und gehalten werden) ußrichten.</p></div>
+
+<div id="10">
+	 <head>[§ 10]</head>
+ <p>
+Wo auch das undergericht uf ansinnen des appellaten die gerichtsacta, vor inen
+ergangen, zu geben weigern oder <term>verzug und verbiegung</term> thon
+würde, darmit dan die appellation ir formalien halb und sonst der
+fürderlich gerechtfertigt und auch in der hauptsach procediert werden
+möge, so lassen wir umb fürderung willen der sach zu: sover die
+appellation innerhalb dreissig tagen, wie obsteet, in unser cantzlei anbracht
+ist, daß alsdann us unser cantzlei wider dasselbs undergericht
+<term>compulsoriales und zwangsbriefe</term> bei einer nemlichen pene zehen
+pfund pfening, uns zu straf von den ungehorsamen zu bezalen, geben werden
+mögen, unangesehen ob wol in der appellationsach noch kain gerichtstag
+gehalten were, mit beheltnis uf begarung der ungehorsamen unser weiter straf
+nach gepüre. Es sollen sich auch die undergericht zum hechsten fleissen,
+die gerichtshindele, vor inen ergangen, mit meldung der appellation, sover die
+vor inen beschehen were, mit lauter und volkumen begreifung der parteien
+furtreg, allen inbrachten briefen, verhörung der zeugen und ergangen reden
+recht zu verfassen, damit durch sollich mingel, als an unserm hofgericht
+oftmals zu schaden der partheien hievor begegnet ist, die sachen nit gelingert
+und die parthei zu kosten gebracht werde. Dann wa unser hofrichter des
+säumnis an undergerichten befindet, soll er den partheien, die des schaden
+leiden würden, von den undergerichten zur billichen kerung des costens und
+schadens verhelfen.</p></div>
+
+<div id="11">
+	 <head>[§ 11] Von Vertagung an unser hofgericht.</head>
+ <p>
+	 Item uf daß die sach gefürdert und hofrichter und rhete
+nit unnotturftiglich ufgehalten werden, so sollen hinfür all parteien, so
+an unser hofgericht vertagt werden, zu früwer tagzeit erscheinen, das ist
+nimlich zu somerszeiten zu sechs uren und zu windters zeiten zu siben uren,
+alsdan vor hofrichter und rethen zu erscheinen. Welche parthei aber uf dieselb
+zeit und stund nit gegenwurtig wer, so die nach dem register der tagsatzung
+beruft wurdet und irs usbleibens nit redlich ursach fürbrechte, die soll
+uns zu straf verfallen [<quelle url="&carlebach_1906_1;123">Faksimile S. 123</quelle>] 
+sein ein ort eins guldens und nichts destominder der ungehorsam
+gehalten werden, wie nachvolgt.</p></div>
+
+<div id="12">
+	 <head>[§ 12]</head>
+ <p>
+ Item die vertagungen an unser hofgericht sollen mit schlichten offnen
+tagzedeln wie bisher usgen und baiden parteien under augen, wo man die gehaben
+möge, oder in die gewonlich wonungen zugeschickt werden; doch in
+kaiserlichen oder küniglichen commissionsachen soll es auch, wie bisher,
+gehalten werden nach forme des rechtens.</p></div>
+
+<div id="13">
+	 <head>[§ 13]</head>
+ <p>
+ Item in ansehung daß unser hofgericht haltung verzüglich und us
+fürgefallen gescheften etwan fürgeschoben werden möchte, damit
+dann die partheien fürderlichen ustrag erlangen, so sollen in allen
+appellationsachen nit mehr dann zwei vertagungen usgeen, deren die ander
+<term>peremptorie</term> sei und darin usgetruckt werden soll, es wer dann
+daß richter und rethe nach gestalt der sachen bedeucht, weiter vertagung
+usgen zu lassen; das soll mit dieser satzung unbenommen sein.</p></div>
+
+<div id="14">
+	 <head>[§ 14]</head>
+ <p>
+ Item zu veroffnung der endurteile oder, die kraft einer urtheil haben, soll
+ein jede vertagung peremptorie beschen, baiden parteien under augen oder in ir
+gewonliche wonung, wie obstet, durch geschworen boten oder in ander
+<term>glaublich und bewerlich weiß</term> verkundt werden.</p></div>
+
+<div id="15">
+	 <head>[§ 15] Wie uf ungehorsamkait vor unserm hofgericht
+procediert werden soll.</head>
+ <p>
+ Item die so der partheien für unser hofgericht werden vertagt und ainiche
+parthei ungehorsam were und rechtlich nit erschine, so soll als dann uf
+<term>erforderung und anrufen</term> des gehorsamen theils <term>fürgangen
+und procediert</term> werden nach des rechten und gestalt einer jeden
+ungehorsamei und gelegenhait der sach.</p></div>
+
+<div id="16">
+	 <head>[§ 16]</head>
+ <p>
+	 Item ob uf die erste tagsatzung einich parthei ungehorsam ausbleibe,
+also daß sie zu bestimpten tag und stund nit herscheinen were, sover dann
+desselb usbleibent theil (zu der andern tagsatzung in recht) [<quelle url="&carlebach_1906_1;124">Faksimile S. 124</quelle>] nit erscheint
+redlich ursach und ehehafte seines usbleibens, so soll er schuldig sein, dem
+gegenthail zuvor und, ee weiter in der sachen volfaren werde, seinen
+<term>costen und schaden</term>, der ersten tagsatzung halb gelitten, nach
+messigung unser hofrichter und rethe <term>abzulegen und zu
+bekeren</term>.</p></div>
+
+<div id="17">
+	 <head>[§ 17]</head>
+ <p>
+Item wo ein appellant in ungehorsamei seines widertails zu procedieren
+zugelassen würdet, so soll er zuerst unser hofrichter und rethe
+usgegangener tagsatzung und daruf der formalien seiner gethan appellation
+underrichten und die beweislich darthon und darnach in den <term>beschwerungen
+und hauptsach</term> gehort werden.</p></div>
+
+<div id="18">
+	 <head>[§ 18]</head>
+ <p>
+Item ein jeder appellat mag aber, will er in endlichen ungehorsame seines
+widertheils procedieren, uf die <term>defertion der appellation</term>, dass
+die gefallen, und zur gründung des gerichtszwangs die formalien der
+appellation beibringen und daruf die behalten urtheil zu <term>confirmieren und
+befestigen</term> begeren.</p></div>
+
+<div id="19">
+	 <head>[§ 19] Von gewalt zu recht.</head>
+	 <p>
+Item so ordnen und setzen wir: welcher einem andern sein gewalt, für ine
+an unserm hofgericht zu erscheinen, geben würdet, daß er in solchem
+gewalt uns oder unser hofgericht als richter, sich selbs, seinen widerparthei
+und auch den gewalthaber, jeglichen mit seinem namen, die sach, darumb
+taggesetzt ist, bestimmen soll mit versprechens, &#8222;was der gewalthaber von
+seinen wegen in recht thun und lassen werde, daß er das <term>stete und
+vest</term> halten und dem nachkomen wolle, wie recht seie", und daß
+solch gewalt von einem edelman under seinem oder eins andern glaubhaftigen
+edelman insigel oder in ander weise, die im recht glaubhaftig sein, und von
+einem bürgerman under eins raths, gerichts, prelaten, edelmans oder
+amptmans insigel oder auch in anderweise dem rechten gemeß
+usgangen.</p></div>
+
+<div id="20">
+	 <head>[§ 20]</head>
+ <p>
+	 Item so einer seine gewalt vor unserm hofgericht übergeben will,
+so soll der richter den fragen, in welcher sach er gewalt geben wolle und so,
+das von ime zu erkunnen geben würdet, so soll der richter im lassen
+vorlesen die form des gewalts also lutendt: [<quelle url="&carlebach_1906_1;125">Faksimile S. 125</quelle>] &#8222;Du gibst N.
+deinen vollen gewalt in der aller besten form, die sach im rechten zu handlin
+zu gewin, verlust und zu allem rechten und demselben nachzukumen, wie recht
+ist, auch den <term>aid für geverde</term> und einen jeden zimlichen eide,
+der vom richter ufgelegt würde, in dem falle zu schweren in obberüter
+sachen: das alles gelobst du an stabe ungeverlich".</p>
+ <p>
+Und so das beschicht, soll von unserm hofgerichtschreiber solchs gewaltsgebung
+actis vermerkt werden.</p></div>
+
+<div id="21">
+	 <head>[§ 21] Wie in der appellation sachen, so baide
+parteien erscheinen, soll procediert werden.</head>
+		 <p>
+Item sover die parteien erscheinen durch sich selbs oder ir anwelde, so soll
+der appellant anfenglich seiner gethon appellation formalien in recht beweisen,
+es wer dan daß der widertheil in seiner gethonen appellation gestindig
+oder die nit anfechten wolt.</p></div>
+
+<div id="22">
+	 <head>[§ 22]</head>
+	 <p>
+Item so das beschicht, würdet dann der appellation für tauglich
+herkennt oder vom widertheil nit angefochten, so sollen nach <term>herkumen und
+brauch</term> unsers hofgerichts die <term>appostel und urkundbrief</term> auch
+die gerichtsakten der ersten instantz, wo die gegeben weren, vor allen reden
+verlesen werden.</p></div>
+
+<div id="23">
+		 <head>[§ 23]</head>
+	 <p>
+		 Item dann im falle, so von einer <term>vor- oder
+beiurthail</term> oder beschwerde appelliert ist, so soll der appellant seine
+appellation, wie die in schriften mit inserierung der ursachen der beschwerden
+versehen und verfaßt ist, anstat der klag widerumb anziehen und darauf
+begeren zu erkennen &#8222;daß übel gehandelt oder geurtailt und wol
+appelliert sei"; wo aber von einer endurtail appelliert ist, so soll der
+appellant nach vorlesung der gerichtsacten, wo er die han möge, seine
+beschwerungen und clag <term>müntlich oder in schriften</term>
+fürbringen mit begeren zu erkenen &#8222;daß übel gesprochen
+und wol appelliert sei"; doch [wenn] von einer urtheil, damit der appellat
+ledig erkannt were, appelliert worden, mag der appellant begeren &#8222;zu
+urthailn laut seiner begerung in der ersten gerichts übung". [<quelle url="&carlebach_1906_1;126">Faksimile S. 126</quelle>] </p></div>
+
+<div id="24">
+		 <head>[§ 24]</head>
+	 <p>
+Item nachdem mag der appellat darauf sein <term>antwurt geben oder uszuge
+thun</term>.</p></div>
+
+<div id="25">
+		 <head>[§ 25]</head>
+	 <p>
+Item dargegen mag der appellant replicieren und der appellat sein
+<term>duplic</term> und jeder teil darauf noch ein red und nit mehr thun, also
+daß allweg in einer jeden sach, dar über man urthail sprechen soll,
+es sei in <term>bei- oder endurtail</term>, zum selben mal nit über [drei]
+reden von jedem teil geschehen, darin die parteien inbringen sollen und
+mögen, was inen not ist &#8212;, es wer dan daß richter und reth us
+redlichen ursachen sollichs mit urthail zuliessen.</p></div>
+
+<div id="26">
+	 <head>[§ 26]</head>
+	 <p>
+Item begebe sich aber, daß einich parthei icht neuwers
+<term>fürbringen oder beweisen</term> wolt durch briefen, schriften oder
+in ander rechtmessig wege, das in der ersten instants nit fürbracht oder
+gnugsamlich bewiesen were, das soll nit abgeschlagen, sonder zugelassen und
+gehort werden; doch wo unsere hofrichter und rethe amptshalb bedeucht oder die
+widerparthei vermeinen wolt, daß es zu geverlicher verlengerung des
+kriegs geschehe, mögen dieselbe unser hofrichter und rethe derselben
+partheien ufflegen, sich des mit dem eid zu benemen. Doch ob einich partheie uf
+<term>punkten oder artickel</term> oder derselben starken widersein, darumb
+vormals in erster instans auch zeugen wie recht gefürt und geöffnet
+worden durch nuw und ander zeugen, so in der ersten instants und
+gerichtsübung nit gehordt weren, beweisung thun wolte, die sollen nit
+zugelassen oder gehert werden &#8212; es were dann, daß richter und
+rethen nach art und gestalt der sachen ein anders recht bedeucht. Und so die
+partheien obgemelter maßen ichts news zu beweisen oder fürzubringen
+zugelassen werden, soll es damithin gehalten werden, wie die in dem articul
+hernach von verherung der zeugen begriffen.</p></div>
+
+<div id="27">
+		 <head>[§ 27]</head>
+	 <p>
+Item so hinfür von einem oder beiden theilen der <term>eide für
+geverde</term>, zu latin <term>juramentum calumniae</term> genant, an unserm
+hofgericht, es sei in erster instantz alda hangend oder appellation sachen,
+gesonnen würde, sollen die partheien den schweren und, wo sich der cleger
+des weigert, so ist er seiner clag verlustig, widert sich aber der antwurter,
+so ist er dem cleger laut seiner clag verfallen.</p></div>
+
+<div id="28">
+	 <head>[§ 28]</head>
+	 <p>
+Und sindt diß die artickel, so der eid für geverde inhelt:
+<list>
+	 <item>a) Item daß er meine, ein gerecht sach [zu] han,</item>
+	 <item>b) Item daß er die warhait wolle sagen, darumb er gefragt
+werde, und die nit verleugknen,</item>
+	 <item>c) Item daß er sich kainer andern bewerung wolle
+gebrauchen, dann die er zu steur der warhait not acht,</item>
+	 <item>d) Item daß er dem richter oder ainicher ander person, der
+das die recht, zu nemen, nit zulassen, durch sich oder ander nichts geben oder
+verhaisen habe oder geben oder verhaisen wolle in der sach, daß die
+urthail für ine gange,</item>
+	 <item>e) Item daß er in diser sach kein schub zu verlengung des
+kriegs begeren wolle.</item></list></p></div>
+
+<div id="29">
+		 <head>[§ 29]</head>
+	 <p>
+Item wann also die partheien ir fürbringen im recht, wie obstat, gethun
+und mit obgemelten dreien reden beschlossen haben, sover sie nichts newers zu
+beweisen haben oder darzu nit zugelassen werden, wo dann von einer <term>vor-
+oder bei-urthail</term> oder beschwernis appelliert ist, wurde dan gesprochen,
+&#8222;wolgehandlet oder geurthailt", so soll die hauptsach wider für den
+underrichter gewisen und daselbst in recht darauf vollfaren werden, [sofern
+aber über ein endurteil] gehandelt were, so soll die sach an unserm
+hofgericht beleiben und daselbs geendet werden.</p></div>
+
+<div id="30">
+	 <head>[§ 30] Von verherung der zeugen und anbringung ander
+bewerung.</head>
+		 <p>
+			 Item so hinfür einicher partheien an unserm
+hofgericht es sei in erster instants oder appellation sachen durch zeugen
+bewerung zu thun zugelassen würdet, so soll dieselb parthei uf gesinen der
+widerpartheien die sach und meinungen seiner beweisung artickelsweise
+<term>mündtlich oder schriftlich</term> angeben, darus zuvor zu sehen, was
+er beweisen will. Beducht dann unserm hofrichter und rethen oder herfunde sich
+durch anfechtung des widertheils, daß sollich artickel <term>undeutlich
+und unfürtreglich</term> weren, so soll sollich beweisung zu beschwerung
+des anderin theils nit zugelassen werden. Beheltlich so die artickel nit
+verworfen werden, [so soll] dem widertheil sein fragstück, darauf, nach
+dem aber nach gebrauch unsers hofgerichts merentheils zu verherung der zeugen
+commissarien gegeben werden. Haben die [<quelle url="&carlebach_1906_1;128">Faksimile S. 128</quelle>] partheien übergebung der artickel und
+fragstück vor hofrichter und rethen gegeneinander gesinnung, so mögen
+sie sollich <term>artickel und fragstück</term> dem commissarien
+übergeben mit beheltnus der <term>inrede der undienstlichkait</term> nach
+eröffnung der zeugen sage.</p></div>
+
+<div id="31">
+		<head>[§ 31]</head>
+	 <p>
+Die Zeugen, so für unser hofrichter oder gegeben commissarien gestelt
+werden, sollen nach geschrieben eid schweren:</p>
+	 <p>
+&#8222;Ir werden ewer traw geben und darauf schweren einen eid leiplich zu Got
+und den Hailigen, eine lautere volkomene warhait zu sagen mir dem richter oder
+commissarien, darzu geordnet, was kundt und wissen sei von den stucken in der
+sach, darumb dieser krieg ist, und darunder <term>kain warhait und
+falschheit</term> zu mischen und auch darin nit irren oder bewegen lassen
+<term>nutz, freuntschaft, gunst, neid, gab, forcht, oder einich ander
+sach</term>, wie die erdacht werden möchten, dan allein zusagen die
+warhait und dem rechten zu hilf."</p>
+	 <p>
+Und wan im also der eid mit erinnerung der schweren übelthat und hohen
+strafen des meineides vorsagt wurdt, also dan sollen sie ir trew geben und
+darauf ufgeben und mit den worten inen vorgesagt werden, wie sie ir trew geben
+haben, und mit worten beschieden sein, daß sie dem nachkumen und das
+<term>ware und stete halten</term> wollen <term>getreulich und
+ungeverlich</term>, also bitten sie zum Gott, zu helfen und das hailig
+evangelium.</p>
+	 <p>
+Es soll auch kainem zeugen diser eid one baider partheien bewilligen erlassen
+werden und daruf alle gezeugen insonderhait und alle ainer nach der andern in
+abwesen der partheien und ander zeugen und nit offentlich gehert werden, des
+gleichen der zeuge gefragt werden umb stand der sachen als statt, zeit und
+ursach seins wissens, wie sich nach gestalt der sach und was und wie dem
+verherer nach seiner beschaidenheit und vernunft im rechten dienstlich und
+notturftig bedeucht. Und damit die commissarien in verherung irer zeugnisse
+diser unser ordnung sich gemeß zu halten wissen, haben wir zu ende diser
+ordnung einen begriff thun setzen &#8222;form und maß der commission";
+der gleich form sich ein jeder commissarius halten soll; und wo das nit
+geschehe, soll sein verhörung von unwerd sein.</p></div>
+
+<div id="32">
+		<head>[§ 32]</head>
+	 <p>
+		 Item es sollen zu fürung die zugen nit mehr dann ain
+<term>schub</term> (<term>dilation</term>) gegeben werden, es wer dann
+daß eehaft ursach und [<quelle url="&carlebach_1906_1;129">Faksimile S. 129</quelle>] verhinderung in recht bestendig fürgebracht
+würde, daß richter und rathe billich gedücht, mer
+<term>schub</term> zu geben.</p></div>
+
+<div id="33">
+		 <head>[§ 33]</head>
+<p>
+Item nach öffnung der zeugen sag, so solls beiden theilen darnach auf die
+artickel, darumb kundtschaft gefürt ist, oder dem starken widersein
+derselben articul weiter zeugschaft zu leiten außers nit zugelassen
+werden, es were dann, daß richter und rath nach art und gestalt einer
+sach ein anders rechts bedeuch.</p>
+	 <p>
+Und ob einicher theil nach <term>öffnung und verherung der
+gezeugniß</term> begerte [von] des andern theils kuntschaften
+<term>abschriften oder copeien</term>, damit er sein einred <term>schriftlich
+oder mündtlich</term> dester baß thon möge, so sollen im die uf
+sein costen gegeben werden.</p>
+	 <p>
+Es soll auch jedem theil nach <term>öffnung und verherung der
+gezeugniß</term> sein zu- und inred in die personen der zeugen und
+ersagt, wie recht, zuthun behalten sein; und in demselben zu- und inreden jede
+parthei nit mehr dann zwei reden thun, damit auch baide partheien in der sach
+befleissen sollen, es wer dann daß richter und rethe einich partheien
+halb not bedeucht inen weither zuzulassen; das doch one merglich ursacht und
+rechtlich herkantnuß nit geschehe, so soll er doch über die drit red
+zuthun nit zugelassen werden. Wan auch die zeugen im ersten gerichtgang nit
+<term>haimlich und einich</term>, sonder <term>offentlich oder
+samentlich</term> oder, daß sie allein glaubet geben und nit den eid
+darzu geschworen heten, verhört worden weren und sollichs daselbst von den
+partheien <term>geduldet und unangefochten</term> bleiben, so soll sollich
+anfechtung wider die verhöre egerürter ursachen halb an unserm
+hofgericht nit mehr statt haben.</p></div>
+
+<div id="34">
+	 <head>[§ 34] So <term>schüb und tag</term> begert
+würdet.</head>
+		 <p>
+			 Item ob ainich parthei im rechten unserer
+hofgericht weither <term>tag und schub</term> begeren würde, es sei in der
+ersten instantz oder appellationsach, so mag ein hofgericht nach gestalt einer
+jeden sach, wie recht, sollichs erkennen; doch fürkomen lengung ursach, wo
+es richter und reth für not ansehe, daß dan dieselb parthei zuvor
+<term>globe und swere</term>, daß sie sollich schub und tag us irer
+notturft und [nit] zu lengerung der sach oder seiner gegenparthei mit geverdt
+und zutreiben begere. [<quelle url="&carlebach_1906_1;130">Faksimile S. 130</quelle>] </p></div>
+
+<div id="35">
+		 <head>[§ 35]</head>
+	 <p>
+Item zu fürderung der gerichtübung und die sachen des kriegs zu
+bekürtzen, sollen all und jede <term>schub und tag</term>, die nach
+<term>befestigung des kriegs</term> und vor endlichem beschlus und
+<term>rechtsatz</term> mit recht erkannt und zugelassen werden,
+<term>peremptorie und endtlich</term> sein, es würden dann <term>rechtlich
+und ehaft ursachen und verhinderung</term> fürbracht, die hofrichter und
+rethe bewegeten, weiter schub zu geben.</p></div>
+
+<div id="36">
+		 <head>[§ 36] Von costen und scheden in appellation
+sachen.</head>
+	 <p>
+Item wan der appellierer seiner appellation vorm hofgericht verlustig
+würdet, so soll er dem widertheil, der vormals ein behalten urthail gehabt
+hete, sein <term>costen und schaden</term> ablegen; würde aber der
+appellierer sein appellation vorm hofgericht behalten, ist er seinem
+widertheil, [welche der] gehapt hot umb costen und schaden der appellation halb
+gelitten, nichts schuldig. Doch so ist richtern und rethen vorbehalten, nach
+gestalt einer jeden sach umb den costen mit gebürlicher vergleichung
+desselben insehens zu han.</p></div>
+
+<div id="37">
+	 <head>[§ 37] Wie es der hofgerichtschreiber halten
+soll.</head>
+	 <p>
+		 Item der hofgerichtschreiber soll bei seinem geschwornen eid
+seinem ampt getrewlich vorsein mit ufschreiben, lesen und anderm, auch brief
+und anders, so in gericht brauch wurdet, getrewlich verwaren und die ratschlege
+der hofrichter und rethe one gehaiß derselben nit öffnen, auch
+kainer parthei wider die ander rathen und warnen umb kainerlei sach willen,
+darzu kain geschrift den partheien hinus geben on erlaubt deren, die es macht
+haben, und in der tax der briefe sich zimlich halten und niemand übernemen
+und in sonderhait bei seinem geschwornen eid einem jeden appellanten, so der
+urthelsbrif nimpt, an der gepürlichen tax solchs urtheilbriefs das gelt,
+so er in anbringung seiner appellation ingelegt (das ist nemlich ein gulden in
+sachen, da die hauptsach fünfzig gülden oder darunder, und, da die
+über fünfzig lauft, zwein gulden und nit darunder) widerumb abziehen
+und urtheilbrief bei obgemeltem eid darumb nit dester höher taxiren.[<quelle url="&carlebach_1906_1;131">Faksimile S. 131</quelle>] </p></div>
+
+<div id="38">
+	 <head>[§ 38] Von fürsprechern und irem eid.</head>
+		 <p>
+Item ist geordnet, daß die partheien allweg bei unserm hofgericht finden
+drei oder vir geschworen geordnete fürsprechen, die, und so dick sich ein
+änderung oder ersatzung mit fürsprecher begibt, schweren sollen den
+nachvolgenden eid &#8222;daß er, der fürsprech, die parthei, deren
+er sich irer sach annempt zu handeln, mit gantzen und rechten trawen meinen und
+sollich sach im rechten nach seiner besten verstandtnuß seiner parthei zu
+gut fürbringen und handlin und darin kainerlei falsch noch unrecht
+wissentlich brauchen wolle oder <term>geverlich schub zu verlengerung der
+sach</term> suchen, das die parthei zu thun im nit underweiset; auch mit der
+parthei keinerlei <term>vorgedinge oder fürwort</term> machen, im von der
+sach, der er in rechten redner ist, zu haben oder zu warten; auch haimlichent
+und gehelf, so sie von den partheien empfangen [zur] underrichtung der sachen,
+von ine selbs mercken werden, seiner parthei zu schaden niemands offenbaren;
+und vor gericht erbarkeit gebrauchen darzu auch die partheien über den
+<term>soldt oder lone</term>, der ime nach unserer ordnung gepürt, mit
+merung oder anderm geding nit beschweren oder erhöhen wölle und, ob
+<term>solds oder lons halb</term> zwüschen ime und ainich parthei irung
+entstünde, desselben zu bescheiden bei beschaid unsers hofrichters oder,
+wem der hofrichter us den rethen das bewillich; daß er auch der
+angenomenen sach sich on redlich ursach nit entschlagen, sonder iren partheien
+bis zu end des rechten handlen wöllen."</p></div>
+
+<div id="39">
+		 <head>[§ 39]</head>
+	 <p>
+Item welcher fürsprech sich einer sach annempt <term>zu reden oder
+zuraten</term>, der soll in derselben sach dem widertheil <term>zu raten, zu
+reden oder ainichen beistand zu thun</term>, nit zugelassen werden.</p></div>
+
+<div id="40">
+		 <head>[§ 40]</head>
+	 <p>
+Item es soll kain parthei mer dan einen der geschworen fürsprechen
+<term>ufnemen oder bestellen</term>, es wer dann daß die ein parthei
+einen frembden fürsprechen mit brächte. So mag die ander parthei der
+geschworenen fürsprechen, sovil ir geliebt, bestellen und
+annemen.</p></div>
+
+<div id="41">
+		 <head>[§ 41]</head>
+	 <p>
+		 Item es soll hinfür kain fürsprech einich
+parthei in ir sach rathen; [<quelle url="&carlebach_1906_1;132">Faksimile S. 132</quelle>] dieselb, die ine umb rath suchet, wolle dann ine zu
+fürsprech in der sache brauchen.</p></div>
+
+<div id="42">
+		 <head>[§ 42]</head>
+	 <p>
+Item uf daß niemand armut halb rechtlos gelassen werden, so soll unser
+hofrichter, so je zu zeiten sein würdet, die sachen der armen, die ir
+armut mit irem eid, ob der gesonnen würdet, beschweren, den
+fürsprechen bevehlen, ine one sold zu reden; und welchen redner sollich
+sachen vom richter empfalhen werden, der soll bei entsetzung seines ampts
+<term>schuldig und pflichtlich</term> sein, die sachen one widerreden
+anzunemen. Doch ob sollicher armenlut sachen mer dann ein weren oder wurden,
+die soll der richter gleich under die redner teilen.</p></div>
+
+<div id="43">
+	 <head>[§ 43]</head>
+	 <p>
+Weither ist geordnet, ob imands in appellation sachen ein frembden redner mit
+im brechte, der soll vor unserm hofgericht zu reden zugelassen werden, doch
+also mit dem underschid: damit die geschwornen fursprechen demselben hofgericht
+nit vergebentz ufwarten bederfen, hette dan die parthei, so solch frembde
+fursprech brechte, dieselben zuvor und, ee sie an das ende, da unser hofgericht
+gehalten würdet, komen, bestellt, so soll [sie] zuvor und, eh sie in recht
+zugelassen würdet, den halben gesetzten fürsprechen-lone zu gemeinem
+gericht under geordnete fürsprechen bezalen; wa aber die parthei solchs
+fürsprechen zuvor und, ee sie an das ende, da unser hofgericht gehalten
+würdt, [käme,] nit bestelt und in erst daselbst angenomen, so soll
+die in recht nit zugelassen werden, sie hab dann zuvor bezalt und
+ußgericht den gesetzten fürsprechen-lon, nemlich fünf
+schilling, die dan fürter die geordneten in gemain under sich gleich
+theilen sollen.</p></div>
+
+<div id="44">
+		 <head>[§ 44]</head>
+	 <p>
+		 Item nachdem zu unserm hofgericht drei oder vier
+fürsprechen bestelt, die auch dem aufzuwarten bei irem geschwornen eid
+verbunden sind, uf daß sie dann solchs deßbaß gethon und
+einer vor dem andern destweniger vortheils, sonder all umb ir <term>wartung,
+müh und arbait</term> zimliche <term>nissung und belonung</term> haben
+mögen, so sollen dieselben geschwornen fürsprechen jeder des halb
+theil der fünf schilling pfening irer gemainen gesetzten belonung von
+allen sachen, die in unser hofgericht vertagt, darin sie zu fürsprechen
+gebraucht, legen in ein gemaine buch und den allweg zu usgang jedes hofgerichts
+[<quelle url="&carlebach_1906_1;133">Faksimile S. 133</quelle>] daselb gelt
+under sich gemainlich und gleich theilen; und das ander halb theil des
+gesetzten lons oder, ob und was die partheien inen über den gesetzten lon
+weither geben, soll und mag ir jeder von den sachen, darin er geredet hett,
+für sichs selbs allein behalten.</p></div>
+
+<div id="45">
+		 <head>[§ 45]</head>
+	 <p>
+Item der fürsprechen lone soll sein von einer gemainen sach fünf
+schilling pfennig; aber sachen, da uf anzaige der redner unsern hofrichter
+bedeuch, daß ein fürsprech meren lone verdient hete, soll sich ein
+jeder fürsprech lassen begnügen des lons, wie ime der hofrichter
+über vorgemelt summe schepfet &#8212;, darmit nemandt übersetzt
+werde.</p></div>
+
+<div id="46">
+	 <head>[§ 46] Form der comission, davon vorgemelt.</head>
+	 <p>
+		 Wir Cristof etc. entpieten N. unser gnad und thun dir kundt:
+Als von unser hofrichtern und rethen zwischen N. an einem und N. anders theils
+in der rechtverfertigung, damit sie vor unserm hofgericht in recht hangend und
+verfaßt sind, jüngst ein urtheil gangen ist, die lut abschaids,
+deshalb ußgangen, bemelten N. seinem <term>begeren und erpitten</term>
+nach zulasst, durch zeugen etwas bewerung zu thun, haben die gemelten unsere
+hofrichter und reth uf begeren und bewilligen der partheien dich zu
+commissarien verordnet und gegeben. Demnach bevehlen wir dir, mit ernst,
+daß du baide partheien und die zeugen, so dir von genantem benent werden,
+uf einen benanten tag für dich <term>mitierest</term> und heischest und in
+gegenwürtigkait der partheien oder irer anwelde oder, ob eine ungehorsam
+ußbleibt, die zeugen dir <term>geloben und schweren</term>, sie auch des
+one der partheien willen und gefallen nit erlassest, &#8222;uf die
+<term>articul und fragstuck</term>, so dir die partheien überantwurten und
+die du inen fürhalten würdest, kuntschaft der warhait zu sagen irs
+wissens" und, wann die zeugen also <term>gelopt und geschworen</term> haben
+oder das mit willen der partheien erlassen sind, also dann sie, die zeugen, und
+jeglichen besonder in abwesen baider partheien <term>articul und
+fragstuck</term>, die von den partheien überantwurt und übergeben,
+fragest und, was sie also sagen, dasselb eigentlich nach der lengde in ein
+schrift stellest und die zusampt diser commission, articul, fragstucken, und
+allem prozeß unserm hofrichter und rethen <term>verschlossen und
+versiglet</term> überantwurtest. Wolt oder würde sich aber imand
+kundtschaft zu sagen, sperren oder ungehorsam [<quelle url="&carlebach_1906_1;134">Faksimile S. 134</quelle>] erzaigen, den zwing
+darzu mit gewonlichen penen des rechten. Des alles wollen wir uns zu dir
+verlassen zu urkund under unserm zurück ufgetrucktem secret, versigelt
+geben uf .....</p></div>
+
+<div id="Datum">
+	 <head>Datum</head>
+	 <p>
+	 Actum et datum montags nach sanct urseillentag ano C nono.</p>
+</div>
+</body></text></TEI.2>

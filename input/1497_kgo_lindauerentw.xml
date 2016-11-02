@@ -1,0 +1,646 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+<title>Kammergerichtsordnung 1497 Lindauer Entwurf :: Transkription Speer 2010 / 2016</title>
+</titleStmt> 
+</fileDesc> 
+</teiHeader> 
+<text> 
+<front>
+<divGen depth="3" type="toc"/>
+</front> 
+<body> 
+<div id="Editorial"> 
+<head>[Editorial]</head>
+<p>Quelle: Gollwitzer, Heinz (1989): Reichstage von Lindau, Worms und Freiburg 1496-1498. Göttingen: Vandenhoeck &amp; Ruprecht (Deutsche Reichstagsakten. Mittlere Reihe, Band 6) 310-323</p></div>
+<div id="A1">
+<head>[Art. 1] Verwesunge eins camerrichters und anzale der bysitzer
+betreffende.</head>
+<p>Nochdem des kgl. KG. ordenunge, zu <name type="place">Worms</name> ußgangen,
+begrifft, das in sachen ff. betreffend nyemants, dan ein gf. oder frhr. zu 
+verweser des <pb n="S. 312"/>
+camerrichters gesatzt werden sol, ist geratslaget, das gut und not sy, ufs
+mynst noch einen gf. oder frhr. an das KG. zu gf. <name type="person">Bernhart
+von Eberstein</name>
+zu ordenen, damit zu ziten, so sich lybs, krankheit oder ander not sachen
+denselben camerrichter und gf. zu einer zit begeben möchten, desselben
+halben nit verhinderung oder mangel entsteen müge, wie bißhar etwan
+bescheen ist, das ouch fliß ankert, das die angezeigte zale der bysitzer
+fürderlich erfüllet werde, und wiewol die gemelt ordenunge anzeig tut uf
+sechzehen bysitzer, also das nit mer dan vier personen zu einer zit vom
+KG. erloupt werden sol. diewile aber dieselbe zale bißhar noch nye erfült,
+sonder nie mer dan dritzehen bysitzer oder zu etlichen ziten mynder hie
+gewest und aber durch die kgl. mt. und etlich ff. und stende des richs zu
+<name type="place">Worms</name> darzu verordnet uf anbringen eines KG. hievor
+zugelassen worden,
+das durch acht bysitzer und den camerrichter urteil gesprochen werden
+mögen, ist geratslaget, das gut und not sy vergangener und künftiger
+urteilen halben und das es fürohin ouch also gehalten werden sol, declaracion 
+ze tun und klare ordenung zu machen, wie harnach volgt, domit uß
+solicher ordenung nit ursach gegeben werde, in die urteilen inrede oder
+cavillacion ze tun.</p>
+<p>
+Item, das von vile und menge der sachen, die sich tägelich hufen und
+zufallen, zu fürderung der sachen gut und not were, das ein camerrichter
+uß den bysitzer ein der audienz entraten möcht, das zum mynsten vieren
+bevolhen, die by urteil und <term type="juridical">taxaciones expensarum</term>
+uf 
+infallende rechtsatz entledigen mögen, nochmals öffenlich am KG. ußzusprechen,
+domit man
+zu andern ziten usserthalb der audienz zu entlichen urteilen deste
+fruchtbarlicher griffen müge.</p>
+</div>
+
+<div id="A2">
+<head>[Art. 2] Erkantnis der ladungen.</head>
+<p>
+Item, als die ordenung anzeigt, das <term type="juridical">citaciones</term>
+durch einen camerrichter
+erkant werden sollen, ist geratslaget, das zu fürderunge der partyen
+declariert und zugelassen werde, das zu ziten der vacanz oder sust ein
+camerrichter oder in sinem abwesen die bisitzer oder etlich uß inen durch
+einen kamerrichter darzu geordnet <term type="juridical">supplicaciones</term>
+annemen und ladung
+ußgeen lassen mögen.</p>
+<p>
+Item, nachdem die ordenung fürter begrifft, das die citacion durch
+gesworen boten oder offen notarien verkündet werden sollen, und aber
+in den verkündungen der ladunge und anderen gerichtzbriefen, so von
+unbekanten oder villicht untogenlichen notarien bescheen und in gericht
+fürbracht worden, sich täglich inrede fürnemen und irrung zu verlengerung 
+der sachen begeben, ist, solichen verlengerungen, irrungen und
+<pb n="S. 312"/>
+costen zu begegenen, geratslaget, das gut und nütze sy, das hinfür nach
+einer genanten zit, so zu öffenung desselben statutz bestimpt würt,
+deheinen verkündungen oder insinuacionen, ladunge oder andern briefen,
+vom KG. ußgangen, gloube geben werden sol, dan die durch gesworen
+boten oder offen notarien, die durch ein KG. zuvor <term type="phrase">approbiert
+und zugelassen</term> 
+worden, bescheen weren, die ouch ir hantschrift, namen und
+signete einem KG. verzeichenet geben und lassen, den ouch ein form und
+bericht, wie solich verkündungen gescheen und ufgeschrieben werden,
+gegeben werden solle.</p>
+<p>
+Item, als gewönlicher form in den ladungebryefen des KG. gesetzt würt
+ein anzale tage als uf den drissigisten tag etc. noch der verkündunge etc.
+und sich aber begipt, das etwan mer dan ein persone derselben sach verwandt, 
+die nit an einem ort gesessen und eins tags nit mögen citirt werden,
+daruss dan <term type="phrase">zwivel und irrunge</term> entstat, so die 
+verkündunge also geendert würt, ob dan der recht tag uf die ersten oder 
+nochvolgende verkündunge sol gerechent werden, dasselbe zu fürkomen, ist 
+geratslaget, das hinfüro in demselben vall ein gerümpter und benempter tag 
+eins monats in den ladebriefen noch ermessung eins camerrichters, uf den die 
+citierten alle komen mögen und sollen, bestimpt inen allen, wie sich gebürt,
+durch die
+originale briefe verkündigt, ouch allen glichförmig abeschrift davon durch
+ein geswornen boten oder notarien, der solich verkündung täte, underschriben
+und 
+fürter das originale widerumb in gericht geantwortet werden soll.</p>
+</div>
+
+<div id="A3">
+<head>[Art. 3] Copien.</head>
+<p>
+Item, als in gerichtschriber eyde stät, das sie kein cop. von den ingelegten 
+briefen und schriften den partyen geben sollen one urlop und
+erkantnuß eins gerichtz, ist, nochdem solich erkantnuß in jeder sach ze
+tun ein merglich verlengerung bringt, geratslaget, das solicher eyt gemessigt 
+werde, also das der protonotarius one gerichtlich erkantnuß,
+sonder uf bescheit eins KG. aller inlege den partyen uf ir begeren abschrift 
+geben müge, wie solichs gemeine recht ußwisen.</p>
+<p>
+Item, als etwan von den partien briefe, register, acta und ander schriften,
+daran inen groß und vil gelegen ist, in gericht geleget werden und zu
+besorgen, das solich briefe, acta und ander schriften in der cancely verloren 
+oder verseret werden oder die partyen der vilicht an andern orten
+ouch nottürftig sin möchten, ist bedacht und geratslaget, das hinfüro die
+party, wider die solich inlege beschicht, solle und möge solich ingeleit
+briefe und schriften besichtigen und syn inrede, ob er die wider sichtbarlich 
+argwonikeit oder gebrechen an sigeln, signeten oder schriften <pb n="S. 313"/> 
+derselben briefen oder schriften hett, von stunde an desselben gerichtz
+fürwenden, 
+es were dan das ein camerrichter uß ursachen lenger zit darzu
+gebe, und darnoch sollent die partyen ir briefe uf ir oder irs procurators
+begeren widergegeben werden, doch das davon allewegen gloupwürdig
+abschrift, die durch einen protonotarien oder leser collacioniert were, by
+den acten und cancelyen bliben.</p>
+<p>
+Item, nochdem bißher die procuratores täglich über die gerichtzacta 
+in die cancelyen zu loufen und die zu besichtigen noch alter gewonheit und
+gebruche zugelossen worden sint, und aber zu besorgen, das darin groß
+geverlicheit mit verrufung oder verletzung der briefen oder siegeln gebern
+möcht, ist, solichs zu verhüten, geratslaget, das den procuratoren oder
+partyen fürohin über solich acta und briefe zu loufen und in ir hende
+komen zu lossen nit gestattet, sonder allein cop. davon inen uf begern
+und costen gegeben werden inmossen, als vor von den partyen begriffen ist.</p>
+<p>
+Item, nochdem eines kgl. fiscals und eins procurators privatorum pflicht
+nit wol byeinander besteen mögen, angesehen, das ein <term type="juridical">procurator
+privatorum</term> 
+siner parten heimlicheit zu verswigen und aber ein fiscal etwan
+ampts halben solhs zu offenen und zu rechtvertigen schuldig ist, und sich
+ouch tägelich begipt, das ein fiscal oder sust ein procurator privatorum
+ist wider den anderen fiscal und den fiscum causas privatorum defendiert,
+so ist geratslaget, das hinfür die fiscale allein der fiscalischen hendeln
+ußwarten und nit ander Sachen annemen oder, obe sie ir sachen durch
+ander <term type="phrase">procuratores oder redner</term> handeln wolten, das 
+ouch durch eigen procuratores oder redner, die allein derselben fiscalischen
+hendel 
+ußwarten und deheinem anderen bevelhen solten.</p>
+<p>
+Item, nochdem sich tägelich begipt, das ein procurator des anderen
+procurators advocat sin wil und aber der <term type="phrase">redener oder
+procurator</term> und der
+advocaten ämpter unterscheidenlich sint, ouch die procurator von mengin
+der sachen wegen beyden ämptern nit wol vor sin mögen, ist geratslaget,
+das hinfür kein procurator sich advocaten amptz underfohen sol, wolt
+aber ein partye zu irem procurator ein advocaten bruchen, so solle sie
+einen uß den geswornen advocaten des KG. nemen, der sust kein procurator 
+desselben KG. sy.</p>
+</div>
+
+<div id="A4">
+<head>[Art. 4] Ordenunge der KG.-boten.</head>
+<p>
+Item, nochdem bitzhar der boten halb ouch manigerley clage gewest,
+ist geratslaget, das hinfür von den bysitzern uß den leyen ein botenmeister 
+geordent werde, der alle boten, so mit ladung oder andern
+gerichtzbriefen sollent ußreyten, noch inhalt nochbeschribener ordenung
+abvertigen und ir abfertigung, wider inkunft und handelung, damit sie in
+<pb n="S. 314"/>
+allen dingen iren bevelhe und dienst mit fliß und getruwen nochkomen
+ufmerkens haben, ir verhandlung strofen und verfügen sol, das jedem
+sins soldes, was im lute der ordenung daruf begriffen gebürt, zu jedem
+monat entrichtet werde, das ouch alle citacion und ander gerichtzbriefe,
+so durch boten verkündet, nit den poten, sonder zuvor dem botenmeister
+behendiget werden sollen, die fürter durch die boten zu überschicken
+abvertigen sol, domit sie alle ryten und keiner vor dem andern vorteil
+haben möge.</p>
+<p>
+Item, alle die boten des KG. sollent sich geritten halten und selbs
+vercosten.</p>
+<p>
+Item, ein jeder, der sin citacion oder ander gerichtzbriefe durch ein
+geswornen boten wil verkünden lassen, sol dem botenmeister bitz an die
+statt der verkündung ye von zwölf mylen wegs ein gülden und darzu für
+die verkündung ein halben gülden geben, och der botenmeister noch
+überantwortung 
+solichs geltz die ladung oder ander gerichtzbriefe in vier tagen
+abvertigen und der bot, dem die hinzufieren bevolhen würt, uf förderlichst
+verkünden.</p>
+<p>
+Item, ob ain bot auf aim rit mer dann ain <term type="phrase">citatz- oder
+gerichtsbrief</term> fürn
+und verkünden würde, soll jm doch für sein belonung von dem botenmaister nit
+mer 
+meil dann so vil an die stat der verristen ladung ist,
+bezalt, doch von yeder parteyen, der brief er fürn würde, ganz botenlon
+genomen. aber das gelt, so im von insinuacion und verkündung aller
+ladung oder brief, er desselben rits gefuert und getan hett, gefellt, soll im
+alain beleiben und das gelt von andern deßmals gefuerten und verkündigten 
+ladungen oder briefen soll dem botenmaister überantwort, durch in
+aigentlich aufgeschriben, in ain büchssen gelegt und der botenmaister
+solich gelt, so dermassen überlaufen würd, zuo außgang ains yeden monats
+under die boten gleich austailen un ainem als vil als dem andern davon
+geben, davon dann des botenmaisters schreiber zuo yeder fronvasten
+für sein aufschreiben, müe und belonung zwen güldin soellen gegeben
+werden.</p>
+<p>
+Item, die boten, so zuo dem kgl. KG. bestellt un aufgenomen werden,
+soellen globen un zuon hailigen schwern, dem camerrichter und urtailern
+gewärtig un gehorsam zuo sein, ir <term type="phrase">botschaft, citacion und
+ander gerichtzbrief</term>, 
+so in von dem camerrichter, urtailern oder dem botenmaister zuo
+yeder zeit bevolhen oder übergeben werden, getreulich und mit fürdenlichem
+fleiß 
+außzuorichten un den personen, an die soelich brif steen, in
+jr aigen person oder heußlich wonung oder sunst nach ordnung des rechten
+<pb n="S. 315"/>
+zuo antwurten und zuo verkünden soelicher überantwurtung tag un
+malstat. darauf zuo schreiben den protonotarien des glauplich relacion,
+auch sunst alles das zuo tuon un zuo handeln, das inen nach inhalt der
+ordnung gepürt, alles getreulich und ungefärlich.</p>
+</div>
+
+<div id="A5">
+<head>[Art. 5] Sportule.</head>
+<p>
+Item, nochdem sportule angesehen der viscalischen und armer lüten
+sachen, darin bißhar kein sportule geben worden, so vil sint, so wenig
+ußtragen, das die gerichtzpersonen nit mögen belonet werden, ist geratslaget, 
+das zu verhüten clage, die sich darumb tägelich erheben, erlich und
+gut were, das die abgestellt und nochgelassen würden, wo sie aber bliben
+solten, das dan einer <term type="phrase">declaracion oder bescheit</term> not
+sy 
+wie <term type="juridical">in causis iniuriarum</term> und andern, do die
+cleger, 
+so sachen selbs nit wissen an gelt zu würdigen, sportule taxiert und gevordert 
+sollen werden, daruf dan geratslagt ist, das solich sportule am KG. noch größ 
+und gelegenheit der personen und sachen zu messigen zugestehet und bevolhen
+werden 
+möchten.</p>
+<p>
+Item, ist geratslaget, das hinfür in überantwortunge des lybells die
+partien oder procuratores lute der ordenunge sportule ußrichten und, wo
+sie das verhalten und nit tun, ir keyner gehört noch inen in der sachen zu
+procedieren gestatt werden, ouch die partyen oder procuratores ir sachen
+by iren eiden würdigen und achten sollen, damit sich nyemas beswerunge
+beclagen möge.</p>
+<p>
+Item, ob in eynicher sache, darin sich zu remitieren begeren und daruf
+gewisen, sportulas zu geben weren oder würden, sollent solich sportule
+inhalt der ordenunge ouch achtunge und würdigunge der sachen genomen
+und gegeben werden, diewile das gericht müge und erkantnuß darüber
+tun muß.</p>
+<p>
+Und als sich dick begibt, das der cleger zu verzuk der sachen in bezalung
+der sportule sumig ist und der antworter umb recht anruft, ist geratslagt,
+das alsdan von dem antworter, der also im rechten zu volfaren begert,
+damit er deshalben nit rechtloß bliben muß, die sportule genomen werden
+und derselbe alsdan im rechten wider den cläger als einen ungehorsamen
+fürfaren und der cleger dagegen nit gehört werden, er lege dan zuvor dem
+andern teil sin dargelegt sportule abe.</p>
+</div>
+
+<div id="A6">
+<head>[Art. 6] <term type="juridical">Contumax in comparendo</term>.</head>
+<p>
+Item, als in der ordnung steet, das man auf anruefen des clagers in der
+ersten rechtfertigung oder appellacion sachen auf ungehorsam des <pb n="S. 316"/>
+antwurters auf die <term type="phrase">acht und aberacht</term> wider
+denselben, 
+ob er woelle, procediern müg, und aber etlich bißher gemaint haben, das alsbald
+auf die
+ersten ladung derselb ungehorsam on ferrer beruefung in die acht un
+aberacht gesprochen werden soll, das aber durch ain gericht zuo schwär
+ermessen und darumb, so sich soelicher fal begeben hat, ist bißher gehalten, 
+das der angezaigt ungehorsam umbzuosehen un zuo hoeren sich um
+soelich sein ungehorsam in acht un aberacht erkennen oder redlich ursach
+dawider fürzuowenden etc. mit neuer ladung berueft. und so er darauf
+auch auß belyben und ungehorsam gewest, all erst mit der acht und aberacht
+wider 
+in procediert werden, darumb, so ist geratslaget, das soelichs
+fürohin auch dermessen ze helten befelh beschehe.</p>
+</div>
+
+<div id="A7">
+<head>[Art. 7] Der appellacion halb.</head>
+<p>
+Item, wen nit vor eynem richter, sonder vor einem notarien appellieret
+oder apostel begert und gegeben werden, ob solich appellacion, als wider
+formen des rechten bescheen, untogenlich erkennt und für gnugsam
+zugelassen werden sollen in ansehunge, was deshalben gemeyn recht versehen, 
+wie ouch bißhar gemeyner bruch in etlichen landen, obgemelter
+moß zu appellieren und apostel zu bitten, gewest sy, ist bescheit not, obe
+es mit zulassung solicher appellacion by versehunge der rechten oder dem
+gebruch bliben sol und daruf geratslaget, soverre es hinfür den rechten
+gemeß gehalten werden sol, das alßdan solichs in das rich ußgeschriben
+und verkündet werde, damit sich die partien, ouch die notarien solicher
+ordenung der rechten wissen zu halten und obgemelten bruch abezustellen.</p>
+</div>
+
+<div id="A8">
+<head>[Art. 8] Armelüte.</head>
+<p>
+Item, als denien, so arm sein und ir armuot behalten, vergebens soll
+gedient werden nach anzaigung der ordnung und zuo besorgen ist, das
+etwan dieselben sich soelicher freyhait zuovil vertroesten un andre hoeher
+und nieder stend muotwilliklich und unbillicherweiß in recht umbziehen
+und beschwären moechten, nachdem sy in nachmals die costen nit bezalen
+mügen, ist, soelicher muotwill damit zuofürkomen, geordnet, das ainem
+camerrichter macht und befelh gegeben werd, dieselben, so sich soelicher
+muotwill erfunden würd und sy die costen nit zuo bezalen hetten, mit
+andrer straf nach groeß und gelegenhait der personen und verhandlung
+ze strafen.
+<pb n="S. 317"/></p>
+<p>
+Item, so am kgl. KG. in appellacion sachen geurtailt execution der
+urtail, dessgleichen taxacion der expens in der ersten instantien ergangen,
+begert würdet, wiewol nach sag der rechten soelich <term type="phrase">taxacion
+und execucion</term> 
+der vor ergangen instancien für die vordern richter gewisen werden
+soellen, so würd doch den parteyen vil muoe, neu costen und rechtfertigung 
+darauf geen, und darumb geordnet, das soelich <term type="phrase">execucion und
+taxacion expensarum</term> 
+der vordern instancien fürter am KG. beschehen soellen,
+das auch hinfüro super taxacionem exspensarum in den und allen andern
+fällen kain neue ladung gegeben oder genomen werden soll, alles zuo verbieten 
+übrigs costen und muoe.</p>
+<p>
+Fürter, als in einem artikel der ordenunge angehende "item ein jeder sol sin
+underten in sin ordenlichen gerichten etc." nit fürsehen ist, wie ein bürger
+oder pure einen f. oder fürstmessigen zu recht bringen solle oder möge, ist
+erclerunge und bescheits not, obe es mit denselben bürgern oder puren als mit
+andern angezeigten personen oder wie es gehalten werden solle.</p>
+<p>
+Item, und als in der ordenunge fürsehen ist, wie einer gegen einen f. oder
+fürstmessigen rechtz bekomen müge mit anzeige eines zits, darin solichs
+rechtens verholfen werden solle, und aber doby nit fürsehen ist, so einer gegen
+eins f. oder fürstmessigen oder ander ordenlichen richter und oberkeyten
+undertan rechtz begert, zu was ziten im solichs rechtens verholfen werden
+selle, daruß sich dan am KG. tägeliche clage begeben von den lüten, nemlich das
+sie gegen iren widerteylen an den ordenlichen gerichten rechtz nit mögen
+bekomen, ist geratslaget, das in demselben vall ouch ein zit bestimpt, darin
+dieselben sachen angefangen und geendet werden.</p>
+<p>
+Item, so täglich wider ff., RSt. und ander oberkeit in clags wise einem gericht
+anbracht würt, das sie lüte unverschuldet, one recht und redelich ursach zum
+tode verurteylen und richten lossen haben sollen und durch die fründe recht
+wider dieselben begert, als dan in einer supplicacion hieby gelegt sich ouch
+begeben hat, ist bescheyds not, wie es in demselben am KG. gehalten werden
+solt.</p>
+</div>
+
+<div id="A9">
+<head>[Art. 9] Notarien.</head>
+<p>
+Und nachdem der offen notarien im reich vil sein un täglich auß instrumenten,
+so an das KG. komen, erfunden, das die leut in mancherley beschwärd, irung und
+schaden durch ir unwissenhait, unförmlichait un versambnuß bißher gefürt worden
+sein, so ist geratschlagt, das guot und not sey, das dagegen ain reformacion
+der notarien fürgenomen dardurch soelichs fürkomen werd.<pb n="S. 318"/></p>
+<p>
+Item, so am kgl. KG. in appellacion sachen geurteilt execucion oder vor urteil
+deßglichen taxacion der expens, in den ersten instancien ergangen, begert würt,
+wiewol noch sach der rechten solich taxacion und execucion der vor ergangen
+instancien für die vordern recht gewisen werden solten, so würde doch den
+partyen vil müge, nuwer costen und rechtvertigunge daruf geen, und darumb
+geratslaget, das solich execucion und taxacion expensarum der vordern
+instancyen fürter ans KG. bescheen sollen, das ouch hinfüro super taxacionem
+expensarum in den und allen andern vällen kein nuwe ladunge gegeben oder
+genomen werden sol, alles zu verhüten überigs costen und müge.</p>
+<p>
+Item, ist geratslaget, das hinfüro in den urteilen der expens alwegen gesetzt
+solle werden, das die partien, so in den costen erteylt ist, soliche costen der
+behaltenden partien in bestimpter zit an dem kgl. KG. ußrichten sol.</p>
+</div>
+
+<div id="A10">
+<head>[Art. 10] Ordenung, wie mit den termynen und fürbringen der sachen
+in gericht procediert werden solle.</head>
+<p>
+Item, nachdem die parteyen und ir procuratores sich bißher vil überflüssigkait
+in termin, inlag un andern fürbringen gebracht haben, dardurch dann die sachen
+verlengt werden un dest schwärlicher zuo end lafen mügen, ist zuo fürdrung der
+sachen un parteyen diß nachgeschriben ordnung fürgenomen, geratslaget un
+begriffen worden, der sich ain yeder procurator in volfuerung der sachen halten
+un gebrauchen soellen, bey ainer peen ains Reinischen guldins, so dick dawider
+beschähe, zuo bezalen, woelich peen fal fürter zuo hilf der armen, die zuo
+verkündung irer ladung
+un ander gerichtzbriefen den boten nit zuo lonen hetten, denselben boten
+nach ains gerichtsbeschaid außgeben werden soll.</p>
+</div>
+
+<div id="A11">
+<head>[Art. 11] Wie in der ersten instanz procediert werden soll.</head>
+<p>
+Anfenklich soll der cläger auf den ersten rechtag in der ladung bestimpt
+die außgangen ladung mit irer verkündung un sein clag in schriften un,
+sofere der cläger nit selbs sonder durch ainen anwalt erscheint, derselb
+anwalt seinen gewalt einlegen.</p>
+<p>
+Demnach soll dem antwurter, soferre er nit wolt oder hett dilatorias
+fürzuobringen, auf den nechsten gerichtztag darnach, so in die ordnung
+betreffen würdet, der clag zuo antwurten un den krieg zuo bevestigen un
+item zuo contestiern zil geben werden.</p>
+<p>
+Und so der krieg also von baiden tailen bevestigt un des durch die
+parteyen oder ir aine begert würde, soll alsbald beider seyt <term type="juridical">iuramentum
+calumnie</term> geschworen werden.<pb n="S. 319"/></p>
+<p>
+Item, und so der antwurter die clag vernainte, soll dem clager fürter
+sein artikel und capitel bey soelichem jurament calumnie einzebringen
+aufs nechst gericht zil gegeben werden, doch ob der klager sein lybel,
+soferre es ein articuliert lybel wäre, alsbald an weiter dilacion repitirn
+woelt, solt er das zuo tuon macht haben.</p>
+<p>
+Darnach soll der antwurter auf soelich eingebracht artikel auch bey
+seinem aid calumnie zuo antwurten aufs nechst gericht zil haben oder ob
+er alsbald nach empfahung der artikel zuo antwurten zuogelassen werde,
+darnach soll dem cläger ain zeit nach ermessung ains gerichts sein artikel,
+sovil der vernaint worden wären, zuo beweisen bestimpt und nach verrückung
+desselben zeyts durch den cläger, sobald in die ordnung treffen
+würde, die sag und kuntschaft der gezeugen, ob die gefuert worden wären,
+öffnung und dem widertail, ob er woell wider dieselben oder all an der
+kuntschaft, so eingelegt worden wären, zuo reden, zil zuo bestimmen, in gericht
+angerueft und gebeten werden.</p>
+<p>
+Demnach soellen soelich kuntschaft der gezeugen geoeffnet und dem widertail
+dawider und all ander einbracht kuntschaft in artikel weiß ze
+reden auf den ersten oder andern gerichtstag zil geben werden, doch so moecht
+dieselb partey alsbald gemain einred dawider fürwenden.</p>
+<p>
+Darnach soll dem cläger wider die einred und artikel, so der gegntail wider die
+kuntschaft einbracht hett, zuo repleciern auch zeyt gegeben
+werden auf den nechsten oder andern gerichtstag, un soll ferrer auf soelich
+exceptional artikel gehandelt werden, wie von den dilatoriis hieniden begriffen
+ist.</p>
+<p>
+Ob aber der antwurter, so er sähe, das des clägers sache und intension fundiert
+wäre oder darvor oder gleich nach bevestigung des kriegs peremptorias
+fürzuwenden het, solt er dieselben, sovil er der hett, artikel weiß all ainer
+termin und zuo ainem mal fürwenden, es wäre dann, das soelichs, so er in
+soelicher exception fürzuotragen sich von neuem begeben hette oder all erst
+nachmals im zuo wissen worden wäre, das er dann also mit seinem ayd beteuren
+und behalten moecht. und so soelich excepcion eingelegt, soll alsdann dem
+gegentail dawider ze reden oder ze antwurten biß aufs nechst gericht zug
+gegeben werden.</p>
+<p>
+Und soverre soelich exception vom cläger vernaint, soll dem andern tail zeit
+nach ermessung des gerichts dieselben artikel, soferre sy pertinentes und von
+recht zuozelassen sein, zuo beweisen geben, und solt alsdann mit derselben
+beweisung gehalten und procediert werden, wie vor der haubtsach halb angezaigt
+ist.<pb n="S. 320"/></p>
+<p>
+Wo aber der cläger soelich excepcional artikel mit antwurten nit vernainte und
+doch dawider replicierte, so solt dem antwurter zuo supliciern ad primam und
+darnach dem clager ad triplicandum auch ad primam zeit gegeben werden. darnach
+soll den parteyen durch das gericht ain terminus gesetzt werden ad producendum
+omnia un darnach ainer ad concludendum, es wäre dann, das ain gericht auß
+beweglichen ursachen anders beschiede.</p></div>
+
+<div id="A12">
+  <head>[Art. 12] Termin in dilatoriis.</head>
+<p>
+Wo aber ain antwurter nach obgemelter einlegung der clag nit gleich antwurt
+geben woelt, sonder dilatorias exceptiones fürzuowenden hete, die solt er all
+auf die nechsten termin, so in die ordnung nach einlegung des libels betreffen
+würde, mit ainander geschriftlich und artikuliert fürbringen und darauf der
+cläger wider soelich excepcion auch ad primam, so die ordnung an in käme,
+repliciern.</p>
+<p>
+Und obe der cläger soelich excepcion vernainen würde, solten die, soferre sy
+pertinentes und zuolässlich wären, in ainer zeyt, so ain gericht darzuo
+bestimen soll, zuo beweisen zuogelassen. ob aber dieselben nit vernainen und
+doch mit der replicacion anfechten woelt, das solt er auch durch artikel tuon
+und dem andern tail dawider zuo reden ad primam zeyt geben, und so dieselben
+replik vernaint würden, demselben replicanten, die auch in ainer zeyt zuo
+probiern zuogelassen und mit soelicher probacion, wie oben bey der haubtsach
+außgedruckt würdet, gehalten werden.</p></div>
+
+<div id="A13">
+  <head>[Art. 13] Wie in den appellacion sachen procediert werden sol.</head>
+<p>
+Auf den ersten rechtag, in der ladung bestimbt, soll durch den appellanten oder
+seinen procurator, ob der für in erschyne, der auch seinen gewalt alsdann
+darlegen soll, eingelegt werden anfenclich die ladung mit irer verkündung un
+libellus appellatorius in form und maß, als hernach steet, es wär dann, das der
+widerteil in kainer appellacion gesteen oder die anfechten woelt, alsdann soll
+der appellans vor allen dingen formalia seiner appellacion beweisen und
+rechtfertigen.</p>
+<p>
+  Nachdem aber nit wol müglich, sonder schwer ist, solich formalia zu beweisen
+on die urtail und gerichtzacta der ersten instanz, so ist geordnet, das alsbald
+nach erkanntnuß der ladung, so die partey des begerte, conpulsoriales wider die
+richter der ersten instancien und alle andere, so solich urtail, acta und ander
+urkund, zu der sach dienend, hynder in hetten, erkannt werden, damit mangel
+halben derselben händeln und <pb n="S. 321"/> urkund die sach nit verhindert
+werden, es soellen auch solich conpulsoriales von anfang mit ainer peen als
+zehen mark golds, auch umb fürdrung und mynders costens willen außgeen. ob aber
+darüber die richter der ersten instancie oder andre solichen conpulsorial
+briefen ungehorsam oder seumig erscheinen würden, das alsdann wider denselben
+ungehorsamen verrer im rechten procediert un dem appellanten zu beweisung
+seiner appellacion weiter zeit geben werden.</p>
+<p>  
+Item, wa der appellatus die fürgewendten appellacion in irer formalien nit
+anfechten woelt oder der appellans die bewisen und iustificiert hett, solt
+alsdann derselb appellans sein appellacion an ains libels statt, soverr von
+ainer bey urtail oder beschwärnuß appelliert worden wäre, repetiern un sein
+peticion müntlich oder schriftlich darauf tun: darumb so beger und bitt ich zu
+erkennen, das übel gehandelt und gesprochen und wol geappelliert sey.</p>
+<p>  
+Item, darnach soll dem widertail biß zum nechsten gerichte zil gesetzt werden,
+derselben clag oder peticion zu antworten, und so solich clag vernaint und es
+not sein würde, den appellanten zeit, die zu beweisen, geben werden etc., wie
+dann vormals bey den sachen der ersten instanz geschriben ist.</p>
+  <p>
+Deßgleichen, wo die klag durch excepcion angefochten würd, soll es mit den
+termyn darin auch gehalten werden, wie in sachen der ersten instanz angezaigt
+ist. wo aber von ainer end urtail appelliert ist, soll der appellans in der
+ersten termyn gemainer weiß sein clag tun, darin er beschliessen, begern un
+biten soll, zu erkennen, das übel geurtailt und wol appelliert sey. doch wa a
+sentencia absolutoria appelliert wer, moecht er darzu bitten, den widertail
+laut seiner clag der ersten instancien zu condemniern.</p>
+<p>  
+Darnach soll dem widertaile frist biß zum nechsten gericht geben werden, der
+alsdann auch in gemainer weiß darauf antworten und begeren soll, zu erkennen,
+wol geurtailt und übel geappelliert etc. und also der krieg damit bevestiget,
+darauf auch iuramentum calumnie auf der parteyen oder ir ainer begern geschworn
+werden.</p>
+  <p>
+Darnach soll den parteyen ad producendum omnia und ad concludendum tag gesetzt
+und soll solichs also gehalten werden in sachen, da die parteyen nichtz neus
+fürbringen wolten.</p>
+<p>  
+Wo aber der appellans oder appellatus etwas weiters dann in der ersten
+instancien zu beweisen oder fürzubringen heten, solt er solichs schriftlich
+durch artikel in der ersten termyn, so in nach zulassung oder rechtvertigung
+der formalia die ordnung begreift, fürpringen.<pb n="S. 322"/></p>
+  <p>
+Nachmals soll dem andern tail tag wider solich artikel ze reden gesetzt und
+darauf verrer gehandelt werden, wie in sachen der ersten instancien auf die
+artikel ze handeln angezaigt ist, procediert werden.</p>
+<p>
+Ob aber der appellans nichtz neus oder anders, dann in der ersten instanz
+eingepracht were, und doch etwas desselbigen vor ein geprachten fürpringens zu
+beweisen hett, solt solichs, sovil recht were, in ainem zeit durch ain gericht,
+darzu gesetzt, beschehen und mit der probacion gehalten werden, wie oben in
+prima instancia ausgedruckt ist.</p>
+<p>
+Item, wo in ainicher sach ander einrede, dann vor bestimbt, einpracht würden,
+solt allweg die ordnung darin gehalten werden, wie fürsehen ist.</p></div>
+
+<div id="A14">
+  <head>[Art. 14] Wie auf ungehorsam soll procediert werden.</head>
+<p>
+Item, wa ein partey, sy sey cläger oder antworter, aus ungehorsam nit erschin,
+soll und mag der cläger, nachdem das rufen nach herkommen und ordnung des
+gerichtz geschehen were, sobald die ordnung in betrifft, sein clag, inmassen
+als vorsteet, einbringen und soverr er die andern weg, die ine laut der <quelle url="&drqs;RKGO. 1495 Worms">ordnung
+zu Worms</quelle> gemacht, vallen lassen und
+in der haubtsach volfaren wolt, solt im auf sein anrufen biß aufs nechst
+gericht zu articuliern frist gegeben werden, doch moecht er alsbald on weitern
+schub sein eingelegt libell, soverre das articuliert were, anstatt der artikel
+repittiern mit anclagung der ungehorsamigkait des widertails, es were dann, das
+ain gericht aus bewegenden ursachen nach gestalt und gelegenhait der
+angeclagten ungehorsam solichs zum nechsten gericht zu tun beschide, und
+alsbald darnach bitten, sich und dieselben artikel zu beweisen zuzelassen. und
+solt alsdann der richter auf solich anrufen zu solicher beweisung zeit un frist
+nach ermessung ains gerichts bestimmen und geben.</p>
+<p>
+Item, zu welicher zeit der ungehorsam nachmals erscheinen, es were nach ainer,
+mer oder allen termyn, so solt er, er were cläger oder antworter, in dem stand,
+wie er die sach und proceß findet, verrer ze handeln zugelassen und gehoert
+werden, doch zuvor dem gehorsamen tail allen costen und schaden, seiner
+ungehorsam halb erlitten, nach gerichtz messigung außrichten, und soll solichs
+in allen und yeden ungehorsam, es sey durch außbleiben oder wie sich die sunst
+in anfang, mittel oder ende der sach geben würde, allweg also gehalten
+werden.</p>
+<p>
+Item, und wenn ain appellans auf ungehorsame des andern tails handeln woelle,
+sol er auf die nechsten termyn, so die ordnung, nach den das ruefen nach
+ordnung des gerichts beschehen ist, vor allen dingen formalia seiner
+appellacion beweisen und rechtvertigen, darnach sein libell un clag tun, <pb n="S. 323"/>
+inmassen vor davon außgedrückt ist. deßgleichen soll auch der
+appellatus, so er in abwesen un ungehorsam des widertails procediern woelt,
+auch formalia appellacionis zu gründung der iurißdiction beybringen und aller
+erst darnach sein mainung und begerung fürbringen, darnach soll ym, nemlich dem
+appellanten oder appellato acta der ersten instanz oder alles anders, des er
+sich in der sach geprauchen wolt oder jm not were einzebringen, tag gesetzt
+werden, doch so er solichs alsbald on weitern zug einlegen und concludiern
+woelt, solt im die nit abgeschlagen werden, und soll solichs verstanden werden
+in den sachen, wo die partey nichts neus einpringen woelt. wo sie aber ychts
+neus einzulegen oder zu beweisen hett, sol es damit gehalten werden, wie vor
+davon angezaigt ist.</p>
+<p>
+Item, wiewol noch dem zit, dem appellanten durch den vordern richter oder von
+volfürunge siner appellacion ufgesetzt, der appellatus vor dem richter, für den
+appelliert ist, erschinen und uf die desercion derselben appellacion
+procedieren mag und gehört werden, so sol er doch, obe er in der sach derselben
+appellacion, die also verlegen und desert were, volfaren und die prosequieren
+oder sin behalten urteil zu bestetigen begeren wolt, nit gehört
+werden.</p></div>
+
+<div id="Supplikation">
+  <head>[Supplikation] Die suplicacion, davon obgemelt wirdt:</head>
+<p>
+Wolgeporner g. h., ich arme fraue bringe für, das bürger und rait zu <name type="place">Northuyssen</name>
+<name type="person">Hermer Elyger</name>
+verbrant und vom leben zu tode bracht, darumb das er sol falsch brieve
+geschriben und gemacht haben, wiewoil das lantroichtig ist und war, das er eyn
+luter leye waß und wider schriben noch lesen konde, und myn gedachten sone
+gewalt und unrecht getoin wider die gulden bullen, den 10jarigen fryden und die
+kgl. reformacion. des ich zusprach zu ine habe und ich ine der halben gff. und
+hh. zu malen kerunge zu toin vorschriben und erclagt, mir ganz unfruchtbar und
+mich arme frauen umb all myn guit bracht und so groß gewalt getoin, das ich
+lieber tusent gulden verliessen wolte, so ich die gehabt hette, dan solich groß
+gewalt dulden, und, nochdem sie, die gedachten von <name type="place">Northuyssen</name>
+dem hl. rich un mittel underworfen sint, und
+keynen andern richter wyß dan das loblich KG., wider die gemelten bürger und
+raide <name type="place">Northuyßen</name> zu erkennen und mir entlichs rechts
+verhelfen.</p>
+<p>
+<name type="person">Margareta Eylgern</name> (Elygern)</p></div>
+</body>
+</text>
+</TEI.2>

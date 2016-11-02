@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+]>
+<TEI.2>
+    
+    <teiHeader>
+        <fileDesc>
+                        <titleStmt>
+                            <title>Cammer-Gerichts-Ordnung so auf Churfuerst Johann Georgens Befehl abgefasset, aber nicht publiciret worden :: Transkription Speer 2011 / 2016</title>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Elektronische Edition 2011</p>  
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>   
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front><divGen depth="3" type="toc"/></front>
+        <body>
+            <div id="Editorial">
+                <head>Editorial</head>
+                <p>
+                    Händische Transkription aus Mylius, Corpus Constitutionum Marchicarum VI. Theil, III. Abtheilung, No. I  <quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05386">Sp. 9</quelle> - 20. <lb/>Zu  <quelle url="https://de.wikipedia.org/wiki/Johann_Georg_%28Brandenburg%29">Kurfürst Johann Georg von Brandenburg</quelle>.</p></div>
+       
+            
+<div id="Art.1">
+<head>I. Vonn Persohnen vnd Sachen welche in vnser Cammer-Gericht gehorenn.</head>
+<p>Vnser Cammergericht ist vornemblich vmb
+dero willen geordnet, die sonsten keinem
+<index level1="Untergericht"/>vntergericht vnterworffen, von 
+den vntergerichten beschwert werden,
+oder bei demselben kein Recht erlangen konnen.</p>
+<p>Vndt ist vnsern <index level1="Landstände"/>Landtstenden und <index level1="Städte"/>Steten
+in gehaltenen <index level1="Landtag"/>Landtagen auch zuegesagt vnd
+verschriebenn, die Sachenn in <index level1="erste Instanz"/>erster Jnstantz vor den
+vntergerichten zuelassen, derowegen werden die
+Burger billich vor den Gerichten und Rathen
+vnserer Stedte, die <index level1="Bauern"/>Pawren aber so in vnsern
+Embtern siczen, vor vnserm Haubt vnd Amptleuten
+vnd die andern vor ihren Junkern vnd
+Herschaften beclagtt, so seindt vnserer Altmerckischenn
+Vckermerckischen vnd Stolpirischen Vnterthanen
+zue Gnaden die <index level1="Quartalgericht"/>Quartal Gericht zue
+<index level1="Stendal"/>Stendal vnd <index level1="Prenzlau"/>Prentzlau verordnett, vor denen
+die vonn Adell, vnd Andere, so in denen ortt
+landes gesessen, Jhre sachen auch wol suchenn
+vnd sich selbst mit vnnotturfftigenn Kosten, deß
+weiten anhero reisens verschonen muegen, also
+werden die Persohnen und sachen, welche vor
+vnsere verordnete <index level1="Hofgericht"/>Hoff vnd <index level1="Landgericht"/>Landtgerichte, in der
+<index level1="Altmark"/>Altenmarck, <index level1="Prignitz"/>Prignitz, <index level1="Uckermark"/>Vckermarck 
+vnd Landt zue <index level1="Stolp"/>Stolp geho&se;rigk daselbst auch billich gelassenn.</p>
+<p>Demnach sollen vnsere <index level1="Kammergericht" level2="Verweisung"/>Cammergerichts-Ra&se;the
+nicht ohne vnderscheidt alle sachen alhier
+annehmen, sondern dieselben wue nicht wichtige
+Vhrsachen vorhanden, welche sie zue einem andern,
+vnd die Parteyen vor sich zuebescheiden
+bewegen, vor die iezo gemelte Vntergerichte weisen
+vnd demselbenn die zuuerhoren, vnd waß Pillich
+vnd Recht ist, darinnen zuebeschaffen befehl
+thuenn,</p>
+<p>Es sollen aber vnsere <index level1="Gerichte"/>Haubt vnd Amptleute,
+die Gerichte vnd Rathe vnserer Stedte die Herschafftenn
+auffm Lande, vnd anderer Gerichte
+Verwalter, die clagende Parteyenn, die sein
+Ein oder Außlendische vom Adel Burger oder
+Pawr, nicht vorgeblich oder lange auffziehen,
+Sondern einem Jeden, wo zue ehr befuegtt,
+wieder Jhre Beambte Mitburgere vnd Vndersaßenn,
+Jnn wessen Stande oder Ansehen die 
+auch sein bei vormeidung vnnserer schweren Straffe
+vnd Vngnade, schleunigk vnd vnparteylich vorhelffenn,
+Es werenn dan die sachen so gantz zweiuelhafftich
+oder Vnclar, daß die ohne Rechtliche
+außfurunge oder Beweiß, nicht konten entscheiden
+werdenn, Alßdan muegen die Ra&se;the in Stedten 
+dieselbe vor ihre gerichte, vnd die Quarthal
+gerichts Ra&se;the zue <index level1="Stendal"/>Stendal vnd <index level1="Prenzlau"/>Prentzlaw, deßgleichen 
+vnsere Amptleute vnd die Herschafften
+der Do&se;rffer die vor vnser Cammergerichte oder
+waß dahin gehorigk, vor die jeder ortts geordente
+<index level1="Hofgericht"/>Hoff vnd <index level1="Landgericht"/>Landtgerichte zu rechtlichen Außtrag 
+weisenn, vnd wan sie Partt vor vnser <index level1="Kammergericht"/>Cammer-Gerichte
+    remittiren, der clagenden Partey einen [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05386">Sp. 10</quelle>]
+Abscheidt oder Schreiben, an vnser Cammer-gerichts
+Rathe mitteilen, darauß sie zusehen,
+waß vor ihnen in der sache gehandelt, daß die
+Parteyen nicht vortragenn, oder dem Cleger auff
+seine forderunge vorholffen worden, vnd darauf
+fernern Vorbescheidt, Commission, Besichtigung,
+oder waß deß Handels Notturfft erfodert,
+anordnenn muegenn.</p></div>
+<div id="Art.2">
+    <head>II. Vonn vorbescheidenn zue guetlichenn Vorhor vnd Handlung.</head>
+    <p>Damit mitt denn <index level1="Tagsatzung"/>Tagesatzungen niemandt vbereilet, sollen vnnsere 
+        <index level1="Kammergericht" level2="Notar"/>Cammergerichts
+        Notarien die Tage zue guetlicher vorhor zuem wenigstenn, vier Wochen von Dato des
+        Vorbescheides ansetzenn, es wehren dan die Parte so nahe an vnserm <index level1="Hoflager"/>Hofflager gesessen,
+        oder erforderte die sache eine solche eile, daß vnsere Rathe vhrsache hettenn, den tagk etwas
+        zeitlicher anzuestellenn, die Cammergerichts Notarien sollen auch die vorbescheide mit
+        geschwornen <index level1="Kammergericht" level2="Boten"/>Cammergerichtsbotten wegkschicken, vnd derselben Relation, so wol alß den
+        vorbescheidt selbst mit Fleiß in daß <index level1="Kammergericht" level2="Tagebuch"/>tagebuch registriren, wolte aber ein 
+        <index level1="Supplikant"/><foreign lang="la">Supplicant</foreign> den
+        vorbescheidts Brief seinem Kegentheil selbst zuschicken, wollen sie denselben ihnen angeloben
+        lassen, daß ehr solches unuorzuglich, vnd in so viel tagen als ehr den vngefehrlich erreichen
+        kann, thuen, vnd die Briefe, oder Product, nicht hinderhalten will.</p></div>
+            <div id="Art.3">
+                <head>III. Vonn des Clegers oder Beclagten vngehorsamb in guetlichen vorbescheidenn.</head>
+                <p>Dieweil sich auch offte zuetregt, daß die welche andere vor vnser Cammergericht 
+                    bescheiden lassenn, selber aussenbleibenn, oder daß der <index level1="Säumnis" level2="des Beklagten"/>Beclagte, denn Cleger 
+                    vorgeblich zuer stedte ziehen lesset vnd den Tagk gar nicht oder erst in 
+                    <foreign lang="la">Termino</foreign> abescheidett, dadurch daß gehorsame theil in vergebliche 
+                    muehe vnd vncosten gefueret wirdt, so ordnen wir, daß hinfurt ein jeder so den 
+                    andern <foreign lang="la">citiren</foreign> lesset, oder vor vnser Cammergericht geladen wirdt, 
+                    sich auf den bestimpten tagk zue rechter fruer tagezeit gehorsamlich einstellet 
+                    oder wue ehr <index level1="Säumnis" level2="Verhinderungsgrund"/>ehehaffte verhinderunge hatt, daß ehr den tagk nicht besuchen kan, 
+                    dasselb so zeitlich abschreiben sol, daß er seinem kegentheil ehr der außzeucht, 
+                    kan zuewissen gethan werden, Wurde der aussenbleibende aber solches nicht thuen, 
+                    vnd den tag ghar nicht oder zu langsam abschreiben, sol auff beschuldigtenn 
+                    vngehorsamb derselbe jedesmalß vnß <index level1="Säumnisstrafe"/>funff thaler straff vorfallen, vnd den 
+                    gehorsamen theil den veruhrsachten Vnkosten zue wiederstatten schuldigk sein, 
+                    ihme auch gleich darauf ein ander termin angestalt werdenn, die funf thaler straf 
+                    einzubrigen, vnd sich mit dem erscheinenden theil der vncosten halben zueuertragenn, 
+                    vnd dan der hauptsache halben, wie zuuor beschehen sollenn, vorher vnd handtlung 
+                    [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05387">Sp. 11</quelle>] zuegewartten, vnser Ra&se;the sollen auch die straf inn demselben termin 
+                    vnnachleßig einfordern, es kente dan der vngehorsamb, wo ehr einige entschuldigung 
+                    vorzuwenden, warumb ehr den vorigenn tagk nicht besucht noch zue rechter Zeit 
+                    abgeschriebenn, dieselbe alßbalt beweisenn, oder mit seinem Eide beteuren. Wer 
+                    aber der vngehorsam ein <index level1="Säumnisstrafe" level2="bei Ausländern"/>außlender sol ehr zu keiner clage oder andtwort gestattet 
+                    werdenn, ehr habe dan die Straf, vnd veruhrsachten vergeblichen vncostens halber, 
+                    Richtigkeit gemacht.</p></div>
+            <div id="Art.4">
+                <head>IV. Erstlich zwischen denn Parteyen guetlich zuehandeln.</head>
+                <p>Wenn die Part, auf den tagk deß vorbescheidts erscheinen, sollen vnser Cammergerichts-Ra&se;the
+                    ehe sie die zue rechte weisen, dieselben iedesmahls zuuorn notturfftigk kegen einander horen,
+                    vnd allen muglichen vleis anwendenn, sie <index level1="Gütetermin"/>guetlichen zuentscheiden, sie sollen auch in sachen 
+                    die offenbahres vnzweifelichen Rechtens, oder auf dem <index level1="Landesgebrauch"/>Landes gebrauch beruhen, oder aber, da 
+                    clare vntadelhaffte Briefe vnd Siegel vnd Vortrege vnd Abscheide, dawider die Parten keine
+                    bestendige einreden haben, vorhanden werdenn, keinen theil muetwilliges Rechtens gestatten,
+                    sondern macht haben dieselben dauon abezueweisen vnd gebuerlichen Bescheid darinne
+                    zuegeben, Jnn dehm sich den ein jeder die Weitla&se;uftigkeit vnd beschwerlichen <index level1="Verfahrenskosten"/>vncosten des 
+                    Rechtganges zuuorhueten ihme selbst zum besten wirdt schiedtlich vnd geuolgigk zuerzeigen
+                    wissen.</p>
+                <p>Jm fhal aber, das die streitigen Parteyen zuer guetlichen vorgleichung je nicht folge geben, 
+                    sondern sich lieber durch Recht wollen scheiden lassen, muegen sie ihre sachenn inn vnser 
+                    Cammergericht, nach Jnhalt der <index level1="Kammergericht" level2="Gerichtsordnung"/>Cammergerichts-Ordnung kegen einander außzuetragen
+                    vorwiesen werdenn,</p>
+                <p>Wiewol nun dieselbe vnsere Cammergerichts-Ordnung alß angestalt, daß der Außtragk
+                    des Rechtens nicht wol schleuniger vorfasset werden kan, also werden wir doch berichtett, daß
+                    allerhandt dawieder erdacht vnd eingefhurtt dadurch die sachen mehr aufgezogen dan
+                    zue schleuniger außubung befordert werden,</p>
+                <p>Dasselbe abezuwenden vnd weiter zuuorkommen, haben wir solche vnsere 
+                    <index level1="Kammergericht" level2="Besserung der Gerichtsordnung"/>Cammergerichts-Ordnung, in etzlichen Artickeln 
+                    etwas weiter zu ercleren vnd zuuorbessern, die notturfft geacht.</p></div>
+            <div id="Art.5">
+                <head>V. Die Clage vnd Andtwort zue articulirenn.</head>
+                <p>Ordnen demnach vnd wollen, daß hinfuro zue mehr schleuniger außtragk der sachenn,
+                alle <index level1="artikulierte Klage"/>Clagen anders nicht dan articulirt vnd <index level1="Artikel" level2="Numerierung"/>numeriret 
+                    sollen u&se;bergeben werdenn.</p>
+                <p>Daß auch der Beclagte auff solche articulirte Clage, alle seine <foreign lang="la">Exceptiones</foreign>
+                    auf einmahl vnd neben dennselben <foreign lang="la">in euentum</foreign> auch auf einen
+                    jeden Artickel der Clagen, insonderheit wiederumb clare vnd richtige articulierde Andtwort
+                    durch die wort gleub oder whar, sein oder nicht einzubringen sol schuldigk sein, vnd soll 
+                    mit [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05387">Sp. 12</quelle>] solcher Andwort ob die wol nicht in form einer gewonlichen
+                    <foreign lang="la">litis contestation</foreign> beschiehett, der Kriegk Rechtens nicht weniger
+                    vor befestiget geacht, vnd den <foreign lang="la">Advocaten</foreign> daruber daß 
+                    <foreign lang="la">lis</foreign> nicht <foreign lang="la">contestiret</foreign>, zue 
+                    <foreign lang="la">disputiren</foreign> vnd den Proceß auffzuehalten oder zuuornichten, 
+                    nicht nachlassen werden, was itzo von der Clagen geordnet, sol von der Vorbesserung der 
+                    Clagenn, auch der Wiederclage vnd derselben Andtwort, deßgleichen von allen 
+                    <foreign lang="la">Exceptionibus</foreign> vnd <foreign lang="la">Defensionalibus</foreign>
+                    auch vorstanden, vnd dasselbe alles vmb mehr richtigkeitt der Proceß willen, articulirt vnd 
+                    numerirt, einbracht werden.</p></div>
+            <div id="Art.6">
+                <head>VI. Von dem Eidt vor gefehrde.</head>
+                <p>Dieweil auch vber leistung des Eideß vor gefehrde die sachen offt gahr lang vnd
+                    gefherlich auffgezogen werden, sollen beide theill denselben ohne einige vorgehende rechtliche
+                    Erkendtnuß, baldt im Anfangk schweren, vnd sollen derowegen die Cammergerichtsschreiber
+                    wen sie den beclagten Abschrifft der Clagen zueschickenn, Clegern vnd Beclagten 
+                    bescheiden, daß sie auffn tagk erscheinen, Cleger den eidt vor gefherde leisten, vnd
+                    vormittelß desselben seine articulirte Clage <foreign lang="la">reproduciren</foreign>, auch
+                    gewarten solle, wie der Beclagte bei gleicher Eideßleistung seine Andtwort darauf einbringe, 
+                    Beclagter aber wie Cleger solchs thuen wirdt ansehen, vnd gefast sein solle, den eidt
+                    <foreign lang="la">calumniæ</foreign> seines theils gleicher gestalt zueschweren, vnd bei
+                    demselben alle seine auffezugliche vnd zersterliche <foreign lang="la">Exceptionen</foreign>,
+                    so viel ehr dehrer hatt, vnd damit zuegleich auch auff die Clage, von Artickelenn zu
+                    Articelenn, clare vnd richtige schrifftliche Andtwort, alles articuliret einzubringenn, mitt
+                    der Vorwarung, wue Cleger oder Beclagter vngehorsamb aussenbleiben, oder erscheinen
+                    vnd den Eidt nicht leisten wurdenn, das alßdann auff beschuldigung seines vngehorsambs,
+                    vormuege dieser ordnung rechtlich erkentnuß ergehen, vnd ehr zue ero&se;ffnung vnd
+                    anho&se;rung solches Vrtheils, damit <foreign lang="la">peremptorie</foreign>
+                    bescheiden sein solle, vnd solche vnd andere <foreign lang="la">Citation</foreign>,
+                    die in gerichtlichenn Proceßenn vorfallen, sollen die vorordenten Cammergerichtsschreiber,
+                    alleine mit Cammergerichts Boten bestellen, vnd Vnrichtigkeit deß Proceßes zuuorhueten, 
+                    derselben <foreign lang="la">Relationen</foreign> vnd alles waß in Gerichtshendlen
+                    befholen wirdt, bei verlust ihres Dienstes jederzeit mit vleiß zue den Acten registrirenn.</p>
+                <p>Damit auch die Parteyen solchen eidt volgendst im Proceß desto mehr in Acht habenn,
+                    sollen sie denselben nicht durch einen Anwalden, sondern in der Persohn selbst leistenn,
+                    vnd ob die sachen ein Commun belangeden sollen zuem weinigsten die regierenden
+                    Burgermeister mit zween den eldesten Rathherrn, welchen vmb die sache am meisten
+                    bewust, vnd dem Syndico oder Stadtschreiber, in ihre selbst, vnd auf genuchsame Volmacht
+                    in des gantzen Raths Sehle, die Pawren in Dorffern aber alle selbst schwerenn.</p>
+                <p>Vnter den vnmundigen Vormunder, oder vielen Brudern sollen auf volmacht der Andern
+                    die in ihre, vnd der andern Sehle schweren, welche der vnmundigen, oder der andern Bruder
+                    [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05388">Sp. 13</quelle>]
+                    sachenn am meisten vnderhanden habenn, vnd sonderlich die, welche die Rechtferdigung 
+                    treiben, vnd wue darunder vnderschleiff oder auffzug gesucht, sollen sie alle zueschweren
+                    schuldigk seinn.</p>
+                <p>Also auch wue einer oder mehr Bruder, Vormunden oder andere 
+                    <foreign lang="la">litis consorten</foreign> außlendisch wehren, vmb der Abwesenden willen die
+                    sachen nicht auffgezogenn, sondern der Eidt von den anwesenden genohmmen, vnd in den
+                    Proceß nicht weniger fortgefharen, vnd wan die abwesenden heimkommen, der Eidt von
+                    ihnen auch geleistet werden, Wurde aber auff den zuer Eidesleistung bestimpten termin,
+                    der Cleger selbst, oder der Beclagte aussenbleiben, soll nicht alleine nichts weiter von ihme 
+                    angenohmmen werdenn, sondern wo der Vngehorsamb beschuldigt, soll neben vorteilung
+                    der Gerichtscosten der Beclagte in deß Clegers vngehorsam 
+                    <foreign lang="la">ab instantia</foreign> loßgetheilet, der Cleger aber in des Beclagtenn
+                    vngehorsamb, <foreign lang="la">ex primo decreto</foreign>, in desselben gueter
+                    <foreign lang="la">immitirt</foreign>, vnd kein theil weiter gehort werdenn, es habe dan
+                    neben der gewonlichen <foreign lang="la">Caution, de prosequenda lite</foreign>, mitt
+                    der Eidesleistunge, dieser vnser Ordnung volge gethann.</p>
+                <p>Vnsere Ra&se;the sollen auch in solchen fellen alsbalt ein Vrthel fassen, vnd auf ein
+                    oder des andern theils ansuchenn dasselbe publiciren.</p></div>
+                   <div id="Art.7">
+                       <head>VII. Von der Jmmissionn <foreign lang="la">ex primo &amp; secundo 
+                       Decreto</foreign>.</head>
+                           <p>Nachdem auch in vnsern Cammergericht, bis anhero im Brauch herbracht,
+                               daß die <foreign lang="la">Immission ex primo &amp; secundo decreto</foreign>,
+                               allein in der beclagten Vngehorsamb, ob der Cleger seine Clage gleich nicht
+                               beweisen, erkandt wurdenn, mach es hinfuro auch also gehalten werdenn.</p></div>
+            <div id="Art.8">
+                <head>VIII. Vonn der Vnmundigen Vngehorsamb.</head>
+                <p>Die sachen werden offte auch damitt gefherlich auffgetzogenn, daß die Mutter wan ihre 
+                    Vnmundige Kinder beclagt, denselben keine Vormu&se;nden bitten wollen, dennselben 
+                    vortzuekommen, sollen vnsere Ra&se;the wan sie solche gefherde vormerckenn, der 
+                    Vnmundigen Mutter, oder Neheste freunde, einmal oder zweyer vorwarnen,  daß sie
+                    den Kindernn vormunden Pitten sollen, Vnd wo solches daruber nicht geschicht, wieder
+                    die Vngehorsamen Vnmundigen die <foreign lang="la">Immission ex primo &amp; 
+                    secundo decreto</foreign>, oder was sie sonnsten nach gestalttenn sachen gebueret, 
+                    so wol alß wieder Mundigen ergehen lassen.</p></div>
+            <div id="Art.9">
+                <head>IX. Von <foreign lang="la">Dilationibus</foreign> und alzu grossenn Setzenn.</head>
+                <p>Wann der Eidt vor gefherde geleistet, vnnd die <foreign lang="la">Exceptionen</foreign>
+                    vnd anndtwortten einbracht, vorfharen die Part weiter, mitt schrifftlichen gesetzenn,
+                    Vormuege der ordnung, wir werdenn aber berichtet, daß mit einbringung der setze offte
+                    lange vortzogenn, dieselben etwann auch langsam abgeschriebenn, vnd wann die 
+                    abgeschriebenn, wol eine guete Zeit vnabgefordert liegen bleibenn, vnnd [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05388">Sp. 14</quelle>]
+                    die Proceße damit, das die <foreign lang="la">Aduocaten</foreign> alleine vmb ihres
+                    vortheils willen, ohne Alle der sachen notturfft, ghar zu lange setze, Jn welchen
+                    doch offte weinigk zuer sachenn dienstliches, vnd nur mehr dan uberflußige 
+                    wiederholung einerley berichts oder Arguments zuebefindenn, Desgleichenn mit den
+                    <foreign lang="la">dilationibus</foreign>, der Parteyen zuebeschwerlichen Vncostenn
+                    vnd Nachtheil sehr aufgehalten werdenn, Demnach sollen vnsere Cammergerichts
+                    Notarien, die Part mit den Abschrifftenn der Setze, Zeugnus vnd andere Producte
+                    vnuorzuglich fordern, die Part auch dieselben so balt sie abgeschriebenn außlosen,
+                    vnd sollen vnsere Cammergerichts Ra&se;the den Procuratoren vnd Aduocaten in Jhren
+                    Eidt einbinden, das sie die sachen vber denn Jnhalt der ordnung, gefehrlichenn nicht
+                    auffziehen sollen, Auch darauf sehen, das demselben also nachgelebet werde, vnd ohne 
+                    gemeine Berathschlagung vnd orhebliche große Vhrsachenn vber die geordente
+                    Cammergerichts frist, niemanden weitere <foreign lang="la">dilation</foreign> gebenn,
+                    Sie sollen auch ohne vorgehende gemeine berathschlagung vnd <foreign lang="la">causæ
+                    cognition</foreign> die zue langsam einkommene Setze nicht annehmen, Sondern auf des
+                    seumigen theils beschuldigten vngehorsam, mit Rechtlichenn erkentnus oder vorschickung
+                    der Acten fortfharen, Werden dann die Parte, durch Jhre 
+                    <foreign lang="la">procuratoren</foreign> verseumnus in schaden gefuerett, des muegen sie sich
+                    an denselbnen erholenn, Vnsere Ra&se;the sollen Jhnen auch darzue schleunigk vorhelffenn,</p>
+                <p>So sollen auch die <foreign lang="la">Aduocaten</foreign> sich inn Jhren Satzschrifftenn
+                    der Kurtze befleißigenn, vnd alleine was der sachen notturfft setzen, Allen vndienstlichen
+                    Vberflus der Allegaten vnd Anders vnd sonderlich die Vielfaltigen wiederholung einerley
+                    Berichts oder Arguments, domit sie die Bletter fullen abstellenn, sich auch bei 50 Thaler
+                    straf alles schmehens vnd scheltens kegenn einander endthalttenn.</p></div>
+            <div id="Art.10">
+                <head>X. Vonn Beweis vnnd Kegennbeweis.</head>
+                <p>Alß auch zue Vorzuege des Rechtens nicht wenigk vhrsache giebt, das mit vorfurunge
+                    der Beweis vnd Kegenbeweiß vnordentlich umbgangen, vnnd ghar langsam vorfharen,
+                    Sonderlich aber der Kegenbeweis von den beclagtenn gefherlich so lange hinderhalten
+                    wirdt, bis deß Clegers Zeugnus sol Publicirt werdenn, Sol hinfuro der, welchem beweis
+                    zufhueren auferlegt, Jn Cammergerichts frist nicht alleine seine Artickel vbergeben,
+                    vnd <foreign lang="la">commissarien</foreign> ausbitten, Sondern denselben die Artickel
+                    auch zuschicken, vnd mitt allen Vleis bei ihnen anhalten, daß sie die Zeugen vorher
+                    fordern woltten, Vnd sollen die Artickel von den <foreign lang="la">Aduocaten</foreign> 
+                    und Procuratoren nicht ghar zu weitleuftigk gestalt, vnd auff des Klegers theil Jn 
+                    dieselbenn nicht mehr gebracht werdenn, dan was der beclagte an der Articulirten Clagen
+                    auf des Beclagtten theil aber was der Cleger an seinen Articuliertenn 
+                    <foreign lang="la">Exceptionen</foreign> oder <foreign lang="la">defensionaln</foreign>
+                    vorneinett hat.</p>
+                <p>Also soll auch die zue ghar vberheuffte antzal der gemeinen vnd sondern 
+                    Jnterrogatorien, Jn welchen offte sachen mit eingemenget oder ein [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05389">Sp. 15</quelle>]
+                    Dinck darumb vielmals repetiret vnd wiederholet wirdt, das die Zeugen damit Jrre 
+                    gemacht eingezogenn werdenn, vnd wo dasselbe uberschritten, sollen die 
+                    <foreign lang="la">commissarien</foreign>, welche zur abhorunge der Zeugen
+                    verordnet, solche interrogatorien nicht annehmen, sondern dieselbenn vnsern
+                    Ra&se;then, neben den Artickeln zueschicken, welche die kegenden Artickeln
+                    vbersehenn, vnnd wo sich solche vnnotturfftige Weitleufftigkeit befindenn, den
+                    Aduocaten, der solche interrogatorien gemacht, vmb 20 Thaler strafenn, vnd Jhm darneben
+                    auferlegenn sollen, daß ehr in einer benanten Zeit Andere vnd alleine zuer sachenn,
+                    dauon Articulirett dienliche Jnterrogatorien vor den commissarien einbringe,</p>
+                <p>Gleichergestalt sol hinfuro nicht zuegelassen werden, daß zue angetzogener Reuelationn
+                    des beweises, der theil welcher Beweis oder Kegenbeweis fuerenn wil, erst newe Artickel
+                    vbergebe, vnd suche seinen Kegentheil aufftzuelegenn, vormittels des Juraments
+                    <foreign lang="la">calumniæ</foreign> darauf zueandtwortten, midt dem erbieten, das ehr 
+                    als dan erst was vorneinet wirdt beweisen wolle, dan weil die beweis Artickel nichts mehr,
+                    dan was zuvorn in der Clage oder <foreign lang="la">exceptione</foreign>nn 
+                    <foreign lang="la">articulirt</foreign>, Jnnhalten sollen, vnd auff dasselbe nach geleisteden
+                    Eydt vor gefehrde albereidt geandtwortet wurdenn, Jst dem Kegentheil mit solcher andtwort
+                    weiter zuebeschweren nicht von notenn, vnd beschier solche suchung alleine zue gefehrlichen 
+                    auftzuge der sachenn,</p>
+                <p>Wen der beclagte so Kegenbeweis furen wil, sol dasselbe auch zeitlich vnd ehe des Klegers
+                    Zeugnus ins Cammergericht eingeschickt, vor dehnen <foreign lang="la">commissarien</foreign>,
+                    welche zue auffnehmung des Clegers beweises vorordnet, thuen, zue Dero behueff 
+                    ehr dan, wie ohne das brauchlich, des Klegers außgebethenen 
+                    <foreign lang="la">commissarien</foreign> vnd Notarien, seines Theils auch Commissarien 
+                    vnd Notarien in gleicher antzahl zuezuordnen suchen magk, vnd sollen die verordente
+                    commissarien vnd Notarien zue befurderung der Justitien auch ihres Theils die 
+                    Zeugen vorher so viel ihnen immer muglich forderlich fortstellenn, vnd die Notarien 
+                    beide Zeugnuß also fertigen, daß sie mit einander ins Cammergericht eingeschickt
+                    vnd nach gelegenheit der sachen zugleich eroffnet, oder wue der Kegenbeweis
+                    zuehinderhalten, gleichwol die eroffnung des Clegers Zeugnuß, damit das des 
+                    beclagten Zeugnuß noch nicht verfueret, nicht dorffe aufgetzogen werdenn.</p></div>
+            <div id="Art.11">
+                <head>XI. Ob der Proces vonn dem Beweis anzuefangenn.</head>
+                <p>Vnnsere Ra&se;the haben bishieher Je zue Zeitenn eine Rechtfertigung nach guetlicher
+                    verhor der sachen, alsbalt von dem beweis anfahen lassenn, wie wol nun dasselb das 
+                    ansehen hatt alß befordert es die Sachen, so befindet sich doch, daß es offte grosse
+                    vnrichtigkeit in Processen, vnd zue weitleufftigenn Disputationen Vrsach giebett,
+                    derhalben sollen die Proceß hinfuro von ordentlicher clage angefangen werden. 
+                    Wurden es aber die Parteyen hieruber suchen, vnd sich des mit einander voreinigen,
+                    oder es wurde in [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05389">Sp. 16</quelle>] sachen streitiger <foreign lang="la">possession</foreign>,
+                    oder derogleichen <foreign lang="la">causis summariis</foreign> sonsten vor guet
+                    angesehen, So sollen vnsere Ra&se;the die sache auf die vorhor in einen richtigen
+                    Abscheidt fassenn, vnd darinnen sonderlich klar vormelden wen ein Jedertheil zuebeweisen
+                    auf sich genommen, oder ihme durch die Ra&se;the ausfueren sey auferlegt wordenn,
+                    Welche abscheide die Parte auch neben den Beweis-Artickeln mit Produciren sollenn
+                    domit man sich in vorfassung der Vrthel darnach zurichten,</p></div>
+            <div id="Art.12">
+                <head>XII. Die Vhrsachenn der Beschwerdenn in der Supplication mit eintzuwenden.</head>
+                <p>Ob wol vnsere Cammergerichtsordnung vormagk, wan von vnsere Rathe Vrthel an
+                    vns suppliciret, daß die Supplication in derselben andernn Jnstantz des Liebels stad haben
+                    sol, vnd darumb die Vhrsachen warumb der Supplicant, durch vnsere Rathe Vrthel 
+                    vormeinet beschwert zue sein, derselben Supplication billich mit sollen einuorleibt
+                    werden, So werden wir doch berichtet, daß die Procuratorenn sich vnderstehen sollen,
+                    wan ihnen ein Vrthel nicht gefellet, Jn den Zehen tagen nicht mehr dan ein kurtze
+                    Supplicationn darwieder einzubringenn, darein sie keine Vhrsachen der beschwerden
+                    antzeigen, vnd Jhnen allein vorbehaltenn, Solche beschwerunge in Cammergerichts
+                    frist weiter vorzubringenn, Wan nun solchs zue beschwerlichen auftzugk der sachen
+                    vorgenommen, Ordnen vnd wollen wir, daß die Jhenigen so von vnserer Ra&se;the Vrtheilen
+                    oder abscheidenn an vns suppliciren wollen, Jn ihrer Supplication die Vhrsachen, warumb
+                    sie vormeinen, daß sie mit vnserer Ra&se;the Vrthel oder abscheidt beschwert, wie oben
+                    von den Clagen gemeldet, auch Artickels weise deduciren vnd neben des Vrthels oder
+                    Abscheidts Abschrifft mit vorbringen sollen, domit wir nicht alleine berichtet werden
+                    muegen, ob dieselben also geschaffen, das die Supplication billich antzunehmen, sondern
+                    auch der Supplicanten gebuerliche frist seine notturfft wieder darauff einwenden, vnd
+                    also die sache desto ehe zum ende laufen muge,</p></div>
+                    <div id="Art.13">
+                        <head>XIII. Jn was zeit die Supplicationen vnd appellationen, so von vntergerichten
+                            an vns oder vnser Cammergerichte beschehen, sollen Jnsinuiret vnd
+                            Justificirt werden.</head>
+                        <p>Mit den Supplicationen die von denen Geistlichen 
+                            <foreign lang="la">Consistorio</foreign> oder vnser Quartahlgerichts Ra&se;then zue
+                            Stendal vnd Prenzlow an vns selbst, vnd den Appellationen die von andern
+                            vndergerichten im Lande an vnsere Cammergerichts Ra&se;the beschehenn, werden
+                            die sachen auch sehr auffgetzogen, dieweil dieselben zueweilen langsam vnd nicht
+                            ehe, dan wieder die Appellanten die <foreign lang="la">Execution</foreign>
+                            befholen wirdt, insinuirt oder justificirt werden,</p>
+                        <p>Demselben vorzukommen, sollen die welche vor vnser
+                            <foreign lang="la">Consistorial</foreign> oder Quartalgerichts Rathen an
+                            vns suppliciren auch die Appellanten, welche von den Vndergerichten an vnser
+                            Cammergerichts-Rathe appelliren wollen, Solches [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05390">Sp. 17</quelle>] inner zehen
+                            Tagen inn schrifftlichen thuen, vnd Jhre <foreign lang="la">grauamina</foreign>
+                            darinnen mit deduciren, auch alßbaldt <foreign lang="la">apostolos</foreign>
+                            bitten, vnd dieselben vnsern Cammergerichts-Ra&se;then in den negsten 14
+                            tagen von Dato der Aposteln u&se;berandtwortten, darauf vnsere Ra&se;the, wu
+                            sie die Supplication oder appellation annehmen, <foreign lang="la">inhibition</foreign>
+                            außgehen lassen, auch dem Supplicaten oder Appellaten Abschrifft sollen zuschicken
+                            vnd Supplicanten vnd Appellanten darnebenn aufflegen sollen, daß ehr die
+                            Abschrift der Acten ersten Jnstantz, Jn Cammergerichts frist einbringe, damit in 
+                            solcher andern Jnstantz beide theil desto vngehinderter, vormuge der Ordnung
+                            procediren muegen, Wurde der Appellant aber, Jn itzo bestimpter zeit, seine
+                            Appellation midt den Aposteln, auch hernach die Acten erster Jnstantz nicht
+                            einbringen, soll die Appellation <foreign lang="la">pro deserta</foreign> vnd
+                            vorloschen geachtet, auch also von vnsern Cammergerichts Ra&se;then erkandt,
+                            vnd mit der <foreign lang="la">Execution</foreign> verfharen werdenn,</p></div>
+            <div id="Art.14">
+                <head>XIV. Von <foreign lang="la">Nullit</foreign>a&se;t-Processen.</head>
+                <p>Jn vnser Cammergerichtsordnung ist wol vorsehen, daß uber die Supplication Jnstantz,
+                    kein ferner Proceß zuezuelassen, dan des rechtens, ie auch ein ende sein, vnd
+                    muetwilligen zenkischen Leuten, die sich an keinem Rechten wollen gnugen lassen,
+                    die andern ihres gefallens zuebetrueben vnd vmbtzutreiben, nicht nachgehangen
+                    werden muß, Wir werden aber doch berichtet, daß noch bei vnsers Herrn Vater seliger
+                    vnd milder gedencknus regirung ie zu zeiten aus grossen vnd erheblichen Vrsachen 
+                    <foreign lang="la">nullitet proces</foreign> zuegelassen, dabei lassen wir es auch
+                    nochmals beruehenn, </p>
+                <p>Es sollen aber vnsere Ra&se;the solche Nullitet Proces vortzunehmen ander gestalt nicht
+                    nachgeben, es konne dan die angetzogene Nullitete alsbaldt aus den Acten
+                    bescheiniget werden,</p>
+                <p>So sol auch in solchen fellen, wan der so das Vrthel in der Supplication Jnstantz
+                    gewunnen Notturfftige <foreign lang="la">Caution</foreign> thuet, daß er auf den fal, 
+                    wen auf die Nullitete Acten anders erkandt wurde, seinem kegentheil daß Jenige datzue
+                    oder darinne Jhme vorholffen wieder <foreign lang="la">restituiren</foreign> wolle, das
+                    zuuoren gesprochene Vrthel nicht weniger exequiredt werden.</p></div>
+            <div id="Art.15">
+                <head>XV. Von Verschickung der Actenn.</head>
+                <p>Alß vnter den Parteyen, die ann vnser Cammergericht Rechthengige sachen haben etwan
+                    auch verschickung der Actenn haben streit vorfellet, vnd der eine begehret, dieselben ausser
+                    Landes zuuersprechen zuuerschicken, der ander aber das darauff in vnserm Cammergericht
+                    solle geurtheilet werden, haben sich vnsere Ra&se;the dahin verglichen, daß zu vermeidung alles
+                    Argkwohns, dehme so die vorschickung der Acten ausser Landes suchet, sol gewilfharet
+                    werden, doch daß ehr vnd sein Aduocat oder Procurator den ehr in der sachen brauchtt bei 
+                    den Eiden vnd Pflichten, domit sie vns alß ihren Landßfu&se;rsten vorwandt beteuren, daß 
+                    sie sich an dem ortte, dahin sie die Acten zuuorschicken bitten, zuuorn [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05390">Sp. 18</quelle>]
+                    nicht haben belehren lassen, vnd das Vrthelgelt vnd Botenlohn alleine erlegen, Hetten 
+                    aber vnsere Ra&se;the in einer sachen <foreign lang="la">definitive</foreign> gesprochen,
+                    vnd die Acten darumb an einen andern ortt musten vorschicket werden, sol das Vrthelgelt 
+                    vnd Bothenlohn zuegleich von beiden theilen bezahlet werden, vnd wue sich die
+                    Part des ortts, wuehin die Acten auser landes zuschicken, nicht konnten vergleichen,
+                    sol bey vnsern Ra&se;then stehen, dieselbe fu&se;r sich, vnd ohn der Part vorwissen,
+                    an eine vnuerdechtige <foreign lang="la">Juristen Facultet</foreign> oder
+                    Scheppenstuel zufertigen, vnd wan das Vrthel einkommet, den Parten dasselbige
+                    kegen erlegung des Vrthelgeltdes zu <foreign lang="la">publiciren</foreign>.</p>
+                <p>Was nun aber diese vnsere erclerung zu der <foreign lang="la">Direction</foreign>
+                    der Rechtlichen Proceß weiter geho&se;rig, damit soll es allenthalben, nach inhalt vnserer
+                    vorigen Cammergerichtsordnung welche wir hiemitt allenthalben verneuert vnd 
+                    <foreign>confirmiret</foreign> haben wollen, gehalten werden, wie wir den selbe
+                    darumb von Newen hernach trucken lassen.</p></div>
+                    <div id="Art.16">
+                        <head>XVI. Die Advocaten vnd Procuratorenn auff die ordnung vnd diese derselben
+                        vorbesserung zuuoreidenn.</head>
+                        <p>Vnser Cantzler vnd Ra&se;the sollen die Aduocaten vnd Procuratorenn welche 
+                            Jn vnserem Cammergericht dienen wollen, auff die ordnung vnd diese vnsere 
+                            derselben erclerung vnd verbesserung, von Newen schweren lassen, auch ein
+                            fleißiges vnd ernstes auffsehenn haben, daß sie derselben gehorsamlich nachkommen,
+                            vnd wieder die welche derselben nicht nachkommen, vnd die Leute vnd sachen
+                            auffziehen oder die Part in guetlicher Handtlung oder im standt des Rechten, in
+                            unnotturfftige weitleuftigkeit vorleiten vnd einfhueren wollen, mit abforderung
+                            des Eideß <foreign lang="la">malitiæ</foreign>, vnd wan sie sich nicht daran keren,
+                            mit verbott des Aduocirens vnd andern ernsten straffen vnnausleßig verfahren,</p>
+                        <p>Es beschweren sich auch vnsere Vnterthanen hochlich, das sie durch die Aduocaten
+                            vnd Procuratoren an vnsern Cammergericht, vnd derselben Schreiber, desgleichen
+                            die Notarien ghar zu hoch u&se;bersetzet werden, darauf haben wir verordnet, daß
+                            hinfuro sol gegeben werden, einem Advocaten vnd Procuratoren, der dem Part in
+                            einem guetlichen vorbescheide dienet, wen die sache in einem halben tage von den
+                            Rathen vergleichen oder darinnen bescheidt geben ½ Thaler, Wan aber ein gantzer
+                            tagk damit zubracht wirdt, ein gantzen Thaler, vnd do die sache noch muesamer
+                            vnd viel Artickel hat 2 Thaler zu meist.</p>
+                        <p>Den Gerichtschreibern vnd Notarien in vorhorung der Zeugen, wan der 
+                            Ar[tick]ell 15 oder darunter sein, die zuegehorige
+                            <foreign lang="la">Interrogatoria</foreign> mit zugemeint ½ Thaler, vnd wan Jhr 
+                            ein Dreißigk vnd mehr sein 1 Thaler, davern aber die Artickel vnd 
+                            <foreign lang="la">Interrogatoria</foreign> so gar weitleuftigk, sol es auf der Ra&se;the
+                            ermessen stehen,</p>
+                        <p>An Schreibegelt aber sol forthin von einem bogen darauf auf ide Seiten zum wenigsten
+                            20 Zeilen geschrieben sein 1 sgl. geben werden.</p>
+                        <p>Vnd hieruber sol keiner, wehr der auch sei, die Parteyen weiter beschweren oder darum 
+                            [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05391">Sp. 19</quelle>] gestalten sachen nach gestrafet werden, doch do wolhabende leute aus
+                            guetwilligkeit einem ein mehres zuwenden wollen ist demselben heimgestelt,</p>
+                        <p>Was dan die Verfertigung der Producten vnd satzschrifften anlangen thuet, werden sich
+                            die Parteyen mit ihren Aduocaten vnd Procuratoren, nach gelegenheit vnd wichtigkeit
+                            der Hendel auch grosse ihrer in der sachen angewanten muehe vnd fleisse, vnd deren
+                            geschiklichkeit selbst wissen zuuortragen, in deme wir doch wie sichs iemandt beclagt,
+                            das er zur vnbilligkeit vbersatzt, auch gebuerliches einsehen wollen thuen lassen.</p>
+                        <p>Gleichmeßige gelegenheit es mit vorreisen der Aduocaten, Procuratoren, gerichts vnd anderer
+                            Notarien, ausser der stadt in vorrichtung der sachen aufm Lande auch hat, vnd auf zimlich
+                            billige vorgleichung stehet.</p>
+                        <p>Nach den meilen aber die zufordern vnd anzuschlagen, weil dahero keine ermessigung
+                        zunehmen, soll hiemit verbotten vnd abgeschaffet sein,</p>
+                        <p>Dieweil auch Vngelartte leichtfertige Procuratoren manchen Armen man forfhuren,
+                            sollen vnsere Cammergerichts Ra&se;the, desgleichen die Gerichte in vnsern Stedten keinen
+                            nachgeben, for den gerichten zureden, oder sachen zufhueren, er habe dan in Rechten studiret,
+                            vnd konne das, wan es von Jhme erfordert wird von seinen Preceptoren Zeugnus bringen,</p>
+                        <p>Vnd alß offte arme Parteyen vorkommen, welche ihre notturfft selbst nicht forbringen, auch
+                            [<quelle url="http://web-archiv.staatsbibliothek-berlin.de/altedrucke.staatsbibliothek-berlin.de/Rechtsquellen/CCMT63/05391">Sp. 20</quelle>] keinen Aduocaten lohnen kunnen, sollen vnsere Ra&se;the demselben einen
+                            aus den Cammergerichts Procuratoren zuordnen vnd welchem sie es auferlegen, der sol
+                            solches auf sich zunehmen, vnd derselben Armen Partey nicht mit wenigern fleis dan 
+                            wan sie Jhme gelt gebe zudienen schuldig sein, bei 30. Thaler straffe, Also muegen auch
+                            vnsere Rathe, wenn sich einer sonsten beclagt, das Jhme kein Procurator dienen wil, 
+                            dasselbe einem zuthuen auferlegen.</p></div>
+            <div id="Art.17">
+                <head>XVII. Die Gerichtsverwalter in vnsernn Stedten sollen die streitigen Parteyen in 
+                    erster Jnstantz, auch nach vnser Cammergerichtsordnung vnd dieser derselben vorbesserung
+                    procediren lassen.</head>
+                <p>Nachdem in vnserm Lande vnd Hoffgerichten, Auch von den Gerichten der Stedte, die
+                    streitigen Parteyen zuweilen zu keiner guetlicher Handtlung oder vorgleichung zuuormuegen
+                    vnd derowegen zum Rechtlichen außtragk mussen vorwiesen werdenn, so sol auff solchen fal der 
+                    Proceß in den Vntergerichten vmb gueter richtigkeit willen, anders nicht, den nach inhalt
+                    vnser Cammergerichts ordtnung, vnd dieser derselben vorbesserunge, angestalt vnd gehalten,
+                    auch von den Ra&se;then in vnsern Stedten, das einsehen gethan werden, daß die Leute sich
+                    ubermeßiger beschwerung vnd ubersetzung, die ihnen in den Gerichten begegnet, zuebeclagen
+                    nicht vrsache habenn,</p></div>                        
+      
+        </body>
+    <back>
+    <div id="Index">
+    <head>Index aus der Verschlagwortung der digitalen Edition.</head>
+        <doindex/>
+        </div></back>
+    </text></TEI.2>
