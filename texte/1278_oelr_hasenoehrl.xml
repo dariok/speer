@@ -7,20 +7,32 @@
    <teiHeader>
         <fileDesc>
            <titleStmt>
-            <title>Das österreichische Landesrecht. In: Victor Hasenöhrl, Österreichisches Landesrecht im 13. und 14. Jahrhundert. Wien 1867, S. 236ff. :: Transkription Speer 2012 /2016</title>
+            <title>Das österreichische Landesrecht.</title>
+           	<editor>Heino Speer</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
                <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
             </publisher>
          </publicationStmt>
-         <sourceDesc>
-            <p>Victor Hasenöhrl, Österreichisches Landesrecht im 13. und 14. Jahrhundert. Wien 1867, S. 236ff. :: Transkription Speer 2012 /2016</p>
-         </sourceDesc>
+        	<sourceDesc>
+        		<biblStruct>
+        			<monogr>
+        				<author>Victor Hasenöhrl</author>
+        				<title>Österreichisches Landesrecht im 13. und 14. Jahrhundert</title>
+        				<imprint>
+        					<pubPlace>Wien</pubPlace>
+        					<date>1867</date>
+        				</imprint>
+        				<biblScope>S. 236ff.</biblScope>
+        			</monogr>
+        		</biblStruct>
+        	</sourceDesc>
       </fileDesc>
       <revisionDesc>
          <change when="2016-11-02+01:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
-						by p4p5.xsl. </change>
+						by p4p5.xsl.</change>
+      	<change when="2016-11-02" who="Dario Kampkaspar" n="2">Titeldaten angepaßt</change>
       </revisionDesc>
    </teiHeader>
    <text>
