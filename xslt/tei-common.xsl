@@ -103,21 +103,21 @@
 		</div>
 		<div id="container">
 			<xsl:apply-templates select="." mode="content"/>
-		</div>
-		<!-- footer -->
-		<div id="footer">
-			<xsl:call-template name="footer">
-				<xsl:with-param name="footerXML">
-					<xsl:call-template name="resolveXML">
-						<xsl:with-param name="metsID">
-							<xsl:value-of select="/tei:TEI/@xml:id"/>
-						</xsl:with-param>
-					</xsl:call-template>
-				</xsl:with-param>
-				<xsl:with-param name="footerXSL">
-					<xsl:value-of select="concat($baseDir, '/tei-introduction.xsl')"/>
-				</xsl:with-param>
-			</xsl:call-template>
+			<!-- footer -->
+			<div id="footer">
+				<xsl:call-template name="footer">
+					<xsl:with-param name="footerXML">
+						<xsl:call-template name="resolveXML">
+							<xsl:with-param name="metsID">
+								<xsl:value-of select="/tei:TEI/@xml:id"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</xsl:with-param>
+					<xsl:with-param name="footerXSL">
+						<xsl:value-of select="concat($baseDir, '/tei-introduction.xsl')"/>
+					</xsl:with-param>
+				</xsl:call-template>
+			</div>
 		</div>
 	</body>
 </html>
