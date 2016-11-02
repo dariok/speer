@@ -89,13 +89,25 @@
 			<xsl:text disable-output-escaping="no">hd</xsl:text>
 			<xsl:number level="any" format="1"/>
 		</xsl:variable>
-		<xsl:if test="not(@n='1.0')">
-			<h4 id="{$id}">
-				<xsl:apply-templates select="tei:head" mode="heading"/>
-				<a href="#" class="upRef">↑</a>
-			</h4>
-		</xsl:if>
-		<xsl:apply-templates select="child::node()"/>
+		<div>
+			<xsl:attribute name="id">
+				<xsl:choose>
+					<xsl:when test="@xml:id">
+						<xsl:value-of select="@xml:id"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="$id"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
+			<xsl:if test="not(@n='1.0')">
+				<h4>
+					<xsl:apply-templates select="tei:head" mode="heading"/>
+					<a href="#" class="upRef">↑</a>
+				</h4>
+			</xsl:if>
+			<xsl:apply-templates select="child::node()"/>
+		</div>
 	</xsl:template>
 	
 	<!-- *** Pointer *** -->
@@ -198,6 +210,16 @@
 			<xsl:apply-templates select="child::node()"/>
 		</p>
 	</xsl:template>
+	
+	<!-- neu 2016-11-02 DK -->
+	<!-- TODO anpassen an weitere Varianten -->
+	<xsl:template match="tei:pb">
+		<a>
+			<xsl:attribute name="href" select="@facs" />
+			<xsl:value-of select="@n"/>
+		</a>
+	</xsl:template>
+	
 	<!-- template tei:anchor ausgelagert nach common; 2016-05-26 DK -->
 	<!-- Angleichung an die Ausgabe der PDF; 2016-05-26 -->
 	<xsl:template match="tei:monogr" as="item()*">
