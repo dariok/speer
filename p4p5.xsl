@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:transform version="2.0"
-	xmlns:date="http://exslt.org/dates-and-times"
-	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns:fn="http://w3.org/2005/xpath-functions"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:xi="http://www.w3.org/2001/XInclude"
-	xmlns="http://www.tei-c.org/ns/1.0"
-	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-	exclude-result-prefixes="tei date"
-	>
+<xsl:transform version="2.0" xmlns:date="http://exslt.org/dates-and-times"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fn="http://w3.org/2005/xpath-functions"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei date">
 	
 	<!-- **
 				* Conversion from TEI P4 to P5
@@ -18,9 +12,11 @@
 				* This script may be used, distributed and changed freely as long as the author and the library are
 				* properly credited and further usage of this and any derived scripts is granted free of charge. 
 				**-->
+	
 	<!-- Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK -->
-
-	<!-- 	Handling of indent and strip-space is slightly different between parsers. Different setting may improve
+	<!-- TODO nicht benötigte entfernen; 2016-11-02 DK -->
+	
+	<!-- Handling of indent and strip-space is slightly different between parsers. Different setting may improve
 				human readability. Adjust as needed. -->
 	<xsl:output method="xml" encoding="utf-8" indent="yes"/>
 	
@@ -31,19 +27,19 @@
 	</xsl:variable>
 	
 	<!-- Variables for lowercase-conversion and replacement for certain characters (needed in XSLT 1.0) -->
-	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz_'" />
-	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ ,.'" />		 <!-- replace space by _ and remove ,. -->
+	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz_'"/>
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ ,.'"/>
+	<!-- replace space by _ and remove ,. -->
 	
 	<!-- **
 				* Project-specific instructions
 				* Adjust these according to your local requirements.
 				** -->
-	
 	<!-- ** teiHeader ** -->
 	<!-- in jedem Fall eine revision erstellen für die Konversion nach P5; 2016-08-18 DK -->
 	<xsl:template match="*:teiHeader">
 		<teiHeader>
-			<xsl:apply-templates />
+			<xsl:apply-templates/>
 			<xsl:if test="not(*:revisionDesc)">
 				<revisionDesc>
 					<xsl:element name="change">
@@ -57,10 +53,9 @@
 								<xsl:otherwise>0</xsl:otherwise>
 							</xsl:choose>
 						</xsl:variable>
-						<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute>
-						Automatic transcoding TEI P4 → P5 by p4p5.xsl.
-					</xsl:element>
-					<xsl:apply-templates select="*:revisionDesc/*:change" />
+						<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </xsl:element>
+					<xsl:apply-templates select="*:revisionDesc/*:change"/>
 				</revisionDesc>
 			</xsl:if>
 		</teiHeader>
@@ -69,10 +64,12 @@
 	<!-- fileDesc vervollständigen; 2016-08-18 DK -->
 	<xsl:template match="*:fileDesc">
 		<fileDesc>
-			<xsl:apply-templates />
+			<xsl:apply-templates/>
 			<xsl:if test="not(*:publicationStmt) or normalize-space(*:publicationStmt)=''">
 				<publicationStmt>
-					<publisher><ref target="http://www.hab.de">Herzog August Bibliothek</ref></publisher>
+					<publisher>
+						<ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+					</publisher>
 				</publicationStmt>
 			</xsl:if>
 			<!-- educated guess... 2016-08-18 DK -->
@@ -80,28 +77,51 @@
 				<sourceDesc>
 					<!-- »<p>[Quelle:« oder ähnlich -->
 					<xsl:choose>
-						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]">
-							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]" />
-							<xsl:variable name="u" select="substring-after(substring-before($t, 'Transkription'), 'Quelle:')" />
+						<xsl:when
+							test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]">
+							<xsl:variable name="t"
+								select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]"/>
+							<xsl:variable name="u" select="substring-after(substring-before($t, 'Transkription'), 'Quelle:')"/>
 							<xsl:choose>
-								<xsl:when test="ends-with(normalize-space($u), '::')"><xsl:value-of select="normalize-space(substring-before($u, '::'))"/></xsl:when>
-								<xsl:when test="ends-with(normalize-space($u), ':')"><xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/></xsl:when>
-								<xsl:otherwise><p><xsl:value-of select="normalize-space($u)" /></p></xsl:otherwise>
+								<xsl:when test="ends-with(normalize-space($u), '::')">
+									<xsl:value-of select="normalize-space(substring-before($u, '::'))"/>
+								</xsl:when>
+								<xsl:when test="ends-with(normalize-space($u), ':')">
+									<xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/>
+								</xsl:when>
+								<xsl:otherwise>
+									<p>
+										<xsl:value-of select="normalize-space($u)"/>
+									</p>
+								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]">
-							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]" />
-							<xsl:variable name="u" select="substring-after($t, 'Quelle:')" />
+							<xsl:variable name="t"
+								select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]"/>
+							<xsl:variable name="u" select="substring-after($t, 'Quelle:')"/>
 							<xsl:choose>
-								<xsl:when test="ends-with(normalize-space($u), '::')"><xsl:value-of select="normalize-space(substring-before($u, '::'))"/></xsl:when>
-								<xsl:when test="ends-with(normalize-space($u), ':')"><xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/></xsl:when>
-								<xsl:otherwise><p><xsl:value-of select="normalize-space($u)" /></p></xsl:otherwise>
+								<xsl:when test="ends-with(normalize-space($u), '::')">
+									<xsl:value-of select="normalize-space(substring-before($u, '::'))"/>
+								</xsl:when>
+								<xsl:when test="ends-with(normalize-space($u), ':')">
+									<xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/>
+								</xsl:when>
+								<xsl:otherwise>
+									<p>
+										<xsl:value-of select="normalize-space($u)"/>
+									</p>
+								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:when>
 						<xsl:when test="matches(//*:title, '[iI]n: ')">
-							<p><xsl:value-of select="substring-after(//*:title, 'n: ')" /></p>
+							<p>
+								<xsl:value-of select="substring-after(//*:title, 'n: ')"/>
+							</p>
 						</xsl:when>
-						<xsl:otherwise><p>TODO: Quelle eintragen</p></xsl:otherwise>
+						<xsl:otherwise>
+							<p>TODO: Quelle eintragen</p>
+						</xsl:otherwise>
 					</xsl:choose>
 				</sourceDesc>
 			</xsl:if>
@@ -120,53 +140,63 @@
 	</xsl:template>
 	<!-- ** END teiHeader ** -->
 	
-	<!-- Einteilung kommt getrennt nach tei:front; 2016-08-18 DK -->
+	<!-- Einleitung kommt getrennt nach tei:front; 2016-08-18 DK -->
 	<xsl:template match="*:text">
 		<text>
-			<front><xsl:apply-templates select="*:body/*:div[@id='Einleitung']" /></front>
-			<body><xsl:apply-templates select="*:body/*[not(@id='Einleitung')]" /></body>
+			<front>
+				<xsl:apply-templates select="*:body/*:div[@id='Einleitung']"/>
+			</front>
+			<body>
+				<xsl:apply-templates select="*:body/*[not(@id='Einleitung')]"/>
+			</body>
 		</text>
 	</xsl:template>
 	
 	<!-- Specifica -->
 	<!-- quelle wird zunächst zu tei:ref; 2016-08-18 DK -->
+	<!-- geändert: idR wird es zu pb; 2016-11-02 DK -->
 	<!-- TODO: prüfen! Das dürfte komplexer sein! -->
 	<xsl:template match="*:quelle">
-		<ref>
-			<xsl:if test="string-length(@target) &gt; 0">
-				<xsl:attribute name="target"><xsl:value-of select="@url"/></xsl:attribute>
+		<pb>
+			<xsl:if test="string-length(@url) &gt; 0">
+				<xsl:attribute name="facs">
+					<xsl:value-of select="@url"/>
+				</xsl:attribute>
 			</xsl:if>
-			<xsl:apply-templates />
-		</ref>
+			<xsl:if test="text()">
+				<xsl:attribute name="n">
+					<xsl:apply-templates/>
+				</xsl:attribute>
+			</xsl:if>
+		</pb>
 	</xsl:template>
 	
 	<!-- datum zu tei:date; 2016-08-18 DK -->
 	<xsl:template match="*:datum">
 		<date>
 			<xsl:if test="@wert">
-				<xsl:attribute name="when" select="@wert" />
+				<xsl:attribute name="when" select="@wert"/>
 			</xsl:if>
-			<xsl:apply-templates />
+			<xsl:apply-templates/>
 		</date>
 	</xsl:template>
 	
 	<!-- pb/@url → pb/@facs; 2016-08-18 DK -->
 	<xsl:template match="*:pb/@url">
-		<xsl:attribute name="facs" select="." />
+		<xsl:attribute name="facs" select="."/>
 	</xsl:template>
 	
 	<!-- corr/@sic → <choice><sic><corr>; 2016-08-18 DK -->
 	<xsl:template match="*:corr">
-		<choice><sic><xsl:value-of select="@sic" /></sic><corr><xsl:apply-templates select="*|@*"/></corr></choice>
+		<choice><sic><xsl:value-of select="@sic"/></sic><corr><xsl:apply-templates select="*|@*"/></corr></choice>
 	</xsl:template>
-	<xsl:template match="@sic" />
-	<!-- specifica -->
 	
+	<xsl:template match="@sic"/>
+	
+	<!-- specifica -->
 	<!-- ** body ** -->
 	<!-- A list of the @reason available in an unclear. Separate multiple values by | -->
-	<xsl:variable name="reasons">
-		'illegible'	
-	</xsl:variable>
+	<xsl:variable name="reasons"> 'illegible' </xsl:variable>
 	
 	<!-- 	ref/@targType removed; convert [p4]@targType→[p5]@type, [p4]@type→[p5]@subType. 
 				Adjust this to your local use of @targType/@type and @type/@subtype. -->
@@ -200,7 +230,8 @@
 		<xsl:element name="rs">
 			<xsl:attribute name="type">
 				<xsl:choose>
-					<xsl:when test="@type = 'Person'">										 <!-- adjust localized value names for english values -->
+					<xsl:when test="@type = 'Person'">
+						<!-- adjust localized value names for english values -->
 						<xsl:text>person</xsl:text>
 					</xsl:when>
 					<xsl:when test="@type = 'Körperschaft'">
@@ -217,6 +248,7 @@
 			<xsl:apply-templates select="@*|text()"/>
 		</xsl:element>
 	</xsl:template>
+	
 	<xsl:template match="//div//name/@type"/>
 	
 	<!-- 	mdDescription has been changed to msDesc, as have its constituents. Do you want to copy former msHeading to
@@ -240,20 +272,24 @@
 				* Common instructions
 				* These transformations should be the same for every conversion P4→P5; no changes should be necessary.
 				** -->
-		
-	<!-- Adjust the root element -->	
+	<!-- Adjust the root element -->
 	<xsl:template match="*:TEI.2">
 		<TEI xmlns="http://www.tei-c.org/ns/1.0">
+			<!-- neu 2016-11-02 DK -->
+			<xsl:attribute name="xml:id">
+				<xsl:value-of select="concat('edoc_ed000245_', substring-after(substring-before(base-uri(), '.xml'), 'input/'))"/>
+			</xsl:attribute>
 			<xsl:apply-templates select="*|@*"/>
 		</TEI>
 	</xsl:template>
+	
 	<xsl:template match="teiCorpus">
 		<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
 			<xsl:apply-templates select="*|@*"/>
 		</teiCorpus>
 	</xsl:template>
 	
-	<!-- ** teiHeader ** -->	
+	<!-- ** teiHeader ** -->
 	<!-- add a change entry for what we do here -->
 	<xsl:template match="*:revisionDesc">
 		<revisionDesc>
@@ -268,9 +304,8 @@
 						</xsl:if>
 					</xsl:for-each>
 				</xsl:variable>
-				<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute>
-				Automatic transcoding TEI P4 → P5 by p4p5.xsl.
-			</xsl:element>
+				<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute> Automatic transcoding TEI P4 → P5 by
+				p4p5.xsl. </xsl:element>
 			<xsl:apply-templates/>
 		</revisionDesc>
 	</xsl:template>
@@ -281,31 +316,36 @@
 			<xsl:attribute name="n">
 				<xsl:value-of select="@n"/>
 			</xsl:attribute>
-			<xsl:attribute name="when">																							<!-- former tespStmt/date is now @when. -->
+			<xsl:attribute name="when">
+				<!-- former tespStmt/date is now @when. -->
 				<xsl:value-of select="./date/@value"/>
 			</xsl:attribute>
 			<xsl:choose>
-				<xsl:when test="./respStmt/name/@ref">																	<!-- former respStmt/@ref is now @who -->
+				<xsl:when test="./respStmt/name/@ref">
+					<!-- former respStmt/@ref is now @who -->
 					<xsl:attribute name="who">
 						<xsl:value-of select="./respStmt/name/@ref"/>
 					</xsl:attribute>
 				</xsl:when>
 			</xsl:choose>
-			<xsl:if test="./respStmt/name">											<!-- former respStmt/name now has to be a child of <change> -->
+			<xsl:if test="./respStmt/name">
+				<!-- former respStmt/name now has to be a child of <change> -->
 				<xsl:element name="name">
 					<xsl:value-of select="./respStmt/name/text()"/>
 				</xsl:element>
 			</xsl:if>
-			<xsl:if test="item">									<!-- <item> not allowed as child of <change>, has to be child of a <list> -->
+			<xsl:if test="item">
+				<!-- <item> not allowed as child of <change>, has to be child of a <list> -->
 				<list>
 					<xsl:apply-templates/>
 				</list>
 			</xsl:if>
 		</xsl:element>
 	</xsl:template>
-	<xsl:template match="change/date"/>
-	<xsl:template match="change/respStmt"/>
 	
+	<xsl:template match="change/date"/>
+	
+	<xsl:template match="change/respStmt"/>
 	<!-- to describe languages, only langUsage/languae is available -->
 	<xsl:template match="langUsage/p">
 		<xsl:element name="language">
@@ -346,7 +386,7 @@
 				<xsl:if test="$copyHeadingToHead='no' or msHeading[author|respStmt|textLang]">
 					<xsl:element name="msItem">
 						<xsl:comment>Copied from msHeading</xsl:comment>
-						<xsl:apply-templates 
+						<xsl:apply-templates
 							select="msHeading/*[self::author or self::title or self::respStmt or self::textLang or self::note]"/>
 					</xsl:element>
 				</xsl:if>
@@ -354,7 +394,9 @@
 			</xsl:element>
 			<xsl:element name="physDesc">
 				<xsl:if test="physDesc/p">
-					<xsl:element name="p"><xsl:apply-templates select="physDesc/p"/></xsl:element>
+					<xsl:element name="p">
+						<xsl:apply-templates select="physDesc/p"/>
+					</xsl:element>
 				</xsl:if>
 				<xsl:element name="objectDesc">
 					<xsl:apply-templates select="physDesc/objectDesc/@*"/>
@@ -380,11 +422,14 @@
 								and not both within the same document (if so, there's nothing we want to do about it...) -->
 					<xsl:apply-templates select="physDesc/handDesc/*"/>
 					<xsl:if test="physDesc/handDesc/@hands">
-						<xsl:attribute name="hands"><xsl:value-of select="physDesc/handDesc/@hands"/></xsl:attribute>
+						<xsl:attribute name="hands">
+							<xsl:value-of select="physDesc/handDesc/@hands"/>
+						</xsl:attribute>
 					</xsl:if>
-					
 					<xsl:if test="physDesc/msWriting/@hands">
-						<xsl:attribute name="hands"><xsl:value-of select="physDesc/msWriting/@hands"/></xsl:attribute>
+						<xsl:attribute name="hands">
+							<xsl:value-of select="physDesc/msWriting/@hands"/>
+						</xsl:attribute>
 					</xsl:if>
 					<xsl:apply-templates select="physDesc/msWriting/*"/>
 				</xsl:element>
@@ -404,8 +449,11 @@
 					<xsl:apply-templates select="history/origin/@*[local-name() != 'certainty']"/>
 					<xsl:if test="history/origin/@certainty">
 						<xsl:element name="certainty">
-							<xsl:attribute name="cert"><xsl:value-of select="history/origin/@certainty"/></xsl:attribute>
-							<xsl:attribute name="locus">.</xsl:attribute>						<!-- @locus is required but not meaningful here -->
+							<xsl:attribute name="cert">
+								<xsl:value-of select="history/origin/@certainty"/>
+							</xsl:attribute>
+							<xsl:attribute name="locus">.</xsl:attribute>
+							<!-- @locus is required but not meaningful here -->
 						</xsl:element>
 					</xsl:if>
 					<xsl:if test="$copyHeadingToHead='no' or msHeading[author|respStmt|textLang]">
@@ -421,21 +469,29 @@
 			<xsl:apply-templates select="msPart"/>
 		</xsl:element>
 	</xsl:template>
+	
 	<!-- msDescription/@status has been dropped; writing it into @type as we boldly assume that no-one has @type here -->
 	<xsl:template match="msDescription/@status">
 		<xsl:comment>msDescription/@status: <xsl:value-of select="."/></xsl:comment>
 	</xsl:template>
+	
 	<!-- overview has been removed; giving it as <p>. -->
 	<xsl:template match="msDescription//overview">
-		<xsl:element name="p"><xsl:copy-of select="text()"/></xsl:element>
+		<xsl:element name="p">
+			<xsl:copy-of select="text()"/>
+		</xsl:element>
 	</xsl:template>
+	
 	<!-- msIdentifier/altName was changed to altIdentifier -->
 	<xsl:template match="msIdentifier/altName">
 		<xsl:element name="altIdentifier">
 			<xsl:apply-templates select="@*"/>
-			<xsl:element name="idno"><xsl:apply-templates select="text()"/></xsl:element>
+			<xsl:element name="idno">
+				<xsl:apply-templates select="text()"/>
+			</xsl:element>
 		</xsl:element>
 	</xsl:template>
+	
 	<!-- @attested has been removed, if @attested='no', we introduce @role='unattested' -->
 	<xsl:template match="msHeading/author[@attested]">
 		<xsl:element name="author">
@@ -444,6 +500,7 @@
 			<xsl:apply-templates select="text()"/>
 		</xsl:element>
 	</xsl:template>
+	
 	<!-- The values of msItem/@defective have changed. -->
 	<xsl:template match="msItem/@defective">
 		<xsl:choose>
@@ -460,9 +517,12 @@
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:when>
-			<xsl:otherwise><xsl:copy/></xsl:otherwise>
+			<xsl:otherwise>
+				<xsl:copy/>
+			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+	
 	<!-- msItem/q is not allowed; putting it inside <cit>. -->
 	<xsl:template match="msItem/q">
 		<xsl:element name="cit">
@@ -471,46 +531,66 @@
 			</xsl:element>
 		</xsl:element>
 	</xsl:template>
+	
 	<!--	<summary> cannot exist within msItem nor can there be more than one which has to be the first child;we can only 
 				comment it out and have the user deal with it. -->
 	<xsl:template match="msItem/summary">
 		<xsl:comment>TODO: msItem/summary is not allowed; there can only be one msContents/summary. was:
 			&lt;summary&gt;<xsl:copy-of select="node()"/>&lt;/summary&gt;</xsl:comment>
 	</xsl:template>
+	
 	<!-- support/watermarks is now support/watermark -->
 	<xsl:template match="support/watermarks">
-		<xsl:element name="watermark"><xsl:copy-of select="text()"/></xsl:element>
+		<xsl:element name="watermark">
+			<xsl:copy-of select="text()"/>
+		</xsl:element>
 	</xsl:template>
+	
 	<!-- msWriting/handDesc is now a handNote -->
 	<xsl:template match="msWriting/handDesc">
 		<xsl:element name="handNote">
 			<xsl:apply-templates select="*|@*"/>
 		</xsl:element>
 	</xsl:template>
+	
 	<!-- @figurative, @illustrative and @technique have been dropped; return them as <p> -->
 	<xsl:template match="decoration/decoNote">
 		<xsl:element name="decoNote">
-			<xsl:apply-templates select="*|@*[local-name() != 'figurative' and local-name() !='technique' and local-name() != 'illustrative']"/>
+			<xsl:apply-templates
+				select="*|@*[local-name() != 'figurative' and local-name() !='technique' and local-name() != 'illustrative']"/>
 			<xsl:comment>TODO: former attributes @figurative: <xsl:value-of select="@figurative"/>; @technique: <xsl:value-of select="@technique"/>; @illustrative: <xsl:value-of select="@illustrative"/></xsl:comment>
 		</xsl:element>
 	</xsl:template>
+	
 	<!-- text within a <binding> has to be within a <p> -->
 	<xsl:template match="binding/text()">
-		<xsl:element name="p"><xsl:value-of select="."/></xsl:element>
+		<xsl:element name="p">
+			<xsl:value-of select="."/>
+		</xsl:element>
 	</xsl:template>
+	
 	<!-- <material> is not allowed within <binding>; put it inside <p> -->
 	<xsl:template match="binding/material">
-		<xsl:element name="p"><xsl:element name="material"><xsl:copy-of select="text()"/></xsl:element></xsl:element>
+		<xsl:element name="p">
+			<xsl:element name="material">
+				<xsl:copy-of select="text()"/>
+			</xsl:element>
+		</xsl:element>
 	</xsl:template>
+	
 	<!-- origPlace/@reg has been removed; as with name/@reg, convert to @ref and provide longer info elsewhere -->
 	<xsl:template match="origPlace/@reg">
 		<xsl:attribute name="ref">#<xsl:value-of select="translate(., $uppercase, $lowercase)"/></xsl:attribute>
 	</xsl:template>
+	
 	<!-- origin/@certainty has been removed. -->
 	<xsl:template match="origin/@certainty"/>
+	
 	<!-- additional/adminInfo/remarks now has to be model.noteLike -->
 	<xsl:template match="adminInfo/remarks">
-		<xsl:element name="note"><xsl:apply-templates select="./*|@*"/></xsl:element>
+		<xsl:element name="note">
+			<xsl:apply-templates select="./*|@*"/>
+		</xsl:element>
 	</xsl:template>
 	<xsl:template match="msDescription/msPart">
 		<xsl:element name="msPart">
@@ -530,7 +610,8 @@
 			<xsl:apply-templates select="./*[not(self::*:publisher or self::*:distributor or self::*:authority)]"></xsl:apply-templates>
 		</xsl:element>-->
 	</xsl:template>
-	<xsl:template match="*:publicationStmt[string-length(normalize-space()) = 0]" />
+	
+	<xsl:template match="*:publicationStmt[string-length(normalize-space()) = 0]"/>
 	<!-- ** END of teiHeader ** -->
 	
 	<!-- ** body elements ** -->
@@ -538,20 +619,18 @@
 	<xsl:template match="xref">
 		<xsl:element name="ref">
 			<xsl:apply-templates select="@*|text()"/>
-		</xsl:element> 
+		</xsl:element>
 	</xsl:template>
 	<xsl:template match="xptr">
 		<xsl:element name="ptr">
 			<xsl:apply-templates select="@*|text()"/>
 		</xsl:element>
 	</xsl:template>
-	
 	<xsl:template match="ref[@targType='bibl']">
 		<bibl>
 			<xsl:call-template name="t_ref"/>
 		</bibl>
 	</xsl:template>
-	
 	<xsl:template match="ref">
 		<xsl:call-template name="t_ref"/>
 	</xsl:template>
@@ -576,8 +655,8 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
-	<xsl:template match="unclear/@reason"/>
 	
+	<xsl:template match="unclear/@reason"/>
 	<!-- in P5, expan[@abbr] and abbr[@expan] must each be a child of a <choice> -->
 	<xsl:template match="expan[@abbr]">
 		<choice>
@@ -611,6 +690,7 @@
 			</corr>
 		</choice>
 	</xsl:template>
+	
 	<xsl:template match="sic[@corr]">
 		<choice>
 			<sic>
@@ -633,6 +713,7 @@
 			</corr>
 		</choice>
 	</xsl:template>
+	
 	<xsl:template match="reg[@orig]">
 		<choice>
 			<sic>
@@ -643,11 +724,13 @@
 			</corr>
 		</choice>
 	</xsl:template>
-
+	
 	<!-- nested indexes are really nested now -->
 	<xsl:template match="index[@level1]">
 		<xsl:element name="index" namespace="http://www.tei-c.org/ns/1.0">
-			<xsl:attribute name="indexName"><xsl:value-of select="@index"/></xsl:attribute>
+			<xsl:attribute name="indexName">
+				<xsl:value-of select="@index"/>
+			</xsl:attribute>
 			<xsl:element name="term">
 				<xsl:value-of select="@level1"/>
 			</xsl:element>
@@ -686,9 +769,10 @@
 			</monogr>
 		</biblStruct>
 	</xsl:template>
-	<xsl:template match="bibl/monogr"/>
 	
+	<xsl:template match="bibl/monogr"/>
 	<!-- <imprint> not allowed in <bibl>; {imprint/*} → {bibl/*} -->
+	
 	<xsl:template match="bibl/imprint">
 		<xsl:apply-templates select="./*"/>
 	</xsl:template>
@@ -711,21 +795,19 @@
 			<xsl:value-of select="."/>
 		</xsl:attribute>
 	</xsl:template>
-
+	
 	<!-- @tei:id was dropped; replacement is @xml:id -->
 	<xsl:template match="@id">
-		<xsl:choose>
-			<xsl:when test=". castable as xs:float">
-				<xsl:attribute name="n">
-					<xsl:value-of select="." />
-				</xsl:attribute>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:attribute name="xml:id">
+		<xsl:attribute name="xml:id">
+			<xsl:choose>
+				<xsl:when test=". castable as xs:float">
+					<xsl:value-of select="concat('a', .)"/>
+				</xsl:when>
+				<xsl:otherwise>
 					<xsl:value-of select="."/>
-				</xsl:attribute>
-			</xsl:otherwise>
-		</xsl:choose>
+				</xsl:otherwise>
+			</xsl:choose>
+		</xsl:attribute>
 	</xsl:template>
 	
 	<!-- @tei:lang was dropped; replacement is @xml:lang -->
@@ -743,7 +825,9 @@
 				<xsl:copy-of select="."/>
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:variable name="num"><xsl:value-of select="number(translate(., '%', ''))"/></xsl:variable>
+				<xsl:variable name="num">
+					<xsl:value-of select="number(translate(., '%', ''))"/>
+				</xsl:variable>
 				<xsl:choose>
 					<xsl:when test="$num > 67">
 						<xsl:attribute name="cert">
@@ -771,7 +855,7 @@
 	</xsl:template>
 	
 	<!-- sic/@resp was (erroneously?) declared in P4 but has been removed-->
-	<xsl:template match="sic/@resp"/>	
+	<xsl:template match="sic/@resp"/>
 	
 	<!-- date/@value is now @when -->
 	<xsl:template match="date/@value">
@@ -789,12 +873,13 @@
 	
 	<!-- locus/@targets is now @target -->
 	<xsl:template match="locus/@targets">
-		<xsl:attribute name="target"><xsl:value-of select="."/></xsl:attribute>
+		<xsl:attribute name="target">
+			<xsl:value-of select="."/>
+		</xsl:attribute>
 	</xsl:template>
 	
-	<!-- get rid of some unwanted attributes -->	
-	<xsl:template match="@TEIform" />
-	
+	<!-- get rid of some unwanted attributes -->
+	<xsl:template match="@TEIform"/>
 	<xsl:template match="*:teiHeader/@status">
 		<xsl:if test="not(. = 'new')">
 			<xsl:attribute name="status">
@@ -806,9 +891,9 @@
 	<xsl:template match="teiCorpus/TEI/@xmlns"/>
 	
 	<xsl:template match="@xmlns"/>
-	
 	<!-- ** Defaults ** -->
-	<!-- make sure every element is in the right namespace -->	
+	
+	<!-- make sure every element is in the right namespace -->
 	<xsl:template match="*">
 		<xsl:choose>
 			<xsl:when test="namespace-uri()=''">
@@ -823,7 +908,6 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
-	
 	<xsl:template match="@*|processing-instruction()|comment()|text()">
 		<xsl:copy/>
 	</xsl:template>
