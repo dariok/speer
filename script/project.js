@@ -1,3 +1,9 @@
+// Bearbeiter:DK Dario Kampkaspar, kampkaspar@hab.de
+
+// neu 2016-11-02 DK 
+$(function() {$("body").dblclick(function(){
+	zeige();})});
+
 function ladeDRW (suchbegriff) {
   suchbegriff = escape(suchbegriff);
   breite = screen.availWidth;
