@@ -13,18 +13,7 @@ let $what := request:get-parameter('q', '')
 
 
 return
-<html data-template="hab:getEE">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><!-- Kurztitel als title; 2016-05-24 DK -->
-		<meta data-template="hab:getEENr"/>
-		<title data-template="hab:pageTitle"/>
-		<link data-template="hab:getCSS"/>
-		<script src="http://code.jquery.com/jquery-2.2.4.js" type="text/javascript"/>
-		<script src="{$hab:edocBase}/resources/scripts/function.js" type="text/javascript"/>
-		<!-- include project-specific functions -->
-		<script data-template="hab:getJS" />
-	</head>
-	<body>
+	<div>
 		<table>
 			<tr>
 				<th>Name</th>
@@ -49,5 +38,4 @@ return
 					</tr>
 			}
 		</table>
-	</body>
-</html>
+	</div>
