@@ -9,6 +9,8 @@ declare option output:method "html5";
 declare option output:media-type "text/html";
 
 let $ed := collection('/db/edoc/ed000245')
+let $what := request:get-parameter('q', '')
+
 
 return
 <html data-template="hab:getEE">
@@ -29,7 +31,7 @@ return
 				<th>Texte</th>
 			</tr>
 			
-			{for $n in $ed//tei:name
+			{for $n in $ed//tei:name[@type=$what]
 				let $name := normalize-space($n) 
 				group by $name
 				order by $name
@@ -40,8 +42,9 @@ return
 						<td>{for $m in $n
 							let $f := base-uri($m)
 							group by $f
+							let $id := $m/ancestor::tei:TEI/@xml:id
 							
-							return <span style="display: inline-block;">{$f}</span>
+							return <a style="display: inline-block;" href="{concat($hab:edocBase, '/view.html?id=', $id)}">{$f}</a>
 						}</td>
 					</tr>
 			}
