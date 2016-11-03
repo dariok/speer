@@ -53,7 +53,7 @@
 	<!-- Rechtesegment -->
 	<mets:fileSec>
 		<mets:fileGrp USE="transcription" ID="transcript">
-			<mets:file ID="edoc_ed000245_1278_oelr" MIMETYPE="application/xml">
+			<mets:file ID="edoc_ed000245_1278_oelr_hasenoehrl" MIMETYPE="application/xml">
 				<mets:FLocat LOCTYPE="URL" xlink:href="texte/1278_oelr_hasenoehrl.xml"/>
 			</mets:file>
 			<mets:file ID="edoc_ed000245_1491_max_mandat" MIMETYPE="application/xml">
@@ -74,7 +74,7 @@
 				<!-- 001 -->
 				<mets:div TYPE="submenu" LABEL="Hasenoehrl" ID="edoc_ed000245_001" ORDER="01">
 					<mets:div TYPE="introduction" LABEL="Text" ID="edoc_ed000245_001_introduction">
-						<mets:fptr FILEID="edoc_ed000245_1278_oelr"/>
+						<mets:fptr FILEID="edoc_ed000245_1278_oelr_hasenoehrl"/>
 					</mets:div>
 				</mets:div>
 				<mets:div TYPE="submenu" LABEL="Mandat" ID="edoc_ed000245_002" ORDER="02">
