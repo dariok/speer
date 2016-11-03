@@ -17,6 +17,7 @@ declare function habq:query() {
 	        	case "person" return "Personen"
 	        	case "org" return "Organisationen"
 	        	default return "Register"}</h1>
+	        	<h2> </h2>
 	        <span class="dispOpts">[<a id="liSB" href="javascript:toggleSidebar();">Navigation einblenden</a>]</span>
 				<hr/>
 			</div>,
