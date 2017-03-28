@@ -155,9 +155,9 @@
 	<!-- Specifica -->
 	<!-- quelle wird zunächst zu tei:ref; 2016-08-18 DK -->
 	<!-- geändert: idR wird es zu pb; 2016-11-02 DK -->
-	<!-- TODO: prüfen! Das dürfte komplexer sein! -->
+	<!-- genauere Prüfung des Inhaltes; 2017-03-28 DK -->
 	<xsl:template match="*:quelle">
-		<pb>
+		<!--<pb>
 			<xsl:if test="string-length(@url) &gt; 0">
 				<xsl:attribute name="facs">
 					<xsl:value-of select="@url"/>
@@ -168,7 +168,35 @@
 					<xsl:apply-templates/>
 				</xsl:attribute>
 			</xsl:if>
-		</pb>
+		</pb>-->
+		<xsl:choose>
+			<xsl:when test="contains(., 'Seite') and count(tokenize(., ' ')) &lt; 3">
+				<!-- Seite und ein Leerzeichen: Seitenumbruch -->
+				<pb>
+					<xsl:attribute name="facs">
+						<xsl:value-of select="@url"/>
+					</xsl:attribute>
+					<xsl:attribute name="n">
+						<xsl:choose>
+							<xsl:when test="contains(., ']')">
+								<xsl:value-of select="substring-before(substring-after(., ' '), ']')" />
+							</xsl:when>
+							<xsl:otherwise>
+								<xsl:value-of select="substring-after(., ' ')"/>
+							</xsl:otherwise>
+						</xsl:choose>
+					</xsl:attribute>
+				</pb>
+			</xsl:when>
+			<xsl:otherwise>
+				<ref>
+					<xsl:attribute name="target">
+						<xsl:value-of select="@url" />
+					</xsl:attribute>
+					<xsl:apply-templates />
+				</ref>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 	
 	<!-- datum zu tei:date; 2016-08-18 DK -->
