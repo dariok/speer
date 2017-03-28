@@ -1,10 +1,5 @@
 <!-- Introduction-XSL für \\edoc\ed000216 Karlstadt-Edition -->
-<xsl:stylesheet xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd"
-	exclude-result-prefixes="html tei mets xlink xsl exist xsi" version="2.0">
+<xsl:stylesheet xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd" exclude-result-prefixes="html tei mets xlink xsl exist xsi" version="2.0">
 	
 	<!-- erstellt für ed000245 basierend auf dem Skript aus ed000216; 2016-08-00 DK -->
 	<!-- TODO weiter anpassen und ungenutzte empfehlen; 2016-11-02 DK -->
@@ -60,7 +55,9 @@
 	<!-- neu 2016-09-23 DK -->
 	<xsl:template match="tei:fileDesc">
 		<xsl:apply-templates select="tei:titleStmt/tei:title"/>
-		<h2><xsl:apply-templates select="tei:sourceDesc/tei:biblStruct"/></h2>
+		<h2>
+            <xsl:apply-templates select="tei:sourceDesc/tei:biblStruct"/>
+        </h2>
 	</xsl:template>
 	
 	<xsl:template match="@n" as="item()*">
@@ -77,12 +74,14 @@
 	<!-- neu 2016-09-23 DK -->
 	<xsl:template match="tei:div[@xml:id = 'Editorial' or @xml:id = 'Text']">
 		<div>
-			<h3><xsl:apply-templates select="tei:head | tei:div[@n='1.0']/tei:head" mode="head" /></h3>
-			<xsl:apply-templates select="tei:div | tei:p" />
+			<h3>
+                <xsl:apply-templates select="tei:head | tei:div[@n='1.0']/tei:head" mode="head"/>
+            </h3>
+			<xsl:apply-templates select="tei:div | tei:p"/>
 		</div>
 	</xsl:template>
 	
-	<xsl:template match="tei:head" />
+	<xsl:template match="tei:head"/>
 	
 	<xsl:template match="tei:div[not(@xml:id = 'Editorial' or @xml:id = 'Text')]" as="item()*">
 		<xsl:variable name="id">
@@ -215,8 +214,12 @@
 	<!-- TODO anpassen an weitere Varianten -->
 	<xsl:template match="tei:pb">
 		<a>
-			<xsl:attribute name="href" select="@facs" />
+			<xsl:if test="@facs">
+				<xsl:attribute name="href" select="@facs"/>
+			</xsl:if>
+			<xsl:text>[</xsl:text>
 			<xsl:value-of select="@n"/>
+			<xsl:text>]</xsl:text>
 		</a>
 	</xsl:template>
 	
@@ -224,9 +227,9 @@
 	<!-- Angleichung an die Ausgabe der PDF; 2016-05-26 -->
 	<xsl:template match="tei:monogr" as="item()*">
 		<xsl:text>In: </xsl:text>
-		<xsl:apply-templates select="tei:author" />
+		<xsl:apply-templates select="tei:author"/>
 		<xsl:text>: </xsl:text>
-		<xsl:apply-templates select="tei:title" />
+		<xsl:apply-templates select="tei:title"/>
 		<xsl:text>, </xsl:text>
 		<xsl:apply-templates select="tei:imprint/tei:pubPlace"/>
 		<xsl:apply-templates select="tei:imprint/tei:publisher"/>

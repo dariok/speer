@@ -1,6 +1,23 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.0">
 	<!-- erstellt 2016-05-26 DK -->
 	
+	<!-- gekürzt, LaTeX- und HTML-Ausgabe angegelichen; 2015-11-09 DK -->
+	<xsl:template match="tei:author[not(parent::tei:titleStmt)] | tei:editor[not(parent::tei:titleStmt)]">
+		<xsl:if test="@cert">
+			<xsl:text>[</xsl:text>
+		</xsl:if>
+		<xsl:apply-templates/>
+		<xsl:if test="following-sibling::tei:author or following-sibling::tei:editor">
+			<xsl:text>; </xsl:text>
+		</xsl:if>
+		<xsl:if test="self::tei:editor and not(following-sibling::tei:editor)">
+			<xsl:text> (Hg.)</xsl:text>
+		</xsl:if>
+		<xsl:if test="@cert">
+			<xsl:text>[</xsl:text>
+		</xsl:if>
+	</xsl:template>
+	
 	<xsl:template match="tei:titleStmt/tei:author">
 		<xsl:value-of select="tei:forename"/>
 		<xsl:text> </xsl:text>

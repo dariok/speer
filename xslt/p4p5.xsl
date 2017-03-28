@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xsl:transform version="2.0" xmlns:date="http://exslt.org/dates-and-times"
-	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fn="http://w3.org/2005/xpath-functions"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
-	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei date">
+<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei date">
+	
+	<xsl:param name="fileid"/>
 	
 	<!-- **
 				* Conversion from TEI P4 to P5
@@ -43,7 +40,9 @@
 			<xsl:if test="not(*:revisionDesc)">
 				<revisionDesc>
 					<xsl:element name="change">
-						<xsl:attribute name="when"><xsl:value-of select="$today"/></xsl:attribute>
+						<xsl:attribute name="when">
+                            <xsl:value-of select="$today"/>
+                        </xsl:attribute>
 						<xsl:attribute name="who">p4p5.xsl</xsl:attribute>
 						<xsl:variable name="max_n">
 							<xsl:choose>
@@ -53,7 +52,9 @@
 								<xsl:otherwise>0</xsl:otherwise>
 							</xsl:choose>
 						</xsl:variable>
-						<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute> Automatic transcoding TEI P4 → P5
+						<xsl:attribute name="n">
+                            <xsl:value-of select="$max_n+1"/>
+                        </xsl:attribute> Automatic transcoding TEI P4 → P5
 						by p4p5.xsl. </xsl:element>
 					<xsl:apply-templates select="*:revisionDesc/*:change"/>
 				</revisionDesc>
@@ -77,10 +78,8 @@
 				<sourceDesc>
 					<!-- »<p>[Quelle:« oder ähnlich -->
 					<xsl:choose>
-						<xsl:when
-							test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]">
-							<xsl:variable name="t"
-								select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]"/>
+						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]">
+							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]"/>
 							<xsl:variable name="u" select="substring-after(substring-before($t, 'Transkription'), 'Quelle:')"/>
 							<xsl:choose>
 								<xsl:when test="ends-with(normalize-space($u), '::')">
@@ -97,8 +96,7 @@
 							</xsl:choose>
 						</xsl:when>
 						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]">
-							<xsl:variable name="t"
-								select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]"/>
+							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]"/>
 							<xsl:variable name="u" select="substring-after($t, 'Quelle:')"/>
 							<xsl:choose>
 								<xsl:when test="ends-with(normalize-space($u), '::')">
@@ -158,7 +156,7 @@
 	<!-- genauere Prüfung des Inhaltes; 2017-03-28 DK -->
 	<xsl:template match="*:quelle">
 		<!--<pb>
-			<xsl:if test="string-length(@url) &gt; 0">
+			<xsl:if test="string-length(@url) > 0">
 				<xsl:attribute name="facs">
 					<xsl:value-of select="@url"/>
 				</xsl:attribute>
@@ -179,7 +177,7 @@
 					<xsl:attribute name="n">
 						<xsl:choose>
 							<xsl:when test="contains(., ']')">
-								<xsl:value-of select="substring-before(substring-after(., ' '), ']')" />
+								<xsl:value-of select="substring-before(substring-after(., ' '), ']')"/>
 							</xsl:when>
 							<xsl:otherwise>
 								<xsl:value-of select="substring-after(., ' ')"/>
@@ -191,9 +189,9 @@
 			<xsl:otherwise>
 				<ref>
 					<xsl:attribute name="target">
-						<xsl:value-of select="@url" />
+						<xsl:value-of select="@url"/>
 					</xsl:attribute>
-					<xsl:apply-templates />
+					<xsl:apply-templates/>
 				</ref>
 			</xsl:otherwise>
 		</xsl:choose>
@@ -206,10 +204,10 @@
 			<xsl:attribute name="xml:id">
 				<xsl:choose>
 					<xsl:when test="@n">
-						<xsl:value-of select="concat('n', @n)" />
+						<xsl:value-of select="concat('n', @n)"/>
 					</xsl:when>
 					<xsl:otherwise>
-						<xsl:value-of select="concat('n', count(preceding::*:note) + 1)" />
+						<xsl:value-of select="concat('n', count(preceding::*:note) + 1)"/>
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
@@ -223,8 +221,8 @@
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
-			<xsl:apply-templates select="@n" />
-			<xsl:apply-templates />
+			<xsl:apply-templates select="@n"/>
+			<xsl:apply-templates/>
 		</note>
 	</xsl:template>
 	
@@ -245,7 +243,14 @@
 	
 	<!-- corr/@sic → <choice><sic><corr>; 2016-08-18 DK -->
 	<xsl:template match="*:corr">
-		<choice><sic><xsl:value-of select="@sic"/></sic><corr><xsl:apply-templates select="*|@*"/></corr></choice>
+		<choice>
+            <sic>
+                <xsl:value-of select="@sic"/>
+            </sic>
+            <corr>
+                <xsl:apply-templates select="*|@*"/>
+            </corr>
+        </choice>
 	</xsl:template>
 	
 	<xsl:template match="@sic"/>
@@ -320,7 +325,8 @@
 	<!-- 	name/@reg is not valid anymore in P5; convert it to a ref and provide any other information separately.
 				Adjust to your local ref-system. -->
 	<xsl:template match="name/@reg">
-		<xsl:attribute name="ref">#<xsl:value-of select="translate(., $uppercase, $lowercase)"/></xsl:attribute>
+		<xsl:attribute name="ref">#<xsl:value-of select="translate(., $uppercase, $lowercase)"/>
+        </xsl:attribute>
 	</xsl:template>
 	<!-- ** END of attributes ** -->
 	<!-- ** END of project-specific instructions ** -->
@@ -331,17 +337,17 @@
 				** -->
 	<!-- Adjust the root element -->
 	<xsl:template match="*:TEI.2">
-		<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<TEI>
 			<!-- neu 2016-11-02 DK -->
 			<xsl:attribute name="xml:id">
-				<xsl:value-of select="concat('edoc_ed000245_', substring-after(substring-before(base-uri(), '.xml'), 'input/'))"/>
+				<xsl:value-of select="concat('edoc_ed000245_', $fileid)"/><!--substring-after(substring-before(base-uri(), '.xml'), 'input/'))"/>-->
 			</xsl:attribute>
 			<xsl:apply-templates select="*|@*"/>
 		</TEI>
 	</xsl:template>
 	
 	<xsl:template match="teiCorpus">
-		<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+		<teiCorpus>
 			<xsl:apply-templates select="*|@*"/>
 		</teiCorpus>
 	</xsl:template>
@@ -351,7 +357,9 @@
 	<xsl:template match="*:revisionDesc">
 		<revisionDesc>
 			<xsl:element name="change">
-				<xsl:attribute name="when"><xsl:value-of select="$today"/></xsl:attribute>
+				<xsl:attribute name="when">
+                    <xsl:value-of select="$today"/>
+                </xsl:attribute>
 				<xsl:attribute name="who">p4p5.xsl</xsl:attribute>
 				<xsl:variable name="max_n">
 					<xsl:for-each select="//change/@n">
@@ -361,7 +369,9 @@
 						</xsl:if>
 					</xsl:for-each>
 				</xsl:variable>
-				<xsl:attribute name="n"><xsl:value-of select="$max_n+1"/></xsl:attribute> Automatic transcoding TEI P4 → P5 by
+				<xsl:attribute name="n">
+                    <xsl:value-of select="$max_n+1"/>
+                </xsl:attribute> Automatic transcoding TEI P4 → P5 by
 				p4p5.xsl. </xsl:element>
 			<xsl:apply-templates/>
 		</revisionDesc>
@@ -443,8 +453,7 @@
 				<xsl:if test="$copyHeadingToHead='no' or msHeading[author|respStmt|textLang]">
 					<xsl:element name="msItem">
 						<xsl:comment>Copied from msHeading</xsl:comment>
-						<xsl:apply-templates
-							select="msHeading/*[self::author or self::title or self::respStmt or self::textLang or self::note]"/>
+						<xsl:apply-templates select="msHeading/*[self::author or self::title or self::respStmt or self::textLang or self::note]"/>
 					</xsl:element>
 				</xsl:if>
 				<xsl:apply-templates select="msContents/*"/>
@@ -529,7 +538,8 @@
 	
 	<!-- msDescription/@status has been dropped; writing it into @type as we boldly assume that no-one has @type here -->
 	<xsl:template match="msDescription/@status">
-		<xsl:comment>msDescription/@status: <xsl:value-of select="."/></xsl:comment>
+		<xsl:comment>msDescription/@status: <xsl:value-of select="."/>
+        </xsl:comment>
 	</xsl:template>
 	
 	<!-- overview has been removed; giving it as <p>. -->
@@ -553,7 +563,8 @@
 	<xsl:template match="msHeading/author[@attested]">
 		<xsl:element name="author">
 			<xsl:apply-templates select="@*[local-name() != 'attested']"/>
-			<xsl:element name="note">attested: <xsl:value-of select="@attested"/></xsl:element>
+			<xsl:element name="note">attested: <xsl:value-of select="@attested"/>
+            </xsl:element>
 			<xsl:apply-templates select="text()"/>
 		</xsl:element>
 	</xsl:template>
@@ -613,9 +624,9 @@
 	<!-- @figurative, @illustrative and @technique have been dropped; return them as <p> -->
 	<xsl:template match="decoration/decoNote">
 		<xsl:element name="decoNote">
-			<xsl:apply-templates
-				select="*|@*[local-name() != 'figurative' and local-name() !='technique' and local-name() != 'illustrative']"/>
-			<xsl:comment>TODO: former attributes @figurative: <xsl:value-of select="@figurative"/>; @technique: <xsl:value-of select="@technique"/>; @illustrative: <xsl:value-of select="@illustrative"/></xsl:comment>
+			<xsl:apply-templates select="*|@*[local-name() != 'figurative' and local-name() !='technique' and local-name() != 'illustrative']"/>
+			<xsl:comment>TODO: former attributes @figurative: <xsl:value-of select="@figurative"/>; @technique: <xsl:value-of select="@technique"/>; @illustrative: <xsl:value-of select="@illustrative"/>
+            </xsl:comment>
 		</xsl:element>
 	</xsl:template>
 	
@@ -637,7 +648,8 @@
 	
 	<!-- origPlace/@reg has been removed; as with name/@reg, convert to @ref and provide longer info elsewhere -->
 	<xsl:template match="origPlace/@reg">
-		<xsl:attribute name="ref">#<xsl:value-of select="translate(., $uppercase, $lowercase)"/></xsl:attribute>
+		<xsl:attribute name="ref">#<xsl:value-of select="translate(., $uppercase, $lowercase)"/>
+        </xsl:attribute>
 	</xsl:template>
 	
 	<!-- origin/@certainty has been removed. -->
@@ -886,17 +898,17 @@
 					<xsl:value-of select="number(translate(., '%', ''))"/>
 				</xsl:variable>
 				<xsl:choose>
-					<xsl:when test="$num > 67">
+					<xsl:when test="$num &gt; 67">
 						<xsl:attribute name="cert">
 							<xsl:text>high</xsl:text>
 						</xsl:attribute>
 					</xsl:when>
-					<xsl:when test="$num > 34">
+					<xsl:when test="$num &gt; 34">
 						<xsl:attribute name="cert">
 							<xsl:text>medium</xsl:text>
 						</xsl:attribute>
 					</xsl:when>
-					<xsl:when test="$num > 0">
+					<xsl:when test="$num &gt; 0">
 						<xsl:attribute name="cert">
 							<xsl:text>low</xsl:text>
 						</xsl:attribute>
