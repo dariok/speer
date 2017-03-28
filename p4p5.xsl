@@ -199,6 +199,35 @@
 		</xsl:choose>
 	</xsl:template>
 	
+	<!-- note[@place] zu den verschiedenen Typen umsetzen; 2017-03-28 DK -->
+	<!-- bisher nur @place='foot' gefunden; 2017-03-28 DK -->
+	<xsl:template match="*:note[@place]">
+		<note>
+			<xsl:attribute name="xml:id">
+				<xsl:choose>
+					<xsl:when test="@n">
+						<xsl:value-of select="concat('n', @n)" />
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="concat('n', count(preceding::*:note) + 1)" />
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
+			<xsl:attribute name="type">
+				<xsl:choose>
+					<xsl:when test="@n castable as xs:float">
+						<xsl:text>footnote</xsl:text>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:text>crit_app</xsl:text>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
+			<xsl:apply-templates select="@n" />
+			<xsl:apply-templates />
+		</note>
+	</xsl:template>
+	
 	<!-- datum zu tei:date; 2016-08-18 DK -->
 	<xsl:template match="*:datum">
 		<date>

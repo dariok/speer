@@ -54,16 +54,16 @@
 	<mets:fileSec>
 		<mets:fileGrp USE="transcription" ID="transcript">
 			<mets:file ID="edoc_ed000245_1278_oelr_hasenoehrl" MIMETYPE="application/xml">
-				<mets:FLocat LOCTYPE="URL" xlink:href="texte/1278_oelr_hasenoehrl.xml"/>
+				<mets:FLocat LOCTYPE="URL" xlink:href="texts/1278_oelr_hasenoehrl.xml"/>
 			</mets:file>
 			<mets:file ID="edoc_ed000245_1491_max_mandat" MIMETYPE="application/xml">
-				<mets:FLocat LOCTYPE="URL" xlink:href="texte/1491_max_mandat.xml"/>
+				<mets:FLocat LOCTYPE="URL" xlink:href="texts/1491_max_mandat.xml"/>
 			</mets:file>
 			<mets:file ID="edoc_ed000245_1492_stuttgartstr" MIMETYPE="application/xml">
-				<mets:FLocat LOCTYPE="URL" xlink:href="texte/1492_stuttgartstr.xml"/>
+				<mets:FLocat LOCTYPE="URL" xlink:href="texts/1492_stuttgartstr.xml"/>
 			</mets:file>
 			<mets:file ID="edoc_ed000245_hachenberg_1997" MIMETYPE="application/xml">
-				<mets:FLocat LOCTYPE="URL" xlink:href="texte/hachenberg_1997.xml"/>
+				<mets:FLocat LOCTYPE="URL" xlink:href="texts/hachenberg_1997.xml"/>
 			</mets:file>
 		</mets:fileGrp>
 	</mets:fileSec>
