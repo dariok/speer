@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://drqerg.drqedit.de/DRQT/repertorium.dtd"
+[
+<!ENTITY % HTML.Version "-/ / W3C/ /DTD HTML 4.1 Transitional/ /EN">
+<!ENTITY % TEI.XML "INCLUDE">
+<!ENTITY % TEI.transcr "INCLUDE">
+<!ENTITY % TEI.prose "INCLUDE">
+<!ENTITY % TEI.textcrit "INCLUDE">
+<!ENTITY % TEI.linking "INCLUDE">
+<!ENTITY % TEI.msdescription "INCLUDE">
+<!ENTITY % TEI.names.dates "INCLUDE">
+<!ENTITY % TEI.index "INCLUDE">
+<!ENTITY % TEI.tables "INCLUDE">
+<!ELEMENT doindex EMPTY>
+<!ENTITY % rep_ent SYSTEM "http://drqerg.drqedit.de/DRQT/rep_ent.ent">
+%rep_ent;
+<!ENTITY % einzeltexte SYSTEM "http://drqerg.drqedit.de/DRQT/einzeltexte.ent">
+%einzeltexte;
+<!ENTITY % initia_ciciv SYSTEM "http://drqerg.drqedit.de/DRQT/initia_ciciv.ent">
+%initia_ciciv;
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc><titleStmt><title>Salzburg Empörungsordnung 1526 :: Transkription Speer 2017</title></titleStmt></fileDesc></teiHeader>
+    <text><front><divGen type="toc"></divGen></front>
+        <body>
+            <div id="Editorial">
+                <head>[Editorial]</head>
+                <p>Quelle: Friedrich Leist, Quellenbeiträge zur Geschichte des Bauern-Aufruhrs in Salzburg 1525 und 1526, in: Mitteilungen der Gesellschaft für Salzburger Landeskunde 27 (1887) 241-408 (385-395)</p>
+</div>
+            <div id="A.0">
+                <head>101 (107). Ordnung den fridt im stifft vnd land Salzburg zu haben vnd empörung vnd aufstandt zu fürkhomen.<lb/> 26. November 1526</head>
+<p>Als vber vnd wider den fürstlichen vertrag durch den durchleuchtigen hochgebornen fürsten, herzog Ludwigen in Bairn etc., in dem vergangen fünff vnd zwainzigisten jar vor Salzburg aufgericht, dennocht vil vngeschickter handlungen von frembden vnd inlendischen personen geübt seind worden, das dann der hochwirdigist fürst vnd herr herr Matheus, der heiligen Römischen kirchen Cardinal erzbischoue zu Salzburg etc., vnser genedigister herr, vnd seiner fürstlichen gnaden vnd derselben stiffts gemaine landtschafft von allen stendten in dem landtag in der vasten jüngst verschiner genedigelich vnd treulich beherzigt, auch zu abstellung solicher handlungen vnd vngehorsam ain fürnemen ainer ordnung gethan, aber aus vrsachen des newrn vnuersehnen aufstandts vnd kriegs sollich ordnung zu khainer execution vnd volziehung gebracht haben, was abfal, schaden <pb n="386"/> vnd verderben seiner fürstlichen gnaden vnd derselben stifft landen vnd leuten daraus entstanden vnd eruolgt, das ist am tag vnd vor augen. Dieweil dann solicher newer aufstandt mit hilf vnd gnad des allmechtigen gottes durch die löblichen stände des zu Schwaben, auch bemelten vnsern genedigisten herrn vnd seiner fürstlichen gnaden gehorsame landtschafft widerumb zue rue gestellt vnd durch der bemelten pundtstende verordent commissari vnd kriegsräte zuerhaltung khünfftiger gehorsam vnd aines beständigen fridens im stifft vnd land Salzburg den aufruerigen abgefallen gerichten etlich articl fürgehalten. Darauf sy dann den newen fridt vnd gehorsam vnd anders geschworen haben, auch uerrer dieselben der pundtstände commissari vnd räte in den andern gerichten gehorsamen des stiffts zuerhaltung fridt vnd rue in etlich weg ordnung vnd mas gegeben vnd durch ir offen mandat vnd brief ausgeschriben haben, so gebürt nun mer obgemelten vnserm genedigisten herrn von Salzburg als herrn vnd landtsfürsten, auch seiner fürstlichen gnaden landtschafft vnd vnderthanen von allen stenden, die eer, trew, frid vnd rue lieb haben, darob zehalten vnd daran ze sein, damit solhen articln vnd ordnungen furter also gelebt vnd gebürliche gehorsam, fridt vnd rue im stifft erhalten werde. Daneben hat auch sein fürstliche gnadt vnd ain landtschafft von allen stenden hocherwogen vnd bedacht, dieweil in dem obgemeltem andern vnd newen aufstandt etwo vil der pösen, leuchtfertigen vnd aufruerigen leut, aufwigler vnd rädlfuerer auftretten vnd noch in ainer dapfern anzal in fluechten sein, von denen dann die gehorsamen frumen vnderthanen nichts anders dann schaden, vnrat, mord, prant vnd dergleichen geuerlichait zugewarten haben, darzu auch, das dieselben flüchtigen vnd ir anhenger im stifft widerumb newe meutterey, aufruer vnd aufstendt durch ir pös vergifft handlungen vnd praktiken üben vnd machen möchten, wo denselben flüchtigen vnd iren anhengern nit für vnd für ernstlich nachgestelt vnd sollichen iren pösen praktiken vnd handlungen mit gueter fürsehung zeitlichen entgegen gegangen wurde. Demnach so haben sich bemelter vnser genedigister herr vnd seiner fürstlichen genaden gemaine frume landtschafft von allen stenden auf disem gegenwurtigen landtag zu handhabung des gemainen fridens vnd gebürlicher gehorsam, auch landt vnd leut vor merern schaden vnd verderben zuuerhuetten, dieser nachuolgunden ordnung mit einander vergleicht <pb n="387"/> vnd fürgenomen, die auch die von gerichten vnd die verwantn der perckhwerch durch ir gesandt anwalde vnd versigelt gwaltsbrief also angenomen vnd die bey den pflichten, eeren vnd aiden, damit sy seinen fürstlichen gnaden als landtsfürsten verwant seien, zuhalten vnd zuuolziehen, zuegesagt haben bei den peenen vnd straffen darinen, wie hernach volgt, begriffen, weliche ordnung auch durch sein fürstlich gnadt vnd derselben landtschafft von allen stenden ernstlich vnd stattlich gehandthabt vnd wider verprecher strackhs volzogen werden solle.</p></div>
+            <div id="A.1">
+<head>[Art. 1] Handhabung des pundtischen aids vnd anderer irer ausschreiben.</head>
+<p>Erstlich so soll ob den obgemelten articln des neuen aidts, auch was der pundtsstende commissari in den gehorsamen gerichten vnd in den perckhwerchen geordent, fürgenomen vnd ausgeschriben haben, vestigelich gehalten vnd denselben articln vnd beuelhen, was vnd souil darinen bisher nit exequiert vnd volzogen worden ist, nachmals gelebt vnd nachgegangen werden.</p></div>
+            <div id="A.2">
+<head>[Art. 2] Besterckhung der pfleger vnd richter.</head>
+<p>Verrer so ist fürgenomen, das vnser genedigister herr pis auf seiner fürstlichen gnaden wolgefallen ainen yeden phleger, landt- vnd perckhrichter zu handthabung der yezgemelten der pundtsstände verordentn commissari vnd räte ausgangen schrifften vnd ordnungen auch dieses gegenwärtigen fürnemens ain zuesaz vnd besterckhung mit ainem, zwayen, drey oder vier knechtn oder mer nach gelegenhait vnd grosse aines yeden gerichts auf ain zeit, so lang es die notdurfft eruordern will, thuen soll.</p></div>
+            <div id="A.3">
+                <head>[Art. 3] Viertlmaister.</head>
+<p>So sollen auch in ainer yeden stat vnd markt, auch in den landt- vnd perkhgerichten, nach gelegenhait irer grös ains, zway, dreu oder mer viertl, stäb oder zehen, wo die vor nit getailt sein, gemacht vnd in ainem yeden viertl, stab oder zech ainer oder zwen viertlmaister durch die gerichts obrigkhait derselben ort fürgenomen vnd alweg zu halben jaren abgewechslt werden.</p></div>
+            <div id="A.4">
+                <head>[Art. 4] Wie sich die viertlmaister halten sollen.</head>
+<p>Dieselben viertlmaister sollen an ainem yedem ort irer fürgesezten obrigkhait sonderlich verpflicht sein vnd für sich selbs in den viertln ir yedes gezirkhs ausserhalb irer obrigkhait sondern beuelch <pb n="388"/> nichts handln, sonder derselben irer obrigkhait beuelch in allen dingen gehorsamlich wartten vnd geleben, was durch dieselb ir obrigkhait mit aufpot vnd in ander weg inen beuolhen vnd verschaffen wirdet. Sy sollen auch derselben irer obrigkhait auf all irer Ordnung, so sich ain eilende empörung, prunst oder anders zuetrueg, beystendig vnd rätlich sein, auch nach irem pesten vermugen verhelffen, die vor ausgangen der pundtsräte beuelch vnd ordnungen, auch dises fürnemen getreulich zuuolziehen vnd handtzuhaben.</p></div>
+            <div id="A.5">
+                <head>[Art. 5] Wo ain yedes viertl zusamen khomen soll.</head>
+<p>Item ain yede oberkhait soll sich mit iren nachgesezten viertlmaistern in ainem yeden gericht aines sondern plaz verglaichen vnd denselben den vnderthanen in yedem viertl anzaigen vnd benennen, darauf die vnderthanen desselben viertls sambt irem viertlmaister, wo es durch ainich empörung oder feuersgwalt oder in ander wege die notturfft eruordern wurde, zusamen khomen sollen.</p></div>
+            <div id="A.6">
+                <head>[Art. 6] Das ain gericht dem andern hilf thuen soll.</head>
+<p>Wo dann zu zeiten ain phleger, landt- oder perckhrichter in den gerichten ir yedes verwesung zu ainer execution oder handlung vnd sonderlich, so sich etlich pös aufruerisch muetwillig leut in ainer anzall beyeinander enthielten oder verstandt hetten, das derselb phleger, landt- oder perckhrichter mit seinen knechtn vnd den nachgeseztn viertlmaistern nit getrauet, starckh genueg zu sein vnd die zubestätten, dem sollen die phleger vnd richter der negstanstossenden gericht mit sambt iren knechtn vnd viertlmaistern auf sein schrifftlich oder mündtlich ersuechen hierin vnuerzogenlich hilf vnd beystandt beweisn, damit das übl bey der zeit vnderkhomen vnd neue aufruer vnd vngehorsam verhuett werden.</p></div>
+            <div id="A.7">
+                <head>[Art. 7] Etlich knecht aus den viertlen fürzenemen.</head>
+<p>Es soll auch ain yeder phleger vnd richter mit ainem yeden seinen nachgesezten viertlmaister sich dermassn versteen, also, wann er in ainer not vnd eyl etlich knecht notdürfftig, das ain yeder viertlmaister in seinem viertl etlich guet erber knecht fürneme, die ime in ainer not beystandt thuen vnd auf all sein eruordrung gehorsam sein.</p></div>
+            <div id="A.8">
+<head>[Art. 8] Dem aufbot gehorsam zu sein.</head>
+<p>Demnach so soll ain yeder haushaber vnd angesehener mann bey seiner sumen knechten, arbaitern vnd inleutn daran vnd darob <pb n="389"/> sein, damit sy sich auf eruordrung der oberkhait vnd irer viertlmaister in allen aufboten vnd notdürfften gehorsamlich erzaigen, hilflich vnd beystendig seyen, sich auch sonst allenthalben eerlich vnd redlich halten ynd niemandt zu widerwertigkhait bewegen noch vrsach geben. Wo sich aber ainer oder mer nit dermassen sonder vngehorsam vnd vngebürlich halten wolten oder wurden, so sollen die angesessenen khainswegs dieselben weiter halten, noch sy die obrigkhait die gedulten.</p></div>
+       <div id="A.9"> 
+<head>[A. 9] Verpoten weern.</head>
+<p>Vnd nachdem aber die gericht im gebürg all ir kriegsweren, als hellenpartn, lang spiess, püchsn, stächl, schlachtschwerdt vnd dergleichen lang kriegswern auf das fürnemen vnd ordnung der pundtstendte verordent commissari vnd räte von inen gethan, auch inen fürter zu haben verpoten sein, damit dann, so zu zeitn durch die oberkhaitn in ainer not vnd eil ainem viertl oder etlichen aus inen aufgeboten wurde, an notdurfftigen wern nit mengl sey, so soll vnser genedigister herr ainer yeden gerichtsobrigkhait, nemblichen in den gerichten, darin den vnderthanen die weeren genomen worden sein, souil von allerlay weern verordnen vnd zuestellen, das ain yeder phleger vnd richter nach gelegenhait der grös seines gerichts von dreissig bis in vierzig oder fünffzig mannen gewört machen mug.</p></div>
+            <div id="A.10">
+<head>[Art. 10] Hausweern.</head>
+<p>Dieweil auch sonderlich in den gerichten im gebürg der gemain paursman mit den wilden schaden thiern vast beschädigt, auch die, so auf den ainöden sizen, zuzeiten durch die muetwilligen pösen leut betrangt vnd benöttigt werden, so hat vnser genedigister herr auf vnderthenig ersuechen vnd pittn ainer gemainen landtschafft vnd der von gerichten genedigelich bewilligt, das die vnderthanen der gericht im gebürg, die hieuor ir weern von inen haben muessen geben, ain yeder nun füronhin widerumb ain thier-spiess vnd ain armprosst, wie das die eehafft tädingen austragen vnd von alter herkhomen ist, bey seinem haus haben. Doch sollen sollich weern zu kirchen noch gassen nit getragen, sonder allain in ainem aufpot vnd auf der oberkhait fordrung zu handthabung vnd rettung derselben, auch zu widerstandt den pösen aufruerigen leutn, auch in den gejaiden der schedlichen thier vnd sonst bey den haüsern gebraucht werden, bey schwärer straif an leib vnd guet. <pb n="390"/></p></div>
+            <div id="A.11">
+<head>[Art. 11] Prunst.</head>
+<p>Ob sich dann an ainiche ort bey tag oder nacht ein mortprant oder anders feursnot erhuebe, so sollen der oder die verordentn viertlmaister den vnderthanen desselben viertls vnuerzogenlich aufpietn vnd dann allen muglichn vleis haben, das feur zu leschn vnd auszutilgen, vnd von den andern viertln sollen auch etlich dem feur zuelauffen vnd die vbrigen zuainander khomen vnd acht haben, ob sich mitler zeit etwas geuerlichs zuetragen wolt, vnd demselben mit allem vleis, souil inen muglich ist, vor sein vnd etlich aus denselben andern viertln sollen auch anhaimbs beleiben vnd auf irer viertlmaister beschaid wartten, vnd solle verrer sollicher dreyer partheien halben an yedem ende durch phleger vnd richter ain klarer verstandt vnd ordnung gemacht werden, damit, so es darzu khäme ain yeder wissen mug, wes er sich in solhem halten soll. Es soll auch sonderlich auf die verdechtigen personen, die söllich prunstn bestellen oder sonst daran schuld tragen, vleissigelich gesehen werden.</p></div>
+            <div id="A.12">
+<head>[Art. 12] Gloggenstraich in ainer prunst.</head>
+<p>Desgleichen, ob von wegen des feurs in ainem gericht der gloggenstraich angeen solt, so sollen die viertlmaister noch yemandts anderer den nit angeen lassen, dann auf irer obrigkhait sondern vnd gründlichen beuelch.</p></div>
+            <div id="A.13">
+<head>[Art. 13] Der ain feursnot zu rettn vngehorsam ist.</head>
+<p>Wo sich auch in fürfallenden leuffen vnd feursnötn yemandts vngeschickht, vngehorsam oder frävenlich vnd zu handthahung vnd errettung des gemainen nuz widerwertig erzaigen wurde, der soll durch die obrigkhait an denselben ortn mit hilf der viertlmaister vnd der frumen vnderthanen gestrafft werden.</p></div>
+            <div id="A.14">
+<head>[Art. 14] Straff der aufruer.</head>
+<p>Item wellicher ain anfenger ainer empörung ist, hilf, rat oder that darzu gibt, der soll vnserm genedigisten herrn als landtsfürsten vnd herrn mit leib vnd guet verfallen sein.</p></div>
+            <div id="A.15">
+<head>[Art. 15] Pundtnuss.</head>
+<p>Item welliche person sich haimblich oder offenlich ainicher conspiration, verainigung, pundtnuss, pös pratickn oder contract zumachen vndersteen wurde oder machet, die sollen on alle gnadt leib vnd guet verfallen sein. <pb n="391"/> </p></div>
+            <div id="A.16">
+<head>[Art. 16] So ain ganze gemain aufstuende.</head>
+<p>Item wo sich ain gemainde oder der merer thail in stettn, märkhtn, gerichten oder auf den perckhwerchen in aufruer oder empörung gäbn oder einliesse, so sollen die vmbligenden phleger, landt- stat vnd perckhrichter vnd ander ambtleut mit iren gerichtsvnderthanen fürderlich nach gelegenhait der aufruerigen zueziehen vnd macht haben, sy zu vberziehen vnd zu straffen. Vnd ob ainer oder mer vnter oder aus den aufruerigen entleibt wurden, so sollen die gehorsamen damit gegen vnsern genedigisten herrn als landtsfürstn nichts verwercht, auch des entleibt freundtschafft oder andern deshalben nicht schuldig sein.</p></div>
+            <div id="A.17">
+<head>[Art. 17] Die frembden aufwigler.</head>
+<p>Dieweil man auch bisher in erfarung befunden hat, auch offenlich am tag ist, das die frembden herlaufenden leut, aufwigler vnd rädlfuerer, die hin vnd wider durch das landt ziehen vnd ires gefallens in den tafernen mit waffen vnd weeren verdächtlich auf der zerung vnd sonst ob den armen leuten ligen mit iren vnwarhafftigen mären vnd possen vil mertterey, empörung vnd rottierung gemacht vnd die gehorsamen frumen vnderthanen zu vngehorsam, aufruer vnd widerwertigkhait bewegt haben, damit dann sölh leuchtfertig personen für im landt nit gedult auch merer gemaines landts verderben verhüett werde, so ist fürgenomen, das aufs peldest in allen gerichten offenlich beruefft werde, das alle die, so nit angesessen sein, auch weder arbait, dienst oder ander redlich vrsach, noch auch kheinen versprechen haben, in vierzehen tagen nach solher berüeffung sich aus dem stifft vnd landt thuen vnd weitter darin nit aufhalten noch betretten lassen sollen.</p></div>
+            <div id="A.18">
+<head>[Art. 18] Leut beherbergen.</head>
+<p>Item das auch nun fürter khain wirt noch gastgeb in stetten, märkhten oder in gerichten auf dem lande, auch bei den ainlezigen tafernen, desgleichen auch ander vnsers genedigisten herrn vnd des stiffts vnderthanen vnd landtsässen niemandt von sondern personen noch vil weniger auch rott oder anzall volkhs behausen, beherbergen noch aufenthalten sollen, es wisse dann für sölh personen zuuersprechen bey Vermeidung schwerer straff an leib vnd guet. Ob auch solh verdächtig personen in ain wirthshaus oder zu andern heüsem khämen, <pb n="392"/> so sollen die wirtsleut solich personen irer gerichtsoberkhait aufs peldest, als sy mugen, anzaigen.</p></div>
+            <div id="A.19">
+<head>[Art. 19] Falsch posten.</head>
+<p>Es sollen auch die phleger vnd richter in iren verwesungen mit ernst darob sein vnd selbst ir guet aufmerkhen haben, auch darauf haimblich khundtschafften bestellen, wo yemandt, er sey frembt oder ain landtsman, ausserhalb der oberkhait wissentlich beuelch neue geschray, posten oder mündtliche potschafften in das landt vnder das gemain volckh pringen oder zuuerkhunden vndersteen wurde, von aufruer oder veindgeschray, oder sonst der oberkhait zuwider, das dieselben bey den nägsten, do sy betretten, vänckhlich angenumen werden vnd durch die oberkhait ob inen peinlich erkhundigung beschehe, von wemb oder warumb sy söllich posten vnd geschray fueren vnd in das landt vnd das gemain volkh pracht vnd nit zuuor die oberkhait damit ersuecht haben. Vnd so man ir geferde vnd mertterey durch bekhanntnus oder ander gleublich anzaigen erfindet, alsdann sollen sy nach gestalt der sachen vnd ires verschuldens an leib vnd guet gestrafft werden.</p></div>
+            <div id="A.20">
+<head>[Art. 20] Fürschieber der falschen posten.</head>
+<p>Desgleichen soll man auch gegen denen handlen, die solh frembt vnd newe posten, wann die an sy gelangen, weitter fürschieben oder verkhunden vnd der oberkhait nit fürderlieh anzaigen, sondern verschweigen.</p></div>
+<div id="A.21">
+<head>[Art. 21] Khainen sendtbrief in der gemain verlesen.</head>
+<p>Item es soll auch offenlich veruefft vnd niemants gestat werden, das in der gemain verschlossen oder offen brief, so zuzeiten den gerichten von andern orten zuegeschriben möchten werden, vnd sonderlich die brief von den flüchtigen vnd austretten, sy lautten an die gericht oder sonder personen, verlesen, sonder mit ernst vnd vleis bestelt vnd darob gehalten werden, das die alzeit zu handen der oberkhait geantwurt bey schwärer straff an leib vnd guet.</p></div>
+<div id="A.22">
+<head>[Art. 22] Schläminger.</head>
+<p>Item all die, so in dem ersten aufstandt von Schläming, es sein knappen oder ander, entwichen vnd denen vormals durch vnsern g. herrn das landt verpoten ist, sollen fürter im stifft vnd landt Salzburg auch nit behaust, gehöfet vnd aufgehalten werden. <pb n="393"/></p></div>
+<div id="A.23">
+<head>[Art. 23] Saffoyer.</head>
+<p>Item den Saffoyern, Schotten vnd andern kramern soll fürter ausserhalb der gewöndlichen jarmärkt im landt zu hausiren auch nit gestatt. Wo aber ainer darüber betretten, dem solle durch die oberkhait sein kram vnd guet zu vnsers genedigisten herrn handen genomen werden.</p></div>
+<div id="A.24">
+<head>[Art. 24] Landtsknecht vnd spilleut.</head>
+<p>Desgleichen soll auch den landtsknechten, hoffierern vnd andern spilleuten im landt zu hausiern auch nit gestatt, sonder, wo solh personen betretten, sollen die allweg in dreyen tagen aus dem landt geschafft oder wo ain solhe person etwas verdächtig war, alsdann vänckhlich angenomen werden vnd irer handlung notdürfftige erkhundigung durch die oberkhait an ir beschehen.</p></div>
+<div id="A.25">
+<head>[Art. 25] Winckl tafern.</head>
+<p>Item all winckl vnd neue tafern sollen laut der vorausgangen mandat aufgehebt vnd verpoten seyn vnd fürter aufzurichten nit gestatt, auch solhes nochmals offenlich beruefft werden.</p></div>
+<div id="A.26">
+<head>[Art. 26] Bey nächtlicher weyl in den tafernen nit sizen.</head>
+<p>Item khain wirdt oder gastgeb in stetten, märckhten oder in den tafernen auf dem landt soll füran vber acht vr zu abents oder vngeferlich zwo stundt in die nacht an den zechen, am spil, bey den leichtfertigen frauen, noch ander leichtfertig wege niemandts sizen lassen. Wer das vberfuere, der soll nach vngnaden gestrafft werden.</p></div>
+<div id="A.27">
+<head>[Art. 27] Spil, gotzlesterung, zuetrinkhen.</head>
+<p>Es soll auch offenlich beruefft vnd ernstlich verpoten werden, vnzimblich spil in haüsern, auch auf den muster pläzen vnd in ander weg, darzu auch die gotzlesterung vnd das zuetrinckhen bey schwärer straff an leib vnd guet.</p></div>
+<div id="A.28">
+<head>[Art. 28] Der pawrsleut claidung.</head>
+<p>Es sollen auch die phleger vnd richter nit gestatten dem gemainen paursman vnd iren knechten, die landtknechtischen pirret vnd zerschnitten oder getailt hosen oder wamäs furter zuetragen, sonder daran sein, das sich die mit erbern, zimblichen vnd irem verstandt gepurlichen klaidern beschaiden.</p></div>
+<div id="A.29">
+<head>[Art. 29]  Das sich niemandts der kriegs-ämbter vnderstee.</head>
+<p>Es soll auch niemandts gestatt werden, sich on beuelch der        oberkhait ainicher haubtmanschafft, rotmaister ambts oder aines <pb n="394"/> andern solhen khriegsambt zu vndersteen, bey verlierung leibs vnd guets.</p></div>
+<div id="A.30">
+<head>[Art. 30] Sturmbgloggen verwaren.</head>
+<p>Item sollen allenthalben bey den mesnern vnd kirchen die pfleger vnd richter mit ernst vnd vleis bestellen vnd ordnung geben, das an ainem yeden kirchenthurn ain guete versperte thür vnd die schlüssel wolbewart gemacht werden, damit durch leuchtfertig muetwillig oder ander personen on wissen vnd willen der oberkhait khain sturmb- oder gloggenstraich angee noch beschehe, es sey dann vor auch durch die oberkhait aus gegründten genuegsamen vrsachen beratschlagt vnd sie sich dermassen erkhundet, das es die notdurfft eruordert.</p></div>
+<div id="A.31">
+<head>[Art. 31]Gloggenstraich in ainer aufruer.</head>
+<p>Welche person auch den gloggenstraich on vorwissen vnd bewilligung der oberkhait also angeen lässt, soll auch an leib vnd guet gestrafft werden.</p></div>
+<div id="A.32">
+<head>[Art. 32] Khain kriegsweer in das landt zufüeren.</head>
+<p>Item all verpoten kriegsweeren als hellenparten, lang spies, püchsen, schlachtschwerdt vnd dergleichen weeren sollen hinfüran on zuelassen der oberkhait im landt nyndert gemacht noch auch durch in- vnder- oder auslender on sonder vnsers genedigisten herren vergunen vnd erlaubnus darein nit gefuert vnd verkhaufft werden, bey verlierung solher weeren, wo die betretten werden, darzue auch bey schwärer straff.</p></div>
+<div id="A.33">
+<head>[Art. 33] Saliter-pulver machen.</head>
+<p>Es soll auch offenlich beruefft werden, das alle die, so saliter vnd pulver machen, auch püchsenkugel giessen oder schmiden khünnen, sich nach solher berueffung in dreyen tagen in ainer yeden stat, marckht oder gericht bey irer obrigkhait anzaigen bey ainer straff. Von denselben soll durch die oberkhait ernstlich glüb vnd porgschafft aufgenomen werden, das khainer ausserhalb sonderer bewilligung vnsers genedigisten herren solh saliter vnd puluer nit machen, noch auch die khugln giessen oder schmiden wolle, bey verlierung leibs vnd guets.</p></div>
+<div id="A.34">
+<head>[Art. 34] Die wald von den strassen zeraumen.</head>
+<p>Die phleger vnd richter sollen auch bey den vnderthan vnd gerichtsleutn ir yedes verwesung bestellen, das sy auf das pöldest <pb n="395"/> allenthalben die wäld vnd das holz von vnd bey den landtstrassen abmayssen vnd raumen, damit sich die pösen verdechtlichen leut bey den strassen nit vmbziehen.</p></div>
+<div id="A.35">
+<head>[Art. 35] Schantzen vnd pollwerch.</head>
+<p>Desgleichen sollen auch die phleger vnd richter die pollwerch vnd schanzen allenthalben in den gerichten mit vleis besichten vnd was derselben noch vnzerrissen sein, die zu behuettung gemaines landts für ainen frembden einzug dienstlich sein möchten, die sollen vnabgethan bleiben vnd für vnd für gepessert werden. Die andern pollwerch vnd schanzen all sollen sy verschaffen abzubrechen vnd aufzuscheittern.</p></div>
+<div id="A.36">
+<head>[Art. 36] Bereytung der tafern vnd heuser.</head>
+<p>Vnd soll ain yeder pfleger vnd richter in seiner verwesung offtmals die tafernen, auch die verdechtlichen vnd ander heuser, darin sich die leut versamblen vnd aufhalten oder anders wider dise ordnung vnd fürnemen gehandlt werden möcht, bereiten, besuechen vnd die gest vnd ander verdechtlich personen rechtuertigen vnd den verpotnen weeren vnd anderm nachfragen, auch was sy vnfuegs darinen finden, dasselb ernstlich abstellen vnd straffen.</p></div>
+<div id="A.37">
+<head>[Beschluss]</head>
+<p>Dise obgemelte ordnung soll also in allen bemelts vnsers genedigisten herrn cardinals erzbischouen zu Salzburg etc. stetten, märckhten vnd gerichten seiner fürstlichen gnaden stiffts vnd lands durch menigelich vnd vestigelich gehalten vnd volzogen werden, bey vermaidung seiner fürstlichen gnaden schwären straff vnd vngnadt, die auch sein fürstlich gnadt ir vnd iren nachkhomen zu myndern vnd mern oder gar abzuthuen hiemit gänzlich vorbehelt. Beschehen vnd geben zu Salzburg vnder obgemelts vnsers genedigisten herm hinfürgedruckhtem secrete am sechs vnd zwainzigisten tag nouembris anno domini im sechs vnd zwainzigisten.</p></div>
+        </body></text></TEI.2>
