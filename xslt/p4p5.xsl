@@ -202,9 +202,12 @@
 	<xsl:template match="*:note[@place]">
 		<note>
 			<xsl:attribute name="xml:id">
+				<xsl:variable name="n">
+					<xsl:value-of select="concat('n', @n)"/>
+				</xsl:variable>
 				<xsl:choose>
-					<xsl:when test="@n">
-						<xsl:value-of select="concat('n', @n)"/>
+					<xsl:when test="@n and $n castable as xs:ID">
+						<xsl:value-of select="$n"/>
 					</xsl:when>
 					<xsl:otherwise>
 						<xsl:value-of select="concat('n', count(preceding::*:note) + 1)"/>
