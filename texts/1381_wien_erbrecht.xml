@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1381_wien_erbrecht">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wien Erbrechtsbeschluß 1381 (Csendes) :: Transkription Speer 2012 / 2016</title>
+            </titleStmt>
+        <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+    <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial">
+                <head>Editorial</head>
+                <p>Titelaufnahme: Die Rechtsquellen der Stadt Wien / hrsg. von Peter Csendes, Wien 1986 [ = Fontes Rerum Austriacarum Dritte Abteilung: Fontes Iuris, 9] S. 191 - 193<lb/>    Der Volltext wurde aus dem Druckwerk mit Hilfe eines OCR-Programms in maschinenlesbaren Text umgewandelt und Wort für Wort korrigiert.<lb/>
+                Letzte Überprüfung: 30.05.2016<lb/>
+                Heino Speer<lb/> Klagenfurt im November 2012</p>
+            </div>
+            <div xml:id="Text">
+<p>Allen den, die nu lebent und hernach kuͤnftig sint, sei kunt, daz nach Christes gepuͤrt dreuczehenhundert jar, darnach in dem aynsundachczigistem jar, dez eritages in den phingstveyrtagn, chom zu den ratgeben der stat ze Wienn in denselben rat der durichleͣuchtig hochgeporn fuͤrst, unser genediger lieber herr herczog Albreht, hertzog ze Oͤsterreich, ze Steyr, ze Kernden und ze Krayn, graf ze Tyrol etc., und ist da mit dem ganczen rate enayn worden, wie fuͤrbaz in der stat ze Wienn alleu erbguͤter erben sůlln, daz die pey den rechten erben beleiben. Wand an demselben stukch, das erbrecht haizzet, ist ettwievil zeit von unbesichtikait wegen hie zu Wienn unordenung gehalden, dem rechten widerweͣrtig, davon die rechten erben enterbet sint worden und die guͤter gevallen sint unrechtleich zu frömder leͣut handen, die der nicht erben warn. Alsodaz der egenant unser herr hertzog Albr(echt) und der gancz rat gesatzt habent unwiderrůffleich zu einem ewigen rechten, daz alleu erbeguͤter, die ein mensch, ez sei man oder frow, anerstorben sint von enen oder von anen oder von vater oder von můter, erben sůllen auf das gesleͣchte des stames, von dem die gůter herchomen sint, in soͤlher weise, ob ein man abget mit tod ee denn sein hausfrow, und daz er ir chinder hinder im leͣt, die si miteinander habent,und daz denn die frow einen andern man nimpt und mit demselben auch chind gewinnet, die sint denn mit den ersten chinden geswistreyd muͤterhalben, und daz denn die chinder, die si pey dem	ersten manne hat, abgiengen mit tod, ee si zu irn beschaidenen jarn cheͣmen und ee si vogtpeͣr wurden, oder daz si die erbguͤter unverchumert und unverschafft und unvermachteu hinder in liezzen, daz denn dieselben gůter erbn und gevallen suͤlln auf des ereren mannes erben, von dem diselben gůter herchomen sint nach des landes recht ze Oͤsterreich und nicht auf der chinder geswistreid můterhalben. Und also ze gleicher weise sol im sein von den frowen, ob ein frow abget mit tode ee denn ir man, und daz si im chind hinder ir leͣt, die si miteinander habent, und daz denn der man ein ander <pb n="193"/> frowen nimpt und mit derselben auch chind gewinnet, die sint denn mit den ersten chinden geswistreid vaterhalben, und daz denn die chinder, die er pei der ersten frowen hat, abgiengen mit tod, ee denn si zu irn beschaidenen jarn cheͣmen und ee si vogtpeͣr wurden, oder daz si die erbgůter unverchumerteu, unverschaffteu und unvermachteu hinder in liezzen, so suͤlln denn dieselben gůter erben und gevallen auf der ereren frowen erben, von der diselben guͤter herchomen sint nach des landes recht ze Oͤsterreich und niht auf der chinder geswistereyde vaterhalben. Also werdent die guͤter zu den rechten erben choͤmen, und chůmpt dikch von einem wolhabenden manne oder frowen ein gantzes gesleͣcht wider zu ern und zu guͤt, das anders unrechtleich zu fromden handen cheͣm. Weͣr aber, daz man dhainen erben nicht erfraischen chunde, der die guͤter nach dem vorgeschribenen rechten solt erben, so suͤlln dieselben guͤter gevallen der stat ze Wienn zu gemaynem nucz, als das mit altem rechten herchomen ist. Und daruͤber durich ewigeu besteͣtigung des aufsatzes des erbrechtes hat es der vorgen(ant) unser herr der herczog mitsampt dem rate in diczs grozzes statpůch haizzen schreiben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

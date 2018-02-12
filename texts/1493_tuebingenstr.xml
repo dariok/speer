@@ -1,0 +1,2152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1493_tuebingenstr">
+    <teiHeader>
+    <fileDesc>
+      <titleStmt>  
+        <title>Tübingen Stadtrecht 1493 April 16 :: Transkription Speer 2010 / 2016</title>
+      </titleStmt> 
+    <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+  <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial"> 
+        <head>[Editorial]</head> 
+      <p>Quelle: Digitale Edition auf Grund der Edition von R. Rau / J. Sydow (Hrsg.), Die Tübinger Stadtrechte von 1388 und 1493 (Tübingen 1964) [= Veröffentlichungen des Stadtarchivs Tübingen Band 2] S. 6-37. Die Hinweise auf verwandte Quellen stammen aus: W. Schanz, Das Tübinger Stadtrecht von 1493 (Tübingen 1963) [= Veröffentlichungen des Stadtarchivs Tübingen Band 1].</p>
+            </div>
+            <div xml:id="Art.0">
+  <head>[Vorrede] Eberhart Grave zuͦ Wirttemberg und zuͦ Mümppelgart etc.
+der Eltere.</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.1">Stuttgart
+Stadtrecht 1492 Abs. 1</ref>]</p>
+  <p>
+Unserm vogt zuͦ Tüwingen und lieben getrüwen, Cuͦnradten Brüning. Unsern
+gruss züvor. Lieber getrüwer. Nachdem wir vil und mengerlay mangels und
+gebrechens in unser stat Tüwingen vorhanden sein durch teglich erögen erfarent,
+haben wir in willen und mainung, die in etwas wege fürzekomen, etlich
+ordnungen, satzungen und artickel begryffen lassen, die wir dir hiemit
+zuͦschickent, mit bevelch, die gmaind mit der glogken und sunst zuͦ
+versameln und inen söllich artickel, ordnungen und satzungen, die, als wir
+hoffent, uns, unsern erben und nachkomen, gemainer stat Tüwingen und aller
+erberkait und ynwonern daselbs künftiglich zuͦ guͦttem nutze und fromen
+erschiessen werdent, ze verkünden, und gebietten ze halten, ouch darob und
+daran ze sinde, damit die streͣnglich gehalten und niemanden nichtzit darin
+nachgelaͧssen noch übersehen werde. Das ist unser ernstlich mainung.
+Wir wöllent uns ouch deß zuͦ dir gentzlich versehen und daran
+verlaussen. Datum Tüwingen uff <date when="1493-04-16">zinstag vor sanct
+Jörgen tage des hailigen martrers anno etc. M¬/o/. CCCC¬/o/.
+LXXXXIII¬/cio/</date>.
+  </p>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.2">Stuttgart
+Stadtrecht 1492 Abs. 2</ref>]</p>
+<p>
+Durch merunge dess Coͧmmoͧnns diser unser stat Tüwingen, das in kurtzen
+zeiten gar mercklich gewachsen ist, merent sich ouch irrungen und spenn
+zwischent inen teglich, und werdent dardurch vogt und richtere gar in vil müe
+und arbait, ouch unser underthaͧn und gemain ynwonere in vil costens und
+versaumpnus irer gescheͣfft gefürt. Darumb und damit die, so rechtz
+notturftig werdent und ire sachen des furderlicher mögent ußgericht und dem
+gericht sein laste gemindert werden, und das die gerichtsübungen nach
+gelegenhait gemainer heͣndele etlicher mauß iren ordenlichen rechtgang
+gewinnen, so schaffen wir dise nachvolgend ordnungen ze pruchen.</p>
+            </div>
+            <div xml:id="Art.1">
+  <head>[Art. 1]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.3">Stuttgart
+Stadtrecht 1492 Abs. 3-5</ref>]</p>
+<p>
+Zum ersten, das der gerichtzzwange und die sachen, darumb rechtlich erkantnuß
+gescheen soll, getailt werden söllen, also das vor ainem vogt und gantzem
+gericht söllent berechtet werden alle pinlich, straͧfflichund frevenlich
+hendele, und darzuͦ all burgerlich sachen, erbe, aigen, köuf und anders über
+zehen pfund heͣller berürend; was aber zehen pfund heͣller berürt und
+darunder bis uff zehen schilling heͣller, dieselben ußgeschlossen, das soll
+von aim vogt und vier richtern, von im dem vogt und aim gerichte darzuͦ
+erwölt, verhört und wie sich gepürt entschaiden werden. Was aber antrifft zehen
+schilling heͣller oder minder und vom vogt gütlich nit hingelegt wirdt, das
+söllent die pittel hören und rechtlich nach raͧt ains vogts oder der
+richtere, wa sie sich ainer sache für sich selbs nit verstaͧnd, entschaiden,
+damit nemands unrecht beschehe.</p>
+            </div>
+            <div xml:id="Art.2">
+  <head>[Art. 2]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.6">Stuttgart
+Stadtrecht 1492 Abs. 6</ref>]</p>
+  <p>
+Des glych söllent vor inen den pütteln gerechtvertiget werden alle hendele, die
+sich begebent zwischent lychtfertigen personen, als huͦren und buͦben;
+die söllent ise naͧch irem besten verstaͧn und ouch naͧch raͧt
+entschaiden und denselben lütten ouch frevel und strauffen, den hendeln
+gemeͣß, erkennen und ufflegen, damit das gerichte mit söllichen schnöden,
+schantlichen sachen nit beladen werde.
+</p>
+            </div>
+            <div xml:id="Art.3">
+  <head>[Art. 3]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.7">Stuttgart
+Stadtrecht 1492 Abs. 7-9</ref>]</p>
+  <p>
+Item umb deswillen, das die gerichte iren rechten und ordenlichen gange
+gewinnent und die ungehorsamen ir strauff habent und die, so rechtz bedörfend,
+gefürdert werdent, so habent wir geordnet und gesetzt wider die ungehorsamen
+und, zuͦm ersten, wider den clegere:</p>
+<p>
+Wann der cleͣger rechtzbegerend fürbieten laͧssen haut, uff dem huße nit
+erschynnt, so der vogt und richtere versamelt nidersitzen, und der antwurter
+als der gehorsam gegenwirtig ist, so soll derselb clegere zuͦ peͣne geben
+acht pfenning. Weͣre aber der cleͣgere zuͦm andern gericht aber der
+gestalt wie vor gelut haͧt sümig und ungehorsam, so soll er <pb n="Bl. 2 r"/>
+zuͦ peͣne geben sechtzehen pfenning, und zuͦm dritten gerichte,
+wa er alsdenn aber ungehorsam weͣre, vier und zwaintzig pfenning, und
+darzuͦ allwegen seiner widerparthy versaͧmpnuss, ouch erber zerung und
+schaden  nach erkantnus vogts und gerichtz, die gestalt und gelegenhait der
+sachen	freͣmbder und haimischer ermeͣssen söllent, ußrichten. Belibe
+aber ainer gar uß und keme nit, weder im anfange des rechtens, so vogt und
+gericht nidersitzend, noch darnaͧch, ee das gerichte uff denselben tage
+uffstünde, so soll er zuͦ pen geben den ersten tag zwen schilling, den
+andern fünf schilling, und den dritten zehen schilling heͣller, und seinem
+widertaile ablegen zerunge und scheden, wie obsteet; und nit destminder soll
+dem gehorsamen taile sein recht ergeen und volltzogen werden, wie sich nach
+ordnung rechtz gepürt.</p>
+<p>
+So aber der cleger gehorsamlich erschint und der antwurter nit gegenwirtig ist,
+so vogt und gericht nidersitzent, so soll der antwurter den ersten tag geben
+zuͦ peͣne ain schilling, den andern zwen schilling, und den dritten dry
+schilling heller. Belib aber der antwurter gar uß und keͣme nit, diewyl das
+gericht dannocht seͣsse, so soll er geben die hievorgeschriben großen
+peͣne, wie der cleger: neͣmlich den ersten tag zwen schilling, den andern
+fünf schilling, und den dritten zehen schilling heͣller, und seinem
+widertaile soͧmpnus, zerung und scheͣden allwegen, wie obsteet; dem ouch
+alsdenn als dem gehorsamen nit desterminder unangesehen des antwurters
+ußbelyben und ungehorsami sein recht ergeen und vollstreckt werden soll, wie
+sich nach ordnung rechtz gepürt.</p>
+            </div>
+            <div xml:id="Art.4">
+  <head>[Art. 4]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.10">Stuttgart
+Stadtrecht 1492 Abs. 10</ref>]</p>
+  <p>
+Zuͦdem soll ain vogt allwegen macht und gewalt haben, in sachen, die nit
+bait haben mögen oder darin muͦtwill oder sondere geverd gemeͣrckt wirt,
+zuͦm ersten, zuͦm andern und zuͦm dritten gerichte, by ainem <pb n="Bl. 2 v"/>
+frevele klainem oder großem, und ob es in noͧt oder nutze
+bedücht, by dem aide zuͦm rechten zuͦ gebietten; und ob ain ynwonende
+parthy vermainte, das recht durch ain procuratorem und gewalthaber zuͦ
+verstuͦn, und zaigte des nit gnügsam ursachen an warumb, sonder so wurde
+deshalben etwas geveͣrd und umtryben von im verstanden, so soll der richtere
+söllichs der selben parthy nit zuͦlaͧssen, sonder das mit dem spruch oder
+der amptman durch gepott abthuͦn und erkennen.</p>
+            </div>
+            <div xml:id="Art.5">
+  <head>[Art. 5]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.11">Stuttgart
+Stadtrecht 1492 Abs. 11</ref>]</p>
+  <p>
+Wöllicher partii aber, er sye kleger oder antwurter, zuͦsteet etwas
+redlicher ursachen, darumb er vor gericht wie obsteet nit erschinen mag, der
+soll die ursachen erschain vor vogt und gerichte, und soverr die von denselben
+für gnuͦgsam geachtet und geurtailt wirdt, so soll er alßdann umb dasselb
+sein ußbelyben kain peͣne geben; und uß söllicher eehaftiger noͧtt und
+ursach mag er das recht durch ain andern vertretten.</p>
+            </div>
+            <div xml:id="Art.6">
+  <head>[Art. 6]</head>
+<p>Was eehaftig noͧt und ursachen sind.</p>
+<p>
+Und ist eehaftig noͧt und ursach, neͣmlich gefengknuß, siechtagen oder
+kranckhaiten, derhalb ainer weder zuͦ kirchen noch zuͦ straus gaͧn
+mag, und des landsherren oder der oberkait gebottner diennst, und wilde wasser
+oder desglychen redlich verhinderung, und wa ainer ee und er fürgeladen wirt,
+ungefaͧrlich ußleͣndig weͣre. Wa deren ains ainem begegnet
+zuͦvallende, als er zuͦrecht komen sollt, so entschuldigent sie den, der
+nit erschynet; doch wa kranckhait oder ander bestimpte sach lang weͣreten
+und möcht die sach durch ander in seinem abwesen ouch verrechtiget werden, so
+soll er durch sein anwaldte handlen, wie recht ist, oͧne geverd.</p>
+            </div>
+            <div xml:id="Art.7">
+  <head>[Art. 7]</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=3.2">NürnbRef. 1479
+III 2</ref>]</p>
+  <p>
+Item so der cleͣger und antwurter gegen ainander in recht hangen, <pb n="Bl. 3 r"/>
+wölliche parthy dann uß redlicher ursach fürschlecht, vor und ee die
+sach zuͦrecht verfast ist, das die sach ander personen ouch berür oder
+antreͣff, dermaͧssen das die richter erfinden notturftig sein, sollich
+personen darzuͦ zuͦ erfordern, so soll alsdann die verkündung derselben
+parthy, die sie angeben haut, uffgelegt werden.</p>
+            </div>
+            <div xml:id="Art.8">
+<head>[Art. 8] Von verkündung und fürbott der richtere.</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.12">Stuttgart
+Stadtrecht 1492 Abs. 12</ref>]</p>
+<p>
+Item wann man fürohin zuͦ Tüwingen gericht halten will, so soll der amptmann
+am aͧbend darvor allen und yeden richtern, mornends des gerichtz ze warten,
+die statknechte, wie bisher der pruch gewesen ist, sagen oder bieten lassen,
+und uff wölliche zytt also gepotten wirdt, so soll alßdann uffgesetzt werden
+ain viertaile ainer sandstund, und ee das gar ußloͧfft, soll der amptman
+sich schicken nider zuͦ gericht sitzen; und wöllicher richtere alsdann nit
+in der gerichtstuben erscheint, vor und ee das viertaile der stund
+ußgeloͧffen ist, der soll, er habe dann sonder erloͧbunge oder werde
+durch eehaftig noͧtt vom vogt und gerichte für gnuͦgsam erkennt
+entschuldigt, ain schilling heͣller unableͣßlich zuͦ peͣne geben;
+und so er gar ußbelybt oder oͧne erloͧbunge vom gericht abgeet, dry
+schilling heͣller; aber wann der amptman by gehorsami laͧßt gebieten, so
+soll aids pflicht verstanden werden und obgemelt geltpeͣne davon nit
+entschuldigen noch darfür gnuͦg sein.</p>
+            </div>
+            <div xml:id="Art.9">
+<head>[Art. 9] Von verkündung und fürbott der parthyen.</head>
+<p>
+Item die verkündung und fürbott söllent dem sächer gescheͣhen oder seim
+anwaldt under ougen. Wa aber der seͣcher sich gevarlich von dannen
+theͣtte und kainen gewalte hinder im liesse, so mag söllich fürbottezuͦ
+seiner gewonlichen heͣrberg <pb n="Bl. 3 v"/> und wonunge gescheen. Wa man
+aber derselben wonung und herberg kain aigentlich wissen hette, so soll alßdann
+das fürbott an das raͧthuß geschlagen werden und damit kreftig sein; doch so
+ainer sprüch zuͦ aim gerichtzman hette, so soll nach der stat recht
+demselben richtere durch den amptman oder ainem andern richtere fürgebotten
+werden.</p>
+            </div>
+            <div xml:id="Art.10">
+  <head>[Art. 10]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.13">Stuttgart
+Stadtrecht 1492 Abs. 13</ref>]</p>
+<p>
+Item abzestricken muͦttwillig umbtryben, so gar oft geschicht von denen, die
+vil lieber rechtent und zuͦm wyn gand, dann ire schulden bezalent, und ouch
+zuͦ etwaz strauffe denen, die umb klainer ungegründter ursach willen die
+lüte mit recht understeͣnnd anzefechten und umbzuͦtryben, so soll fürohin
+ain yeder, der zuͦ Tüwingen rechten will, er sye cleͣger oder antwurtere,
+im anfang und ingang des rechtens, vor und ee ichtzit von seinen wegen geredt
+wirdt, in das gericht legen, neͣmlich: vor dem gantzen gericht dry
+schilling, und vor dem undern gericht zwen schilling; und wöllicher die sach
+mit recht erobert, der mag sein yngelegt gelt wider neͣmen; wöllicher <pb n="Rau/Sydow 9"/>
+aber verlüstig wirdt, der soll das gelt von im yngelegt
+verlorn haben. Und söllich ingelegt gelt, oͧch anders dem gericht
+zuͦgehörig, es syen buͤssen, unrecht sigel gelte, urtail gelte von undern
+gerichten, von appellacionen etc., ist unser mainung und bevelch, das es von
+aim richter darzuͦ verordnet aigentlich yngesamelt und in ain buchsen gelegt
+und alle iaͧre under die richter getailt und verrechnet werde.</p>
+            </div>
+            <div xml:id="Art.11">
+  <head>[Art. 11]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.14">Stuttgart
+Stadtrecht 1492 Abs. 14</ref>]</p>
+<p>
+Item ain yeder, er sye cleͣger oder antwurter, mag im selbs zuͦrecht
+reden oder ain fürsprechen mit im bringen, wien er will; wölte er aber ain
+fürsprechen uß dem ring haben, der soll im ouch zuͦgelaͧssen werden, doch
+allain und <pb n="Bl. 4 r"/> kainer vom gericht, an sein raͧte, ußgenomen
+sachen, lybe, leben und die ere, oͧch erb und aigen berürend; darin mag ain
+fürspreche des gerichtz ainen siner mitgesellen an den raut seiner parthy
+nemen. Doch ist unser mainung, daz die parthyen, die vor dem undern gerichte
+rechten werdent, inen selbs reden und die sachen uff das kürtzest fürtragen
+söllent, als ferr das sein möge, damit die sachen zuͦm kürtzisten ußgericht
+werden mogen. Ob aber ieͣmands sein sach selbs nit fürtragen könnde, dem
+soll ain fürsprech vergündt und gegeben werden uß dem ring oder sunst, ob es
+ursach hette, usserthalben, und wann der ainen parthy fürsprech nit usser dem
+gericht und der andern parthy vom gericht were, so sol der fursprech vom
+gericht och nit in der urtel sitzen wie der ander, damit es glych
+zuͦgang.</p>
+            </div>
+            <div xml:id="Art.12">
+<head>[Art. 12] Von vorbehaltung rechtlicher ußzüg.</head>
+<p>
+Item gebrucht sich der antwurtere im rechten inrede oder ußzüge, vermainende
+uff dieselb zytte nit gericht und geschickt sein, antwurt zuͦ geben, und
+thuͦt des ursach erzelen, mit begere, im uffschub zuͦ geben etc., mag
+dann derselb antwurtere thun das, so im von aim gericht ufgelegt wirdt:
+neͣmlich, das söllichs sein notturft herhaische und darinn kain gefeͣrde
+gesuͦcht werde, noch sein widertaile damit seins rechtens ufzuͦhalten;
+als ferr dann söllichs vom widertail gütlich nit wöllte zuͦgelaͧssen
+werden, so soll demselben antwurtere daruff zuͦg und zytte geben werden nach
+erkantnuß ains gerichtz und nach gelegenhait der sach, ungevarlich. Aber dem
+clagenden taile als dem, der verfaßt zuͦrecht erscheinen, soll diser
+vortaile oder ufschube nit geben werden.</p>
+            </div>
+            <div xml:id="Art.13">
+<head>[Art. 13] Von denen, so in aucht und ban syen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=6.10">NürnbRef. 1479
+VI 10</ref>]</p>
+<p>
+Item ain yeder cristenlicher mensch, der in dem ban oder in der acht ist und
+des bekeͣnnt oder in gepürlicher zyte des bewyst wirdt, wöllend wir, das
+derselbe <pb n="Bl. 4 v"/> durch sich oder sein anwaldte in seiner clag nit
+gehört werde, allediewyl er in aucht und ban ist; doch soll und mag er
+antwurten und sain gerechtigkait in antwurts wyse fürbringen.</p>
+            </div>
+            <div xml:id="Art.14">
+<head>[Art. 14] Wie frowen in dem rechten mögend staͧn.</head>
+<p>
+Item wir wöllen ouch, das kain frow clagen oder antwurten möge nach der stat
+recht oͧne irs eemanns wissen und willen, sonder soll das der man thuͦn,
+der dann ir rechter vogt ist, doch mit dem underschaide: wa sie geschaiden
+weͣren, alßdann möchte die froͧw mit dem iren und umb das ir oͧne den
+man wol rechten, ouch koufen, verkoufen, geben und geweͣrb tryben; darzuͦ
+ob der man nit inleͣndig weͣre und weͣr die sach, dz die nit verzug
+lyden möchte, also das mit recht erkeͣnnt wurde, das sie söllich sach söllte
+verstoͧn mit ainem fürmindere, oder sie heͣtte dann urkünd oder <pb n="Rau/Sydow 10"/>
+urloub irs eemans, oder daz sie beclagt wurde umb
+übeltaͧtt, schmeͣhlich oder scheͣntlicher wort und werck halben :
+alßdann, wa der eeman, ob er ioch zuͦgegen oder inleͣndig weͣre und
+nit by ir stoͧn wollte, so mag die frow nit destminder antwurten und das
+recht vertreͣtten.</p>
+            </div>
+            <div xml:id="Art.15">
+<head>[Art. 15] Von wittwen, iunckfroͧwen, waisen, onmündig und
+synnloͧsen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=6.12">NürnbRef. 1479
+VI 12</ref>]</p>
+<p>
+Item wa die yetzobbestimpten rechtigen söllend, haͧnd sie dann nit
+fürmünder, so soll inen der richter, als ouch das yetzo unser bevelch ist,
+fürmünder geben zuͦrecht, si begeren ir oder nit; und was dann also
+geschicht ordnung rechtz, das soll naͧch der stat recht kröftig sein; dann
+söllich <pb n="Bl. 5 r"/> lüt mögend nit klagen noch antwurten, verhinderung
+halb rechter eehäfty; doch mögend ir formünder und pfleger an ir stat clagen
+und antwurten wie obsteet.</p>
+            </div>
+            <div xml:id="Art.16">
+<head>[Art. 16] Von anweͣlten und irem gewalt.</head>
+  <p>[Anlehnung an <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=2.1">NürnbRef. 1479 II
+1</ref>]</p>
+<p>
+Wöllicher seinen gewalt vor dem amptman und gericht ainem andern mit dem
+gerichtstab ufgit, oder usserhalb gerichtz vor ainem amptman oder zwayen
+richtern, doch das derselbig gewalte durch ainen geschwornen schrybere
+uffgetzaichet werde, mit bestimung der sach, der personen und des richters,
+derselbig gewalte soll nach der stat recht für gnuͦgsam erkennt
+werden.</p>
+            </div>
+            <div xml:id="Art.17">
+<head>[Art. 17] Von gewalte anderswa uszuͦbringen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=2.2">NürnbRef. 1479 II
+2</ref>]</p>
+<p>
+Wöllicher anderswa usserhalb ains gerichtz zwang von andern eͣnden ainen
+gewalte fürbringt und als anwalt zuͦ clagen oder zuͦ antwurten vermaint,
+der soll under ains fürsten oder herren gaistlichs oder weltlichs stands oder
+mit ainer stat insigel oder sunst zuͦm minsten mit zwayer kúndiger erber lüt
+insigele oder ain edelman under sim sigel besigelt sein, oder durch
+gloubwirdigen instrumenten vergriffen, mit bestymung der sachen, parthyen und
+des richters, ouch mit dem verspruch by truw an ayds statt, was uff sollichen
+gwalt erkennt werd, das waͤr und staͤtt zuͦ halten sovil und recht
+sy.</p>
+            </div>
+            <div xml:id="Art.18">
+<head>[Art. 18] Von gesipten fründen und irem gwalte.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=2.3">NürnbRef. 1479 II
+3</ref>]</p>
+  <p>
+Item so yemand von wegen ainer zuͦgehörigen person, im gesippt des bluͦtz
+bis in den dritten graud, in recht ze clagen oder zuͦ antwurten oder ichtz
+anders rechtlich zuͦ handeln vermaint, und des doch ainichen sondern
+gewaltzbriefe noch urkünde nit fürbreͣchte, derselb mag von desselben seins
+fründs wegen <pb n="Bl. 5 v"/> gewalt verbürgen, darumb ainen bestand thun mit
+dem gerichtstab oder sunst nach notturft versichern, söllichs, so er seins
+fründs halb handelt, durch denselben steͣtt und vest zuͦ halten und dem
+nachzekomen, als sich gepürt und recht ist; das soll für ain gewalte nach der
+stadt recht ouch angnomen werden, doch daß diser anwald zuͦm nesten gericht
+versprech, von sim fruͤnd gewalt zuͦrecht gnuͦg bringen und derlegen.
+Es soll och vor und ee daß beschicht, die urtel nit geöffnet werden.</p>
+            </div>
+            <div xml:id="Art.19">
+<head>[Art. 19] Von besagnus und zügnus wegen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.1">NürnbRef. 1479
+VIII 1</ref>]</p>
+<p>
+So yemands den andern in gericht beclagt und der claͤger oder verantwurter
+ainicher bewysung notturftig ist, als urkündbriefe, kuntschaft oder sag,
+instrument, handtgeschrift, salbücher, rechenbücher oder anders zuͦ recht
+dienende, das soll für <pb n="Rau/Sydow 11"/> sinen werd, so es in recht uf im
+trögt, mit vorbehaltung des andern tails gegenwör und notturft, zugelassen und
+verhört werden; doch also das es damit gehalten werde, wie recht ist.</p>
+            </div>
+            <div xml:id="Art.20">
+    <head>[Art. 20] Von bewysung der gewer ungepürlicher entwerunge.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=29.4">NürnbRef. 1479
+XXIX 4</ref>]</p> 
+    <p>
+Item so yemands den andern beclagt umb entwerunge, die im mit gewalt und
+oͧne recht soll geschehen sein, so soll er fürbringen nach der stat recht
+zway ding: zuͦ dem ersten, das er in gewör und posses deß, darumb er clagt,
+uff die zytte der entwerunge gewesen sye; zuͦ dem andern soll er ouch
+bewysen söllich gewaltsamy entwerunge; und so die baide gescheͣnhen oder die
+widerparthy dess bekantlich ist, so soll der cleͣger widerumb zuͦ der
+gewör komen und gelaͧssen werden, mit bekerung der entwerten abnütz, zinss
+oder früchte, alles nach erkantnuß ains gerichtz ungefaͧrlich. Möcht aber
+ainer bewysen, das söllichs sein gewest, und möchte doch den roub oder diepstal
+nit bewysen, so söllte im uf sein betürung des aids geloupt werden, das er sich
+des guͦtz nit entüssert noch verzigen hab. Wa aber der cleͣger gantz
+nichtz bewyst, so soll der inhabere geabsolviert werden.</p>
+            </div>
+            <div xml:id="Art.21">
+    <head>[Art. 21]</head>
+    <p>
+Item waͧ zwen gegen ainander in recht stoͧnd umb ain guͦt, und ir
+yegclicher <pb n="Bl. 6 r"/> vermaint, das er in possess, gewör oder der
+inhaber sye, so soll man ir baider fürbringen, kuntschaft und bewysunge hören;
+wöllicher dann die besten bewysung deßhalb haut, dem soll alßdann die possess
+zuͦgesprochen werden nach der stat rechte.</p>
+            </div>
+            <div xml:id="Art.22">
+    <head>[Art. 22]</head>
+    <p>
+Item wöllicher inhaut oder zu seinen handen bringt ains andern guͦt on
+redlich ursach oder tittel, dardurch man dann aigenschaft freͣmbder gütter
+überkommen mag: villicht es ist im gelihen oder ist im vergundt, ain zytt
+zuͤ bruchen, oder in trüws handen hinder ine gelegt oder dergelychen; laut
+er sich dann beclagen und erfindt sich, das er wissentlich söllich guͦte
+disem vorgehalten haut, ist ouch ain klain zytt seins inhabens, so soll er
+zuͦ peͣn seins unbillichen spörrens an unser strauff erkeͣnnt werden
+und disem costen und schaden ablegen mitsambt der houptsach, alles nach
+erkanntnuß ains gerichtz und gelegenhait der personen und ainer ieden sach
+ungefaͧrlich.</p>
+            </div>
+            <div xml:id="Art.23">
+  <head>[Art. 23] Von aid, so ain parthy der andern haimwirft.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=6.17">NürnbRef. 1479
+VI 17</ref>]</p> 
+  <p>
+So ain parthy der andern in recht den aid büt vor ertailung der urtaile oder
+des rechtens, so mag die parthy, der söllicher aid angebotten wirt, den
+ufneͣmen oder nit, oder aber der andern parthy söllichen aide widerumb
+haimweͣrfen, und das wirt gehaissen ain endtlicher rechtlicher, und
+willkürlicher aide; und wann der geschworn wirdt, so soll es daby belyben und
+soll davon nit geappelliert werden.</p>
+            </div>
+            <div xml:id="Art.24">
+    <head>[Art. 24] Von entschaid aiden der hoͧptsach.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=6.16">NürnbRef. 1479
+VI 16</ref>]</p>  
+    <p>
+Allediewyl die parthyen arbaiten in bewysung der sachen, so gebürt sich nit und
+ist oͧch nit noͧdt, vor söllichem fürbringen endtlich aide, die dann <pb n="Bl. 6 v"/>
+entlichen entschaid, verlust oder gewinn der hoͧptsachen uf in
+tragen, ze urtailen; sonder so die parthyen ir bewysung volfüren und entlichen
+rechtsatz gethaͧn haben, allererst darnach gebürt sich söllich aid durch
+urtail und recht fürzuͦnemen und ze erteilen, in gebruch völliger bewysung,
+dem antwurter oder dem cleger, nach gelegenhait der sachen und des
+rechtens.</p>
+            </div>
+            <div xml:id="Art.25">
+    <head>[Art. 25] Von fürbringung gemainer urkünd und briefe zuͦ
+hören.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.2">NürnbRef. 1479
+VIII 2</ref>]</p>  
+    <p>
+So ain parthy im rechten anzücht by seiner widerparthy urkünd, brief, bücher,
+register oder schrift ze sein, und begert die in gericht ze bringen und zuͤ
+verhören, wa dann sölliche urkünd, brief, bücher, register ir baider gemain
+sind, so ist die widerparthy <pb n="Rau/Sydow 12"/> pflichtig, die in gericht
+ze bringen und verhören laussen, doch mit der beschaidenhait: so das brief oder
+buͦch oder derglychen wytlöfig schriften werend, die ouch anders, und die
+gehaime ding inhielten, so soll mit zimlichem flyß die artickel, die da gemain
+sind, von erbern personen darzuͦ gegeben uß dem original getzogen werden
+oder gehört und damit gehalten, uff erkantnuß des rechtens.</p>
+            </div>
+            <div xml:id="Art.26">
+    <head>[Art. 26] Von fürgebott der zügen.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.4">NürnbRef. 1479
+VIII 4</ref>]</p>   
+    <p>
+So yemands persönlich wysung ze füren in recht zuͦgelaͧssen wirdt, so
+soll ye zuͦ zytten der oder die selben söllich kundtscheͣfter mit ainem
+ainigen fürbott durch ain fronbotten erfordern, mit bestimung baider parthyen
+und fürhaltunge, das sie ir persönlich kuntschaft ze sagen gefordert werden;
+und daruff söllen dieselben kuntscheͣffter, die engegen und dem gericht
+underworfen sind, wa sie anders des rechter eehaft halb nicht verhindert
+werden, vor gericht persönlich erscheinen, und deshalb uf dasselb gericht uff
+ir aide, wa sie der mit willen der widerparthy nit erlassen werden, laisten und
+von stund an berait sein zuͦ sagen: es weͣre, das sie zugs sich zuͦ
+bedencken <pb n="Bl. 7 r"/> wissens halb notturftig weͣren, so soͤllen
+sie denn uff betyrung, das sie söllichen zug der widerparthy zuͦ kainer
+gefeͣrd, verzug oder verlengerung, sonder rechter notturft halb gethan
+haben, bis uf das nechst nachfolgend gericht und nit leͣnger.</p>
+            </div>
+            <div xml:id="Art.27">
+  <head>[Art. 27]</head>
+  <p>
+Item es wirt ain ußlendischer züg zuͦ ainem zügen zuͦgelaͧssen oͧn
+sein manrecht, diewyl die widerparthy den durch inrede rechtlich nit abtrybt;
+dann ain yeder ist für ain zügen tougenlich zuͦ achten und zuͦ halten, es
+werde dann von dem anfechtenden taile anderst fürgebraͧcht oder lige sein
+untougenlichait sunst offenlich am tage.</p>
+            </div>
+            <div xml:id="Art.28">
+    <head>[Art. 28]</head>
+<p>
+Item es ist ain yeder geschworner schitz oder knecht, dem zuͦ rügen bevolhen
+ist in der sach, die im ist befolhen zuͦ rügen, ainig zuͦrecht
+gnuͦgsam, ainen oder mer zuͦ besagen umb ain rügung, wo söllich rügunge
+nit berürt oder antrifft  glimpf oder ere : als ain noͧm ligends holtz im
+wald, ain nacht hoͧw und dergelychen ongefaͧrlich taͧtten, dero der
+tätter abred ist. Wann aber söllich rügung berürt glimpf oder ere, so staͧtt
+die besagung zuͦ erkantnuß ains gerichtz und doch in dem allem dem
+geruͦgten onabgeschlagen, ob er sich begerte zuͦ besetzen oder sich
+gnuͦgsam möcht entschuldigen, das im onrecht beschech.</p>
+            </div>
+            <div xml:id="Art.29">
+    <head>[Art. 29]</head>
+<p>
+Item wirdet ainer beclagt im rechten, der seiner eren mit recht entsetzt ist,
+und der kleger mag sein clag wider denselben anders nit darbringen dann durch
+sich selber. der cleger behalt die sach nit, sonder der entsetzt mag für die
+beschuldigung staͧn mit gelüpt und aide, die in der wyße im erkennt und
+geben werden söllen; aber derselb entsetzt mit recht mag als ain kleͣger im
+selber nichtz behalten on anderer bewysung, der zuͦrecht gnuͦg ist. Ain
+söllicher mag ouch kainem andern mit zügknuß im rechten hilflich sein, noch
+yemands bezügen noch besagen.</p>
+            </div>
+            <div xml:id="Art.30">
+    <head>[Art. 30]</head>
+    <p>
+Item kain keͣrfzedel oder keͣrfholtz, wann der ander taile den gegenzedel
+oder das gegenholtz dagegen nit leit und des lögnet, ist nit gnuͦgsam
+zuͦrecht den andern <pb n="Bl. 7 v"/> tail zuͦ besagen oͧn verer
+urkünd oder umbsteͣnde, die demselben zedel oder holtz billich ain glouben
+gebeͣren, doch sol der, so deß kerfholtz oder zedelß abred ist, ain <pb n="Rau/Sydow 13"/>
+ayd swoͤrn, das er deß gegenholtz oder zedelß nit hab
+oder wiss vorhanden gewesen sin.</p>
+            </div>
+            <div xml:id="Art.31">
+    <head>[Art. 31]</head>
+<p>
+Noch ouch kein vermainte unbesigelte handtgeschrift ains, der in leben nit wer
+oder, ob der lepte, der doch nit bekantlich weͣr, söllich sein
+handtgeschrift wesen, ist gnuͦgsam zuͦrecht, den, der das geschriben soll
+haͧn, ob es ine antrift, zuͦ besagen, es wurde dann fürgebraͧcht, wie
+gnuͦg zuͦrecht ist, das es deß, den die sach berürte, handtschrift sye,
+oder das söllich handtschrift aim gericht oder ir etlichem selber bekantlich
+sye, oder weͣr es, das sölliche handtgeschrift, keͣrfzedel oder
+keͣrfholtz von baiden tailen gelegt weͣr zuͦ gemainer hande hinder ain
+richter oder ainen glouphaftigen man, umb ir yettweders würde dem lögenden
+taile sein nit bekennen destminder hilf gebeͣren.</p>
+            </div>
+            <div xml:id="Art.32">
+    <head>[Art. 32]</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.10">NürnbRef. 1479
+VIII 10</ref>]</p>
+    <p>
+Item wölliche parthy im rechten ir thuͦt vorbehalten, in der widerparthye
+kuntschaft beide wider die person und dero sagen zuͦ reden rechtlich, dem
+wirt das mit recht zuͦgelaͧssen, und voruß der zügen sagen im rechten
+offenlich gelesen; dann ist ouch der widerparthy ir gegenwöre zuͦ der person
+und der sach behalten.</p>
+            </div>
+            <div xml:id="Art.33">
+  <head>[Art. 33]</head>
+  <p>
+Item yede parthy, die sich kuntschaft berömbt, besonder so dieselben parthyen
+oder die zügen ußlüt syen, soll erkeͣnnt werden zug und zille sechs wochen
+und dry tag, in der zytte söllich kuntschaft zuͦlaiten, schriftlich oder
+muntlich, wie ain parthy des wöll geniessen; erscheint aber ain
+kuntschaftstöller, ursach daran ain gerichte habend weͣr, das er in der
+zytte söllich kuntschaft nit möchte gehaben, sölte dem lenger tag gegeben
+werden und das staͧn zuͦ erkanntnuß ains gerichtz. Sunst wirdet in ainer
+yeden sach kuntschaft zuͦgelaͧssen und ufgenomen, ye mer und minder  nach
+gestalt des handels und der sach, es beruͦrte guͦt wenig oder vil, erb,
+aigen, fridbrüch, ere, lyb und leben; und soll das ouch staͧn zuͦ
+erkantnus ains gerichtz.<pb n="Bl. 8 r"/> </p>
+            </div>
+            <div xml:id="Art.34">
+ <head>[Art. 34] So die zügen zuͦgelassen und mit urtail zuͦ verhören
+erkennt werdent.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.8">NürnbRef. 1479
+VIII 8</ref>]</p>  
+  <p>
+Item getzügen söllent uf erbiettung und begerung der parthyen im rechten mit
+urtaile zuͦgelassen und erkent werden, und nemlich die, so den parthyen
+ußtreglich syen; und nach söllicher zuͦlaͧssung oder rechtlicher
+erkantnuß söllen die parthyen umb klain und gemain sachen und hendele söllich
+ir kuntschaft bestimen und neͣmen onverzug und noch sitzende der richter. Wa
+sie aber an wytter und mer kuntschäfter dächten, diewyl dann das gerichte
+weͣret und der eͣndtlich rechtsatz als noch nit bescheen weͣre, so
+werden inen dieselben kuntschäfter ouch zuͦgelaͧssen. Und wann die selben
+zügen personlich vor dem gericht erscheinen, so soll der amptman inen uf ir aid
+befelhen ain luttere waͧrhait umb die sach zuͦ sagen, darumb dann uf sie
+zogen ist, neͣmand zuͦlieb noch zuͦlaid; doch soll inen die sach an ir
+selbs, daruf sie sagen söllen, uf das kürtzst lutter und versteͣndtlich
+zuͦvor zuͦ erkennend gegeben werden; dann wölliche parthy des nit
+embeͣren wöll, so müssen die zügen ir gethaͧn sagen mit iren aiden
+besteͣtten, das dieselb ir gethaͧn sag waur sye. Darnach soll man ainen
+zügen nach dem andern verhören ordenlich oder mitainander samentlich, ob anders
+die sach ain söllich gestalt hette. Und insonder in großen treͣffenlichen
+heͣndeln soll ain züg nach dem andern und in abweͣsen seins mitzügen und
+der parthyen ordenlich verhört und sein sage uffgeschriben werden, das allwegen
+durch ermessen und lütterung der richtere gescheͣhen soll. Und wann die
+sach, darumb der krieg und span ist, so treͣffenlich oder das der zügen sag
+über veld oder in ander gerichte söllt gelait werden, <pb n="Rau/Sydow 14"/>
+oder das die ain parthy des zuͦvor in irem fürtrag mit ußtruckten worten
+begeͣrt heͣtt, das die zügen vor irer sag söllen schweren, alsdann so
+söllen die zügen vor irer sag schweren, das sie um die gantz sach und besonder
+uff die artikel, darumb sie sagen söllen, die inen ouch lutter und
+versteͣntlich, wie obsteet, soll geöffnet werden, ain lutter warhait sagen
+wöllen, nemands zuͦlieb noch zuͦlaid, und das nit underwegen laust weder
+von miet oder anderer sach wegen; und soll der widerparthye darzuͦ verkündt
+werden, söllich aid der zügen sehen und hörn zu schwören. <pb n="Bl. 8 v"/> Man
+mag ouch nach der stat recht ainem yeden geschwornen statschryber comitiern und
+bevelhen, zügen zuͦ verhören und die uffzuͦschryben; doch wa die sach
+dermaͧß gestalt weͣre und es ain gericht noͧtt bedychte, daz dann
+allwegen zum minsten zwen richtere darzuͦ von ainem gericht verordnet daby
+sitzen, das es uffrecht und redlich zuͦgange. Und insonder söllent die zugen
+im verhörn aigenlich gefragt werden der ursach irs wissentz.</p>
+            </div>
+            <div xml:id="Art.35">
+  <head>[Art. 35] Wölliche personen zügknuß geben mögen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.11">NürnbRef. 1479
+VIII 11</ref>]</p>
+  <p>
+Item es mögen die nachgemelten personen nach der stat recht kain
+rechtmeͣssig zügknuß noch kuntschaft geben, mit namen personen, die under
+viertzehen iaͧren sind ungevarlich; ouch die thoren, mönigen, unsinnigen,
+darzu die bännigen und die in der aucht syend; doch das söllicher ban oder
+aucht in acht tagen darnach den neͣchsten nach erkantnuß des rechten bewyst
+werde; und ouch die erloͧßen als mainaidig oder ander derglychen
+offenbaͧrlich verlümbdet personen; item die frowen in sachen der gmeͣcht
+und gescheͣfft als testamenten, letsther will und derglychen, ouch in
+pynlichen sachen mögen nit kuntschaft geben. Darzuͦ vatter und muͦtter
+mögen für ire lyplich künd, desglychen die künd für ir lypplich vatter und
+muͦtter zuͦ gezügknuß nit zuͦgelaͧssen werden, och lypplich brüder
+und schwestern gegenainander, ußgenomen in hyratsachen. Dessglychen dingt und
+brött knecht und mägt, die alle würdit dann vom widertaile mit willen
+naͧchgelaͧssen; oder aber, das usserhalb diser zügen und
+kuntscheͣftern gebruch erschine, also das man ander nit gehaben möchte,
+alßdann in söllichem fale soll es allweg stoͧn in achtung, ermessung und
+zuͦlaussung der richter und ir erkantnuß, wievil gloͧbens der kuntschaft
+zuͦ geben sye und im rechten uff ir tragen sölle, nach der stat recht alles
+ungevarlich.</p>
+            </div>
+            <div xml:id="Art.36">
+  <head>[Art. 36]</head>
+  <p>
+Und nachdem frowenpersonen bisher in diser unser stat Tüwingen ainen man nit
+hand mögen übersagen, und aber söllichs wider das <pb n="Bl. 9 r"/> gemain
+recht ist, ouch dardurch mancher seins rechtens verhindert möchte werden, so
+setzen und wöllen wir, das furterhin der frowen zügknuß über obgemelten ußzug
+und satzung im rechten	für kreftig erkeͣnnt und geachtet werden soll,
+soverr anders dieselben froͧwen ains erbern wesens und lümden
+sind.</p>
+            </div>
+            <div xml:id="Art.37">
+  <head>[Art. 37]</head>
+  <p>
+Ob aber über die obgemelten personen und zügen vom widertail angefochten
+wurden, das sie nit sagen sölten, uß ursach, das sie die anclagt sache angieng
+oder das sie der geniessen und entgelten möchten, alßdann soll nach der stat
+rechte erkennt werden: wöllicher züg schwören möge, das ine die angeclagt sach
+nit angange und er <pb n="Rau/Sydow 15"/> der oͧch nit wiß zuͦ geniessen
+noch zuͦ engelten, derselb züg soll alßdann zuͦgelaͧssen werden, es
+were dann, daß dagegen die anfechtent parthy ursach anzögte und ußfürte, darumb
+derselb zug billich in der sach nitt zuͦgelaussen sölt werden.</p>
+            </div>
+            <div xml:id="Art.38">
+  <head>[Art. 38] Von kuntschaft zuͦ ewiger gedechtnuß.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.13">NürnbRef. 1479
+VIII 13</ref>]</p>
+  <p>
+Item es sollen in recht zügen oder kuntschäfter nit zuͦgelassen noch
+ufgenomen werden, vor und ee die ze stellent mit recht erkennt werden, es
+weͣre dann sach, das yemands die stellen wöllte zuͦ ewiger gedechtnuß,
+alsdann, so dieselb parthy in sorgen und geferlichkait stünde, das söllich
+personen, soverre ußr land faren oder ziehen wölten oder mit söllicher
+kranckhait oder alter beladen weͣren, das dieselb parthy söllicher
+kuntschaft vor irer stellung und fürung möchte beraͧpt werden. Und söllich
+personen sollen vor irem ordenlichem richter oder irem comissarien oder aber
+vor ainem ussern richtere durch befelch und beͣttbrief fürgenomen und gefürt
+werden mit gerichtlicher oder rechtlicher erforderung der widerparthy, die das
+berürt und antrifft; die dann ir protestacion oder bezügung thuͦn und ir
+interrogatoria geben mögen, ob sie will, wie sich dann gebürt und recht ist.
+Und so sölliche zügknuß und sag beschicht, soll die also verschlossen und
+ungeöffnet by demselben richter belyben bis zuͦ rechtlichem pruwch. Ob aber
+dieselb kuntschaft in ainem iaͧre <pb n="Bl. 9 v"/> dem nechsten darnach nit
+gebrucht wurde, so ist die alßdann und fürbasser erloschen, unbündig und
+craftloͧs, ungevarlich; doch ob ainer ursach sins lenger stillstandß
+fürbrechte, die ain gericht für genuͦgsam erkannte, solte dieselb kuntschaft
+dannocht nach iars verschinung kraft haben.</p>
+            </div>
+            <div xml:id="Art.39">
+  <head>[Art. 39] Von verhörung artzat und handtwerckslytt.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.15">NürnbRef. 1479
+VIII 15</ref>]</p> 
+  <p>
+So die parthyen speͣnnig werdent umb lyb oder wund artzny, so söllent die
+geschwornen lyb und wundartzt darumb verhört werden, und so von denselben
+artzeten gruntlich underrichtung und gelegenhait der wunden, und ouch das der
+schad nach seiner nathur wol gehailt oder verwarloͧsung deßhalb beschehen
+sye, verstanden und gemerckt wirdt, so soll daruff geschehen, sovil und recht
+ist. So aber irrung firfielen manicherlay machlöne und arbait halben, allerlay
+handtwerck berürend und antreffende, so söllent allwegen die geschwornen
+maistere ains yeden handtwercks umb das, so ir handtwerck berürt und antrifft,
+verhört werden. Wa aber die geschwornen nit weͣren, oder die sach sie selbs
+antreͣffe, söllent ander gloubwirdig maister desselben handtwercks darumb
+gehört werden, und darnach und nach allem firbringen von baiden tailen soll
+furter geschaͧhen, was recht ist.</p>
+            </div>
+            <div xml:id="Art.40">
+  <head>[Art. 40] Kuntschaft uff ia oder uff nain dienende.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=8.6">NürnbRef. 1479
+VIII 6</ref>]</p>
+  <p>
+So ain parthy ir furbringen uff ia oder beschechne ding und die ander uff nain
+oder nit uff beschechne ding setzet und ietliche parthy vermaint, das sin
+zuͦ bewysen etc., ordnen wir, das man der parthy, so ir fürbringen uff ia
+und geschechne ding setzt, bewysung ertailn söl und nit der andern parthy, so
+sich mit dem nain oder leugnen behelfen will, es were dann sach, das sollich
+leugnen oder nain besondern bystand <pb n="Rau/Sydow 16"/> oder umbstend hette,
+daruß man ia oder beschechne ding wol verstoͤn moͤcht; das och zu der
+richter erkantnuß ston sol.<pb n="Bl. 10 r"/>
+                </p>
+            </div>
+            <div xml:id="Art.41">
+    <head>[Art. 41] Wie man farend guͦt veriaͧret und hersitzt.</head>
+    <p>
+Wöllicher mensch, der zuͦ seinen tagen komen ist, gestaͧtt, das ain
+freͣmbder sein guͦte inhaͧt in nuͦtz und gewöre, so lang bis das es
+zuͦ dem rechten gnuͦg ist, oͧn alle rechtliche erfordrung oder
+verschwigt sich, und haut der besitzer oder inhaber das guͦtt ersessen,
+der verweͣret, das man haißt veriaͧret und in latein prescgripcio,
+also vil das er dasselb guͦte mit gott und recht behalten mag, wiewol
+es im anfang nit sein ist gewesen, wann er anders das guͦte durch
+redlich ursach an sich gebraͧcht haut, und für sein aigen guͦte die
+gepürlich zytte besessen; hette er aber in der zytt ye gewist, das dz
+guͦte im nit zuͦgehört hette, so hilft in nit das inhaben und lengin
+der zyt, sonder so ist er schuldig, das widerzuͦgeben dem rechten
+herren, uff die mainung: so spricht man, das hundert iaͧr unrecht
+gethaͧn wirt nymer recht gethaͧn.</p>
+            </div>
+            <div xml:id="Art.42">
+<head>[Art. 42] Wie varende hab ersessen mag werden.</head>
+    <p>
+Weͣr da varende hab oder beweglich guͦt zuͦ seinen handen gebraͧcht
+haut durch kouf, gaub oder ander redlich sach oder tittel, damit man
+dann frömbd guͦt zuͦ aigen überkomen pfligt, und haut dasselb guͦt in
+besitz oder gewöre drüw gantze iaͧr als für sein aigen guͦte, so haut
+er es herseͣssen, verweͣrt oder veriaͧrt, das es sein ist, obwol der
+recht herr es anspreͣche, es weͣre dann, das es gestoln, geroͧpt oder
+mit offem gewalte entwert weͣre; damit soll es gehalten werden, als
+hievor von bewysung oder gewöre ungepürlicher entwörung geschriben
+staut.</p>
+            </div>
+            <div xml:id="Art.43">
+  <head>[Art. 43] Wie ligende güter ersessen werden.</head>
+  <p>
+Weͣr freͣmbd ligend guͦte zu seinen handen bringt durch redlich
+ursach oder tittel und das für sein aigen guͦte inhaut in nutz und
+gewöre zehen gantzer iaͧre, oͧn alle rechtliche anspraͧch, der
+haͧtt
+es erseͣssen nach der statt <pb n="Bl. 10 r"/> rechte gen den
+inleͣndschen; ob aber der recht herr des guͦtz die zytt nit anhaimsch
+geweͣst weͣre, so wirt es ersessen mit zwaintzig gantzer iaͧren, und
+nit minder.</p>
+            </div>
+            <div xml:id="Art.44">
+  <head>[Art. 44] Wie kirchengüter ersessen werden.</head>
+  <p>
+Doch so mag sich die kirch oder gotzhüßer nach den rechten in dem
+gesatzt und allen nachgeͣnden nit verschwygen mit zehen oder zwaintzig
+iaͧren, sonder mögent sölliche güter allain in viertzig iaͧren
+ersessen und veriaͧret werden von denen, die durch redlich sachen ain
+yngange gehept haͧnd; on das so mögend der kirchen pfründen oder der
+gotzhuß gütter oder gerechtigkait allain veriaͧren durch lenger
+inhoͧn, dann es neͣmand verdeͣncken mag.</p>
+            </div>
+            <div xml:id="Art.45">
+  <head>[Art. 45] Von zinsen und gülten.</head>
+  <p>
+Wer uß ainem guͦt zinß oder gült richt zehen iaͧre, der soll den zinß
+oder gülte fürbaß richten, und ob der, dem er gericht ist worden, sin
+nit embeͣren will, so soll der zinßman oder, der die gült also gericht
+haut, ain guͦt beneͣmen, daruff man den zins behab, daran der aigenman
+habend sein möge, nach ains gerichtz erkeͣnnen; deßglychen wa der
+zinßman des zinß bekantlich und doch von alterher kain schrift darumb
+weͣre, so soll er, soverr er vom aigensman darumb ersuͦcht wirdt, im
+schuldig sin, brief und sigel umb den gichtigen zins zuͦ geben, doch
+uff des aigenmans costen.
+<pb n="Rau/Sydow 17"/>
+                </p>
+            </div>
+            <div xml:id="Art.46">
+<head>[Art. 46] Von zinsen oder gülten.</head>
+<p>
+Wer sein zinß oder gülte, die er haut, in zwaintzig iaͧren nit ynbringt
+oder zuͦ dem allerminsten nit rechtlich ervordert ainmaͧle in den
+zehen iaͧren, der hat sich verschwigen, also das inn darnach weder
+<pb n="Bl. 11 r"/> brieff noch sigel hilft, es weͣre dann, das
+er nit anhaimsch geweͣst weͣre, so soll die zeit seins abwesens nit
+gerechnet werden in den iaͧren, oder wann er sunst ander redlich
+entschuldigung hette seins stillstaͧns, daran ain gerichte begnügen
+möchte haben.</p>
+            </div>
+            <div xml:id="Art.47">
+<head>[Art. 47] Wie man gerechtigkait in frembden güttern veriaͧret oder
+hersitzt.</head>
+<p>
+Wer vermaint gerechtigkait zuͦ haͧnd uff oder in freͣmbde güttere, es
+sye zuͦtrib oder zuͦtratt oder holtzen uß freͣmbden weiden, wägen
+durch frömbde gütere oder ander derglychen dienstberkaiten, der soll
+zaigen und darthuͦn, das zuͦ dem rechten gnuͦg ist, dz er deß ze
+thuͦnd macht hab; dann will er sich allain behelfen deß herkomens und
+gebruchs, so muͦß er wysen claͧrlich, das er söllichs also
+hergebraͧcht und genossen hab durch sich und sein fordern tryssig iar
+mit gedult dess aigenmanß und oͧn intreͣg. Und wa das nit geschicht,
+so soll der oder die, dem die aigenschafft zuͦstaͧt, mit recht fry
+ledig erkeͣnnt werden.</p>
+            </div>
+            <div xml:id="Art.48">
+  <head>[Art. 48] Wie gerechtigkait verlorn wirt.</head>
+<p>
+Wer sich vermist, gerechtigkait zuͦ haben in oder uff frembden gütern,
+es sye mit tratt, mit wege, steͣg, holtzhoͧwen oder anders
+deßgelychen, und sich söllicher gerechtigkeit nit brucht in zehen
+iaͧren doch ainmaͧle, so er sich doch der in solicher zytt wol het
+moͤgen gebruchen, der haut sich damit verschwigen und sein
+gerechtigkait verloren, er möchte dann bybringen, das er sölliche
+gerechtigkait erkouft oder sunst durch redlich ursach an sich gebraͧcht
+hette; alßdann so verschwygt man sich allain in zwaintzig iaͧren nach
+der stat recht.</p>
+            </div>
+            <div xml:id="Art.49">
+<head>[Art. 49] Was nit geweͦr haut.</head>
+<p>
+Was nit geweͦr haut oder beseͣss, das mag ouch nit ersessen werden;
+darumb <pb n="Bl. 11 v"/> so mag ain pfand oder lehen nit
+ersessen werden für aigen von denen, die es zuͦ pfand inhaben oder zuͦ
+lehen tragen. Deßglychen ist ouch zuͦ verstaͧnd von allem dem, das
+ainem zuͦ seinen handen kompt durch söllich tittel oder ursach,
+dardurch man nit pfligt aigenschaft zuͦ überkomen als: da ainer dem
+andern allain ain zytt zuͦ bruchen oder zuͦ niessen gewalt gytt, es sy
+huß, hof oder ander guͦt, oder da ainer ainem söllichs sein leben lang
+und nit wytter vergündt zuͦ gebruwchen; lepte dann der hundert jaͧre,
+so hette er doch kain aigenschaft erseͣssen, sonder wenn die iaͧr uß
+weͣren, so weͣre ouch das guͦt fry und ledig; desglychen wa etwas
+hinder ain in getrüws handen gelegt weͣre, mag ouch nit ersessen
+werden; es mag ouch kain lay zehenden oder ander gaistlich sachen allain
+durch veriaͧrung ersitzen, alles nach gestalt ainer yeden sach und
+erkennen der richter ungefaͧrlich.</p>
+            </div>
+            <div xml:id="Art.50">
+  <head>[Art. 50]</head>
+  <p>
+Item wa ainer dem andern schmaͧch oder scheͣltwordt, glimpf oder ere
+berürende, zuͦgelegt oder geredt hette, laussent dann der, dem söllich
+schmaͧch und scheltwordt gethaͧn syen, die sach, nachdem im die kundt
+und wissent gethaͧn wirt, ain iaͧr und ain tag ruͦwen on rechtlich
+erfordrung und ersuͦchung, so soll er mit hinschlyssung söllicher zytte
+sein recht und anspraͧch verloren haben, es weͣre dann sach, das der
+kleͣger ursach zuͦrecht gnuͦgsam fürbreͣchte, das er uß
+unwissenhait
+oder anderer
+<pb n="Rau/Sydow 18"/>
+redlicher verhinderung die obgemelten zytt stillgestanden und sunst
+seinthalb an im nit erwunden sye, doch so soll das alles staͧn zuͦ
+ermessung der richtere.</p>
+            </div>
+            <div xml:id="Art.51">
+<head>[Art. 51] Von Vorgang der clag der aigenschaft oder possess.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=29.3">NürnbRef. 1479
+XXIX 3</ref>]</p>
+  <p>
+Wann zwü parthyen gegenainander in recht stennd und der ain tail durch
+aigenschaft oder herrschaft und der ander tail durch possess und veriaͤrung
+der sach in recht anzucht oder geprucht, so soll die parthy, so umb
+veriaͤrung und posses zuͦ clagen vermaint, von erst zuͦgelaussen
+werden und darnach allererst die ander parthy, onangesechen welche clager oder
+antwurter sy.</p>
+            </div>
+            <div xml:id="Art.52">
+<head>[Art. 52] Von erbschaft und anfangs von eegemechit, die noch nit
+bygeschlauffen
+sind.</head>
+<p>
+Begibt sich, das zway zuͦ der ee gryffend und dz das ain, vor und ee sie
+byschlauffend und inen die ee vor der kirchen gemacht ist, mit toud abgeet, und
+denn zwitrecht und krieg entsteet umb das guͦt etc., so soll kains das ander
+erben sonder soll das abgestorben guͦte seinen nechsten fründen sein und
+belyben; und dann so haͧnd sie beschlauffen, wann die decken den man mit der
+frowen beschlecht.</p>
+            </div>
+            <div xml:id="Art.53">
+<head>[Art. 53] Wie ain eegemechit das ander erbt.</head>
+<p>
+Item wa zway zuͦsamen in die ee komen und darnaͧch ains vom andern von
+toͧde abgaut on libeserben, in abstygender linien, von inen baidensampt
+geborn, so erbt alles guͦt, das sie baide gehept haͧnd, hie nach der stat
+recht uf dz, das in leben blypt, oͧn all widerfeͣlle, es weͣre dann
+sach, dz das guͦt vor ain verfangen guͦte weͣr gewesen, oder ob es
+lehen weͣre und deshalben hinder sich fallen sölte, oder ob sie mit sonderm
+geding zuͦsamen komen weͣrent; da soll es in yedem fale nach seiner
+aigenschaft und gestalt gehalten werden.</p>
+            </div>
+            <div xml:id="Art.54">
+  <head>[Art. 54] Aber von erbschaft der eegemechit, verfangne güter
+berürende.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=13.2">NürnbRef. 1479
+XIII 2</ref>]</p>
+    <p>
+So ain eegemechit vor dem andern todes abgaͧt und eeliche künder oder
+kindskündere von inen baiden geborn hinder ime verlauset, so erbt uf das
+eegemechit, das dannocht in leben ist, nach der stat recht alle farend
+hab; dasselb soll ouch alle schuld, so sie by und mitainander gemacht
+heͣtten oder sunst schuldig weͣren, bezalen und ußrichten, soverr
+dieselb varend hab raichet; aber die ligenden güter und was nit varend
+hab ist, wirt und ist ain verfangen guͦte den künden oder kündskünden,
+doch so haut das lebendig eegemechit seinen lebtagen und nit leͣnger
+den bysitz und genieß by denselben ligenden güttern, mit erziehung und
+hinbringung derselben künde; doch so soll und mag es von denselben
+verfangnen güttern nützit oͧn werden noch vereͣndern oder beschweͣrn
+<pb n="Bl. 12 v"/> oͧne eehaftig noͧtt, die vor gericht in
+bywesen der neͣchsten fründ erschaint werden soll. Die beliben person
+soll ouch die verfangen gütter in guͦten eren und blypplichait  haben
+und halten, wie dann das alles von alter herkomen und gehalten ist, und
+umb deßwillen, das hiemit kain gefeͣrd gebrucht weͣrde, so soll das
+eegemechit, so in leben ist, infang in gegenwirtigkait der nechsten
+fründ egemelter künd in schrift übergeben und hinder ain gericht legen
+alles verfangen guͦtte.</p>
+            </div>
+            <div xml:id="Art.55">
+  <head>[Art. 55]</head>
+  <p>
+Und weͣr sach, das dannocht an den verlaussnen ligenden güttern noch
+etwas onbezalt ußstünde, was dann naͧch der gebrochen hand daran bezalt
+wirdt, dasselb ist nit verfangen. Weͣren ouch ligende güter verkouft
+worden, ee es zuͦ ainer gebrochen hand komen weͣre, die dannocht zuͦ
+der zytte der gebrochen hand alß noch nit bezalt weͣren, was dann
+naͧch söllicher gebrochen hande dannocht usstünde, dasselb
+<pb n="Rau/Sydow 19"/>
+ist varende hab und ouch nit verfangen, es weͣre dann, so söllich
+verkoͧfen bescheͣhe, das dagegen andre güter kouft und also angesehen
+wurde, das ain schuld die andern bezalen sölte, ouch ain schuldnere an
+den ändern verstoͧssen wurde, und sünst neͣmands andern derselben
+schulden halp verbunden weͣren; wann es also redlich zuͦgaͧt, so ist
+dasselb ouch ain verfangen guͦte.</p>
+            </div>
+            <div xml:id="Art.56">
+  <head>[Art. 56]</head>
+  <p>
+Item sind schulden da, die vor der gebrochen hande von den
+eegemeͣchiten gemacht weͣren, ist dann nit mer varend hab da, dann ain
+gericht der beliben persone nach ir gelegenhait zuͦlaußt, soverr anders
+dieselb persone nit erben wölt: so söllen dieselben schulden von den
+verfangnen güttern bezalt werden; weͣr aber etwas überiger farender
+habe da, die ain gericht der beliben persoͧne nit zuließ, die soll ouch
+an söllich schuld geweͣndt werden.</p>
+            </div>
+            <div xml:id="Art.57">
+  <head>[Art. 57]</head>
+  <p>
+Item ob es ouch ain söllich gestalt heͣtte, daz sich die beliben
+persoͧn von den nützen der verfangnen gütern nit betragen und ernören
+möchte, und ouch der varenden habe nützt vorhanden ist; und ob wol
+farende hab da gewesen, das die nit zuͦ unnutz verthoͧn worden weͣre,
+wyle dann dieselb beliben <pb n="Bl. 13 r"/> person in
+witwenstaͧtt ist; wann sie dann vor gericht eehaft noͧtt erschaynt, so
+gündt man ir von den verfangnen güttern ains anzuͦgryffen, nach ains
+gerichtz erkennen, also das die begerend person zuͦvor soll schweren
+ain aide lypplich zuͦ Gott und sein hailigen, daz ir söllich angryffen
+brotz noͧdt thüe und das sie söllich noͧdt mit varender habe nit mer
+zuͦverkomen hab etc.</p>
+            </div>
+            <div xml:id="Art.58">
+  <head>[Art. 58]</head>
+  <p>
+Ob aber die beliben person sich anderweͣrtz verenderte, so soll diß
+vergünden nit zuͦgelaͧssen werden und mag alsdann in der selben andern
+ee ehaft not nit erschaynen.</p>
+            </div>
+            <div xml:id="Art.59">
+  <head>[Art. 59]</head>
+<p>
+Wenn ouch der berürten künd ains zuͦ der ee gryfft mit willen und
+wissen der beliben persoͧne, seins vatters oder muͦtter, oder sünst
+seiner nechsten fründe, so ist dieselb beliben person im von den
+verfangnen güttern schuldig ain zuͦgelte zuͦ geben, als dem verfangnen
+guͦt gemeͣß ist oder naͧch ains gerichtz erkennen, ob sie sunst
+gütlich nit ains werden möchten.</p>
+            </div>
+            <div xml:id="Art.60">
+<head>[Art. 60] Was varende hab sye, deßglych verfangne güter.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=13.5">NürnbRef. 1479
+XIII 5</ref>]</p>
+<p>
+  Item alle ligende gütter söllent verfangen sein. Item alle gült und zinß, sie
+syen öwig oder ablösig, werden nit für varend habe getzelt, sind ouch verfangen
+guͦte; deßglychen korn und wyn und alle frücht, allediewyl sie dem erdrich
+oͧngelediget anhangend oder an den reͣben, uf den bömen oder den helmen
+stünden. So aber die frucht davon kompt und entlediget ist, so wirdt es für
+varende hab gehalten. Visch in den besetzten wyern sind ouch varend hab, aber
+in den fliessenden wassern nit. Zinß und gülten, ouch all abnütz, so die
+verfallen sind, ist varend hab. Ouch all geltschulden und was man tryben und
+tragen mag ungefarlich, ist ouch varende hab.</p>
+            </div>
+            <div xml:id="Art.61">
+<head>[Art. 61] Wer die künd erben soll verfangnen güter halp.</head>
+<p>
+  So ain guͦt ainhendig ist worden von abgang des ainen eegemechits, sind
+<pb n="Bl. 13 v"/> dann mer dann ain künd in leben, den das guͦte verfangen
+ist, ob dann von den künden ains oder mer stirbt, nit destminder so belypt und
+erbt das verfangen guͦte uff die überigen künd, die dannocht in leben syen,
+ir syent wenig oder vil, nach der stat recht zuͦ Tüwingen, es weͣre dann
+sach, dz der abgangen kündere ains oder mer andere eeliche <pb n="Rau/Sydow 20"/>
+kündere hett, so söllen die selbigen kündskünd staͧn an ir abgangen
+vatter und muͦter statt, nach der ordnung meins gnedigen herren.</p>
+            </div>
+            <div xml:id="Art.62">
+<head>[Art. 62] Wie die künd gehalten werden sölln.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=13.2">NürnbRef. 1479
+XIII 2</ref>]</p>
+<p>
+  So ain guͦt also ainhendig worden ist wie obstaͧtt, so soll das beliben
+in der ee ziehen und hinbringen die künde naͧch des gelegenhait des
+guͦtz, und naͧch herkomen des geschlechts, soll ouch die künder nauch ir
+selbs und der neͣchsten fründe raut, so sie erwachsen sind, bestatten zuͦ
+gaistlichem oder weltlichem stand, alles nach gelegenhait der sach
+ungefeͣrlich.</p>
+            </div>
+            <div xml:id="Art.63">
+    <head>[Art. 63]</head>
+    <p>
+Waͦ aber das beliben in der ee der künd ains tails oder sie alle irs tails
+deß verfangen guͦtz entrichten wölte, so soll das ouch mit der neͣchsten
+fründ raute, wissen und willen fürgenomen werden, mit zuͦgebung pfleger oder
+versorger, nachdem die künd iung oder alt sind, doch so soll söllichs
+gescheͣhen vor vogt und gericht mit dem ermessen, das den übrigen kinden och
+sovil werden mög und des nit naͧchteil haben als mit húsern und schüren, so
+man die den letzsten kinden warten lies und denn durch brunst
+abgiengen.</p>
+            </div>
+            <div xml:id="Art.64">
+<head>[Art. 64] Von den, die anderweͣrb zu der ee gryffend.</head>
+<p>
+  So ain man oder wyb wölliches uß inen vor dem andern mit toud abgienge, so
+ist des abgegangen guͦte, das nit varend ist, ain verfangen guͦte den
+künden oder kündskünden, in irem weͣrd, doch also, dz das ander, das
+dannocht lebt, den genieß oder gebruwch sein lebtag daran haut, und ouch also,
+dz das belibent sines lybes noͧtt uf eehaft damit büssen mag mit erziehung
+und hinbringung der kündere, wie vor davon gesetzt ist. <pb n="Bl. 14 r"/> Ob
+nun der man oder die froͧw nach der ersten ee widerumb zuͦ ainer andern
+ee griffe, so offt sich das begeͣbe, so soll es allwegen geschriben geben
+alles verfangen guͦte, in bywesung der neͣchsten fründe, und hinder das
+gericht legen, by beroͤbung der abnütz zway die nesten iar von solichen
+verfangen guͤtter. Was aber es in witwen stuͦle gewonnen oder überkommen
+hette oder es angefallen weͣre in erbschaft, mitsampt sinen ererbten
+varenden guͦte, das alles volgt ime in die andere ee; also ob es abgienge
+vor sinem eegemechit oͧne künd von in baiden geporen, so erbt es, das in
+leben belibt, vor den vörigen kündern und mengclichem. Hett es aber künd mit
+dem eegemechit, so sölte es mit ir baider guͦte gehalten werden in all wyß,
+wie vor darvon in der ersten ee gesetzt ist; also was nit varend ist von ir
+baider guͦte, das wirt ain verfangen guͦte den künden derselben ee. Das
+farend erbt uff das, so in leben belybt, und erbend die künd der vorgeͣnnden
+ee gantz nichtzit, dann allain falt inn haim das guͦte, so inen verfangen
+was, es weͣre dann, dz das ander eegemechit vor sturbe und darnach alle
+künde, und zuͦ dem letsten das, so zuͦ der andern ee gegriffen haut;
+alsdann so nit künder noch kündskünder noch eegemechit hievor weͤre von der
+andern ee, so erbtent die ersten künder alß die neͣchsten.</p>
+            </div>
+            <div xml:id="Art.65">
+<head>[Art. 65] Das niemand sein verfangen guͦte oder erbfal, des er noch
+wartet, hingeben soll in kainen weg noch verendern.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.6">NürnbRef. 1479
+XIV 6</ref>]</p>
+<p>
+  Es sollen noch mögend die künde und lyplich erben ir künftig wart und
+erbfälle  es sye verfangen oder nit, von iren veͣttern, müttern oder eltern
+herrürende, vor und <pb n="Rau/Sydow 21"/> ee sie die erleben, hinder inen
+zuͦ vergeben, zuͦ verkoufen oder ainich schülde daruf zuͦ bekommen nit
+macht haben; wa es aber darüber gescheͣhe, so soll es doch weder kraft noch
+macht haben.<pb n="Bl. 14 v"/>
+                </p>
+            </div>
+            <div xml:id="Art.66">
+<head>[Art. 66] Von kündern, die in gewaltsami sind, nichtzit von schulden
+zuͦ machen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.7">NürnbRef. 1479
+XIV 7</ref>]</p>
+  <p>
+  Ouch setzen wir, das die künder, sune oder töchtern, die noch in versenhung
+oder gewaltsami ir lyplichen veͣttere, müttere oder fürmindern stend und nit
+hindan gericht sind, ainich schuld hinder denselben iren eltern oder fürminder
+nit machen mögent; und ob das darüber gescheͣhe, so sölltent sie, ir eltern
+oder fürmündere, denselben personen oder schuldigern darumb nichtzit verpflicht
+noch schuldig sein. Wa aber söllich gelihen gelte oder war noch by den künden,
+den es gelihen, oder iren eltern zu iren handen worden oder an iren kuntlichen
+nutz komen und geweͣndt weͣre, so soll das uff entschaid des rechten
+bezalt werden. So aber die künder mit wissen und gedult ir eltern oder
+fürmünder koufmanßwyße handelten, von den soll diß gesetz nit verstanden
+werden, sonder so söllent dieselben schulden, dergestalt erwachsen, nach
+gelegenhait und gstalt der sach und personen und naͧch ermessung des
+gerichtz bezalt werden.</p>
+            </div>
+            <div xml:id="Art.67">
+<head>[Art. 67] Von erbschaft in abstigender linien.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.1">NürnbRef. 1479
+XIV 1</ref>]</p>
+<p>
+  Item so vatter und muͦtter lypliche eeliche kündere, söne oder töchtern,
+hinder inen von ir baider lyb geborn laussend, so erbent dieselben künde nach
+der stat recht alle und yede  vetterliche und mütterliche hab und guͦte,
+varends und ligends und wie die namen haͧnd, glych mitainander, es
+weͣrent dann frye manlehen, die gehören den sönen zuͦ; doch so sölltend
+dieselben lehen den döchtern, ob die vorhanden weͣren, mit andern aignen
+güttern verglycht werden, nach zimlicher ermessung und ansehung, ob die lehen
+vil oder wenig von wegen der manschaft beschweͣrd uf inen trügen. Ob aber
+nützit aigens da weͣre dann die obgemelten lehen, so söllend <pb n="Bl. 15 r"/>
+die töchtern aber von den abnützen ußgestürt, und darinn aber
+angeseͣnhen werden die beschweͣrd der lehen, wie obsteet. Ob aber die sön
+und töchtern sich selbs des nit verainen möchten, so soll das staͧn zuͦ
+entschaid der mann und lech richtere. Aber die zinßlehen söllend sön und
+töchtern gleich tailen, es weͣre dann sache, das söllich zinßleͣhen mit
+sonder gewonhait oder geding anderst herkomen weͣrend. Ob dann ain vatter
+abgieng und töchtern ließe, und sovil aigner hab nit vorhanden weͣre, davon
+die töchtern nach ir anzale zimlich möchten ußgestürt werden, alßdann sollen
+die söne von den leͣhen und ab den nutzen derselben lehen, wa die mercklich
+besser weͣrend, den schwestern zimlich stür und widerlegung thuͦn, damit
+sie erberclich und der sach gemäß möchten ußgestürt werden. Und wa sie desselbs
+nit gütlich möchten ains werden, so soll das staͧn zuͦ entschaid vogts
+und gerichtz, wie sich gepúrt.</p>
+            </div>
+            <div xml:id="Art.68">
+  <head>[Art. 68]</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.1">NürnbRef. 1479
+XIV 1</ref>]</p>
+  <p>
+Item kündskünd in dem rechten stammen abstigender linien söllen nach der stat
+rechte an ir abgangen vatter und mütter statt staͧn, und ir aͤny und anen
+mit den rechten künden glych erben, die erbstuck sien gelegen, waͧ die
+wollen.<pb n="Rau/Sydow 22"/>
+                </p>
+            </div>
+            <div xml:id="Art.69">
+    <head>[Art. 69]</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.1">NürnbRef. 1479
+XIV 1</ref>]</p>
+    <p>
+    Item wa aber anherr oder anfroͧw nit eeliche lypliche künder, sonder in
+der rechten abstigenden linien ander erben in gelychen graͧden verliessen,
+so sollen dieselben alle glych mitainander erben als meͣnig mund als
+meͣnig pfund, das ist in die höptere und nit in den stammen.</p>
+            </div>
+            <div xml:id="Art.70">
+  <head>[Art. 70]</head>
+<p>
+  Deßglychen soll es mit dem erbfale ouch also gehalten werden: waͧ dry oder
+vier gebrüdere weͣren oder sovil schwestern, und das ain heͣtte zway
+eeliche künd, das ander drüw künd, das drit vier künd oder mer und das viert
+geschwistergit kain eelich künde, und zuͦvorderst giengen <pb n="Bl. 15 v"/>
+die drüw geschwistergit mit toͧd ab, die künder hetten, und darnach das
+vierd, das kain eelich künd gehept noch verlaͧssen haͧtt, so söllend der
+dryer geschwistergitt verlaͧssen künde iren abgangen vetter und bassen glych
+erben, wie neͣchst obstaͧt, nemlich als meniger mund als menig
+pfunde.</p>
+            </div>
+            <div xml:id="Art.71">
+<head>[Art. 71] Von erbschaft in uffstigender linien.</head>
+<p>
+  So yemand stirbt und laust sein lypliche muͦtter und darzuͦ sin
+veͣtterlichen anherren und anfroͧwen, und haͧt neͣmand in
+abstigender linien, alsdann erbt die muͦtter vor dem anherren und anfrowen;
+deßglychen ist ouch recht von dem vatter. Wa aber weder vatter noch muͦtter
+hievor ist, sonder anherr oder anfroͧw oder sunst in abstigender linien und
+neͣmand in uffstigender linien, so erbent an und äni und ye die neͣchsten
+als manig mund als manig pfund. Weͣrend aber ouch brüder oder schwester
+hievor, soll es gehalten werden, wie hernaͧch steet.</p>
+            </div>
+            <div xml:id="Art.72">
+  <head>[Art. 72]</head>
+<p>Ouch so söne oder töchtern on lypplich erben abgeͣnd mit toͧd, und
+laͧt lyplich vatter oder muͦtter oder sie baide, laͧt ouch
+geschwistergitt, so erbent vatter oder muͦtter vor den brüdern oder
+schwestern, naͧch diß lands gewonhait; doch mit verfangnem guͦte soll es
+gehalten werden als hie oben in ainem Statut gesetzt ist.</p>
+            </div>
+            <div xml:id="Art.73">
+  <head>[Art. 73]</head>
+<p>
+  Ob aber ettwar von toͧd abgaͧt und hat neͣmand in abstigender
+linien,
+ouch weder vatter noch muͦtter, aber er haͧt anherr oder anfroͧwen,
+darzuͦ geschwistergitt von vatter und muͦtter, so erbend die glych,
+als vil mund als menig pfund. Weͣrend aber die geschwistergitt allain
+von ainer sydten, so erbent anherr oder anfroͧw vor denselben. Und was
+gesetzt ist von anherren oder anfroͧwen, soll ouch gehalten werden von
+uränin und uranen, ob an und änin, vatter und mütter nit in leben
+weͣrent.<pb n=" Bl. 16r"/>
+                </p>
+            </div>
+            <div xml:id="Art.74">
+<head>[Art. 74] Von erbschafft geschwistergitten und ir künd.</head>
+<p>
+  So ains von tod abgaͧt und oͧn ain eegemechit und last nit lyplich
+erben in abstigender oder uffgeͣnder linien, sonder lypliche eeliche
+geschwistergit von vatter und von muͦtter versamentlichen, so erbent
+die alle gelych mitainander und schliessend uss alle geschwistergit
+künd, wie die genant syend, nach der stat gewonhait; sie schliessend
+ouch uß geschwistergit von der muͦtter allain und von dem vatter
+allain, angeseͣhen
+<pb n="Rau/Sydow 23"/>
+  das geschwistergit neͣher sind dann geschwistergitkünder, das ouch
+geschwistergit von vatter und muͦtter billich erben vor den von ainer
+sydten allain.</p>
+            </div>
+            <div xml:id="Art.75">
+    <head>[Art. 75]</head>
+<p>
+  Item wa yemand verlaͧßt des neͣchsten ain bruͦder oder schwester
+ainhalb, und geschwistergitkünd von vatter und muͦtter, so sollend die
+geschwistergitkünd das erb neͣmen vor dem bruͦder oder schwester
+ainthalb.</p>
+            </div>
+            <div xml:id="Art.76">
+<head>[Art. 76] Von erbschaft geschwistergit ainthalb.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=14.1">NürnbRef. 1479
+XVII 6</ref>]</p>
+<p>
+  So ains mit toͧd abgaͧt und laust nit eegemeͣchit oder sunst erben
+in abstigender oder uffstigender linien, ouch nit geschwistergit von vatter und
+muͦtter samentlich oder ir künder, sonder geschwistergit ainthalb, es sye
+von vatter oder muͦtter, oder geschwistergit ainthalb von vatter und ander
+geschwistergit ouch ainthalb von der muͦtter, die alle erbent glych
+mitainander, als menig mund als menig pfund.</p>
+            </div>
+            <div xml:id="Art.77">
+<head>[Art. 77] Von erb yttel geschwistergitkünd.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.7">NürnbRef. 1479
+XVII 7</ref>]</p>
+<p>
+  So ains stirbt und nicht geschwistergit, sonder zwayerlay oder mer
+geschwistergitkünder lässt, also dz das ainen geschwistergit künder mer und des
+andern minder an der zale weͣrend oder glych an der zal weͣrend, so
+söllend dieselben geschwistergitkünder alle und iede glych mitainander erben
+als maͤnig mund als menig pfundt, doch also, das der underschaid in
+obgesatzten statuten von erbschaft der geschwistergitkündere lutende begriffen,
+ob ire veͣtter <pb n="Bl. 16 v"/> von vatter und muͦtter oder allain von
+dem vatter oder allain von der muͦtter geschwistergit syen, söllen hie by
+den geschwistergitkünder ouch also gehalten werden.</p>
+            </div>
+            <div xml:id="Art.78">
+<head>[Art. 78] Von erbschaft der uffstigen mit denen zuͦ der sydten.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.8">NürnbRef. 1479
+XVII 8</ref>]</p>
+  <p>
+  So vorhanden ist iemandt uß uffstigender linien, als veͣtterlich oder
+mütterlich anherren oder anfroͧwen, und des abgegangen ungescheͣft
+vatters oder der muͦtter bruͦder oder schwester, so erbend die anherren
+oder anfroͧwen vor den yetzgemelten fründen uff der sydten.</p>
+            </div>
+            <div xml:id="Art.79">
+<head>[Art. 79] Von erbschaft geschwistergit ainthalb, wa vettern oder bassen
+sind.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.9">NürnbRef. 1479
+XVII 9</ref>]</p>
+  <p>
+  So ains verlaͧst seinen lypplichen brüder oder geschwistergit von dem
+vatter allain oder von der muͦtter allain, und darzuͦ sins vatters oder
+muͦttere lypplich geschwistergit von vatter und von muͦtter, so erbent
+die lypplichen geschwistergit ainthalb, es sye von dem vatter oder von der
+muͦtter, vor vettern, bassen, muͦmen oder öheim.</p>
+            </div>
+            <div xml:id="Art.80">
+  <head>[Art. 80] Von erbschaft zuͦ der sydten.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.2">NürnbRef. 1479
+XVII 2</ref>]</p>
+<p>
+  So yemand mit toud oͧn gemahel, oͧch oͧn lypplich eelich erben in
+abstigender oder uffstigender linien abgeet und neͣmand neͣher
+verlaͧßt dann sines lypplichen eelichen vatters lypplichen geschwistergitt
+von vatter und muͦtter versamptlich; oder dessgelychen seiner muͦtter
+geschwistergit, ouch von vatter und von muͦtterversamptlich, so erbent
+dieselben geschwistergitt des vatters und der muͦtter des abgestorben
+guͦte glych, nach anzale derselben personen <pb n="Bl. 17 r"/> ie ir ains
+sovil als das ander; und so aber das abgestorben verlaust sins vatters
+bruͦder oder schwester im versametlich verwandt und siner muͦtter
+geschwistergit von dem vatter oder von der muͦtter allain, so erbend
+dieselben des vatters versamite geschwistergitt vor der muͦtter
+geschwistergit von ainem eltern allain. Und deßgelychen soll es des gestorben
+muͦtter versampte geschwistergit halb gegen des vatters geschwistergit von
+ainem eltern allain ouch gehalten werden.<pb n="Rau/Sydow 24"/>
+                </p>
+            </div>
+            <div xml:id="Art.81">
+    <head>[Art. 81]</head>
+<p>Und ob das were, dz das abgestorben hinder im verliess sins vatters
+geschwistergit ainthalb gesipt und siner muͦtter geschwistergit ouch
+ainthalb gesipt, so erbent die gelych mitainander nach anzale der personen alle
+verlaͧssne hab. So aber mit des vatters oder muͦtter geschwistergitten
+zuͦ baiden sydten ouch hievor sind brüder oder schwesterkünd, ouch von
+vatter und von muͦtter, so erbent nach der statt recht bruͦders oder
+schwesterkind vor vatter und muͦtter geschwistergitt von baider sydt.
+Deßglych so erben och bruͦders oder schwesterkünd zuͦ ainer sydten och
+vor den ietz obgemelten vatter und muͦtter geschwistergitt, sie syent von
+baider sytt oder allain von ainer sytt.</p>
+            </div>
+            <div xml:id="Art.82">
+    <head>[Art. 82]</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.5">NürnbRef. 1479
+XVII 5</ref>]</p>
+<p>
+Und danach erben die fründe uf die sydten, ie die nechsten gesipten vor den,
+die wytter gesipt sind, ains als vil als das ander.</p>
+            </div>
+            <div xml:id="Art.83">
+<head>[Art. 83] Wie banckhart und wen sie erbent.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=16.1">NürnbRef. 1479
+XVI 1</ref>]</p>
+<p>
+  Alle banckhart, die von verdampter gepurt geborn werden, als von vatter und
+muͦtter, die alßdann kain ee miteinander besitzen oder haben möchten, die
+söllent noch mögent zuͦ ainicher erbschaft irs vatters noch ir muͦtter
+nit komen; ioch dürch gemeͣcht oder testameͣnt wol söllent die ertzogen
+werden von inen. Aber so die eltern sunst nattürliche künder usserhalb
+verdampter gepurt heͣtten, die möchten sie durch ir gescheͣft oder sunst
+mit zimlicher meßigung versehen, doch unschedlich den eelichen künden an dem,
+so inen durch gepürlich und nattürlich erb zuͦstaut.<pb n="Bl. 17 v"/>
+                </p>
+            </div>
+            <div xml:id="Art.84">
+<head>[Art. 84] Weͣr die banckhart erbet.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=16.3">NürnbRef. 1479
+XVI 3</ref>]</p>
+  <p>
+  So banckhart eeliche künder hetten oder ander in der abstigenden lingen, die
+erbent, inmaͧssen und vor von den eelichen künden gesetzt ist. Und welche
+banckhart ir vatter und muͦtter nit erbent, da söllent oüch herwiderumb
+dieselben eltern ir uneeliche künder ouch nit erben, uß gelycher ursach. Von
+wöllichen eltern aber die banckharten erbschaft habent, dieselben eltern mügent
+ouch sie widerumb erben. Und so aber die erbschaft dess banckharten nit uff den
+vatter, besonder uff die muͦtter zaigte und dieselb nicht in leͣben
+weͣr, und sunst neͣher erben nit vor handen weͣrent, so gefelt alßdann
+söllich erbschafft uf sin nechst gesipt erben der muͦtter halb. Und so aber
+der banckhart kain muͦtter, sonder lypplich geschwistergitt heͣtte von
+ainer muͦtter uf die zytt sins abgangs, so erbent dieselben geschwistergit
+vor andern fründen der muͦtter halben, doch alles, so der fall oͧn
+gescheͣfft beschicht.</p>
+            </div>
+            <div xml:id="Art.85">
+<head>[Art. 85] Von vellen, damit die künder ir erbtail verwirckent.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=15.2">NürnbRef. 1479
+XV 2</ref>]</p>
+<p>
+  Durch diß nachfolgende veͣlle mügent die eeliche und lypplich kund irer
+veͣtterlichen und mütterlichen wart und erbfalle benomen und enterbt werden
+durch testament und gescheͣft, also das söllich enterbung derselben personen
+mitsampt siner ursach in dem testament oder gescheͣft namlich gesetzt oder
+bestimpt werde; und das ouch naͧch abgang der eltern söllich bestimpt
+ursachen durch des abgegangen erben zuͦ denselben enterbten, ob die der in
+abred stienden, bewyßt werden. Und sind diß die ursachen:</p>
+  <p>
+Zuͦm ersten, so künder mit freveler gewaltsami ire eltern schlahen; zuͦ
+dem andern, so die künder schweͣr und unersamen unrecht oder freͣvel an
+ire eltern legen oder gen in fürneͣmend; zuͦ dem dritten, so die kündere
+ire eltern vor gericht beschuldigent<pb n="Rau/Sydow 25"/> oder ansprechent umb
+peͣnlich sachen oder umb sachen lyb oder leben <pb n="Bl. 18 r"/> anrürende,
+es weͣre dann das dieselb untaͧtt ain schwer verhandlung wider den
+römischen küng oder wider den gemainen staͧt und wesen der herrschaft wer
+worden oder die da ketzery antreͣffe; zuͦ dem vierden, so die künder mit
+gift oder in ander wyße sich understünden, das leben irer eltern abzestelen;
+zuͦ dem fünften, so die künder sich understanden hetten zuͦ vermischen
+oder zuͦ beschlauffen ir stiefmütter, irs lypplichen vatters eelich
+hüsfrowen; zuͦ dem sechsten, so die söne sich nit wollen verpflichten noch
+burge werden für ir eltern, so die in unzimlichen sorglichen gefengknussen
+begriffen sind, und diser vale berürt nit die töchtern, nachdem und die
+tochtern nit sollen bürg werden; zuͦ dem sibenden, so die künder verbietend
+iren eltern gepürlich testament oder gescheͣft zuͦ thuͦn, so doch
+söllich gescheͣft oder testament geschicht uß vernünftigen ursachen von aim
+gericht darfür geachtet und erkeͣnnt; zͦu dem achtenden, ob der soͧn
+ain offner zoͧberer oder lotter weͣr oder mit vergiftnuß umbgienge;
+zuͦ dem neünden, wann die tochter ain unkünsch leͣben und weͣsen
+ußerwelt, so doch der vatter sie nach sim vermügen wolt zuͦ der ee bestattet
+haͧn vor den fünf und zwaintzig iaͧren; zuͦ dem zehenden, ob der
+vatter sinnloͧss wurd und im dann die künde, so sie ioch rechtlich
+ersuͦcht werden, narung oder notturftig artzny verzyhent zuͦ raichen, als
+dann erbent die nechsten fründe, die sich söllicher pfleͣg underwindent;
+zuͦ dem ailften, so der vatter ain crist ist und die künd keͣtzer
+sind.</p>
+            </div>
+            <div xml:id="Art.86">
+<head>[Art. 86] Weͣr erbt, der soll bezallen.</head>
+  <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=15.3">NürnbRef. 1479
+XV 3</ref>]</p>
+<p>
+  Weͣr sich ains erbs annimpt, der soll ouch bezalen alle schuld deß, den er
+erben will, ob ioch der schülde vil mer ist, dann das erb ertragen mag. Darumb
+so mag sich ain yetlicher bedeͣncken, ob er erben wölle; dann man mag
+neͣman zwingen, das er sich erbes anneͣme. Doch so setzen wir, alß ouch
+das die geschribne recht inhaltend: ob ainer ain erbschaft verdacht heͣtte
+der schüld halben, also das er besorgte, ir möchte mer sein, dann das erb
+weͣrt weͣre, will er dann sicher sein, das er nit mer bezalen bedörf,
+dann das erb ertragt, so soll er, ee und dann er sich des erbes underzücht, ain
+<pb n="Rau/Sydow 26"/> inventari machen, das ist geschrift, die da inhalt alles
+des, so in der erbschaft ist. Also er soll begeren an ainen amptman, das er im
+zuͦgeͣbe zwen richtere, und vor denselben soll er mit kuntschaft
+laͧssen beschryben <pb n="Bl. 19 r"/> alle hab, es sye ligends oder varends 
+von stuck zuͦ stucken, nichtzit hindangesetzt, und soll ain zedel desselben
+inventaris gelichtergit antwürten zuͦ legen hinder ain gericht, damit alle
+geverde verhüt werde. Ist dann der schuld mer, also das die erbschaft nit
+gnuͦg ist, so wirdt er nit schuldig, ichtzit von dem seinen an die schüld
+zuͦ geben; ist aber etwas überigs, das ist sein als des rechten erbens. Ob
+er aber geverlich etwas von dem erb enthielte und nit uffschriben liesse, so
+soll er zuͦ ainer strauff verfallen sein, alle schulden ußzuͦrichten, ob
+er ioch ain inventari gemacht hette, alles ungefaͧrlich.</p>
+            </div>
+            <div xml:id="Art.88">
+<head>[Art. 88] Von hyrat der künder hinder iren eltern.</head>
+    <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=12.2">NürnbRef. 1479
+XII 2</ref>]</p>
+<p>
+  So künd, die in versenhung irer lyplichen eltern, vatter oder muͦtter, an
+oder enny, unbestatt ir eltern halb weren, sich selbs hinder inen verhyraten
+oder zuͦr ee gryffend, vor und ee sie dann fünf und zwaintzig iaͧr alt
+werdent, so söllend dieselben ire eltern, vatter oder muͦtter, in irem leben
+nicht schuldig sein, inen ainichen zuͦschatz oder hyratguͦt zuͦ geben;
+und so es aber zuͦ feͣllen keͣme, so söllent nichtzit destminder die
+andern geschwistergitt und miterben ir yngenomen zuͦscheͣtz und
+verglichigung der erlaͧssen erbschaft in weͣrfen. Oüch mügent ire eltern
+sie deßhalb in iren gescheͣften nit enterben, sonder sie sind schuldig
+nichtz destminder, sie erplich zuͦzelaͧssen, es weͣre dann, daz sie
+söllichs sust mit anderer handlung verwirckt hetten uff mainung ains besondern
+gesetztes davon begriffen.</p>
+            </div>
+            <div xml:id="Art.89">
+  <head>[Art. 89]</head>
+<p>
+  So aber die künd kommend über die fünf und zwaintzig iaͧre irs alters und
+verhyrand sich eelich und sonder gegen erbern personen, so syen ire eltern
+schüldig, inen zimlich zuͦgelt zuͦ geben. Und wa sie sich des selbs nit
+verainen mögend, so soll das staͧn zuͦ erkantnuß vogtz und gerichtz.<pb n="Bl. 19 v"/>
+                </p>
+            </div>
+            <div xml:id="Art.90">
+<head>[Art. 90] Von fürmünderschaft.</head>
+      <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=17.7">NürnbRef.
+1479 XVII 7</ref>]</p>
+<p>
+  Item wa da sind wäyssen, die weder vatter noch muͦtter haͧnd,
+deßgelychen wa da weͣrend sinnloͧss, toͧren, ouch die da mönig sind,
+zuͦ latein mentecaptos genant, darzuͦ touben, ungehörden oder stummen,
+ouch die, so beladen weͣrend mit öwiger kranckhait als bettrißen, so
+die all nit völlige vernunft habent, ir sach zuͦ handeln, da söllent
+die nechsten erbfründe oͧn vertziehen by verlierung irs erbs wertikait
+für ain gericht kommen, und umb furminderschaft bitten; und so die von
+aim gericht erwölt, söllent sie beschickt und mit gelübdt beladen
+werden, sölliche pflegnuss mit gantzen trüwen in ußgeben und ynnemen
+zuͦ thuͦn, als sie dann dem allmechtigen gott, ouch vor aim gericht,
+so sie deß erfordert werden, erbere rechnung thuͦn wollen. Und im
+anfange der pflegnuß söllend die fürmünder mit kuntschaft ain inventari
+in bywesen ains oder zwayer vom gericht darzuͦ verordnet machen, damit
+man ain wissen hab, was vor handen sye. Es söllent ouch die fürmünder
+von söllicher irer fürmünderschaft nit abstaͧn dürch trang oder begeren
+deren, den sie zuͦverordnet sind, sonder allain, so die formünder
+vermainend, daz sie uß billichen ursachen irer pflegnuß erlaͧssen
+werden, so soll das staͧn zuͦ ermeͣssung ains vogts und gerichtz.
+Und wöllen heruff ernstlich gebietende, daz furterhin yedes iäre von
+unserm vogt zuͦ Tüwingen uff ain genanten tag all obbestimpt formünder
+für ain gericht beschaiden und erfordert werden, ir
+<pb n="Rau/Sydow 27"/>
+pflegnuß erbere rechnung zuͦ thuͦn. Und soll alßdann daß remanet
+yedes pflegers insonder in ain gemain buͦch darzuͦ geordnet
+uffgeschriben werden.</p>
+            </div>
+            <div xml:id="Art.91">
+  <head>[Art. 91]</head>
+<p>
+  Ob ouch söllich verordnet furmünder und pfleger ir fürmünderschaft nit
+recht und redlich, sonder etwas gefaͧrlichs übten, dieselben söllent
+nach fürbraͧchten dingen und nach erkantnuß des rechten gestraͧft, und
+darzuͦ den schaden deßhalb oder damit zuͦgefügt zuͦ widerlegen
+verbunden und pflichtig sein. Und obwol ain pfleger für sich selber
+obgemelter gestalt nit mißhandelt, aber dürch versaͧmnuß siner
+verpflicht verheͣngt und gedüldt er es von sim mitpfleger, so sindt sie
+mitainander zuͦ glycher <pb n="Bl. 20 r"/> widerlegung und
+schaden verbunden. Es soll noch mag ouch kain fürminder koufen söllich
+hab oder gütter deren, der fürminder er ist, in der zytt siner
+furminderschaft, weder durch sich selbs noch durch ander mittelpersonen,
+es werde im dann vom vogt und gericht wissentlich vergöndt.</p>
+            </div>
+            <div xml:id="Art.92">
+      <head>[Art. 92]</head>
+<p>
+By söllicher verpflegnuß soll ouch verstanden werden die gyderer und
+vertönere, in latein prodigos genant, also wa der man ain gyder weͣre,
+der sin guͦte unzimlich verschwendet oder zuͦ unnutz vertaͤte. Wa
+sich das erfindet, so soll alßdann dem mane vor gericht der gewalte
+genommen werden und offenlich verbott gescheͣnhen, damit mengclich
+verstaͧn mag, daz er fürbaß nit macht haut sines guͦtz zuͦ verendern,
+und soll der gewalt der froͧwen gegeben werden, die dann mitsampt ainem
+pfleger, der ir ouch zuͦgeben und zuͦgeordnet werden soll, das guͦte
+bewaren, ußgeben und inneͣmen, koufen und verkoufen, verendern und
+bruwchen, wie sie bedunckt nütz und guͦt sein, so lang und vil, biß ain
+gericht uß redlichen ursachen beduchte, daz man das guͦte dem man wol
+getruwen möchte. Was ouch der man, so er also wie vor entsetzt wirt, des
+guͦtz verendert oder mit dem guͦtte hantiert, soll alles kraftloͧß
+sin und der froͧwen und künden ainichen schaden gebeͣren. Und ob der
+man sich wider söllich verpflegnuß freͣffenlich setzen oder handeln
+wurde, so soll er darzuͦ mit gefengknuß, wie sich der sach nach gepürt,
+gestraͧfft werden.</p>
+            </div>
+            <div xml:id="Art.93">
+  <head>[Art. 93]</head>
+<p>
+  Und söllent all pfleger obgemelt kain ligend guͦt verendern, verkoffen
+oder sust treffenlich sachen handeln, daran sonder gewin oder verlust
+gelegen ist, dann mit raͧtt und gehaiß vogtz und gerichtz; und ob daß
+nit beschech und den verpflegten schaden darvon ervolgte, so sol
+derselbig contract kraftlöß und von onwirden sin.</p>
+            </div>
+            <div xml:id="Art.94">
+  <head>[Art. 94]</head>
+<p>
+  Und ob ain verpflegnuß groß und mit vil gescheften beladen were, damit
+dann ain pfleger dester zuͦ groͤsserm flyß verbunden sy, so soll im
+ain zimlich belonung nach gestalt ieder sach von vogt und gericht
+geschoͤpft werden; dann ain ieder arbaiter sinß lonß wirdig ist.<pb n="Bl. 20 v"/>
+                </p>
+            </div>
+            <div xml:id="Art.95">
+  <head>[Art. 95]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.21">Stuttgart
+Stadtrecht 1492 Abs. 21-22</ref>]</p>
+  <p>
+Item die sigler, den der stat secret befolhen ist, sollend fürohin flyssig
+uffmercken haben uff die, so iren wybern und künden ire güttere
+unnotturftigklich oder umb üpigs oder unnotturftigs vertuͦns willen mit
+gülten, zinßen, versetzen oder in ander wege beschweͣrent oder sünst
+verkoufent, vertuschent oder vermertzlent; also wa sie bedunckt muͦttwillig
+oder unnotturftig handlung, die zuͦ schaden dienen mag inen, iren wybern
+oder künden, da söllent sie hinder vogt und gericht, und oͧn iren sondern
+befeͣlch nit siglen, sonder das anbringen und nach irem beschaid handeln.
+Und söllent die sigler von aim uffgetruckten sigel und secret neͣmen ain
+schilling, und von <pb n="Rau/Sydow 28"/> der stat gemain anhangendem sigel dry
+schilling, wie dann das von alter ouch brucht ist worden.</p>
+            </div>
+            <div xml:id="Art.96">
+      <head>[Art. 96]</head>
+      <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.24">Stuttgart
+Stadtrecht 1492 Abs.
+24</ref>]</p>
+      <p>Item bißher sind vil bößer sachen gescheen durch etlich, die unsern
+stattschrybere diser unser statt und der statt insigele geflohen und by andern
+schrybern geschriben, ouch ander dann der statt siglere zuͦ besigeln
+gebetten haben; und insonder so haͧnd etlich ire gütter under diser unser
+stat insigel haft gemacht und die darnach aber für ledig unverkümbert
+verschriben, und dieselben briefe ettwan by andern schrybern gemacht, ouch mit
+andern insigeln dann mit der statt insigel besigelt und erber lüte damit
+beschalckt und betrogen. Söllichs als ain untraͤgelich boͧßhait, falsch
+und betruge fürzekomen und abzestricken, setzen, ordnen und wöllent wir, das
+fürohin alle brief, und besonder ligende gütere mit versatzung oder sunst in
+ainichen weg berürende, sollent by unserm statschrybere diser unser statt
+gemacht und mit der stat secret insigele oder mit deß amtmans insigel besigelt
+werden. Der statt siglere söllent ouch nichtzit sigeln dann das vom
+statschrybere ußgeet. So müssent die aubenthürer, so mit obgemeltem betrug und
+valsche umbgeͣnd, den schryber und die siglere, die der ding acht haben
+söllent, entsitzen. Und wöllicher briefe nach verkindung <pb n="Bl. 21 r"/>
+diser unser ordnung und willes anders ußgeen wirdt, der soll von unwirden sein,
+und daruff nichtz gericht, geurtailt, gehalten und der überfarer diser unser
+ordnung und gepots darzuͦ, wie sich gepürt, gestraͧfft werden. Und für
+diewyle unser bürger diser unser statt Tuwingen in obgemelter wyße zuͦ
+unserm statschryber verbunden sein söllen, so ist ouch dagegen unser will und
+mainung, das unser statschryber unser arm lütte mit dem schryberlon zimlich
+halte und nit bedyr; daruff ouch die siglere ir achtung haben und, so es sie
+bedunckt noͧtt sin oder von aim taile dess zuͦ thuͦn erfordert werden,
+söllent sie mit schöpfung und taxierunge billicher belonung darein zuͦ
+gryffen guͦt macht haben, und soll es von baiden tailen daby
+belyben.</p>
+            </div>
+            <div xml:id="Art.97">
+  <head>[Art. 97]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.25">Stuttgart
+Stadtrecht 1492 Abs. 25</ref>]</p>
+<p>
+  Item bissher sind vil güttere in zwingen und beͣnnen diser unser stat
+Tüwingen gelegen uns und gemainer stat nit zuͦ clainem nachtaile und
+schaden, mit zinssen und gülten, der gar vil gegeben werden lütten ußerhalb
+unser herrschaft gesessen, für sturen, schatzungen und ander beschwerungen
+verschriben, haut beschweͣrt und beladen werden und wurdent furo mer und
+wytter beschweͣrt, wa hierin nit fürsehung bescheͣche. Söllichs
+fürzekomen und abzestricken  setzen, ordnen und wollen wir, das fürohin zinß
+und gülten in unser stat Tuwingen für sturen, schatzungen und ander
+beschweͣrden nicht söllent verkouft noch ainicher brief darumb gemacht noch
+versigelt werden. Wir wollend ouch hie zuͦ Tuwingen	zinse und gülten
+dergestalt nit mer verkoüfen noch geben laͧssen; dann söltent die füruß also
+wie bißher verkoüft werden, so keͣm es bald darzuͦ, das neͣmand kain
+aigen oder zinßfry guͦte hie zuͦ Tuwingen funde, und das sie ouch der
+güttere vor beschweͣrden der zinß niemandt betragen möchte; dardurch sie
+zuͦ grossem unbuw kommen und eͣgerden werden möchtent.</p>
+            </div>
+            <div xml:id="Art.98">
+  <head>[Art. 98]</head>
+<p>
+  Item so sind auch bisher vil güttere von unsern burgern diser unser statt
+gegen ußlütten verkoüft worden, und damit und uß unflyße <pb n="Bl. 21 v"/> der
+stursetzer usser der stur komen, welliches dann uns und unser stat zuͦ
+schaden gedient und nit zuͦ erlyden ist; demnaͧch setzen, ordnen und
+wöllen wir : Ob yemandt ain guͦte in unsern zwingen und beͣnnen zuͦ
+Tuwingen gegen aim ußman verkoufte, so soll der verköffer on vertzüg <pb n="Rau/Sydow 29"/>
+söllichs der statt rechnern zuͦ wissen thuͦn.
+Dieselben rechner söllent dann söllichen verkoüf uffzaichnen, damit die
+stursetzer der nechstkunftigen sture wissen den innhaber des guͦtz, wie sich
+gepurt, mit sturen zuͦ beladen. Und ob der verköffere an dem, das er sinen
+verkouf den rechnern verkunden soll, sumig weͣre und söllichs uns und der
+statt zuͦ schaden dienen wurde, so soll der verköufer söllichen schaden
+ußzuͦrichten verbunden sin, und darzuͦ umb sin ungehorsami gestraͧfft
+werden. Und so wir aber wol erkennen, das es gemainer unser statt Tuwingen 
+abprüch und schaden ist, wann vile der gutter ußer unser burger hand koment,
+sonder nutzer und besser ist, daz sie die inhaben und niessen etc., söllichs
+angesehen so gebent wir hier in unser statt Tuwingen kunftigclich diß fryhait:
+wann ain guͦte in Tuwinger ban gelegen gegen aim ußman verkouft wirdt, so
+soll es, vor und ee fünf iaͧr verschinen sind, kain steͣtter koüf sin und
+haissen; sonder keͣme ain yngesessner burger in mitler zytte, der verkofften
+guͦtz begerte, so soll im der köffere schuldig sin, umb sin koufsumm söllich
+guͦte wider zuͦ lesen zuͦ geben, on widerrede. Und ob in söllicher
+zytte besserung des guͦtz vom ersten köffere bescheͣhen weͣre, so soll
+die der bürger zuͦsampt der houbtsumen schuldig sin och zu widerlegen, nach
+erberer lute erkennen.</p>
+            </div>
+            <div xml:id="Art.99">
+  <head>[Art. 99]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.27">Stuttgart
+Stadtrecht 1492 Abs. 27-28</ref>]</p>
+<p>
+  Item nachdem bißher vil unendlichs lichtfertigs volcks von allen landen in
+diser unser statt getzogen und komen ist, und nu dasselb uns und gemainer stat
+vil nachtails und beschweͣrd gebraͧcht haut, in vil weg unnott zuͦ
+erzellen, haͧnd wir gedaͧcht, dasselb durch gepurlich mittel fürzekomen,
+und darumb geordnet und gesetzt, daz furohin kain person in diser unser statt
+Tuwingen zuͦ burger sölle uffgenomen werden, sie habe dann irs manrechten
+guͦt brief und sigele. Die söllend <pb n="Bl. 22 r"/> behalten werden in der
+stat behaltnuß, uff das, ob ainer hienaͧch wider hinußziehen wölte, das man
+wissen möge, was er mit im hereingebraͧcht hab, und ine ouch nach demselben,
+und nachdem er sich syther gehalten haut, mit ainem manrechten, ob er des
+begern wurde, wider wisse abzefertigen. Es soll ouch zum andern darumb
+gescheen, das man wissen möge, warfur ain ieder ze halten und warzuͦ er nutz
+und ze bruwchen sye.</p>
+            </div>
+            <div xml:id="Art.100">
+  <head>[Art. 100]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.29">Stuttgart
+Stadtrecht 1492 Abs. 29</ref>]</p>
+<p>
+  Item wöllicher furohin in unser statt Tuwingen zuͦ aim burger ufgenomen
+wirdt, der soll geloben und ain aid schweren zuͦ got und sin hailigen : uns
+und unsern erben truw und hold ze sinde, und diser unser statt nütze und fromen
+ze schaffen und schaden ze warnen und ze wenden, nach sim besten vermögen; und
+darzuͦ uns unsern amptluten und der oberkait diser unser statt und iren
+gebotten und verpotten	gehorsam und gewertig zuͦ sind; und nit von hinen ze
+ziehen noch sich diser unser statt zuͦ empfrömbden, er habe dann das
+burgerrecht zuͦvor unserm amptman und der stat rechnern abkundt, und der
+statt ain guldin zuͦ abzuge bezalt, und mengclich, dem er zuͦthund ist,
+entricht oder benugig gemacht; und ob er mit iemanden under den stabe diser
+unser statt Tuwingen gehörig ze tuͦnd heͣtte, warumb das weͣre,
+söllichs daselbst mit recht ußzerichten und by dem selben rechten zuͦ
+belyben, er wölti sich dann davon beruffen; das mag und soll er thuͦn lut
+und inhalte der ordnung von uns gemacht, ußgeschriben und verkündt; alles
+getruwlich und ungevarlich.</p>
+            </div>
+            <div xml:id="Art.101">
+      <head>[Art. 101]</head>
+      <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.30">Stuttgart
+Stadtrecht 1492 Abs.
+30</ref>]</p>
+      <p>
+Item wöllicher also zuͦ aim burger ufgenomen wirdt, der soll der bennanten
+unser statt umb das burgrecht von stunden an oͧne verzug, vor und ee er
+ynsitzt, geben ain guldin, und das burgerrecht, wann er darnach wider hinweg
+ziehen will, mit aim guldin, den er ouch bar bezalen soll, uffgeben, wie
+obsteet. Doch mögent vogt und gerichte im anneͣmen und abzug ains burgers
+zuͦ zytten uß redlichen vernunftigen ursachen dispensieren und myndern dann
+obsteet oder gar nichtz neͣmen. Wöllicher <pb n="Rau/Sydow 30"/> ouch
+furohin von Tuwingen ziehen will, der soll der statt geben zuͦ abzuͦge
+ain guldin, unangesehen ob er das burgerrecht ererpt oder erkouft habe. Und ob
+er vor diser unser ordnung und satzung ain burgere <pb n="Bl. 22 v"/> daselbs
+gewesen weͣre, das soll inn darvor ouch nicht schirmen.</p>
+            </div>
+            <div xml:id="Art.102">
+  <head>[Art. 102]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.32">Stuttgart
+Stadtrecht 1492 Abs. 32</ref>]</p>
+<p>
+  Item wytter habent wir geordnet und gesetzt: wöllicher hie zuͦ Tuwingen
+gesessen lutt uffhellt, hoffet, oder herberget, die den burgeraide obgeschriben
+nit getan haͧnd, derselb soll von ieder persone, die er also enthalten haut,
+geben ain pfund heͣller zuͦ peͣne. Denn es wonend vil lute hie zuͦ
+Tuwingen, die uns und derselben unser statt weder gelopt noch geschworn
+haͧnd, daruß, wa es nit furkomen wurde, möchte vil unraͧtz erwachsen. Es
+ist ouch ain ursach, das gepott und verbott, so zuͦ zytten von unsern und
+der benanten unser statt wegen gescheͣent, verachtent werdent, das uns und
+obgemelter unser statt	nit treͣglich noch ze dulden ist. Hierumb so
+verschaffent und wöllent wir, das unser vogt zuͦ Tuwingen alle menschen
+daselbs wonende, derhalb man nit ain claͧr gruntlich wissen haut, das sie ir
+manrecht und uns wie obstaͧt gelopt und geschworn habent, rechtvertigen und
+allen mangel, der deshalb an inen erfunden wirdt, erstatten und erfollen sölle,
+wie sich lüt der ordnung gepurt.</p>
+            </div>
+            <div xml:id="Art.103">
+  <head>[Art. 103]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.34">Stuttgart
+Stadtrecht 1492 Abs. 34</ref>]</p>
+<p>
+  Item als ainem ieden amptman zuͦsteet, sinen underthaͧnen uff ir bitte,
+die von iren gloͧbigen, das ist von denen, die inen umb schulden getruwet,
+geloupt und gebaitet haͧnd, angefochten, genött oder geschediget werden
+wollen, mit gutlicher teding furstande und uffenthaltunge ze thuͦnde und
+wytter zug und zile zuͦ erlangen: also gepurt sich ouch den underthanen,
+denen tedingen, vom amptman gemacht, ze leben und nachzekomen und die gutlich
+zuͦ volstrecken. So aber dasselb von vil underthaͧnen oft verachtet und
+nit gehalten wirdt, und dasselbig ouch nit mag erlitten werden, so habent wir
+geordnet und gesetzt : wöllicher sich furohin ain amptman und gericht
+samentlich oder sonderlich ichtzit betedingen laust und der teding nit lept und
+gnuͦg tuͦt, der soll darumb mit veͣncknuß nach gstalt der sache
+gestraͧfft werden, und nutzit destminder schuldig sein, sinem glöubigen die
+underpfande im haft volgen zuͦ laussen und ze rummen, glycher wyße als ob er
+die nach diser unser stat Tuwingen <pb n="Bl. 23 r"/> recht, herkomen und
+gewonhait  erlangt und erfolgt hette. Ob aber der gloͧbig umb sin schülde
+kain underpfand hette, so soll der schüldner, der die teding nit helt, im geben
+vergangne pfand, die er tryben und tragen und daruf er siner schülde wol
+bekomen möge; und soll wytter kains pfendens, uffruffens, vertedingens,
+verkundens noch ußbiettens bedörfen noch noͧtt sein kains wegs, damit die
+gloubigen muͦttwilliges umtrybens und uffzugs überhaben werden; doch
+hierinne unserm amptmann sin teͣdingpfeͣnning vorbehalten. Und diewyle
+uss der notturft furohin söllich tedingen fur vergessen in ain buͦch
+geschriben werden mussent, so soll unser amptman dasselb ynschriben thuͦn,
+und darumb von yedem taile zwen pfeͣnning neͣmen. Wir setzen und ordnen
+och: daß iemant dem andern um ainich geporgt oder uͤstendig spilgelt noch
+afterwett, och so iemant dem andern wissenlich zuͦ dem spil lychet, köff
+oder ander derglych contract deßhalb machet, nichtzig darumb pflichtig noch
+schuldig sy.<pb n="Rau/Sydow 31"/>
+                </p>
+            </div>
+            <div xml:id="Art.104">
+      <head>[Art. 104]</head>
+      <p>
+Item wir wöllent ouch, das lidlon oder gelihen gelte mit der bezalung vortail
+hab, anderst dann weͣr die schulde sunst herkomen, namlich: so unser amptman
+von den gloübigen lidlons oder gelihens geltz angelangt wirt, soll er den
+schuldner darzuͦ halten, das er dem, so er in obgemelter wyße schuldig ist,
+das gelte oͧn verzug geͣbe oder sovil pfand, die er tryben und tragen
+mag, soverr die vor handen sind, daruff er dess geltz wol bekomen möge.
+Deßglych sol es och gehalten werden, wa ainer um par gelt zuͦsagte zuͦ
+koffen. Unn mag man pfand um sollich obgemelt schulden onvertedingt
+umschlachen.</p>
+            </div>
+            <div xml:id="Art.105">
+  <head>[Art. 105]</head>
+                <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.35">Stuttgart
+Stadtrecht 1492 Abs.
+35</ref>]</p>
+<p>
+  Item bißher ist gewonhait und der bruwch zuͦ Tuwingen gewesen: wann uff
+yemands guͦte clagen und verbotte gescheen sind, so ist anfangs und vor
+allen menschen der erst verbieter und darnach der ander und also fur und fur 
+ainer nach dem andern ußgericht worden, als wytt das guͦt haͧt mögen
+raichen und dienen, und haͧnt die andern, die villicht mit beßerer
+gerechtigkait, uß unwissenhait söllichs verbietens des guͦtz, hernach komen
+und by den letsten gewesen sind, gantz mussen mangeln und galt ußgeen. So aber
+dasselb ganz unglych und der vernunft und billichait nit gemeͣß ist, so ist
+von uns geordnet und gesetzt : Wann furohin ain söllicher unfale uff iemanden
+oder iemands guͦte felt, das man daruf clagen und verbieten lassen wirdt,
+das dann von unserm ambtman daselbs alle cleͣger und verbieter aigentlich
+uffgeschriben, und zuͦletst, wann zwen monat vom anfang der verbietunge <pb n="Bl. 23 v"/>
+verschynent, yedem gegeben werden sölle nach anzale siner
+schuld, als wytt das guͦt raichen mag unangesehen das ainer der erst, der
+ander, der mittel oder der letzst verbieter ist gewesen, doch uns, unsern erben
+und nachkomen unser oberkaite hierin vorbehalten. Und ob yemands sondere
+gerechtigkait zuͦ söllichem guͦt hette uß verschribungen oder sunst als
+von schulden wegen darumb underpfand haft weͣrent, ouch umb hüsszinsse,
+lidlon geurtailt und ander dergelych gefryet sachen, dem soll hiedurch sin
+rechtens nichtz benomen sin noch werden. Und soll yeder cleger oder verbieter
+dem amptman geben zwen pfenning, sich inzuͦschryben. Und sollent die cläger
+nach verschinung der zwayen monetten irem verbott in aim monat nest darnach mit
+verkündung unn verer gerichtzuͤbung nachkommen ungevarlich.</p>
+            </div>
+            <div xml:id="Art.106">
+  <head>[Art. 106]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.36">Stuttgart
+Stadtrecht 1492 Abs. 36</ref>]</p>
+<p>
+  Item teͣglich wirt erfunden, das vil unnutzer lychtfertiger lute, die sich
+selb und ire kunder in verderben richtent, erber lute anstossent, umb das ir
+betriegent und darnach ußtretend und vermainent, dann wider ynzekomen, wann sie
+wöllent; so nun söllichs nit mag noch soll gelitten werden, und ouch unser
+mainung und will ist, das der burgeraide obgeschriben nit allein binden sölle
+die, so füro zuͦ Tuwingen burger und söllichen aide schweren werden, sonder
+ouch die, so vormaͧls daselbs burger gewesen und noch sind, und denn derselb
+aide under anderm inhelt, das neͣmand sich dieser stat empfrömbden noch von
+hinnen ziehen sölle, er habe dann sin schulden entricht oder benugig gemacht,
+so ordnen, setzen und wöllen wir : Wöllicher hinfur dergestalt ußtritt, oͧne
+gunden und erlouben der oberkait, der soll wider sin aide gethaͧn, sin
+manrecht verwirckt und sin burgerrecht verloren haben: und wa er ergriffen
+wirdt, angenomen und darumb an sim lybe, wie sich nach gestalt der Sachen
+gepurt, gestraͧfft werden. Wöllicher aber von ungehorsami wegen ußtritt, der
+soll in die alten <pb n="Rau/Sydow 32"/> schweren strauff gefallen sin und ouch
+sin ere und manrecht verloren haben, und darumb mit im furgenomen und gehandelt
+werden, als sich nach unserm willen und verschaffen wirdt gepuren.</p>
+            </div>
+            <div xml:id="Art.107">
+  <head>[Art. 107]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.37">Stuttgart
+Stadtrecht 1492 Abs. 37</ref>]</p>
+  <p>
+Item so ist ouch oft und dick erfunden und offentlich an den tag komen, das
+etlich ire guttere fur fry ledig unverkumbert aigen verschriben habent, die
+doch darvor andern gultbar und haft gewesen sind; wann aber söllich boßhait,
+betrüge und valsche nit mag noch soll gestattet werden, so ist von uns darwider
+gesetzt und geordnet: Wöllicher hinfur in söllicher boͧßhait und trug
+erfunden wirt, der soll erloͧß und umb sin manrecht komen sin, und darumb an
+sinem lyb oder leben, wie sich nach gestalt siner handlung gepurt,
+gestraͧfft werden. Doch söllent hieby vermaint werden, ob ain biderman uß
+unwissenhait und mit ainchen gefeͣrden im verkoufen on betrug etwas
+vergesse; dann der allain, so er sich deß uf sin beturunge mit dem aide
+purgiert, ain widerlegunge nach erkantnuß des rechten schuldig sein
+soll.</p>
+            </div>
+            <div xml:id="Art.108">
+  <head>[Art. 108]</head>
+      <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.38">Stuttgart
+Stadtrecht 1492 Abs.
+38</ref>]</p>
+<p>
+  Item wellicher ain ligend guͦt verkouft borgs uff zil zuͦ bezalen, dem
+soll, wie es vormaͧls ouch gewesen und von alter herkomen ist, dasselb
+guͦte umb sin bekantlich koufsumen und schulde vor mengclichem, vor
+söllichem koufe uf demselben guͦte nichtzit noch ainich gerechtigkait daran
+oder darzuͦ habend, nach diser unser stat Tuwingen  bruwch und herkomen haft
+sin, allediewyl im desselben koufgeltz ichtzit unvergolten ußstet. Und ob
+söllichs im koufe nit beredt weͣre, dannocht soll es lütt diser unser
+satzunge gehalten werden. Weͣre aber oder wurd in ainichem koufe lutter
+abgeredt und beschlossen, dz das verkouft guͦte umb die koufsume nit sölte
+haft sin, so soll dasselbig geding, so sunst nichtz darwider ist, in creften
+belyben, angesehen das sich ain ieder sins rechten begeben und verzyhen mag,
+und das ouch dem, der ain ding willigclich und oͧn noͧtt tuͦt, nit
+unrecht geschieht.</p>
+            </div>
+            <div xml:id="Art.109">
+  <head>[Art. 109]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.39">Stuttgart
+Stadtrecht 1492 Abs. 39</ref>]</p>
+<p>
+Item wöllicher umb yemanden ichtzit borgs kouft ligends oder varends, der soll
+dem verköufere uff sin begere ain benugen umb die koufsumma thuͦn, es werde
+bedingt oder nit bedingt, ußgenomen so der verköufere sich dess willigclich
+verzycht oder das nachlaͧßt. </p>
+  <p>
+  Item so ein ussman alhie zuͦ Tuwingen mit koufen oder sust in ander weg
+etwas schulden machet und die nit guttlich bezallt, und so derselbig ussmann
+und schuldner nachgends alhie zuͦ Tuwingen ergriffen und der amptmann darümb
+angerufft wurdet umb hilf zuͦ bezallung, so hat der amptmann macht, den
+ussmann in haftung antzuͦnëmen und im zuͦ gebietten, nit von Tuwingenn
+zuͦ komen, er hab dan die schuld, hie zuͦ Tuwingen gemacht, zuͦvor
+bezallt, oder sin widerparthy deshalben claglouß und benuͤgig gemacht.<pb n="Bl. 24 v"/>
+                </p>
+            </div>
+            <div xml:id="Art.110">
+  <head>[Art. 110]</head>
+<p>
+Item wann ain kleger ain schulde in recht hie zuͦ Tuwingen soverr erklegt,
+das im der antwürter die schuld zuͦ gelten pflichtig wirdt, und darumb nit
+verzilt ist, will sin dann der cleger nit emberen, so soll in der antwurter
+unverzug mit gelt ußrichten; wa er aber nit gelt hette, so soll er dem kleger
+pfand geben, die des drittails besser sind dann die schulde. Dieselben pfand
+mag alßdann der cleͣger von stund an umbtragen und verganten laussen nach
+der stat rechte.</p>
+            </div>
+            <div xml:id="Art.111">
+  <head>[Art. 111]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.40">Stuttgart
+Stadtrecht 1492 Abs. 40</ref>]</p>
+<p>
+  Item wöllicher hie zuͦ Tuwingen ain huße besteet gar oder ains tails oder
+ichtzit darin, als laden oder anders, der soll zuͦ halbem iaͧr halben
+zins ze geben verfallen <pb n="Rau/Sydow 33"/> und schuldig sin, den zuͦ
+bezalen, sin hüssherre wolle im dann den mit guͦtem willen lenger ansteen
+lassen. Was ouch yemands in ain hüße oder laden etc. von im bestanden bringt,
+das alles gemainlich und sonderlich, nichtz ußgenomen, soll dem hußherren umb
+sin hußzinsse vor mengclichem haft sin; er mag ouch das alles umb sin hußzinße
+darin behalten. Und ob yemands ichtzit uß sinem hußzinße teͣtt vereͣndern
+on wissen und willen des hußherren, der sins hußzinße dannocht nit entricht
+weͣre, der soll schynberlich darumb gestraͧfft werden, nach erkantnuß
+vogts und gerichtz.</p>
+            </div>
+            <div xml:id="Art.112">
+      <head>[Art. 112]</head>
+      <p>[Übereinstimmung mit <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NuernbRef.+1479+1484&amp;fs=35.23">NürnbRef.
+1479 XXXV 23</ref>]</p>
+<p>
+Item wöllicher ainem ain huß oder laden abbestaͧt, und er will das iaͧr
+uß nit darin belyben, so soll der hußherr nit verbunden sin, ainen andern
+hußwirt ufzuͦnemen, er wölte es dann gern thuͦn, sonder ist er des
+hußzinß zuͦ dem weͣrtig, der im abbestanden haͧt. Weͣr aber, ob der
+aigenman das huß daͧrzwischen verkoufte, daran soll in der hußwirt nit
+hindern; doch so soll der aigenman demselben hußwirt ain andere herberg, die im
+gnuͦg ist, mutten, nach erkanntnuß ains gerichtz, oder aber nach anzale zinß
+neͣmen, weders der hußwirt will. Und welchen ain behusung ankommet, es sy
+durch koff, erbschaft oder sust durch ainen gerechten tittel, so söllent
+darzuͦ gehörn und volgen : prunnenketten, aymer, prunnensail, kornsail,
+schluch, ligerlig, mitsampt allem dem, das wid und nagel höbt, es werd dann
+deßhalb mit sondern Worten etwaß ußgenomen und verdingt.<pb n="Bl. 25 r"/>
+                </p>
+            </div>
+            <div xml:id="Art.113">
+  <head>[Art. 113]</head>
+  <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.41">Stuttgart
+Stadtrecht 1492 Abs. 41</ref>]</p>
+<p>
+  Item furo habent wir gesetzt und geordnet: Wöllicher hie zuͦ Tuwingen
+sin schulden nit hab zuͦ bezalen mit gelt oder pfanden oder sin kunder
+oder wyb laͧsst naͧch broͧtt gaͧn, daz derselb nit sölle zuͦm
+wyn
+geen, weder fyrtag noch werchtag, ußgenomen hochzittlich schenckinen
+siner nechsten frunde. Wirdt er aber by dem wyn ergriffen, so soll er
+von stunden an in feͣngknuß gelegt und allain mit wasser und broͧtte
+uf benugen des amptmans darin gespyßet werden. Und hieruff gebieten wir
+allen statknechten, pitteln, wynziehern, underköffern, kornmessern,
+wächtern, schitzen, allen gemainlich und sonderlich by gelüpdten und
+aiden, uns und zuͦ iren diensten gethaͧn, ain flyssig uffsehen uf die
+ding ze haben; und wa sie ain söllichen by dem wyn oder by spilen,
+darzuͦ er ouch verwandt sye, findent oder erfarent gewesen sin, den
+obgemelter maußen anzuͦneͣmen und in fengknuß zuͦ legen oder den
+unserm vogt zuͦ antwurten. Und wirt der amptman von ains söllichen
+wegen, der nit zuͦ bezalen haut, von sinen glöubigern, das ist von dem,
+dem er gelten soll, angerufft, ine in fengknuß zuͦ legen, so soll der
+amptman das selbig thuͦn, uff des glöubigen costen, der dem gefangnen
+zimlich liferung soll geben, nach beschaid des amptmans; doch dem
+amptman vorbehalten macht und gewalte, ain schuldner uß vernunftigen
+redlichen ursachen hie vor ze fristen.</p>
+            </div>
+            <div xml:id="Art.114">
+<head>[Art. 114] Von appellieren.</head>
+<p>
+  So ain parthy mit ainer urtaile vermaint beschwert zuͦ sind und wölte
+sich davon berufen, so soll es damit gehalten werden, wie das unser
+ordnung des hoffgerichtz inhalt.</p>
+            </div>
+            <div xml:id="Art.115">
+      <head>[Art. 115]</head>
+<p>
+Aber nachdem bißher der bruwch diser unser stat Tuwingen nit gewesen
+ist, das man von aim undergange geappelliert haut, so sich aber zun
+zytten etlich beclagt und vermaint haben, sie syent nach gelegenhait der
+sach beschweͣrt etc.; damit nun neͣmandt verkurtzt, sonder yedem
+gedych und erfolge das, so im von rechtz und der
+<pb n="Rau/Sydow 34"/>
+billichait wegen gedyhen soll, so gebent wir hierin diser unser statt
+diß satzung: Ob furohin yemant vermainte, durch ain spruch der <pb n="Bl. 25 v"/>
+undergenger, es sye in der statt oder uf dem veͣlde,
+beschweͣrt zuͦ sind, so mag er sich darvon in gepurlicher zytte,
+neͣmlich innerthalb zehen tagen, fur das gemain statgericht beruffen
+und appellieren. Doch soll die appellierend parthy fur gericht ynlegen
+ainen guldin, damit abzuͦstricken muͦttwillig umtryben. Und was daruff
+als von aim gericht gesprochen wirdt, naͧch baidertaile notturfft, zuͦ
+und ynrede, ouch besichtung des spans in ougenschin, ob das noͧtt
+weͣre, daby soll es on wytter waigrung belyben.</p>
+            </div>
+            <div xml:id="Art.116">
+  <head>[Art. 116]</head>
+<p>
+  Und nachdem bisher unser richtere diser unser statt die entschaid
+gethaͧn und geben habend in der statt zwischen nachpuren gegenainander,
+so sie irer husser halb spennig geweͣßt sind, und aber söllichs zuͦ
+merern maͧlen nit nott noch gepurlich ist, ain gantz gericht damit zuͦ
+mugen, und das gericht sunst mit vil sachen beladen und beschweͣrt ist,
+so setzen und ordnen wir, das sonder undergeͣnger in der stat syend und
+erwelt werden, namlich ir funf, darunder der ain vom gericht, der ander
+ain zimerman, und der dritt ain murer, und die andern sunst zwen erber
+man sein, und söllend diß fünf undergeͣnger macht haben, ain yede sach
+zuͦ entschaiden, so der span allain die nachpuren gegenainander berurt,
+es sye von uberbuwen wegen, von winckelrecht, troͧffrecht, von berinnen
+oder dergelychen sachen. Wann aber die sach ouch antrifft die gemain
+statt gegen der strauß, darzuͦ söllent die funf undergeͣnger ouch
+beruffen die zwen statrechner, oder ob die sach darnach gestalt weͣr,
+die uberigen richter gar; und was die funf alle oder der merer taile,
+yedes in siner gestalt nachdem fur sie kompt, erkennend, daby soll es
+belyben, es wer dann, das ainer appellieren wöllte, damit soll es
+gehalten werden wie obsteet. Und nachdem bisher die besitzer etlicher
+gutter die undermarck gegen der gemaind ringfertig gewesen sind, sie
+laussen zergoͧn und verlorn werden, das da schaden, arckwon und
+verdaͧcht uff im trögt: söllichs zuͦ furkomen so ist unser ernstlich
+gebott und mainung, by strauff nach gefaͧrlichkait ainer yeden sach uns
+deßhalb vorbehalten, das ain yeder die marckstain siner guter in eren
+und ufnung halte, ob aber ainer verruckt oder verlorn wurde, das er dann
+oͧn verzug daran sein, das der wider gesetzt und ufgericht werde, wie
+sich nach undergangs recht gepurt.<pb n="Bl. 26 r"/>
+                </p>
+            </div>
+            <div xml:id="Art.117">
+<head>[Art. 117] Von vertrag vatter oder muͦtter gegen iren künden.</head>
+      <p>[Übereinstimmung mit <ref target="http://repertorium.at/qu/1492_stuttgartstr.html#Abs.43">Stuttgart
+Stadtrecht 1492 Abs. 43</ref>]</p>
+<p>
+  Sich erfindet in teglicher gerichtzubung, das vil zancks und
+rechtfertigung uß den vertreͣgen, so vatter und muͦtter mit iren
+kunden oder ain eegemechit gegen dem ändern thuͦn etc.; so nun unser
+will und gemut ist, söllich irrungen, ouch die scheden, so darvon
+entsteen, abzuͦstricken und zuͦ furkomen, ordnen und geben wir diser
+unser stat Tuwingen fur ain statrecht: Das ain yedes mensch baiderlay
+geschlechtz, dem gerichtzzwang daselbs underwurfig, der ain söllichen
+vertrag gegen sin kunden oder eegemechit  machen oder thuͦn will, es
+berur verfangne oder andere gütter, das soll geschehen vor vogt und
+gerichte, also das vor inen gestalt der sach und das furnemen ordenlich
+furtragen soll werden. Weͣrent dann die kunder als noch nit zuͦ iren
+tagen und völliger vernunft komen, so söllent anfangs der kund nechsten
+frunde von der gebrochen hand, oder, wa es zuͦ brochner hande nit
+komen, sunst die nechsten frunde der kund berufft werden. Dieselben
+frunde söllend dann den kunden als fur ir vögt in der sach zuͦgeordnet
+und mit truwen an aids statt beladen werden, den kunden darin das best
+zuͦ raͧtten und zuͦ helfen. Und ob die frund nit möchten gehapt,
+soll den kunden ainer vom gerichte in obgemelter gestalt zuͦ aim vogt
+zuͦgeordnet werden. Und
+<pb n="Rau/Sydow 35"/>
+wann daruff und uf baider taile furwenden vogt und gericht erkennen
+mögen, das söllicher vertrag der künd halb besser gethan dann underwegen
+gelaͧssen sye, so soll es daby belyben und in der statt buͦch zuͦ
+ainer gedechtnüß, ob das begert wirdt, geschriben werden.</p>
+            </div>
+            <div xml:id="Art.118">
+<head>[Art. 118] Von testament und ubergaͧben.</head>
+<p>
+  Item nachdem zuͦ den geschriben testamenten, so man vor den nottharien
+durch instrument pfligt uffzuͦrichten, vil solemnitett und sübtyllikait
+der recht gehört, des der gemain man nit versteͣndig noch bericht ist,
+und daruß bißher vil irrungen und gerichtzgeͣng bescheͣhen sind:
+söllichs zu furkomen setzen und ordnen wir: Ob ain persone dem
+gerichtzzwang diser unser statt underwirfig ain testament oder gemechte
+schaffen wöllte, so soll dieselb person vor vogt und gericht erschynen
+in aigner person und iren willen und furnemen furtragen; oder wa das
+kranckhait halb nit sein möchte, söllent vier oder funf richtere und nit
+darunder zuͦ demselben in sein huß geschickt werden. Und soverr
+dieselben richter erkennen mögen, das <pb n="Bl. 26 v"/> dieselb
+kranck person noch by guͦtter vernunft sye, söllent sie iren willen und
+furnemen vermercken und alßdann söllichs vor unserm vogt und den
+überigen richtern eröffnen. Ist es dann die person, so macht haͧt zuͦ
+testieren und zuͦ verschaffen, lut des nachgeschriben gesatz deßhalb
+begriffen, alßdann soll der testattor uff vorgenden sprach von aim
+gericht erkennt an den gerichtzstab geloben, oder wa er vor gericht nit
+möcht erschynen, vor den geschickten richtern mit vernunftigen und
+verstendigen worten sagen, das söllich furneͣmmen ir guͦtter
+frybedachter wil und mainung und darzuͦ nit trungen oder zwungen sye.
+Und so das geschicht, soll es in der stat buͦch geschriben werden und
+kraft haben.</p>
+            </div>
+            <div xml:id="Art.119">
+<head>[Art. 119] Von ubergaͧb, in latein donacio genant.</head>
+<p>
+  Item so ain person vermainte, etwas zuͦ verschaffen, also das es erst
+nach sim todes abgang in wirkung geen söllte, zuͦ latein donacio causa
+mortis genant, soll der donator vor vogt und gericht erschynen und sin
+willen eröffnen; und uff vorgenden spruch von vogt und gericht deßhalb
+erkeͣnnt, daß söllich ybergab nach sim tod also zuͦ geschechen sin
+will und mainung sy, und diewyl daß zuͦ enterbung deß nesten erben
+dienet, soll er zuͦvor underricht und ermannt werden, sollichs nit zuͦ
+tuͦn, sonder sin verlaussen guͦt dem nesten erben werden zuͦ laussen;
+und sover dann darüber uff sollichem gemecht zuͦ tuͦn beharrt wurde
+und es dann die person wer, so zuͦ testiern macht het, soll sollichs
+mit aim gerichtz und spruch bekreftiget und aigenlich verschriben
+werden.</p>
+            </div>
+            <div xml:id="Art.120">
+  <head>[Art. 120]</head>
+<p>
+  Ob aber etwar ain ubergaͧb thuͦn wölte, in mainung, das die von stund
+an in sin wirckung gan sölte, in latein donacio inter vivos genant, soll
+der donator aber vor vogt und gericht erschynen, und alda durch
+vorgenden spruch mit dem gerichtzstabe fry die ubergaͧb thuͦn in hand
+und gewalte dess, dem er verschaffen will. Und so die baide also
+gescheͣhen, soll es kraft haben und, ob das begert wirt, in der stat
+buͦch geschriben oder versigelt briefe darumb gegeben werden. Und mag
+sollich donacion inter vivos, es beschech dann des sonder meldung, nit
+wideruͤfft werden; aber donacio causa mortis mag by lebendigem lyb und
+guͦtter vernunft vor gericht wol widerruft werden.
+<pb n="Rau/Sydow 36"/>
+                </p>
+            </div>
+            <div xml:id="Art.121">
+      <head>[Art. 121]</head>
+      <p>
+Doch wöllend wir hiemit nit vermaint haben, ob ain person umb gottes
+und siner sel hail willen etwas verschaffen und verordnen wölte, das ist
+ad pyas causas, <pb n="Bl. 27 r"/> das es anderst nit kraft sölte
+haben, dann ob es in obgeschribner form gescheͣche, sonder so ist
+gnuͦg, wann es beschicht in bysein dess pfarrers und sunst zwayer
+erbern zugen darzuͦ berufft.</p>
+            </div>
+            <div xml:id="Art.122">
+  <head>[Art. 122]</head>
+<p>
+  Diss nachgeschriben personen mögend nit verschaffen oder testament
+  machen:</p>
+  <p>
+Nemlich die under iren iaͧren syend; item die noch in gewalt irs
+vatters sind; item die irer vernunft beraͧpt syend zuͦ der zytte des
+testamentz; item die, denen uß ursach verbotten ist, das sie ir guͦt
+nit mögend schalten und walten; item gantz stumen und die gantz nichtz
+gehörend; item der zuͦ dem toͧde verurtailt ist; item und ouch ain
+blinder, es sye dann, das vogt und gericht claͧrlich mögen erkennen sin
+willen, und das er uß gebrechen der gesicht der personen halb nit
+irre.</p>
+            </div>
+            <div xml:id="Art.123">
+<head>[Art. 123] Von verckung.</head>
+<p>
+  Item ob ainer vom andern verckung vor gericht nach der stat rechte zuͦ
+thuͦn begert, soll der verköffer vor gericht bestimen und sagen, in
+gegenwirtigkait des köffers, wie der verkoüf ergangen und mit was gilten
+und beschweͣrden das koufguͦte beladen sye, und daruf ain gericht
+erkennen: wann der verköffere des schwer ain aid zuͦ got und den
+hailigen, das im nit wissent, dz das verkouft guͦt anders und wytter
+versetzt oder verhaft sye, dann inmaͧssen er gesagt haͧt, so hab er
+diser zytt gefertigt, und doch daby schüldig, dem köffer schriftlich
+urkund zuͦ geben, ob das guͦt von yemand wytter angesprochen wurde,
+das er im dann ouch wytter verckung tuͦn sölle nach der stat recht,
+namlich zehen iar und ain tag gegen den inlendischen und zwaintzig iar
+gegen ußlendischen.</p>
+            </div>
+            <div xml:id="Art.124">
+  <head>[Art. 124]</head>
+<p>
+  Item nachdem bißher etliche frye wesen alß spittal, sondersiechen und
+ander sich vil guttere und gulten in zwing und pennen diser unser stat
+gelegen undertzogen hand, dardurch der stur abpruch beschehen, und
+nutzer und besser weͣre, solliche ligende gutter weͣren in hand unser
+burger und ynwonere, die dann mit styr and ander beschweͣrd uns und
+<pb n="Bl. 27 v"/> der stat damit helfend zuͦ heben, dann so die
+in fry hand also fur und fur komen söllten; uff das setzen, ordnen und
+wöllen wir ernstlich gebietende, ob furterhin ain ligend guͦte in Tuwinger
+ban gelegen an die obgemelten allmuͦßen oder sunst in fry heͣnde vallen
+und komen werde, das man söllich guͦte mit styr und wie sich gepurt belade
+wie andere gutter, ungevarlich. Und sollent die styrsetzere furterhin uff
+sollichs truwen flyß und uffsechen haben, damit dem also gelebt und nochkommen
+werde.
+<pb n="Rau/Sydow 37"/>
+                </p>
+            </div>
+            <div xml:id="Art.Nachrede">
+      <head>[Nachrede]</head>
+<p>So wir nun dise hievorgeschriben ordnung, stattuten und satzungen  uß
+guͦtter mainung und notturft habent begryffen laussen, der hoffnung,
+daz die uns, unsern erben und nachkomen, ouch gemainer statt Tuwingen 
+zuͦ guͦt und nutzen erschießen werde; damit dann söllichs dester
+bestantlicher gehalten und in sin wirckung und übung  kom und belybe, so
+ist unser befelch und ernstlich mainung, daß diß hievorgeschriben
+ordnung, stattuten und satzungen von den richtern diser unser statt als
+für ain recht eehaͤftin gehalten, und das ouch alle iaͧre uf den tag,
+so das gerichte besetzt wirdt, inen diß buch vom anfang bis zuͦm eͣnde
+uß vorgelesen und daruff in ir aide gegeben werd, sollichs in iren
+urteln und sunst, wie sich irnhalb gepurt, fur ain statrecht und
+eehaͤftin  zuͦ halten und zuͦ handthaben, getruwlich und
+ungefaͧrlich. Und behalten uns hiemit vor, söllich stattuten und
+satzungen, ob wir wöllen, zuͦ mindern und zuͦ meren oder gantz
+abzuͦthuͦnd. Datum.</p>
+</div>
+        </body>
+    </text>
+</TEI>

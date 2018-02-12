@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1442_reichslandfriede">
+    <teiHeader>
+    <fileDesc>
+      <titleStmt>  
+        <title>Reichslandfrieden 1442 :: Elektronische Edition Heino Speer 2010</title>
+      </titleStmt> 
+    <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+  <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial"> 
+        <head>[Editorial]</head> 
+<p>Frankfurter Landfriedensordnung Friedrichs III. 1442, August 14 :: Elektronische Edition Heino Speer 2010 / 2013<lb/>
+  Quelle: Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit / bearb. von Karl Zeumer. - 2., verm. Aufl. - Tübingen : Mohr, 1913. - XVIII, 562 S. (Quellensammlungen zum Staats-, Verwaltungs- und Völkerrecht ; 2) S. 260-265</p>
+            </div>
+            <div xml:id="a0">
+  <p>
+     <pb n="S. 260" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g260"/>
+     <lb/>
+     <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00061">[Druck
+1484 HAB Wolfenbüttel]</ref>
+ </p>
+
+<div n="Vorrede">
+
+<div type="intitulatio">
+    <p>Wir <name type="person">Friderich von Gottes gnaden Romischer
+kunig</name> zu allen Zeiten merer des reiches, herzog zu <name type="place">Osterreich</name>,
+zu <name type="place">Steyr</name>, zu <name type="place">Kernten</name> und zu <name type="place">Crain</name>,
+grave zu
+<name type="place">Tirol</name> etc.</p>
+                    </div>
+
+<div type="inscriptio">
+<p> embieten allen und ieglichen den erwirdigen und hochgebornen unsern und des
+heiligen Romischen reichs curfursten, fürsten, geistlichen und werntlichen,
+graven, freien, herren, dienstluten, rittern, knechten, burgraven, vögten,
+burgermeistern, schultheissen, reten, richtern, amptluten und gemeinden aller
+und ieglicher stette, merkte, dorfere und allen andern, in welchen wirden, stat
+oder wesen die sein, unsern und des heiligen reichs undertanen und lieben
+getrewen unser gnad und alles gut.</p>
+     </div>
+
+<div type="arenga">
+    <index level1="Gesetzgebung" level2="Motivation"/>
+    <p>Sindemalen wir von den gnaden des allmechtigen Gottes unverdinter sachen
+zu den wirden Romischs kuniclichs gewalts <term type="phrase">erhohet und
+gesatzt</term> sein, so bedunkt uns wol billichen, daz wir unser pflichte gen
+meniclichem also beweisen, damit man in dem heiligen Romischen reiche frides
+und gemachs seliclichen empfinde.</p> </div>
+
+<div xml:id="narratio">
+    <p> Wann wir nu in anbeginn unsers regiments, auch ietzo nach unserer
+kuniclichen cronung eigintlich und menigvelticlich underweist sein und vernomen
+haben, daz in dem heiligen Romischen reich und sonderlich in deutschen landen
+vil unrats, gewalticlicher, auch anderer unzimlicher und uneerlicher <term type="phrase">angriff
+und beschedigung</term> bescheen seind und noch teglichs
+gescheen mit <term type="phrase">rowb, mord und brand</term>, davon das heilig
+reich, des wir ein merer genant sein, gar schadlichen geminnert und vil des
+reichs undertanen <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00062">[Druck
+1484 HAB Wolfenbüttel]</ref> und getrewen, geistlich und werntlich personen,
+groß <term type="phrase">not, verderbnuß und scheden</term> teglich leiden, als
+dann leider groß clag durch die lande geet, dardurch gemeiner nutz großlich
+geirret, geswechet und undergedrucket wirdet: so haben wir uns von der purde
+wegen unsers kuniclichen ampts, die wir Gott zu lobe, dem heiligen reich zu
+eren und durch gemeines nutzes willen auf uns genomen haben, darzu ergeben, daz
+wir mit allem fleiß <pb n="S. 261" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g261"/> solch
+unrat und boß Sachen mit zeitlichem rate und mit der hilfe Gottes des
+allmechtigen, ouch beistand unser und des heiligen Romischen reiches getrewen
+nach allem unserm vermögen ze tiligen arbeiten wollen.</p>
+                    </div>
+
+<div xml:id="promulgatio">
+    <p> Und darumb durch anbringung, auch mit beiwesen und rate unser und des
+heiligen reichs curfursten und ander fursten, geistlicher und werntlicher,
+graven, freien, herren, ritter, knechte und stette, die wir dann durch si selbs
+oder ir mechtig sentboten darumb in sonderheit her zu uns zu komen verpott und
+geheischen haben, setzen, wollen und gepieten wir von Romischer kuniclicher
+macht, kraft und gewalt ernstlich und vesticlich mit disem brief und ermonen
+auch euch alle und ieglich unsers und des heiligen reichs undertanen, in
+welchen wirden, statt oder wesens ir seit, solcher trew und pflichte, als ir
+Gott, dem heiligen reiche, auch uns als einem Romischen kunig ewrm obristen
+herren, gemeinem nutz und euch selbs schuldig, pflichtig und gepunden seit, daz
+ir all und ieglich <term type="phrase">stuck, punkt und artikel</term> dieser
+nachgeschriben unserer ordenung <term type="phrase">genzlich, getreulich,
+aufrechticlich und ungeverlich</term> haltent, vollfurend und lobent, auch mit
+allen den ewren und die euch zugehoren oder der ir mechtig sind, solchs also
+<term type="phrase">genzlich und getrewlich</term> zu halten ernstlich <term type="phrase">schaffet,
+ordnet und bestellet</term>, als <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00063">[Druck
+1484 HAB Wolfenbüttel]</ref> lieb ewch sei unser und des reichs swere ungnade
+und die pene hienach in diser unserer ordnung begriffen zu vermeiden. </p>
+</div>
+                </div>
+
+<div xml:id="P1">
+  <head>[1]</head>
+     <p> Zum ersten, daz niman dem andern schaden tun oder zufugen sol, er hab
+in dann zuvor zu gleichen, pillichen, lantlofigen rechten ervordert. Und ob im
+solich recht vielleicht nit so bald, als er wollt oder begert, <term type="phrase">gedihen
+und widerfahren</term> mochte, so sol er dannocht den nit
+<term type="phrase">angreifen noch beschedigen</term>, er hab dann vor alles
+das volliclich und ganz getan und volbracht, das keiser Karls des virden
+seliger gedechtnuß unsers vorfaren am reiche <ref target="">guldin
+bulle in dem capitel von dem widersagen</ref> eigintlicher inhalt und
+außweiset.</p>
+                </div>
+
+<div xml:id="P2">
+  <head>[2]</head>
+     <p>
+    <index level1="Schuldforderung" level2="unleugbar"/> Item ob ieman zu dem
+andern <term type="juridical">kuntlich und unlougembar schuld</term> hette,
+hette dann der <term type="juridical">schuldvorderer</term> burgen oder briefe,
+so mochte er sein schuld vordern und einbringen nach laut und sag solcher
+seiner brieve, und als im versprochen ist zu bezalen. <index level1="Pfändung" level2="bei Leistungsverweigerung"/>
+Mocht aber einer nit bezalt werden nach
+siner brieve laut, oder als im versprochen were, daz man in bezalen solte, und
+im alsdann darumb zu pfenden gepurte, der sol es doch mit dem pfand halten, so
+hernach geschriben stet. <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00064">[Druck
+1484 HAB Wolfenbüttel]</ref>
+                        <index level1="Schuldforderung" level2="unter Kaufleuten"/>
+Doch darin unvergriffen der kaufman: die sollen an einander
+bezalen, auch iederman sein <term type="phrase">zinße, gulte und zehende</term>
+einbringen, als dann bißher herkommen ist.</p> </div>
+
+<div xml:id="P3">
+  <head>[3]</head>
+     <p>
+    <index level1="Pfändung" level2="Pfändungsfrist"/> Und der also pfenden
+wil, sol vor, ee er darumb pfendet, an den, der im die schuld schuldig ist,
+<term type="phrase">schriftlich, mundlich oder under augen</term> ervordern, in
+umb sein schulde gutlich oder mit landleufigen, billichen rechten unclaghaft zu
+machen in den nechsten zweien monaden nach solcher ermonung geleich nach
+einander volgende. <index level1="Pfändung" level2="Pfandverwertung"/> Und ob
+er in solcher zeit in obgeschribner masse nit unclaghaftig gemachet wurde, so
+mag er den, der im schuldig ist, und desselben habe und gut darnach <term type="phrase">pfenden
+und
+    angreifen</term>; doch daz er alsdann mit den pfanden pfantlichen gefare,
+also daz er dieselben pfand alle ungeverlich in die nachsten <term type="phrase">statt
+oder sloß</term> treibe, da ein gerichte inne sei, das des,
+der angreifet und pfendet, noch des, der gepfendet wirt, nit sei.  Und man sol
+in und die habe in demselben <term type="phrase">sloß, statt oder
+gerichte</term> einnemen und darein treiben lassen und im des nit weren. Er sol
+auch diewile mit denselben pfanden <term type="phrase">fride und geleite</term>
+darinne haben ungeverlich.</p>
+     <p>
+    <index level1="Pfändung" level2="essendes Pfand"/> Und sein es dann <term type="juridical">essende
+pfand</term>, so sol er die steen lassen <term type="phrase">drei tag und drei nachte</term>,
+weren es aber andere pfande, so
+sol er die vier wochen nach einander die nechsten steen lassen. Und sol auch
+dhein mitrewter weder beute noch teile davon nemen noch nemen lassen, sunder
+dieselb habe sol unverruckt bei einander beleiben.</p>
+  <p>
+                        <index level1="Pfändung" level2="Pfandverwertung"/> Und ist dann, daz
+iemand kumpt, der dieselben <term type="phrase">nam und pfande</term>  <pb n="S. 262" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g262"/> außnemen wil, dem sol man si <term type="phrase">auf recht und gewißheit</term>
+außgeben mit kuntschaft des
+richters oder des amptmans, in des gerichte sie sein, oder sol ander erber leut
+darzu nemen, die <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00065">[Druck
+1484 HAB Wolfenbüttel]</ref> dabei sein. Wolte aber niman die pfand außnemen
+in der vorgenanten zeit, so mag der pfender dieselben pfand darnach verkaufen
+ungeverlich, so er turest mag, auch mit kuntschaft des amptmans, in des
+gerichte si gefurt sein, oder anderr erber leut daselbs.</p>
+  <p>
+    <index level1="Pfändung" level2="Verwertungserlös"/>
+    <index level1="Pfändung" level2="Unkostenersatz bei Verwertung"/> Und
+dasselb gelt sol dann demselben, der gepfendet hat, an seiner schulde abgeen;
+und was er auch costung auf dieselben pfandung gelegt hat, die redlich ist und
+die er vor dem herren oder amptman des gerichts kuntlich machet, die sol im
+auch daran abgan. Wer es auch, daz von solcher pfandung wegen iemand gefangen
+wurde, dieselben gefangen sollen auch alle <term type="phrase">auf recht und
+gewißheit</term> außgeben werden; und ob si der Bürgschaft und gewißheit nit
+einig werden mochten, was dann das gericht, darin das ist, erkennet, dabei sol
+es beleiben, die auch solchs, ob sein not wirdet, erkennen sollen.</p> </div>
+
+<div xml:id="P4">
+  <head>[4]</head>
+     <p>
+    <index level1="Pfändung" level2="Eigenmacht als Raub"/>
+    <index level1="Eigenmacht" level2="Nacheile"/> Wer es auch, daz der pfender
+dieselben pfand nicht in das nechst <term type="phrase">sloß oder statt</term>,
+da ein gericht inne were, tribe und die darin hielte, als vor geschrieben
+steet, so sol man das fürbaß für einen rawb halten; und wurd dann der <term type="phrase">herre
+oder amptman</term> des selben sloß oder ander umbsessen
+angeruft, so sollen si mit iren gehilfen getreulich beholfen sein, <term type="juridical">zu
+frischer tat nacheilen</term> und darzu tun, ob sie die
+selben pfender auch pfand in ire oder andere <term type="phrase">sloß oder
+gericht</term> bringen mochten; da mocht man dann mit in
+    gefaren nach des reichs recht, das man auch gestatten sol.</p> </div>
+
+<div xml:id="P5">
+  <head>[5]</head>
+     <p>
+    <index level1="Pfändung" level2="Pfandaufnahmepflicht"/> Wer es auch, daz
+ein pfender mit den pfanden an ein sloß keme und vorderte sich damit
+einzulassen, wurd er dann damit nit eingelassen, das er kuntlich machte, so
+mochte er die pfand daselbs steen lassen oder die furbaß aber in das <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00066">[Druck
+1484 HAB Wolfenbüttel]</ref>nechst gericht treiben. Und was er dann des
+schaden neme, der <term type="phrase">redlich und ungeverlich</term> were und
+den er kuntlich machte, den solt im der herre oder die lewte desselben sloß,
+die in nicht eingelassen hetten, ausrichten.  Es sol auch nieman den, die die
+pfender in ir <term type="phrase">sloß und gericht</term> einlassen, darumb
+argen willen beweisen oder schaden zufugen in dhein weise. Wer es auch, ob
+ieman anders, denn obgeschriben steet, ieman zugriff tete, so sol iedermann,
+der des ermont oder sust innen wirt, <term type="juridical">zu frischer tat
+eilen</term> und solch genomen habe mitsampt den, die das getan haben, zu recht
+helfen behalten.</p> </div>
+
+<div xml:id="P6">
+  <head>[6]</head>
+     <p>
+    <index level1="Fehde" level2="Schutz des Landmanns"/> Item so sol der <term type="phrase">ackerman
+und weingartman</term> ausser seinem hawß mit seiner
+habe, die man zu den <term type="phrase">ackern, wisen und weingerten</term>
+die zu pawen bedarf (es sei in veintschaft oder on veintschaft), auch auf den
+ackern, wisen und weingerten und wider heim zu hawse, und als man die frucht
+sneiden, wisen mein, auch die wein lesen und das infuren sol, <term type="phrase">sicher
+und fridlich</term> sein. Und sol ouch niman <term type="phrase">prennen noch prantschatzen</term>,
+fewr schiessen oder fewr
+inlegen weder tags noch nachts in dheinen weg, es sei in offner vehde,
+veintschaft oder on veintschaft.</p> </div>
+
+<div xml:id="P7">
+  <head>[7]</head>
+     <p>
+    <index level1="Fehde" level2="geschützte Personen"/> Item es sollen all
+<term type="phrase">geistlich lewt, kindelpetterin</term> und auch die, die in
+swerer krankheit sein, auch <term type="phrase">pilgrim, lantfarer, kaufleut
+und furlewt</term> mit iren haben und kaufmanschaft sicher sein und nit
+beschedigt werden.</p> </div>
+
+<div xml:id="P8">
+  <head>[8]</head>
+     <p>
+    <index level1="Fehde" level2="geschützte Räume"/> Item es sollen <term type="phrase">kirchen,
+kirchhofe und widemhofe</term> auch sicher sein und
+daraus nit genomen werden, noch auch dhein weer daraus gescheen; doch ob ieman
+die oder die darin weren, sich understunden ze <term type="phrase">sturmen oder
+noten</term>, so mocht man sich daraus weeren.</p> </div>
+
+<div xml:id="P9">
+  <head>[9]</head>
+     <p>
+    <index level1="Fehde" level2="reisige Knechte"/> Item es sol auch furbas
+dhein gereisiger knechte sein, der sein aigen pferd habe, er hab dann einen
+<term type="phrase">herren oder junkherren</term> oder sei einer statt diener,
+des oder der <term type="juridical">geprotter und gedingter knecht</term> er
+sei. Und ob der knecht ichts tete wider die vor- <pb n="S. 263" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g263"/> und nachgeschriben stuck, das sol
+sein herschaft <term type="phrase">verantwurten und widerkern</term>. Und was
+sust raisiger knecht weren, die eigen pferd und nit herren oder junkherren
+<ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00068">[Druck
+1484 HAB Wolfenbüttel]</ref>hetten, als vor geschriben steet, dieselben, auch
+ander knecht, die nit herren hetten oder die herren hetten, die ir zum rechten
+nit mechtig weren, die sollen noch mogent weder <term type="phrase">fride,
+trostung noch geleit</term> haben.</p> </div>
+
+<div xml:id="P10">
+  <head>[10]</head>
+     <p>
+    <index level1="Fehde" level2="Verbot für Untertanen"/> Item so sollen all
+curfursten, ander fursten, geistlich und werntlich, grafen, freien, herren,
+ritterschaft, stett und meniclich unser und des reichs undertanen mit allen den
+iren und den sie zu gepieten haben, es seien edel, unedel, raisig knecht,
+hantwerchknecht, dinstknecht, pawrßknecht oder ander, ernstlich und vesticlich
+<term type="phrase">schaffen und bestellen</term>, daz der dheiner in raißwise
+iemands oder auf iemands diene angriff oder zugriff helf tun, es sei <term type="phrase">auf
+wasser oder auf land</term>, on seiner herschaft <term type="phrase">wissen, willen
+und gunst</term>; solchs wir auch den obgemelten
+und allen andern, die nit herren hetten, den sie in sonders zu versprechen
+stunden, zu halten vesticlich gepieten.</p> </div>
+
+<div xml:id="P11">
+  <head>[11]</head>
+     <p>
+                        <index level1="Müssiggänger" level2="Verbot der Duldung"/>
+      Item es sol auch meniclich, es seien fursten, herren oder stette, in
+welchem <term type="phrase">stat oder wesen</term> die sein, als ob begriffen
+ist, in iren landen, stetten und gepieten mit iren amptluten auch sust
+ernstlich <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00069">[Druck
+1484 HAB Wolfenbüttel]</ref>und vesticlich <term type="phrase">schaffen und
+bestellen</term>, daz furo dhein gewachßner knecht, der mit merklicher
+krankheit seins leibs nit beladen ist und ein mussiggeer sei, auch nit erber,
+redlich und begenklicher leibnarung fur sich selber hab, in iren landen,
+stetten und gepieten weder gehalten noch gelitten, sonder <term type="phrase">versmecht
+und außgetriben</term> werden.</p> </div>
+
+<div xml:id="P12">
+  <head>[12]</head>
+     <p>
+                        <index level1="Geleit" level2="Fälle der Gewährung"/>
+      Item es sol niman an dheinem ende geleite haben noch iemand gegeben
+werden, dann zu recht, außgenomen zu offen tegen, hofen und versprochen
+kempfen.</p>
+ </div>
+
+<div xml:id="P13">
+  <head>[13]</head>
+     <p>
+                        <index level1="Femgericht" level2="Arnsberger Reformation"/>
+     <index level1="Gesetzgebungsmotiv" level2="Verbesserung der Rechtslage"/>
+      Item von der heimlichen gerichte wegen, nachdem und sich vil
+unbillicher sachen, die da nit daran gehoren, an den selben gerichten verlaufen
+und bißher menigvelticlich gemacht haben, dardurch, wa das lenger besteen
+sollt, gemeiner nutz und frid in dem heiligen reich nit wenig <term type="phrase">bekrenkt
+und geirret</term> werden mochte, und darumb solchen
+unrat zu furkomen, so haben wir mit rate, als obgeschriben steet, unser und des
+heiligen reichs curfursten, fursten, stett und anderr obgemelt gesetzt und
+geordent, <term type="phrase">setzen, ordnen und gepieten</term> von Romischer
+kuniclicher macht in kraft diß briefs, daz solch <term type="juridical">heimlich
+gericht</term> furbaß mit fromen, verstendigen und
+erfaren luten besetzt und nit durch <term type="phrase">bennisch, veracht,
+uneelich geborn, meineidig oder eigen lute</term> gehalten werde; und daz es
+damit dieselben anders <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00070">[Druck
+1484 HAB Wolfenbüttel]</ref> nit halten, dann als das von anbeginn durch den
+heiligen keiser <name type="person">Karle den grossen</name> unsern vorfaren am
+reich, auch durch die reformation, so der erwirdig <name type="person">Dietrich
+erzbischove zu Collen</name> etc.  unser lieber neve und curfurst, als im das
+durch <name type="person">keiser Sigmunden</name> loblicher gedechtnuß unsern
+vorfaren bevolhen was, zu <name type="place">Arnsperg</name> in beiwesen vil
+grafen, freien,  herren, ritterschaft, stulherren, freigreven und freischeffen
+gemacht hat,  geordent und gesatzt ist; besonder daz man niman dahin <term type="phrase">vordere,
+heische oder lade</term>, dann die und umb die sachen,
+die dahin gehorend oder der man zu den eren nit mechtig sein mocht.</p> </div>
+
+<div xml:id="P14">
+  <head>[14]</head>
+     <p>
+                        <index level1="Femgericht" level2="Subsidiarität"/>
+     Wann ob iemand dahin gevordert wurd, des sein <term type="phrase">herre
+oder richter</term> mechtig wer zu den eren vor im oder
+andern lantleufigen gerichten, und da derselb herre oder richter dem <term type="phrase">freigreven
+oder richter</term> solchs zu wissen tete oder
+schribe, einen solchen abvorderte, und er mit zweien oder dreien andern
+unversprochen mannen dem freigreven oder richter <term type="juridical">trostung
+zu den eren</term> obgemelter massen under iren
+sigeln zuschriben, so sol  alsdann solch ladung absein und der sach
+nachgegangen werden vor dem herren oder richter, da die sach hingehort und
+gevordert wurd, on eintrag des freigraven oder heimlichen richters. Wa aber dem
+also nicht nachgegangen wurde, so sollen alle <term type="phrase">proceßen,
+ervolgung und gericht</term>, die daruber gescheen weren oder gescheen wurden,
+ganz <term type="phrase">kraftloß, tod und ab</term> sein, die wir auch ietzund
+als dann und dann als ietzund von Romischer kuniclicher macht kraftloß sprechen
+und urteilen.</p>
+                </div>
+
+<div xml:id="P15">
+  <head>[15]</head>
+    <p> <index level1="Femgericht" level2="Freischöffe"/>
+     Es sol auch dhein freigreve dheinen freischeffen machen dann die, die
+von rechts wegen werden mogen und die solich ir tuglicheit durch gnugsam <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00071">[Druck
+1484 HAB Wolfenbüttel]</ref>kuntschaft <pb n="S. 264" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g264"/> furbringen; nemlich sollen si keinen zu schoffen machen, der
+uneelich geborn, iemands eigen oder sust verpunden oder zugehorig sei; die auch
+in des heiligen reichs <term type="phrase">achte, aberacht oder bennen</term>,
+geistlichen oder werntlichen, sein, sollen si auch dheinswegs schoffen
+machen.</p> </div>
+
+<div xml:id="P16">
+  <head>[16]</head>
+     <p> Solchs, so von dem heimlichen gericht obgeschriben stet, wellen wir
+von meniclich <term type="phrase">vesticlich und unzerbrochenlich</term>
+gehalten werden, und gepieten darumb allen und ieglichen stulherren, freigreven
+und allen andern, in welchem <term type="phrase">wesen oder stat</term> die
+sein, <term type="phrase">ernstlich und vesticlich</term> mit disem brief, daz
+si solchs auf iren <term type="phrase">stulen und gerichten</term> bestellen
+ordenlich gehalten werden. Wann wa icht dawider oder anders geschehe, so sollt
+der stulherre zehen mark goldes in unser kuniclich camer unleßlich zu bezalen
+und der freigreve sein ampt der freigrefschaft verfallen sein, auch der, der
+also unrecht <term type="phrase">vordrung oder verbotung</term> erwurb, sich
+selbs verurteilt und seinen leib verwurket und ir ieglicher wider ere getan
+haben; und sol meniclich zu im richten, als sich gepurt.</p>
+                </div>
+
+<div xml:id="P17">
+  <head>[17]</head>
+ <p>    <index level1="Münzordnung"/>
+    Item wann auch dem heiligen Romischen reich und Dewtschen landen an
+der <term type="phrase">guldin und silbrein munß</term> groß ligt und
+notturftig ist, daz die ordenlich gehalten und geslagen werde, und darumb so
+setzen wir mit rate und in maß als vor, daz die guldin munß bei den newnzehen
+graden veines goldes zu gemeiner lantzwerung beleibe, als dann etlich zeit
+<ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00072">[Druck
+1484 HAB Wolfenbüttel]</ref> gewesen ist; und sol auch die nit geringert noch
+hoher gemunzt werden. Wann wer anders tete, in welchen wirden, stat oder wesen
+der were, der sol darumb swerlich gestraft werden, als sich dann gepuren
+wirt.</p> </div>
+
+<div xml:id="P18">
+  <head>[18]</head>
+<p>
+                        <index level1="Münzordnung"/>
+Item von der silbrin münß wegen, wann dieselb durch gelegenheit der lande
+und mancherlei sach wegen nicht auf ein gemein korn durch alle lande zu bringen
+ist, darumb so wollen und gepieten wir, daz alle ihene, die solich silbrin munß
+slahen, <term type="phrase">steticlich und ordenlich</term> schaffen geslagen
+und gehandelt werden. Wann wa das anders gehandelt und geslagen wurde, dann als
+billich were, so wollen wir das <term type="phrase">strenglich und
+vesticlich</term> strafen und gestraft werden schaffen, auch nach dem und sich
+gepuren wirt.</p> </div>
+
+<div xml:id="P19">
+  <head>[19]</head>
+     <p> Item wer der vor geschriben stuck eins oder mer uberfure, dawider tete
+oder  darzu hulf, daz dawider getan wurde, oder der dieselben, die dawider
+teten,	mit willen, wissen oder geverde hauste, hofte, hielde oder in zuschube,
+der oder die sollen wider ere und recht getan haben, auch in unser und des
+reichs swere ungnade und darzu ein pene, nemlich hundert mark lotiges goldes
+halb in unser und <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00073">[Druck
+1484 HAB Wolfenbüttel]</ref>des reichs camer und halb dem cleger oder
+beschedigten unleßlich und on alle gnad zu bezalen, verfallen sein. Welich auch
+die weren, die solich peen an golde oder gelt nit zu bezalen hetten, die sollen
+ir missetat an iren leiben erordnen und sol zu in nach des reichs rechten
+gericht werden. Es sollen auch, die zu verlieren hetten, alle ire lehen und
+freiheit, so si von uns und dem reich oder andern geistlichen oder werntlichen
+herscheften oder personen hetten, zusampt der obgenanten pene ganz, als ob
+solchs mit recht ervolgt were, verlorn haben. Und sollen auch der oder die
+solchs teten oder si geverlich hawsten, in zulegten oder si hinschuben,
+dheinerlei trostung, frid oder geleit haben an keinen stetten oder enden,
+sonder es sol und mag meniclich zu dem oder den selben macht han, si an leib
+und gut anzugreifen und daran nicht gefrevelt haben, gleicher weise und in
+aller maß, als ob si mit des reichs hofgericht oder andern zimlichen gerichten,
+geistlichen und werntlichen, geheischen und mit rechtem urteil verachtet und in
+die acht und aberacht getan weren. Und darzu so sol derselben leibe und gut
+nimand verantwurten noch beschirmen in dheinen wege; und in welchen gerichten
+si begriffen werden, so sol man si on allen intrag behalten und uber sie
+richten, alles bei der pene und wie vor geschriben steet.</p>
+                </div>
+
+<div xml:id="P20">
+  <head>[20]</head>
+
+<div xml:id="abaenderungsklausel">
+    <p> Doch behalten wir uns als einem Romischen kunig, ob ichtzit in diser
+unserr ordenung hinfuro zu verendern, zu meren, zu minnern, darzu oder davon zu
+setzen oder die ganz oder der ein teile abzutun sich gepuren wurde nach
+gelegenheit der zeit und der sache, daz wir das, als doch fur sich selbs
+billich ist, mit rat unserr und des reichs getrewen ze <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00074">[Druck
+1484 HAB Wolfenbüttel]</ref>tun haben und tun mogen, all argliste und geverde
+in allen und ieglichen <pb n="S. 265" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g265"/>
+vorgeschriben puncten und artikeln genzlich außgeslossen und
+hindangesatzt.</p>
+                    </div>
+
+<div xml:id="datum">
+    <p>Geben zu Frankfurt, versigelt mit unserr kuniclichen majestat
+anhangendem insigel, nach Crists gepurd <date when="1442-08-14">vierzehenhundert
+und darnach in dem zweiundvirzigisten jare, an unser lieben Frawen abent assumptionis, unsers reichs im dritten
+jaren.</date>
+                        </p>
+                    </div>
+
+<div xml:id="subscriptio">
+    <p>Ad mandatum domini regis in consilio.<lb/>
+    D. Caspar notarius referens.</p>
+     </div>
+ </div>
+            </div>
+        </body>
+    </text>
+</TEI>

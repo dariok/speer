@@ -1,0 +1,1383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1480_kurpfalzhofgo">
+    <teiHeader>
+  <fileDesc>
+   <titleStmt>
+                <title> Die Hofgerichtsordnung Kurfürst Philipps für die Pfalzgrafschaft bei Rhein </title>
+ <author>Philipp Pfalzgraf bei Rhein</author>
+ </titleStmt>
+ <sourceDesc>
+ <p>[HStA München, Allg.StA Opf., Lit.100, Fol.88-103]</p>
+ </sourceDesc>
+ <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+        </fileDesc>
+ <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial">
+  <head>[Editorial]</head>
+  <p>Der Text ist ediert in: Klaus Bender, Die Hofgerichtsordnung Kurfürst Philipps (1476-1508) für die Pfalzgrafschaft bei Rhein. Juristische Dissertation Universität Mainz 1967.   Herrn Dr. Klaus Bender danke ich für die Erlaubnis, eine elektronische Edition seiner Dissertation und damit der Hofgerichtsordnung fertigen und im Internet publizieren zu dürfen.<lb/>Heino Speer</p>
+            </div>
+            <div xml:id="S1">
+ <head>Hofgerichtsordnung 1480</head>
+ <div xml:id="S1.1">
+ <head>[Vorrede]</head>
+ <p> [In dem Namen]<lb/>
+[88, 1]  der heyligen unnd ungescheiden trivaltigkeyt<lb/>
+ seliglichen amenn / von gnaden gottes wir<lb/>
+ philips pfaltzgrave by ryne hertzog in beyern<lb/>
+ des heiligen römischen rychs ertzdruchses und<lb/>
+ kurfurst haben betracht das wir von gott un<lb/>
+serm schöpffer gewirdigt sin anndern menschenn<lb/>
+ fur zu sin / den zu herschen / sie auch zu schuten<lb/>
+ unnd schirmen / unnd dabey den fridden zu buwen /<lb/>
+ des wir sovil uns gott gnad verlihet emssiglichen<lb/>
+ [88, 10] gesehen und erfunden wollen werden / als wir gott<lb/>
+ unnserm schöpffer rechnung darumb thun sollen<lb/>
+ und wann aber alle ordenung und fridelich same-<lb/>
+lung flusset unnd gefestet wirdet ursprunglich<lb/>
+ uß der gerechtigkeyt und in alle weg als zu hoffen<lb/>
+ ist unnser geschefft / dester glucklicher ergeen<lb/>
+ sollenn / so wir gericht und recht hanthaben<lb/>
+ und meniglich / die des by unns notturfftig<lb/>
+ sin / des bitten unnd begerenn recht ergenn<lb/>
+ lassenn unnd zu fridden helffen / so dretten<lb/>
+ [88, 20] wir hiemit inn die fußstaffen unnser elternn<lb/>
+ die des ein erlich lop hinbracht hann und<lb/>
+ sind auch der selben neygung wo sie es gelassen<lb/>
+ hand unnd besunder der hochgeborn furst<lb/>
+ unnser lieber vetter und vatter pfaltzgrave<lb/>
+ friderich seliger / der des ein schrifftlich ordnung<lb/>
+ gebrucht hat an zufahen und haben dem all-<lb/>
+mechtigen gott zu lob / dem gemeinen nutz zu<lb/>
+ furderung unnd besunder unnsers furstenthums<lb/>
+ der pfaltzgraveschafft land luten unnderthon<lb/>
+[88, 30] und zugewanten prelaten graven hernn ritter <pb facs="#72" n="72"/> <lb/>
+ knechten edeln unedeln rich unnd armen / das<lb/>
+ einem yeden furderlich recht gedihen und widder<lb/>
+ faren möge / unnser hoffgericht geoffent und<lb/>
+ besetzt und des ein ordenung mit zittigem treffen-<lb/>
+lichem ratt / nach unnser selbs besten verstentnis<lb/>
+unnd auch unnser pfaltz gelidder gelerten und leyen<lb/>
+geistlicher und weltlicher rete furgenomen die also<lb/>
+verstiglichen zu halten und zuhanthaben unnd<lb/>
+schaffen gehanthabt und gehalten werden wie es<lb/>
+[88, 40] von puncten zu puncten wort zu worten hernach-<lb/>
+volgt wir setzen orden wollenn und meynenn<lb/>
+ auch in crafft diß brieffs das unnser erbenn<lb/>
+ pfaltzgraven by ryne welicher der kurfurst<lb/>
+ ist / solich hoffgericht halten haben und hant-<lb/>
+habenn das truwelich mit reten und personen<lb/>
+ gelerten unnd leyen / dar zu tuglich unnd besund<lb/>
+ die leyen / von der ritterschafft unnsers fursten-<lb/>
+thums darzu ordenen und also besetzen und beharen<lb/>
+soll als das yetz angefangen und inn ubung ist /<lb/>
+[88, 50] damit wir unser erben die kurfursten sindt be-<lb/>
+laden innmaß wir uns des beladen hannde als<lb/>
+  sie des auch ere lop unnd nutz entpfahen wollenn <pb n="Fol.89"/>
+                    </p>
+ </div>
+ <div xml:id="Art.1">
+  <head>[Art. 1] Wie offt im jare und zu welichen zyttenn<lb/>
+ daz hoffgericht gehalten werden solle</head>
+ <p> Zum ersten wollen wir das unser hoffgericht<lb/>
+ zu vier malen im iar gehalten werden solle<lb/>
+ das erst uff den nechsten gerichts tag nach<lb/>
+ unser lieben frauwen tag zu latin assumptio<lb/>
+ genant angefengt werden das ander uff den<lb/>
+ nechsten gerichts tag nach aller heyligenn<lb/>
+ tag das dritt uff den nechsten gerichtstag<lb/>
+[89, 10] nach dem sontag invocavit das vierde und<lb/>
+ letst uff den nechsten gerichts tag nach dem<lb/>
+ sontag trinitatis zu den vier obgemelten<lb/>
+ zytten<note xml:id="nN1" type="crit_app" n="N1">In Amberg trat das Hofgericht nur zweimal im Jahr zusammen. Der eine Zeitpunkt war "der nechst fritag nach sant michels tag", der andere der "nachfolgend fritag nach dem sontag misericordias domini". Siehe Ambergische HGO, HStA München, Allg. StA Opf., Lit. 100, Fol. 5 R.</note> sollen alle sachen / die fur unser
+  hoffge-<pb facs="#73" n="73"/> <lb/>
+richt zu rechtfertigen angenomen werden<lb/>
+ rechtlich gehandelt und ein gerichts tag nach<lb/>
+ dem andern gehalten und also eins yeden iars<lb/>
+ inn zu kunfftigen zyten gehalten werden / on<lb/>
+ underlaß / so lang sich das geburt nach dem<lb/>
+ der sachen vil oder lutzel sint doch das sich<lb/>
+[89, 20] keyn hofegericht uber viertzehen tag verziehe /<lb/>
+ es hett dan merglich ursach / mag das ein<lb/>
+ tag zwen oder dry erstreckt werden ungeverlich </p>
+ </div>
+ <div xml:id="Art.2">
+ <head>[Art. 2] Das hoffegericht nit<lb/>
+ uff zu schlagenn</head>
+ <p> Item es soll auch ein iglich unser hoffgericht zu den<lb/>
+ obgemelten vier getziten im iar furgang han<lb/>
+ unnd on merglich grob ursach nit uffgeslagenn /<lb/>
+ oder verrugt werden es begebe sich dann / das nit<lb/>
+ sachen verhanden an den rechttag gesetzt wordenn<lb/>
+[89, 30] weren und als dan soll doch solich hofegericht<lb/>
+ nit dester mynder zu andern zyten sinen fur-<lb/>
+gang han und gehalten werdenn </p>
+ </div>
+ <div xml:id="Art.3">
+ <head>[Art. 3] Das die gesatzten tag nit lichti-<lb/>
+glichen verruckt werdenn</head>
+ <p> Item wan rechttag gesetzt werden / die sollen von<lb/>
+ anbringen der parthyen und sunder redelich<lb/>
+ ursach nit geandert oder uffgeschlagen werden /<lb/>
+ es geschech dan durch richter unnd rete in sytzen<lb/>
+ dem rechten / oder das wir solichen uffschlag<lb/>
+[89, 40] teten merglicher redlicher ursachen halb und<lb/>
+ solich uffschlagen beyden parthien zuvor zy-<lb/>
+tlich verkunt wurde und keyner parthy in<lb/>
+ sunderheit zu gut geschee </p>
+ </div>
+ <div xml:id="Art.4">
+ <head>[Art. 4] Durch wen die sachen angenomen<lb/>
+ und tag gesetzt werdenn sollenn</head>
+ <p> Item wan rechttag also gesatzt werden sollenn<lb/>
+ das soll gescheen durch unser hoffmeister und<lb/>
+  cantzler / oder ander unser rete zu yeder zytt an <pb facs="#74" n="74"/> <lb/>
+ ir statt sin.<note xml:id="nN2" type="crit_app" n="N2">HGO von Amberg (aaO., Fol.7 R): Hofrichter und Schreiber.</note> Und sollen die selben rechttag<lb/>
+[89, 50] nit lychtiglich und unbetrechtlich gesatzt sundern<lb/>
+ angesehen und betracht werden / ob soliche sachen<lb/>
+ an andern enden / als fur den amptluten unnd<lb/>
+ in den ampten dar inn die gehorn oder an denn<lb/>
+ <pb n="Fol.90"/> gerichten inn den die guter gelegen / oder an andern<lb/>
+ enden fuglich ußgericht werden mochten als dann<lb/>
+ solten sie dahin auch solich sachen wysen und<lb/>
+ nit vor unnserm hoffegericht ußgetragen werden<lb/>
+ darumb sollen unser hofemeister cantzler und<lb/>
+ ander rete / dar zu an ir statt geordent / uffsehen han<lb/>
+ und flyß thun was cleyner lychter sachen sint an<lb/>
+ den nit vil gelegen ob sie die mit glympff und fu-<lb/>
+gen entschlagen / und die von unserm hoffgericht<lb/>
+[90, 10]  abewysen mogen doch das nyemant dar inn ver-<lb/>
+kurtzt werde / oder anders gehandelt / dan nach ge-<lb/>
+burlicheyt </p>
+ </div>
+ <div xml:id="Art.5">
+ <head>[Art. 5] Ob und wann man ußwendig des hofe-<lb/>
+gerichts zyten rechttag setzen moge</head>
+ <note xml:id="nN3" type="crit_app" n="N3">Dieser Artikel fehlt in der HGO von Amberg. Dafür ist ein anderer mit folgendem Wortlaut eingefugt (aaO., Fol.8):Wie tag zu hofgericht gesatzt werden soll. Wir setzen und orden auch das alle tagsatzung in offenbriefen gescheen<lb/>
+ inn den bestimbt werden soll der cleger antwurter und die sach darumb<lb/>
+ irrung ist darzu tage und malestat mit dem anhang und beslus und du<lb/>
+ erscheinest oder nit nicht destermynder soll auf des gehorsamen teils er-<lb/>
+scheinen gescheen was recht ist auf das sich die partheien darnach haben<lb/>
+zurichten</note>
+  <p> Item sollen unser hoffemeister cantzler und<lb/>
+ ander rete in allen sachen / die uff uns und<lb/>
+ unser rete zu ußtrag gebotten und uffgenomen <lb/>
+ werden rechttag bescheiden und setzen lassen /<lb/>
+ fur unser hofegericht es wer dan das sie be-<lb/>
+[90, 20] ducht groß und gestalt der sach erfordert / daz<lb/>
+   wir es selbs in eygner person / oder durch un- <pb facs="#75" n="75"/> <lb/>
+sern sunderlichen richter und rete verhoren<lb/>
+ solten oder wan wir uns inn sunderheyt /<lb/>
+ ettlicher sachen beladen und uff uns nemen /<lb/>
+ als dan sollen und mogen sie ußwendig der zytt<lb/>
+ des hofegerichts wie obgemelt ist rettag fur<lb/>
+ uns / oder unser richter und rete / die wir zu yed<lb/>
+ zytt / dar zu ordenn werden setzen lassenn doch<lb/>
+ das solich tagsatzung ußwendig unser hofe-<lb/>
+[90, 30] gerichts vermitten werde so ferrner das mit<lb/>
+ eynichem fug oder glympff gesin mage<lb/>
+ </p>
+ </div>
+ <div xml:id="Art.6">
+ <head>[Art. 6] Daz zu yedem hofegericht<lb/>
+ eyn richter geordent werden soll</head>
+ <p> Item zu eyner yeden zytt solich unser hofegericht<lb/>
+ gehalten werden soll / an unser statt ob wir<lb/>
+ selbs nit zu gegen sin / ein richter uß unßn<lb/>
+ retenn geordent werden / der an unser statt<lb/>
+ unnd in unserm namen / das hoffgericht<lb/>
+ besitzen und des getruwlich und flyssiglich<lb/>
+[90,40] warten und dem fursin und alles das han-<lb/>
+deln und thun soll / das eynem richter nach<lb/>
+ wysung der recht oder sunst nach gewonheytt<lb/>
+ und herkomen der lande und besunder unsers<lb/>
+ furstenthums der pfaltzgraveschafft by<lb/>
+ ryne von ampts wegen zu thun geburtt. </p>
+ </div>
+ <div xml:id="Art.7">
+ <head>[Art. 7] Wie man sittigkeitt inn reden haben und<lb/>
+ schelt oder schmee wort vermyden soll</head>
+ <p> Item soll auch der obgedacht unnser hoffrichter<lb/>
+ mit unnsern reten / die wir in nachfolgender<lb/>
+[90, 50] maß ime zu orden und zu yeder zytt zu<lb/>
+ ime setzen werden ernnstlich daran sin / dz<lb/>
+ fur dem rechten / sittigkeyt gebrucht unnd<lb/>
+ <pb n="Fol.91"/> ungestumigkeit vermitten werde von den<lb/>
+ parthyen iren fursprechen auch den umb-<lb/>
+stendern und ein parthy die ander so ir ge-<lb/>
+burt ungehindert reden lasse auch alle<lb/>
+  schellt und schmee wort zum rechten not- <pb facs="#76" n="76"/> <lb/>
+turfft der Sachen nit dienen deßglich<lb/>
+ uberflussig und schuertzig teyding abge-<lb/>
+stalt werden / so best das gesin mag<lb/>
+ </p>
+ </div>
+ <div xml:id="Art.8">
+ <head>[Art. 8] Wer und wievil zu reten zu dem<lb/>
+[91, 10] hofrichter gesetzt werden sollenn</head>
+ <note xml:id="nN4" type="crit_app" n="N4">Dieser Artikel fehlt in der HGO von Amberg.</note>
+ <p> Item es sollen auch by dem obgemelten unserm<lb/>
+ hofrichter zu yeder zytt des hofgerichts / als<lb/>
+ ob geschriben stett zu recht sitzen und recht<lb/>
+ helffen sprechen sechs rete / der uff das myst<lb/>
+ zwen oder drey doctores oder licenciaten sin<lb/>
+ sollen / die in allen hofegerichten by dem genan-<lb/>
+ten unserm hoferichter sitzen und wie sich in<lb/>
+ recht geburt handeln sollen und ine zur zytt<lb/>
+des hofegerichts on merglich treffenlich ur-<lb/>
+[91, 20] sach nit erlaubt oder ander ende geordent<lb/>
+ werdent </p>
+ <p> Item sollen auch zu den obgenanten unserm<lb/>
+ hoferichter und sechs reten zu yedem unserm<lb/>
+ hofgericht beschryben und gesetzt werdenn<lb/>
+ noch sechs / oder uff das mynst vier rete / den ob-<lb/>
+gemelten andern reten in recht helffen han-<lb/>
+deln wie sich nach herkomen und gewonheyt <lb/>
+ unsers hoffegerichts geburt die wir auch zu<lb/>
+ eynem yetlichen hofegericht ernuwen und an-<lb/>
+[91, 30]dern mögenn / nach unser gelegenheyt und<lb/>
+ gefallenn<lb/>
+ </p>
+ </div>
+ <div xml:id="Art.9">
+ <head>[Art. 9] Die hofegerichts zytt zu<lb/>
+ sitzen und off zu steen</head>
+ <p> Item invocavit von sieben biß zu eyffen vormittags<lb/>
+ nach mittag von eyni biß zu funffen oder zwischen<lb/>
+ funffen und sechßen ungeverlich<lb/>
+ </p>
+ <p>[91, 40]  Item trinitatis vor essens von sechßen biß<lb/>
+  zu nun dar nach von zwolffen biß zu funffen<lb/>
+                        <pb facs="#77" n="77"/> 
+ </p>
+ <p> Derglichen zum hofgericht assumpcionis marie<lb/>
+ </p>
+ <p> Item zu aller selen tag vor essens von sieben biß<lb/>
+ zu zehen dar nach von eym biß zu viern<lb/>
+ oder biß das man die liecht uffzundet<lb/>
+ </p>
+ <p> Doch so stett es zu unser hoferichter<lb/>
+ und reten anderung nach gestalt und ge-<lb/>
+legenheyt der sachen<lb/>
+ </p>
+ </div>
+ <div xml:id="Art.10">
+  <head>[Art. 10] Daz die hofegerichts rete nyemant<lb/>
+ [91, 50] vor hofegericht helffen tagleistenn</head>
+ <p> Item wollen wir auch das die vorgenanten<lb/>
+ unser richter und rete / die unser hofegericht<lb/>
+ besitzenn nyemant sinen tag vor dem gemelten unßm<lb/>
+ hofegericht leysten / helffen sollen es be-<lb/>
+scheche dan mit unserm<note xml:id="nN5" type="crit_app" n="N5">In der HO von Amberg heißt es: "mit unsers hofrichters besundern gunst</note> besundern gunst<lb/>
+ wissen und willen </p>
+ <p> Item orden wir auch ob sich zu zyten bege-<lb/>
+benn wurde / das einer uß den vorgemelten<lb/>
+[91, 60] unsers hofegerichts reten uß ursach nit sprechen<lb/>
+ wolt oder yme zu sprechen nit geburt inn sachen<lb/>
+  die vor hofegericht gehandelt werden / daz er<lb/>
+                        <pb facs="#78" n="78"/> 
+ <note xml:id="nN6" type="crit_app" n="N6">Zwischen Fol. 91 und 92 ist ein mit einem Datum versehener Zettel eingefügt, dessen Aufschrift im folgenden wiedergegeben wird.<lb/>
+ <p>Item und als sich inn obgemeldt ordenung tagleystung unnser hoffgerichts rete antreffen irrung erhaben han wir dar inn gesehen und wollen das es hinfur by disser obgenanten ordenung beliben soll / es wer dan das wir deßhalb ersucht wurdenn so behalten wir uns da inn zu erleuben oder abzuschlagenn nach gelegenheyt eyner yeder sach ob aber wir nit furhannden wern / so soll unnser hofrichter mit sampt ettlichen unnsern reten dan billichen / ob es zuerleuben sy oder nit unnd was sie darinn billichen / geben wir zugeschehen zu und mogen es lydenn. actum - invocavit 1483</p>
+                        </note>
+ <pb n="Fol.92"/> dann auch nyemant inn der selben sach in den<lb/>
+ reten underricht auch nit inn der underrede<lb/>
+ sy / so die urteil gefaßt wirtt<lb/>
+ </p>
+ </div>
+ <div xml:id="Art.11">
+ <head>[Art. 11] Daz hofegericht zu zytten mit mer<lb/>
+ reten besetzt werden solle</head>
+ <note xml:id="nN7" type="crit_app" n="N7">Dieser Artikel fehlt in der HGO von Amberg.</note>
+ <p> Item ob sich begebe das die sachen in recht groß<lb/>
+ und mercklich auch treffelich personell als<lb/>
+ fursten graven und hern beruren werendt<lb/>
+ und gelegenheyt der sachen erfordert wolten<lb/>
+ [92, 10] wir uns selbs zu solichen rechttagen müssigen<lb/>
+ oder unsern hofemeyster cantzler mar-<lb/>
+schalk faut zu <name type="place">heydelberg</name> und ander unser<lb/>
+ rete / die wir by uns teglich inn unsem hofe<lb/>
+ gebruchen auch zu solichen sachen orden<lb/>
+ und bescheiden damit und by zu sin und<lb/>
+ thun als ander unser richter und rete </p>
+ </div>
+ <div xml:id="Art.12">
+ <head>[Art. 12] Das hofemeister cantzler und ander<lb/>
+ dem hoferichter schuldig sint zu raten<lb/>
+ wann sie des erfordert werdenn</head>
+ <note xml:id="nN8" type="crit_app" n="N8">Dieser Artikel fehlt in der HGO von Amberg. Er findet sich noch fast wörtlich übereinstimmend in der HGO von 1700 (LR 1,2, IV. Tit. IV.).</note>
+ <p>[92, 20] Item es sollen auch unser hofemeyster cantzler<lb/>
+ marschalck und ander unser rete die teglichs<lb/>
+ by uns sin uff gesumen und erfordern des egenanten<lb/>
+ unser hoferichters iren ratt mit teylen oder<lb/>
+ so es die notturfft und gelegenheyt der sachen<lb/>
+ erheischt wie obgemelt ist / me rete zu den<lb/>
+ obgestympten hoferichter und reten von un-<lb/>
+sernt wegen beschrieben und ine zu bescheiden </p>
+ </div>
+ <div xml:id="Art.13">
+  <head>[Art. 13] Wie der richter und rete underrede<lb/>
+ und frage mit den reten haben soll</head>
+ <note xml:id="nN9" type="crit_app" n="N9">Am Rande dieses Artikels steht die Bemerkung: "Einer soll den anndern reden lassenn"</note>
+  <p>[92, 30] Item wann die parthyen die Sachen zu recht ge-<lb/>
+                        <pb facs="#79" n="79"/> 
+satzt haben und die parthyen mit sampt den<lb/>
+ umbstendern usgangen sin so soll der richter<lb/>
+ underrede thun und einen yeden ratt / nach<lb/>
+ dem andern fragen sin meynung zu erken-<lb/>
+nen geben doch unbeschlußlich wes er meynt<lb/>
+ recht sin sollt und soll yeder ratt / den andern<lb/>
+ guttlichen nach der ordenung uß reden lassen<lb/>
+ und dar inn nit hindern / byß er sin meynung<lb/>
+ zu erkennen geben hatt und als dan so mogen<lb/>
+[92, 40] sich die rete gutlich underreden und eyner dem<lb/>
+ andernn zu luterung der Sachen inn sin fur-<lb/>
+nemen reden und darnach soll der richter umb-<lb/>
+fragen enntlich alle rete was yeder zu recht<lb/>
+ sprechen will der glich er auch sprechenn<lb/>
+ soll zu letst und beschliessen und was dar<lb/>
+ inn ir aller / oder des mererteyls recht spruch<lb/>
+ sein wirdet / by dem soll es beliben der uff-<lb/>
+getzeichent und der urteile brieff daruber be-<lb/>
+gryffenn werdenn </p>
+ </div>
+ <div xml:id="Art.14">
+  <head>[92, 50] [Art. 14] Wie die rete nit scheiden sollenn<lb/>
+ die urteile sy dan beschlossenn</head>
+ <p> Item wan die Sachen zu recht gesetzt sin sollen<lb/>
+ auch richter und rete nit von ein komen / der<lb/>
+ <pb n="Fol.93"/> rechtspruch sy dann zuvor beschlossen es begebe<lb/>
+ sich dann / das richter und rete inn der sach me-<lb/>
+rers rats pflegen wollen / das mogen sie thun<lb/>
+ und sollen die sachenn nit sunder redelich ur-<lb/>
+sachen ungeendet uffgeschlagen / oder angehenckt<lb/>
+ werden und soll der rete keyner vom rechten<lb/>
+ geen / ee der ußspruch geschicht es werde im<lb/>
+ dan vom richter erleubet ursachen halben </p>
+ </div>
+ <div xml:id="Art.15">
+  <head>[Art. 15] Wie des Urteils nyemant vor dem<lb/>
+ [93, 10] ußspruch gewarnet werden soll</head>
+ <p> Item sollen richter und rete keyn parthy warnen<lb/>
+ oder melden in dhem wise zuversten geben<lb/>
+ vor oder nach auch wan die sachen zu recht ge-<lb/>
+  satzt waz zu recht gesprochen sy / oder versehen-<lb/>
+                        <pb facs="#80" n="80"/> 
+lich zu recht gesprochen werden soll so<lb/>
+ lang biß die urteile geoffent wirt uff daz<lb/>
+ kein parthy fur der urteile furteile / oder<lb/>
+ geverde suchen möge </p>
+ </div>
+ <div xml:id="Art.16">
+  <head>[Art. 16] Wie richter und rete dz hoffgericht<lb/>
+ [93, 20] zu besitzen geloben und schweren sollen</head>
+ <p> Item uff das unser hofegericht dest uffrechter<lb/>
+ und on allen argwon von meniglich ge-<lb/>
+halten werden moge so soll ein hoffrichter<lb/>
+ und iglicher urteilsprecher der nu furbaß<lb/>
+ inn unnserm hofegericht sitzen und urteil<lb/>
+ sprechen wirdet dissen nachgeschriben<lb/>
+ puncten und artickel geloben und schweren. </p>
+ <p> Item<note xml:id="nN10" type="crit_app" n="N10">Am Rande dieses Abschnitts steht der Vermerk: "Der eyd eyde".</note> das eyn yede nach verhorung der sachenn<lb/>
+ so er recht sprechen soll und wirdet inn so-<lb/>
+[93, 30] lichem rechtspruch / alleyn gott fur augen haben<lb/>
+ unnd nach der parthyen furbringen und siner<lb/>
+ gewyßheyt recht sprechen woll / nach siner<lb/>
+ vernunfft und besten verstentnis glich dem<lb/>
+ armen als dem richen und sich dar inne halten<lb/>
+ unparthylich und glich<note xml:id="nN11" type="crit_app" n="N11">Die HGO von Amberg ist an dieser Stelle ausführlicher (vgl. HGO Amberg, aaO., Fol.10 R). Dies läßt den Schluß zu, daß die Verfasser eine andere Vorlage benutzten.</note> und solichs nit lasß<lb/>
+ wolle umb hasse gunst forcht schenck myet<lb/>
+ eigen nutz oder icht daz die gerechtigkeyt ver-<lb/>
+keren mag in maß er am furderlichstenn<lb/>
+ dem strengen richter gott dem almechtigen<lb/>
+[93, 40] antwort darumb zu geben pflichtig sy /<lb/>
+ und darinn gebruchen keynerley geverde<note xml:id="nN12" type="crit_app" n="N12 ">In der HGO von Amberg heißt es hier weiter: "-- als mir got helff und alle seine heiligen".</note>
+  <pb facs="#81" n="81"/> </p>
+ </div>
+ <div xml:id="Art.17">
+  <head>[Art. 17] Daz zwen schriber off daz<lb/>
+ hofegericht warten sollen</head>
+ <p> Item orden und setzen wir daz nun hinfur<lb/>
+ zwen schriber uff das hofgericht warten<lb/>
+ sollen der ein uff zu schriben und der ander<lb/>
+ zu lesen die sollen auch geloben und schwe-<lb/>
+ren als hernachgeschriben stett </p>
+ </div>
+ <div xml:id="Art.18">
+  <head>[Art. 18] Des hofegerichts schribers<lb/>
+[93, 50] eyt der da uffschribet</head>
+ <note xml:id="nN13" type="crit_app" n="N13">In der HGO von Amberg heißt es hier zusammenfassend: "Der hofgerichtsschriber aidt".</note>
+  <p> Ich N gelobe und schwere alle gerichts hendel<lb/>
+ brieff register kuntschafft und ander / dz<lb/>
+ inn schrifften in recht furbracht und inge-<lb/>
+legt wirt getruwelich und mit flys by dem<lb/>
+ <pb n="Fol.94"/> gericht zuhalten und bewaren auch sunst waz<lb/>
+ in recht gerett wirt getruwelich uff zuschribn<lb/>
+ und mich dar inn glych und unparthylich halten<lb/>
+ keynem teyle mer dann dem andern zu legung<lb/>
+ thun inn dem uffschriben oder lesen unnd wez<lb/>
+ also in gericht gelegt oder uffgeschriben wirt keiner<lb/>
+ parthy / oder yemant von iren wegen ubergeben<lb/>
+ offen lesen / hören / oder abschrifft davon wer-<lb/>
+den lassen es wer dann zugescheen von richter<lb/>
+[94, 10] und reten erkant oder ein parthy / daz der andern<lb/>
+ mit wissen willen und in irem bysin verhing<lb/>
+ und zugeb. Und das ich keyner parthy noch<lb/>
+ sunst yemants urteil oder meynung die gefaßt<lb/>
+ und noch nit offentlich ußgesprochen sint offen<lb/>
+ oder abschrifft davon geben und das ich heim-<lb/>
+lichkeit des rats und wie sich richter und rete im<lb/>
+ urteilsprechen halten ewiglich verschwigenn<lb/>
+ und daz nit lassen umb haß / nyde lieb gunst<lb/>
+ schenk miet oder keyner andern sach willen <lb/>
+ [94, 20] alles ungeverde<note xml:id="nN14" type="crit_app" n="N14">In der HGO von Amberg endet der Eid mit der Formel: "als mir gott helff und alle seine heiligen".</note>
+   <pb facs="#82" n="82"/> </p>
+ </div>
+ <div xml:id="Art.19">
+  <head>[Art. 19] Des schribers eyt<lb/>
+ der da ließtt</head>
+ <note xml:id="nN15" type="crit_app" n="N15">Da in der HGO v. Amberg der Eid fur beide Schreiber zusammengefaßt ist, entfällt dort dieser Artikel.</note>
+ <p> Ich N globe und schwere das ich mynem gne-<lb/>
+digen hern pfaltzgraven und kurfursten /<lb/>
+ getruwe und holt will sin / siner gnaden<lb/>
+ schaden warnen fromen und bestes werben<lb/>
+ alle gerichts henndel brieff register kunt-<lb/>
+schafft und anders das inn schrifften in<lb/>
+ recht furbracht und ingelegt wirt / getruwe-<lb/>
+[94, 30] lich helffen bewaren und by dem gericht<lb/>
+ zu behalten auch getruwelich und unparthy-<lb/>
+lich zu lesen / keynem teyle me dan dem andern<lb/>
+ inn dem lesen / oder sunst zulegung thun und<lb/>
+ mich flyssen verstentlich und wol zu lesenn<lb/>
+ und keinerley geverde dar inn zugebruchen<lb/>
+ auch keiner parthy oder yemants von irent we-<lb/>
+gen des das in gericht gelegt ist / ubergeben offen<lb/>
+ horen / oder abschrifft werden lassen davon es<lb/>
+ wer dan zugescheen vom richter und retenn<lb/>
+[94, 40] erleubt oder daz ein parthy / dz der andern mit<lb/>
+ wissen willen und irem bysin verhing und<lb/>
+ zugebe und das ich keyner parthy / oder sunst<lb/>
+ yemants urteile oder meynung die gefaßt und<lb/>
+ noch nit offentlich sin / offen oder abschrifft<lb/>
+ davon geben und daz ich auch heimlichkeytt<lb/>
+ des rats und wie sich richter und rete im urteil<lb/>
+ sprechen halten und waz yetlicher sprech / oder<lb/>
+ gesprochen habe ewiglich verschwigen und<lb/>
+ daz nit lassen umb lieb leid gunst schennck<lb/>
+[94, 50] miet oder keynerley ander sach willen auch<lb/>
+ keyn schenck miet oder mietwan nemen von<lb/>
+ solicher sachen wegen inn dhein wise unnge-<lb/>
+  verlich <pb facs="#83" n="83"/> </p>
+ </div>
+ <div xml:id="Art.20">
+  <head>[Art. 20] Antreffen wysung<lb/>
+ geistlicher sachen</head>
+ <p> Item waz geistlicher Sachen in recht an un-<lb/>
+serm hofegericht furbracht werden / die selbn<lb/>
+ sachen sollen an geistlich gericht mit recht<lb/>
+ gewiesen werden es wer dan / das sich die<lb/>
+ <pb n="Fol.95"/> parthyen verwilkurt hetten in sachen darumb<lb/>
+ sie das thun mochten / des rechten / fur unserm<lb/>
+ hofegericht zu sin ungeverlich </p>
+ </div>
+ <div xml:id="Art.21">
+  <head>[Art. 21] Antreffen wisung<lb/>
+ ligender güter</head>
+ <p> Item waz sachen ligend guter antreffen an unserm<lb/>
+ hofegericht furbracht werden sollen an die gericht<lb/>
+ dar inn die guter gelegen sint / mit recht gewiesen<lb/>
+ werden<note xml:id="nN16" type="crit_app" n="N16">Die HGO von Amberg ist hier etwas ausführlicher: "Und also auch in andern sachen gehalten werden, das die erstlich an orten da sich zuverrechten geburd angefangen und gradatim one underlaßung des mittels durch die appellation fur das genant unser hofgericht komen werde."</note> es wer dan das sich die parthyen verwil-<lb/>
+[95, 10] kurtt hetten / ein ander fur unserm hofegericht<lb/>
+ des rechten zu sin doch dz solich wilkur inn<lb/>
+ cleynen sachen / die under zweintzig gulden sint<lb/>
+ nit angenomen oder tag darumb gesetzt werden<lb/>
+ sollenn. </p>
+ </div>
+ <div xml:id="Art.22">
+  <head>[Art. 22] Von wysung der<lb/>
+ lehen güterr</head>
+ <note xml:id="nN17" type="crit_app" n="N17">Dieser Artikel findet sich noch fast wörtlich übereinstimmend in der HGO von 1700 (vgl. LandR von 1700, 1,2, XIV. Tit.).</note>
+ <p> Item was lehen sachen in recht an unserm hofe-<lb/>
+gericht furbracht werden / die den grund unnd<lb/>
+ ursprung der lehen beruren und zwyfel haben<lb/>
+[95, 20] dermaß ob die lehen verfallen / oder verwirckt<lb/>
+ sin oder wer der nechst erbe sy wer die entpfahen<lb/>
+ und ob die inn gemeynschafft oder inn sunderheit<lb/>
+  entpfangen und getragen werden / oder wem<pb facs="#84" n="84"/> <lb/>
+ die geluhen werden sollen als dann sollen<lb/>
+ die selben sachen fur den lehenherren oder die<lb/>
+ lehen mann / wie sich geburt gewisen werden /<lb/>
+ ob aber eyner sins lehen guts mit gewalt<lb/>
+ beraupt oder entsetzt / oder ein lehen mit be-<lb/>
+willigung lehenhern verussert wer uber<lb/>
+[95, 30] solich entwerung und entsetzen auch ob<lb/>
+ die verwilligung krafft haben solt auch<lb/>
+ berurn erschienen nutzung der lehen guter /<lb/>
+ einer dem andern entwert hett oder ime<lb/>
+ verschrieben wer<note xml:id="nN18" type="crit_app" n="N18">In der HGO von Amberg ist hier eingefügt: "darzu in andern fallen das nit questio feudi ist".</note> daruber soll unser hoffe-<lb/>
+gericht auch erkennen und rechtsprechen<lb/>
+ doch unvergriffen dem lehenhern an siner<lb/>
+ gerechtigkeytt des eygenthumbs und manschafft</p>
+ <p> Item wan auch die parthyen in sachen lehenn<lb/>
+ berurn wilkurlich und mit willen des lehen-<lb/>
+[95, 40] hern sich begeben / fur unser hofegericht zu<lb/>
+ komen recht darumb zunemen so sollen die<lb/>
+ sachen nit gewisen sunder gesprochen werden </p>
+ </div>
+ <div xml:id="Art.23">
+  <head>[Art. 23] Wie es gehalten werden soll so rechttag<lb/>
+ gesetzt sint und ein parthy erschynt<lb/>
+ unnd die ander nit</head>
+ <p> Item<note xml:id="nN19" type="crit_app" n="N19">Neben diesem Artikel befindet sich am Rand die Bemerkung "Contumacia Actoris".</note> wan wir uff ersuchen beyder parthyen<note xml:id="nN20" type="crit_app" n="N20">In der HGO von Amberg: "unsers hofrichters".</note> recht-<lb/>
+tag setzen lassen erschynt dan der antworter<lb/>
+ uff dem gesatzten tag und der cleger nit / leßt<lb/>
+ auch ehafft nit furbringen / der inn recht<lb/>
+[95, 50] gnug ist so soll dem antworter dann siner<lb/>
+ gehorsam ein urkund gegeben werden das<lb/>
+ er dem rechten gehorsamlich erschienen sy /<lb/>
+ und gewart habe und daz furter die heupt-<lb/>
+  sach in recht nut zugelassen werde dem<pb facs="#85" n="85"/> <lb/>
+ antworter der gehorsam gewest ist / sy dann<lb/>
+ zuvor sin kuntlicher cost und schade gekeret /<lb/>
+ den er des tagwartens genomen hat und das<lb/>
+ <pb n="Fol.96"/> auch der cleger zuvor gelobt hab daz er dem<lb/>
+ rechten gehorsam sin will doch her inn vor-<lb/>
+behalten ob ein ancleger ußbliben wer und<lb/>
+ darnach keme fur gericht in rechtlicher zytt<lb/>
+ ungeverlich und erschint ehafft sins usbelei-<lb/>
+bens der zu recht gnug wer / das soll im rechten<lb/>
+ zugelassen und verhort werden und darub<lb/>
+ auch gescheen waz recht wirt denn egenanten<lb/>
+ costen und schaden antreffen wie dan solichs<lb/>
+ [96, 10] der nechst obgemelt punckt von dem ancleger<lb/>
+ ußwyßt.</p>
+ <p> Belipt aber der antworter uß<note xml:id="nN21" type="crit_app" n="N21">Neben diesem Artikel befindet sich die Randbemerkung "Contumacia Rej".</note> und erschinet nit /<lb/>
+ leßt auch kein ehafft furbringen / der im rechten<lb/>
+ genüg und die ungehorsam nit offenbare ist<lb/>
+ und am tag lyt so mogen unser richter und<lb/>
+ rete so sie des billich dunckt einen andernn<lb/>
+ rechttag erkennen und erschinet als dann<lb/>
+ der antworter aber nit so wollen wir dem<lb/>
+ cleger beholffen sin zu sinem rechtenn<lb/>
+[96, 20] dem antworter in der selben sach nit geleit<lb/>
+ geben / oder schirm gescheen lassen / unnd<lb/>
+ gestatten / dz der cleger uff des antworters<lb/>
+ guter mit recht clagen möge inn allen unßn<lb/>
+ gebieten und gerichten und ob der selb antworter<lb/>
+ von dem cleger mit ußlendigen gerichten<lb/>
+ furgenomen wirdet so wollen wir den<lb/>
+ innhalt unser fryheyt nit widerheischen</p>
+ <p> Item<note xml:id="nN22" type="crit_app" n="N22">Neben diesem Artikel befindet sich die Randbemerkung "Contumacia post litis contestationem".</note> so beide parthyen uff den erst gesatzten tag<lb/>
+ erschinen in recht / der cleger sin forderung und<lb/>
+[96, 30] der anclagt sin antwort dut inn der heupt-<lb/>
+  sach mit ja oder neyn und mit recht eynander<pb facs="#86" n="86"/> <lb/>
+ tag erkant wirt und uff dem selben andern<lb/>
+ tag der cleger erschinet und der antworter nit /<lb/>
+ oder der antworter erschint und der cleger nit /<lb/>
+ welicher also erschint und das ander eehafft<lb/>
+ sins usbelibens der zu recht gnug ist nit<lb/>
+ furbracht wirt der mag syn gerechtigkeyt<lb/>
+ kuntschafft und anders in recht furbringen<lb/>
+ und darlegen und soll als dann uff solich sin<lb/>
+[96, 40] furbringen gescheen was recht ist inn der<lb/>
+ heuptsach </p>
+ </div>
+ <div xml:id="Art.24">
+  <head>[Art. 24] In waz sachen man costen<lb/>
+ und schaden wisen soll</head>
+ <note xml:id="nN23" type="crit_app" n="N23">Diese Überschrift fehlt - wohl versehentlich - in dem Exemplar der im HStA aufbewahrten Abschrift der HGO von Amberg.</note>
+ <p> Item soll umb allen costen und schaden hinfur<lb/>
+ an unserm hofegericht erkennt werden<lb/>
+ wie recht ist. </p>
+ </div>
+ <div xml:id="Art.25">
+  <head>[Art. 25] Wie eyner by siner gesprochen urteil<lb/>
+ von der nit appellirt ist gehanthabt<lb/>
+ werdenn soll</head>
+ <p>[96, 50] Item nach dem wir billich geneigt hillfflich<lb/>
+ und furderlich sin sollen das solichem so<lb/>
+ mit recht von unsern richter und reten oder<lb/>
+ dem mererteile gesprochen / davon nit appel-<lb/>
+liert wirt<note xml:id="nN24" type="crit_app" n="N24">In der HGO von Amberg ist hier eingefügt: "oder so appelirt der appellacion zu rechter zeit nit nachkomen und die als desert von genanntem unserm hofrichter und reten erkannt wirt vollstreckung geschee und -". Da sich dieser Text in denjenigen der oben wiedergegebenen HGO nahtlos einfügen läßt, dürfte es sich wohl kaum um einen von den Verfassern der Amberger HGO gemachten Zusatz handeln, sondern um den Wortlaut des von ihnen als Vorlage benutzten Exemplars der HGO für die Pfalzgrafschaft.</note> nachkomen werde so wollen wir<lb/>
+ <pb n="Fol.97"/> den jhennen die solichem rechtspruch nit nach-<lb/>
+  komen widder den selben rechtspruch keynerley<pb facs="#87" n="87"/> <lb/>
+ hilff schirm oder bystant thun / auch kein ge-<lb/>
+leit oder trostung geben / oder gedihen lassen<lb/>
+ inn unsern landen und gebieten. Wir wollen<lb/>
+ auch die unsern und der wir mechtig unnd<lb/>
+ uns underworffen sint ernstlich darzu halten /<lb/>
+ das sie den urteiln nachkomen und gnüg thun /<lb/>
+ die sie an unserm hoffgericht verlorn unnd<lb/>
+[97, 10] nit davon appelliert haben darzu wollen<lb/>
+ wir auch gonnen das die jhennen die an unsßm<lb/>
+ hofgericht verlustig werden wann sie die ur-<lb/>
+teil in crafft komen lassen und der nit gnüg<lb/>
+ thun / mit uslendigen rechten furgenomen<lb/>
+ werden und sust gestatten wie solich recht-<lb/>
+spruch und wz mit recht erlangt ist innbracht<lb/>
+ werdenn mag </p>
+ </div>
+ <div xml:id="Art.26">
+  <head>[Art. 26] Wie appellaciones angeno-<lb/>
+menn werden sollenn</head>
+ <p>[97, 20] Item nach dem appellirn und beruffen itzt fast<lb/>
+ gemeyn und die appellacion und beruffung <lb/>
+ zu memaln frevenlich sunder redelich<lb/>
+ ursach bescheen da durch rich und arme <lb/>
+ zu zyten beschwert werden darumb orden<lb/>
+ und setzen wir auch / das ein yetlicher der<lb/>
+ sich fur unns als den land und kurfursten<note xml:id="nN25" type="crit_app" n="N25">HGO von Amberg: "- für uns das obgenant unser hofgericht in unserm fürstenthumb zu Beyern"</note> <lb/>
+ berufft und appellirt das sich desselbenn<lb/>
+ appellacion nit angenomen noch inn der<lb/>
+ sach rechttag gesetzt werden sollen fur unser<lb/>
+ [97, 30] hofgericht es sy dan der selb der appellirt<lb/>
+ hat zuvor den zweintzigisten teile des die sach<lb/>
+ darumb appellirt werde ist inn unnser cantzly<lb/>
+ ingelegt werde / daruff dan rechttag gesetzt<lb/>
+ werden sollen geweindt er dan durch die<lb/>
+ appellacion die heuptsach mit recht so soll<lb/>
+  yme solichs / dz er hat ingelegt wider werden<pb facs="#88" n="88"/> <lb/>
+ ist des nit / so soll solichs gelt unser cantzly ver-<lb/>
+fallen sin auch mogen unser hofmeister und<lb/>
+ cantzler / die gemelt pen meren / nach eygen-<lb/>
+[97, 40] schafft der personen / ob die licht oder zu hade-<lb/>
+rung geneigt sin nach irem wilkur. </p>
+ </div>
+ <div xml:id="Art.27">
+  <head>[Art. 27] Daz frevenlich mütwillig appellacos<lb/>
+ nit zugelassen sollenn werdenn</head>
+ <p> Item ob aber yemant wer der wer frevenlich<lb/>
+ und mutwilliglich on redelich ursach und<lb/>
+ beschwerde von unsern / oder unsern richter<lb/>
+ und reten rechtspruch / appelliren wurde<lb/>
+ der selben appellacion soll nit geacht noch<lb/>
+ zu gelassen / oder der deferiert sunder volfaren<lb/>
+ [97, 50] und der rechtspruch gehanthabt werden als<lb/> 
+ obgerurt.</p>
+ <p> Daruff so ordenn und setzen wir welicher<lb/>
+ von uns oder unsern hoferichter und reten<lb/>
+ appellirt so der selb zur zyt der verkundigung<lb/>
+ siner appellacon uns oder dem gemelten un-<lb/>
+serm richter solich appellacon inn eigner p[er]son<lb/>
+ <pb n="Fol.98"/> nit verkunden kan / das der selb sin appellacon<lb/>
+ unserm hofemeister cantzler oder prothonota-<lb/>
+rien<note xml:id="nN26" type="crit_app" n="N26">In der HGO von Amberg heißt es: "unserm vitzdomb wo der nit hofrich-ter gewesen oder unserm landrichter wo unser vitzdom nit vorhanden ab-wesen auch des landrichters unserm landschriber zu Amberg - -"</note> verkunden mag welichem er will /<lb/>
+ den wir an dem ende fur unsern richter orden<lb/>
+ und setzen in crafft disser schrifft der als dan<lb/>
+ so er erfordert wirt applos geben moge </p>
+ </div>
+ <div xml:id="Art.28">
+  <head>[Art. 28]  Das man von unserm hofegericht<lb/>
+ fur uns nit appelliern soll</head>
+ <note xml:id="nN27" type="crit_app" n="N27">Diese Überschrift lautet in der HGO von Amberg: "Das appellation kleiner und leichter sachen die unter zwaintzig gulden sint an unserm hofgegericht nit angenommen werden sollen".</note>
+  <p> Item ob yemant von unserm hofgericht an uns<pb facs="#89" n="89"/> <lb/>
+[98, 10] appelliern wurde solicher appellacion wollen<lb/>
+ wir uns nit annemen und die fur uncreff-<lb/>
+tig und nicht halten. </p>
+ <p> Wir wollen auch als obgemelt ist das cleyn<lb/>
+ lycht sachen / die under zweintzig guldenn<lb/>
+ sint / durch appellacon an unser hofgericht<lb/>
+ nit bracht noch angenomen werden sollen<lb/>
+ sunder wan sich begibt / das in solichen<lb/>
+ cleynen sachen under zweintzig gulden<lb/>
+ antreffen in unserm furstenthum appelliert<lb/>
+[98,20] wirt wollen wir dz ein yetlich solich appellcon<lb/>
+ fur unsern amptman under dem sie geschicht<lb/>
+ bracht werde der als dan von unser und ampts<lb/>
+ wegen macht habenn soll / die parthyen fur<lb/>
+ sich bescheiden und in die appellacon zu se-<lb/>
+hen die beswerde od er eynich in dem urteyl<lb/>
+ find hin zulegen abzustellen und die parthien /<lb/>
+ ob ime das volgen wolt gutlich zuvertragen<lb/>
+[98, 30] und so er beswerde in der urteil findt und die<lb/>
+ gutlich nit abgeteidingen kan / die sach der<lb/>
+ appellacon fur des gerichts / davon appellirt<lb/>
+ ist / oberhofe wysen wo er aber fund / das fre-<lb/>
+venlich und mutwilliglich appelliert wer /<lb/>
+ dem der appelliert hett by einer zimlichen pene<lb/>
+ uns unableßlich zu geben by gesprochener urteile<lb/>
+ zubeliben / zugebieten uff daz die appellaciones<lb/>
+ in cleynen und lychten sachen nit zugemeyn<lb/>
+ und auch die armen nit zuvil durch appelliern<lb/>
+[98, 40] beschwert werdenn<note xml:id="nN28" type="crit_app" n="N28">In der HGO von Amberg heißt die gesperrte Stelle wie folgt: "--sich einer unserm lande zu Beiern der urteil beswert bedeuchte das derselbe alßdan fur unsern vitzdom und rete zu Amberg dingen möge wie can sit und gewonheit im lande zu Beiern ist die alßdan solich ordnung wie gewonlich ist nottdurftiglich ubersegn darüber rechtlich erkennen und solich gedinge unter unsers vitzdombs insiegel verslossen wieder an das gericht davon gedingt ist überschicken sollen." - Über die für Bayern eigentümliche Erscheinung des "Dingens gen Hof" vgl. Stölzel, Geding und Appellation, Hof, Hofgericht und Räte, Abschied und Urteil, Berlin 1911.</note>
+  <pb facs="#90" n="90"/> </p>
+ </div>
+ <div xml:id="Art.29">
+  <head>[Art. 29] Wie geverde in appellacon sachen<lb/>
+ furkommen werden sollen</head>
+ <p> Uff das geverde in dem anbringen der appellacon<lb/>
+ sachen vermitten und furkomen werde orden<lb/>
+ und wollen wir / so einer der sin appellacon<lb/>
+ anbrocht und furgeben hatt / das die sach der<lb/>
+ appellaconn uber zweintzig gulden ist / das<lb/>
+[98, 50] der selb sovil in unser cantzly verfallen sin /<lb/>
+ und geben soll was die sach darumb er appelliert<lb/>
+ hett under zweintzig gulden antrifft / er gewinn<lb/>
+ oder verlier die sach es hang dan daran / das eyne<lb/>
+ sin ere und glimpff antreffen und wo sich erfind<lb/>
+ <pb n="Fol.99"/> in volnfurung der appellacion sachen das<lb/>
+ der zweintzigist teile nit gnugsam ingelegt<lb/>
+ ist / wollen wir / dz inn der selben sach still-<lb/>
+gestanden und nit ferrer procedirt werd /<lb/>
+ so lang biß die inlage gentzlich geschicht wie sich nach anzale der sach geburt<note xml:id="nN29" type="crit_app" n="N29">In der HGO von Amberg ist hier angefügt: "darzu so jemandt wer der were erfunden wurde das er solchs geverlich verhalten hett soll er uns nach erkantnus des hoffrichters und der rete darumb wandel und abtrag thun wurde auch solichs nachfolgende uber kurtz oder lang nach der urteil offenbar so soll das inlegen aber erfüllt und die straff zum abtrag und wandel noch ernstlicher von dem selben furgenommen werden".</note>
+ </p>
+ </div>
+ <div xml:id="Art.30">
+  <head>[Art. 30] Wie von denn dorffgerichten<lb/>
+ appelliert werdenn solle</head>
+ <p> Item als nach ußwysung der recht von eynem<lb/>
+ [99, 10] ende urteile mit munt und on alle schrifft<lb/>
+ appelliert werden mag so der richter der die<lb/>
+ urteile gesprochen hat noch zugericht sitzt<lb/>
+ orden und setzen wir das im hinfur in<lb/>
+ unserm furstenthum ein yetlicher der fur<lb/>
+ uns oder unser hofgericht appelliern will /<lb/>
+ so es ein end urteil antrifft / solichs tun<lb/>
+  mag in obgeschriebener maß mit lebendiger<pb facs="#91" n="91"/> <lb/>
+ styme und mag sich des<note xml:id="nN30" type="crit_app" n="N30">In der HGO von Amberg ist eingefügt: "wie sich geburt mit eins zigen erforderung der abschiedt und apostel --"</note> bezugen mit dem<lb/>
+ gericht / auch mit den umbstendern / das er<lb/>
+[99, 20] damit dem richter und parthyen verkund<lb/>
+ woll han also das ime nit noit sy darnach<lb/>
+ mit notarien und gezugen zu appelliern<lb/>
+ oder die appellacion zuverkunden und ap-<lb/>
+postell zu heischen und darumb wollen<lb/>
+ wir auch / das solich appellacoes an unßm<lb/>
+ hofgericht angenomen werden sollen / die als<lb/>
+ obgemelt von end urteiln und inn sitzendem<lb/>
+ gericht gescheen und das die gericht vonn<lb/>
+ den also appelliert wirt under irem sigell<lb/>
+[99, 30] oder sust / so sie eigner sigell nit han under<lb/>
+ andernn glaubhafftigen sigeln erkennen /<lb/>
+ das wie obgerurt ist appelliert sy<note xml:id="nN31" type="crit_app" n="N31">In der HGO von Amberg folgen an dieser Stelle noch Regelungen über die schriftliche Einlegung der Appellation, die Berufung von Vorurteilen und die Pflicht der Richter, sofort nach Verkündung der Urteile dieselben schriftlich abzusetzen. Im wesentlichen handelt es sich um den Inhalt des ersten hinter der HGO für die Pfalzgrafschaft angefügten, nachträglichen Zusatzes, der in die Ambergische HGO eingearbeitet wurde (bzgl. des Zusatzes vgl. Anhang II, S. 98).</note>
+ </p>
+ </div>
+ <div xml:id="Art.31">
+  <head>[Art. 31] Urteil brieff<lb/>
+ antreffen</head>
+ <p> Item alle gesprochen urteile daruber brieff ge-<lb/>
+geben werden die selben urteil sollen under<lb/>
+ unserm hofgerichts insigel ußgeen unnd<lb/>
+ richter und retenn in den urteils brieffen<lb/>
+ benant werden als von alterher unnsers<lb/>
+[99, 40] hoffs gewonheyt gewest ist es hett dan<lb/>
+ ursach darumb das nit geschee </p>
+ </div>
+ <div xml:id="Art.32">
+  <head>[Art. 32] Die urteil brieff uß der<lb/>
+ cantzly zu losenn</head>
+  <p> Item wan urteil an unserm hofegericht ge-<pb facs="#92" n="92"/> <lb/>
+offent werden welich parthy dan der<lb/>
+ urteil brieff begern und doch die in zitt<lb/>
+ so inen bestimpt oder an unser cantzly<lb/>
+ thur<note xml:id="nN32" type="crit_app" n="N32">HGO von Amberg: "an unserm rathaus zu Amberg".</note> offentlich verkunt wirt / oder inn<lb/>
+ achttagen ungeverlich darnach nit lö-<lb/>
+[99, 50] senn so wollen wir uns der selben par-<lb/>
+thyen nit mer bekommern noch im rechten<lb/>
+ annemen / oder ander rechttag setzen lasß<lb/>
+ so lang biß er solichen brieff erloßet des<lb/>
+ glych soll es gehalten werden mit abscheiden<lb/>
+ <pb n="Fol.100"/> verkunden commission und anderm / das inen<lb/>
+ die parthyen begern zu machen und das nit<lb/>
+ lössen doch wollen wir das die parthyen<lb/>
+ inn unnser cantzly umb die urteile urkund /<lb/>
+ oder ander gerichtshendel nit beswerd sunder<lb/>
+ die selben brieff sollen ime umb ein zimlich<lb/>
+ gelt gegeben und dar inn angesehen werden /<lb/>
+ ob die sach groß oder cleyn ob lang oder kurtz <lb/>
+[100, 10] inn gericht gehandelt sy / und soll auch da<lb/>
+ by gelegenheitt der person und sach ange-<lb/>
+sehen werdenn. </p>
+ </div>
+ <div xml:id="Art.33">
+  <head>[Art. 33] Wie und in welicher maß man<lb/>
+ abschrifft uß dem hofegericht<lb/>
+ geben soll</head>
+ <note xml:id="nN33" type="crit_app" n="N33">Der entspr. Artikel der HGO von Amberg stimmt mit diesem zwar wörtlich nicht überein, ist jedoch an dessen Wortlaut angelehnt.</note>
+ <p> Item wan die sachen weytleuffig sin oder vil<lb/>
+ kuntschafften gefurt / oder auch sunst vil<lb/>
+ schrifft gelesen das noit ist sollen die par-<lb/>
+thyen nit versumpt werden / das inen<lb/>
+ dan uff ir erfordern zu ir beheltnis ab-<lb/>
+[100, 20] schrifft werden wan dan die widerpar-<lb/>
+thy die es fordert mit sinem rechten be-<lb/>
+helt abschrifft des bylegens notturfftig<lb/>
+  sin so sollen inen die puncten us den brie-<pb facs="#93" n="93"/> <lb/>
+fen und zugnis die sie fordern und zu den<lb/>
+ sachen diennend ußgezeichent gegeben wer-<lb/>
+den doch das man sich des ungeverlich bruch. </p>
+ </div>
+ <div xml:id="Art.34">
+  <head>[Art. 34] Wie man commissarien geben<lb/>
+ und fur hofegericht benennen soll</head>
+ <p> Item wan yemant an unserm hofegericht<lb/>
+ [100, 30] kuntschafft erteilt und eins commissarien<lb/>
+ noit ist der soll inen offentlich vor hofe-<lb/>
+gericht und in bysin des widerteils fordern<lb/>
+ und benennen und ist der selb dem wider-<lb/>
+teile verdechtlich und des ursach furbringt<lb/>
+ mög er sin inrede darinn thun und als<lb/>
+dann soll und mag inen unser hofrichter<lb/>
+ einen geben den sie schuldig sin uffzune-<lb/>
+men wer es aber ußwendig der zytt des<lb/>
+ hofegerichts so soll solichs gescheen durch<lb/>
+[100, 40] unsern hofmeister cantzler oder ander rete<lb/>
+ die wir dazu orden<note xml:id="nN34" type="crit_app" n="N34">In der HGO von Amberg: "durch unsern vitzdom".</note> uff das nyemant an<lb/>
+ sinem rechten deshalb verhindert oder<lb/>
+ verkurtzt werde. </p>
+ </div>
+ <div xml:id="Art.35">
+  <head>[Art. 35] Von den fursprechenn</head>
+ <p> Item es soll kein fursprech das wort fur<lb/>
+ unserm hofgericht zu thun zugelassen<lb/>
+ werden / er sy dan zuvor von unsernn<lb/>
+ wegen zugelassen uffgenomen und das<lb/>
+ er dissen hernachgeschriben eidt gethon<lb/>
+ [100, 50] habe </p>
+ </div>
+ <div xml:id="Art.36">
+  <head>[Art. 36] Der fursprechen eyt</head>
+ <p> Ich N globe und swere das ich den parthyen<lb/>
+ der sach ich mich annemen in den selben<lb/>
+ sachen mit gantzen und rechten truwen <lb/>
+  <pb n="Fol.101"/> meynenn und die sach im rechten nach mynem<pb facs="#94" n="94"/> <lb/>
+ besten verstentniß den parthyen zu gut fur-<lb/>
+bringen und handeln<note xml:id="nN35" type="crit_app" n="N35">In der HGO von Amberg ist hier eingefügt: "und zu keinem hofgericht one merglich eehaft ausbliben".</note> auch darinn keynerley<lb/>
+ falsch noch unrecht wissentlich bruchen das<lb/>
+ ich auch mit der selben myner parthy keinerley<lb/>
+ furgeding oder furwort machen darumb<lb/> 
+  ich ein teil von der sach / darumb die parthy<lb/> 
+  die in recht steet warten sy auch heimlicheit<lb/>
+ und behellff / so ich von der selben parthy<lb/>
+[101, 10] vernemen oder nach underrichtung der sach<lb/>
+ von mir selbs vermercken werde der parthy<lb/>
+ zu schaden nyemant wissentlich offenbaren<lb/>
+ darzu auch die parthy uber den sollt unnd<lb/> 
+  lon der mir inn anfang des rechten verspro-<lb/>
+chen wer nit meren oder mit andern ge-<lb/>
+dingen besweren oder höhern will und ob<lb/>
+ des solds und lons halben zwischen der par-<lb/>
+thyen und mir irrung oder spenn ent-<lb/>
+stund / des will ich beliben by dem hoferichter<lb/>
+[101, 20] und reten oder wem der hoferichter das uß den<lb/>
+ reten befelhen wurde und wie sie mich dar-<lb/>
+umb entscheiden will ich es da by beliben lasß<lb/>
+ unnd benügig sin auch der sach so ich ange-<lb/>
+nomen hab on redelich ursach / und des rich-<lb/>
+ters erlaubung mich nit entschlagen sunder<lb/>
+ der parthy zu gut zu endung des rechten ge-<lb/>
+truwelich handeln in dissn dingen alle ge-<lb/>
+verde und arglist gentzlich ußgescheidenn<note xml:id="nN36" type="crit_app" n="N36">Diese Stelle ist von der HGO von Amberg zwar nicht wörtlich, aber sinngemäß übernommen worden; es ist dort näher ausgefuhrt, wie die Niederlegung eines Mandats vorgenommen werden mußte.</note>
+ </p>
+ </div>
+ <div xml:id="Art.37">
+  <head>[Art. 37] Das eyn parthy nit men dan ein<lb/>
+ [101, 30] geswornen fursprechen haben<lb/>
+ soll</head>
+  <p> Es soll auch kein parthy ober ein geswornen<pb facs="#95" n="95"/> <lb/>
+ fursprechen in einer sach uffnemen oder be-<lb/>
+stellen uff das die ander parthy auch moge<lb/>
+ fursprechen bekomen und das dar inn kein<lb/>
+ geverlichkeit gebrucht werden möge / soll<lb/>
+ kein fursprech einicher parthy in ir sach<lb/>
+ raten / die selb parthy die inen umb rat er-<lb/>
+sucht woll in dan zu fursprechen in der<lb/>
+[101, 40] selben sach uffenemen </p>
+ </div>
+ <div xml:id="Art.38">
+  <head>[Art. 38] Das rych und arme fur-<lb/>
+sprechen bekomen mögen</head>
+ <p> Und das armuthalben nyemants verkurtzt<lb/>
+ oder rechtloß gelassen werde so soll unser hofe-<lb/>
+richter so zu zyten ist oder sin wirdt / die sachen<lb/>
+ der armen die ir armut mit iren eiden / ob<lb/>
+ der gesunnen wurde erwyßten / den fur-<lb/>
+sprechen entpfellen inen on solde zu raten<lb/>
+ und zu reden und welichem fursprechen<lb/>
+[101, 50] solichs befohlen wirt soll schuldig und pflich-<lb/>
+tig sin by pene entsetzung sins ampts / die<lb/>
+ sach on widerrede wie vorgemelt antzune-<lb/>
+men doch so soll unser hoferichter / ob der<lb/> 
+sach me dan ein wurde die glych under die<lb/>
+ fursprechen teilen alles ungeverlich<lb/>
+ <pb n="Fol.102"/> ob aber yemants ein eigen frembden redener mit<lb/>
+ ime brecht oder ob ime yemants selbs sin wort<lb/>
+ im recht thun wolt / soll ein yeder macht han </p>
+ </div>
+ <div xml:id="Art.39">
+  <head>[Art. 39] Wie die botten die des hofgerichts brieff<lb/>
+ verkunden und ußtragen werden geloben<lb/>
+ und sweren sollen und was sie also uff<lb/>
+ die eide sagen und furbringen das dez<lb/> 
+   soll gestanden werdenn</head>
+ <p> Ich N globe und schwere daz ich alletagbrieff und<lb/>
+[102, 10] wes mir des hofegerichts halb in schrifften be-<lb/>
+fohlen wirt / getrulich verkunden und uberant-<lb/>
+worten will wohin mir das zu thun befolhen<lb/>
+  und sich geburen wirdet und des getruwelich<pb facs="#96" n="96"/> <lb/>
+ meldung tun zu yeder zytt wann und wem<lb/>
+ ich solichs thun soll und dar inn kein gever-<lb/>
+licheit gebruchen auch umb nyemants willen<lb/>
+ lassen auch nit anderst furbringen noch<lb/>
+ sagen dan wie sich die ding begeben haben /<lb/>
+ sunder alle geverde </p>
+ </div>
+ <div xml:id="Art.40">
+  <head>[102, 20] [Art. 40] Daz nit mer dan zwo sachenn<lb/>
+ eins mals furgenomen werden</head>
+ <p> Uff das durch vermischung der rede der sachen<lb/>
+ nit verhinderung nach dem richter und reten<lb/>
+ unverstentnis gemacht werden so wollen<lb/>
+ wir das nit meen dann zwo oder dry sach un-<lb/>
+geverlich uff ein mal furgenomen unnd<lb/>
+ wann die zu recht gesetzt werden das alßdann die<lb/>
+ parthyen ußgeen und die urteil gefaßt und als<lb/>
+ bald offentlich ußgesprochen werden sollen es<lb/>
+  [102, 30]  wer dann das richter und rete wyter bedachts und<lb/>
+ rats dar inn notturfftig wern / des mogen sie tun<lb/>
+ von eynem hofegericht biß zum andern / oder<lb/>
+ kurtzer nach gestalt und gelegenheit der sach ungeverlich </p>
+ </div>
+ <div xml:id="Art.41">
+  <head>[Art. 41] Daz diß hofegericht ordenung zu<lb/>
+ yedem hofegericht gelesen werden soll</head>
+ <p> Item wollen setzen und orden wir das diß unser<lb/>
+ hofgerichts ordenung zu ingang yedes unsers<lb/>
+ hofegerichts zuvor ee eynich sach gehort wirt<lb/>
+  [102, 40]  dem hoferichter und reten furgelesen werden<lb/>
+ soll / das sie in guter gedechtnisse belibe unnd<lb/>
+ sich der keyner / durch Unwissenheit entschul-<lb/>
+digen möge </p>
+ </div>
+ <div xml:id="Art.42">
+  <head>[Art. 42] Vonn wem diß ordenung<lb/>
+ gehanthabt werden soll</head>
+ <p> Item wir sollen und wollen auch selbs dar an sin<lb/>
+ das alles und igliches herinn gemelt gehalten<lb/>
+  und voltzogen werden und heissen und gebieten<pb facs="#97" n="97"/> <lb/>
+ auch unserm hofemeister und cantzler mar-<lb/>
+  [102, 50] schalk und vogt zu heidelberg prothonotarien<lb/>
+ und andern secretarien<note xml:id="nN37" type="crit_app" n="N37">In der HGO von Amberg: "unserm hofrichter und reten unsers hofgerichts hie oben zu Beiern".</note> yetzunt oder nachmals<lb/>
+ <pb n="Fol.103"/> sin werden das sie flyßiglich und getruwelich <lb/>
+ daran da by und mit sin sollen und wollen<lb/>
+ so ferre an inen ist oder sin mag das allem<lb/>
+ und iglichem obengemelt ist uffrechts unnd<lb/>
+ stracks on enderung gehalten und volnbracht <lb/>
+ und wo sie das nit gethun konnen und doch<lb/>
+ des innen wurden und des zu underrichten<lb/>
+ und erinnern </p>
+ </div>
+ <div xml:id="Art.43">
+  <head>[Art. 43] Wie wir uns behalten diß ordenung<lb/>
+   [103, 10] zu meren und zu myndernn </head>
+ <p> Item wir behalten uns auch möge und macht <lb/>
+ diß unser hofegerichts ordenung und satzung <lb/>
+ oben begriffen zu meren zu myndern zu lu-<lb/>
+tern zu bessern auch zu andern wan uns<lb/>
+ das fuglich sin wirt das wir doch nach treffen-<lb/>
+lichem unser rete geistliche und weltliche <lb/>
+ nit thun wollen diß ordenung soll auch unß<lb/>
+ lepttag lang gantz uß flyßlich gehalten und<lb/>
+ voltzogen inn dem vertruwen wan wir nit<lb/>
+  [103, 20]  mee sin unser erben pfaltzgraven by rhine unß<lb/>
+ gut meynung herinn bewegt angesehen sollen<lb/>
+ der glych und bessers auch thun werdenn </p>
+ <p> Item alles und iglichs obgemelt ist soll von uns<lb/>
+ und allen den unsern uns gewant sin solichs<lb/>
+ beruren mag uffrechts stracks und erber<lb/>
+ glich sunder alle ußzug und geverde gehal-<lb/>
+tenn werden uff das unser gut meynung<lb/>
+ dar inn nach komen und darus solich ende fol-<lb/>
+gen die gerechtigkeytt desterbaß gefurdert und<lb/>
+  [103, 30]  das unrecht nidergelegt werde zu lob und ere <lb/>
+ dem allmechtigen gott der diser ordenung<lb/>
+ und furnemen seliglich und fruchtbarlich <lb/>
+  durch sin hilff volbringen lassen woll.<pb facs="#98" n="98"/>  </p>
+ </div>
+ </div>
+            <div xml:id="Zusatz">
+ <head>Zusatz zur Hofgerichtsordnung Kurfürst Philipps (Datum unbekannt) [HStA München, Allg.StA
+ Opf., Lit.100, Fol.104, 105]</head>
+ <div xml:id="Z.1">
+  <p>
+                        <pb n="Fol.104"/> Wie von end und vorurteiln appelliert werden<lb/>
+ mag und wie sich die underrichter die gerichts-<lb/>
+hendel zuvertzeichen und zu geben haltenn<lb/>
+ sollenn auch uber cost und schaden geurteilt<lb/>
+ und macht gegeben werden soll:<lb/>
+ </p>
+ <p> Als nach ußwysung der recht von einem ende<lb/>
+urteile mit mundt und lebendiger styme<lb/>
+ on alle schrifft appelliert werden mag so<lb/>
+ der richter der die urteile gesprochen hat / noch<lb/>
+  [104, 10]  zugericht sitzt orden und setzen wir das nun hinfur<lb/>
+ ein yetlicher / der fur uns oder unser hofgericht<lb/>
+ appelliern will / so es ein end urteil antrifft<lb/>
+ solichs tun mag in obgemelter maß mit le-<lb/>
+bendiger stym und mag sich des bezugen mit<lb/>
+ dem gericht und den umbstendern das er damit<lb/>
+ dem richter und wyderparthy verkund woll<lb/>
+ han also das im nit noit sin wirt / hernach<lb/>
+ mit notarien und gezugen zuappellirn und die<lb/>
+ appellacon zuverkunden und appostell zu<lb/>
+  [104, 20] heischen darumb wollen wir auch wann<lb/>
+ yetmants an uns oder unser hofegericht von<lb/>
+ einem ende urteil wie obgemelt ist mit leben-<lb/>
+diger stym appelliert das er von stund an<lb/>
+ von dem richter begern soll uffzeichnis der<lb/>
+ urteil / davon er appelliert hat und uff welichen<lb/>
+ tag und stund die ußgesprochen sy solich<lb/>
+ verzeichnis ime auch allenthalb inn unserm<lb/>
+ furstenthum uff sinen costen under des gerichts<lb/>
+ ob es eigen sigel hatt / oder eynem andern glaub-<lb/>
+  [104, 30] hafftigen ingesigel gegeben von eins gerichts<lb/>
+ wegen und an unserm hofegericht fur ein appel-<lb/>
+lacon angenommen werden soll wolt aber yemats<lb/>
+ von eynem ende urteil appelliern so der richter der<lb/>
+ das urteil gesprochen hatt von gericht uffgestanden<lb/>
+  wer / oder sunst ußwendig des rechtenn der soll<pb facs="#99" n="99"/> <lb/>
+ das in schrifften tun wie sich das im rechtenn<lb/>
+ geburtt und uff das solich unser ordenung des<lb/>
+ appellierns mit lebendiger styme desterbaß in<lb/>
+ ubung komen und gehalten werden mög orden<lb/>
+  [104, 40] und setzen wir das inn unserm furstenthum<lb/>
+ alle gericht so von inen mit lebendiger stym<lb/>
+ wie obgemelt appelliert wirt sich nit von ein<lb/>
+ thun noch scheiden sollen sie haben dan das<lb/>
+ urteil wie das den parthyen ußgesprochen ist<lb/>
+ zuvor in schrifften begriffen und uff welichen<lb/>
+ tag und stund das urteil ußgesprochen sy uff<lb/>
+zeichen lassen uff des der appelliert hat costen<lb/>
+ den er so bald er appelliert hat darlegen der auch<lb/>
+ zimlich von den gerichten geacht und furgenomen<lb/>
+  [104, 50]  werden soll wir wollen und orden auch das in<lb/>
+ unserm furstenthum von keiner vorurteil ap-<lb/>
+pelliert werden soll da sich einer mit dem end<lb/>
+urteil der beswerde erholen mage das auch<lb/>
+ frevel und mutwill so durch appelliern offt<lb/>
+ furgenomen wirt furkomen vermittenn<lb/>
+ und in cleynen sachen nit lichtlich appellirt<lb/>
+ werde orden und wollen wir das kein appellacon<lb/>
+ <pb n="Fol.105"/> an unser hofgericht angenomen werde wo die<lb/>
+ sach der appellacon under zweintzig gulden<lb/>
+ antrifft es were dan das daran hing das<lb/>
+ es eynem ere und glympff antrefe wo sich<lb/>
+ aber in volfurung der appellacon erfunde das<lb/>
+ die sach der appellacion under zweintzig gulden<lb/>
+ were und ere und glympff nit daran hienng<lb/>
+ so soll der also appelliert hat nach des hofrich-<lb/>
+ters und rete gefallen gestrafft werden mitt<lb/>
+  [105, 10]  penen auch orden und setzen wir welicher<lb/>
+ eym andern sin macht fur ine an unserm<lb/>
+ hofgericht inn recht zu erschynen geben will<lb/>
+ das er inn solicher macht uns und unnser<lb/>
+ hofegericht als richter / sich selbs / sin wider-<lb/>
+parthy und auch den gewalthaber / yetlichen<lb/>
+ mit sinem namen die sach darumb tag<lb/>
+  gesatzt und den tag der ime benent ist / be-<pb facs="#100" n="100"/> <lb/>
+stymen soll / mit versprechnis was der ge-<lb/>
+walthaber von sinen wegen im rechten han<lb/>
+  [105, 20] deln / thun und lassen wirt zugewien zuver-<lb/>
+lust und allem rechten das er das steet und<lb/>
+ fest halten und dem nachkomen woll wie<lb/>
+ recht sy / und das von eynem edelman geschee<lb/>
+ under sin oder eins andern edelmann sigell<lb/>
+ von einem burger oder buwers man under<lb/>
+ eins rats gerichts prelaten oder edelman<lb/>
+  sigell ungeverlich.<pb facs="#101" n="101"/>  </p>
+ </div>
+ </div>
+            <div xml:id="Z.2">
+ <head>Zusatz zur Hofgerichtsordnung von 1492 [HStA München, Allg.StA Opf., Lit.100, Fol.107/108]</head>
+  <p> Uff sant peter und paul<lb/>
+ obennt XCII<lb/>
+ Ist beslossen wan die procuratores sich annemen und beladen uff gegeben<lb/>
+ gewelt den pthien ir sachen zu handeln das sie dan auch die urteil mit<lb/>
+ bezalung der costen und andern volstrecken sollen und das hat meister <name type="person">veltin von dorcken</name> licentiat als anwalt <name type="person">hansen von falckensteins</name> / gegen<lb/>
+ <name type="person">symon hel von thena waltenheym</name> angefangen und im etlichen costen<lb/>
+ abgelegt </p>
+ <p> Pastharts guter<note xml:id="nN38" type="crit_app" n="N38">= Nachlaß unehelich Geborener.</note> <lb/>
+ Item uber bastharts guter in der pfalz verfallen so yeman die erben oder sich der underziehen wolt das soll fur uns gewisen und hie nit daruber ge-<lb/>
+sprochen werdenn </p>
+ <p> under ganng<note xml:id="nN39" type="crit_app" n="N39">Streitigkeiten über die Grenzfestsetzung bzw. den Grenzverlauf bei Grundstücken - vgl. Grimm, Deutsches Wörterbuch, Leipzig 1936, 11. Bd., IV. Abtlg., S.1562.</note> <lb/>
+ Item von undergengen soll nit appellirt noch die selben appellacion on<lb/>
+  unsern sundern bescheit nit angenomen werdenn<pb facs="#102" n="102"/>  </p>
+ 
+ </div>
+            <div xml:id="Z.3">
+ <head>Änderung der Hofgerichtsordnung von 1497 [HStA München, Allg. StAOpf., Lit. 100, Fol.110R
+ - 114]</head>
+ <p>
+ <pb n="Fol.110R"/> Wir philips von gots gnaden pfaltzgrave by rine<lb/>
+ hertzog in beyern des heiligen romischen richs ertz-<lb/>
+druchseß und churfürst kunden hiemit offen-<lb/>
+bare aller menglich das wir us trefflichem zyt-<lb/>
+lichem rate und merglichen ursachen uns dar<lb/>
+ zu bewegend unsern underthanen verwanten<lb/>
+ und die an unserm hoffgericht zu rechtigen han<lb/>
+ zu furderung und gut unser vorig hoffgerichts<lb/>
+ ordenung zum teil als dan das hernach gemelt<lb/>
+  [110, 10]  wurt geendert han / und thun das hiemit wissen-<lb/>
+tlich in diser schrifft / wollen setzen und orden<lb/>
+ auch das solichs zu unserm schirstkonfftigen<lb/>
+ hoffgericht das nach aller heiligen tag komen<lb/>
+ wurt / anzufahen also wie nach folgt gehal-<lb/>
+ten und gehanthabt werde </p>
+ <p>Nemlich als in furtrag der parthyen clagen<lb/>
+ antworten sachen und gerechtigkeiten der fur-<lb/>
+sprechen rede bißher merglich mit vil uber-<lb/>
+flussigen unnützen worten unbedechtlich auch<lb/>
+  [110, 20]  zu zytten on grunt des rechten verlengerung<lb/>
+ bracht / dan etwa dick ein redner sin vorig han-<lb/>
+delung zwey oder dru mal widder ingefurt<lb/>
+ darzu etwan on underrichtung siner parthy<lb/>
+ wie es ime zugefallen ist glich als in lüfft geret<lb/>
+ sich mit sins gegenteils redner in ein unnotturfft-<lb/>
+tig disputatz und zanck gelegt hat / da durch den<lb/>
+ parthyen nachteil entstanden ist und die hendel<lb/>
+ nit als eigentlich betrechtlich und verstentlich <lb/>
+ <pb n="Fol.111"/> als die notturfft erfordert het furgetragen sint<lb/>
+ so mogen furter die parthyen an unserm<lb/>
+ hoffgericht schrifftlich und also handeln das<lb/>
+ ein yeder cleger sin furderung und anclag<lb/> 
+ so er yeman furzunemen vermeynt anzeigen<lb/>
+ soll damit man die in der citatz zu bestymen<lb/>
+  und der antworter sich darnach zu richten<pb facs="#103" n="103"/> <lb/>
+ wysß und nit erst nach gescheener clag im<lb/>
+ rechten dilation sich daruff zubedencken das<lb/>
+  [111, 10] dan lengerung gebirt / fordern dorffe / unnd<lb/>
+ dan zu gesetzten recht tage ein yder cleger<lb/>
+ sin clag schrifftlich gezwifacht in recht in<lb/>
+ legen mage / des die ein copy der clag dem ant-<lb/>
+worter von stund an ubergeben werden mit<lb/>
+ einer zimlichen zytt einer stund dreyen viern<lb/>
+ oder eins tags oder zweyer nach gelegenheit der<lb/>
+ sach sin antwort oder uszug daruff zu thun<lb/>
+ das er dan auch in schrifften furzubringen<lb/>
+ schuldig sin soll und wes furter die parthien<lb/>
+  [111, 20] daruff zu replicirn duplicirn triplicirn oder zu<lb/>
+ zu quadruplicirn haben das mag alles in schrifften<lb/>
+ ingelegt und den parthyen von unsern richter<lb/>
+ und reten bequemlich zytt nach dem gelegenheit und<lb/>
+ grösse der sach solichs erfordert dar zu geordent<lb/>
+ und gegeben werden und welich parthy ir bylag<lb/>
+ in der selben zytt nit thet die soll dem gegenteil<lb/>
+ sin costen und schaden nach unser richter und<lb/>
+ rete achtung ablegen und wes also nach der clag<lb/>
+ in recht bracht wurt sollen die parthyen<lb/>
+  [111, 30] abschrifft desselben so wider sie gelegt ist uß<lb/>
+ unser cantzly nemen die inen auch furder-<lb/>
+lich yedes blat das under acht und viertzig zeiln<lb/>
+ nit halten soll umb zwen albos folgen sollen /<lb/>
+ wurd aber einer parthy schub und tag etlich<lb/>
+ bybringen zu thun oder sust uff furbracht<lb/>
+ nuwerung in lag oder anders bedachts zu<lb/>
+ pflegen biß zu eym andern hoffgericht not-<lb/>
+turfftig sin darumb sollen unser richter<lb/>
+ und rete wie recht ist erkennen und desselben<lb/>
+  [111, 40] abscheid uß unser cantzly gegeben und gelöset <lb/>
+ werden wie biß her ungeverlich und soll in<lb/>
+ allen hendeln on furbracht nuwerung und<lb/>
+ sunderlich ursach keyn fünfft schrifft oder<lb/>
+ quintuplik von der exception an zu rechen<lb/>
+ zugelassen werden wie sich dan das nach<lb/>
+  ordenung rechts geburt<pb facs="#104" n="104"/> <lb/>
+ Es soll sich auch ein yeder procurator in clag antwort<lb/>
+ widder oder nachrede biß uff die quintuplick<lb/>
+ des glychen in furbringung der bewysung<lb/>
+  [111, 50]  mit gezugen oder instrumenten umb belonung<lb/>
+ einer terminy mit dreien wyßpfennigenn<lb/>
+ gnugen lassen und nyeman daruber beswern<lb/>
+ doch als einer yeden sach trost und hilff an gutem<lb/>
+ rate und formlicher furgebung sere ligt so soll<lb/>
+ dem jhenen der die clag antwort excepcion replick<lb/>
+ duplick triplick und quadruplick begrifft wyter<lb/>
+ und ferrer gelont werden nach dem die selben<lb/>
+ verstendig und ir rate und förmlich furgeben<lb/>
+ <pb n="Fol.112"/> im rechten gegrunt ist und ob die selben umb<lb/>
+ solich belonung mit den parthyen irrig wurden<lb/>
+ so sollen sich umb solichs by im eyden sie darub<lb/>
+ gethon haben unser richter und rete entscheidts<lb/>
+ gnugen lassen und daruber die parthyen mit<lb/>
+ nicht ferrer beswern ungeverd sich sollen<lb/>
+ auch die advocaten in den clagen antworten<lb/> 
+ excepcion replick duplick triplick quadruplick<lb/>
+ damit richter und rete sehen wer die gemacht<lb/>
+  [112, 10] haben / allmall underschriben und kein parthy<lb/>
+ mee dan ein advocaten haben auch keiner<lb/>
+ gebrucht werden er sy dan fur ein advocaten<lb/>
+ angenomen und das er zu vor darumb den<lb/>
+ geordenten gewonlichen eydt gesworn hab /<lb/>
+ es wer dan das ein parthy ir schrifftlich inlegen<lb/>
+ von andern orten herbrecht das solt einem yeden<lb/>
+ zugelassen werden ob ioch das von yemant an<lb/>
+ andern orten begriffen wer der deshalb nit ge-<lb/>
+sworn noch sich underschrieben hett. Es<lb/>
+  [112, 20]  soll auch kein parthy cleger noch antworter<lb/>
+ kein gesetzten rechttag wendig abzukunden<lb/>
+ oder schriben macht han sunder welicher<lb/>
+ redlich ehafft sins üßblybens hett darumb<lb/>
+ er sin gesatzten tag nit besuchen kont der soll<lb/>
+ des halb ein macht botten zu entschuldigung<lb/>
+ schicken die selben ehafft furzuwenden dar<lb/>
+  umb zu warten was recht sin würt / welicher<pb facs="#105" n="105"/> <lb/>
+ das nit thet und also ungehorsamlich erschy-<lb/>
+nung seiner eehafft ußbliben wer soll in der sach<lb/>
+  [112, 30]  wie recht ist nit destermynder procedirt werden<lb/>
+ Es soll auch hinfür unsern burgern büwern<lb/>
+ und andern unser pfaltz underthanen und ver-<lb/>
+wanten ußgescheiden prelaten freyen comun<lb/>
+ und ritterschaft von unsern hoffgerichts urteiln<lb/>
+ ferr zu appellirn nit gestatt sunder die under<lb/>
+ uns gehalten und gehanthabt lutt eins artickels<lb/>
+ in der ordenung zu <name type="place">worms</name> verlibt zusampt<lb/>
+ das solichs in unserm furstenthum von alters<lb/>
+ auch nit gestatt ist / und mit der execucion<lb/>
+  [112, 40]  oder ferrern processen volfarn und derselben<lb/>
+ appellacion keyner deferirt werden Item<lb/>
+ es sollen auch furter all citation offentlich und<lb/>
+ unsern zurück uffgedrucktem secrete ußgen<lb/>
+ und sunst an unserm hoffgericht kein comission<lb/>
+ compulsorial compaß oder ander brieffe ge-<lb/>
+geben werden sie seyen dan mit recht erkent<lb/>
+ sust soll unser vorig hoffgerichts ordenung<lb/>
+ in allen puncten gehalten und gehanthabt<lb/>
+ werden ungeverlich </p>
+ </div>
+            <div xml:id="Z.4">
+  <head>[112, 50] Wie die procuratores<lb/>
+ swern sollen</head>
+ <note xml:id="nN40" type="crit_app" n="N40">Die Abänderungen d.ursprünglich. Fassung dieses Eids (siehe S. 45) sind durch Sperrung kenntlich gemacht.</note>
+ <p> Ich N soll und will der parthyen sachen so ich<lb/>
+ mich zu handeln an nemen werd / die selben<lb/>
+ mit gantzen truwen meynen nach meyner<lb/>
+ besten verstentniß der parthy zugut mit flyß<lb/>
+ raten und handeln und darinn wyssentlich<lb/> 
+  <pb n="Fol.113"/> keynerley falsch noch unrecht gebruchen<lb/>
+ auch keyn geverlich schub oder dilation zu<lb/>
+ verlengerung der sach suchen noch die par-<lb/>
+thyen zu thun underwysen auch mit den<lb/>
+  parthyen keinerley furwort oder geding<pb facs="#106" n="106"/>  <lb/>
+ machen ein teyl von der sach darinn ich<lb/>
+ handeln werd zu haben darzu heym-<lb/>
+licheit und behelff so ich myner par-<lb/>
+thy entphahen oder uß underrichtung der<lb/>
+  [113, 10]  sachen von mir selbs mercken und vernemen<lb/>
+ werd myner parthy zu schaden nyemants<lb/>
+ offenbaren und des gerichts personen ern<lb/>
+ und furdern auch vor gericht erberkeit<lb/>
+ gebruchen und lesterung by pene nach<lb/> 
+ messigung des gerichts vermyden darzu<lb/>
+ die parthy uber gewonlichen sold lut der or-<lb/>
+denung nit beswern mit merung oder an-<lb/>
+derm geding und ob des solds oder belonung <lb/>
+ halb zusehen der parthien und mir irrung<lb/>
+  [113, 20] entstund desselben by richter und reten ent-<lb/>
+scheit blyben und der sachen so ich mich an-<lb/>
+genomen hab an redlich ursach und erkent-<lb/>
+niß des rechten nit entschlagen sunder ge-<lb/>
+truwlich biß zu end des rechten uß zu warten<lb/>
+ und handeln alles ungeverlich. </p>
+ <p> Wir orden setzen und wollen auch ob<lb/>
+ zu zytten unser hoffrichter und reten sich<lb/>
+ in etlichen sachen zu sprechen in vor oder<lb/>
+ end urteiln on ferrern rate und bedacht<lb/>
+  [113, 30] nit zu entsliessen wisten so mogen sie<lb/>
+ in den selben hendeln und zugefalle zwi-<lb/>
+feln biß zu unserm nechstkomenden hoff-<lb/>
+gericht darnach uffschlag nemen bedachts<lb/>
+ und rats zu pfelgen. In mitler zytt sollen<lb/>
+ unser cantzler und hoffgerichts schriber den<lb/>
+ ersamen unser lieben getruwen den ordina-<lb/>
+rien so in geistlichen und weltlichen rechten<lb/>
+ in unser universitet lesen die selben hendel<lb/>
+ under die hant geben und umb teyln also dz<lb/>
+  [113, 40] ir iglichem einer oder mee nach gelegen-<lb/>
+heyt und menge der selben befolhen werd<lb/>
+ die mit flyß daruber sitzen eigentlich be-<lb/>
+sichtigen und in den selben angezogen zwi-<lb/>
+  feln und puncten nach notturfftiger er-<pb facs="#107" n="107"/> <lb/>
+messung der rechten was zu sprechen sy<lb/>
+ ratslagen und daby irs rats so ferr es mu-<lb/>
+glich ist die ursach schrifftlich anzeigenn.<lb/>
+ Und als sie wochenlich ir lecturen halb va-<lb/>
+cantz oder festa collegy gehalten sollen sie die<lb/>
+  [113, 50]  selben tage zu samen komen und ir iglicher<lb/>
+ den andern die sachen im befolhen und wes<lb/>
+ er sich darinn entslossen hab entdecken und<lb/>
+ furhalten als dan sie sich all miteinander<lb/>
+ umb die selbigen zwifeligen sachen was zu<lb/>
+ sprechen oder zu urteiln sy vereynigen und<lb/>
+ besliessen sollen / dasselb schrifftlich ver-<lb/>
+griffen sich mit eigner hant underschrieben<lb/>
+ und furter mit sampt den gerichts hendeln<lb/>
+ widder in unser cantzly uberantworten sollen. </p>
+ <p>
+ <pb n="Fol.114"/> Wan dan zu unserm nechsten hoffgericht darnach<lb/>
+ unser hoffrichter und rete zu samen komen sollen<lb/>
+ sie die selben uffgeschrieben ratslege und ursachen <lb/>
+ horn und so sie uß irer verstentniß nichts da wider<lb/>
+ haben dem selben ratslag nach oder gemesse irn<lb/>
+ rechtspruch thun. Ob sye aber im selben zwyfel-<lb/>
+heftig wern und bewegniß da widder hettenn<lb/>
+ und in ir verstentniß us ursachen uß der doctoribus<lb/>
+ ratslag und inen selbs keyn urteyl oder rechtlichen<lb/>
+  [114, 10] spruch fassen mochten so sollen sie solichs an<lb/>
+ unsern cantzler zu yeder zytt bringen und langen<lb/>
+ lassen mit dem selben ferrer zu ratschlagenn<lb/>
+ was und wie der sach zu thun zu urteiln unnd<lb/>
+ zu sprechen sy alles ungeverlich zuurkund ver-<lb/>
+sigelt mit unserm secrete datum <name type="place">heydelberg</name> <lb/>
+  uff dornstag nach Jacobi anno dom millesimo<lb/>
+  quadringentesimo nonagesimo septimo.<pb facs="#108" n="108"/>  </p>
+ </div>
+            <div xml:id="Z.5">
+ <head>Zusatz zur Hofgerichtsordnung von 1498 [HStA München, Allg.StA Opf., Lit. 100, Fol.108]</head>
+ <div xml:id="Z.5.1">
+ <head>Capittula iuramenti<lb/>
+ de calumnia</head>
+ <p>Istud iuretur quod lis ibi iusta videtur<lb/>
+ et si queretur verum non inficietur<lb/>
+ nil promittetur nec falsam probacionem det<lb/>
+ ut lis tardet dilatio nulla petetur. </p>
+ </div>
+ <div xml:id="Z.5.2">
+ <head>Iuramentum calumnie<lb/>
+ Der cleger soll swern</head>
+ <p> Das er gleub und darfur hab das sin krieg und<lb/>
+ sach gerecht sy das er so er gefragt werd<lb/>
+ nit abred syn oder vermeyn das er glaub<lb/>
+ war syn<lb/>
+ Item das er sich wissentlich keiner falschen zugnis<lb/>
+ gebruchen woll<lb/>
+ Item das er zu betrug oder geverde kein uffzug<lb/>
+ begern woll da durch die rechtfertigung ver-<lb/>
+tzogen werden mög<lb/>
+ Item das er nichts verheissen hab oder woll da<lb/>
+ durch ime eyn unrecht urteil gesprochen<lb/>
+ werden mög<lb/>
+ </p>
+ </div>
+ <div xml:id="Z.5.3">
+ <head>Der antworter soll swern</head>
+ <p>Das er glaub und darfur hab das er eyn gut<lb/>
+ gerecht sach verdrett und beschirm <lb/>
+ darnach die andern capittell wie obsteet<lb/>
+ Dis stabung des calumnien eids ist in<lb/>
+ treffenlichen rate beslossen 25 Ju-<lb/>
+ny nonagesimo octavo<lb/>
+ </p>
+ <p> Als mir furgelesen ist schwer ich als mir<lb/>
+  gott helff und all heilgenn<pb facs="#109" n="109"/>  </p>
+ </div>
+ </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1025 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1492_stuttgartstr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>  
+                <title>Stuttgart Stadtrecht 1492 Nov. 6 :: Transkription Speer 2010 / 2016</title>
+            </titleStmt> 
+        <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+    <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial"> 
+                <head>[Editorial]</head> 
+                <p>Quelle: Urkundenbuch der Stadt Stuttgart / bearb. von Adolf Rapp. - Stuttgart : Kohlhammer, 1912. - XXII, 680 S. (Württembergische Geschichtsquellen ; 13) S. 536 - 556.</p>
+<p>Gegenüber der gedruckten Vorlage sind folgende Änderungen vorgenommen worden: Die Absätze wurden mit einer Zählung versehen, die rein formal auf den Absatzgrenzen des Drucks aufbaut und durchaus mögliche Zusammenfassungen von Absätzen unter systematischen Gesichtspunkten ausser Acht läßt. Der Herausgeber des Stuttgarter Urkundenbuchs unterscheidet bei Vokalen zwischen dem darübergeschriebenen senkrechten Strich und dem nach rechts oben führenden Strich. Hier wird das letztere diakritische Zeichen unterschiedslos für beide Fälle gebraucht.</p>
+            </div>
+            <div xml:id="Abs.1">
+<head>[Abs. 1]</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.0">Tübingen
+Stadtrecht 1493 Vorrede</ref>]</p>
+    <p>
+<name type="person">Eberhard grave zuͦ Wirtemberg und zuͦ Mumpeligart
+etc. der elter</name>: Dem ersamen wol gelerten unserm vogt zuͦ
+Stuͦtgarten und lieben getrúwen doctor <name type="person">Martin
+Nútteln</name>: Unsern gruͦs zuͦvor, ersamer wolgelerter lieber getrúwer.
+ Nachdem wir vil und mengerlai mangels und gebrechens in unser statt
+Stuͦtgarten vorhanden sin durch taͤglich eroͤgen  erfarent, habent wir
+in willen und mainung, die in etwas wege fúrzekommen, etlich artickel begrifen
+laßen, die wir úch hiemit zuͦschickent, mit befelhe die gemaind mit der
+glogken und sust zuͦ versameln, und inen soͤlich artickel ordnungen und
+satzungen, die als wir hoffent uns unsern erben und nachkommen, gemainer statt
+Stuͦtgarten und aller erberkeit daselbs zuͦ guͦtem nutze und frommen
+erschienen werdent, ze verkúnden und gepieten ze halten, ouch darob und daran
+ze sinde, damit die strengklich gehalten und niemandem ichtzit darinn
+nachgelaßen noch úbersehen werde. Das ist unser ernstlich mainung. Wir
+woͤllent uns ouch des zuͦ úch genzlich versehen und daran verlaßen. Datum
+Urach uf <date when="1492-11-06">zinstag vor Sanct Martins tag des hailigen
+bischofs anno etc. LXXXXIIͦ.</date>
+                </p>
+            </div>
+            <div xml:id="Abs.2">
+		<head>[Abs. 2]</head>
+		<p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.0">Tübingen Stadtrecht
+1493 Vorrede</ref>]</p>
+<p>
+Durch merung des communs diser unser statt Stuͦtgarten, das in kurzen ziten
+gar merklich gewachsen ist, merent sich ouch irrungen und spene zwúschent inen
+taͤglich, und werdent dardurch vogt und richtere gar in vil muͤ arbait
+und versomnús irer geschaͤft gefuͤrt, und moͤgent doch dennocht
+soͤlich irrungen und spene in zweien gerichtstagen bisher der wochen
+gehalten rechtlich nit gehoͤrt noch entscheiden werden.  Darumb und damit
+die, so rechts nottúrftig werdent, und ire sachen fúrderlicher moͤgent
+usgericht und dem gerichte sin laste etwas gemindert werden, so schaffen wir
+dise nachvolgend ordnungen ze pruͤwchen.</p>
+            </div>
+            <div xml:id="Abs.3">
+		<head>[Abs. 3]</head>
+		<p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.1">Tübingen Stadtrecht
+1493 Art. 1</ref>]</p>
+<p>
+Zuͦm ersten, das der gerichtszwange und die sachen, darumb rechtlich
+erkentnús gescheen sol, getailt werden soͤllent, also das vor ainem vogte
+und ganzen gerichte soͤllent berechtet werden alle pinlich strauflich und
+fraͤvelich hendel und darzuͦ alle burgerlich sachen, erbe, aigen,
+koͤufe und anders úber X lb. hlr. beruͤrend.</p>
+            </div>
+            <div xml:id="Abs.4">
+		<head>[Abs. 4]</head>
+		<p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.1">Tübingen Stadtrecht
+1493 Art. 1</ref>]</p>
+<p>
+Was aber X lb. hlr. beruͤrt, und darunter bis uf X ß hlr., dieselben
+usgeschloßen, das sol von aim vogt und vier richtern, von im dem vogt und aim
+gerichte darzuͦ erwoͤlt, verhoͤrt und wie sich gepúrt entschaiden
+werden.</p>
+            </div>
+            <div xml:id="Abs.5">
+		    <head>[Abs. 5]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.1">Tübingen Stadtrecht
+1493 Art. 1</ref>]</p>
+<p>
+<pb n="S. 538" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_538.jpg"/>
+Was aber antrifft X ß hlr. oder minder, und vom vogt guͤtlich nit hingelegt
+wirt, das soͤllent die púttel hoͤren und rechtlich nach raut des vogts
+oder der richter, wa si sich ainer sache fúr sich selbs nit versteend,
+entschaiden, damit niemanden unrecht geschee.</p>
+            </div>
+            <div xml:id="Abs.6">
+		    <head>[Abs. 6]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.2">Tübingen Stadtrecht
+1493 Art. 2</ref>]</p>
+<p>
+Des glich soͤllent vor inen den pútteln gerechtvertiget werden alle hendel,
+die sich begebent zwúschent lichtvertigen personen als huͦren und buͦben;
+die soͤllent si nach irem besten versteen und ouch nach raute entschaiden
+und den selben lúten ouch fraͤvel und straufen den hendeln gemaͤß
+erkennen und uflegen, damit das gericht mit soͤlichen schnoͤden
+schandlichen sachen nit beladen werde.</p>
+            </div>
+            <div xml:id="Abs.7">
+		<head>[Abs. 7]</head>
+		<p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.3">Tübingen Stadtrecht
+1493 Art. 3</ref>]</p>
+<p>
+Item umb des willen das die gerichte iren rechten und ordentlichen gange
+gewinnent und die ungehorsamen ir strauf habent und die so rechts bedoͤrfend
+gefúrdert werdent, so haben wir geordnet und gesezt wider die ungehorsamen und
+zum ersten wider den claͤger:</p>
+            </div>
+            <div xml:id="Abs.8">
+		    <head>[Abs. 8]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.3">Tübingen Stadtrecht
+1493 Art. 3</ref>]</p>
+<p>
+Wann der claͤger rechts begerend fúrpieten laßen hat uf dem huse nit
+erschint, so der vogt und die richtere versamelt nidersitzent, und der
+antwúrter als der gehorsam gegenwuͤrtig ist, so sol der selb claͤgere
+zuͦ pene geben VIII dn.  Were aber der cleͣgere zum andern gerichte aber
+der gestalt wie vor gelut hat sumig und ungehorsam, so sol er zu pene geben XVI
+dn. und zum dritten gerichte, wa er alsdenn aber ungehorsam were, XXIITI dn.
+und darzuͦ allwegen	siner widerpartie versompnús, ouch erber zerung und
+schaͤden, nach erkantnuͦs vogts und gerichts, die gestalt und gelegenhait
+der sachen froͤmbder und haimscher ermessen soͤllent, usrichten.	Belibe
+aber ainer gar us und kem nit, weder im anfange des rechten, so vogt und
+gerichte nidersitzent, noch darnach, ee das gerichte uf den selben tage
+ufstúnde, so sol er zuͦ pene geben den ersten tag II ß, den andern tag V ß
+und den dritten tag X ß hlr. und sinem widertaile ablegen zerunge und
+schaͤden wie obstet. Und nit desterminder sol dem gehorsamen taile sin recht
+ergeen und volzogen werden.</p>
+            </div>
+            <div xml:id="Abs.9">
+		    <head>[Abs. 9]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.3">Tübingen Stadtrecht
+1493 Art. 3</ref>]</p>
+<p>
+    So aber der cleͣger gehorsamplich erschint und der antwúrter nit
+gegenwuͤrtig ist, so vogt und gerichte nidersitzend, so sol der antwúrter
+den ersten tag geben zuͦ pene I ß, den andern II ß, und den dritten III ß
+hlr. Belibe aber der antwúrter gar us und keme nit, die wile das gerichte
+dennocht seß, so sol er geben die <pb n="S. 539" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_539.jpg"/>
+hievorgeschriben großen pene wie der cleger, nemlich den ersten tag II ß, den
+andern V ß und den dritten X ß hlr., und sinem widertaile somnús zerung und
+schaͤden ablegen wie obstet, dem ouch alsdenn als dem gehorsamen nit
+desterminder, unangesehen des antwúrters usbliben und ungehorsami, sin recht
+ergeen und volstreckt werden sol.</p>
+            </div>
+            <div xml:id="Abs.10">
+		    <head>[Abs. 10]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.4">Tübingen Stadtrecht
+1493 Art. 4</ref>]</p>
+<p>
+Zuͦ dem sol ain vogt allwegen macht und gewalt haben in sachen, die nit bait
+haben moͤgent oder darinn muͦtwill oder sonder geverde gemerkt wirt, zum
+ersten zum andern und zum dritten gerichte, bi ainem frevel clainem und großem
+und, ob es in not oder nútze bedúchte, bi dem aide, zuͦm rechten zuͦ
+gebieten.</p>
+            </div>
+            <div xml:id="Abs.11">
+		    <head>[Abs. 11]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.5">Tübingen Stadtrecht
+1493 Art. 5</ref>]</p>
+<p>
+Item welichem, er sie cleͣger oder antwúrter, zuͦsteet etwas redlich
+ursachen, darumb er vor gericht wie obstet nit erschinen mag, der sol die
+erschainen vor vogt und gericht, und so ferr die von den selben fúr
+genuͦgsam geachtet und geurtailt wirt, so soll er alsdenn umb das selb sin
+usbliben kain pene geben.</p>
+            </div>
+            <div xml:id="Abs.12">
+		    <head>[Abs. 12]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.8">Tübingen Stadtrecht
+1493 Art. 8</ref>]</p>
+<p>
+Item wann man fúrohin zuͦ Stuͦtgarten gericht halten will, so sol der
+amptman am aubent davor allen und ieden richtern mornends des gerichts ze
+warten die stattknechte, wie bisher der bruwch gewesen ist, sagen oder
+gepieten, und denn mornends ain morgen zwei maͧle zͦ gericht lúten laßen.
+Und sol das erst zaichen gelút werden bi ainer stunde vor der zit, in der der
+amptman nidersitzen und richten will, und sol zum ersten ain lang zaichen gelút
+und mit dem letsten zaichen verzogen werden, so lang das nach gemainer achtnug
+vom ersten zaichen bis zum andern ain ieder richter ufsteen, sich antuͦn und
+meß hoͤren moͤg. Und nach verschinung soͤlicher zit sol man das ander
+und letst zaichen und das ouch ain guͦte wile lúten. Und wann das verlút
+wirt, so sol ufgesezt werden ain fiertail ainer sandstunde, und ee das gar
+uslouft, sol der amptman sich schicken nider zuͦ gerichte ze sitzen, und
+welicher richter alsdenn nit in der gerichtstuben erschint, vor und ee das
+viertail der sandstunde usgelofen ist, der sol, er hab denn sonder erloubung
+oder werde durch eehaft noút, von vogt und gerichte fúr genuͦgsam erkennt,
+entschuldigt, II ß hlr. unablaͤßlich zuͦ pene geben, und so er gar
+usblipt oder one erloubung vom gerichte abgeit, V ß hlr. Aber wenn der amptman
+bi gehorsami laßt gebieten, so sol aids verpflicht verstanden werden und
+obgemelt geltpene davon nit entschuldigen noch dafúr gnuͦg sin.</p>
+            </div>
+            <div xml:id="Abs.13">
+		    <head>[Abs. 13]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.10">Tübingen Stadtrecht
+1493 Art.
+10</ref>]</p>
+<p>
+    Item abzestricken muͦtwillig umbtriben, so gar oft geschicht von denen,
+die vil lieber rechtent und zuͦm win geend dann ire schulden bezalent, und
+ouch zuͦ etwas straufe denen,  die umb <pb n="S. 540" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_540.jpg"/>
+clainer ungegrúndter ursachen willen die lút mit recht understeend anzefechten
+und umbzetriben, so sol fúrohin ain ieder der zuͦ Stuͦtgarten rechten
+will, er sie cleͣger oder antwúrter, im anfang und ingang des rechten, vor
+und ee ichtzit von sinen wegen geredt wirt, in das gericht legen nemlich vor
+dem ganzen gerichte III ß und vor dem undern gerichte II ß, und welicher die
+sache mit recht erobert, der mag sin ingelegt gelt widernemmen, welicher aber
+verlustig wirt, der sol das gelt von im ingelegt verloren haben.</p>
+            </div>
+            <div xml:id="Abs.14">
+		    <head>[Abs. 14]</head>
+		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.11">Tübingen Stadtrecht
+1493 Art.
+11</ref>]</p>
+<p>
+Item ain ieder, er sie cleͣger oder antwúrter, mag im selbs zuͦ recht
+reden oder ain fúrsprechen mit im bringen, wen er will. Woͤlte er aber ain
+fúrsprechen us dem ring haben, der sol im ouch zuͦgelaßen werden, doch
+allain, und kainer von gericht an sin raut, usgenommen sachen libe leben und
+die ere beruͤrend, darinn mag ain fúrsprech des gerichts ainen siner
+mitgesellen an den raut siner partie nemen. Doch ist unser mainung, das die
+partien, die vor dem undern gericht rechten werdent, inen selbs reden und die
+sachen uf das kúrzest fúrtragen soͤllen als ferr das sin moͤge, damit die
+sachen zuͦm kúrzisten usgericht werden moͤgent. Ob aber iemands sin sach
+nit fúrtragen kúnde, dem sol ain fúrsprech vergúndt und gegeben
+werden.</p>
+            </div>
+            <div xml:id="Abs.15">
+		    <head>[Abs. 15] Von der belonung der richter:</head>
+		<p>
+		Fúro die wil ain ieder arbaiter sins lons wirdig ist und der,
+so die maisten arbait tuͦt, billich den maisten lone sol emphahen, so
+soͤllent die richtere belonet werden wie hernach volget:</p>
+            </div>
+            <div xml:id="Abs.16">
+		    <head>[Abs. 16]</head>
+<p>
+Item die zwoͤlf richter soͤllent haben die XL lb. hlr., so das ampt inen
+bisher gegeben hat, darumb soͤllent si inen in iren anligenden sachen wie
+bisher rauten und die schúbe und wisungen von inen one witere belonung
+annemen.</p>
+            </div>
+            <div xml:id="Abs.17">
+		    <head>[Abs. 17]</head>
+<p>
+Den richtern gefelt I gulden von ainer ieden appellation, und I gulden von
+ainer ieden appellation von undergang, die nit abgetriben wirt.</p>
+            </div>
+            <div xml:id="Abs.18">
+		    <head>[Abs. 18]</head>
+<p>
+    Item ouch soͤllent inen gedihen und werden die X ß hlr., die da
+gefallent von ainem ieden großen frevel, und die V ß hlr., die da gefallent von
+ainem clain frevel, so die statt vormals ingenommen, und von ainer ieden
+appellation vom ampt ain gulden und ain <pb n="S. 541" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_541.jpg"/>
+gulden von ainer ieden urtail, die vom undergange geappelliert und vom gericht
+creftig erkennt wirt, und darzuͦ die III ß gerichtgelts, mitsampt den penen
+der ungehorsamen.</p>
+            </div>
+            <div xml:id="Abs.19">
+    <head>[Abs. 19]</head>
+<p>
+Item ouch soͤllent die zwoͤlf richter in gemain haben, was fúrohin von
+der statt insigel gefallen wirdet, úber ain zimlichs, so den siglern umb ir
+arbait muͤ und wachs zuͦvor davon werden soͤll.</p>
+            </div>
+            <div xml:id="Abs.20">
+    <head>[Abs. 20]</head>
+<p>
+Item also der statt insigel bisher under den richtern umbgegangen und oft ainem
+worden ist, der nit hat kúnden schriben noch lesen, und nuͤ soͤlichs in
+kúnftig zit schaden geperen moͤcht, ordnen und woͤllen wir das
+soͤlichs fúrohin nit mer gescheen, sonder der statt insigel in ainer
+guͦten behaltnús bewarnet, und der wochen nit mer denn etlich taͤge damit
+besigelt werden soͤlle durch die, so von vogt und gerichte darzuͦ
+beschaiden werdent, die ouch an statt in  namen  und von wegen vogts und
+gerichts besiglen soͤllent. Darumb ouch fúrohin alle besiglungen, die da
+gescheen soͤllent mit der statt insigel, uf vogt und gerichte und nit uf
+sonder genant personen gestelt soͤllent werden.</p>
+            </div>
+            <div xml:id="Abs.21">
+    <head>[Abs. 21]</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.95">Tübingen
+Stadtrecht 1493 Art. 95</ref>]</p>
+<p>
+Item die sigler soͤllent fúrohin in namen vogts und gerichts neͣmen von
+aim ieden ufgedruckten insigel I ß, von ainem anhangenden VIII dn., und von
+ainem ieden urtailbriefe, der von inen oder von den undergengern usgeit, II ß,
+und von niemanden ainichen briefe emphahen oder anneͣmen, er gebe denn das
+sigelgelt damit.</p>
+            </div>
+            <div xml:id="Abs.22">
+    <head>[Abs. 22]</head>
+<p>
+Item die sigler soͤllent fúrohin ain flißig ufmerken haben uf die, so iren
+wibern und kindern unnottúrftiklich oder umb úppigs oder unnottúrftigs
+vertuͤns willen mit gulten zinsen versetzen oder in andere wege beschwerent
+oder sust verkoufent vertuwschent oder vermerzlent, also, wa si bedunkt
+muͤtwillig oder unnottúrftig handlung die zuͦ schaden dienen mag inen
+iren wibern oder kindern, da soͤllent si hinder vogt und gerichte und one
+iren sondern befelhe nit siglen, sonder das anbringen und nach irem beschaid
+handeln.</p>
+            </div>
+            <div xml:id="Abs.23">
+    <head>[Abs. 23]</head>
+<p>
+Das alle brief besonder ligende guͤter beruͤrend vom statschriber
+geschriben und mit der statt insigel besigelt werden und sust von unwirden sin
+soͤllent.</p>
+            </div>
+            <div xml:id="Abs.24">
+    <head>[Abs. 24]</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.96">Tübingen
+Stadtrecht 1493 Art. 96</ref>]</p>
+<p>
+    Item bisher sind vil boͤuser sachen gescheen durch etlich, die unsern
+statschriber diser unser statt und der statt insigel geflohen und bi andern
+schribern geschriben, ouch ander denn der statt sigler zuͦ besigeln gepetten
+habent, und in sonder so hand etlich ire guͤtere under diser unser statt
+insigel haft gemacht und die darnach aber fúr ledig unverkúmmert verschriben
+und die selben <pb n="S. 542" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_542.jpg"/>
+briefe etwan bi andern schribern gemacht, ouch mit andern insigeln dann mit der
+statt insigel besigelt, und erber lút damit beschalkt und betrogen. Soͤlichs
+als ain unertraͤglich boushait falsch und betrug fúrzekommen und
+abzestricken, setzen ordnen und woͤllent wir, das fúrohin alle briefe und
+besonder ligende guͤtere mit versatzung oder sust in ainichen wege
+beruͤrend, soͤllent bi unserm statschriber diser unser statt gemacht und
+mit der statt insigel besigelt werden. Der statt sigler soͤllent ouch
+nichtzit siglen dann das vom statschriber usgeit. So muͤssent die
+aubentúrer, so mit obgemeltem betruge und falsche umbgeend, den schriber und
+die siglere, die der ding acht haben soͤllent, entsitzen. Und welicher brief
+nach verkúndung diser unser ordnung und willes anders usgeen wirt, der sol von
+unwirden sin und daruf nichtzit gericht geurtailt noch gehalten und der
+úberfarer diser unser ordnung und gepots darzuͦ wie sich gepúrt gestrauft
+und im die strauf nit nachgelaßen werden.</p>
+            </div>
+            <div xml:id="Abs.25">
+	    
+<head>[Abs. 25] Das fúro kain gúlt us guͤtern fúr fri solle verkouft
+werden:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.97">Tübingen
+Stadtrecht 1493 Art. 97</ref>]</p>
+<p>
+Item bisher sind vil guͤtere, in zwingen und bennen diser unser statt
+Stuͦtgarten gelegen, uns und gemainer statt nit zuͦ clainem nachtaile und
+schaden, mit zinsen und gúlten, der gar vil gegeben werdent lúten usserhalb
+unser herrschaft  gesessen, fúr stúren schatzungen und ander beschwerungen
+verschriben, hart beschwert und beladen worden, und wúrdent fúro noch mer und
+witer beschwert, wa hierinne nit fúrsehunge geschee. Soͤlichs fúrzekommen
+und abzestricken, setzen ordnen und woͤllen wir, das fúrohin zins und gúlten
+in unser statt Stuͦtgarten fúr stúren schatzungen und ander beschwerden nit
+soͤllent verkouft noch ainicher briefe darumb gemacht noch versigelt werden.
+Wir woͤllent ouch hie zuͦ Stuͦtgarten zinse und gúlten der gestalt nit
+mer verkoufen noch geben laßen. Dann soͤltent die fúrus also wie bisher
+verkouft werden, so keͣm es bald darzuͦ, das nieman kain aigen oder
+zinsfrie guͦte hie zuͦ Stuͦtgarten fúnde, und das sich ouch der
+guͤter vor beschwerden der zins nieman betragen moͤcht, dardurch si
+zuͦ großem unbuwe kommen und egerden werden moͤchtent.</p>
+            </div>
+            <div xml:id="Abs.26">
+<head>[Abs. 26] Das klain gericht:</head>
+    <p>Item die vier richter geordnet zuͦm vogt, die clain hendel rechtlich
+uszerichten, hand taile mit den andern richtern an allen obgemelten stucken,
+und soͤllent allweg vor und nach mittag wenn si beruͤft werdent zuͦ
+rechter zit helfen handeln. Darumb soͤllent si vier in sonderhait zuͦ
+lone haben nemen und emphahen die vierzig <pb n="S. 543" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_543.jpg"/>
+pfund hlr. von uns herruͤrend, die bisher aim gericht worden sind, gepúrt ir
+iedem jars X lb. hlr., und darzuͦ von aim ieden clain frevel den si erkennen
+werdent V ß, die vormals der statt in iren seckel gedient hand, und das
+gerichtgelt mitsampt dem, so us ungehorsami und versomnús vor inen gefallen
+wirdet. Und hiemit werdent mer und baß belonet die, so die merern arbait
+habent. Und soͤlichs geschicht ouch billich, dann in kains vernúnftigen
+gemuͤt wirt erfunden, das der geschickt und der ungeschickt, der flißig und
+der unflißig, und der der vil muͤ und arbait hat und der wenig arbaitend mit
+glichem lone belonet und besúldet werden soͤllent.</p>
+            </div>
+            <div xml:id="Abs.27">
+<head>[Abs. 27] Das ain ieder, der burger will werden, sin mannrecht solle
+haben:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.99">Tübingen
+Stadtrecht 1493 Art. 99</ref>]</p>
+<p>
+Item nachdem bisher vil unendlichs lichtvertigs folks von allen landen in dise
+unser statt gezogen und kommen ist, und nuͤ das selb uns und gemainer statt
+vil nachtails und beswerd bracht hat in vil weg unnout zuͦ erzelen, hand wir
+gedaucht das selb durch gepúrliche mittel fúrzekommen, und darumb geordnet und
+gesetzt, das fúrohin kain person in diser unser staͦtt Stuͦtgarten zuͦ
+burger soͤlle ufgenommen werden, si hab denn irs manrechten guͦt briefe
+und sigel. Die soͤllent behalten werden in der statt behaltnus uf das, ob
+ainer hernach wider hinus ziehen woͤlt, das man wissen moͤge, was er mit
+im herin braucht habe, und in ouch nach dem selben und nach dem er sich sither
+gehalten hat, mit ainem manrechten, ob er des begeren wúrde, wider wisse
+abzevertigen.</p>
+            </div>
+            <div xml:id="Abs.28">
+    <head>[Abs. 28]</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.99">Tübingen
+Stadtrecht 1493 Art. 99</ref>]</p>
+<p>
+Es soll ouch zuͦm andern darumb gescheen, das man wissen moͤge, waurfúr
+ain ieder ze halten und waurzuͦ er nútz und ze bruwchen sie.</p>
+            </div>
+            <div xml:id="Abs.29">
+<head>[Abs. 29] Der burger aide:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.100">Tübingen
+Stadtrecht 1493 Art. 100</ref>]</p>
+<p>
+    Item welicher fúrohin in unser statt Stuͦtgarten zuͦ ainem burger
+ufgenommen wirt, der sol globen und ain aide sweren zuͦ Gott und sinen
+hailigen, uns und unsern erben truw und holde ze sinde und diser unser statt
+nutze und frommen ze schaffen und schaden ze warnen und ze wenden nach sinem
+besten vermoͤgen, und darzuͦ uns und unsern amptlúten und der oberkait
+diser unser statt und iren gepotten und verbotten gehorsam und gewertig ze
+sinde, und nit von hinnen zu ziehen noch sich diser unser statt zuͦ
+empfroͤmbden, er habe denn das burgerrecht zuͦvor unsern amptman und der
+statt rechnern abkúndt und der statt ain gulden zuͦ abzuge bezalt, und
+mengklich dem er ze tuͦnd ist entricht oder in benuͤgig gemacht, und ob
+er mit iemanden under den stabe diser unser statt <pb n="S. 544" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_544.jpg"/>
+Stuͦtgarten gehoͤrig ze tuͦnde hette, warumb das were, soͤlichs
+daselbs mit recht uszerichten und bi dem selben rechten ze pliben, er woͤlte
+sich dann davon beruͤfen, das mag und sol er tuͦn lut und innhalt der
+ordnung von uns gemacht usgeschriben und verkúndt, alles getrúwlich und
+ungevaͤrlich.</p>
+            </div>
+            <div xml:id="Abs.30">
+    <head>[Abs. 30]</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.101">Tübingen
+Stadtrecht 1493 Art. 101</ref>]</p>
+<p>
+Item welicher also zuͦ ainem burger ufgenommen wirt, der sol der benanten
+unser statt umb das burgrecht von stunden an one verzuge vor und ee er insitzt
+geben zwen gulden, und das burgrecht, wann er darnach wider hinwegziehen will,
+mit ainem guldin, den er ouch bar bezalen sol, ufgeben wie obstet. Doch
+moͤgent vogt und gerichte im annaͤmen und abzuge ains burgers zuͦ
+ziten us redlichen vernúnftigen ursachen dispensieren und minder denn obstaut
+oder gar nichtzit nemen. Welicher ouch fúrohin von Stuͦtgarten ziehen will,
+der sol der statt geben zuͦ abzuge ain gulden, unangesehen ob er das
+burgrecht ererpt oder erkouft habe und ob er vor diser unser ordnung und
+satzung ain burger daselbs gewesen were, das sol in davor ouch nit
+schirmen.</p>
+            </div>
+            <div xml:id="Abs.31">
+<head>[Abs. 31] Der dienstknecht aide:</head>
+<p>
+    Wir woͤllent und gepietent ouch bi pen ains pfunds funf schilling hlr.,
+unser statt Stuͦtgarten unablaͤßlicb zuͦ bezalen, das ain ieder sinen
+knecht, der die nachgeschriben glúpt vormals nit getan hat, in den nechsten
+acht tagen, nachdem er in gedingt hat, unserm amptman oder in sinem abwesen aim
+burgermaister antwúrte, der gestalte das er dem selben in unserm namen globe bi
+handgegeben truͤwen an ains geswornen aids statt, uns und unser statt
+Stuͦtgarten, als lang er daselbs wonen werde, frommen und nutze ze schaffen
+und schaden ze warnen und ze wenden, und unsern und unser amptlúten und der
+oberkait diser unser statt gepotten und verbotten gehorsam und gewertig ze
+sinde, und von hinnen nit ze ziehen, er hab denn mengklich dem er gelten
+soͤlle entricht, und ob er ain stubenmaister oder stubenknecht wúrde und
+ichtzit frevelichs ruͦgbars oder straufbars sehen oder hoͤren wúrde, das
+selb unserm amptman vor sinem abschide endeckt und fúrbracht, und ob er mit
+iemanden ichtzit ze tuͦnde úberkeͣme oder iemands <pb n="S. 545" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_545.jpg"/>
+mit
+im, das selb vor dem stabe zuͦ Stuͦtgarten mit recht ze lútern und
+uszerichten und dabi ze beliben, er woͤlle sich dann davon beruͤfen, das
+sol er tuͦn lut der ordnung von uns gemacht, und der selben leben.</p>
+            </div>
+            <div xml:id="Abs.32">
+<head>[Abs. 32] Nieman sol iemands noch nit burger enthalten:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.102">Tübingen
+Stadtrecht 1493 Art. 102</ref>]</p>
+<p>
+Item witer habent wir geordnet und gesezt, woͤlicher hie zuͦ
+Stuͦtgarten gesessen lút ufhoͤlt huset hofet oder herberget, die den
+burgeraide obgeschriben nit getan hand, der selb sol von ieder persone, die er
+also enthalten hat, geben I lb. V ß hlr. diser unser statt zuͦ pene; denn es
+wonend vil lúte hie zuͦ Stuͦtgarten, die uns und der selben unser statt
+weder gelopt noch geschworn hand, darus, wa es nit fúrkommen wúrde, moͤchte
+vil unrauts erwachsen. Es ist ouch ain ursach, das gepott und verbott, so
+zuͦ ziten von unsern und der benanten unser statt wegen gescheent, verachtet
+werdent, das uns und obgemelter unser statt nit traͤglich noch ze dulden
+ist.</p>
+            </div>
+            <div xml:id="Abs.33">
+    <head>[Abs. 33]</head>
+<p>
+Herumb so verschaffen und woͤllent wir, das unser vogt zuͦ Stuͦtgarten
+alle menschen daselbs wonend, der halb man nit ain claur gruntlich wissen hat,
+das si ire manrecht und uns wie obstet gelopt und geschworn habent,
+rechtvertigen und allen mangel, der deshalb an inen erfunden wirdet, erstatten
+und erfollen solle, wie sich lut der ordnung gepúrt.</p>
+            </div>
+            <div xml:id="Abs.34">
+<head>[Abs. 34] Strauf der, so vom amptman umb schulden vertaͤdingt werdent
+und der taͤding nit lebend:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.103">Tübingen
+Stadtrecht 1493 Art. 103</ref>]</p>
+<p>
+    Item als ainem ieden amptman zuͦsteet sinen undertanen, die von iren
+gloͤubigen, das ist von denen die inen umb schulden getrúwt geloupt und
+gebaitet hand, angefochten genoͤt oder geschediget werden woͤllent, mit
+guͤtlicher taͤding fúrstande und ufenthaltunge ze tuͦnde, und witer
+zuge und zile zuͦ erlangen, also gepúrt sich ouch den undertanen, den
+taͤdingen vom amptman gemacht ze leben und nachzekommen und die guͤtlich
+zu volstrecken. So aber dasselb von vil undertanen oft verachtet und nit
+gehalten wirdet und dasselb ouch nit mag erlitten werden, so habent wir
+geordnet und gesezt: welicher sich fúrohin ain amptman und gericht samentlich
+oder sonderlich ichtzit betaͤdingen laßt und der taͤding nit lept und
+gnuͦg tuͤt, der sol darumb mit fanknus nach gestalt der sache gestrauft
+werden und schuldig sin sinem gloͤubigen die underpfande im haft volgen ze
+laßen und ze rumen, glicher wise als ob er die nach diser unser statt
+Stuͦtgarten recht herkommen und gewonhait erlangt und ervolgt hette. Ob aber
+der gloͤubig umb sine schulde kain underpfande hette, so sol der schuldner
+der die taͤding nit helt im geben vergangne pfande, die er triben und
+tragen, und <pb n="S. 546" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_546.jpg"/>
+daruf er siner schulde wol bekommen moͤg, und sol witer kains pfendens
+ufruͤfens vertaͤdingens verkúndens noch usbietens bedoͤrfen noch nout
+sin kaineswegs, damit die gloͤubigen muͦtwilligs umbtribens und ufzugs
+úberhaben werdent, doch hierinn unserm amptman sin taͤding schilling
+vorbehalten. Und die wile us der noͧtturft soͤlich taͤdingen fúr
+vergessen in ain buͦch geschriben werden muͤssent, so sol unser amptman
+dasselb inschriben tuͦn und darumb von iedem taile zwen pfenning
+nemen.</p>
+            </div>
+            <div xml:id="Abs.35">
+<head>[Abs. 35] Ordnung, wann uf iemanden oder sin guͦte clagen und verbott
+gescheent, wie es sol gehalten werden:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.105">Tübingen
+Stadtrecht 1493 Art. 105</ref>]</p>
+<p>
+Item bisher ist gewonhait und der bruwche zuͦ Stuͦtgarten gewesen, wann
+uf iemands guͦte clagen und verbotte gescheen sind, so ist anfangs und vor
+allen menschen der erst verbieter und darnach der ander und also fúr und fúr
+ainer nach dem andern usgericht worden, als wit das guͦt hat moͤgen
+raichen und dienen, und hand die andern, die vilicht mit besserer gerechtigkait
+us unwissenhait soͤlichs verbietens des guͦts hernachkommen und bi den
+letsten gewesen sind, ganz muͤssen mangeln und galt usgeen. So aber das selb
+ganz unglich und der vernunft und billichait nit gemeͣß ist, so ist von uns
+geordnet und gesezt, wann fúrohin ain soͤlicher unfale uf iemanden oder
+iemands guͦte felt, das man daruf clagen oder verbieten laßen wirt, das denn
+von unserm amptman daselbs alle cleͣger und verbieter aigentlich
+ufgeschriben und zuͦ letst, wann zwen monat vom anfang der verbietung
+verschinent, iedem gegeben werden soͤlle nach anzale siner schulde, als wit
+das guͦte raichen mag, unangesehen das ainer der erst der ander der mittel
+oder der letst verbieter ist gewesen, doch uns unsern erben und nachkommen
+unser oberkait hierinn vorbehalten. Und ob iemands sonder gerechtigkait zuͦ
+soͤlichem guͦte hette us verschribungen oder sust als von schulden wegen,
+dar umb underpfand haft werent, ouch umb huszinse lidlone geurtailt und ander
+der glich gefriet sachen, dem sol hiedurch sins rechten nichtzit benommen sin
+noch werden, und sol ieder claͤger oder verbieter dem amptman geben zwen dn.
+sich inezeschriben.</p>
+            </div>
+            <div xml:id="Abs.36">
+<head>[Abs. 36] Von denen so die lút anstoussent oder betriegend und
+ustroͤttend.</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.106">Tübingen
+Stadtrecht 1493 Art. 106</ref>]</p>
+<p>
+    Item taͤglich wirt erfunden, das vil unnútzer lichtvertiger lút, <pb n="S. 547" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_547.jpg"/>
+die
+sich selb und ire kindere in verderben richtent, erber lút anstoussent, umb das
+ir betriegent, und darnach ustraͤttent und vermainent denn wider inzekommen,
+wann si woͤllent. So nuͦ soͤlichs nit mag noch sol gelitten werden,
+und ouch unser mainung und will ist, das der burger aide obgeschriben nit
+allain binden soͤlle die, so fúro zuͦ Stuͦtgarten burgere und
+soͤlichen aide schweren werdent, sonder ouch die, so vormals daselbs burgere
+gewesen und noch sind, und denn der selb aide under andern innhelt, das nieman
+sich diser statt empfroͤmbden noch von hinnen ziehen soͤlle, er habe denn
+sine schuldner entricht oder benuͤgig gemacht, so ordnen setzen und
+woͤllent wir, welicher hinfúr der gestalt ustritt one gunden und erlouben
+der oberkait, der sol wider sin aide getan, sin manrecht verwúrkt und sin
+burgerrecht verloren haben, und wa er ergriffen wirt, angenommen und darumb an
+sinem libe oder guͦte, wie sich nach gestalt der sachen gepúrt, gestrauft
+werden. Welicher aber von ungehorsami wegen ustritt, der sol in die alten
+sweren strauf gefallen sin und ouch sin ere und manrecht verwúrkt und das
+burgerrecht verloren haben, und darumb mit im fúrgenommen und gehandelt werden,
+als sich nach unserm willen und verschaffen wirt gepúren.</p>
+            </div>
+            <div xml:id="Abs.37">
+    <head>[Abs. 37] Von denen die ire guͤter vorhin haft fúr ledig
+verschribend:</head>
+                <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.107">Tübingen
+Stadtrecht 1493 Art.
+107</ref>]</p>
+<p>
+Item ouch ist oft und dick erfunden und offentlich an den tag kommen, das
+etlich ire guͤtere fúr zinsfri ledig unverkúmert aigen verschriben habent,
+die doch davor andern zinsbar und haft gewesen sind. Wann aber soͤlich
+boushait betruge und falsche ouch nit mag noch sol gestattet werden, so ist von
+uns dawider gesezt und geordnet: welicher hinfúr in soͤlicher boushait
+erfunden wirdet, der sol erlous und umb sin manrecht kommen sin, und darumb an
+sinem libe oder leben, wie sich nach gestalt siner handlung gepúrt, gestrauft
+werden.</p>
+            </div>
+            <div xml:id="Abs.38">
+    <head>[Abs. 38] Das ainem ieden das guͦt, so er verkouft, umb die
+schulde darumb versprochen sol haft sin:</head>
+                <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.108">Tübingen
+Stadtrecht 1493 Art.
+108</ref>]</p>
+<p>
+    Item welicher ain ligend guͦte verkouft, borgs uf zile zuͦ bezalen,
+dem sol, wie es vormals ouch gewesen und von alter herkommen ist, das selb
+guͦte umb sin bekanntlich koufsumme und schulde vor mengklichem, vor
+soͤlichem koufe uf dem selben guͦte nichtzit noch ainich gerechtigkait
+daran oder darzuͦ habend, nach diser unser statt Stuͦtgarten bruwch und
+herkommen haft sin, alle <pb n="S. 548" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_548.jpg"/>
+die
+wile im des selben koufgelts ichtzit unvergolten ussteet. Und ob soͤlichs im
+koufe nit beredt were, dennocht sol es lut diser unser satzung gehalten werden.
+Were oder wúrde aber in ainichem koufe luter abgeredt und beschlossen, das das
+verkouft guͦte umb die koufsumme nit soͤlte haft sin, so sol das selb
+gedinge, so sust nichtzit dawider ist, in creften beliben, angesehen das sich
+ain ieder sins rechten begeben und verzihen mag, und das ouch dem, der ain ding
+williklich und on nout tuͦt, nit unrecht geschicht.</p>
+            </div>
+            <div xml:id="Abs.39">
+    <head>[Abs. 39] Ain ieder koͤufer sol dem verkoͤufer umb sine schulde
+ain benuͤgen tun, es werd bedingt oder nit:</head>
+                <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.109">Tübingen
+Stadtrecht 1493 Art.
+109</ref>]</p>
+<p>
+Item welicher umb iemanden ichtzit borgs kouft ligends oder farends, der sol
+dem verkoͤufer uf sin begere ain benuͤgen umb die kaufsumme tuͦn, es
+werde bedingt oder nit bedingt, usgenommen so der verkoͤufer sich des
+williklich verziht oder das nachlaßt.</p>
+            </div>
+            <div xml:id="Abs.40">
+    <head>[Abs. 40] Wie man den huszinse bezalen und was darum haft sin
+soͤlle:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.111">Tübingen
+Stadtrecht 1493 Art. 111</ref>]</p>
+<p>
+Item welicher hie zuͦ Stuͦtgarten ain huse bestet, gar oder ains tails
+oder ichtzit darinn als laden oder anders, der sol zuͦ halbem jare halben
+zins ze geben verfallen und schuldig sin den zuͦ bezalen, sin husherre
+woͤlle im denn den mit guͦtem willen lenger ansteen laßen. Was ouch
+iemands in ain huse oder laden etc. von im bestanden bringt, das alles
+gemainlich und sonderlich nichtzit usgenommen sol dem husherren umb sin
+huszinse vor menigklichem haft sin.  Er mag ouch das alles umb sin huszinse
+darinn behalten, und ob iemands ichtzit us sinem huszinse teͣte verendern
+one wissen und willen des husherren, der sins huszinses dennocht nit entricht
+were, der sol schinbarlich darumb gestrauft werden nach erkantnus vogts und
+gerichts.</p>
+            </div>
+            <div xml:id="Abs.41">
+    <head>[Abs. 41] Von denen, die iren schuldnern nit hand ze geben gelt oder
+pfande:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.113">Tübingen
+Stadtrecht 1493 Art. 113</ref>]</p>
+<p>
+    Item fúro habent wir gesezt und geordnet, welicher hie zuͦ
+Stuͦtgarten sin schuldner nit hab zuͦ bezalen mit gelt oder pfanden oder
+sine kind oder sin wib laß nach brot geen, das der selb nit solle zum win geen
+weder firtag noch werktage, usgenommen hochzitlich schenkinen siner nechsten
+frúnde. Wirt er aber bi dem win ergriffen, so sol er von stunden an in fenknus
+gelegt und allain mit wasser und brote uf benuͤgen des amptmans darinn
+gespiset <pb n="S. 549" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_549.jpg"/>
+werden. Und heruf gebieten wir allen stattknechten pútteln winziehern und
+andern gemainlich und sonderlich, bi gelúpten und aiden uns und zuͦ iren
+diensten getan, ain flissig ufsehen uf die ding ze haben, und wa si ain
+soͤlichen bi dem win oder bi spilen, darzuͤ er ouch verwandt sie, findent
+oder erfarent gewesen sin, den obgemelter massen anzenemen und in gefangknus ze
+legen. Und wirt der amptman von ains soͤlichen wegen, der nit zuͦ bezalen
+hat, von sinem gloubigen, das ist von dem dem er gelten sol, ingeruͤft in in
+fengknus ze legen, so sol der amptman das selb tuͦn uf des gloubigen costen,
+der dem gefangen schuldner zimlich liferung sol geben nach beschaid des
+amptmans, doch dem amptman vorbehalten macht und gewalte, ain schuldner us
+vernúnftigen redlichen ursachen hievor ze fristen.</p>
+            </div>
+            <div xml:id="Abs.42">
+    <head>[Abs. 42] Kinder man und frowen geschlechts soͤllent nachts nit
+nach brout geen:</head>
+<p>
+Item bi obgemelter pene sol nieman unerloupt der oberkait nachts ainich kind
+frowen oder mans geschlecht nach brot schicken oder geen laßen, und ob ain frow
+die kain man hat ire kind frowen oder mans personen nachts nach brout schickte
+oder geen ließ unerloupt, die sol obgemelter pene gemeß ouch gestrauft
+werden.</p>
+            </div>
+            <div xml:id="Abs.43">
+    <head>[Abs. 43] Von vertraͤgen die mit kinden gescheent etc.:</head>
+    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.117">Tübingen
+Stadtrecht 1493 Art. 117</ref>]</p>
+<p>
+    Item sich erfindet in taͤglicher gerichtsuͤbung, das vil zanks und
+rechtvertigung erwechst us den vertraͤgen und dem úberkomen, so die
+personen, die us witwenstaute wider in die ee kumment, tuͦnd mit iren kinden
+an statt der tailung, so si nach diser unser statt recht herkomen und gewonhait
+mit inen tuͦn soͤltent, und entsteet soͤlicher zank gewonlich us dem,
+das soͤlich vertrage nit gescheent vor gericht. So nu unsere gemuͤts und
+willes ist soͤlich irrungen und rechtvertigungen abzestricken und
+fúrzekomen, so setzent und gebent wir diser unser statt Stuͦtgarten fúr ain
+gesetze und stattrecht, das ain ieder mensch baiderlai geschlechts, in dem
+gerichtszwang der selben unser statt ietzo und hienach gesessen, der fúrohin us
+dem witwenstaute wider in die ee komen und sich mit sinen kinden an statt
+obgemelter tailung vertragen oder setzen will, das der selb soͤlichen
+vertrage úberkomen oder satzung tuͦn soͤlle vor vogt und gericht, der
+gestalt, das si erkennent soͤlichen vertrage úberkomen oder satzunge den
+kinden zuͦ den selben ziten nútz und besser sin denn tailung, und welicher
+vertrage úberkomen oder satzung also geschicht, der das oder die sol darnach
+allwegen <pb n="S. 550" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_550.jpg"/>
+in
+wirden und kreften sin und beliben und durch kúnftig sachen zuͦ- oder
+anfelle, die ainichem taile, es were den kinden oder iren eltern, nachtaile
+geperen oder bringen moͤchtent, nit zerrút noch aberkennt werden. Wa aber
+ainicher vertrage úberkomen oder satzung usserhalb der forme diser unser
+satzung gemacht wirt, der sol fúr unwirdig und craftlous erkennt und gehalten
+werden.</p>
+            </div>
+            <div xml:id="Abs.44">
+    <head>[Abs. 44] Von den vaͤttern und muͤtern, die ain kind richlicher
+dann das ander begaben oder sich zuͦ ainem fúr das ander verpflichten
+woͤllent, wie es gescheen sol.</head>
+<p>
+Item wiewol natúrlich und ouch billich ist, das die kindere von iren eltern
+versehen und begabt werdent ieglichs nach dem es sich frúntlich oder
+unfrúntlich gehorsamlich oder ungehorsamlich erberlich oder unerberlich hat
+gehalten, nochdenn fúrzekomen und <choice>
+                        <sic>und</sic>
+                        <corr/>
+                    </choice> abzestricken vil zanks und
+rechtvertigung, so zuͦ ziten erwechst us dem, das ain kind fúr das ander
+angesehen und begaubt wirt von vatter oder muͦter in witwenstaute ainhendig
+und unabgetailt guͦte habend, so setzen wir diser unser statt Stuͦtgarten
+fúr ain ordnung und stattrecht:  Wann fúrohin ain vatter oder múter in
+witwenstaute sich haltend und ainhendig unabgetailt guͦte habend ain sin
+kind witer oder richlicher denn das ander begauben oder sich umb das sin zuͦ
+ainem kinde fúr das ander verpflichten will pfrúndners wise oder sunst, das
+soͤlichs gescheen soͤlle vor vogt und gericht, und so es von den selben
+die das wesen der kinder und der eltern, ouch gestalt der sachen, aigentlich
+und wol erlernen und ermessen soͤllent, durch ir erkantnus zuͦgelaussen
+und bestetigt wirt, so sol es fúr wirdig und creftig gehalten und fúrter nit
+aberkennt werden. Geschee aber fúrohin in disem fale ainich gabe oder
+verpflicht usserhalb der forme diser unser ordnung und satzung, so sol die von
+unwirden sin und fúr unkreftig und untougenlich geurtailt und gehalten
+werden.</p>
+            </div>
+            <div xml:id="Abs.45">
+    <head>[Abs. 45] Was ainer, der erst in gericht oder raut kompt, der statt
+geben soll:</head>
+<p>
+    Item wiewol gnuͦg schwer ist ain richter sin, so ist es doch <pb n="S. 551" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_551.jpg"/>
+ain
+erlich ampt, darzuͦ ouch die e[r]bersten und vernúnftigsten lúte geprucht
+und darumb ouch billich gewirdet und geeret werdent. So nun ain alter bruch
+gewesen ist, welicher zuͦ ainem richter erwelt und genomen worden ist, das
+der selb dem vogt und dem gericht hat ain costlich mal muͤssen geben, und
+nuͦ der selb bruch ain zit still gestanden ist, so laussen wir zuͦ und
+ist unser will und mainung, welicher fúrohin zuͦ ainem richter zuͦ
+Stuͦtgarten erwoͤlt und angenomen wirt, der vormals kain richter gewesen
+ist, das der selb für das obgemelt maul der statt geben soͤlle uf ir stuben
+ain silberin becher vier gulden wert, der alda zuͦ eren dem selben richter
+und den sinen ouch gemeiner statt allweg soͤll beliben und gebrucht und in
+kain andern nutze bewendt werden. Welicher aber von núwem in den raut kompt,
+der sol geben zwen guldin, und kompt er us dem raut in das gericht, sol er aber
+zwen guldin geben, darumb ouch silbergeschirre gekouft und wie obstet gebrucht
+und gehalten werden sol. Und nit dester minder moͤgent die richter und die
+vom raut, wann ainer erstmals in gericht oder raut kompt, bi ainander essen und
+dem núwen richter oder raute sin mal schenken.</p>
+            </div>
+            <div xml:id="Abs.46">
+    <head>[Abs. 46]</head> 
+<p>
+Item durch dise ordnungen und satzungen woͤllent wir andern loblichen
+gewonhaiten brúchen ordnungen und satzungen bis her zuͦ Stuͦtgarten
+gehalten disen obgemelten unsern ordnungen und satzungen nit widerwertig
+nichtzit enzogen noch abgenomen und uns unser oberkait in allen Sachen
+vorbehalten haben.</p>
+            </div>
+            <div xml:id="Abs.47">
+    <head>[Abs. 47] Vom fúwer ordnungen:</head>
+<p>
+Item die wil diser statt Stuͦtgarten der groͤssest schade von fúwr
+zuͦsteen mag und man soͤlichen schaden ze verhuͤten und fúrzekomen
+allergeflissest sin sol, so haben wir dise nachgeschriben ordnungen und
+satzungen gemacht, durch der vlissig haltung wir hoffent obgemelten schaden ze
+verhuͤten und ze fúrkomen.</p>
+            </div>
+            <div xml:id="Abs.48">
+    <head>[Abs. 48]</head> 
+    <p>
+Item wenn man sturm anschlecht fuwers oder ander sachen halb, so soͤllent
+CXX mann, in sonderhait darzuͦ geordnet, mit harnasch und werinen wol
+erzuͤgt, an den merkt ilends loufen und leben dem beschaid des houptmans der
+inen allda zuͦkommen wirdet.</p>
+            </div>
+            <div xml:id="Abs.49">
+    <head>[Abs. 49]</head> 
+<p>
+Item nieman sol in sinem huse oberhalb des fúwrs haben weder holz raif risach
+reben spen noch strow, sonder allain unden im huse under dem fúr, und ouch nit
+merer noch anders denn im vom vogt und gericht erlopt wirt.</p>
+            </div>
+            <div xml:id="Abs.50">
+    <head>[Abs. 50]</head> 
+    <p> <pb n="S. 552" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_552.jpg"/>
+Item alle kemmit soͤllent gefegt gesúbert gemacht und gehalten werden der
+gestalt das kain schad davon entsteen moͤg, dann wa ain kemmit wirt erfunden
+also das es fegens oder ander sachen halb sorg uf im hat, da muͦß der
+huswirt des selben huses zuͦ pen unablaͤsigklich der statt geben drúw
+pfund fúnf schilling 5 heller als dick es also erfunden wirt.</p>
+            </div>
+            <div xml:id="Abs.51">
+    <head>[Abs. 51]</head> 
+<p>
+Item es sol nieman unerloupt in sinem huse, es sie mezger gremper oder wer er
+woͤll, weder schmelzen buwchen noch ander sachen bruchen, darzuͦ man
+grosse fúr bruwchen und haben muͦß. Dann welicher das tuͦt oder in
+woͤliches huse das geschicht tags oder nachts, es geschee durch in sin wib
+kinder eehalten oder huslúte, der muͦß unablaͤssiglich der statt zuͦ
+strauf und pene geben drúw pfund fúnf schilling heller, als oft und dick das
+erfunden wirdet, und ob schad dardurch enstund, so wirt er witer gestraft nach
+gestalt des handels und schades und erkantnus vogts und gerichts.</p>
+            </div>
+            <div xml:id="Abs.52"> 
+    <head>[Abs. 52]</head> 
+    <p>
+Item wenn fúr usgeit, so soll menigklich, der nit sondern beschaid und bevelh
+hat, dem fúr zuͦloffen und helfen wasser tragen loͤschen und tuͦn was
+er beschaiden wirt nach sinem besten vermoͤgen, als ob es sin aigen ding
+were, bi gelúpten und aiden, und sol sich darinn noch daran nieman sins libs
+vermúglicb sumen noch understeen uszetragen us sinem huse, das fúr were denn in
+sinem huse ufgangen oder in dem vierden oder fúnften huse nechst bi im, und
+soͤllent die winzieher zuͦm aller ersten laiteren und fúrhauken
+zuͦtragen und darnach witer wie sich gepúrt helfen getrúwlich
+arbaiten.</p>
+            </div>
+            <div xml:id="Abs.53">
+    <head>[Abs. 37]</head> 
+    <p>
+Item man sol wissen, wenn man sturm anschlecht, das menigklich damit bi sinem
+aide gemant ist. Darumb sol ain ieder, als lieb im sin ere libe und leben sie,
+die sturm nit verachten, dann von wiem es verachtet wirt, dem wirt ain straufe
+im sinen kinden und frúnden unlittenlich und ze schwer engegen kumen, davor
+wisse sich menigklich ze huͤten.</p>
+            </div>
+            <div xml:id="Abs.54">
+    <head>[Abs. 54]</head> 
+<p>
+Item wann man brunst halb sturm anschlecht, so soͤllent alle keltern
+geoffnet werden, bittenen und zúber zuͦ der notturft darus ze
+nemen.</p>
+            </div>
+            <div xml:id="Abs.55">
+    <head>[Abs. 55]</head> 
+<p>
+    Item welicher ain kelter hat, der sol fúrohin allwegen haben ain gerústen
+karren und daruf ain laitfaß, das wasser halte und <pb n="S. 553" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_553.jpg"/>
+beheb sie, uf das, wenn fúwr usgang, das man das alles gerúst und versehen
+finde wie obstet. Und hat er selb ain roß, so soll er damit one alles verziehen
+dem fúr zuͦfaren; hat er aber kain roß, so sol er fúrdern, das es von ainem
+andern der ain roß habe nechst bi im fúrderlich geschee. Und in welches kelter
+es nit also erfunden wirdet, der muͦß unablaͤssiglicb zuͦ pene und
+straufe geben druw pfund und fúnf schilling heller, als dick der mangel
+erfunden wirt.</p>
+            </div>
+            <div xml:id="Abs.56">
+    <head>[Abs. 56]</head> 
+    <p>
+Item welicher das erst faß mit wasser zuͦm fúwr bringt, er hab ain kelter
+oder nit, dem will die statt geben ain pfund, dem andern fúnfzehen schilling,
+dem dritten zehen schilling und dem vierden fúnf schilling heller, und welicher
+ain laitfaß fuͤrt, das nit sin, sonder in ainer kelter genomen ist, der sol
+sin lone halb geben dem, des faß er gefúrt hat.</p>
+            </div>
+            <div xml:id="Abs.57">
+    <head>[Abs. 57]</head> 
+<p>
+Item alle becken schmid schriner und ander so mit fúr umbgeend und ieder in
+sonderhait soͤllent ire fúr versorgen nach beschaid der fúwrschower oder der
+den es bevolhen wirt, und soͤllent es dennocht bi dem selben nit pliben
+laussen, sonder den allerhoͤchsten vlis ankeren ire fúr ze versehen zuͦ
+bewaren und zuͦ versorgen tag und nacht mit kemiten und sunst in alle andere
+nottúrftig wege, damit inen selbs und andern kain schade geschee. Si
+soͤllent ouch die ding selbs versehen und nit an ire eehalten laussen kains
+wegs, alles bi pen drier pfund fúnf schilling heller der statt gehoͤrig. Und
+ob schade geschee, so sol es bi der strafe nit beliben sonder ain ieder, von
+dem schad entsteet, witer gestraft werden nach gestalt des handels und schades
+und erkantnus vogts und gerichts.</p>
+            </div>
+            <div xml:id="Abs.58">
+    <head>[Abs. 58]</head> 
+<p>
+Item ain ieder wirt sol allwegen so er gest hat selb wachen und hievor beliben
+bis alle gest an ir rúwe kument, oder sol zum minsten sin husfrow oder ain
+geschworner eehalt, dem er getruwen mag, den gesten also uswarten und mit dem
+hoͤchsten flis sorg und acht haben, das alle fúr und liecht versorgt
+usgeloͤscht und versehen werdent.</p>
+            </div>
+            <div xml:id="Abs.59">
+    <head>[Abs. 59]</head> 
+<p>
+    Item es soͤllent ouch alle wirt und sust mengklick darob und daran sin,
+das mit brinnenden liechtern one laternen in schúren stelle oder andere orte,
+da der wandel sorglich ist, nit gegangen gewebert noch gewandelt werde kains
+wegs, bi pene ains pfunds fúnf schilling hlr., der statt als oft es anders
+erfunden wirdet unablaͤßlich zuͦ bezalen, <pb n="S. 554" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_554.jpg"/>
+und
+soͤllent alle richtere alle vom raute underkoͤufer winzieher púttel
+waͤchter und alle der statt geschwornen bi aids verpflicht ruͤgen und von
+mengklichem uf ir und ir iedes ervordern ingelaßen werden one alles
+widersprechen, und ob sich ieman widern wúrde, dem sol man huse stall oder
+schúren, darinn man denn das liecht sicht, ufstoussen und in darzuͦ als ain
+úberfarer gelúpt und aide wie sich gepúrt straufen, und ob durch verachtung
+dises gepots schad entstuͤnd, so soͤllent die veraͤchter dises gepots
+nit mit obgemelter summ, sonder nach erkantnus vogts und gerichts gestrauft
+werden.</p>
+            </div>
+            <div xml:id="Abs.60">
+    <head>[Abs. 60]</head> 
+    <p>
+Item alle eehalten soͤllent hohen fliß und sorg haben úber fuͤr und
+liecht, die getrúwlich zuͦ bewaren und zuͦ versorgen, dann durch weliches
+verwarlousen schade entsteen wirt, der wirt gestrauft an libe und guͦte, und
+welicher hinfúr eehalten dinget ain oder mer, der sol im oder inen dise satzung
+fúrhalten; welicher das nit tuͦt, der muß erstatten, was dardurch versumpt
+wirt.</p>
+            </div>
+            <div xml:id="Abs.61">
+	<head>[Abs. 61]</head>
+<p>
+Fúro woͤllent und gebietent wir allen und jeglichen unsern undertanen zuͦ
+Stuͦtgarten bi iren gelúpten und aiden, wa ufruͦren haͤder oder zenk
+entsteen werdent, die selben getrúwlichen ze friden und niderzetrucken und die
+partien zuͦ recht anzenemen und friden globen ze laßen und inen in
+soͤlich gelúpte ze geben, sich umb soͤlich hendel one verzuge zuͦ
+unserm amptman ze stellen und im die ze offnen. Und ob sich iemands widern
+wúrde zuͦ recht ze globen, so sol man den selben zuͦ gehorsami dringen
+und noͤten mit straichen und wie man mag, damit er globe wie sich gepúre.
+Darzuͦ sol der selb, der sich widert friden und zuͦ recht ze globen, als
+ain ungehorsamer von unserm amptman mit recht oder sust wie sich nach gestalt
+der sach gepúrt gestrauft werden, der gestalt und so schinbarlich das es andern
+ain exempel sie sich davor ze huͤten. Doch woͤllent wir hiemit niemanden
+binden, sich in soͤlichen hendeln in gefaͤrlichait sins libs oder lebens
+ze geben, alles ungeverlich.</p>
+            </div>
+            <div xml:id="Abs.62">
+    <head>[Abs. 62]</head> 
+<p>
+    Also und in der gestalt gebietent wir ouch allen und ieglichen bi iren
+gelúpten und aiden, wa unsern amptlúten gericht raute andern geschwornen und
+stattknechten von iemanden in dem, <pb n="S. 555" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_555.jpg"/>
+das
+inen und ir iedem von unsern oder gemainer statt wegen ze tuͦnde gepúrt,
+widerstande geschúhe mit worten oder werken, den selben unervordert und
+ervordert zuͦzeloufen, si getrúwlich ze retten und ze schirmen und getrúw
+hilf und bistande ze tunde, damit die selben widerwertigen und ungehorsamen
+gehandhapt gedempt nidergetruckt und gestrauft werdent, denn unsers willes und
+gemúts ist die boͤusen und ungehorsamen ze straufen der gestalt, das die
+guͦten vor inen in eren und wirden gruͦnen und beliben
+moͤgent.</p>
+            </div>
+            <div xml:id="Abs.63">
+    <head>[Abs. 63]</head> 
+<p>
+Fúro habent wir gesezt und geordnet, wenn und wie oft fúrohin den wingarten
+ainich schad zuͦsteet, durch den der win an gelt ufschlahen mag, so oft
+soͤllent alle die, die win ze schenken usruͤfen laßen habent, die
+usgeruͤften wine ganz usschenken umb das gelt, darumb die ufgetan und
+ufgeruͤft worden sient, und sol der selben win kainer zuͦgeschlagen in
+andere faß getan noch sust verendert, sonder mengklichem uf nachvolgend mainung
+davon gegeben werden, bis nichtzit mer im faß ist, bi pene und strauf die vogt
+und gericht nach gestalt der sache und geverde erkennen soͤllent.</p>
+            </div>
+            <div xml:id="Abs.64">
+    <head>[Abs. 64]</head> 
+    <p>
+Item witer habent wir geordnet und gesezt, wenn es sich also begit, das
+soͤlicher schade wie ietzo gelut hat den winreben zuͦsteet, so
+soͤllent die winschenken und ander die durch sich selb oder ire eehaltent
+win usmessent, niemanden mer wins geben denn so vil sie achten moͤgent er
+denselben tag zuͦ sinem huspruwche nottuͤrftig sie und nit mer. Es sol
+ouch alsdenn und in disem fale kain mensch mer wins fassen holen noch holen
+laßen, denn es [!] uf den selben tag zuͦ sinem huspruwch bedarf ungeverlich.
+Und so oft dises gepot úberfaren wirt, so oft sol der, der den win faßt holet
+oder holen laßt, von ieglicher maͧße úber und wider dises gepotte geholet
+und empfangen zuͦ pene und straufe geben X ß hlr. unablaͤßlich.  Und die
+straufe des winschenken sol steen zuͦ erkantnus vogts und
+gerichts.</p>
+            </div>
+            <div xml:id="Abs.65">
+    <head>[Abs. 65]</head> 
+<p>
+    Mer ordnen woͤllen und setzen wir, das nieman weder holze pfaͤle
+frúchten brout schmalz húnr aier visch noch ichtzit anders, nichtzit
+usgenommen, das her gen Stuͦtgarten zuͦ merkt gefuͤrt oder <pb n="S. 556" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_556.jpg"/>
+getragen wirt, vor diser statt in iren zwingen und bennen koufen soͤlle,
+sonder sol mengklich alle ding ganz frie ber uf den merkt zuͦ failem koufe
+kommen laßen, bi pene III lb. V ß hlr., die ain ieder so oft und dick er das
+úberfert sol geben, aber uf dem meͣrkt mag ain ieder (die fúrkoͤufere
+usgenommen) koufen was im noͧt ist wie sich gepúrt, ouch
+ungeverlich.</p>
+            </div>
+            <div xml:id="Abs.66">
+    <head>[Abs. 66]</head> 
+<p>
+Wir woͤllent und setzent ouch, das fúrohin der wochen nit mer denn an den
+zweien wochenmerkten, nemlich am zinstag und am sambstag alleweg vor mittag,
+zuͦ Stuͦtgarten pfande ufgeruͤft soͤllent werden, und zwen
+richtere, die schriben und lesen kúndent, von vogt und gericht darzuͦ
+geordnet, sich an den selben zweien tagen am merkt finden laßen und uf ains
+ieden, der des an ir ain begert, ufruͤfen, nemlich wem warumb was und wie
+vil ufgeruͤft werde, merken und acht haben und das aigentlich mit sampt dem
+tag daruf es geschicht in ain registerlin verzaichnen, damit si baid und ir
+ieder umb das ufruͤfen, daruf er gemerkt hat, úber kurz und úber lang zit
+wisse ain lutere claure kuntschaft ze geben. Darumb sol ain ieder der
+ufruͤfen laßt, dem richter der ufmerkt geben II dn., die mit anderm schaden
+uf das ufgeruͤft guͦte moͤgent geschlagen werden, vil irrungen, die
+sich sust mit dem ufruͤfen usserhalb diser ordnung begeben moͤchten,
+abzestricken und fúrzekommen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

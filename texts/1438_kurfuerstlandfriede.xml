@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1438_kurfuerstlandfriede">
+    <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Der kurfürstliche Landfriede. Frankfurt am Main 1438, März 21 :: Digitale Edition Heino Speer 2010</title>
+ </titleStmt>
+ <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+ <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial">
+<head>[Editorial]</head>
+<p>[Quelle: Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit / bearb. von Karl Zeumer. - 2., verm. Aufl. - Tübingen (1913) 251f.]</p>
+            </div>
+            <div xml:id="Art.1">
+ <head>[§ 1]</head>
+ <p>Von Gots gnaden wir <name type="person">Diederich zu Menze</name> etc.,
+<name type="person">Diederich zu Collen</name> etc., <name type="person">Rabann
+zu Triere</name> etc., <name type="person">Otto pfalzgrave bi Rine</name> etc.,
+<name type="person">Friederich herzog zu Sachsen</name> etc., <name type="person">Friederich
+margrave zu Brandemburg</name> etc., <term type="phrase">bekennen und tun kunt</term>
+uffembar mit diesem briefe, das wir
+<term type="phrase">besonnen und bedrachtet</term> haben soliche <term type="phrase">unordeliche,
+swere und unredelich sachen</term>, die zu Tutschen
+landen tegelich sich verlauffen und begangen werden mit <term type="phrase">raube,
+brande, fientschafft und anders</term> und ie <term type="phrase">mee und mee</term>
+inrisen, und das davon noch <term type="phrase"> großer und swerer</term> <term type="phrase">unradt,
+schade und
+irrunge</term> den gemeinen landen entsteen und kommen mogen. So sin wir auch
+von des heiligen richs und unsern graven, frihen, ritterschaft und undertanen,
+geistlichen und werntlichen, <term type="phrase">angerufen, ermanet und
+gebetten</term> worden, als kurfursten des heiligen Romischen richs solichen
+<term type="phrase"> großen, sweren, unordelichen vorgerurten sachen</term>zu
+widerstene, darfur zu sin und zu helffen, das solich unordilikeit
+nidergedruckit werde. Des haben wir uns alle dem almechtigen Got zu lobe, dem
+heiligen Romischen riche zu eren und den gemeinen landen und allen frommen
+luden <term type="phrase">zu nüze und frommen</term> mit einander <term type="phrase">fruntlichen
+und gutlich</term> underrett und uns zusamen <term type="phrase">verbunden und vereinit</term>,
+diese hernachgeschrieben <term type="phrase">stucke und artikle</term> in allen unsern
+<term type="phrase">furstenthümen, landen und gebieten</term> zu halden und auch
+von
+allen den unsern, und der wir mechtig sin, getruwelich nach unserm besten
+vermogen zu bestellen gehalden werden; und <term type="phrase">vereinen und
+verbinden uns</term> auch <term type="phrase">in crafft diß briefs</term>
+dieselben hernachgeschrieben stucke zu halten und zu bestellen gehalden werden,
+als vorgeschrieben steet, an alle geverde. </p> </div>
+            <div xml:id="Art.2">
+ <head>[§ 2]</head>
+ <p>Zum ersten sal der <term type="phrase">ackerman und winegarteman</term>
+ußer sinen huse mit siner habe, die man zu den <term type="phrase">eckern und
+winegarten</term> die zubuwen und zu [arbeiten bedarffe und uf den eckern und
+wingarten und wider] heime zu huße, und als man die frucht sniden und den wine
+lesen und das alles infuren sal, sicher sin.</p>
+            </div>
+            <div xml:id="Art.3">
+ <head>[§ 3]</head>
+ <p>Item so sal nimant <term type="phrase">burnen oder brantschezen oder fuer
+schießen oder fuer legen</term> <term type="phrase">weder tags oder
+nachts</term>, iß si <term type="phrase">in fientschaft oder ane
+fientschaft</term>.</p> </div>
+            <div xml:id="Art.4">
+ <head>[§ 4]</head>
+ <p>Item sollen alle <term type="phrase">geistliche lude, kintbettern und auch
+die, die in swerer krangheit sint</term>, sicher sin und nicht beschedigit
+werden. </p> </div>
+            <div xml:id="Art.5">
+ <head>[§ 5]</head>
+ <p>Item sollen <term type="phrase">kirchen, kirchhofe und widemhofe</term>
+auch sicher sin, und sal daruß nit genommen werden, noch auch kein were daruß
+gescheen.</p> </div>
+            <div xml:id="Art.6">
+ <head>[§ 6]</head>
+ <p>Item das nimant dem andern schaden tun sal, er habe ime dann zuvor zu recht
+erfordert; und obe ime das recht nit <term type="phrase">gedien und
+widerfaren</term> mochte, so sal er dannoch den <term type="phrase"> nit
+angrifen noch beschedigen</term>, er habe ime dann das <term type="phrase">dri
+tage und dri nacht</term> ganze zuvor in sin huß, da er sin gewonliche wonunge
+hat, verkündet und sich bewaret.</p> </div>
+            <div xml:id="Art.7">
+ <head>[§ 7]</head>
+ <p>Item iß sal auch kein reißig knecht sin, der sin eigen pherde habe, er
+inhabe dan einen <term type="phrase">herren oder iunghern</term>, des <term type="phrase">gebrotter
+und gedingter knecht</term> er si. Und ob der knecht
+ichz tede wider die vorgeschrieben stücke, mochte dann den sin <term type="phrase">herre
+oder iungher</term> ankommen, so sal er ine behalten und
+rechte uber ime geen laßen. Und was sost reisger knecht weren, die eigen pherde
+und nich <term type="phrase">herren oder iunghern</term> hetten, als
+vorgeschrieben stett, die süllent nirgen <term type="phrase">friede, trostunge
+noch geleite</term> habe, ane alle geverde.</p> </div>
+            <div xml:id="Art.8">
+ <head>[§ 8]</head>
+ <p>Item wer der vorgeschrieben stucke <term type="phrase">eins oder me</term>
+uberfure und darwider tede oder darzu hulffe, das dawider getan wurde, oder
+dieselben <term type="phrase">mit willen, wissen oder geverden</term> <term type="phrase">husite
+oder hielde</term>, <term type="phrase">der oder
+die</term> sullent <term type="phrase">wider ere und recht</term> gethan han
+und sullen auch <term type="phrase">der oder dieselben</term> keinerlei <term type="phrase">trostunge,
+fride oder geleide</term> haben an keinen <term type="phrase">steten oder enden</term>,
+sunder es <term type="phrase">sal und
+mag</term> menglich zu <term type="phrase">dem oder denselben</term> macht
+[haben] sie <term type="phrase">an libe und gute</term> anzugriffen und daran
+nit gefrevelt haben, glicherwise und in alle der masse, als obe sie mit des
+richs hoffgerichte geheischen und mit rechtem orteil verechtet und in die achte
+getan weren.Und darzu so sal derselben <term type="phrase"> libe und
+gute</term> <pb n="S. 252" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g252"/> nimant <term type="phrase">verantworten
+noch beschirmen</term> in dheinen weg, und in
+welchen gerichten sie begriffen werden, so sal man sie ane allen intrag
+behalten und uber sie richten, als vorgeschrieben stet, und sal iglicher
+kurfurste in allen sinen gerichten bestellen, das das also gehalten und dem
+nachgegangen werde.</p> </div>
+            <div xml:id="Art.9">
+ <head>[§ 9]</head>
+ <p>Und wir obgenant kurfursten alle habent einander und unser iglicher dem
+andern mit guten truwen und <term type="phrase">bi unserm furstlichen eren und
+wirden</term> gerett, versprochen alles das, das an diesem briefe geschrieben
+steet, <term type="phrase">ware, feste, stede und unverbrochlichen</term> <term type="phrase">zu
+halten, zu follenfuren und zu tunde</term> und auch von den
+unsern, der wir mechtig sin, getruwelich nach unserm besten vermogen zu
+bestellen gehalten werden, alle <term type="phrase">geverde und argelist</term>
+in allen und iglichen vorgeschrieben stucken genzlichen ußgescheiden. Und des
+zu orkunde so hat unser iglicher sin ingesigel an diesen brief thun hengen, der
+gegeben ist zu <name type="place"> Franckfurt</name>, sexto post Oculi anno
+etc. XXXVIII° </p> </div>
+        </body>
+    </text>
+</TEI>

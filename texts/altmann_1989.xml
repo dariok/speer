@@ -1,0 +1,854 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_altmann_1989">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                        <title>Altmann, Nachwort zu Jodokus Pflanzmann 1989 :: Elektronische Edition Heino Speer 2010 / 2016</title>
+            </titleStmt> 
+        <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+    <revisionDesc>
+            <change when="2017-05-11+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial"> 
+                <head>[Editorial]</head> 
+                <p>Quelle: Ursula Altmann, Nachwort zu Jodokus Pflanzmann, Kaiserliches Lehnrecht, Bibliothek seltener Bücher. Neudrucke, herausgegeben von der Deutschen Staatsbibliothek zu Berlin durch Ursula Altmann, in Zusammenarbeit mit dem Zentralantiquariat der DDR Leipzig. 4 : Kaiserliches Lehnrecht. Die Libri feudorum in der Fassung des Jodokus Pflanzmann (Augsburg : Lukas Zeisenmair 1494), mit einem Nachwort von Ursula Altmann; Leipzig 1989. Digitalisiert 2010 mit freundlicher Erlaubnis der Schwester von Frau Altmann, Frau Maria Nolte, durch Heino Speer</p>
+            </div>
+            <div xml:id="T0">   
+<head>Kaiserliches Lehnrecht</head>
+<p>
+    Die Lehnrechtsbücher <ref target="http://de.wikipedia.org/wiki/Libri_Feudorum">Libri feudorum</ref>
+waren vor der Erfindung des Buchdruckes handschriftlich in ganz Europa
+verbreitet; sie sind danach als Teil des Corpus iuris civilis durch den Druck
+vervielfältigt worden und fanden neben den einheimischen Rechten als gemeines
+Recht (ius commune) Anwendung. An den Rechtsschulen Oberitaliens entstanden,
+sind die Libri feudorum die Grundlage einer Wissenschaft vom Lehnrecht, die an
+den Universitäten Mittel- und Nordeuropas gelehrt wurde und Auswirkungen hatte
+auf öffentliches Recht und Zivilrecht. Bis ins 19. Jahrhundert sind die Libri
+feudorum die am weitesten verbreitete Quelle des Lehnrechtes.</p>
+<p>
+    Am Silvestertag des Jahres 1482 begann der Augsburger Notar Jodokus
+Pflanzmann, die Libri feudorum in die oberdeutsche ("oberländische") Sprache zu
+übertragen. Seine Arbeit ist keine wörtliche Übersetzung, sondern eine freie,
+sehr kurze Wiedergabe des lateinischen Textes. Sie wurde 1493 erstmals mit dem
+Titel "Das buch der lehenrecht" von <ref target="http://de.wikipedia.org/wiki/Erhard Ratdolt">Erhard
+Ratdolt</ref> in Augsburg gedruckt. Bereits im darauf folgenden Jahr
+veranstaltete der Augsburger Drucker Lukas Zeissenmair einen Nachdruck. Er
+erschien unter dem Titel "Keyserliche lehenrecht czusampt andern rechte(n)
+hierinne begriffen durch Obertum zusamen geseczt vnd kürtzlich czu teutsch
+pracht vnd transferiert ist". Diese zweite, heute sehr seltene Ausgabe wird mit
+dem vorliegenden fotomechanischen Nachdruck wiedergegeben.</p>
+<p>
+    Das Lehnrechtsbuch des Jodokus Pflanzmann, die Übertragung der Libri
+feudorum in die Volkssprache, ist eines jener Bücher, die im Verlaufe der
+Übernahme des römischen Rechts entstanden; mit ihrer Hilfe vollzog sich der
+Prozeß der Rezeption des fremden Rechts. Nicht ohne Grund nennt sich die
+Ausgabe von 1494 "Kaiserliches Lehnrecht". Seit der Übertragung der Kaiserwürde
+an Karl den Großen waren die Kaiser von der Idee beherrscht, in der Nachfolge
+der Imperatoren zu stehen, beanspruchten seit Friedrich I. die Befugnisse der
+Imperatoren und sahen das Gesetzbuch Justinians als das ihre an.<note xml:id="n1" type="footnote" n="1">Schulte,
+Johann Friedrich von: Lehrbuch der deutschen
+Reichs- und Rechtsgeschichte. — 6., umgearb. Aufl. — Stuttgart, 1892.
+— S. 140 bis 142.</note> Folgerichtig wurden kaiserliche Gesetze als <ref target="http://de.wikipedia.org/wiki/Authenticae">Authenticae</ref>
+den <ref target="http://de.wikipedia.org/wiki/Novellae">Novellen</ref> zum <ref target="http://de.wikipedia.org/wiki/Corpus Iuris Civilis">Corpus
+iuris</ref> angegliedert. Als Decima collatio (zehnte Sammlung
+der Novellae) sind auch die Libri feudorum in das Corpus iuris civilis
+eingegangen.</p>
+<p>
+    Nicht offizieller Auftrag führte zu dieser Entwicklung, sondern die
+Tätigkeit oberitalienischer Juristen, für die das römische Recht eine neue
+praktische Bedeutung erlangte in der Anwendung unter veränderten
+wirtschaftlichen und gesellschaftlichen Verhältnissen. Die
+Entstehungsgeschichte der Libri feudorum spiegelt diesen Prozeß deutlich
+wider.</p>
+<p>
+    Ein kaiserliches Gesetz, die Constitutio de beneficiis <ref target="http://de.wikipedia.org/wiki/Konrad II. (HRR)">Konrads
+II.</ref> von 1037, ist ein wichtiger Punkt
+in der Entstehungsgeschichte der Libri feudorum.<note xml:id="n2" type="footnote" n="2">Dilcher,
+Gerhard: Libri Feudorum. — In: Handwörterbuch zur deutschen
+Rechtsgeschichte. — Bd. 2. — Berlin, 1978. — Sp. 1995 bis 2001.</note>
+Das Gesetz verschaffte der neuen Schicht der kleinen Lehnsleute, in Italien
+Valvassoren genannt, Anerkennung ihrer lehnsrechtlichen Stellung und verwies
+Streitigkeiten zwischen Lehnsherrn und Vasall an das Lehnsgericht der Vasallen.
+Als Teil des in der Lombardei geltenden Rechts wurde das Gesetz Konrads II. in
+die Gesetzessammlung der Rechtsschule von Pavia aufgenommen. Die praktische
+Anwendung in den Lehnskurien ging einher mit der gelehrten Auseinandersetzung
+an den Rechtsschulen, in deren Verlauf, etwa um 1100, jene Traktate entstanden,
+die zum Grundbestand der Libri feudorum gehören. Ein neuer Impuls ging von
+Mailand aus, der bedeutendsten Lehnskurie Oberitaliens. Zu ihren Juristen
+gehörte <ref target="http://drqerg.de/RHN/personen/#Obertus_de_Orto">Obertus de Orto</ref>, kaiserlicher
+iudex genannt, und als Consul Angehöriger des Consiliums, des Rates, der die
+Angelegenheiten der Commune leitete.</p>
+<p>
+    Diesen Obertus nennt der Titel der Druckausgabe von 1494 als denjenigen,
+der das kaiserliche Lehnrecht samt anderen Rechten <pb n="2"/>
+"zusammengesetzt" hat. Damit wird sowohl der komplexe Inhalt als auch die Art
+und Weise der Aufzeichnung wiedergegeben, auch wenn die Zusammenstellung der
+Texte mit Obertus noch längst nicht ihren Abschluß fand. Entscheidungen und
+Lehrmeinungen des Obertus in Lehnrechtsfragen unter Berücksichtigung des
+römischen und kanonischen Rechts, dazu eine systematische Darstellung des
+lombardischen Lehnrechts, niedergelegt in zwei Briefen an seinen Sohn Anselm,
+machen die geistige Schulung und den inhaltlichen Einfluß des römischen Rechts
+auf die Libri feudorum deutlich. Anselm de Orto studierte um 1150 in Bologna,
+wo zu jener Zeit das lombardische Lehnrecht noch nicht gelehrt wurde. In
+Bologna entstand etwa 100 Jahre später die zweite Fassung der Libri
+feudorum.</p>
+<p>
+    Die sogenannte Obertinische Rezension wurde noch vor 1200 in Mailand
+erweitert. Den Libri feudorum wurden Texte angegliedert, die den
+wirtschaftlichen, politischen und sozialen Veränderungen in Italien Rechnung
+trugen. Der Grundbesitz der Feudalherren war weiterhin die wirtschaftliche
+Basis, aber der hohe Adel und die Bischöfe hatten an Bedeutung verloren
+gegenüber den hochentwickelten Städten. Fortschreitende Arbeitsteilung,
+Warenherstellung in Manufakturen, Ausdehnung des Handels und weitreichender
+Fernhandel, Entwicklung der Ware-Geld-Beziehungen und frühkapitalistische
+Geldgeschäfte hatten die Städte wirtschaftlich erstarken und kulturell erblühen
+lassen. Der niedere Adel war in das Patriziat der Städte eingetreten, gewählte
+Consules regierten unabhängig vom Landesherrn. Diesen mächtigen Städten sah
+sich <ref target="http://de.wikipedia.org/wiki/Friedrich Barbarossa">Friedrich I. Barbarossa</ref>
+gegenübergestellt, als er versuchte, die kaiserliche Herrschergewalt im
+gesamten Imperium zu erneuern, und seine Ansprüche zunächst in Italien geltend
+machte.<note xml:id="n3" type="footnote" n="3">Töpfer, Bernhard: Die verstärkte feudale
+Eroberungspolitik und die Schwächung der Zentralgewalt : Erfolge der kommunalen
+Bewegung und deren Auswirkungen auf die Lage der Bauern (1122-1250). — In:
+Deutsche Geschichte in zwölf Bänden / hrsg. vom Zentralinstitut für Geschichte
+der Akademie der Wissenschaften der DDR. — Bd. 2. — Berlin, 1983. - S.
+75-213, insbesondere S. 133-153.</note> Ein starkes kaiserliches Ritterheer
+belagerte Mailand, das im September 1158 fiel. Die Stadt wurde zerstört, ihre
+Bewohner wurden in der Umgegend angesiedelt. Diesen Erfolg nutzte Barbarossa
+umgehend und ließ im November 1158 auf einem Hoftag zu <ref target="http://de.wikipedia.org/wiki/Roncaglia">Roncaglia</ref>
+jene Maßnahmen beschließen, die den Ausbau
+der kaiserlichen Macht in Italien sichern sollten. Ein allgemeiner Landfriede
+und ein neues Lehnsrecht wurden verkündet, ferner ein Beschluß über die
+Regalien, die allein dem Kaiser zugesprochen wurden. Münz- und Zollrechte, das
+Recht auf Steuererhebung, die Befugnis, Konsuln einzusetzen, und Gerichtsrechte
+aller Art sollten weltlichen und geistlichen Adelsherren sowie den Kommunen der
+Städte fernerhin nur mehr dann zustehen, wenn sie darüber kaiserliche
+Privilegien vorweisen konnten. Vier Juristen der Rechtsschule von Bologna,
+verstärkt durch 28 Vertreter aus italienischen Städten, hatten im Auftrage
+Friedrichs ein Verzeichnis aller Regalien erstellt, das, zusammen mit drei auf
+dem Hoftag verkündeten Gesetzen, in die Libri feudorum aufgenommen wurde.<note xml:id="n4" type="footnote" n="4">Colorni,
+Vittore: Die drei verschollenen Gesetze des
+Reichstages bei Roncaglia / übers. von Gero Dolezalek. — Aalen, 1969. —
+(Untersuchungen zur deutschen Staats- und Rechtsgeschichte. NF ; 12).</note>
+    Diese zweite Fassung der Libri feudorum lag <ref target="http://drqerg.de/RHN/personen/#Jacobus de Ardizone">
+                        <name type="person">Jacobus
+de Ardizone</name>
+                    </ref> (1234-1250) in Bologna vor, der sie für
+seine Summa feudorum benutzte und die Gesetze Friedrichs in Extravagantes
+anführte.</p>
+<p>
+    Barbarossas Italienpolitik blieb im Ergebnis erfolglos. Nach der Niederlage
+im Kampf gegen den lombardischen Städtebund 1176 wurden im Frieden von Konstanz
+1183 dauerhaftere Vereinbarungen getroffen. Die Libri feudorum spiegeln diese
+Entwicklung wider. <ref target="http://de.wikipedia.org/wiki/Accursius">Accursius</ref> (um 1183-1263),
+der Kompilator der Glossa ordinaria zum Corpus iuris, gab der Sammlung von
+lehnrechtlichen Traktaten, Summen, gewohnheitsrechtlichen Regeln,
+Gerichtsgebrauch, Entscheidungen und in Italien erlassenen Kaisergesetzen eine
+übersichtliche und systematische Ordnung. Von den Gesetzen Friedrichs I. ist
+nur der Katalog der Regalien (Regalia sunt haec) am Schluß der Sammlung
+verblieben; die Gesetze über die Herrschergewalt, über Kopf- und Grundsteuer
+und über das Recht, Königsburgen zu errichten, waren inzwischen <pb n="3"/>
+wieder ausgeschieden worden. Die Rezension des Accursius (Vulgata<note xml:id="n5" type="footnote" n="5">Lehmann,
+Karl: Das langobardische Lehnrecht (Handschriften,
+Textentwicklung, ältester Text und Vulgatatext nebst den capitula
+extraordinaria). — Göttingen, 1896.</note> hat mit dem Anschluß an das
+Corpus iuris die weiteste Verbreitung gefunden.</p>
+<p>
+    Die Handschriften überliefern die Libri feudorum in den unterschiedlichsten
+Entwicklungsstadien. Annähernd 200 Handschriften, nicht nur in italienischen,
+österreichischen und deutschen Bibliotheken, sondern auch in Frankreich und
+Spanien, in den Niederlanden und in England sowie in Dänemark und Schweden
+bezeugen ihre Verwendung im Universitätsunterricht und im Gerichtsgebrauch weit
+vom ursprünglichen Geltungsbereich entfernt. Die Berücksichtigung der Libri
+feudorum neben den einheimischen Volksrechten erklärt sich aus ihrer
+Entstehungsgeschichte. Entstanden an städtischen Lehnskurien, geschrieben von
+den gelehrten Juristen der berühmten oberitalienischen Rechtsschulen, die im
+römischen Recht bewandert waren, boten die Libri feudorum die Möglichkeit,
+lehnsrechtliche Beziehungen unter veränderten wirtschaftlichen und sozialen
+Verhältnissen zu regeln. Sie gewannen vielfach die Oberhand gegenüber den
+Volksrechten.</p>
+<p>
+    Die weitere Entwicklung der Libri feudorum, wie sie sich in den
+Druckausgaben des 15. Jahrhunderts darstellt, ist dem Gesamtkatalog der
+Wiegendrucke<note xml:id="n6" type="footnote" n="6">Gesamtkatalog der Wiegendrucke / hrsg. von
+der Kommission für den Gesamtkatalog der Wiegendrucke. — Bd. 1-8, Lfg 1.
+— Leipzig, 1925-1940. Bd. 8 ff. hrsg. von der Deutschen Staatsbibliothek zu
+Berlin. — Stuttgart; Berlin; New York, 1972 ff. Zitiert als GW; für die
+Libri feudorum Bd. 7. - Leipzig, 1938. — Sp. 155-171.</note> zu entnehmen.
+Die Libri feudorum wurden erstmals 1472 in Straßburg von <ref target="http://de.wikipedia.org/wiki/Heinrich Eggestein">Heinrich
+Eggestein</ref> gedruckt (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07774.htm">GW 7774</ref>), und zwar mit
+der Glossa ordinaria des
+Accursius. Eggestein ließ dieser Ausgabe 1475 eine zweite folgen (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07775.htm">GW
+7775</ref>). Er brachte die Libri feudorum im Anschluß
+an seine Ausgabe der Institutionen (1472, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07581.htm">GW
+7581</ref>) heraus. Abgesehen von der deutschen Bearbeitung des Jodokus
+Pflanzmann, sind die Libri feudorum dann immer in Verbindung mit den Novellae
+gedruckt worden. Den Novellen zum Codex Iustinianus, den neun Sammlungen von
+neuen Gesetzen, Ergänzungen und gesetzlichen Änderungen nach Abschluß des
+großen Gesetzeswerkes, wurden die Libri feudorum als Decima collatio angefügt.
+Alle Ausgaben stimmen darin überein, daß die Libri feudorum mit einer Glosse
+versehen sind, als deren Verfasser <name type="person">Jacobus Columbi</name> gilt: den Libri feudorum folgt, im Druck nicht besonders
+abgesetzt, die Constitutio Friderici imperatoris de statutis et consuetudinibus
+contra libertatem ecclesiae editis, bis auf eine Ausnahme ohne Kommentar.</p>
+<p>
+    Die Reihe der Novellensammlungen, glossiert von Accursius, beginnt mit der
+    Ausgabe von <ref target="http://de.wikipedia.org/wiki/Peter Sch%C3%B6ffer">Peter Schöffer</ref>, <ref target="http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb00041497-0">Mainz
+1477</ref> (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07751.htm">GW 7751</ref>). Die Libri feudorum, vom
+Herausgeber als 10. Kollation behandelt, wie das Kolophon der Druckausgabe
+beweist, folgen in den einzelnen Exemplaren nicht immer unmittelbar auf die
+Novellen. Bereits im nächsten Jahr wurden die Novellen in Basel von Michael
+Wenssler nachgedruckt (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07752.htm">GW 7752</ref>). Auch hier
+sind die Libri feudorum von den anderen Stücken deutlich geschieden; sie wurden
+sogar in abweichendem Satz ein zweites Mal hergestellt und manchmal der Ausgabe
+der Institutionen, die Wenssler auch 1478 veranstaltet hatte (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07597.htm">GW
+7597</ref>), beigegeben.</p>
+<p>
+    Der übermächtigen Konkurrenz der italienischen Drucker weichend, haben
+deutsche Offizinen die Herausgabe der großen Rechtsbücher noch vor 1480
+aufgeben müssen. Im letzten Drittel des 15. Jahrhunderts sind die Novellen
+hauptsächlich in Venedig und in Lyon gedruckt worden (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07753.htm">GW
+7753</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07773.htm">7773</ref>).
+Gemeinsam ist diesen Ausgaben die Anordnung der Texte: Den neun Kollationen der
+Novellen folgen die drei letzten Bücher (lib. X-XII) des Codex Iustinians, die
+das öffentliche Recht behandeln; diesen wurden die Libri feudorum angeschlossen
+(Venedig 1479 und früher, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07754.htm">GW 7754</ref> und <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07755.htm">7755</ref>).
+Die Ausgaben enthalten Glossen und Summen zu
+den Novellen von verschiedenen Rechtsgelehrten. Danach lassen sich drei Gruppen
+unterscheiden. Die Editionen der ersten Gruppe sind lediglich mit der Glossa
+ordinaria des Accursius zu den Novellen <pb n="4"/> ausgestattet (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07753.htm">GW
+7753</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07762.htm">7762</ref>). In
+der Ausgabe Rom 1476 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07753.htm">GW 7753</ref>), nachgedruckt
+in Pavia 1480 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07756.htm">GW 7756</ref>), in den Ausgaben
+Mailand 1482 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07757.htm">GW 7757</ref>) und Lyon um 1488/90
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07761.htm">GW 7761</ref>), ferner in vier venezianischen
+Drucken zwischen 1483 und 1489 folgen den Libri feudorum (10. Kollektion) als
+11. Kollektion einige sonst Extravagantes genannte Konstitutionen Heinrichs
+VII., die zweite datiert Pisa 1312, mit einem Kommentar von Bartolus de
+Saxoferrato. Eine Besonderheit zeichnet die Mailänder Ausgabe von 1482 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07757.htm">GW
+7757</ref>) aus: In ihr ist auch die Constitutio
+Friedrichs II. (nach 1216) glossiert, und sie bringt zusätzlich am Ende der
+Libri feudorum die Acta de pace Constantiae mit einem Kommentar von Baldus de
+Ubaldis, nimmt also ausdrücklich Bezug auf die Bestätigung der Gesetze
+Friedrichs I. im Frieden von Konstanz 1183. Sie knüpft damit an die Tradition
+an; die Mailänder Juristen insbesondere sind es ja gewesen, die sich mit den
+Maßnahmen Barbarossas hatten auseinandersetzen müssen.</p>
+<p>
+    Weitere Ausgaben der Novellen (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07763.htm">GW
+7763</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07769.htm">7769</ref>) unterscheiden sich durch die
+hinzugefügten Summarien. Die Libri feudorum sind glossiert, aber nicht mit
+Summarien versehen. Vier dieser Drucke, in Venedig zwischen 1494 und 1500
+herausgekommen, enthalten die Acta de pace Constantiae (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07766.htm">GW
+7766</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07769.htm">7769</ref>). Von
+1476 an sind die Novellae, mit ihnen die Libri feudorum, beinahe jährlich
+erschienen. Die Drucklegung ging von Rom und Mainz über Basel, Pavia und
+Mailand an Venedig über, wo innerhalb von knapp 25 Jahren 13 Ausgaben zunächst
+in verschiedenen Druckoffizinen hergestellt wurden. Schließlich schlug die
+Werkstatt des Baptista de Tortis die Konkurrenten aus dem Felde. Die Drucke der
+Firma de Tortis lassen das Bemühen um ständige Verbesserung der Editionen
+erkennen, woran die Herausgeber mehrerer Offizinen beteiligt waren. De Tortis
+brachte die Novellen erstmals 1489 heraus (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07762.htm">GW
+7762</ref>). Mit der nächsten
+    Novellenausgabe, abermals de Tortis und zwar 1491 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07763.htm">GW
+7763</ref>), beginnt die Reihe der Editionen, die außer
+der Glosse des Accursius noch Summarien enthalten. Zunächst werden die Summaria
+eines unbekannten Kompilators gedruckt, der Werke von Bartolus de Saxoferrato
+und Angelus de Ubaldis zu diesem Zweck auszog und jeder Stelle ein Summarium,
+entweder von Bartolus oder von Angelus, beigab. In der darauf folgenden
+Ausgabe, wiederum bei de Tortis erschienen (1492, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07764.htm">GW
+7764</ref>), werden die Summaria des Hieronymus Confortus gedruckt; sie sind
+denselben Werken des Bartolus und des Angelus entnommen, jedoch reichhaltiger.
+Zu jeder Stelle wird ein Summarium sowohl aus Bartolus als auch aus Angelus
+gegeben. 1494 brachte Georgius Arrivabene eine Novellenausgabe heraus (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07766.htm">GW
+7766</ref>), die ein Nachdruck der mit ausführlichen
+Summarien versehenen dritten Edition von de Tortis (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07764.htm">GW
+7764</ref>) ist, aber zusätzlich die Pax Constantiae
+der Mailänder Ausgabe enthält und so dem Herausgeber jener Ausgabe (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07757.htm">GW
+7757</ref>), Matthaeus Barlasina, nacheifert. Die
+vierte Edition von de Tortis (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07767.htm">GW 7767</ref>) ist ein
+Nachdruck dieser Ausgabe. Mit ihr haben die venezianischen Novellensammlungen
+ihre endgültige Form erreicht: Sammlung 1-9 der Novellae, Buch X-XII des Codex,
+als 10. Novellensammlung die Libri feudorum mit dem  Regalienkatalog und der
+Constitutio Friderici, gefolgt von dem Buch De pace Constantiae, und als 11.
+Kollektion die Extravagantes bzw. Constitutiones Heinrichs VII.</p>
+<p>
+    Gegen Ende des 15. Jahrhunderts erschienen in Lyon gleich vier Ausgaben der
+Novellae (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07770.htm">GW 7770</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07773.htm">7773</ref>).
+Ihnen fehlen die Extravagantes und die Acta
+de pace Constantiae. Außer der Glossa ordinaria des Accursius bieten sie eine
+neue Sammlung von Summarien, die dem Text vorangestellt sind. Für die
+Überlieferung der Libri feudorum sind diese Ausgaben besonders interessant. Als
+Neuerung wurde den Libri <pb n="5"/> feudorum eine reichhaltige Casus- und
+Summariensammlung beigegeben, die unter anderem Auszüge aus Baldus de Ubaldis,
+De usibus feudorum, enthält.</p>
+<p>
+    Buchführer haben die Druckausgaben des 15. Jahrhunderts bald nach ihrem
+Erscheinen weit in Europa verbreitet. Die im Gesamtkatalog der Wiegendrucke
+nachgewiesenen Exemplare der deutschen, italienischen und französischen
+Novellenausgaben bestätigen das Bild, das sich aus der Überlieferung der
+Handschriften der Libri feudorum gewinnen ließ: In Italien, Österreich,
+der Schweiz und Deutschland, in Frankreich und Spanien, in den Niederlanden, in
+Belgien und in England, im Norden in Dänemark und Schweden, im Osten in Böhmen
+und in Polen standen die Libri feudorum, nun als Teil des Corpus iuris civilis,
+für die Gerichtspraxis zur Verfügung.</p>
+<p>
+    Speziell für den Gebrauch an den Gerichtshöfen, als Hilfsmittel zur
+Rechtsfindung, schuf Jodokus Pflanzmann sein Lehnrechtsbuch. Was hat ihn dazu
+veranlaßt? Wer war Jodokus Pflanzmann?</p>
+<p>
+    "Prokurator und Fürsprech" am Hof zu Augsburg nennt sich Pflanzmann 1493 zu
+Beginn seiner Vorrede zum Lehnrechtsbuch. Schon 1475 bezeichnete er sich als
+Fürsprech des geistlichen Gerichts des Hofs zu Augsburg. Pflanzmann war also
+längere Zeit als Advokat am geistlichen Gericht des Augsburger Bischofs tätig.
+Fürsprecher haben ihre Tätigkeit berufsmäßig ausgeübt. Seit Friedrich III.
+(1415-1493) mußten sie zu diesem Zweck eine Prüfung ablegen, um die nötigen
+Kenntnisse nachzuweisen. Hervorgegangen ist dieser Berufsstand aus den bei
+Gericht tätigen Schreibern. Jodokus Pflanzmann, der das Lehnrechtsbuch aus dem
+Latein ins Deutsche übertrug, hat eine solide Universitätsausbildung genossen.
+Zum Kreis der gelehrten Juristen, die ihre Studien in Italien betrieben hatten
+und, humanistisch gebildet, in der Heimat hohe Ämter antraten, gehörte er
+nicht. Seine Vermögensverhältnisse waren bescheiden. In den Jahren 1471 und
+1475 versteuerte er ein Vermögen von 80-160 fl. (Gulden), wobei es ungeklärt
+ist, ob Pflanzmann neben Bargeld und fahrender Habe auch Immobilien besaß. 1480
+hatte Pflanzmann für ein Vermögen zwischen 150 und 300 fl. Steuern zu zahlen.
+1486 und 1492 versteuerte er ein Vermögen zwischen 100 und 200 fl. 1498 wird
+Pflanzmann in den Steuerbüchern nicht mehr erwähnt.<note xml:id="n7" type="footnote" n="7">Wehmer,
+Carl: Zur Beurteilung des Methodenstreits in der Inkunabelkunde.
+— In: Gutenberg-Jahrbuch. 1933. — S. 250-325, insbes. S. 291.</note>
+                </p>
+<p>
+    Der Vermögenszuwachs 1480 ist auffällig. Er ist vermutlich begründet in der
+Tatsache, daß Jodokus Pflanzmann von 1475 bis 1480 eine eigene Buchdruckerei
+besaß. Aus seiner Werkstatt sind, soviel wir wissen, nicht viele Drucke
+hervorgegangen; Herstellung und Verkauf müssen jedoch nach Abzug der Kosten
+einen Gewinn erbracht haben, der in der Steuerzahlung faßbar ist.</p>
+<p>
+    Die Drucke der Offizin des Jodokus Pflanzmann sind, von einer Ausnahme
+abgesehen, nicht umfangreich. Nur 29 Blätter umfaßt die deutsche Übersetzung
+der Epistola des Rabbi Samuel (Hain<note xml:id="n8" type="footnote" n="8">Hain, Ludwig:
+Repertorium bibliographicum. — Vol. 1,1.2. 2,1.2. — Stuttgartiae;
+Lutetiae Parisiorum, 1826-1938. Neudr. Milano, 1948.</note> <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=14272">14272</ref>);
+auf 22 Blättern ist ein Schriftchen über die
+Entstehung und die Verfasser der Psalmen gedruckt, das sich Titel des Psalters
+nennt (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=15530">Hain 15530</ref>) und mit zwei
+Holzschnitten<note xml:id="n9" type="footnote" n="9">Schramm, Albert: Der Bilderschmuck der
+Frühdrucke. — Bd. 4. — Leipzig, 1921. — Abb. 307 und 315.</note>
+geschmückt ist. Auf der Rückseite des letzten Blattes spricht Pflanzmann von
+seiner Druckerei, in der er das Werk hat drucken lassen. Nur fragmentarisch
+erhalten ist eine Ausgabe der Sammlung von Schwänken um den Pfarrer von
+Kalenberg, die Philipp Frankfurter für die Drucklegung bearbeitete (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW10289.htm">GW
+10289</ref>); sie dürfte etwa 50 Blätter umfaßt haben.
+Abgesehen von einer Reihe von Einblattdrucken<note xml:id="n10" type="footnote" n="10">Einblattdrucke
+des 15. Jahrhunderts : ein bibliographisches Verzeichnis
+/ hrsg. von der Kommission für den Gesamtkatalog der Wiegendrucke. — Halle
+(Saale), 1914. — (Sammlung bibliothekswissenschaftlidier Arbeiten ; 35/36)
+Nachdruck Wiesbaden, 1968. — Nr. 3, 4, 5 (= 429), 421-428, 1501 und
+1514.</note> — in der Hauptsache Ablaßbriefe (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00013.htm">GW
+13</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00016.htm">16</ref>) und Beichtbescheinigungen (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW03767.htm">GW
+3767</ref>) sowie ein Ausschreiben Friedrichs III. an
+alle Stände des Reiches vom 5. September 1479 in Angelegenheiten des Augsburger
+Bischofs Johannes von Werdenberg (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW10354.htm">GW 10354</ref>) -,
+ist nur noch ein Druckwerk bekannt, das zugleich die bedeutendste Leistung der
+Offizin Pflanzmann darstellt: <pb n="6"/> die Ausgabe der Bibel in deutscher
+Sprache (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04297.htm">GW 4297</ref>).</p>
+<p>
+    Die Bibel ist in Deutsch zuerst in Straßburg gedruckt worden, und zwar von
+Johann Mentelin (1466, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04295.htm">GW 4295</ref>) und von
+Heinrich Eggestein (vor 1470, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04296.htm">GW 4296</ref>).
+Pflanzmanns Druck ist also die dritte deutsche Bibel, die mit beweglichen
+Lettern gesetzt und gedruckt wurde, und sie ist die erste Bibel mit
+Holzschnittillustrationen. Auf 456 Blättern ist der Text, in zwei Spalten
+angeordnet, in einer schönen Gotico-Antiqua gedruckt. Pflanzmann ließ 21
+Holzstöcke<note xml:id="n11" type="footnote" n="11">Schramm, Bilderschmuck. — Bd. 4. —
+Leipzig, 1921. — Abb. 285-288, 296-298, 300, 302, 307, 309, 315, 317-319,
+323, 325. — Bd. 23. -Leipzig, 1943. — S. 16-17 und 27 sowie Abb.
+410-413.</note> mit Darstellungen zum Alten und zum Neuen Testament anfertigen,
+die in den Ausmaßen der Spaltenbreite angepaßt waren und mehrfach an
+entsprechenden Stellen dem Text eingefügt wurden. Nach Abschluß der Drucklegung
+gab Pflanzmann die Holzstöcke an den Augsburger Drucker Anton Sorg weiter, der
+sie schon 1477 wiederverwendete (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04301.htm">GW 4301</ref>).
+Pflanzmanns Bibeldruck, nicht firmiert und undatiert herausgebracht, muß vor
+diesem Termin, also zwischen 1475 und Mitte 1477 erschienen sein.</p>
+<p>
+    Pflanzmann hat seine Druckerei neben den Advokatsgeschäften betrieben. Als
+Notar beglaubigte er die Bulle Sixtus' IV. "Salvator noster" vom 9. Februar
+1479/80, den Ablaß zum Besten einer Kirche in Nördlingen betreffend, aus der
+Offizin von Hermann Kästlin (Einblattdrucke 1355). Obwohl Pflanzmann mit der
+Bibelausgabe zweifellos erfolgreich war, hat er die Drucktätigkeit aufgegeben.
+Er wandte sich einer neuen Aufgabe zu, der Arbeit am Lehnrechtsbuch
+nämlich.</p>
+<p>
+    Augsburg, die alte Bischofsstadt, kirchlicher Herrschaftsmittelpunkt und
+seit den Italienzügen der Kaiser ein Zentrum der Reichsgeschichte, war
+wirtschaftlich außerordentlich erstarkt. Die Interessengegensätze zwischen dem
+Bischof und den aufstrebenden Kaufleuten und Handwerkern führten zu Spannungen,
+Reibereien und Auseinandersetzungen.<note xml:id="n12" type="footnote" n="12">Kießling, Rolf:
+Bürgerliche Gesellschaft und Kirche in Augsburg im Spätmittelalter. —
+Augsburg, 1971. — (Abhandlungen zur Geschichte der Stadt Augsburg ;
+19).</note> Die Bestätigung des Stadtrechts durch Friedrich Barbarossa 1156
+hatte noch die Rolle des Bischofs als Stadtherr betont. Aber die Einsetzung
+eines königlichen Vogtes begünstigte nach 1168 die Autonomiebestrebungen der
+zahlenmäßig mächtig gewachsenen Bürgerschaft. Um die Mitte des 13. Jahrhunderts
+erreichten die Augsburger Bürger schrittweise den Aufbau einer selbständigen
+Verwaltung, wovon Stadtsiegel, Rathaus, Consules, Bürgermeister und
+Bürgervertreter zeugen.</p>
+<p>
+    In dieser Zeit bemühten sich die Augsburger auch um ein eigenes Stadtrecht.
+Einige Jahrzehnte zuvor, zwischen 1224 und 1227, hatte der Schöffe Eike von
+Repgow seine ursprünglich lateinische Darstellung des Land- und Lehnrechts in
+die mittelniederdeutsche Sprache übertragen; sein Spiegel der sassen wollte dem
+Mangel an offiziellen Rechtsaufzeichnungen abhelfen und dem Bedürfnis nach
+einer allgemein zugänglichen Belehrung über das geltende Recht für dessen
+Anwendung genügen. Vermutlich im Magdeburger Minoritenlektorat und
+wahrscheinlich von einem aus Augsburg stammenden Minoriten wurde eine
+Handschrift des Sachsenspiegels ins Oberdeutsche übersetzt und nach Augsburg
+verbracht. Die in Augsburg zwischen 1265 und 1275 bestehenden
+Verfassungsverhältnisse, in den Auseinandersetzungen zwischen Bischof und
+Bürgerschaft errungen, waren darin bereits berücksichtigt. Auf der Basis dieser
+oberdeutschen Handschrift entstanden in Augsburg der Spiegel aller deutschen
+Leute und der Schwabenspiegel.<note xml:id="n13" type="footnote" n="13">Homeyer, Gustav: Die
+deutschen Rechtsbücher des Mittelalters und ihre Handschriften / neubearb. von
+Conrad Borchling u. a. Abt. 1: Verzeichnis der Rechtsbücher / bearb. von Karl
+August Eckhardt. — Weimar, 1934. Schulte, Reichs- und Rechtsgeschichte S.
+159 bis 167.</note> Die Arbeiten an diesen Rechtsbüchern stehen im Zusammenhang
+mit der Tatsache, daß Rudolf I. den Augsburgern 1276 die Anlage eines
+Stadtbuches gestattete, in dem die damalige Rechtslage festgehalten werden
+sollte, und dessen Statuten bestätigte, die gegenwärtigen und die zukünftigen.
+Der unbekannte Verfasser des Schwabenspiegels, dem die oberdeutsche Fassung des
+Sachsenspiegels und auch der Deutschenspiegel vorlagen, ließ fort, was sich nur
+auf Sachsen bezog, berücksichtigte dagegen schwäbische <pb n="7"/> und
+bayerische Verhältnisse, ferner Bestimmungen des römischen und kanonischen
+Rechts sowie Reichsgesetze bis zu Rudolf I. und verfolgte den Zweck, ein
+gemeinsames, über dem Landrecht stehendes Stadtrecht und gute Gewohnheiten
+darzustellen.</p>
+<p>
+    Auf der Grundlage des neuen Rechtsbuches übten künftig Rat und Stadtgericht
+Augsburgs die Gewerbeaufsicht und die niedere Gerichtsbarkeit aus. Die oberste
+Rechtsinstanz war der Vogt als Vertreter des Königs. Als 1316 Ludwig der Bayer
+Augsburg die Reichsfreiheit gewährte, wurde die Oberschicht, bürgerliche
+Geschlechter, die die Stadt leiteten, den Ministerialen des Reiches
+gleichgestellt, ihre Angehörigen durften zu Gericht sitzen und Recht
+sprechen.<note xml:id="n14" type="footnote" n="14">Kießling, Bürgerliche Gesellschaft S.
+26-27.</note> Es gab fortan zwei voneinander unabhängige, einander
+gegenüberstehende Rechtsgebilde und demgemäß neben dem geistlichen Gericht des
+Bischofs das Stadtgericht. Der Bischof war nicht mehr Stadtherr, aber mit
+bischöflichen Ministerialen und adligem Domkapital sowie dem entsprechenden
+Grundbesitz, auch dem der Klöster, blieb Augsburg weiterhin ein adliges
+Herrschaftszentrum. Im Verhältnis zur Bürgerstadt ergaben sich bei dem engen
+räumlichen Nebeneinander politische, gesellschaftliche und rechtliche Probleme
+und daraus folgend Streitigkeiten und Auseinandersetzungen bis zum Ende des 15.
+Jahrhunderts hin. In den Jahren 1484 bis 1491, als Jodokus Pflanzmann an seinem
+Lehnrechtsbuch arbeitete, ging der Streit um die Aufnahme eines Augsburger
+Bürgersohnes in das adlige Domkapitel.</p>
+<p>
+    Als Fürsprech am geistlichen Gericht war der Laie Pflanzmann vom Bischof
+nicht abhängig; er war vielmehr Vertreter in Rechtsangelegenheiten, die am
+Gerichtshof des Bischofs anhängig waren. Zwischen dem städtischen und dem
+bischöflichen Gericht gab es viele Berührungspunkte und Überschneidungen;
+Pflanzmann hat seinen Beruf vermutlich auch als Vertreter der Stadt
+ausgeübt,<note xml:id="n15" type="footnote" n="15">... ich Jodocus pflantzma(nn) ein procurator
+vn(d) fürsprech des hofs zu Augspurg vnd(er) andern meine(r) genossen am ampt
+d(er) elter ...". — In: Libri feudorum, deutsch. — Augsburg, 1494. —
+Bl. 2 a (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07777.htm">GW 7777</ref>).</note> deren Rat immer
+bestrebt war, seine Zuständigkeit zu erweitern und Einfluß zu gewinnen selbst
+auf die Leitung kirchlicher Einrichtungen, die innerhalb der Stadt lagen.</p>
+<p>
+    Bei seiner beruflichen Tätigkeit waren dem Magister<note xml:id="n16" type="footnote" n="16">Pflanzmann
+wird in den Steuerbüchern Advokat oder Meister, das heißt
+Magister, genannt.</note> Pflanzmann die Libri feudorum eine wichtige und sehr
+nützliche Rechtsquelle. Sie behandelten das Lehnrecht unter Berücksichtigung
+der städtischen Verhältnisse; sie enthielten Regelungen, nach denen der Verkauf
+oder die Verpachtung von Lehen wenigstens teilweise gestattet waren; einige
+ihrer Bestimmungen, die einander widersprachen, ließen eine unterschiedliche
+Auslegung zu. Jodokus Pflanzmann erschienen die Libri feudorum so nützlich, daß
+er es für notwendig erachtete, sie durch Übersetzung und Drucklegung allgemein
+zugänglich zu machen, damit diese Rechtsquelle auch dann zu Rate gezogen werden
+konnte, wenn es an gelehrten Juristen mangelte.</p>
+<p>
+    Jodokus Pflanzmann beginnt sein Rechtsbuch mit einer langen Vorrede. Im
+ersten Teil dieser Vorrede, die seine philosophische Bildung und seine
+gedankliche Auseinandersetzung mit dem Recht beweist, spricht er über den Zweck
+seines Buches und über dessen Anlage. Er erläutert Ursache, Materie, Form und
+Nutzen des Lehnrechtsbuches. Die Entstehung der Libri feudorum stellt er
+zutreffend dar. Für die Ursache der Aufzeichnung hält er die Notwendigkeit, das
+Lehnrecht denjenigen zur Kenntnis zu bringen, die es angeht. Als Materie des
+Lehnrechts nennt Pflanzmann Erkenntnisse, Gesetze und Gewohnheiten der
+Lehnskurien, aufgezeichnet in den Libri feudorum. Was die Form betrifft, so
+rezipiert Pflanzmann die Rezension des Accursius. Den Nutzen des
+Lehnrechtsbuches sieht Pflanzmann darin, daß jedem gegeben werde, was sein ist,
+um der Gerechtigkeit, der Sittlichkeit und der Vernunft genüge zu tun. Die
+Bitte an den Leser, das Folgende fleißig zu lesen, leitet den zweiten Teil der
+Vorrede ein. Pflanzmann gibt hier in 22 Abteilungen eine eingehende Übersicht
+über alle Arten von <pb n="8"/> Lehen. In der Tat trägt diese Aufzählung,
+immer mit Hinweis auf den oder die Titel, in denen das entsprechende Lehen
+beschrieben wird, wesentlich zum praktischen Gebrauch des Buches bei. Die
+Hinweise Pflanzmanns sind gleichzeitig eine Inhaltsangabe zu den Libri
+feudorum: Natur des Lehens; königliche Lehen, die ihre Besitzer adeln, und
+sogenannte Bürgerlehen; erbliche Lehen und Erbfolge; Eidesleistung und Verlust
+des Lehens; weiterhin unter anderem Dienstlehen, Schillinglehen, Vogtlehen,
+Lehen für Fürsprech, Prokurator, Arzt und Notar, Beneficium (Manuale,
+Victuale), Lehen in Form von liegenden Gütern und Lehen, aus bestimmten
+Einkünften bestehend.</p>
+<p>
+    Mit großer Überlegtheit und in übersichtlicher Form hat Pflanzmann den
+Inhalt der Libri feudorum und die Meinung der Rechtslehrer zu ihren
+Bestimmungen in deutscher Sprache wiedergegeben. Er bringt den entsprechenden
+Titel jeweils im lateinischen Original und danach in deutscher Übersetzung.
+Dann faßt er den Inhalt der Bestimmung und danach die Ansichten der
+Rechtsgelehrten zusammen und gibt sie in einem in sich geschlossenen Abschnitt
+wieder. Als Beispiel diene der Titel "Si de investitura inter dominum et
+vassalum lis oriatur" auf Bl. 29 (b 7 a ß). Der Übersetzung des Titels folgen
+die lateinischen Anfangsworte im Text der Libri feudorum "Si inter". Da nun
+sehr unterschiedliche Probleme behandelt werden müssen, folgt Pflanzmann dem
+Vorbild der Rechtslehrer und bildet zehn Unterabteilungen, die wiederum
+lateinisch eingeleitet werden. In jeder dieser Abteilungen faßt er die Aussagen
+zusammen. Durch die laufenden Verweisungen auf das Original und auf die
+Verfasser der Summarien ermöglicht es Pflanzmann dem Rechtssuchenden, eine
+tiefergehende Auseinandersetzung mit der Problematik zu führen.</p>
+<p>
+    Pflanzmann tritt bescheiden hinter seine Leistung zurück. Es gebühre
+niemandem, kaiserliche Gesetze zu verändern, zu verdeutschen oder auszulegen.
+Deshalb habe er die Summarien der bewährten Lehrer übersetzt, damit mit deren
+Hilfe der Sinn des lateinischen Textes besser verstanden werde. Gelehrte und
+Ungelehrte sollen sein Buch lesen. Sie sollen nicht fragen, warum er dieses und
+nicht ein anderes Wort gewählt habe. Ihm kam es auf den Sinn des Inhalts und
+ein richtiges Verständnis des Textes an. Mit Selbstverständlichkeit rechnet
+Pflanzmann damit, daß nicht nur Lehnsherren, sondern auch Lehnsmannen sein Buch
+lesen, auf daß sie wissen, wie sie sich gegeneinander und gegenüber anderen zu
+verhalten haben. Denn, so sagt er, Unwissenheit entschuldigt weder vor Gott
+noch vor der Welt.</p>
+<p>
+    Für die Drucklegung seines Rechtsbuches gewann Pflanzmann Erhard Ratdolt,
+Augsburgs leistungsstärksten Drucker. Ratdolt war von 1476 bis 1486 erfolgreich
+in Venedig tätig gewesen und dann, wiederholten Einladungen der Augsburger
+Bischöfe folgend, in seine Vaterstadt zurückgekehrt. 1493 erschien bei ihm
+Pflanzmanns Werk mit dem Titel "Das Buch der lehenrecht" (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07776.htm">GW
+7776</ref>). Es war mit einem Holzschnitt ausgestattet,
+der eine Belehnungsszene darstellt.<note xml:id="n17" type="footnote" n="17">Schramm,
+Bilderschmuck. — Bd. 23. — Leipzig, 1943. — Abb. 408. Drei Frühdrucke
+zur Reichsgeschichte / mit einer Einleitung von Otto Schottenloher. - Leipzig,
+1938. — (Veröffentlichungen der Gesellschaft für Typenkunde des 15.
+Jahrhunderts — Wiegendruckgesellschaft. Reihe B ; 2).</note> Der Kaiser
+thront auf einer erhöhten Tribüne, umgeben von drei geistlichen und drei
+weltlichen Kurfürsten. Vor ihm kniet der Lehensempfänger, dessen Gefolge vor
+der Tribüne Aufstellung genommen hat. Schon im nächsten Jahr, 1494, brachte
+Lukas Zeissenmair die Neuauflage mit dem Titel "Keyserliche lehenrecht" heraus
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07777.htm">GW 7777</ref>). Interessant ist nun, daß Ratdolt im
+selben Jahr 1494, da die zweite Ausgabe des Lehnrechtsbuches bei Zeissenmair
+erschien, für seinen Druck nachträglich einen Umschlag herstellen ließ, der den
+Titel "Römischer Keiser bestätt glaubhaftiglechen rechtbuch zesampt anderen
+rechten ..." trägt.<note xml:id="n18" type="footnote" n="18">
+                        <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07776.htm">GW
+7776</ref> Anmerkung. Davies, Hugh William: Catalogue of a collection of early
+German books in the library of C. Fairfax Murray. — Vol. 1.2. — London,
+1913. Reprint. London, 1962. — Nr. 238. Baer, Leo: Mit Holzschnitten
+verzierte Buchumschläge des 15. und 16. Jahrhunderts. - Frankfurt a. Main,
+1923. — Nr. III.</note> Es kann nicht geklärt werden, ob Zeissenmairs
+Titelblatt oder Ratdolts nachträglicher Umschlag, beide 1494 gedruckt, zuerst
+erschienen ist; bemerkenswert jedoch ist die Berufung auf das kaiserliche <pb n="9"/>
+Recht. Sie sollte dem Rechtsbuch des Jodokus Pflanzmann die nötige
+Autorität sichern, ist gleichzeitig ein Hinweis auf die Allgemeingültigkeit
+dieses Lehnrechtes und bezeugt die Rezeption des ursprünglich fremden
+Rechts.</p>
+<p>
+    Zeissenmair hat seine Ausgabe mit zwei Typen gedruckt. Als Texttype
+verwendet er eine relativ große Schrift, von der 20 Zeilen 105 mm messen. Der
+Sprache des Buches entsprechend ist eine gotische Buchschrift mit Unterlängen
+bei s und f gewählt. Die Auszeichnungstype ist eine strenge gotische Textura;
+sie erscheint auf dem Titelblatt und zur Wiedergabe der lateinischen Titel des
+Rechtsbuches, das damit seine bereits erwähnte Übersichtlichkeit erhält. Auf
+der Rückseite des Titelblattes gelangte der Holzstock zum Abdruck, der schon
+die Ausgabe des Erhard Ratdolt zierte; Zeissenmair hat den Holzstock demnach
+zur Wiederverwendung von Ratdolt erhalten. Die Vorrede des Jodokus Pflanzmann
+wird mit einer Initiale im Maiblumenstil begonnen. Im Exemplar der Deutschen
+Staatsbibliothek<note xml:id="n19" type="footnote" n="19">Voullieme, Ernst: Die Inkunabeln der
+Königlichen Bibliothek und der anderen Berliner Sammlungen : ein Inventar.
+[Nebst] Nachträge. — Leipzig, 1906-1927. — (Zentralblatt für
+Bibliothekswesen. Beih. 30. 45. 49 u. Nachtr. zu 49). — Nachdruck Wiesbaden,
+1968 Nr. 326. Schmitt, Anneliese: Die Inkunabeln der Deutschen Staatsbibliothek
+zu Berlin : im Anschluß an Ernst Voullieme bearbeitet. — Berlin, 1966. —
+(Beiträge zur Inkunabelkunde. 3. Folge ; 2) Nr. 326.</note> findet sich noch
+der wesentliche Teil des Buchumschlages<note xml:id="n20" type="footnote" n="20">Holzschnitte
+auf Buchumschlägen aus dem 15. und der ersten Hälfte des 16. Jahrhunderts /
+hrsg. von Leo Baer. — Straßburg, 1936. (Einblattdrucke des 15. Jahrhunderts
+; 90).</note>, den Zeissenmair dem schmalen Bändchen von 36 Blättern beigegeben
+hat und der auch den Einband unseres fotomechanischen Neudruckes schmücken
+soll.</p>
+<p>
+    Über den Erfolg des durch den Druck vervielfältigten Rechtsbuches von
+Pflanzmann wissen wir nichts. Die im Gesamtkatalog der Wiegendrucke
+nachgewiesenen heute noch erhaltenen Exemplare beider Ausgaben lassen nur
+bedingt Schlüsse auf die Verwendung des Buches als Auskunftsmittel in
+Lehnrechtsfragen zu. Soviel jedoch darf wohl gesagt werden: Pflanzmanns
+Lehnrechtsbuch war in Augsburg und in dessen näherer und weiterer Umgebung bis
+nach Böhmen und Ungarn, wahrscheinlich sogar auch in Schweden in Gebrauch. Es
+wurde an Lehnskurien zu Rate gezogen und stand in Bibliotheken des Adels und in
+Klosterbibliotheken zum Nachschlagen zur Verfügung. Zweifelsohne hat es dazu
+beigetragen, die Rechtsunsicherheit in einigen Teilbereichen zu mindern. Der
+Fachwissenschaft möge unser Neudruck zur näheren Untersuchung dienen.</p>
+<p>
+    Das Rechtsbuch des Jodokus Pflanzmann kann nur dann recht gewürdigt werden,
+wenn man es im Zusammenhang mit den Reformbestrebungen des Augsburger
+Frühhumanismus sieht.</p>
+<p>
+    Weltoffenheit, einen weiten geistigen Horizont und die Kenntnis eines neuen
+Bildungsideals hatten die weitgereisten Augsburger Fernhandelskaufleute mit
+heimgebracht. Zu ihnen gehörte Sigmund Gossembrot, der neben seiner
+Geschäftstätigkeit der Vaterstadt diente: seit 1441 als Mitglied des kleinen
+Rates und des Stadtgerichts, 1457 als Siegler und 1458 als Bürgermeister.
+Gossembrot hatte in Wien studiert und auf Geschäftsreisen in Italien seine
+humanistische Bildung vervollkommnet. Um 1450 gründete Sigmund Gossembrot einen
+humanistischen Freundeskreis, dem unter anderen der Stadtschreiber Valentin
+Eber, der Stadtarzt Hermann Schedel, der im Schuldienst tätige Thomas
+Ödenhofer, der Benediktiner Sigmund Meisterlin und der Generalvikar
+Leonhard Gessel angehörten und zu dem der Bischof von Augsburg, Kardinal Peter
+von Schaumburg, gute Beziehungen unterhielt. Die Mitglieder dieser Sodalitas
+einte die Begeisterung für das neue Gedankengut und das Streben, den
+italienischen Humanisten nachzueifern. In diesem Sinne verfaßte Sigmund
+Meisterlin auf Anregung von Gossembrot 1457 eine Chronographia Augustensis, das
+erste deutsche Geschichtsbuch im humanistischen Geiste.<note xml:id="n21" type="footnote" n="21">Vergleiche
+dazu: Ursprung und Anfang Augsburgs. — [Augsburg: Johann
+Bämler 1483.] <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW02860.htm">GW 2860</ref>.</note> Es ist
+unbekannt, wie lange dieser Humanistenkreis bestand; 1459 schon gab Gossembrot
+seine Ämter auf und zog sich nach Straßburg zurück, und eine neue
+Sodalitas gründete gegen Ende des Jahrhunderts Konrad Peutinger. Die Anregungen
+des ersten humanistischen Freundeskreises jedoch lassen sich noch
+jahrzehntelang nachweisen; davon gibt das Schaffen der Augsburger Drucker ein
+beredtes Zeugnis.<pb n="10"/>
+                </p>
+<p>
+    Augsburgs Erstdrucker <ref target="http://de.wikipedia.org/wiki/Günther Zainer">Günther Zainer</ref>,
+seit 1468 tätig, begann 1471 mit der Herausgabe humanistischer und antiker
+Literatur, worin ihm nacheinander mehrere Druckwerkstätten folgten. Am Anfang
+steht die Ausgabe der Renaissance-Novelle Griseldis, die Petrarca nach
+Boccaccios Decamerone (letzte Novelle) in lateinischer Sprache neu gestaltet
+hatte, in der Übersetzung von <ref target="http://de.wikipedia.org/wiki/Heinrich Steinhöwel">Heinrich
+Steinhöwel</ref> (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12817">Hain 12817</ref>); sie wurde in
+Augsburg zwischen 1471 und 1497 achtmal gedruckt.<note xml:id="n22" type="footnote" n="22">Von
+Zainer 1471 und wenig später (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12817">Hain 12817</ref> und
+Copinger 4716); von <ref target="http://de.wikipedia.org/wiki/Bämler">Bämler</ref> 1472, 1480, 1482 und
+ein weiteres Mal (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12818">Hain 12818</ref>, <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12815">Hain
+12815</ref>, <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12820">Hain 12820</ref>
+und in <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=10005">Hain 10005</ref>) und zweimal von Schauer in
+den neunziger Jahren mit Holzschnitten (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12816">Hain
+12816</ref> und Voullieme: Berlin 323,10).</note> Zainer brachte 1471 Ovid, De
+arte amandi et remedio amoris (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12216">Hain 12216</ref>) und
+Vegetius, De re militari<note xml:id="n23" type="footnote" n="23">Freys, Ernst: Makulatur aus
+der Presse Günther Zainers. — In: Gutenberg-Jahrbuch. 1944/49. — S.
+94-96, insbes. S. 94.</note> heraus; der Vegetius wurde um 1476 von Johann
+Wiener mit zahlreichen Holzschnitten unter dem Titel Von der Ritterschaft auch
+in deutscher Sprache gedruckt (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=15916">Hain 15916</ref>). Bei
+Ludwig Hohenwang erschien um 1477 (Pseudo-) Lukians Goldener Esel in der
+lateinischen Fassung des Poggio Bracciolini (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=10264">Hain
+10264</ref>) und in der deutschen Übersetzung von Nikolaus von Wyle,<note xml:id="n24" type="footnote" n="24">Ohly,
+Kurt: Ein unbeachteter illustrierter Druck
+Eggesteins. — In: Gutenberg-Jahrbuch. 1953. — S. 50-61, insbes. S.
+50-51.</note> beide Male mit Holzschnitten illustriert. Es wurden Valerius
+Maximus, Facta et dicta memorabilia, deutsch 1489 (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=11632">Hain
+11632</ref>), Seneca (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=14639">Hain 14639</ref>, <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=14617">Hain
+14617</ref>) und Cicero (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07027.htm">GW
+7027</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06975.htm">6975</ref>) veröffentlicht. Der Druck
+von Johannes Schobser 1488 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06975.htm">GW 6975</ref>) De
+officiis, deutsch, ist die einzige Ausgabe einer Schrift des Cicero in
+deutscher Sprache im 15. Jahrhundert. Die Fabeln des Aesop wurden in Augsburg
+zwischen 1477 und 1498 achtmal in deutscher Sprache gedruckt (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00352.htm">GW
+352</ref> bis <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00354.htm">354</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00357.htm">357</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00359.htm">359</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00361.htm">361</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00362.htm">362</ref>),
+1480 in Latein (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00347.htm">GW 347</ref>); die erste Ausgabe
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00352.htm">GW 352</ref>) ist mit 208 Holzschnitten
+ausgestattet. Ebenfalls achtmal innerhalb der Jahre 1481 und 1498 erschienen
+die Disticha Catonis in Deutsch<note xml:id="n25" type="footnote" n="25">
+                        <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06320.htm">GW
+6320</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06322.htm">6322</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06328.htm">6328</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06330.htm">6330</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06331.htm">6331</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06339.htm">6339</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06340.htm">6340</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06344.htm">6344</ref>.</note>
+neben einer Ausgabe in lateinischer
+Sprache 1497 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06315.htm">GW 6315</ref>). Die Gesta Romanorum
+wurden um 1487 in Latein (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7739">Hain 7739</ref>) und 1489 in
+Deutsch (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7753">Hain 7753</ref>) gedruckt. Illustriert und in
+deutscher Sprache wurden gedruckt die Geschichte vom großen Alexander in der
+Fassung des <ref target="http://de.wikipedia.org/wiki/Johann Hartlieb">Johannes Hartlieb</ref> (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00883a.htm">GW
+883 a</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00887a.htm">887 a</ref>),
+die Geschichte von der Zerstörung Trojas (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07233.htm">GW
+7233</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW07237.htm">7237</ref>) und die Geschichte von
+Appolonius, dem König von Tyros, in der Übersetzung von Heinrich Steinhöwel
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW02273.htm">GW 2273</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW02276.htm">2276</ref>).
+Johann Hartlieb übersetzte auch des Andreas
+Capellanus Schrift De amore et de amoris remedio ins Deutsche; in Augsburg
+wurde die Übersetzung 1482 und 1484 gedruckt, jeweils mit 19 Holzschnitten
+geschmückt (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW01760.htm">GW 1760</ref>,<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW01762.htm">1762</ref>).</p>
+<p>
+    Die aufsehenerregende Novelle De duobus amantibus von den beiden ungleichen
+Liebenden Euryalus und Lukretia, die der strengen Standesordnung zum Trotz doch
+glücklich vereint wurden, von <ref target="http://de.wikipedia.org/wiki/Pius II.">Aeneas Sylvius</ref>
+verfaßt und von <ref target="http://de.wikipedia.org/wiki/Nikolaus von Wyle">Nikolaus von Wyle</ref>
+verdeutscht, wurde mit Holzschnittillustrationen 1489 und 1491 herausgebracht
+(<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=242a">Hain 242 a</ref>, Copinger<note xml:id="n26" type="footnote" n="26">Copinger,
+Walter Arthur: Supplement to Hains Repertorium
+bibliographicum. — P. 1. 2,1.2. — London, 1895-1902.</note> 3550).
+Boccaccios Novelle von Guiscard und Sigismunda, von Leonardus Brunus Aretinus
+ins Lateinische und von Nikolaus von Wyle ins Deutsche übertragen, wurde 1482
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW05646.htm">GW 5646</ref>) und früher<note xml:id="n27" type="footnote" n="27">Seit
+1477/78 im Anschluß an Aesop; <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00352.htm">GW
+352</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00354.htm">354</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00357.htm">357</ref>.</note>
+gedruckt. Das Decamerone, deutsch von
+Heinrich Leubing, erschien mit 88 Holzschnitten 1490 (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04452.htm">GW
+4452</ref>), Boccaccios Schrift Über berühmte Frauen,
+von Heinrich Steinhöwel übertragen, bereits 1479 mit 78 Holzschnitten (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW04487.htm">GW
+4487</ref>). Neben den Werken italienischer Humanisten,
+zu denen auch Agostino Dati (Elegantiolae, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW08108.htm">GW
+8108</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW08129.htm">8129</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW08130.htm">8130</ref>)
+zählt, haben die Augsburger Drucker auch die
+Schriften des deutschen Frühhumanismus veröffentlicht: den Ackermann von Böhmen
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW00200.htm">GW 200</ref>), <ref target="http://de.wikipedia.org/wiki/Albrecht von Eyb">Albrecht
+von Eyb</ref> (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09522.htm">GW 9522</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09523.htm">9523</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09525.htm">9525</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09527.htm">9527</ref>), <ref target="http://de.wikipedia.org/wiki/Konrad Celtis">Konrad
+Celtis</ref> (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW06466.htm">GW 6466</ref>) und <ref target="http://de.wikipedia.org/wiki/Sebastian Brant">Sebastian
+Brant</ref> (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW05045.htm">GW
+5045</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW05056.htm">5056</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW05049.htm">5049</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW05052.htm">5052</ref>).</p>
+<p>
+    Augsburger Drucker sind nicht die einzigen gewesen, die sich um die
+Verbreitung antiker und humanistischer Literatur verdient gemacht haben; im
+Vergleich mit der Drucklegung entsprechender Texte in anderen deutschen Städten
+nimmt Augsburg jedoch eine herausragende Stellung ein. Die <a name="11"/>
+Augsburger Druckausgaben in deutscher Sprache, mit Holzschnitten nicht nur
+geschmückt, sondern in ihrer Aussagekraft verstärkt, wenden sich an ein breites
+Laienpublikum, an neue Leserkreise; sie haben zur weiteren Verbreitung des
+neuen Gedankengutes wesentlich beigetragen. Die Auswahl der Texte —
+Schriften, die nicht nur unterhielten, sondern zugleich bildeten und belehrten
+-, kennzeichnet den Augsburger Frühhumanismus: Praktische Tätigkeit, verbunden
+mit der Öffnung gegenüber einer Wissenschaft außerhalb der kirchlichen
+Tradition, verstärkten die Bemühungen um eine rechte Ordnung der Verhältnisse,
+führten zu einer positiven Haltung gegenüber der Kirchenreform und schufen den
+Raum, in dem Reformen möglich wurden. Ausdruck für diese Gesinnung ist
+beispielsweise die wiederholte Drucklegung der wichtigsten Reformschrift des
+15. Jahrhunderts, der Reformatio Sigismundi.<note xml:id="n28" type="footnote" n="28">1476 und
+1480 im Anschluß an Johann Bämlers Chronik von allen Kaisern, Königen und
+Päpsten (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW03163.htm">GW 3163</ref> u. <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW03164.htm">3164</ref>)
+zusammen mit der Reformation Friedrichs III.;
+1484 (Copinger 5452), 1497 (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=17730">Hain 17730</ref>).
+Reformatio Sigismundi. (Augsburg: Lukas Zeissenmair 1497) / mit einem Nachwort
+von Ursula Altmann. — Leipzig, 1979. 2. Reprint. Leipzig, 1984. —
+Bibliothek seltener Bücher. Neudrucke ; 1).</note> Die Reformatio Sigismundi
+verlangte die Abschaffung der vielen Mißstände in Stadt und Land durch die
+grundlegende Umgestaltung von Staat und Kirche und legte dafür ein umfassendes
+Reformprogramm vor, das fast alle Gebiete des gesellschaftlichen Lebens
+berücksichtigte.</p>
+<p>
+    Zu den Mißständen gehörte auch die Rechtsunsicherheit. Augsburger Drucker
+haben viel dazu beigetragen, diesem Übel abzuhelfen, indem sie die zur
+Rechtsfindung nötigen Bücher druckten.</p>
+<p>
+    Der Sachsenspiegel wurde seit 1481 mehrfach gedruckt, sowohl das Landrecht
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09257.htm">GW 9257</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09260.htm">9260</ref>)
+als auch das Lehnrecht (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09266.htm">GW 9266</ref>-<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW09268.htm">9268</ref>);
+der
+Schwabenspiegel erschien bereits um 1475 (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=9868">Hain
+9868</ref>), dann erneut 1480 (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=9872">Hain 9872</ref>) und
+ein weiteres Mal (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=9869">Hain 9869</ref>); 1484 und 1495 wurde
+das Bayerische Landrecht durch den Druck veröffentlicht (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=9866">Hain
+9866</ref>, <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=9867">9867</ref>). Der
+Rechtspflege diente ferner die Drucklegung der Bestimmungen, die von den
+Richtern des geistlichen Gerichts zu Augsburg ausgegangen waren (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW02859.htm">GW
+2859</ref>).</p>
+<p>
+    Über die gesetzlichen Grundlagen hinaus waren weitere Hilfsmittel zur
+Rechtsfindung nötig. Dazu gehört der Arbor consanguinitatis des Johannes
+Andreae, eine Darstellung der verwandtschaftlichen Verhältnisse zur Berechnung
+der Blutsverwandtschaft und Schwägerschaft, die bei Erbschaftsregelungen zu
+Rate gezogen wurde; Augsburger Drucker haben das nützliche Werk schon Anfang
+der siebziger Jahre des 15. Jahrhunderts gedruckt (<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW01717.htm">GW
+1717</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW01718.htm">1718</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW01677.htm">1677</ref>).
+Muster für Verträge, für Schreiben in
+rechtlichen Angelegenheiten und dergleichen mehr, zusammengefaßt unter dem
+Titel Formulare und Deutsch Rhetorica, wurden in Augsburg dreimal gedruckt
+(<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW10179.htm">GW 10179</ref>, <ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW10182.htm">10182</ref>,
+<ref target="http://www.gesamtkatalogderwiegendrucke.de/docs/GW10183.htm">10183</ref>).
+Hinweise für ein kluges und geschicktes Auftreten vor Gericht bot die Ordnung
+vor Gericht zu reden, die Johann Bämler, ehemals Schreiber und seit 1472
+Drucker, erstmals typographisch vervielfältigt hat.<note xml:id="n29" type="footnote" n="29">Allein
+Bämler druckte schon sechs Ausgaben, u.a. <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12066">Hain 12066</ref>,
+<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12068">12068</ref>,
+<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=12070">12070</ref>, Copinger 4878.</note> Zum praktischen
+Lehrbuch der Prozeßführung wurde der Belial des <ref target="http://de.wikipedia.org/wiki/Jacobus de Theramo">Jacobus
+de Theramo</ref>. Der Autor, Professor des kanonischen Rechts
+in Padua, hatte in einem theologisch-erbaulichen Buch alle Formularien des
+Prozeßganges nachgebildet: Erhebung der Klage, Ladung vor Gericht, Bestellung
+eines Prokurators, Verhandlung, Entscheidung, Appellation, Verhandlung vor dem
+Schiedsgericht, Schiedsspruch. Der Belial wurde in Augsburg 1472 zunächst in
+lateinischer Sprache gedruckt (Copinger 5791); in deutscher Sprache erschienen
+in Augsburg zwischen 1472 und 1500 nicht weniger als 14 Ausgaben.<note xml:id="n30" type="footnote" n="30">Copinger
+5803, 5805-5807, 5810, 5811, 5814-5816, 5818-5820,
+Voullieme: Berlin 208,5 und ein weiterer Druck.</note>
+                </p>
+<p>
+    Zwei Bücher sind schließlich noch zu nennen, die tief durchdrungen waren
+von dem Streben nach Ordnung und Besserung der Verhältnisse; sie gehören zu den
+Reformschriften des 15. Jahrhunderts und haben auch wesentlich zur Rezeption
+des römischen Rechts beigetragen. Als "ein nützlich rechtbuch, darin geistlich
+und weltlich Ordnung begriffen", wurde die von dem Dominikaner Berthold
+herrührende deutsche Bearbeitung der Summa confessorum des Johannes von
+    <a name="12"/> Freiburg angesehen. Mit dem Versuch des Bruder Berthold,
+römisches und deutsches Recht, kodifiziertes Recht mit Gewohnheit und
+Landesbrauch zu verbinden, entstand ein wichtiges Lehrbuch für Laien, das in
+Augsburg zwischen 1472 und 1495 fünfmal aufgelegt wurde (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7367">Hain
+7367</ref>-<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7369">7369</ref>, <ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7374">7374</ref>,
+<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=7376">7376</ref>). Zum Besten
+der weltlichen Richter entstand der Klagspiegel, ein Hilfsbuch, dessen
+unbekannter Verfasser römisches Zivilrecht und kanonisches Recht ausgezogen
+hatte und eigenständig ein theoretisches Kompendium und zugleich ein
+praktisches Nachschlagewerk mit Anweisungen für den Gebrauch bei Gericht
+geschaffen hatte. Der Klagspiegel wurde in Augsburg dreimal gedruckt (<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=3728">Hain
+3728</ref>-<ref target="http://www.inka.uni-tuebingen.de/cgi-bin/inkunabel?status=Suchen&amp;naw=Hain&amp;snachweis=3730">3730</ref>).</p>
+<p>
+    Die in Augsburg erschienene Rechtsliteratur ist in einem besonderen Aspekt
+vergleichbar mit den Ausgaben antiker und humanistischer Schriften, die
+Augsburger Druckoffizinen herausbrachten. Nicht die Bücher des römischen und
+kanonischen Rechts in lateinischer Sprache, nicht die vielbändigen Kommentare
+gelehrter Juristen wurden in Augsburg gedruckt, sondern neben den einheimischen
+Rechtsbüchern Bearbeitungen der lateinischen Rechtsliteratur in deutscher
+Sprache und bezogen auf deutsche Verhältnisse. Mit der Vervielfältigung und dem
+Vertrieb solcher Bücher haben Augsburger Drucker einen noch nicht gewürdigten
+Beitrag geleistet zur Rezeption des römischen Rechts.<note xml:id="n31" type="footnote" n="31">Stintzing,
+Roderich: Geschichte der populären Literatur des
+römisch-kanonischen Rechts in Deutschland am Ende des 15. und im Anfang des 16.
+Jahrhunderts. — Leipzig, 1867. Neuduck Aalen 1959.</note> Diese Bücher
+vermittelten notwendige Kenntnisse, wollten bilden und belehren und einer
+geordneten Rechtspflege dienen.</p>
+<p>
+    Ordnung und Rechtssicherheit waren dringende Bedürfnisse der Zeit. Gegen
+Unwissenheit und Willkür der Gerichte, auch der Fürsten und Herren, wurde
+Abhilfe erwartet von der Anwendung des geschriebenen Rechtes. In diesem Sinne
+schuf Jodokus Pflanzmann sein Lehnrechtsbuch. Der Vorbesitzer unseres Exemplars
+des kaiserlichen Lehnrechts hat ihn recht verstanden. Er vereinigte das
+Lehnrechtsbuch und das Schachzabelbuch des <ref target="http://de.wikipedia.org/wiki/Jacobus de Cessolis">Jacobus
+de Cessolis</ref>,<note xml:id="n32" type="footnote" n="32">Jacobus de
+Cessolis: Schachzabel. (Augsburg: Johann Schönsperger 1483) / mit einem
+Nachwort von Anneliese Schmitt. — Leipzig, 1981. — (Bibliothek seltener
+Bücher. Neudrucke ; 2).</note> eine Allegorie auf die ständisch geordnete
+weltliche Gesellschaft, in einem Bande mit der Druckausgabe der <ref target="http://de.wikipedia.org/wiki/Reformatio Sigismundi">Reformatio
+Sigismundi</ref>.</p>
+<p>
+    Ursula Altmann<note xml:id="n33" type="footnote" n="33">Für wertvolle Unterstützung bei der
+Abfassung dieses Nachwortes danke ich Frau Gerda Strauß. Mein Dank gilt auch
+Matthias Gabbe, mit dessen Hilfe ich insbesondere die Grundlagen erarbeiten
+konnte.</note>
+                </p>
+</div>
+        </body>
+    </text>
+</TEI>

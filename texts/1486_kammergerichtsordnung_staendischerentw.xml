@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1486_kammergerichtsordnung_staendischerentw">
+    <teiHeader>
+  <fileDesc>
+   <titleStmt>
+   <title>Ständischer Entwurf einer Kammergerichtsordnung. 1486, April :: Transkription Speer 2010 / 2016</title>
+            </titleStmt>
+  <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+ <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial">
+<head>[Editorial]</head>
+<p>[Quelle: Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit / bearb. von Karl Zeumer. - 2., verm. Aufl. - Tübingen (1913) 276ff.]</p>
+            </div>
+            <div xml:id="Vorspann">
+<head>[Vorbemerkung Zeumers]</head>
+ <p>
+ Nach Minutoli, Das Kaiserliche Buch des Markgrafen Albrecht Achilles, Berlin
+1850, S. 274ff., unter Berücksichtigung der Mitteilungen von Friedrich Wagner,
+Ztschr. für preußische Geschichte und Landeskunde, Bd. XVIII, S. 338 ff. —
+1487 wurde derselbe Entwurf (Datt, de pace publ., S. 718 ff.) von den Ständen
+wieder zur Beratung vorgelegt; aus diesem neuen Entwurf wird nur die wichtigste
+Änderung in der Anmerkung zu § 21 gegeben.</p>
+            </div>
+            <div xml:id="Text">
+<head>Das keyserlich camergericht nachvolgendermaß zu ordnen:</head>
+
+<div xml:id="A1">
+ <head>[Abs. I]</head>
+ <p>
+<index level1="Kammergericht" level2="Besetzung"/>
+<index level1="Kammergericht" level2="Mehrheitsprinzip"/>
+Zum ersten, das keyserlich cammergericht zu besezen mit einem cammerrichter,
+der aufs wenigst ein grave sey, und zwölf beysizern [urteilern], die dreyzehen
+redlichs erbers wesens, wissens, ubung und ye der halb teil der recht gelert
+und gewirdigt, und die andern ufs geringst von der ritterschafft geborn sein
+sollen, und was die zwölf beysitzer oder der merer teil in sachen erkennten,
+und ob sie spennig und auf iglichen teil gleich wern, welchen dann der richter
+ein zufall tut, dabey soll es bleiben.</p>
+                </div>
+
+<div xml:id="A2">
+ <head>[Abs. II]</head>
+ <p>
+<index level1="Richtereid"/>
+<index level1="Beisitzereid"/>
+Des richters und beysitzer eyd. Item, die alle sollen zuvor der keys. maj.
+geloben und zu den heiligen sweren, sr. keys. gnad gericht getreulich und
+fleißig obzusein und nach des reiches recht und loblicher ubung des hofs, auch
+nach redlichen, erbarn und leidelichen ordenungen, statuten und gewonheiten der
+fürstenthümer, herrschafften und gericht, die für sie bracht werden, so ferrn
+die ordnung und satzung kays. geschriebner recht gemeß und leidenlich sein, dem
+hohen und dem niedern gleich zu richten, und kein unredlich sach sich dogegen
+bewegen zu lassen, und von partheyen oder niemand, keiner sachen halben, so in
+gericht hangt oder hangen würde, gabe, schencke oder einigen nutze durch sich
+selbs oder durch andre zu nemen, auch kein sundre parthey im gericht oder
+anhange und zufalle in urteiln zu suchen oder zu machen, und was in ratslagen
+von sachen aus böser meynung nicht aufhalten oder verziehen on alles
+geverde.</p>
+                </div>
+
+<div xml:id="A3">
+ <head>[Abs. III]</head>
+<index level1="Geschenkannahme durch Richter oder Beisitzer"/>
+ <p>
+ Ob aber nach erkannten entlichen urteiln von parthien dem hofrichter oder den
+beysitzern einen oder mer von eßenspeiß eins gülden werth ungeverlich zu einer
+erung geschenckt würde, solten sie die erbarkeit der partheien darinnen nicht
+verachten und möchten solches annehmen, als des reichs recht solches auch
+erlaubt, und eine erbere ubung ist.</p>
+                </div>
+
+<div xml:id="A4">
+ <head>[Abs. IV] Gerichtsschreiber eydt.</head>
+<index level1="Gerichtschreibereid"/>
+<p>
+Item es sollen geordent werden zween glaubhafftige gerichtsschreiber und ein
+leser, die auch der keyserlichen maj. globen und sweren sollen, ihrem amt
+getreulich obzusein und auffzuschreiben, und den partheyen oder niemand zu
+offnen, wes von den Sachen in ratslegen des richters und urteilern gehandelt
+wirt, die heimlich gerichtshendel on laub und erkenntniß niemant offnen, leßen
+oder sehen laßen, auch kein besunder schenck noch nutz, außerhalb irer arbeit
+zu nemen oder ine zu nutz nemen lassen, ausgescheiden eins guldin werdt, nach
+entlichen urteilen, alles, wie nechst gemelt ist, alles on geverde.</p>
+                </div>
+
+<div xml:id="A5">
+ <head>[Abs. V]</head>
+<index level1="Advokateneid"/>
+<index level1="Rednereid"/>
+ <p>
+Item die advokaten oder redner, so das gericht zu solchen aempten aufnimmt,
+sollen globen und sweren, daß sie die sachen, so sie annemen oder in bevolhen
+werden, iren partheyen zu gut mit vleis handeln und dorin kein geverlichkeit
+suchen oder furnemen wollen, wie recht sey, auch heimlichkeit der sachn zu
+schaden nicht eröffnen, das gericht und gerichtspersonen ern und fürdern und
+vor gericht erberkeit geprauchen und lästerung bey pene nach ermessung des
+gerichts sich enthalten, alles ungeverlich.</p>
+                </div>
+
+<div xml:id="A6">
+ <head>[Abs. VI]</head>
+<index level1="Aufsichtspflicht von Richter und Beisitzer"/>
+ <p>
+ Item cammerrichter und beysizer sollen aufsehen haben, daß die procuratores
+und redner, die die sachen vor gerichten handeln, verstendig und fleißig sein,
+die auch in irem aufnemen globen und sweren sollen, den partheien ihre sachen
+getreulich zu handeln, kein unwarheit wissentlich in sachen zu gebrauchen oder
+geverlich schub und dilation zu verlengerung der sachen zu suchen, des die
+partheien zu thun, oder zu suchen nicht unterweisen, und daß sie um ein anzahle
+des, so erlanget würde, mit der partheien nicht vereinigt sein, auch das
+gericht und die gerichtzpersonen zurücke mit unwarheit nicht schmehen, sondern
+ern und fürdern, und vor gericht bey penen und strafe nach erkenntniß des
+gerichts lästerung und schande sich zu enthalten, alles on geverde.</p>
+                </div>
+
+<div xml:id="A7">
+ <head>[Abs. VII]</head>
+<index level1="Eidespflicht"/>
+ <p>
+Item ob fürsten, graven, herren, ritterschafft oder stette durch ire anwelde
+oder redner oder auch andre ire sachen selbst reden oder handeln wolten, des
+ydermann zu tun macht hat, so sollen dieselben anwelde und redner oder die
+partei disen vorgenanten eydt thun, zuvor und ehe die zu handeln zugelassen
+werden.</p>
+                </div>
+
+<div xml:id="A8">
+ <head>[Abs. VIII]</head>
+<index level1="Gerichtsboten"/>
+ <p>
+ Item die geswornen boten sollen schreiben können und die gerichtsbrive
+denjenen, die die berüren, ob sie füglich mögen, zu handen oder aber in ihre
+gewönliche behausung oder heymwesen oder an die end in den briven angezaigt
+getreulich antworten, und copeien in gleich lauts inen oder an denselben enden
+lassen, auch des zeit und statt auf die briefe mit ihren henden zeichen, und
+des getreulichs dem gericht oder gerichtsschreiber relation thun, und das alles
+selbs tun und nymants anders bevelhen.</p>
+                </div>
+
+<div xml:id="A9">
+ <head>[Abs. IX]</head>
+<index level1="Gerichtsboten" level2="Schutz und Geleit"/>
+ <p>
+Item des gerichts glaubhafftige geswornen boten sollen allenthalben im reiche
+der keyserlichen majestät und in allen churfürstenthümern, fürstenthümern,
+graveschafften, herrschafften und oberkeiten, iglichs churfürsten, fürsten,
+graven, herren und andern geleit, sicherheit und schirm haben; und ob in
+einicher der vorgemelten oberkeit die boten, einer oder mer, in
+gerichttzgeschefft beschedigt würden, solt derselbig churfürst, fürst, grave,
+herre oder andre, in des oberkeit die beschedigung bescheen wäre, solich
+schaden ablegen, so viel sich des boten zerung und das keyserliche wappen, op
+ime das genommen were, ungeverlich liefern und auch um den frevel der
+verletzung und verachtung der keyserlichen majestät gegen den beschedigern,
+iren gönnern und anhengern nach vermögen mit ernst handeln, und handeln laßen,
+bey den pflichten, so sie uns verwand seyn.</p>
+                </div>
+
+<div xml:id="A10">
+<head>[Abs. X]</head>
+<index level1="Ersetzung von Beisitzer / Gerichtsschreiber"/>
+ <p>
+Item so der beysitzer einer oder mere oder auch ein gerichtsschreiber abkeme,
+solt der cammerrichter macht haben, mit rate der beysizer oder des merertails
+mit der kays. maj. wissen und willen einen andern des gleichen stands anzunemen
+und die stat zu ersezen, doch uf glubd und eyde, wie vorgeschrieben.</p>
+                </div>
+
+<div xml:id="A11">
+ <head>[Abs. XI]</head>
+ <p>
+Item als über den gerichtskosten den partheien aus den orten des reichs
+merglich kost und zerung uf die sachen geet, dadurch die partheien vilmahl zu
+verderben kommen, solten hinfür die zweite appellation zu der dritten
+rechtvertigung, so die hauptsache nicht über zweyhundert gülden antreffe, durch
+das cammergericht nit angenommen, sondern bey den fordern urteiln gelaßen
+werden.</p>
+                </div>
+
+<div xml:id="A12">
+    <head>[Abs. XII]</head>
+    <p>
+Item zu fürderlicher vertigung, auch gewißheyt der parthey fürbrengens und
+irrung, die zu zeiten sich erzeigt hat, zu verhüten, sollen hinfür alle sachen,
+die sich anfenglich under dreyhundert gülden ungeverlich treffen, in schrifften
+gehandelt, also daß iglicher teil sein fürbrengen schriftlich tue und dem
+widerteil des abschrifft und schub gegeben werden, wie die notdurfft das
+ervordern würde. Ob auch in grössern sachen die parteien sich verwilligten,
+oder aber ein teyl des begert, so solten dieselben sachen auch schrifftlich
+werden gehandelt, uß ursachen, wie vor gemelt.</p>
+                </div>
+
+<div xml:id="A13">
+	<head>[Abs. XIII]</head>
+<index level1="Legitimation der Anordnungen des Kammergerichts"/>
+	<p>
+Item alle citationes und gerichtsbrive sollen ußgeen in namen und titel der
+keys. maj. und richter und beysizer, nicht in crafft eines bevehls, als
+commißarien und underrichter, sundern als ernannte von der keys. majestät
+ordentlich richten und erkennen über alle ständte in sachen, der keys. maj.
+unterworffen.</p>
+                </div>
+
+<div xml:id="A14">
+	<head>[Abs. XIV]</head>
+	<p>
+Item das cammergericht soll in der ersten instanz oder rechtfertigung auf
+niemants clag oder ansuchen ladung erkennen oder geben gegen denjenen, die der
+keyserlichen majestät und dem reiche nicht on mittel unterworfen sein, und doch
+sunst iren ordenlichen richter haben; und ob ymand die erlangt, solt mit samt
+allem handel darauf gevolgt null und uncräfftig, und der darüber ladung
+ußbrecht, kost und scheden, ob die dem widerteil darauf gangen wern, abzulegen
+schuldig sein, wann solchs des reichs rechten gemesse und in freyheiten der
+churfürsten und ander vervast ist.</p>
+                </div>
+
+<div xml:id="A15">
+	<head>[Abs. XV]</head>
+	<p>
+Item das cammergericht soll in der ersten instanz oder rechtfertigung auf
+niemants clag oder ansuchen ladung erkennen oder geben gegen denjenen, die der
+keyserlichen majestät und dem reiche nicht on mittel unterworfen sein, und doch
+sunst iren ordenlichen richter haben; und ob ymand die erlangt, solt mit samt
+allem handel darauf gevolgt null und uncräfftig, und der darüber ladung
+ußbrecht, kost und scheden, ob die dem widerteil darauf gangen wern, abzulegen
+schuldig sein, wann solchs des reichs rechten gemesse und in freyheiten der
+churfürsten und ander vervast ist.</p>
+                </div>
+
+<div xml:id="A16">
+	<head>[Abs. XVI]</head>
+<index level1="Kammergericht" level2="Sitz"/>
+	<p>
+Item zu dieser zeit solt das cammergericht an ein gelegen statt im reiche
+gelegt, gehalten und doselbst gelaßen werden, oder an ein ander treffenlich
+stadt gerückt werden, do die partheien gelarte und wissende leut zu ihren
+sachen bekommen mögen, biß so lang die keys. maj. sich wird niderlassen, ein
+gut zeit doselbst zu verharren und hofe zu halten.</p>
+                </div>
+
+<div xml:id="A17">
+	<head>[Abs. XVII]</head>
+	<p>
+Gedenckt, das gericht ungelts und beswerung in reichstädten zu freyen,
+ungeverlich.</p>
+                </div>
+
+<div xml:id="A18">
+	<head>[Abs. XVIII]</head>
+	<p>
+Item nach ansehen diß fürnemens ist not, cammerrichter, urteiler und ander
+personen, die dem gericht verpflichtet und zu warten verbunden sein sollen,
+redlich zu versolden, das doch alles von der keyserl. maj. darlegen geschehen
+möcht. Deshalb solten sportuln auf die sachen gesetzt und auch die
+gerichtsbrieve ziemlicher weiß taxiert werden, nemlich solt ein jeder clager,
+im anfangk des rechtens von der summ in seiner clag bestimt von yeden hundert
+gülden zween gülden, und der summ, die sich über tausend gülden lief, ye vom
+hundert ein gülden; aber so die summ über zwey tausend gülden lief, von dem
+übrigen ye von hundert ein halben gülden geben. Solch gelt, sportule genannt,
+die parthei, die nach der entlichen urteil in die kosten und scheden geteilt
+wirdet, der behabenden partheyen widergeben und ausrichten. Es solt auch für
+ein schlechte citation ein gülden und ein ohrt, für ein citation, darinn eine
+inhibition inserirt were, zween gölden und ein ohrt, für compulsorial- oder
+zwangsbrieve zween gülden und ein ohrt, für ein commission, kundschafft oder
+zeugniß zu verhören, 6 gülden und ein ort, und für ein commission, in welcher
+ein ganze sach mit allen anhängen und umbstenden zu endlichen entscheid
+bevohlen wirdet, auch für ein commission in appellationssachen und für
+urteilsbrive gegeben und genommen werden, nach anzale, auch auf masse und
+weise, wie vor von den sportulis angezeiget ist. Von solchem geld den
+gerichtpersonen ir solt volgen und ausgericht werden solt. Ob auch gebots- oder
+ander brive durch rechtlich erkentniß zu geben erkant oder sunst auf ansuchen
+und zu notdurfft der partheien außerhalb rechtlichs erkentniß gegeben, und
+ausgeen würden, dieselben sollen auch nach ziemlicher leidlicher weise taxirt,
+und die partheien darinn nit übersetzt noch beswert werden.</p>
+                </div>
+
+<div xml:id="A19">
+	<head>[Abs. XIX]</head>
+<index level1="Ladungsungehorsam"/>
+	<p>
+Wie man uff ungehorsam einichs teyls volfar etc. Item, so parthein zu recht
+erstlich erfordert und vertagt sein, erscheint der cläger nit oder nymand von
+seinen wegen, also daß die sach mit clage und antwort unvorfast ist, so soll uf
+des antworters anruffen der cläger ungehorsam und den gerichtskosten abzulegen
+erkant werden; were aber die sache mit clage und antwort verfast, so möcht das
+gericht vollfaren und urteiln für den cleger oder antworter, nach gestalt des
+gerichtshandels; doch solt der gehorsame teil, op derselbe die urteil verlohren
+hette, den gerichtskosten abzulegen nicht schuldig sein.</p>
+                </div>
+
+<div xml:id="A20">
+	<head>[Abs. XX]</head>
+	<index level1="Ladungsungehorsam"/>
+	<p>
+Würd auch der antworter in der ersten rechtvertigung oder in der
+appellationsach ungehorsam, so solt durch des clägers anruffen das gericht
+kundschafft und ander fürbrengen hören und vollnfaren biß zu entlicher urteil;
+und ob für den ungehorsamen urteil gesprochen würde, so solt doch der gehorsame
+cleger der kost und scheden entledigt werden.</p>
+                </div>
+
+<div xml:id="A21">
+	<head>[Abs. XXI]</head>
+	<index level1="Achturteil durch Hofrichter"/>
+	<p>
+Item zu volstreckung der urteil und fürderung der gerechtigkeit soll der
+hofrichter macht haben, uf erkentniß des gerichts die achturteil zu sprechen
+und in die acht zu verkünden, wie die keys. maj. hie vor persönlichen gethan
+hat, und das gericht ferner proceß darauf geben und vollnfarn und auch durch
+ander weg execution thun, wie die in iglicher sachen die füglichsten angesehen
+werden.</p>
+                </div>
+
+<div xml:id="A22">
+	<head>[Abs. XXII]</head>
+	<index level1="Appellation von Beiurteilen"/>
+	<index level1="Interlokutorien"/>
+	<p>
+Item als teglich durch unnotdürftig und freveliche appellationes, die von
+beyurteiln, interlocutoriä genannt, geverlich verlengerung des rechten
+beschehen, auch vil kost und scheden erlitten werden, soll hinfür das
+cammergericht die appellationes von solchen interlocutorien nicht annemen, wo
+die beswerung in der appellation bestimt, durch die appellation von den
+enturtel der hauptsachen möcht erstatt und widerbracht werden, wie das in kays.
+rechten geordent und begriffen ist.</p>
+                </div>
+
+<div xml:id="A23">
+	<head>[Abs. XXIII]</head>
+	<index level1="Prozessbeschleunigung"/>
+	<p>
+Item das cammergericht soll seinen stracken lauf haben, unverhindert einicher
+restitution oder aufslege, die aus ordentlicher form und erkentniß des gerichts
+nicht erlangt oder durch beede parthien gewilliget weren.</p>
+                </div>
+
+<div xml:id="A24">
+	<head>[Abs. XXIV]</head>
+	<index level1="Gerichtssiegel"/>
+<p>
+    Item so die gerichtsbrive ausgeen sollen under titel, namen und sigel der
+keys. maj., so ist not, daß darauf bey dem gericht ein sigel oder secret sey,
+gleich der kays. maj. cantzleisecret, doch mit etwas unterscheide, auf daß
+nichtz dann gerichtzhändel darunter mögen ververtigt werden.</p>
+                </div>
+
+<div xml:id="A25">
+	<head>[Abs. XXV]</head>
+	<index level1="Gerichtstermine"/>
+	<index level1="Gerichtsferien"/>
+	<p>
+Item das cammergericht soll drey tag in yder wochen werden gehalten,
+ausgescheiden was Got zu lobe oder zu notdurfft der menschen gebannte ferien
+sind, ungeverlichen.</p>
+                </div>
+
+<div xml:id="A26">
+	<head>[Abs. XXVI]</head>
+<p>
+    Wir wollen auch nymant hiemit sein oberkeit, privilegien oder freyheit
+benemen und abschneiden, sundern vorbehalten haben, yedoch ob ymant begnadigt
+wer, des reichs echter zu halten, wollen wir, daß dieselben freyheit wider
+vollnstreckung der urteil unsers keyserl. cammergerichts nicht gebrucht, und
+die echter dawider nicht sollen geschüzt oder enthalten werden.</p>
+                </div>
+</div>
+        </body>
+    </text>
+</TEI>

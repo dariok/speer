@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1486_noerdlingenappo">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>                 
+				<title>Nördlingen Appellationsordnung 1486 :: Transkription Speer 2010 / 2016</title>
+            </titleStmt>
+<publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+<revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div xml:id="Einleitung">
+	<head>[Einleitung]</head>
+	    <p>
+1. Die Appellationsordnung der Reichsstadt Nördlingen ist auf einer Papierlage
+(Signatur: 12) von acht Blättern (31 1/2 cm x 23 cm) niedergeschrieben, wovon
+das erste Blatt (unbeziffert = Fol. 0) zugleich Titelblatt ist und über dem
+deutschen Titel (s. Text) die Aufschrift trägt: Modus et forma appellandi
+reipublicae Nördling(ensis) de anno i486.<note xml:id="n1" type="footnote" n="1">Von der Hand der zweiten
+Handschrift der Gerichtsordnung von 1488 geschrieben.</note> Wasserzeichen des
+Papiers: Ochsenkopf (in die Länge gezogen).</p>
+<p>
+2.  Auf der Rückseite des letzten Blattes (Fol. 7) steht das im Anhang zur
+Appellationsordnung abgedruckte Schreiben der Stadt an Ulrich Tengler, den
+früheren Stadtschreiber zu Nördlingen. Da auf dem Gegenblatt (Fol. 0) über dem
+lateinischen Titel die Anschrift an den damaligen Kastner zu Heidenheim (an der
+Brenz, damals in bayerischem Besitz, nicht Heidenheim am Hahnenkamm) Ulrich
+Tengler steht, die wie die Appellationsordnung und das Schreiben von derselben
+Hand herrührt, und da an zwei Stellen, wo die Schreiben mit dem Siegel
+verschlossen zu werden pflegen, noch Spuren von rotem Wachs sichtbar sind, so
+besteht eine gewisse Wahrscheinlichkeit, daß dieses Schreiben (samt der
+Appellationsordnung) in den Händen Tenglers war, ohne daß wir jedoch sein
+Gutachten darüber besitzen.</p>
+<p>
+Das Schreiben läßt zum erstenmal die bisher ganz unbekannte Tatsache erkennen,
+daß <name type="person">Ulrich Tengler</name> nach seinem Weggang von
+Nördlingen (1483 oder 1484!) zunächst für mehrere Jahre (s. oben allg.
+Einleitung) Kastner in seinem, damals bayerischen Geburtsorte <name type="place">Heidenheim
+a. Brenz</name> war.</p>
+<p>
+Auf einem Einlageblatt findet sich das Konzept des Art. 13 der
+Appellationsordnung niedergeschrieben. Die Appellationsordnung selbst ist
+zweifellos 1486 niedergeschrieben. <pb n="S. 326"/>
+                </p>
+            </div>
+        </front>
+        <body>
+            <div xml:id="Editorial">
+<head>[Editorial]</head>
+<p>Quelle: Nördlinger Stadtrechte des Mittelalters / bearb. von Karl Otto Müller. - München : Verl. der Kommission für Bayerische
+Landesgeschichte, 1933.  (Bayerische Rechtsquellen ; 2) 325 - 332. <pb n="S. 325"/> </p>
+            </div>
+            <div xml:id="Text">
+		
+<head>Von ordnung der appellation wegen. Nördlingen 1486.</head>
+
+<div xml:id="Art.1">
+	    <head>[1.] Von appellieren.</head>
+<p>	       
+Nach dem bisher durch unmässig uberflissig und unnotdürftig appellation, die im
+rechten verpoten, vil widerwärtikait und irrung entstanden sein, die unseren zu
+mißtrawen und ainander zu unpillichen schaden eingefürt; solichs und ander
+ungepür, die darus entsteen möchten zufürkomen und uf daz ain ieder, der
+vermain, in urtailen beswert zu sein, wie er appellieren und sich darin halten,
+auch in was sachen man kain appellation zulässe noch appellieren sölle, so
+haben wir insonderhait etlich stuck, so geverd darin vermerkt ist, begriffen
+und bei swärer strauf gepoten davon nit zu appellieren; dann ob iemands
+gevarlich darwider appellieren [wurd], so wurd doch derselben appellation kain
+stat gegeben noch die angenomen, sonder der und die selben, so die appellation
+täten, auch die in der helfen anhangen, in swär strauf on all genad
+angenomen.</p>
+                </div>
+
+<div xml:id="Art.2">
+<head>[2.]   In was sachen man nit appellieren söll.</head>
+	    <p>
+Von ersten wer nit appelliert nach der ordnung, wie die hernach gesetzt würdet,
+des appellation werdet kain stat geben.</p>
+<p>
+Zum anderen so iemand mit recht oder vor ainung umb ain kuntlich übertreten und
+ungehorsam unser gepot gesatzt oder ordnung oder umb ain ander ubeltät sach und
+unbeschaidenhait ain strauf und unrecht ufgelegt würdet, davon mag noch soll
+man nit appellieren.</p>
+		<p>
+Zum dritten wer sich mit lautern worten in sachen vor rät oder gericht erloffen
+siner appellation verzeicht oder durch swigen und in ander weg die appellation
+begeit und vermainet darnach zu ainer andern zeit zu appellieren, des
+appellation würdet nit angenomen.</p>
+		<p>
+Zum vierden wem man die fürbot zum rechten entlich nach der stat recht verkündt
+und durch daz gepurlich im rechten wissent 
+[wirt], wirt durch iemand daz veracht und darüber
+wider in im rechten procediert: wa das derselb von der urtail vermainet zu
+appellieren, so er durch sein geverlich wissentlich ungehorsam und verachtung
+und unfuͦr gepracht eehafte not klagfellig wurd, desselben appellation
+würdet nit angenomen.</p>
+		<p>
+Zum fünften wer im rechten ainer schuld mit lautern worten vergicht 
+oder der mit gnuͦgsamer urkund
+überwunden wurd, ob der allain von der bezalung gevarlich appellieren vermaint,
+des appellation nimpt man nit an.</p>
+<p>		       
+Zum sechsten von den underschaiden, die man mit den verpfandungen nach der stat
+recht geit, sol nieman appellieren. Ob aber iemand denselben entschaid
+mißpraucht, dem ist sein clag, als recht ist, vorbehalten.</p>
+<p>		       
+Zum sibenden wann man die schaden taxiert, von derselben tax sol man nit
+appellieren.</p>
+<p>		       
+Auf daz auch die k. m<hi rend="sup">t</hi> durch klain sachen mit appellation nit belestigt,
+auch die unsern ainander nit mit klainen sachen zu grossen müe, costen und
+schaden einfüren, so haben wir gesatzt und gepoten, daz die unsern füran in
+solichen klainen sachen, die under 10 guldin rh. sein, nicht weiter dann für
+ainen klainen rat appellieren söllen.</p>
+<p>		       
+Ob aber iemand so dürftig wer und über solich obgeschriben 
+artikel ain appellation fürnemen oder
+tuͦn wurd, der und die selben söllen in ains ratz ungnad und strauf
+gefallen, auch in unser stat ain jar verpoten, und wollten si darnach wider in
+die statt, so söllen si und ain ieder insonderhait ainem rat 10 guldin rinisch
+zuͦ buͦß voran, ee si in die stat kommen, zu bezalen verfallen sein;
+darin aim erbern rate sein oberkait vorbehalten.</p>
+<p>			   
+Wa man appellation nit zulaußt am gericht, daz sol man schriftlich dem
+burgermaister anzaigen, daz er sich darnach mög gerichten.</p>
+                </div>
+
+<div xml:id="Art.3">
+<head>[3.] Wie man appellieren sölle.</head>
+<p>
+Wirdet iemands in ainer urtail vor unserer stat gericht beswärt in sach, davon
+man appellieren mag, als hie vor underschaiden ist, der soll im fußstapfen, die
+weil die richter sitzent, gleich nach derselben urtail, eemalen man zu anderen
+händeln merklich griffe, auch ee die widerparthei weder aid oder nichtz weiters
+volzogen oder erlangt hab, selbs muntlich vor dem amann und den richtern in
+beiwesen der widerparthei solichs mit ersamen 
+beschaiden worten tuͦn und sich berüfen fur ainen
+klainen rat und sonst nindert hin und 
+begeren nit weiter procedieren, sonder im
+appostel zu geben und alsdann geit im der amann die antwurt, er sölle sich
+darumb gegen dem burgermaister inner zehn tagen anzaigen und daz er in ainem
+monat dem nechsten nach der appellation vleissig übung tue, die
+gerichtzhandlung für die appostel verslossen anzuͦnemen, dann wa er daz nit
+tuͦn, so wurde die urtail in craft gen und ferrer im rechten procediert und
+darzuͦ strauf und buͦß verfallen sein einem rate umb 4 lib. und dem
+gericht 2 lib.</p>
+			    <p>
+Ob aber die geappelliert parthei bedächtz notturfig wer, möcht der amann sagen,
+ob er also frischer tat geappelliert, hette er dannocht macht inner den
+nechsten zehn tagen der appellation an zuͦ hangen oder fallen zuͦ
+la*ussen.</p>
+                </div>
+
+<div xml:id="Art.4">
+<head>[4.] Von den apposteln.</head>
+<p>
+Wann ainer als oben steet, geappelliert hat, so soll er sich auch von stundan
+zum gerichtschreiber fügen und vleissig üben umb die appostel, die geit man im
+also, daz man rede und widerrede auch die urtail und 
+was im rechten gepraucht ist durch den fürsprechen
+versamelt und inschrift verfasset; die sol er under des amanns insigel
+verslossen annemen und dem burgermaister antwurten in dem berürten monadt. So
+bescheidt in der burgermaister alsdann in die cantzlei umb tagsatzung und er
+geit uf denselben handel umb dieselben appostel 4 groß der werung und dem amann
+vom sigel 8 den[a]r.</p>
+                </div>
+
+<div xml:id="Art.5"> 
+<head>[5.] Rechtfertigung der appellation.</head>
+<p>
+Es sollen baid partheien auf die tagsatzung für rat komen und durch ir alt
+fürsprechen zuͦ recht fürsteen und der geappelliert hat anfengklich die
+schrift, die im für appostel, wie die sachen vor dem statgericht im rechten
+ergangen sint, verhören lassen und daruf die ursachen siner beswärde der urtail
+durch den fürsprechen einfüren; dagegen der ander tail auch sein widerred und
+beden teil alle notturft und was vor im rechten nit geprucht worden ist,
+fürwenden mögen und sol alsdann darumb bescheen, was recht ist. Wurd dann mit
+recht erkennt, daz ubel geappelliert und wol geurtailt were, so sollen die
+partheien wider umb für daz statgericht komen und  
+verrer procediert werden. Wa aber erkennt wurd, daz
+ubel geurtailt und wol geappelliert wär, so söllen die parteien mit urtail vor
+rat ferrer entschaiden werden nach dem rechten. So auch der handel von
+fürsprechen für rat getragen wirt, so söllen si bei der urtail nit sein,
+<pb n="329"/> sonder davon treten; aber
+die der rät zu den zeiten am statgericht gewesen, sollen und mogen dabei
+beliben und nach irem versteen urtailen.</p>
+                </div>
+
+<div xml:id="Art.6">
+<head>[6.] Von den schäden der appellation und vom unrecht.</head>
+<p>				       
+ Welcher tail die urtail auf die appellation verlürt, der sol sich mit dem
+anderen umb die schäden der appellation darnach inner den nechsten achtagen
+gütlich vertragen. Beschee daz nit, wer dann übel geurtailt erkennt, so söllt
+uf des begerenden tails anrüfen darumb rechtag gesetzt werden für ain klainen
+rat und gescheen, was recht ist vor wittern processen, die auch vor aim rat
+gerechtvertigt werden söllen, wie oben steet. Wer aber wol geurtailt erkent, so
+geschicht im statgericht darumb, was recht ist ee man verrer procediert in der
+hauptsach.</p>
+                </div>
+
+<div xml:id="Art.7">
+<head>[7.]  Appellieren von ainem rat mundtlich.</head>
+<p> 
+Wirdet aber iemand mit ainer urtail vor ainem rat beswärt, in sachen davon man
+als vorsteet, appellieren [!], der mag daz tuͦn mundtlich im fußstapfen oder
+inner zehn tagen vor offem notari fur unseren allergnädigesten herren den
+römischen keiser und sunst nindert hin und tuͦt er es mundtlich, so geit man
+im in beiwesen des widertails die antwurt. Ist er unser burger oder der unser,
+daz er des ersten werd globen und sweren den hernach geschriben aid.</p>
+                </div>
+
+<div xml:id="Art.8">
+<head>[8.] Der aid vom appellieren.</head>
+<p>
+Du wirst globen und sweren, daz du die appellation nit gevarlich umb verzug und
+verlengerung tuest, sondern allain umb deins rechten notturft willen
+ungeverlich.</p>
+                </div>
+
+<div xml:id="Art.9">
+<head>[9.]  Antwurt uf den aid.</head>
+<p>					   
+Und so er gesworen hat, so sagt man im, er sei burger oder andrer: wie wol ain
+rat vermeint, im söllt die appellation nit not getan haben, iedoch der k<hi rend="sup">n</hi>.
+m<hi rend="sup">t</hi>. zu eren und undertänigkait so lasse ain rat die appellation bescheen und
+man wölle im die gerichtzhandlung für appostel geben; die söll er fordern und
+nemen in der cantzlei inner 30
+tagen und er sölle der appellation inner jar und  tag nachkomen als recht ist,
+dann wa er daz nit thuͦn, so wurde die urtail in ir kreft geen; und ist er
+unser burger, sol man im dabei sagen: wa dem wie obsteet nit nachkomen [wurd],
+so wurde er <pb n="330"/> ainem rat
+darzu 20 guldin zuͦbuͦß verfallen sein, die er müßt bezalen und unser
+stat meiden, alleweil er die nit bezalt hett.</p>
+                </div>
+
+<div xml:id="Art.10">
+<head>[10.] Von ainem rat appellieren inner 10 tagen.</head>
+<p>					       
+Will aber ainer nit mundtlich appellieren, der sol das vor offen notari
+schriftlich inner zehen tagen tuͦn für die k<hi rend="sup">n</hi>. m<hi rend="sup">t</hi>. und sunst
+ninderthin und soll alsdann darnach inner 30 tagen dieselben appellation durch
+ainen notari dem burgermaister auch der widerparthei verkünden und iedem des
+instruments ain coppei geben; alsdann geit man im die antwurt und ist er unser
+burger, so muß er sweren und wirdet gehandelt, als obsteet.</p>
+                </div>
+
+<div xml:id="Art.11">
+<head>[11.] Von den appostel.</head>
+<p> 
+Für die appostel geit man gewonlich den gerichtzhandel auf pergamen besigelt
+mit der stat gerichtz insigel und zeuch es im beschlus 
+in die appellation und wie die bescheen sein, darein;
+beschicht aber die appellation vor ainem notari, also daz die appostel mit
+fuͦg nit darein zogen mögen werden, so geit man zum handel auch besigelt
+appostel, darnach die sach und appellation gestalt ist.</p>
+                </div>
+
+<div xml:id="Art.12">
+<head>[12.] Nach der appellation nit weiter attemptieren und handeln.</head>
+<p>						   
+Wer von unserm statgericht für ainen klainen rat oder von einem rat [an] die
+k<hi rend="sup">n</hi>. m<hi rend="sup">t</hi>., als obensteet, ordentlich appelliert hat, so sol man von mer
+sicherhait wegen künftig irrung zu vermeiden in derselben sachen nit weiter
+procedieren noch handeln, daz dem, der do also ordenlich geappelliert hat,
+zuͦ schaden dienen möcht, ausgenomen in den hernach geschribenen
+sachen:</p>
+                </div>
+
+<div xml:id="Art.12.1"> 
+<p>						  
+Zum ersten, ob ain burger gegen dem anderen im rechten begeren wurd sein
+guͦt, darumb er vorderung zuͦ im hett, zu verpieten und solichs mit
+urtail aberkannt, wurd dann ihener davon appellieren, so sol man dem antwurter
+von derselben appellation wegen sein gut nit in haft legen, sonder unverpoten
+volgen und in damit handeln und prawchen lassen, als ainem burger zimpt nach
+der stat recht und alten herkomen; doch möcht 
+es von sicherhait wegen nach der stat
+recht<note xml:id="n" type="crit_app" n="">
+                            <emph>nach der stat recht</emph> ist im Text versehentlich doppelt
+geschrieben.</note> bescheen lassen.</p>
+                </div>
+
+<div xml:id="Art.12.2"> 						   
+<p>
+Zum andern ob iemand appelliert in sachen davon man als obensteet nit
+appellieren sol, so mag man wol für und für procedieren.</p>
+                </div>
+
+<div xml:id="Art.12.3"> 						   
+<p>
+                        <pb n="331"/>
+
+Zum dritten ob sich iemand understeen wollt einen us seiner inhabenden
+gerüwigen nutz und gewer mit recht bringen und gieng ain urtail wider in, davon
+er appelliert, so sol man von siner appellation wegen ihenen in seiner gewer
+beliben und die nutzen und prawchen lassen.</p>
+                </div>
+
+<div xml:id="Art.12.4"> 						   
+<p>
+Zum vierden, ob ainer der appellation in der zeit, als recht ist, nit nachkomen
+wäre, so mag man wol witer procedieren und ihenen zü denselben ferrern
+processen verkünden, als recht ist.</p>
+                </div>
+
+<div xml:id="Art.12.5">
+<p>
+Wann aber ain kaiserliche inhibition ainem rat zuͦkompt, warumb daz ist,
+darnach sol man sich auch halten als sich gepürt.</p>
+                </div>
+
+<div xml:id="Art.13">
+<head>[13.] Von irrung der appellation zu rechtfertigen.</head> 
+<p>    
+Wa sich begebe, das iender[t] partheien ainer appellation zuͦ irrungen
+komen, als daz die parthei, wider die di[e] appellation bescheen wäre,
+vermainen oder klagen wurden, sein wider parthei hett die appellation nit
+ordenlich getan oder sich der versawmbt, verzigen oder in andrer weg der nit
+nachkomen, als recht ist, wie im die zeit aufgesetzt worden wäre, des im der
+selb nit gestünd und erpöt<note xml:id="n" type="crit_app" n="">In dem Konzept des Art. 13 ist <emph>und erpöt
+— ergangen</emph>, ferner <emph>Wär aber die app. — was recht ist </emph>
+leicht durchstrichen.</note> sich darumb zuͦ recht; aber im gepüret
+deshalben nit zuͦ komen für den richter, davon er geappelliert het. Wäre
+dann die appellation von dem statgericht gescheen, darvor die sachen und urtail
+ergangen, so sollen dieselben irrung für burgermaister und klainen rat betagt
+und mit recht daselbst entschiden werden. Wer aber die appellation von ainem
+rate ergangen, so sölt sölichs vor dem statgericht gerechtfertigt werden und
+bescheen, was recht ist. Erfund sich dann im rechten, daz die appellation
+ordenlich bescheen und nichtz daran versawmbt were, so sölt sölich
+rechtvertigung an der hauptsachen der appellation kainem tail vergriffenlich
+sein. Wa sich aber im rechten erfund, daz die appellation nit ordenlich
+bescheen, der nit nachkomen oder in andrer weg durch den, der geappelliert
+hett, sawmnus darin bescheen wäre und das man geverd darin versteen, wurd er
+dann vermainen widerumb zu
+appellieren,  derselben appellation nimpt man nit an, sonder man sol denselben
+umb sein geverd mit strauf fürnemen, wie sich gepürt. Wann man aber kain
+geverd, sonder etwan ainer ander redlich ursachen darin fürprächt, die in
+gehindert oder versawmbt hetten, so möcht man im der appellation dannocht ain
+mal gestatten und nit mer, also daz<note xml:id="n" type="crit_app" n="">In dem Konzept von Art. 13 fehlt der
+Schluß von <emph>also daz — recht ist</emph>.</note> <pb n="332"/>
+man niemand von ainer urtail zu dreien malen
+gestat zuͦ appellieren, sonder procedieren, als recht ist.</p>
+                </div>
+
+<div xml:id="Art.14">
+<head>[14.] Conclusio.</head>
+<p>						    
+Und uf das dis Ordnung statlich volzogen werden, sich niemands durch die
+unwissenhait des entschuldigen mög, so sol ditz ordnung ernewung und gepot
+ietzo im anfang unser gemaind in den zunften, auch vor dem statgericht und
+füran so oft es einem rate oder gericht bedunkt notdurft sein, gar oder
+ainstails so vil es sich zu ieden zeiten gepürt, offenlich verlesen
+werden.</p>
+                </div>
+            </div>
+            <div xml:id="Anhang">
+<head>[Anhang]</head>
+
+<p>
+Dem ersamen und weisen <name type="person">Uolrichen Tengler</name>, castner zu
+<name type="place">Haidenhain</name>, unserm guten fründ.</p>
+<p>
+Unser früntlich willig dienst bevor, lieber castner. Ewer nechst schriben und
+gutwillig erpieten haben wir zu sonderm dank und senden ew hiebei copei der
+appellation, mit flis bittend, ew darin zu ersehen und was ew bessrung ansehe,
+zu verzaichnen und uf unsern costen zu senden und hierin gutwillig beweisen.
+Begern wir umb ew mit willen früntlichen zu verdienen. Datum <date when="1486-08-05">sambstags
+nach Vincula Petri anno etc. LXXXVI/to/ [= 1486 5.
+VIII.].</date>
+                </p>
+<p>
+Burgermaister und rät zu Nordlingen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

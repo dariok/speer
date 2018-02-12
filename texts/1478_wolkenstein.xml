@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1478_wolkenstein">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ordnung des Landgerichtes Wolkenstein vom Jahre 1478 (= ÖW. VI 28 - 34) :: Transkription Speer 2012 / 2016</title>
+            </titleStmt>
+        <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+    <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial">
+                <head>Vorbemerkung zur digitalen Edition.</head>
+                <p>Der Text des Landrechts wurde aus dem digitalen Angebot des <ref target="http://drw-www.adw.uni-heidelberg.de/drw/">Deutschen Rechtswörterbuchs</ref> mit Hilfe eines OCR-Programms (Omnipage 18) in einen rudimentären Volltext umgewandelt. Die Herstellung eines einigermaßen verlässlichen Volltextes beruht auf der Korrektur durch den Herausgeber. Eventuelle Lese- und andere Fehler sind daher mir zuzurechnen; ein Hinweis auf derartige Fehler würde die Qualität weiter verbessern.<lb/>
+                Letzte Überprüfung: 30.05.2016<lb/>
+                Heino Speer<lb/>
+                Klagenfurt am Wörthersee 2016</p>
+                </div>
+            <div xml:id="W.1">
+                <head>Ordnung des Landgerichtes Wolkenstein vom Jahre 1478.</head>
+                <p>
+            Wir Friderich, von gottes genaden Romischer kaiser, zu allen zeiten
+            merer des reichs in Hungern, Dalmatien, Croatien etc. konig, herzog zu
+            <pb n="29"/>
+            0esterreich, zu Steyer, zu Kaernten zu Crain, bekennen für uns unser erben und nachkomen: als etlich zeit zwischen unsern lantrichtern zu Wolckenstain im Ennstall ains, und den burgern und leuten daselbs im Ennstall so in dasselb unser lantgericht gehorn des andern tail, von der fall und wandlein auch beschwo<hi rend="sup">e</hi>rung wegen merklich zwietracht und irrung gewest, darumb si dann in aufruer gegen einander und für uns in verhör kommen sein, das wir angesehen und betracht haben, wo solch irrung und zwitracht nicht nidergelegt wurt und verrer geuebt und erwachsen solt, das dar aus landen und leuten schwa<hi rend="sup">e</hi>rer unratt aufersteen möcht, und haben dardurch und von sondern gnaden zu<hi rend="sup">e</hi> underdruckung solcher aufruer und zwitracht in dem bemelten unserm lantgericht, wie es furan von ainem jeden lantrichter daselbs im Ennstall mit den fællen und wa<hi rend="sup">e</hi>ndlain gegen den leuten so in dasselb unser lantgericht geho<hi rend="sup">e</hi>rn soll gehalten werden, ain ordnung gemacht und gesetzt.</p>
+            <p>
+                Von erst so man das pantheding und recht besizt, das man den nachrichter in dem bemelten unserm lantgericht im Ennstall auf den aid fragen soll, ob er den tailen und andern so zu dem rechtn gevordert sein gepotten hab, zu dem rechtn und pantha<hi rend="sup">e</hi>ding ze komen, und das ehr das mit iren anfgereckten aid in der schrann weisen soll.</p>
+                    <p>
+                        Item welcher im lantgericht daselbs im Ennstall gesessen, dem potten zu dem rechten und pantheding frævenlich ungehorsam were, der soll dem bemelten unserm lantrichter zwen und sibenzig phenning darumben zu peen verfallen sein. doch mag sich ain jeder durch seinen potten bereden, ob in ehehaft not daran verhindert.</p>
+                    <p>
+                        Item wann des hauss halben zu Wolckhenstain etwas notturftig wære, als von dem veint, feur oder andern sachen wegen, so soll ein jeder, in der nachent daselbs gesessen, bei tag oder nacht zum hauß trachten, dem rettung und beistant thun und solches helfen zu underkomen.<pb n="30"/>
+                </p>
+                    <p>
+                        Item welcher in dem bemelten unsern lantgerichte gerechtigkait urbar, dienst und ander zuegehrunge ablaugnet oder entzüe, der ist dem gericht v libra und vj ß denar verfallen.</p>
+                    <p>
+                        Item welcher dem bemelten lantrichter oder desselben unsers lantrichters ambtleuten und diener, phantung ze thun, wæren oder dar innen mit worten oder mit werken widersæssig sein wu<hi rend="sup">e</hi>rde, der ist demselben unserm lantrichter v libra und lx denar verfallen.</p>
+                    <p>
+                        Item welcher demselben unserm lantrichter sein gerechtigkait zu rechter zeit nit geben wolt, der ist ein halb libra denar verfallen.</p>
+                    <p>
+                        Item welcher die marchstain oder sein zeun ubersezen, hocher rugken oder uberpauen ließ ôn wissen und willen der herrschaft, der ist v libra lx denar verfallen.</p>
+                    <p>
+                        Item von geltschuld wegen soll man kain ôn clag aufhalten, es wurde dan furbracht, das der bemelt unser lantrichter darinn saumig gewesen wære. wer aber darwider thæt, dem soll man darumb aus dem lantgericht urlaub geben.</p>
+                    <p>
+                        Item wenn di nachpaurn ain frid an ainander haben mit zeun, graben oder in ander weg, und so ainer von gewitter oder andern sachen wegen ee denn der ander gevechsnet hiet, derselb soll dem andern den fridt besteen lassen und nit offnen auf xiiij tag, damit der ander auch gevechsnen muge und soll die etz nit ausleihen dem andern zu schaden. welcher aber dawider thæt, der ist demselben unsern lantrichter v libra lx denar verfallen.</p>
+                    <p>
+                        Item wo ein viech dem andern zu schaden gieng, das soll man einthuen unbeschedigt und soll der schaden des dritten tag darnach beschaut werden mit leuten so von der herrschaft und iren ambtleuten darzue geordnet werden. und wo der fridt bewart gewesen war, wes das viech ist, der soll den schaden bezallen und demselben unserm lantgericht v libra denar verfallen sein.</p>
+                    <p>
+                        Item wer von den dienstleuten wissentlich kauft: schmalz, kaaß, vleisch, haar und ander solch haußnotturft, und woll wisste, das die dienstleut solches nit gewalt hieten zu verkaufen; so sollen der kaufer und verkaufer leib und guet verfallen sein und mit inen, als sich geburt, gehandelt werden.</p>
+                    <p>
+                        Item ob icht leut kæmen dasselb unser lantgericht zu beschedigen, wer das gewar wurde, der soll das zu geschrai bringen, damit solcher beschediger als sich geburt gestrafft wurde, darzue die nachperschaft schuldig ist zu helfen. und wer dar innen ungehorsam befunden wurde, der wa<hi rend="sup">e</hi>r leib und guet verfallen.</p>
+                    <p>
+                        Item es soll keiner geverlich keinen aussern oder fremdling langer dann uber nacht behalten, sich wolt dann ain auslender im selben unsern lantgericht niderlassen; solches soll man als dann inner dreien tagen der herrschaft verkunden. wer aber dawider thet, der wer der herrschaft darumb leib und guet verfallen. <pb n="31"/>
+                </p>
+                    <p>
+                        Item welcher die march oder rainstain verkörte oder ausgrueb, den sol man an die stat, da der marchstain gestanden ist, mit dem haubt unz an die gurtl eingraben und die fuess auskern. desgleichen wer ain marchpaumb abschlecht, den soll man mit dem hals auf den stock zwicken.</p>
+                    <p>
+                        Item welche zeun oder einfeng zu nachent sezen oder uberrainen, die sein darumb v libra lx denar verfallen, darzue den gethan schaden ablegen.</p>
+                    <p>
+                        Item wer dem andern wissentlich zu nahent etzet, so man das viech begreift, das ist damit verfallen.</p>
+                    <p>
+                        Item wer dem andern fræventlich fu<hi rend="sup">e</hi>rwart, den soll man darumb an leib und guet straffen.</p>
+                    <p>
+                        Item wer dem andern sein holz abschlecht ân urlaub, der ist dem das holz ist als oft für einen stamb v libra lx denar verfallen.</p>
+                    <p>
+                        Item wer wildprath oder genistpaumb zu nachent schlecht, der ist darumb v libra lx denar verfallen.</p>
+                    <p>
+                        Item es soll auch kain waidman dem andern in seinem bstant und gjaid geen oder er ist dem selben den dienst und demselben unserm lantgericht  lxxij denar verfallen.</p>
+                    <p>
+                        Item umb geltschuld soll man dem clager inner vierzehen tagen ein benuegen thuen.</p>
+                    <p>
+                        Item die mullner in dem lantgericht halten und fueren mit metzen und stuppsta<hi rend="sup">e</hi>fflein nach wissen der nachperschaft ungeverlich; welcher das nit thæte, den soll man darumb an leib und guet straffen, man soll auch mulln jærlichen besichten.</p>
+                    <p>
+                        Item es soll ein jeder waag und maasz halten wie von alter ist herkomen. wer das nicht tha<hi rend="sup">e</hi>te, der ist v libra und lx denar verfallen.</p>
+                    <p>
+                        Item ain jeder in demselben unserm lantgericht gesessen, soll von den weinen so er an dem zaphen ausschenkt unsern ungeltern so je zu zeiten von uns darzue gesezt werden oder wer unsern ungelt in demselben unserm lantgericht von unsern wegen einnimbt, den ungelt reichen und geben. wer das nicht thæt, der ist demselben unserm ungelter den wein so er schenkt und dem obgemelten unserm lantrichter xx ungrisch gulden zu peen verfallen.</p>
+                    <p>
+                        Item welche ir schwein zu rechter zeit nit ringlent, die sein darumb lxxij denar verfallen.</p>
+                    <p>
+                        Item wer ainem an seinem hauß und venster lost, den soll man straffen als darzue geho<hi rend="sup">e</hi>rt.</p>
+                    <p>
+                        Item wo einer in sein hausz gejagt wurde, so er under den dachtrophen kumbt, so soll im sein widertail nit nachkumen bei v libra und lx denar.</p>
+                    <p>
+                        Item wo sich ein aufruer in einem hauß begibt, wer dann ein fridt rueft von gerichtswegen, was der dem gericht punt darauf sezt, die sollen kraft haben und der fridt gehalten werden. wer das verbricht, der ist den punt vellig.</p>
+                    <p>
+                        Item wer unzucht und aufruer macht, der soll gestrafft werden, namblich von ainem schuß mit einem armbst v libra lx denar.</p>
+                    <p>
+                        <table>
+                            <row>
+                            <cell>Item von einem schlag mit einem spieß</cell> <cell>v libra lx denar <pb n="32"/>
+                            </cell>
+                        </row>
+                            <row>
+                            <cell>Item mit einem knütl idem </cell>
+                            <cell>libra lx denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von einem stainwurf <lb/> Doch soll man sich dar innen halten nach gnaden.</cell>
+                            <cell>v libra lx denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von ainem maulschlag</cell> <cell>v libra lx denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item mit zugethaner hant</cell> <cell>lxxij denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von ainem messer zucken</cell> <cell>xxiiij denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von ainem schwert zucken </cell> <cell>xxiiij denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von verpottnen worten </cell> <cell>lxxij denar </cell>
+                        </row>
+                            <row>
+                            <cell>Item von allerlei geschlechten fræveln</cell> <cell>lxxij denar</cell>
+                        </row>
+                            <row>
+                            <cell>Item von einer pluetrunst, macht davon zu peen</cell> <cell> i libra denar </cell>
+                        </row>
+                    </table>
+                </p>
+                    <p>
+                        Item von der malefiz und ander grober unzucht wegen soll di straff beschehen nach gelegenheit der sachen mit erkantnuß des rechten, wie hernach begriffen ist.</p>
+                    <p>
+                        Von erst was sachen sein, darumb ainer den todt oder ander leibstraff verschuldt hat, wirdet der thæter darumb von jemant so der sachen zu than hat anclagt umb di leibstraff oder aber umb kerung und abtrag, darumb soll unser lantrichter dem clager recht lassen ergeen als von alter herkomen ist und wo di that zu dem beclagten mann darbracht wirdet, soll es mit dem wandl das demselben unserm lantrichter zuegeho<hi rend="sup">e</hi>rt gehalten werden als es von alt her damit gehalten ist worden. wo aber ainer begriffen wirdet der den tod verdint(?) oder ander leibstraff verschuldet hat und von niemants darumben angesprochen wirdet, den soll derselb unser lantrichter von ambtswegen am leib nach gelegenhait seiner verhandlung, es sei mit dem todt oder mit ander leibstraff, mit dem rechten und nit an dem guet, straffen und soll umb solch peen und straff mit recht erkennen lassen. unt so ainer mit dem todt gestrafft wirdet, soll es mit seinem gelassen guet gehalten werden als von alter herkummen ist. wo aber ainer nach gelegenhait seiner verhandlungen umb guet gestrafft wirdt, dem soll dabei gesagt werden, das ehr furan solche mißhandlung meide. wirdt er dann in mißhandlung verrer begriffen, so soll er alsdann am leib und nit an guet gestrafft werden, als di raiszjeger, von den bisher alle jar wandl genamen werden, dardurch si dann in irer ubltath und miszhandlungen beliben sein.</p>
+                    <p>
+                        Item was phening, vall und wandl so voran nit gemelt sein, darumben sich unser lantrichter mit dem gewandleten man an den gewondlichen wandlsteten nit verainen mag, das soll zu <name type="place">Irning</name> in der lantschranne mit recht außtragen werden, dar inn in derselb unser lantrichter kain irrung thun soll. zu solchen rechten dann derselb unser lantrichter zwo<hi rend="sup">e</hi>n von <name type="place">Rottenmann</name>, zween von <name type="place">Schladming</name> und von <name type="place">Aussee</name>, auch die trefflichsten ambtleut, und eltisten auch vernunftigisten aus der paurschaft in demselben unserm lantgericht gen <name type="place">Irdning</name> ervordern soll. dieselben die sollen demselben unsern lantrichter umb all va<hi rend="sup">e</hi>ll und wandl erkennen, und was si umb jede ubelthat und mishandlung zu wandlen und vall erkennen, das <pb n="33"/>
+                        soll derselb unser lantrichter und nit mer nemen, von den so demselben unserm lantgericht sein vellig worden, das wandl inner xiiij tag nachst darnach koment demselben unserm lantrichter ausrichten und geben. thuet er des nicht, so mag unser lantrichter nach den vierzehen tagen sich seines guets mit wissen der nachperschaft so vill underwinden als das wandl bringt. lost er dann dasselb sein guet mit dem wandl inner vierzehen tag nit, so soll unser lantrichter das phant darnach in negstem landsrahten offentlich austailen und verkaufen dem so am maisten darumb geben will; und so das phant hocher verkauft wirdt dann das wandl bringt, soll er dem gewandlten man di ubermasz hinaus geben. und sollen die so am rechten sizen  unserm lantrichter an unser stat all schweren, ainem jeden, dem armen als dem reichen, ain gleichs und rechts recht zu sprechen und niemant dar innen uberhelfen weder von muet, gab, freuntschaft, neid noch hasz wegen. was aber demselben unserm lantrichter in dem bemelten unserm lantgericht ausserhalb peen und wandl zuesteet als von dem, so das sein recht treiben und ander sachen und das von ime emphahen müessen, damit soll gehalten werden als von alter herkomen ist und soll er dar inn wider alts herkomen niemant hocher dringen noch beschwrn. wo aber derselb unser lantrichter und die partei in den obgemelten articln oder sonst von des alten herkomen wegen in irrung und zwitracht sein, darumb sollen die beisizer zu <name type="place">Irning</name> erkennen und daselbst austragen werden was das alt herkomen ist. und was auf das recht und beisizer zu <name type="place">Irning</name> geen will, soll auf die gerichtsleut daselbs im Ennstall gemainklich geschlagen und von inen bezalt werden. doch soll es darinnen also gehalten werden, das ainer wider den andern in solcher irrung nit beschwrt werde. und verpieten darauf allen leuten so in dasselb unser lantgericht gehrn, das si furan kain besamblung haben sollen weder mit weer noch ân weer, si werden dann in sonderhait von unserm lantrichter darzue aufervordert. wurden si aber daruber ainicherlei besamblung haben, darumb soll ein jedlicher so in solch besamblung ist uns als herrn und landsfuersten hundert phunt phennig unabla<hi rend="sup">e</hi>ssig verfallen sein. und soll dise unser ordnung und sazung all jar ains zu <name type="place">Irning</name>, ains zu <name type="place">Aich</name> und ains zu <name type="place">sand Lorentzen</name> in demselben unserm lantgericht derzeit ains werden geruckt und verlesen und diser unser brief, so wir unserm lantrichter zu <name type="place">Wolckhenstain</name> erlegt haben, bei unsern getreuen N. dem richter und rat zum <name type="place">Rattenmann</name> erlegt werden, di dann in behaltnuszweisz inner haben, und als oft es den leuten in demselben unserm lantgericht not beschiecht, hren lassen und widerumben zu irn handen von unsern wegen nemen sollen. doch behalten wir uns unsern erben und nachkomen in obberuerter unser ordnung und sazung bevor, die zu mern und zu mindern zu verændern und genzlich abzethun und zu <pb n="34"/> widerrufen wie uns das gefellt ungeverlich. mit urkunt des brives geben zu Graz am sonntag vor liechtmesse im vierzehen hundert acht und sibenzigistem, unsers kaisertumbs in sechs und zwainzigisten und des romischen im acht und dreiszigisten und des hungrischen im neunzehenden jaren.</p>
+                    <p>
+                        (Commissio domini <lb/>
+                        imperatoris in consilio).
+                    </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,2366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1569_wittgensteingo">
+    <teiHeader>
+  <fileDesc>
+   <titleStmt>  
+    <title>Wittgenstein Gerichtsordnung 1569 :: Transkription Speer 2010 / 2016</title>
+   </titleStmt> 
+  <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+ <revisionDesc>
+            <change when="2017-04-06+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="Editorial"> 
+    <head>[Editorial]</head> 
+<p>Quelle: Das Wittgensteiner Landrecht : nach dem Original-Codex von 1579 / bearb. und hrsg. von Wilhelm Hartnack. - Laasphe : Carl, 1960. - 147 S. (Wittgenstein : Beih. ; 1) [Editorischer Hinweis: Die Artikelzählung ist für die elektronische Edition eingefügt worden.]</p>
+            </div>
+            <div xml:id="Vorwort">
+ <head>Gerichtsordnung deren Graueschafft Witgenstein [von 1569 nach der
+Handschrift:] Girckhausen Anno Domini 1579</head>
+ <p>
+                    <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_073.gif">[Hartnack Seite 73]</ref>
+                </p>
+ <p> 
+WIR <name type="person">Ludwig von Seyn, Graue zu Witgenstein</name>, vnd
+[Raubriter] Herr zu <name type="place">Homburgk</name> etc. Entbieten allen
+unsern Amptleuten, Rethen, Renthmeistern, Schultheißen,
+Burgermeistern, Scheffen vnd Vnderthanen, Auch allen denen, die unserer
+Vndergericht zu gebrauchen von nöten haben werden, unsere Gnade und alles gute.
+Unnd fügen euch hiemit zu wissen.</p>
+ <p> 
+ Als wir nun ein zeit hero in gewisser Erfarunge befunden, Das an unsern
+Undergerichten in viel wege, auß einfalt und unerfarnheit
+der Gerichtspersonen: gantz unordentlicher, unrichtiger weise in
+Rechthengigen sachen vortgefaren, vieler handt Mißbrauche
+und böser gewonheiten eingeschlichen, Darauß viel nichtigkeiten
+und Ungerechtigkeiten wieder beschriebene Rechte
+erwachen, unnd dadurch die
+Partheyen eins, oder beide theil in grossen Nachteil unnd
+schaden, Auch verlust ihrer Zeit unnd Sachen geratten. <pb n="106r"/>
+Haben wir nit umbgehen sollen, denselben mit gutter
+Rechtlicher Ordnung vor zukommen, wie unserm tragenden Ampt aufferligt. Und
+derhalb, damit an unsern Undergerichten hinfüro formlich, und den beschriebenen
+Rechten gemeß, inn Rechthengigen Sachen
+vorgefaren, und einem jeden darzu er befugt, fürderlich,
+schleunig und unpartheilich verholffen, alle Mißbreuche
+und böse Gewonheiten abgeschafft, Recht, Friede und Ruhe
+gepflanzet unnd gehandhabt werden,
+mit zeitigem Rath ein Gerichts Ordnung, wie und welcher gestalt in Bürgerlichen
+Sachen hinfüro an unsern Undergerichten in unserer Graffschafft <name type="place">Witgenstein</name>
+procedirt und
+gehandelt werden soll, wissentlich auffgericht,
+auffrichten unnd <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_074.gif" n="Seite&#xA;74"/> machen, in der bestendigsten form, wie wir von
+tragenden Ampt und Rechts wegen thun können unnd
+mögen, Inn maßen wie von Puncten zu Puncten
+folget.</p> </div>
+            <div xml:id="Art.1">
+ <head>[1] Vonn besetzunge der Undergerichte.</head>
+
+<div xml:id="Art.1.1">
+ <p> Unsere Undergerichte sollenn mit einem Schultheißen unnd acht Scheffen
+besetzet
+ werden. Inn peinlichen Sachen sollen nicht unter sieben zum wenigsten sein
+zugegen. Inn
+ Bürgerlichen Sachen mögen fünff oder sechs neben dem Schultheißen Gericht
+haltenn.</p>
+ </div>
+
+<div xml:id="Art.1.2">
+ <p> Wann deren einer abgehet, soll unns das Gericht zwo tügliche unverleumbde
+Personen
+ presentiren, daraus wir einen verordnen, beeidenn unnd
+ einsetzen wollen.</p>
+ </div>
+
+<div xml:id="Art.1.3">
+ <p> Die Schultheißen sollen fleissig acht haben, das dieser unserer Ordnung in
+allem
+ gelebt, keine Unrichtigkeit noch Partheiligkeit inn Gerichtshandeln
+gestatten.</p>
+ </div>
+
+<div xml:id="Art.1.4">
+ <p> Es soll ein fleissiger Gerichtschreiber verordnet werden, der aller
+Undergericht
+ Handlung warten, auffschreiben und darvon antworten könne.</p>
+ </div>
+
+<div xml:id="Art.1.5">
+ <p> Bey jedes Gericht sollen drey oder vier tügliche Vorsprechen im Lande
+verordnet
+ werden, unnd auff die Ordnung schweren.</p>
+ </div>
+
+<div xml:id="Art.1.6">
+ <head>
+                        <name type="place">Berleburg </name>.</head>
+ <p> Unser Gericht zur <name type="place">Berleburg</name> soll in
+ peinlichen und Bürgerlichen sachen unser Schultheiß daselbst besitzen,
+unnd
+ neben ime vier Scheffen auß der Stadt unnd  vier Scheffen vom
+Lande.</p>
+ </div>
+
+<div xml:id="Art.1.7">
+ <head>
+                        <name type="place">Lasphe </name>.</head>
+ <p> Unser Gericht zu <name type="place">Lasphe</name> soll unser Schultheiße
+da selbst
+ beyde inn peinlichen unnd Bürgerlichen Sachen mit
+vier
+ Scheffen auß der Stadt, unnd vier Scheffen vom Lande besitzen.</p>
+ </div>
+
+<div xml:id="Art.1.8">
+ <head>
+                        <name type="place">Rischenstein </name>.</head>
+ <p> Unser Gericht zum <name type="place">Rischenstein</name> soll unser
+Renthmeister da
+ selbst, oder der Schultheisse inn seiner stadt, mit acht Scheffen
+besitzen.</p>
+ </div>
+
+<div xml:id="Art.1.9">
+ <p> Unnd damit die Gericht desto richtiger gehalten unnd jedem was billich
+wiederfaren
+ möge, haben wir unser Undergericht zu <name type="place">Feudingen</name> inn
+das
+ Gericht zu <name type="place">Lasphe</name> geschlagen, sollen die Underthanen
+des
+ Bezircks dahinn folgen.</p>
+ </div>
+
+<div xml:id="Art.1.10">
+ <p> Unnd ein jedes Gericht soll seinen geschwornen Botten haben, dem seine
+sondere
+ belohnung von jedem Vorgebott und anderem hernach verordnet werden soll.</p>
+ </div>
+ </div>
+            <div xml:id="Art.2">
+ <head>[2] Von Eyden der Personen, so dem Gericht zugethan und verwandt
+seind.</head>
+
+<div xml:id="Art.2.1">
+ <head> Des Richters oder Schultheissen Eydt.</head>
+ <p> Ich N. Schultheisse des Wolgebornen Herrn Herren <name type="person">Ludwigs
+vonn Sainn, Gravens zu Witgenstein unnd Herrns zu
+Homburg</name>, etc. Gelobe und schwere,das ich
+wolgedachts meines gnedigen Herrn Undergericht alhie zu <name type="place">Witgenstein</name>,
+<name type="place">Berleburg</name> oder <name type="place">Rischenstein</name>,zu
+gewönlicher zeit besitzen, Auch dasselbige
+nach meinem bestenn vermögen fordern und inn ehren haltenn, und einem jeglichen
+der darann zuschaffen hat, oder gewinnet, er sey Geistlich
+oder weltlich, frembde oder inheimisch, seine Rechtlichen tage recht
+und trewlich ansetzen und
+bescheiden, auch einem jeden zu dem, was ime in Recht zu erkandt, unnd
+was ihm sunsten gebürt, Ampts halben trewlich verhelffen soll und will. Als mir
+Gott helffe und sein heiliges Evangelium.</p> </div>
+
+<div xml:id="Art.2.2">
+ <head>Scheffen Eydt.</head>
+ <p> Ich N. gelobe und schwere, das Gericht des Wolgebornen meines gnedigen
+Herrn N. Gravens zu Witgenstein, erbarlich, fleissig und trewlich besitzen,
+irer <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_075.gif">[Hartnack Seite 75]</ref> Gn.
+Oberkeit, Herrligkeit und Gerechtigkeit helffenn handhaben und weisen, der
+Partheien, und meniglich, so darann zu schaffen, vorbringen hören oder
+vernemen, <pb n="108v"/> Rechtmessig Urtheil und bescheidt
+nach meinem besten Verstentnus sprechen, weisen oder helffen weisen, Und das
+nit underlassen umb Lieb oder leidt, Freundschafft,
+Feindschafft, Sipschafft, Magschafft, Gunst, Hab, Forcht, Halt, Geldes
+wert, oder umb ichts, das sich einigem Nutzen vergleichen mag. Auch die
+Heimlichkeit oder Ratschlege des Gerichts, weder
+vor noch nach den Urthel offenbaren, Unnd alles das
+thun unnd lassen, das einem frommen Scheffen
+und Urtheiler gebürt, Alles trewlich und ungefehrlich,
+Darzu mir Gott helffe und sein
+heiliges Evangelium.</p> </div>
+
+<div xml:id="Art.2.3">
+ <head>Gerichtsschreibers Eydt.</head>
+ <p> Ich N. gelobe, das alles, so ann des Wolgebornen meines G. Herrn <name type="person">Ludwigs
+von Sainn, Gravens zu Witgenstein, vnd Herrns zu
+Homburg</name> etc. Undergerichten gerichtlich gehandelt, mündtlich
+oder schrifftlich vorgetragen wird, zum fleissigsten und
+getrewlichsten auffschreiben und verwaren will,
+Brieffe oder Gerichts Acta, sonder des Gerichts bevelch,
+niemandt mittheilen, oder Abschrifft darvon geben, Auch alle Heimlichkeit des
+Gerichts und der Sachen niemandt offenbaren, Den Partheien so vor Gericht
+handeln, oder wo zuversehenn, das künfftiglich die Irrung am Gericht erwachsen
+möcht, inn iren Sachen weder rathen noch beystandt
+thun, oder forderung weiter dann meinem Ampt zustehet, thun will, Auch
+des Schreiblohns halber mich nach Rechtlicher Erkentnusse und messigung nach
+wolgedachts  meines gnedigen Herrns zu Witgenstein Ordnung
+lassen begnügen, und niemandt darüber beschweren, Und alles das zu thun, das
+einem getrewen fleissigen Schreiber nach seinem vermögen zu thunn stehet und
+geburt. Darzu so helffe mir Gott und sein heiliges Evangelium.</p>
+                </div>
+
+<div xml:id="Art.2.4">
+ <head>Gerichts Potten oder Büttels Eydt.</head>
+ <p> Ich N. gelobe und schwere, die Vorgebot, und
+was mir von dem Gericht bevohlen wird, fleissig und
+trewlich zu verkünden und außzurichten, Unnd
+ob ich des Gerichts heimlichkeit horen od lernen
+würde, heimlich halten, dem Gericht gewertigt zu sein. Unnd alles anders zu
+thun, das einem getrewen Gerichtsknecht zustehet. Darzu so helffe mir Gott
+und sein heiliges Evangelium.</p> </div>
+
+<div xml:id="Art.2.5">
+ <head>Eyde der Vorsprachen und Momparen.</head>
+ <p> Ich N. schwere, das ich die Partheien unnd
+Sachen, so ich anneme, oder mir bevohlen werden, mit
+gantzen und rechten Trewen meynenn, ire notturfft
+unnd Gerechtigkeit nach bestem Fleisse und
+verstentnüsse furdern, ire heimlichkeit und
+behelff, inen zu Nachtheil, niemands offenbaren, vor Gericht erbarkeit
+gebrauchen, Lästerung und schmehung vermeidenn, mit
+den Partheien auff einen Theil vonn der Sachen, oder sonst ungeburliche Pacta
+oder gedinge nit zu machen, Die Partheien,  wilchen ich gerichtlich
+diene, oder dienen würde, über gewönliche
+belohnung nit beschweren. Unnd was mir durch die Scheffen oder das Gericht
+taxirt und erkent, mich des begnügen lassenn. Unnd sonst alles zu thun, was
+sich einem getrewen unnd fleissigenn Vorsprechen
+eigent und gebürt. Darzu so helffe mir Gott und seinn
+heiliges Evangelium .</p> </div> </div>
+            <div xml:id="Art.3">
+ <head>[3] Von Gerichts Büchern.</head>
+ <p> Es soll ein Gerichtsbuch sein, an jedem Gericht, darinn alle gerichtliche
+Handlungen prothocollirt werden, soll der Gerichtsschreiber inn seiner
+fleissiger Verwarung haltenn, Damit er darauß den Partheien Acta
+und andere gerichtliche Handlung — doch ehe
+nicht, dann wenns ime im Gericht bevohlen — auffschreiben
+und mittheilen möge. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_076.gif" n="Seite&#xA;76"/> Das ander Buch,
+darinn alle Contracten, Vertrege, Uffdrechten, Ubergaben,
+Verkeuffe, Burgschafften, Testamenten, Vormunderschafft, Inventarien der
+unmündigen Gütter oder anderer und dergleichen verzeichnet, unnd
+fleissig auffgeschrieben werden sollenn. Solchs soll in einem Gerichtskasten
+mit zweyen Schlossen, darzu der Schultheisse einen Schlüssel, vnd zween
+Scheffen den andern habenn, verwart, und nichts onn der andern Scheffen
+beysein, darinn geschrieben werden.</p> </div>
+            <div xml:id="Art.4">
+ <head>[4] Von Gerichts Siegeln.</head>
+ <p>
+  Jedes Gericht soll ein sonderlich Siegel inn derselben Kisten
+verwarlich haben under unserm Wapen unnd des Orts Zeichen, damit alle
+gerichtliche Handelung, unnd was ferner schrifftlichs unter ihrem Siegel begert
+wird zu verfertigen. Solchs soll aber nit gebraucht werden, dann inn beysein
+Schultheissen und drey oder vier Scheffen.</p> </div>
+            <div xml:id="Art.5">
+ <head>[5] Von Gerichts Zwang.</head>
+ <p> Ein jedes Gericht soll über die Personen und Güter, so in seinem Bezirck
+gesessen unnd gelegen, inn Sachen vor ihnen contrahirt, sich verbunden daselbst
+Rechts begeren, oder gesündiget in peinlichen und
+Bürgerlichen Sachen richten, unnd an keinem andern noch frembd Gericht
+gezogen werden. Außgescheiden unsere Lehen unnd
+Zinßgüttere, unnd Geistliche Sachen und Personen, welche wir uns,
+unseren Rethen, unnd andern darzu Verordneten, vorbehalten wollen.</p> </div>
+            <div xml:id="Art.6">
+ <head>[6] Freie Graffschafft Zuschena.</head>
+ <p> Dieweil die iren eigen Bezirck unnd sondere Freygerichte hatt, soll der
+auch sondere Maß unnd Form gegeben werdenn.</p>
+</div>
+            <div xml:id="Art.7">
+ <head>
+                    <pb n="110v"/> [7] Von ungebotenen Gedingen.</head>
+ <p> Die ungebottenen Gedinge sollen Järlichs zweymall, wie von alters, an
+jedem Ort breuchlich gehalten werden. Nemlich zu Lasphe, das erste Donnerstag
+nach Walpurgis. Das zweite Donnerstag nach Michaelis. Berleburg. Das erste
+Gericht zur Berleburg soll gehalten werden Dinstag nach Walpurgis. Das zweite
+Dinstag nach Michaelis. Rischenstein. Das erste Gericht zum Rischenstein soll
+gehalten werden Dinstags nach Cantate. Das zweite Dinstags nach Gereonis. Unnd
+nach jedem ungeboten Gedinge zwey Nachgerichte jhe viertzehen tage nach dem
+ungeboten Gedingen so nötig gehalten, unnd uff demselben die einkommenden
+Sachen, so viel müglich, abrichten unnd nit zu nechsten ordentlichen Gerichten
+verschreiben. Unnd ob der obgent. Tage einer auff einen Feiertag fallen würde,
+das dann der nechste tag darnach, so kein Feiertag sein würde, derselbige
+verschoben werde. Zu solchen ungebotten Gedingen soll ein jeder Underthann
+gehorsamlich erscheinen bey vermeidung schwerer Peen. <pb n="111r"/>
+Unnd sollen alßdann zu jeder zeit die Scheffen unsere Hocheit,
+Obrigkeit, Herrlichs und Gerechtigkeit, alte Grentzen und Landtscheidung, wie
+von Alters her breuchlich, nach laut einer sondern Verzeichnuße, welche hinder
+unsernn Gerichten enthalten ist, weisen und Rügen. Solche weistumb unnd Rugen
+mit fleiß durch den Schreiber in das zweite Buch schreiben lassen. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_077.gif" n="77"/> Was frevell unnd
+Unthaten gerüget werden, die poen darauff erkennen. Oder so es die Zeit nicht
+leiden will, zu nechstfolgenden Gerichten erkennen, unnd jede Sache an seinen
+gebürenden Ort hinweisenn.</p> </div>
+            <div xml:id="Art.8">
+ <head>[8] Von ordentlichen Gerichten.</head>
+ <p> Alle andere ordentliche Gerichte sollen unnd mögen sie von vierzehen
+tagen, darnach es nötig, im Sommer des Morgens zu achten, unnd im Winter bey
+zehen Schlegen, unnd bey Sonnenschein halten. Inn Bürgerlichen Sachen nach
+Inhalt dieser Ordnung, guttem alten Landgebrauch unnd gemeiner beschriebener
+Rechten. Inn peinlichen Sachen nach besage Kayser Caroli des fünfften unnd des
+heiligen Römischen Reichs Halßgerichts Ordnung, die wir inen hiermit
+verkündiget haben wollen.</p> </div>
+            <div xml:id="Art.9">
+ <head>[9] Von Ferien.</head>
+ <p>
+                    <pb n="111v"/> Auff Christliche Feste
+und Feiertage,so nach Inhalt unserer Kirchen Ordnung von den Cantzeln zu
+fairen gebotten, sollenn keine Gerichtstage gehalten werden.</p>
+<p> <list>
+ <item>Item acht tage vor Christ Messe, unnd acht tage darnach.</item>
+ <item>Vom Sontag Esto mihi, biß auff den Sontag Invocavit.</item>
+ <item>Vom Palmtag biß auff den ersten Sontag nach Ostern.</item>
+ <item>Vom Pfingstabendt biß auff Sontag der heiligen Dreyfaltigkeit.</item>
+ <item>Item inn zeiten der Erndten, Lentzen unndt Wintersaat.</item>
+ </list>
+                </p>
+ </div>
+            <div xml:id="Art.10">
+ <head>[10] Nottgericht.</head>
+ <p> Inn Sachen aber die eilenden auftrag fordern, unnd auß welcher verzug ein
+grosser Schade erwachsen mag, Als inn Verkündigung eines newen Bannes, inn
+kümmern unnd Aresten gegen Frembdt vorgenommen, Unnd so ein Parthey Leibs
+narung begert, unnd anderen dergleichen Sachen, oder auff ansuchen der
+Außlendischen, soll und mag im Lentzen oder Erndte, Notgeding gehalten
+werdenn.</p> </div>
+            <div xml:id="Art.11">
+ <head>[11] Von vorgebott oder Ladung.</head>
+ <p> Ein jglich Vorgebott soll aus befelh des Schultheißen geschehen. Darumb
+sol der Kleger den Schultheißen des Orts, da er zu handeln hat, ansprechen,
+unnd seinen gegentheil durch den Gerichtsbotten vorhaischen zu lassen, bitten,
+welchs der Schultheiß also bevehlen soll. <pb n="112r"/>
+                </p>
+ <p> Das erste Vorgebott soll der Personen under augen, die andern zwey zu
+Hauß unnd Hoff verkündiget werdenn.</p> </div>
+            <div xml:id="Art.12">
+ <head>[12] Von Ungehorsamb des Beklagten.</head>
+ <p> Wo der Verklagter auffs erste Vorgebott ungehorsamblich außbleibet, soll
+unnd mag der Cleger den ungehorsamb des Beclagten beschüldigen, inen zum andern
+unnd dritten, unnd endtlich peremptorie verhaischen lassen. Erscheinet er zum
+andern oder dritten Vorgebott nit, soll er nit gehort werden, er bezale dann
+dem Kleger zuvor den Kosten seines ungehorsambs halben auffgangen, wo er seines
+außbleibens nit redlich ursach erweisen kann.</p>
+ <p> Kompt der Beclagter also auch nit, mag der Kleger mit seiner Klage unnd
+Beweiß vortfaren. Unnd wo die Clage auff ligende Gütter im Gerichte gelegen
+gestelt, unnd der Beclagter vor der Kriegsbevestigung ungehorsamb außbleibet,
+alßdann den Beclagten laden lassen zu sehen unnd zu hören, den Cleger in die
+streittigen Gütter auß der ersten erkentnuß einzusetzen.</p>
+ <p> Aber in personlichen Clagen, als umb Schuld, und dergleichen, Wann der
+Beclagter ungehorsamb <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_078.gif" n="Seite&#xA;78"/> erkant ist, mag der Cleger einsetzung begeren ins gemein, in des
+Beclagten Gütter nach größe der Schuldt.</p>
+ <p> Erscheinet der Beclagter alß dann, unnd erlegt dem Cleger Kosten und
+schaden mit Caution der Sachen inn Recht auß zu warten, soll die Einsetzung auß
+erstem <pb n="112v"/> Decret aberkandt, unnd in der
+Hauptsachen vortgefaren werden.</p>
+ <p> Unnd wo der Beclagter über Jarsfrist außbleibet, soll der Beclagt geladen
+werden zu sehen den Cleger auß dem 2. Decret, in die streittigen Gütter
+einzusetzen, erscheint er, unnd erlegt alß dann Costen unnd Schaden, mit
+Caution dem Rechten genug zu thun unnd außzuwartenn, soll er gehört werden.
+Sonst wo nicht, soll der Cleger die einsetzung auß zweitem Decret bitten unnd
+erhalten, unnd dabey erhalten werden, biß er vom Beclagten mit Recht darauß
+getrieben wirdt.</p> </div>
+            <div xml:id="Art.13">
+ <head>[13] Von Ungehorsamb des Clegers.</head>
+ <p> Wann der Beclagt auff dem ersten, andern unnd
+dritten Vorgebott erscheinen, unnd der Cleger außbleiben würde, mag der
+Beclagte den Ungehorsam des Clegers beclagen. Unnd soll der Beclagt auff sein
+bitt von den Vorgebotten, mit erstattung auffgangenes Gerichtskosten ledig
+erkandt werden, Doch dem Cleger damit unbenommen, den Beclagten von newen zu
+laden, unnd die Sache zu verfolgen.</p>
+ <p> Da auch der Beclagt neben dem Cleger auff allen Terminen erscheinen würde,
+unnd der Cleger seine Clage nit einbringen, dann den Beclagten umbzutreiben
+unnd zu molestiren willens, mag der Beclagte
+begeren, den Cleger anzuhalten, inn benenter Zeit seine Clage vorzubringen, bey
+peen eines ewigen Stillschweigens.</p>
+ <p>
+                    <pb n="113r"/> Bringt der Cleger in der zeit seine Clage
+nit ein, soll ime ein ewig stillschweigen mit
+erstattung aller Gerichtscosten dem Beclagten, aufferlegt werdenn.</p> </div>
+            <div xml:id="Art.14">
+ <head>[14] Von Caution, bestandt und Sicherheit.</head>
+ <p> Wo der Cleger und Beclagter vor Gericht
+erscheinen, unnd der Beclagt vom Cleger begert, durch sich oder seinen Anwaldt
+des Rechtlichen Streites außzuwerten, und ob er der Sachen niederligenn würde,
+allen gerichtlichen Costen und Schaden ime zu
+entrichten, solchs soll der Cleger mit Güttern oder
+Bürgen zu thun verpflicht sein.</p>
+ <p> Wann aber der Cleger mit seinem Eide bedeuren würde, das er nach
+möglichem, angewendten fleiß, solche Caution und
+Burgschafft nit thun kundte, soll er mit seinem Eide, bestandt und
+Sicherheit thun zugelassen werdenn.</p>
+ <p> Inn gleichem soll auch der Beclagter auff beger des Clegers, sich am
+Rechten zu stellen, und der Sachen außzuwarten, Caution
+unnd Sicherheit zu thun schuldig seinn.</p>
+ <p> Unnd wo der Beclagt sein Recht durch einen Anwaldt vertretten will, soll
+derselbig Anwaldt, auff begeren des Clegers Caution, den Beclagten zu schirmen,
+betrug zu meiden, und dem erlangetenn Rechten genug zu thun schuldig sein.</p>
+ <p> Wann aber der Cleger oder Beclagter unter dem
+Gerichtszwang, da die sache hengt, genugsamb begüttet were, soll er gedachte
+caution zu thun nit schuldig seinn. <pb n="113v"/> </p> </div>
+            <div xml:id="Art.15">
+ <head>[15] Von Anwaldten und Momparen.</head>
+ <p> Wilcher seine Sache in eigner Person nit handeln oder
+verdrettenn kann, oder wölt, der mag - er sey Cleger
+oder Antworter - einenn oder mehr Anwaldt
+oder Momparen setzen, und dem
+oder denselbigen ein genugsamb Gewalt zustellenn, mit bestimmung der
+Sachen und Personen, auch andern notwendigen
+Stücken, so zu einem Rechtmessigen Gewaldt gehörenn, wie des einn kurtze Form
+hiernach folget.</p> </div>
+            <div xml:id="Art.16">
+ <head>[16] Kurtze Forma eines Gewalts.</head>
+ <p> Ich N. bekenne öffentlich mit diesem Brieff, unnd thun kundt
+allermeniglich, deme er vorkömpt, nach dem sich vor N. zwischen mir als Clegern
+oder Beclagten <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_079.gif">[Hartnack Seite 79]</ref>
+eins: und N. Clegern oder Beclagten anders theils umb
+Sachen halb N.
+Rechtfertigung sich erhalten, Unnd aber ich solcher Rechtfertigung anderer
+geschefft und redlicher Ursachen halber, inn
+eigner Person nit vorseinn oder außwärten mag. So hab ich in der aller besten
+Form, als es nach Ordnung der Recht, Auch nach gewonheit eins jedenn und
+besonders des gemelten Gerichts N. am meisten crafft haben soll und mag,
+meinenn volnkommenden Gewalt gegeben, bevohlen, Auch zu meinem Rechten Anwaldt
+unnd Gewalthaber gesetzt unnd
+verordnet, unnd thue auch dasselbig, inn und mit crafft dieses Brieffs,
+nemblich N. unnd N. sampt <pb n="114r"/> unnd sonder solche
+Sachen unnd Rechtfertigung, in meinem Namen unnd von
+meinet wegen zu handeln und außzufürn,Clag,
+Antwort, gegenclag Inn, nach unnd weitter redden, zu
+thun, zu hören unnd vorzuwenden, den Krieg zu bevestigen vom gegentheil solchs
+zu geschehen und anzuhalten, mich meine Sache unnd
+Gerechtigkeit zum besten zu verdretten unnd zu
+handeln, Den Eidt vor geferte, zu Latein Juramentum
+Calumniae genant, mit allen seinen anhengen,
+auch eines jeden andern zimlichen Eidt, Unnd was inen von meinet wegen im
+Rechten auffgelegt wirdt, in meinem Namen unnd in meine
+Seele zu schweren. Auch vom Wiedertheil dasselbig begeren, Articull
+unnd Satzstücke in crafft einer beweisung
+vermittelstem Eydt zu ubergeben, unnd auf des gegentheils Articuln
+unnd Satzstücken bey dem Eyde zu antworten, Kundtschafft,
+Brieve, Zeugnuß, unnd alle andere notturfft des
+Rechtens beyzulegen bey unndt endt urteill,
+zu begeren unnd zu hören, dieselbigen anzunemen,
+oder darvon zu appelliren, Aposteln zu bitten, und die Apellation zu verkünden,
+anzubringen unnd zu volnziehenn, Costen zu taxiren, zu begeren, die Tax mit dem
+Eyde zu halten, einen oder mehr ander Affter anwelde, ann ire aller unnd jedes
+stadt zu setzen, den oder dieselbigen zu wiederruffen, unnd den Gewaldt wieder
+an sich zu nemen, so offt sie bedünket not sein unnd gewonlich, Alles anders zu
+handeln, thunn unnd lassen, das ich in eigner Person
+solt und mocht handeln, thun unnd lassen, obs auch
+solche Sachen weren, darzu sie einen sonderlichen gewalt haben müsten. Unnd ob
+sie ferner gewalts, wie follig der sein solt, notturfftig weren, den will ich
+ihnen semptlich unnd sonderlich in der aller besten
+form, so solchs im Rechten und nach gewonheit
+beschehen <pb n="114v"/> kan oder mag, auch gegeben haben alls
+stundt er von wortten zu worten hierinn begrieffen,
+alles zu gewinn unnd zu verlust. Unnd was gedachte
+meine Anwelde und ire undersetzte sämptlich oder
+sonderlich, inn der aller besten Form, so solichs im Rechten von meinet
+wegen handeln, thun unnd lassen, das will ich stedte
+unnd sie schadloß halten, unnd sie irer Anwaldtschafft entheben, bey
+verpfendung aller meiner Hab unnd Gütter, ligender
+unnd farender, gegenwertiger unnd künfftiger,
+geferde unnd Argelist hierinn gentzlich
+außgeschlossen werden. Des zu urkundt habe ich meinn Insiegel etc. Oder gebeten
+N. etc.</p> </div>
+            <div xml:id="Art.17">
+ <head>[17]</head>
+ <p> Solche gewaldthabung mag geschehen vor dem Gericht, da die Sache hanget,
+oder vorm Schultheißen, einem Scheffen und dem Gerichtschreiber, oder vor
+zweien Scheffen oder Richtern unnd dem Schreiber. Unnd alß dann soll eigentlich
+zu den Acten geschrieben werden, wer, vonn wem, wann in was Sachen, wieder weme
+unnd wie solcher gewalt sey gegeben wordenn.</p> </div>
+            <div xml:id="Art.18">
+ <head>[18]</head>
+ <p> Es mag auch der Anwalt oder Mompart sein gewalt
+durch ein offen Instrument eines bekanten Notarien, oder andere Schriffte under
+eines Gerichts, Prelaten, Graven, Herrn, Ampmans,
+Edelmans, unnd dergleichen namhafftigen unnd
+glaubwirdigen Personen kündigem Insiegel vorbringen. Doch soll einem
+jeden theill, wieder den vorbrachten gewalt, seiner Wiederparthey seiner
+notturfft vorzuwenden, vorbehalten sein.</p> </div>
+            <div xml:id="Art.19">
+ <p> So auch des Anwalts gewalt angefochten wirdt, unnd vor ungenugsam
+angesehen wurde, mag er bestandt mit seiner gelübd in handt des Schultheisen
+oder Richters <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_080.gif">[Hartnack Seite 80]</ref>
+<pb n="115r"/> thun, ein vollenkommenn
+unnd genuchsamen gewalt, vor weiterer Handelung, oder auff ein Zeit,
+durchs Gericht bestimbt, einzubringen.</p> </div>
+            <div xml:id="Art.20">
+ <head>[20]</head>
+ <p> Der verwandten unnd gesipten Personen,
+dergleichen auch der Eheman von wegen seiner Haußfrawen, sollen auch an
+gewaldt, doch auff genuchsamb bestandt unnd Sicherheit der
+genembhabung, von welchs wegen sie handeln, vermög der Recht, zugelassen
+werden.</p> </div>
+            <div xml:id="Art.21">
+ <head>[21]</head>
+ <p> Erschiene auch jemandt von des Antworters wegen, sonder gewalt, unnd thett
+genuchsamb bestandt unnd sicherheit, der Sachen
+außzuwartenn, den Beclagten zu schirmen unnd dem erlangten Rechten genug zu
+thun, der soll, unangesehen mangel des gewalts, gehört werden.</p> </div>
+            <div xml:id="Art.22">
+ <head>[22]</head>
+ <p> Wir wollen auch das der Vorspreche und Anwaldt
+so einer Parthey grundt unnd heimlichkeit erfahren
+hat, sich wieder dieselbigen in solcher Sachen zu dienen, nicht annemen
+lasse.</p> </div>
+            <div xml:id="Art.23">
+ <head>[23]</head>
+ <p> Sollen auch die Vorsprechen unndt Anwaldt mit
+iren Partheien umb einen theil der Sachen oder streitigen Guts, kein pact
+oder geding machen bey Straff des Rechtens, Unnd so
+das ubertretten würde, soll solch Pact oder geding
+crafftloß unnd unbundig seinn.</p> </div>
+            <div xml:id="Art.24">
+ <head>[24] Wie der Kleger auff dem Gerichtstage seine Clage vorbringen
+soll.</head>
+
+<div xml:id="Art.24.1">
+ <p>
+ <pb n="115v"/> Der Cleger soll sein Clage auff dem bestimpten
+Gerichtstage mündlich oder schrifftlich, clar, lauter und verstendlich
+einbringen, mit erzelung der Sachen unnd Geschicht, Warumb er klage, anzeigen,
+Ob er umb Hauß, Hoff, Acker, Wiesen, Garten, Zinse, Renthe, Schulden, Pferde,
+Kuhe, Schaffe, farendt oder ligendt, gantz, halb, oder ein vierdentheil
+fordere.</p> </div>
+
+<div xml:id="Art.24.2">
+ <p> Item, Warumb, unnd auß was ursachen, ob es auff jnen ererbt, oder ob er es
+durch Kauff oder Wechsell an sich bracht habe, oder jme gegeben, oder durch
+Testament ime vermacht, oder wie er sunst darzu berechtigt sey.</p> </div>
+
+<div xml:id="Art.24.3">
+ <p> Was aber Erbfelle, Wiederfelle, bey oder seitfelle sein, solt der Cleger
+unnd die Linie, Woher die Felle biß auff inen kommen, klar anzeigen, unnd nach
+gestalt der Sachen, ein gebürende Bitt an Schultheisen unnd Scheffen thun, den
+Beclagten mit irem Rechtspruch diß oder jenes, was in der Clage gefordert,
+werden, zu thun, mit entrichtung gerichtlichen Costen, unnd ferner bitten, was
+recht ist, und ime das fürderlich mitzutheilen, ir Richterlich Ampt anruffent,
+mit vorbehalt aller rechtlicher Hülff und Notturfft</p> </div>
+
+<div xml:id="Art.24.4">
+ <p> Wann die Clage mündlich geschicht, soll fleissig in das Gerichtsbuch
+geschrieben werden.</p> </div>
+
+<div xml:id="Art.24.5">
+ <p> Wird sie aber schrifftlich einbracht, soll darauff das einbringen, Tag,
+Monat, Jar, unnd solchs ins Gerichtbuch geschriben, unnd die Clage bey den
+Actis verhalten werden.<pb n="116r"/> </p> </div>
+ </div>
+            <div xml:id="Art.25">
+ <head>[25] Von Antwort des Beclagten.</head>
+
+<div xml:id="Art.25.1">
+ <p> Wo nun der Beclagt alßbaldt auff die Clage zu antworten gefast ist, oder
+zill zu antworten bitten würde, oder sonst einige Außzüge wider den
+Gerichtszwang, des Richter personen, wieder die Clage, wieder den Cleger,
+wieder den Anwaldt, oder andere - deren fast viel sein - hette, soll gehort,
+und ime Copey und gebürende Zeit gegeben werdenn.</p> </div>
+
+<div xml:id="Art.25.2">
+ <p> Dieweil aber im Rechten viererley Außzüge erfunden, die nit allein
+einerley art und naturenn seinn, auch jglicher zeit des Kriegs gebraucht und
+vorgewandt werden mögen: So wollen wir den unsern ein kurtze Underrichtung
+derhalb thun, damit nit allein die Beclagten, denen allewege so viel möglich,
+das Recht zu fliehen, und demselbigen zu entweichen vergönnet ist, zu irem
+vortheil sich dero zu gebrauchen, sondern auch die Clegere, wann sie vor einem
+Richter anzusuchen oder <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_081.gif" n="Seite&#xA;81"/> nit haben inn erfarung kommenn. Darzu die einfeltigen unverstendigen
+Urthelsprecher sich auch desto baß darnach gerichten mögenn.</p>
+                </div> </div>
+            <div xml:id="Art.26">
+ <head>[26] Von Exception und Außzügen, so den Haubthandel nit abstellen. Und
+erstlich gemeine Anzeige, wer nit Richter sein kan.</head>
+
+<div xml:id="Art.26.1">
+ <p>
+ <pb n="116v"/> Es ist versehens Rechtens, das der jenige, *so
+im geistlichen Banne* [von alter Hand gestrichen und am Rand ersetzt durch:
+mitt diesem ban hatt man hir nichts zu schaffen], oder in der Keiserlichen Acht
+ist, des Richterlichen Ampts nit vehig seinn kann oder mag.</p> </div>
+
+<div xml:id="Art.26.2">
+ <p> Dergleichen einn Minderjäriger, das ist, der noch nit 25. Jar seines
+Alters erlanget hat, Dann ein jeder ordentlicher Richter muß zum wenigsten 25.
+Jar alt seinn.</p> </div>
+
+<div xml:id="Art.26.3">
+ <p> Item, Welcher in einer Sachen Advocat, Ratgeber, Procurator oder Diener
+gewesen, der mag in derselbigen Sachen keines weges Richter seinn.</p> </div>
+
+<div xml:id="Art.26.4">
+ <p> Item, ein Weltlicher kann in Geistlichen Sachen nit Richter seinn.</p>
+</div>
+
+<div xml:id="Art.26.5">
+ <p> Item, Wilcher ewig - zu verstehen von angeporner Natur - ein stum,
+Dauber unnd sinnloß ist, Deßgleichen ein Weibsbildt,
+mögen das Richterlich Ampt nit tragenn.</p> </div>
+ </div>
+            <div xml:id="Art.27">
+ <head>[27] Außzüge wieder des Richters person.</head>
+
+<div xml:id="Art.27.1">
+ <p> Etwo kompt es, das die Kriegbar Sache, den jenigen, so darinn Richter
+seinn soll, mit belangt, der mag In solcher Sachen vonn Recht verworffen und
+recusirt werden</p> </div>
+
+<div xml:id="Art.27.2">
+ <p> Item, ob der Richter einer Partheien Blutsverwandter Freundt were, mag
+recusirt <pb n="117r"/> und kann in der Sachen als verdechtig
+recusirt werden.</p> </div>
+
+<div xml:id="Art.27.3">
+ <p> Item, ob ein Richter ein gleiche Sache, die ihn selbst belangt, vor einem
+andern inn Recht schweben hette, der mag als argwonig unnd verdechtig, mit
+guten fugen recusirt unnd zuruck gestalt werden.</p> </div>
+
+<div xml:id="Art.27.4">
+ <p> Item, welcher einer Partheien verwandter Freundt, sonderlicher Gönner unnd
+vertrawter Gesell, Item, des Clegers Herre, oder demselbigenn Eidtpflichtig,
+Oder aber des Beclagten Wiederwertiger, oder seines Feindes Blutverwandter
+were, mag zu aller zeit für einen Richter recusirt unnd abschlagen werden.</p>
+</div>
+
+<div xml:id="Art.27.5">
+ <p> Dergleichen mag der Richter als argwonig recusirt unnd
+abgeschlagen werden, wo der, so vor ime klagen will, dieselbigen
+Richters Richter etwo inn einer andern Sachen were, Denn nach dem ein jeder
+Richter beyden Partheien unverdechtig, unnd einer so viel als der andern
+gunstig unnd gewesenn sein, auch nit anders dann wie ein Mitler zwischen beyden
+Partheien handeln soll, So mag ein solcher Richter, als argwonig, dieweil zu
+vermuten, das er umb seiner eigen Sachen willen, so vor dem Cleger als Richter
+hangendt demselbigen mehr und weiter, dann dem Beclagten, geneigt, mit Recht
+woll recusirt werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.28">
+ <head>[28] Wie die Ursachen des Argwons und verdachts mögen außgefurt
+werden.</head>
+
+<div xml:id="Art.28.1">
+ <p> Wann einer den Richter vor seine Person inn argwonn unnd verdacht hette,
+auß obangezeigten oder andern mercklichen Ursachen des verdachts soll er
+bemelten <pb n="117v"/> Richtern schrifftlich vorbringen, unnd
+alß dann mit sampt andere wilkörliche Richtere, die man zu Latein Arbitros
+Juris nennet, erwelen, daselbst die Ursachen
+des verdachts gegen den ersten Richter vorgewandt, nach Form und ordnung der
+Rechten, beweisen, und durch die wilkorliche Richtere erkennet werden soll, ob
+die Ursachen des Argwons gnug unnd vorträglich, oder nit seien.</p> </div>
+
+<div xml:id="Art.28.2">
+ <p> Unnd soll dieser Außzug des Argwons stadt haben, ann den Orten, da wenig
+<ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_082.gif">[Hartnack Seite 82]</ref> Personen zu
+Gericht sitzen. Denn wo das Gericht durch viell Personen besessen wirdt, unnd
+eine zwo oder drey verdechtig angezogen unnd außgefurt, aber die andern mit
+keinem Argwon beladen wurden, dieselbigenn unverdechtigen mögen gleich woll die
+Sachen hören, unnd richtlich entscheiden. Wurden aber mehrertheils alle
+Scheffen verdechtig unnd argwonig geachtet, unnd derhalben genuchsamb ursach
+vorbracht, alß dann sollen sie die Sache vor uns und unser Grafflich
+Hoffgericht, oder gemeine Audientzien remittiren unnd weisen, dieselbige
+hinfurter rechtlich zu hören unnd zu entscheiden.</p> </div>
+
+<div xml:id="Art.28.3">
+ <p> Unnd die obgemelten Auszüge sollen von dem Antworter, gleich im anfang des
+Kriegs, ehe unnd zuvor mit Ja oder Nein auff die Clage geantwortet, unnd der
+Krieg befestigt werde, vorgewandt, unnd der Richter damit verworffen werden,
+alßdann und in solchem Fall mag der Antworter dieselbigen Auszüge auch darnach
+woll vorwendenn.<pb n="118r"/> </p> </div>
+ </div>
+            <div xml:id="Art.29">
+ <head>[29] Außzug wieder den Gerichtszwang zu latein genant Exceptio
+in competentis Judicis et fori declinatoria
+.</head>
+ <p> Welcher vor einem Richter oder Gericht beclagt wirdt, unnd vermeint, das
+er demselbigen Gericht ordentlich nitt underworffen, derhalb auch nit schuldig
+sey, daselbst zu Recht zu stehenn, Der soll gleicher weiß im anfang des Kriegs,
+unnd vor befestigung desselbigen, von bemeltem Richter ab unnd vor sein unnd
+vor seinem ordentlichen Richter haischen, Dann wirdt er mit solchem Auszuge biß
+er dem Cleger geantwortt, unnd den Krieg befestigt hette, wissentlich verzihen,
+mag er sich - wie etliche sagen wollen - desselbigen darnach nit mehr
+gebrauchen. Aber nach der Lere der andern, so mag dieser Außzug zu einer
+jglichen Zeit des Kriegs, auch dem Endturteill vorgewandt werden. Doch so ist
+der Antworter oder Außzieher schuldig, wann er des Außzugs wissen dregt,
+denselbigen inn allwege, vor befestigung des Kriegs vorzuwenden. Dann wo er
+solchs nit thun, sondern biß nach bevestigung des Kriegs, gefehrlich schweigen
+würde, soll er darinn nit anders, denn mit ablegung dem gegentheill, alles
+aufgewandten costens unnd Schadens gehort werden. Unnd geburt dieser Außzug
+einem jglichen, der mit frembdem, unnd nicht ordentlichen Gerichtszwang
+angefast wirdt: Dann der Cleger soll dem Antworter <pb n="118v"/>,
+sonderlichen inn personlichen Clagen vor seinem ordentlichenn
+Richter folgen.</p> </div>
+            <div xml:id="Art.30">
+ <head>[30] Etliche Felle darin einer vor einem frembden, oder nit seinem
+ordentlichen Richter mit Recht mag vorgenommen werden.</head>
+
+<div xml:id="Art.30.1">
+ <p> Es sind aber etliche Felle, darinnen mit außlendigem Rechten, einer
+darunder derselbig nit gesessen, noch ordentlich gehörig ist, mit Recht mag
+vorgenommen werdenn. Unnd ob er den negsten obangezeigten Außzug dargegen
+vorwenden, wurde er doch darmit nichts schaffenn.</p> </div>
+
+<div xml:id="Art.30.2">
+ <p> Erstlich von wegen des Contracts, das ist, ob einer an einem andern Ort
+etwas keuffen, unnd dasselbige mit barem Gelde nit bezalen, sondernn borgen,
+unnd darbeneben zusagen würde, demjenigen, so ihm geglaubt, oder geborget
+hette, zu einer bestimpten Zeit zu bezalen. Derselbige mag nach verscheinung
+derselbigen Zeit, umb gebürliche bezalung, von wegen des Contracts, an dem Ort,
+da er geschehen were, mit Recht vorgenommen, oder beclagt werden.</p> </div>
+
+<div xml:id="Art.30.3">
+ <p> Zum andern, wurde einer underworffen einem frembden Gerichtszwang von
+wegen der ubelthat - zu latein ratione delicti
+genant - Dann welcher an einem frembden Ort frevelt, der mag am selben Ort
+seiner That halb beclagt werdenn.</p> </div>
+
+<div xml:id="Art.30.4">
+ <p>
+ <pb n="119r"/> Zum dritten, Welcher sich an einem andernn Ort
+mit heußlicher wonung oder wesentlich hielt, der mag ratione
+domicilii am selbigen Ort mit Recht vorgenommen
+werden.</p> </div>
+
+<div xml:id="Art.30.5">
+ <p>
+                        <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_083.gif">[Hartnack Seite 83]</ref> Zum
+vierten, Wann auff Hab oder Gütter geclagt wirdt, so
+muß derselbigen Gütter Einhaber unnd Besitzer vor
+dem Gericht, darunder die Gütter gelegen seindt, unangesehen, ob er seiner
+Personn halb, einen andern ordentlichen Richter hette, zu Recht stehen, unnd
+wirdt zu latein - ratione bonorum - das ist, von
+wegen der Güter, genant.</p> </div>
+
+<div xml:id="Art.30.6">
+ <p> Zum fünfften unnd letzten, mag einer ausserhalb seines ordentlichen
+Gerichtszwang vorgenommen werden ratione
+promissionis, das ist, von wegen seiner Zusage unnd
+Verheissung, Als so einer sich verschreiben,
+verpflichten, oder versprechen würde, an einem namhafftigen Ende, oder
+wohin er erfordert würde, bezalung zu thun, An demselbigen Ort mag er folgendts
+mit Recht vorgenommen und angeclagt werden.</p> </div>
+ </div>
+            <div xml:id="Art.31">
+ <head>[31] Außzüge wieder den Cleger.</head>
+
+<div xml:id="Art.31.1">
+ <p> So der Cleger im Banne, oder Keyserlicher unnd des heiligen Reichs Achte
+were, hat er im Rechten zu clagenn keinen standt, Darumb mag der Antworter
+solchs vorwenden, Unnd so er das in acht tagen, oder wie jme derhalb nach
+gelegenheit von dem Richter zeit ernennet würde, beweisen, soll derselbig
+Cleger, vermög der Recht, ferner nicht gehört werden.</p> </div>
+
+<div xml:id="Art.31.2">
+ <p>
+ <pb n="119v"/> Item, wo der Cleger mehr dann ein persönliche
+Clage unnd Ansprach wieder den Beclagten vor mehr dann einem Richter
+und Gericht wurde vorwenden, ist der Beclagt ime
+zu antworten nit schuldig.</p> </div>
+
+<div xml:id="Art.31.3">
+ <p> Item, so einer Sachen halber vor einem anderen Richter geclagt unnd der
+Krieg darauff bevestigt ist, unnd umb dieselbige Sache wiederumb understandenn
+wirdt, vor einem andern Richter von newem zu clagen, So mag der Beclagt
+vorwenden den Außzug des hangenden Rechten, unnd so dasselbig, wie sichs
+gepürt, vorbracht unnd dargethan wurde, soll der Cleger an dem Ortt weitter
+nitt gehortt werden.</p> </div>
+
+<div xml:id="Art.31.4">
+ <p> Item, So jemandt den andern seiner habender Gerechtigkeit, Hab unnd Gütter
+entsetzt hette, unnd wolt denselbigen darnach in Recht ziehen, ist der Beclagt
+nit ehe zu antworten schuldig, er sey dann zuvor wiederumb restituirt
+unnd eingesetzt. Wo aber im hangendem Rechten
+einsetzung geschehe, die mag auch vorbracht und
+geclagt werden, unnd soll die Heuptsache darzwischen still stehen, unnd
+darinn, biß so lange die Clage spolii oder der entsetzung ein ende hat, nit
+vortgefaren noch gehandelt werden.</p> </div>
+
+<div xml:id="Art.31.5">
+ <p> Item, begebne Ordenßleute ohn erleubnuße irer Obern, dergleichen ein Son
+der vetterlicher gewalt noch underworffen ist, onn verwilligung seines Vatters,
+mögen inn Recht wieder clagen noch antworten.</p> </div>
+
+<div xml:id="Art.31.6">
+ <p> Item, Wo der Richter dem Beclagten unehrliche oder unsichere Malstat zu
+antworten ansetzen oder ernennen würde, ist er nit allein zu antworten, sondern
+auch ann dem unsichern unehrlichenn Ortt zu erscheinen nit schuldig.</p> </div>
+
+<div xml:id="Art.31.7">
+ <p> Dieweil auch Minderjärige, Daubenn, Stummen, Thoren,
+Unsinnige,unnd denen ire Güttere inn Recht zu verwalten verbotten ist,
+auch andere derogleichen <pb n="120r"/> Personen inn Rechten
+nit stehen mögen, Sollen dieselbigen auff vorbringung unnd
+beweysung des Beclagten nit gehort, sie werden dann nach außweisung der
+Rechten, mit Vormundern, oder sonst zu clagen geschickt gemacht.</p> </div>
+ </div>
+            <div xml:id="Art.32">
+ <head>[32] Von Außzügen wieder eine Clage.</head>
+
+<div xml:id="Art.32.1">
+ <p> Ein jede Clage so inn Recht bestendig sein soll, unnd nachfolgende
+wesentliche stücke mitbringen, unnd inn sich haben, nemblich den Namen des
+Richters, den Namen des Clegers und des Antworters. Dergleichen dasjenige was
+gefordert wirdt, und den grundt oder ursach, warumb die Forderung geschicht.
+Unnd so deren eins oder mehr inn den Clagen mangeln,
+ist sie unförmlich, unnd ann Iren <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_084.gif" n="84"/> wesentlichen
+stücken mangelhafft, und soll uff beger des Beclagten verworffen, Auch
+derselbig Beclagt vom Rechtstandt ledig erkandt werden.</p> </div>
+
+<div xml:id="Art.32.2">
+ <p> Gleicherweise und so ein Clage öffentlich,
+ungeschickt, inept und dermassen geschaffen were, das keinn formlicher
+Proces des Rechtens darauff folgenn möcht, So mag dieselbige Clage aus
+Richterlichem Ampt, von dem Undergericht, unangesehen ob die Parthey solchs nit
+begerte, verworffen werden. Doch soll der Cleger macht haben, die sache darnach
+wiederumb mit einer formblichen und geschickten Clagen anzuheben
+unnd zu volnfüren.</p> </div>
+
+<div xml:id="Art.32.3">
+ <p> Item, So ein Clage dunckel und ungewiß befunden, unnd solchs vorgewandt
+wirdt, ist der Beclagt darauff zu antworten, es habe dann der Cleger zuvor
+seine Clage erleuttert, nicht schuldig.</p> </div>
+
+<div xml:id="Art.32.4">
+ <p>
+ <pb n="120v"/> Item, Wann die Clage nit eigentlich mitbringt
+die ursach gethaner forderung, ist der Beclagt darauff zu antworten nit
+schuldig. Darumb ein jede Clage, so ins gemein, ohnn ursach der forderung
+gestalt, ist im Rechten nit zulessig, und soll durch den Richter verworffen
+werden.</p> </div>
+
+<div xml:id="Art.32.5">
+ <p> Item, so die Clage nit auff des Beclagten persone, sondern vornemblich
+auff ein gutt, das gefordert, gestalt, unnd dasselbige Gutt mit seinem Namen
+inn der Clage nit eigentlich specificirt noch genant wirdt, so ist die Sache
+untüglich, Es würde dann das geforderte Gutt augenscheinlich dargethan. Unnd im
+fall das Gutt mit seinem Namen nit kont oder mocht genant werden, So sollen zu
+erleutterung die Clagen, wie vorstehet, zwey andere dinge, die am negsten
+darann stossen, benent und angezeigt werdenn.</p>
+</div>
+
+<div xml:id="Art.32.6">
+ <p> Item, Wo Goldt, Silber, oder dergleichen gefordert wirdt, soll die Materi,
+der Wert, Item die Form unnd gestalt, als nemblich, obs Rundt oder eckicht,
+schlecht oder erhaben, verguldet oder weiss sey, mit aller anderer
+eigentschafft, Auch das Gewicht davonn eigentlich benant werden.</p> </div>
+
+<div xml:id="Art.32.7">
+ <p> Item, ein Leibeigner, der von einem andernn wirdt gefordert, solt mit
+seinem Namen inn der Clage gesatzt werdenn.</p> </div>
+
+<div xml:id="Art.32.8">
+ <p> Item, Wo Duch, Gewandt, Wein, Korn, Ole, oder dergleichen Wahr, so der
+Elen oder Massen underworffen, inn der Ansprach gemeldet ist, soll dieselbige
+Wahr, auch wie viel deren ann der Elen oder Maß sey, eigentlich sampt dem Wert
+angezeigt werdenn.</p> </div>
+
+<div xml:id="Art.32.9">
+ <p>
+ <pb n="121r"/> Item, Wo ein unvernunfftig Thier gefordert
+würde, soll eigentlich inn die Clage gesatzt werden, Obs ein Pferdt, Esell,
+Ochse, Schweinn, oder was es sonst vor einn Thier, Auch wie es von Farben
+geschaffenn.</p> </div>
+
+<div xml:id="Art.32.10">
+ <p> Item, Güldene oder silbern Bechere, Trinckgeschir, Kleinoder, oder
+dergleichen, sollen ihn die Clage, mit irem Wert, form und gestalt außdrücklich
+gesatzt werden.</p> </div>
+
+<div xml:id="Art.32.11">
+ <p> Item, ein jede Clage sonder Anhang der petition oder
+Bitt, ist nit zulassig.</p> </div>
+
+<div xml:id="Art.32.12">
+ <p> Item, Ob die Bitt aus der Clagen nit folgen, oder dahinn nit dienlich sein
+mocht, dieselbige Clage soll auch nit zugelassen, sondern als ungeschickt
+und unförmlich verworffen werdenn.</p> </div>
+
+<div xml:id="Art.32.13">
+ <p> Item, Wo der Krieg bevestigt, ehe und zuvor die Clage einbracht were,
+solche Clage ist auch nit zulessig.</p> </div>
+
+<div xml:id="Art.32.14">
+ <p> Unnd inn der summ, Wo der Beclagt nit eigentlich aus der Clage vernemen
+mag, das vermeint Recht oder den grundt des Clegers, dergleichen dasjenige, was
+gefordert wird, mit seinen zugehörigen umbstenden, so ist er darauff zu
+antwortten nitt schuldig.</p> </div>
+
+<div xml:id="Art.32.15">
+ <p> Unnd wilcher Antworter oder Beclagter sich der
+obgemelten Außzüge, die vonn Recht noch weiter zugelassen, aber um Kurtz willen
+inn dieser Ordnung zu vermeiden umbgangen seindt, will geprauchen, soll ehe und
+zuvor ehr bedenckens uff die gethane Clage, oder derselben abschrifft begert,
+allwege protestiren, unnd sich <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_085.gif" n="85"/> bezeugen, das er ime alle und jede Außzüge, so ime einicher
+weise hiermit gepürenn mögen, vorbehalten haben. Unnd vermitz derselbigen
+protestation und bezeugung, bedacht uff die Clage begert werden, alß dann mag
+er nach gehabtem <pb n="121v"/> bedacht, gleichwoll alles was
+ime gegen Richter oder Parthey außzuziehen vonn nötten ist, vorwendenn.</p>
+</div>
+ </div>
+            <div xml:id="Art.33">
+ <head>[33] Außzüge so die Kriegßbefestigung verhindern.</head>
+
+<div xml:id="Art.33.1">
+ <p> Es seind etliche Außzüge, mit denen sich der Antwortter gegen der
+Kriegsbefestigung uffhaltenn und verzihen, und der Cleger alßdann weitter nitt
+gehört werden mag.</p> </div>
+
+<div xml:id="Art.33.2">
+ <p> Als nemblich Außzüge einer geurtheilter sache, so einer umb einn Sache,
+die vormals richtlich geurteilt und entscheiden were, anderwerbe oder wiederumb
+vorgenommen, und inn Recht vorgezogen würde, der mag rem
+iudicatam, das ist die geurtheilte Sache, oder die ergangen Urtheil
+vorwenden, unnd alßdann ist der Beclagt dem Cleger auff seine Clage weitter zu
+antwortten nit schüldig.</p> </div>
+ </div>
+            <div xml:id="Art.34">
+ <head>[34] In welchen fellen der negst gemelt Außzug kein stadt habe.</head>
+
+<div xml:id="Art.34.1">
+ <p> Doch seindt etliche Felle, darinnen der vorige richtliche Proceß nit
+irret, sondern gleichwoll vonn newem gehandelt und geclagt mag werdenn, als so
+einn <pb n="122r"/> Beclagter vonn gethaner Anclage irer
+ungeschicklichkeit halber, oder aber von der Instantz des Rechten, das ist von
+dem vorgepot, oder außgangener Ladung, wie vor stehet, absolvirt unnd ledig
+erkandt ist, Oder so in der Heuptsachen urtheil were ergangen, unnd inn einer
+zufelligen Sache andermals Rechtfertigung vorgenommen würde. Inn den obberurten
+Fellen, Auch da ein Urtheil nichtig were, hatt der Außzug rei
+iudicatae keinn Stadt.</p> </div>
+
+<div xml:id="Art.34.2">
+ <p> Gleicherweise mag er auch nit gepraucht oder vorgewandt werden, die
+folgends einem andern zufalle, den sie vormals gehabt, da der Cleger geclagt
+unnd Urtheil verloren hat. Darvonn nachfolgendt Exempel gesetzt werden. Als da
+einer umb einen Erbfall, der noch nit zum Fall kommen, Oder umb Schulden, dero
+bezalung auff gewisse Ziel unnd Zeit gesatzt unnd
+dieselbige Zeit noch nit erschienen ist. Oder aber um etlich Dienst
+unnd Arbeit, die noch nit geschehen seind zu
+belohnen, den andern beclagt. Dann wiewoll der Antworter, inn den Fellen, wie
+billich, ledig erkandt, wird doch dem Cleger nach der handt, so der Erbfall
+gefallen, die Zeit der bezalung erschienen, unnd der Dienst
+oder Arbeit geschehen ist. Inn den und dergleichen Fellen vonn newem
+derhalb zu clagen der weg des Rechtens nit abgestrickt noch benommen, unnd mag
+dargegen dieser Außzug nit gestadt werden.</p> </div>
+ </div>
+            <div xml:id="Art.35">
+ <head>[35] Außzug einer sachen, die vertragen oder sonst hingelegt ist.</head>
+
+<div xml:id="Art.35.1">
+ <p>
+ <pb n="122v"/> Welcher umb ein Sache, die vorhinn gütlich
+verdragen, oder sonst mit der Partheien wissenn und
+willen hingelegt ist vonn dem Andern vorgenommen
+oder beclagt wurde, der mag dargegen außzihen, das dieselbigen Sachen
+vertragen und hingelegt sein. Und ist der Antwortter
+alß dann dem Cleger weiter zu antwortten, noch den Krieg, auff sein
+eingebrachte Clage zu befestigen, nit schuldig.</p> </div>
+
+<div xml:id="Art.35.2">
+ <p> Unnd wann die obangezeigte auch andere dergleichen Außzüge, so die Rechte
+wieder die Krigsbefestigung noch weiter zulassen, vor derselben
+Kriegsbefestigung vorbracht werdenn, Alßdann wirdt der Cleger verhindert in
+seiner Clage vortzufahren, sondern der Antwortter zugelassen, solchen Außzug,
+wie recht, zu beweisen, und nach gethaner beweisung, mit erstattung alles
+costens und schadens, ledig erkandt.</p> </div>
+
+<div xml:id="Art.35.3">
+ <p> Es mögen auch obberurte Außzüge, nach der Kriegsbefestigung vorgewandt
+werden, alßdann aber wirdt der Proces dardurch nitt verhindert, sondern der
+Beclagt, nach dem er dieselbigen zu recht genugsamb beweiset, vonn gethaner
+Anclage, wie vorstehet, ledig erkant. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_086.gif" n="86"/>
+                    </p> </div>
+ </div>
+            <div xml:id="Art.36">
+ <head>[36] Von Aufzügen so die Heubtsach ableinen, genant peremtoriae.</head>
+
+<div xml:id="Art.36.1">
+ <p>
+ <pb n="123r"/> Außzüge so den vermeß des Clegers oder die
+Heubtsache ableinen, sollen nach befestigung des Kriegs vorbracht werden, und
+ob der Antwortter dieselben vor befestigung des Kriegs vorwendte, sollen sie
+doch biß darnach behalten, und alßdann uff des excipienten begere zu beweisenn
+zugelassen werdenn.</p> </div>
+
+<div xml:id="Art.36.2">
+ <p> Der Antwortter soll auch solche Außzüge zu einem mall furbringen, es were
+dann, das sie sich von newem begeben hetten, oder ime allererst zu wissen
+worden weren, und er das mit seinem Eyde behalten möcht.</p> </div>
+
+<div xml:id="Art.36.3">
+ <p> Unnd wiewoll der Antwortter seinn gegenwehr und peremptorien Außzug, Auch
+nach dem und der Cleger seinn beweisung gethann, und nach eroffeneter und
+erlernter Kundschafft vorbringen und beweisen mag, so soll er doch ob seine
+Articul oder gegenwehr,des Clegers Articuln strack
+zu wieder, oder den Articuln, darauff Zeugen gefurt unnd eröffenet,
+gleichformig weren, sein Zeugen füren und verhören lassen, ehe dann er der
+vorgefurten Zeugen sage erlernet, und darnach nit weiter Zeugen zu füren
+zugelassen werden, Es were dann inn Fellen, da es die Rechte zuliessen.</p>
+</div>
+
+<div xml:id="Art.36.4">
+ <p> So der Antworter auff sein Außzuge unnd gegenwehr Zeugen furenn wolte,
+solte es darmit gehalten werdenn, wie oben unterm Titul, vonn beweisungen,
+angezeiget ist wordenn.</p> </div> </div>
+            <div xml:id="Art.37">
+ <head>[37] Von Innovation oder vorgenommenen newerungen in hangenden
+Rechten.</head>
+ <p> Es sollen weder Richter oder Parthey inn schwebender Rechtfertigung keine
+Newerung oder was zu nachtheil der Rechtfertigung oder urtheil eins oder andern
+theils vornemen oder attentiren.Was aber dessen
+geschehe, soll vor aller weiterer Handlung abgeschafft, und inn vorigen standt
+gestelt werdenn.</p> </div>
+            <div xml:id="Art.38">
+ <head>[38] Von Nach und wieder Redden,  Replicken und
+duplicken  genant.</head>
+ <p>
+ <pb n="123v"/> Wann der Beclagter solche seine Außzüge
+eingebracht, soll dem Cleger uff sein begeren Copey bedacht und zeit seinn
+notturfft, wie auch den beiden theilnn ire duplicen,
+triplicen und quadruplicen - und nit weitter es würde dann durchs
+Gericht aus erheblichen ursachen erkandt - dargegen vorzuwenden zugelassen
+werdenn. Unnd wann beide theill ire notturfft gegeneinander einbracht, soll die
+begerendt Parthey ir einbringen nach form der Rechten zu beweisen, zugelassen
+werden, zill unnd zeit und andere Rechtliche hülffe
+darzu gegeben werdenn.</p> </div>
+            <div xml:id="Art.39">
+ <head>[39] Von Gegenn clagen.</head>
+
+<div xml:id="Art.39.1">
+ <p>
+ <pb n="124r"/> So nun des Beclagtenn Außzüge außgeorttert
+seinn, oder er derselbigen keine vorbracht, oder darvon abgestanden, und uff
+die Clage antwortten, und den Krieg befestigen wolt, und hette er gegenclage
+gegen seinen Wiedersacher, soll er vor oder kurtz nach der Kriegsbefestigung
+thunn.</p> </div>
+
+<div xml:id="Art.39.2">
+ <p> Solche beide sachen - das vurrecht und
+nachrecht genant - sollenn gleichsfals mit einander gehen, gehandelt und
+außgeortert alles nach Ordnung der Rechten.</p> </div>
+
+<div xml:id="Art.39.3">
+ <p> Wolt aber der Cleger die Gegenclage nit annemen, noch darauff der gepür
+handeln, soll er uff seinn vorrecht oder vorlage nitt gehort werden,
+außgenommen in Fellen, inn welchen die Gegenclage nit Stadt hat.</p> </div>
+ </div>
+            <div xml:id="Art.40">
+ <head>[40] Von befestigung des Kriegs.</head>
+
+<div xml:id="Art.40.1">
+ <p> Wann nun der Beclagte keine Außzüge oder Einrede hett, wilche die
+Kriegsbefestigung verhinderten oder einbrechte und nit erwiesen oder sonst
+abgeschnitten, soll der Beclagter uff die Clage antwortten, unnd den Krieg
+darauff befestigen, der Cleger erst affirmative durch seinn Ja, und der Beclagt
+darnach Negative, das ist durch seinn Nein, mit diesen worttenn.</p> </div>
+
+<div xml:id="Art.40.2">
+ <p>
+   <pb n="124v"/> <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_088.gif" n="88"/>Der Cleger: Ich sage
+das Vorbringen inn meiner Clage begriffen war seinn, unnd das nach Inhalt
+meiner Bitt geurtheilt werden solle.</p> </div>
+
+<div xml:id="Art.40.3">
+ <p> Der Beclagte: Ich sage daß das Vorbringen der ubergebnen Clag nit war,
+oder der Warheit ungemeß sey, unnd das des Clegers Bitt nit stadt haben
+solle.</p> </div>
+
+<div xml:id="Art.40.4">
+ <p> Wiewoll die Kriegsbefestigung einn wesentlich stück des Gerichtlichen
+Processes ist, unn inn sachen die uber zwelff goltgl. wert keins wegs
+underlassen, dann darinn geschehen, das die geschehen unnd fleissig
+auffgeschrieben werde zu begrundung des Gerichtszwangs und das die
+nichtigkeiten verhut, und die Partheien aussen schaden bleiben. So ist doch
+derselbenn und sonst zirlichen processes inn geringschetzigen sachen und inn
+wilchen summarischer weise procedirt wird, net von nöttenn.</p> </div>
+
+<div xml:id="Art.40.5">
+ <p> Sondern ordnen unnd wöllen wir, wenn die Clagen inn solchen geringen
+sachen mundtliche oder schrifftlich einkommen, und der Beclagt der nit
+gestendig, soll der Schultheis und Scheffen den beweiß vom Cleger annemen, unnd
+wo der genugsamb, und der Cleger denselben nit zu wiederlegen wußte Urtheil und
+Recht außsprechen.</p> </div>
+
+<div xml:id="Art.40.6">
+ <p>
+ <pb n="125r"/> Es soll auch vor der Kriegsbevestigung kein
+beweisung oder ander dergleichen Handlung inn der Heuptsachen angenommen
+werdenn, Es were dann das der Beclagte einen Außzug vorbrechte und bewiesen
+hette, welcher die Kriegsbevestigung verhinderte, oder das uff ungehorsamb des
+Beclagten procedirt wurde, Oder wann eine Parthey Zeugen hette, wilche alters
+halber abgehen möchtenn besorget würde. Oder Zeugen die inn Krieg zihen, oder
+sonnst lange geferliche Reisenn thunn wolltenn, Auch zu ewiger gedechtnusse,
+wie die Rechten solche zulassen, Inn solchen Fellen mögen die Zeugen vor der
+Kriegsbevestigung abgehortt werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.41">
+ <head>[41] Vom Aide vor geferde.</head>
+
+<div xml:id="Art.41.1">
+ <p> Alsbaldt nach befestigung des Kriegs soll der Aidt vor geferde, uff
+begeren einer oder beider Partheienn geschworn werdenn, inn nachfolgender
+form.</p> </div>
+
+<div xml:id="Art.41.2">
+ <head>Clägers aidt.</head>
+ <p> Ich N. schwere zu Gott unnd dem heiligen Evangelio, das ich glaub einn
+gerechte Sache zu clagen habe, das ich auch keinenn geferlichenn uffschub, oder
+freventlichen Außzug oder beybringung begeren oder
+suchen, Unnd <pb n="125 v"/> so offt ich inn Rechte
+gefragt, die Warheit sagen und nit verhalten, unnd keinn falsch beweiß
+gebrauchen will. Das ich dieser sachen halber niemandt etwas geschenckt,
+verheissen oder versprochen habe, schencken, verheissen
+oder versprechen will, weiters dann
+die Rechte zulassenn. Damit ich die Urtheil inn dieser Sachen erhalten möge,
+alles trewlich unnd ungeferlich.</p> </div>
+
+<div xml:id="Art.41.3">
+ <head>Des Beclagten Aidt.</head>
+ <p> Ich N. gelobe und schwere zu Gott und dem heiligen Evangelio, das ich
+glaube, ich habe eine gute Sache, mich gegen den Cleger zu schirmen, und will
+keinen freventlichen schub oder geferlichen Außzug begeren oder vorwenden. Unnd
+so offt ich inn Recht gefragt werde, die Warheit sagen, Hab auch oder will
+niemandt, dann denen so die Recht zulassenn, etwas geben
+oder verheissen, damitt ich die Urtheill erhalten möge, alles trewlich
+unnd ungeferlich.</p> </div>
+
+<div xml:id="Art.41.4">
+ <p> Diesenn Aidt sollen beide Heuptsacher, so sie personlich zugegenn seinn,
+Dergleichen ire Anwelde einn jeder inn seinn eigen Seele schweren. Wann aber
+die Heubtsacher beide, oder irer einer nit zugegen sein, soll des abwesenden
+Mompar den Eidt inn seinn eigenn und auch des principaln Seele, so fernne er
+genuchsamb gewalt, sonderlich den Aidt vor geferde zu thun von ime hat
+schwerenn.</p> </div>
+
+<div xml:id="Art.41.5">
+ <p>
+ <pb n="126 r"/> Wo der Cleger diesen Aidt, so er ann ime
+begert wirdt, nit thun wolt, soll er seinn Clage und Sache damit verlieren.</p>
+</div>
+
+<div xml:id="Art.41.6">
+ <p> Wo aber der Beclagt auffs Clegers beger solchen Aidt zu thun sich weigert,
+soll die Clage gegenn inen einbracht, darfur, als ob er derenn gestendig were,
+geacht unnd gehalten werdenn.</p> </div>
+
+<div xml:id="Art.41.7">
+ <p> Im Fall aber keinn Parthey diesenn Aidt begeren würde, kann er
+stillschweigent umbgangen, unnd dem Proccß nachgesetzt werdenn.</p> </div>
+
+<div xml:id="Art.41.8">
+ <p> Doch wann das Gericht bey einem oder andern Theill einiche geferlichkeit
+vermercken würde, mag auß Richterlichem Ampt der sonderlich Aidt vor geferde,
+unangesehen, das es von den Partheien nit begert wordenn, den theill, so der
+geferden inn verdacht stunde, zu aller Zeitt des Kriegs uffgelegt werdenn.</p>
+</div>
+
+<div xml:id="Art.41.9">
+ <p> Es sollen auch die Richtere die Partheyen vermanen, eine der andern den
+Aidt nachzulassen. Da der Eidt aber geleistet werden soll, sollenn beide Theill
+des Eidt einhalt unnd schwerer Straff Meineidts verstendiglich und mit ernst
+erinnert unnd gewarnet werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.42">
+ <head>[42] Von Satzstücken und Articuln.</head>
+
+<div xml:id="Art.42.1">
+ <p>
+ Nach solcher Kriegsbefestigung mag der Cleger
+seine Clage unnd Gerechtigkeit weiter und underschiedlicher Articuls weise
+vorbringen. Damit er den gegentheil zur bekantnusse desto besser bringen unnd
+die Zeugen darauff füren möge, Soll er zill unnd
+Zeit darzu bitten, die ime auch gegeben werdenn soll. Wann aber die
+Clage vorhinn Articuls weise eingebracht were, So mag der Cleger dieselbigen
+ann Stadt der Satzstück unnd Articuln repetiren,
+unnd ob er will mittel eidts übergeben wie folget.</p> </div>
+
+<div xml:id="Art.42.2">
+ <head>Wie der Cleger seine Articul bey dem Aide übergeben soll.</head>
+ <p> Die Articul so ich in Recht bracht habe, seind war, so viel sie mein eigen
+geschefft, thunn unnd lassen anlangen. So viel sie
+aber nit meinn eigenn, sondern frembde gescheffte berüren, glaub ich sie war
+sein, unnd verhoff sie zu beweisen, als mir Gott helffe unnd sein heiliges
+Euangelion.</p> </div>
+
+<div xml:id="Art.42.3">
+ <p> Wann der Cleger seine Articul dermassen ingegeben, soll der Beclagt uff
+des Clegers beger angehalten werdenn, bey gleichem Eide singulariter
+singulis, Das ist uff einen jeden Articul
+in Sonderheit zu antworten.</p> </div>
+
+<div xml:id="Art.42.4">
+ <p>
+ <pb n="127r"/> Wilche Antwort geschen soll mit den wortenn:
+Ich gestehe es nit. Unnd das inn Sachen, die des Beclagten eigen thun
+unnd lassen belangen. Aber umb frembde geschicht soll
+geantwort werdenn: Ich glaub es, oder glaub es nit. Unnd soll der Beclagt vor
+solcher Antwort diesen folgenden Eidt thun, unnd darnach antworten, wie
+vursch[ehen].</p> </div>
+
+<div xml:id="Art.42.5">
+ <head>Wie der Beclagt bey dem Aide antworten soll.</head>
+ <p> Ich wil rechte Antwort geben zu des Clegers Articuln, sonder allen betrug,
+als mir Gott helffe und sein heiliges Evangelium.</p> </div>
+
+<div xml:id="Art.42.6">
+ <p> Es mögen die Partheien ire Articuln und Antwortten bey dem Eyde obgeachter
+massen angeben, in eigner Person oder durch ire Mompar unnd
+Anwelde, Doch das sie genugsamb gewalt darzu haben, und vonn den
+principaln genuchsam underricht seinn.</p> </div>
+
+<div xml:id="Art.42.7">
+ <p> Wo aber einige Parthey uff die Articul die der Richter zugelassen, und
+gegentheil beim Eide angegeben hette, wie vorgesch. stehet, nit genuchsamb oder
+gar nit antworten wolte. Nach dem ir solchs bey straff unnd poen der
+bekäntnusse gerichtlich ufferlacht und gepotten were. Die Articul sollen uff
+gegentheils beger <pb n="127v"/> vor bekant angenommen, unnd
+darauff fernner, wie Recht, bis zum endturtheil inschlißlich volnfaren
+werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.43">
+ <head>[43] Von Beweisungen.</head>
+
+<div xml:id="Art.43.1">
+ <p> Wann der Clagen und Articuln zumall oder zum theil nit gestanden wirdt,
+Soll dem Cleger uff sein ansuchen, so fernne als die Clage vor geschickt, und
+die Articul <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_089.gif">[Hartnack Seite 89]</ref>
+vor vertreglich angesehen werden, durch das Gericht zur beweisung zugelassen
+werdenn.</p> </div>
+
+<div xml:id="Art.43.2">
+ <p> Will der Cleger durch Zeugen beweisen, soll er deren Namen inn beysein des
+Gegentheils, anzeigen, und dem Beclagten zeit geben werden, sein Fragstück, ob
+er will, inzulegen.</p> </div>
+
+<div xml:id="Art.43.3">
+ <p> Der Beclagt mag auch vor der Verhör, gegen die Zeugen excipiren oder
+protestiren wieder derselbigen Person und aussagen nach der Verhör zue
+gelegener Zeit zu excipiren.</p> </div>
+
+<div xml:id="Art.43.4">
+ <p> Die Zeugen sollen alle vorgehaischen und den Wiedertheil darzu verkündet,
+die Zeugen zu sehen und hören schweren, und inn gegenwertigkeit des
+Wiedertheils oder seines ungehorsamen außbleibens, die Zeugen angenommen,
+beeidigt und verhört werden.</p> </div>
+
+<div xml:id="Art.43.5">
+ <p>
+ <pb n="128r"/> Nach solcher zulassung unnd annennung sollen
+die Zeugen, nachbeschriebenen Aidt schweren, und des nit erlassen werden, beide
+Partheyen erlissen sie dann des Aidts aus freiem Willenn.</p> </div>
+ </div>
+            <div xml:id="Art.44">
+ <head>[44] Zeugen Aidt.</head>
+
+<div xml:id="Art.44.1">
+ <p> Ich N. will die Warheit in der gantzen Sachen zwischen N. und N. sagen,
+was ich weis unnd gefragt werde, und das nit lassen umb lieb,
+leidt, haß, freundtschafft, feindschafft, forcht, gab, nutz
+oder anderer sachen willen, dardurch die Warheit möchte verhindert
+werden, trewlich und ungeferlich, als mir Gott
+helffe und sein heiliges Euangelion.</p> </div>
+
+<div xml:id="Art.44.2">
+ <p> Nach gethanen Eide sollen Schultheiß unnd Scheffen die Zeugen alle, oder
+einn jeden besonder vor dem Verhör, ires gethanen Eidts erinnern, und vor der
+straff des Meineidts verstendiglich unnd mit ernst verwarnen, wie folget.</p>
+</div>
+ </div>
+            <div xml:id="Art.45">
+ <head>[45] Von warnung und straff des Meinaidts.</head>
+
+<div xml:id="Art.45.1">
+ <p> Einn Zeuge der wieder seinen gethanen Eidt einn falsch gezeugnis gibt, der
+verspot und veracht Gott den Allmechtigen, der alle dinge sihet und weis, und
+die Hertzen der Menschen erforschet, und selbs die Warheit ist.</p> </div>
+
+<div xml:id="Art.45.2">
+ <p>
+ <pb n="128v"/> Zum zweitten, betreugt er mit seinem falschen
+zeugnis den Richter, das derselbe auff sein zeugnus einn ungerecht Urtheil
+fellet.</p> </div>
+
+<div xml:id="Art.45.3">
+ <p> Zum dritten beleidigt er die Parthey, wieder die das Urtheil außgesprochen
+wirdt. Derhalb ihnen Gott der Allmechtig zeitlich unnd ewiglich straffen
+wirdt.</p> </div>
+
+<div xml:id="Art.45.4">
+ <p> Unnd wo seine falscheit an tag kompt, hette inen die weltliche Obrigkeit
+zu straffen.</p> </div>
+
+<div xml:id="Art.45.5">
+ <p> Unnd ist schüldig dem beclagten theill seinen costen, schaden und
+intereße, darinn er durch das falsch zeugnus und ungerecht Urtheil gefurt, zu
+erstadten.</p> </div>
+
+<div xml:id="Art.45.6">
+ <p> Darnach soll einn jeder Zeuge besonder, und inn abwesen der Partheien unnd
+anderer, durch das Gericht, oder zum wenigsten durch den Schultheissen mit
+zweien Scheffen und den Gerichtschreiber vorgenommen werden.</p> </div>
+
+<div xml:id="Art.45.7">
+ <p> Unnd erstlich sollen sie uff die negstfolgende gemeine fragstücke, so
+sonst keine vom gegentheil eingegeben, gefragt werden.</p> </div>
+
+<div xml:id="Art.45.8">
+ <p> Darnagst die Articul der Clage darauff Zeuge zu verhören designirt, verstendiglich
+und deutlich, das er den eigentlich
+verstehe, verlesen lassen, und inen darauff verhörenn.</p> </div>
+
+<div xml:id="Art.45.9">
+ <p> Unnd so einige special Fragstück, bey diesem oder jenem Articul vom
+gegentheill eingegeben, und dieselben zur sachen dienlich were, soll der Zeuge
+darauff <pb n="129r"/> auch mit fleiß verhort, und sein
+aussage durch den Schreiber fleissig und trewlich
+auffgeschrieben, bey den Acten behalten werden.</p> </div>
+
+<div xml:id="Art.45.10">
+ <p> Unnd umb richtigkeit willen, Zeugen sein aussagen abermals verlesen ob er
+sich <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_090.gif">[Hartnack Seite 90]</ref> geirrt,
+oder unverstendiglich gezeuget, ihnen zum besserm verstande zu bringen, oder ob
+er darbey, wie er außgesagt, bleiben wölle.</p> </div>
+
+<div xml:id="Art.45.11">
+ <p> Die Verhörer sollen auch dem Zeugen bey seiner jedenn aussage, umb ursach
+seines wissens, Zeit, Malstat, und andere Umbstende, nach jeder Sachen
+gelegenheit, erfragen und auffschreiben lassenn.</p> </div>
+
+<div xml:id="Art.45.12">
+ <p> Unnd nach endlichem Verhör uff alle Articuln den Zeugen bey gethanenn Eide
+einbinden, warumb er gefragt, und sein aussage bis zu Rechtlicher eröffenung
+der Zeugen sagenn inn geheim und verschwigen zu haltenn.</p> </div>
+
+<div xml:id="Art.45.13">
+ <p> Da auch etliche Zeugen, so ernent wordenn, inn eines andern Gerichtszwang
+gesessen, soll der producirende Theill bey Schultheis und Scheffen umb
+Compaßbrieffe ann derselbigen Zeugen ordentlichenn Richter anhaltenn.</p>
+</div>
+
+<div xml:id="Art.45.14">
+ <p> Wilche ime solche Compas mit verschliessung der Articuln Interrogatorien
+und designation, worauff der Zeuge abzuhören, ann den Richter, mittheilen soln,
+inn nachfolgender form.<pb n="129v"/>
+                    </p> </div>
+ </div>
+            <div xml:id="Art.46">
+ <head>[46] Forma Compasbrieff eines Gerichts ann das ander, Zeugen zu
+verhören.</head>
+
+<div xml:id="Art.46.1">
+ <p> Wir Schultheiß und Scheffen des Gerichts zu N. Entbieten euch N. unsere
+freundtlich Gruß, willig Dienst, und alles Guts zuvor. Unnd fügen euch hiermit
+zu wissen, das sich vor uns Rechtfertigung erhalten zwischen N. Clegern ein,
+und N. Beclagten anderstheils, Darinn so weit inn Recht gehandelt, das berurter
+Cleger zu beweisungen seiner vurbrachtenn Clagen, gegenwehr oder Artickel
+gelassen ist, welcher beweisung er sich auch undernommen, und darauff N. und N.
+Zeugen ernennet und angezeigt. Unnd nachdem dieselben Personen ewerem
+Gerichtszwang underworffen und diese Compassbrieffe ann euch zu erkennen,
+gebetten. Wann nun Kundschafft der Warheit, niemandts verhalten werden, Auch
+eine jede Obrigkeit und Gericht dem andernn, der Warheit zu stewer und zu hülff
+kommen soll, seindt ime diese unsere Compassbrieffe inn Recht zuerkandt. Unnd
+ist demnach ann euch unser fleissig Bitt, ir wollet zu fürderung des Rechtens
+und ergründung <pb n="130r"/> der Warheit die Zeugen ewerem
+Gerichtszwang underworffen, so genanter N. euch ernennen unnd anzeigenn wirdt,
+vor euch Rechtlich erfordern, auch den Wiedertheil zeitlich darzu verkündigen,
+ob er darbey seinn oder schicken woll zu sehenn unnd hörenn, die Zeugen
+vorzustellen, mit gelübdt unnd Aidt uffzunemen, geloben und schwerenn, auch
+fragstücke ob er woll, zu ubergeben unnd nachfolgends dieselben vurgestelten
+Zeugen uff diese hierbey verleibte Artickul und Fragstücke, ob einige
+ubergeben, oder wo nit, alßdann uff gemeine Fragstücke und bey jedem Articul,
+so war gesagt, wirdt umb Ursachen seines Wissens, mit fleiß verhören unnd
+befragen, und derselben Kunden mit Fleiß außschreibenn lassen, und mit aller
+verhandlung, so vor euch ergangen, uns verschlossen zu schicken, inn unserm
+Rechtspruch darnach wissen unnd haben zu haltenn. Das wollen wir umb euch zu
+beschulden geneigt sein. Des zu urkundt ...</p> </div>
+
+<div xml:id="Art.46.2">
+ <p> Unnd wann der Richter dann beschrieben wirdt der Zeugen verhören will,
+soll der gegentheil darzu beruffen werden, die Zeugenn zu sehen und hören
+schweren, unnd darnach die Zeugensage verschlossen dem vorigen Gericht
+zugeschickt werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.47">
+ <head>[47] Gemeine Fragstücke darauff alle Zeugenn gefragt werden
+sollen.</head>
+ <p>
+ <pb n="130v"/>
+ <list>
+ <item>1. Wie alt er sey. Item wie Reich.</item>
+ <item>2. Was seinn Handtierung oder Gewerb.</item>
+ <item>3. Ob er im geistlichen Banne oder Kay. Maj. Acht sey. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_091.gif" n="91"/>
+                        </item>
+ <item>4. Ob er der Parthey, so innen vorgestalt mit sipschafft,
+schwagerschafft, oder sonst verwandt sey.</item>
+ <item>5. Ob ime etwas verheissen, gegeben, nachgelassen, oder versprochenn sey
+Kundtschafft zu gebenn.</item>
+ <item>6. Ob er vonn dem vorstellenden theile oder sonst jemandt underricht
+sey, was unnd wie er sagenn solle.</item>
+ <item>7. Ob er auß seiner Kundschafft inn einem oder andern weg gewin oder
+verlust gewertigt sey.</item>
+ <item>8. Wilchem Theill er den gewinn oder niederlage der Sachen gönne.</item>
+ <item>9. Ob er sich mit seinen Mitgezeugenn auff die sache unterredt,
+besprochen und verglichen wie, oder was er sagen soll.</item>
+ </list>
+ </p> </div>
+            <div xml:id="Art.48">
+ <head>[48] Von dilation zur Beweisung.</head>
+ <p>
+ <pb n="131r"/> Es mögen die Gericht zu fürung der Zeugen,
+oder anderer beweisung drey dilation oder sonderlich gebenn, onn erkentnusse
+einiger ursach und sonderer solennitet, Aber die vierdt dilation oder schub,
+soll onn erkentnusse der ursach, und solennitet nit gegeben werdenn.</p> </div>
+            <div xml:id="Art.49">
+ <head>[49] Von eröffnung der Zeugensage.</head>
+ <p> Nach dem die Zeugen verhort seinn, sollen die Außsagenn auff begeren der
+Partheien eroffnet, unnd Abschrifften davonn und Zeit denjenigen, gegenn den
+sie gefurt, seine Notturfft dargegen vorzuwenden, gegebenn werdenn.</p> </div>
+            <div xml:id="Art.50">
+ <head>[50] Von briefflicher beweisung.</head>
+
+<div xml:id="Art.50.1">
+ <p> Wo auch der jhenig, so beweisung thun will, mit Brieffen, Siegeln,
+Instrumenten, oder andern glaubwirdigen Instrumenten gefast, die mag er
+einbringen. Doch sollen Siegel, Handschriffte und Instrumente vor Gerichte
+agnoscirt werden. Unnd so sie alters halben unbekentlich, doch in glaubwirdiger
+Form unnd uncancellirt, nit radirt, unnd sonst nit argwonig, uff ansuchen des
+producirendenn Theils umb <pb n="131v"/> alters willen
+zugelassen werdenn, vorbeheltlich dem gegentheil seiner Einredde.</p> </div>
+
+<div xml:id="Art.50.2">
+ <p> Es seinn auch mehr beweisungen, als durch eigen bekantnusse, offentliche,
+unlaugbar, scheinbare Daten. Item augenscheinliche besichtigung. Item mit
+gemeinem Gerichte. Item durch vermutung mit dem Eide, als so der Beclagt den
+Eidt dem Cleger, oder hingegen dem Beclagten den Aidt heimstelt, und der Eidt
+darauff dieselben alle stat haben oder nit: Sollen unsere Schultheissen und
+Scheffen sich bey Rechtsgelerten oder aus Rechtsbüchern erkhundigen. Dann
+solche dinge alle hierinn zu setzen, viel zu lang fallen würde.</p> </div>
+ </div>
+            <div xml:id="Art.51">
+ <head>[51] Von dem Eydt, so der Richter zu erfüllung der beweisung
+gestat.</head>
+
+<div xml:id="Art.51.1">
+ <p>Offt begibt es sich auch, das der Cleger und Beclagter der Clagen und
+Antworten nit volnkomlich erwiesen, und nur einn halbe beweisung hat, Alßdann
+mag der Richter oder das Gericht den der solche halbe beweisung hat, zu
+er[f]üllung <pb n="132r"/> solcher beweisung, den Aidt nach
+Außweisung der Rechten zuerkennen, und solchs allein inn den Sachen, davonn der
+den Eidt thun soll, selbst wissen dragt.</p> </div>
+
+<div xml:id="Art.51.2">
+ <p> Vorbehalten auch dem gegentheil rechtmessige Ursachen vorzuwenden, wo er
+will, warumb der Eidt nit gestadt werden solle, und darüber ferner mit Recht
+erkent werden.</p> </div>
+ </div>
+            <div xml:id="Art.52">
+ <head>[52] Von beschluß der Sachen.</head>
+
+<div xml:id="Art.52.1">
+ <p> Wann dann beide Partheyen Clag, Antwort, Kundt und Kundtschafft, auch
+notturfftig Inn und gegenredde, unnd alles was sie inn Recht verhoffen
+zugemessen <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_092.gif">[Hartnack Seite 92]</ref>
+inbracht, Sollen sie zu recht beschliessen, und ihnen Urtheil und Recht
+mitzutheilen bitten.</p> </div>
+
+<div xml:id="Art.52.2">
+ <p> Unnd wo ein Theill onn redlich ursach nit beschliessen, sondern den
+Gegentheil darinn uffhalten wolle, soll das Gericht mit dem andern Theil, aus
+Richterlichem Ampte beschliessen.</p> </div>
+
+<div xml:id="Art.52.3">
+ <p> Darnach sollen die Scheffen die Acta zum fleissigsten, und nach irem
+besten verstande verlesen, erwegen und Urthel darauff fassen.</p> </div>
+
+<div xml:id="Art.52.4">
+ <p>
+                        <pb n="132v"/> Wo aber der Handel wichtig unnd sie sich
+der Urthell nit entschliessen kondtenn, Sollen sie Recht bey unverdachten,
+unpartheylichen Rechts erfarnen, uff der Partheyenn ziemblichen Costen fassen
+lassen, unnd folgendes eröffnenn.</p> </div>
+ </div>
+            <div xml:id="Art.53">
+ <head>[53] Von eröffnung der Urthell.</head>
+
+<div xml:id="Art.53.1">
+ <p> Wann das Gericht das Urtheil entschlossen, soll solchs inn schrifften
+verfast, und inn sitzendem Gericht öffentlich verlesen, und mit verzeichnus
+Jars, Monats und tags inn das Gerichtsbuch eingeschrieben werden.</p> </div>
+
+<div xml:id="Art.53.2">
+ <p> Zu solcher eröffenung der Urthell sollen beide theill, oder anwelde,
+beruffen werden, unnd da einige Parthey außbliebe, soll nit weniger das Urthell
+auff ungehorsamb des außbleibenden theils, uff anhalten des gehorsamen Theils
+eröffenet und mitgetheilet werdenn.</p> </div>
+
+<div xml:id="Art.53.3">
+ <p> Inn solchen Endurtheln sollenn die Urtheiler fleissig achthaben, das sie
+das jenige, so vom Cleger begert wordenn, demselbigenn, als fer es doch in
+Recht genug erwiesenn, zu erkennen, und der Beclagt mit ablegung des
+grichtlichen Costens und Schadens, darinnen verdampt: Oder aber nach
+gelegenheit den <pb n="133v"/> Antworter vonn der Clage ledig
+erkennen, unnd dem Cleger einn ewig stilschweigen ufflegen, und also nach
+gestalt des bestenn beweises entweder verdammenn oder ledig zelenn.</p> </div>
+ </div>
+            <div xml:id="Art.54">
+ <head>[54] Von Gerichtscosten wie die taxirt und gemessigt werden
+sollen.</head>
+
+<div xml:id="Art.54.1">
+ <p> Die Gerichtliche Costen, so uffgangen, darinn einer verdampt, soll der
+erhaltender Theil underschiedlich vonn Item zu Item, wannehe, und wo vor die
+außgeben seind, verzeichnen, dem Gericht übergeben, unnd durchs Gericht taxiren
+lassen, unnd das Gericht den verlierenden theil zur bezalung anhaltenn.</p>
+</div>
+
+<div xml:id="Art.54.2">
+ <p> Wo aber neben dem gerichtlichen Costen, als Schreiber, Rednerlohn,
+Brieffgelt, Vorgebot, laut unserer derhalb hernachfolgender Gerichtlicher
+Besoldung, zu der Advocaten und Rechtsgelerten Ratgeben, und sonst inn andere
+wege angewendet, soll alles verzeichnet eingebracht, und also darauff erkent
+werden.</p> </div>
+
+<div xml:id="Art.54.3">
+ <p> So N. einen leiblichen Aidt schweret, das er inn dieser Sachen N. ged. <pb n="133r"/>
+Gerichtskosten außgelegt, oder noch außzugeben
+schuldig sey, das soll gehört werden, und fernner darauff ergehen, was recht
+ist:</p> </div>
+
+<div xml:id="Art.54.4">
+ <p> Inn sachen aber darinn Advocaten gebraucht werden sollen, soll dieser
+underscheidt gehalten werden. Wo die Advocaten sich im Handel nambhaft
+underschreiben, sollen die Gerichte nach grosse der Sachen, Fleiß und
+geschicklichkeit des Advocaten, für seine gehabte mühe gebürlichen lohn taxiren
+und messigen. Dann die Partheien mitt dem Aidt bedeuren soll. Würde aber der
+Advocat sich nit underschreiben, soll die verlustige Parthey darvor zu gebenn
+nichts schuldig seinn.</p> </div>
+
+<div xml:id="Art.54.5">
+ <p> Wann aber die Partheien inn irem Gerichtlichen Vorbringen und Handlungen
+keine Costen bitten, auch derhalb nichts außtruglichs erkent wirdt, so sollen
+die Scheffen, nach der Zeit auch derhalb nit richtenn oder etwas messigen.</p>
+</div>
+
+<div xml:id="Art.54.6">
+ <p> Wirdt auch vom Urthell appellirt, und die Appellation verfolgt, so soll
+auch mit den expensen, biß zu außfürung der Appellation stil gehalten
+werdenn.</p> </div>
+
+<div xml:id="Art.54.7">
+ <p> Sonst wo nit davonn appellirt, oder die Appellation nit verfolgt, soll die
+taxation wie obenn geschehen. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_093.gif" n="93"/>
+                    </p> </div>
+ </div>
+            <div xml:id="Art.55">
+ <head>[55] Von Execution und volnziehung der Urthel.</head>
+
+<div xml:id="Art.55.1">
+ <p> Nach dem vergeblich Urthel zu sprechen, wo die nit gebürender weise
+volnzogen unnd gehandhabt werdenn.</p> </div>
+
+<div xml:id="Art.55.2">
+ <p> Derhalben wollen wir, so ein Urthel an unserm Undergericht ergangen, unnd
+darvonn inn gebürender zeit, nemblich inwendig zehen tagen, nach
+außgesprochenem Urthell, nit appellirt, oder so appellirt, und derselbigenn aus
+redlichen Ursachen nit stat gegeben, oder so der stat gegeben, und
+nachfolgendts darauff <gap reason="Lücke für 11 Buchstaben"/> oder dieselbige
+sonst desert oder verloschen were, so soll der gewinnenden Parthey uff ir
+anruffen, gebürliche und schleunige execution unnd volnstreckung der Urthel
+geschehen, inn massen wie folgt.</p> </div>
+
+<div xml:id="Art.55.3">
+ <p> Unnd erstlich, so volnstreckung der Urthel begert wirdt, soll der
+gegentheil uff einen gebürenden termin darzu citirt und gefordert, zusehen die
+Gerichtscosten zu taxiren, rechnenn und messigen, und ferner die volnziehung
+der Urthel zu geschehen, oder rechtmessige Ursachen vorzubringen, warumb das
+nit geschehen soll.</p> </div>
+
+<div xml:id="Art.55.4">
+ <p> Wo alßdann uff dem angesetzten termin die verlustige Parthey rechtmessige
+Ursachen, so die volnziehung der Urthel verhinderenn, furbrechte, soll sie nach
+Ordnung <pb n="134v"/> der Rechte darumb gehört werdenn.</p>
+</div>
+
+<div xml:id="Art.55.5">
+ <p> Wann aber keine Ursachen vorbracht, oder solche vorbracht, welche nit
+erheblich oder rechtmessig, und zu verlengerung der sachen vorgewandt, soll zu
+volnstreckung der Urthel alßbaldt, ohnn Verzug vortgefaren werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.56">
+ <head>[56] Wie in reali oder heblicher forderung volnziehung geschehen
+soll.</head>
+ <p> Wann die Urthel in reali actione als umb Hauß, Hoff, Acker, Wiesen,
+Garten, Pferde, Ochsen, oder ein ander dergleichen Gut, oder ding gehandelt
+wirdt, ergangen ist, Soll zuvor, ehe die volnstreckung geschicht, dem
+verlustigen theil gebotten werden, solch Gut oder Ding, in nemblicher Zeit dem
+Cleger einzuräumen oder zuzustellen. Und wo er solchs nit det, soll alßdann
+durchs Gericht die volnziehung wircklich geschehen, das Gut oder ding von dem
+Beclagten mit der that genommen, unnd dem Cleger zugestalt werdenn.<pb n="135r"/>
+                </p>
+</div>
+            <div xml:id="Art.57">
+ <head>[57] Wie in personlichen Clagen die volnziehung geschehen soll.</head>
+
+<div xml:id="Art.57.1">
+ <p> Wo aber execution unnd volnziehung in personlichen Clagen beschehen soll,
+wann der Beclagt inn ein gewiß ding verdambt, soll die execution inn ein solch
+ding, so ferne es vorhanden, geschehen.</p> </div>
+
+<div xml:id="Art.57.2">
+ <p> Were aber der Beclagt inn ein gewiß ding nit verdambt, oder das nach
+gestalt der Sachen die volnstreckung inn andern seinenn Gütern, beschehen soll
+und muß.</p> </div>
+
+<div xml:id="Art.57.3">
+ <p> Alßdann soll man zum ersten die farende Habe, und so dieselbe nit reichen
+würde, alßdann die ligende Gütter, unnd zu dem dritten des Beclagten
+Schüldener, die der schuldt gestendig, pfenden oder angreiffenn, Es were dann,
+das im Rechten, in sondern fellen anders versehen.</p> </div>
+
+<div xml:id="Art.57.4">
+ <p> Es soll auch inn der pfandung unnd volnstreckung diese bescheidenheit
+gehaltenn werden, das solche Güttere, so dem Beclagten am wenigsten schaden
+bringen, unnd doch dem Cleger zu volnziehung der Urthell genugsamb sein,
+genommen werden.</p> </div>
+
+<div xml:id="Art.57.5">
+ <p>
+ <pb n="135r"/> Unnd were es sache, das jemandt erschiene, und
+die gepfandte Güttere vor sein eigen Gut anspreche, uff zeit der Pfandung, oder
+darnach, so sollen die verordenten executorn und volnstrecker, die sachen an
+die Gericht weisen, darüber nach Ornung der Recht summarie furzufaren unnd zu
+erkennen.</p> </div>
+
+<div xml:id="Art.57.6">
+ <p> Unnd so sich das angegriffene oder gepfandte Gut des Beclagten oder
+schüldeners zu sein erfünde, soln die Urthell auff dasselbige Gut, inn massen,
+wie vorstehet, unverzüglich volnstreckt, Wo nicht, soll das irrig oder streitig
+Gut <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_094.gif">[Hartnack Seite 94]</ref>
+verlassen, ein anders an dieselbige stat genommen, und die Urtheil, inn maasen,
+wie vorstehet, mit demselbigen volnstrecket werden.</p> </div>
+
+<div xml:id="Art.57.7">
+ <p> Wo auch jemandt anzeigen, unnd mit Recht darthun würde, daß das gepfandte
+Gut, nit des schüldeners, sondern seinn des anzeigers, vorhin verlegt
+unterpfandt were, so soll die volnstreckung der Urthel nit volnfurt, sondern
+geschurtzt. Darauff alßbaldt dasselbige Gut verkaufft, und erstlich der vorige
+glaubiger davon gantz bezalt, volgents das ubrige zu volnstreckung der Urthell
+gewendet, Und im fall dasselbige nit genug, alß dann ferner, wie vorstehet, ann
+andere des Schuldeners gütter gegriffen werden.<pb n="136r"/>
+                    </p>
+</div>
+ </div>
+            <div xml:id="Art.58">
+ <head>[58] Wie die Pfände verkaufft, und umbgeschlagen werden sullenn.</head>
+
+<div xml:id="Art.58.1">
+ <p> Unnd wann solche Gütter, liggendt oder farendt, zu execution und
+volnstreckung der Urthell genommen, sollen sie inn ein sondern Zittel
+geschrieben, und an die Gerichts oder Ratheuser sechs wochen lang daran zu
+stehen, angeschlagen, Oder zu dreien viertzehen tagen öffentlich vor der
+Kirchen außgeruffen, und den Beclagten darzue verkundt werden, zu sehen die
+genommene Pfande und Gütter umbzuschlagen und zu verkeuffen, und sollen solche
+Zittel beim Gericht woll verwart werdenn.</p> </div>
+
+<div xml:id="Art.58.2">
+ <p> Wann dann solche Gütter auffgepotten, und die angesetzte zeit verlauffen,
+sollen sie an einen offentlichen Ort, darzu bequemlich, sonderlich verordnet,
+per licitationem verkaufft, das ist, welcher das meist darumb gibt, dem sollenn
+sie durch die verordente executorn, Verkeuffer, Büttel, Gericht oder
+Stadtknecht verkaufft unnd dargeschlagen, und hierin keinn geferde gebraucht
+werdenn.</p> </div>
+
+<div xml:id="Art.58.3">
+ <p> Es mögen auch die Gerichte, nach gelegenheit der Zeit, der personen, oder
+art unnd gestalt des Handels, solche zeit der execution mindern, unnd ein
+kürtzer ansetzen.</p> </div>
+
+<div xml:id="Art.58.4">
+ <p>
+ <pb n="136v"/> Damit aber mitler zeit der execution die
+Gütter nit vereussert werden, soll die condemnierte Parthey auch fur der
+execution und volnstreckung geloben, nichts zu vereussern, zu nachtheil dessen,
+so die Urthel erhalten, und wilchen volnstreckung gedeienn soll.</p> </div>
+
+<div xml:id="Art.58.5">
+ <p> Unnd sollen obgemelter Personen, zu der verkauffung der Gütter verordnet,
+wes am höchsten darumb gepotten und geben worden, und den Keuffer mit seinem
+Namen und Zunamen fleissig auffschreiben, und den Gerichten derhalb gebürende
+unnd erpare Rechenschafft thunn.</p> </div>
+
+<div xml:id="Art.58.6">
+ <p> Wir wollen auch, das obgemelte Executores und Keuffer, Büttel oder Stadt
+Knecht, so die gepfandte Güttere verkeuffen, wieder durch sich selbst, noch
+jemandts anders vonn irentwegen, heimlich noch öffentlich, vonn denselben
+Güttern nichts keuffen oder zu iren händen bringen sollen, alles bey iren
+Aidtspflichtenn und schwerer straffe zu vermeidenn.</p> </div>
+ </div>
+            <div xml:id="Art.59">
+ <head>[59] Wie die entrichtung vom gelde der pfände dem gewinnenden theil
+geschehen soll.</head>
+
+<div xml:id="Art.59.1">
+ <p> Unnd so die Pfande, wie oben angezeigt, verkeufft, soll er erhaltenden
+Partheien vonn dem Gelde, daraus erlöset, mit wissen der Gericht, fur ir
+Heuptforderung <pb n="137r"/> und erlangten Gerichtscosten,
+außrichtung geschehen, Doch wo etwas ubrig, das soll dem Beclagten oder
+Schüldener zu gutten kommenn.</p> </div>
+
+<div xml:id="Art.59.2">
+ <p> Dergleichen wo die verkauffte Güttere vor die Heuptsumma und den
+Gerichtscosten nit genugsamb weren, soll dem gleubiger ann andern des
+Schüldners Güttern, vor die ubermaß ferner execution und volnstreckung, wie
+Recht, geschehen.</p> </div>
+
+<div xml:id="Art.59.3">
+ <p> Dem glaubiger oder Partheien, so die Urtheil erhalten hat, soll zugelassen
+sein, die Gütter oder Pfande, inn obgemelter massen, als einem Frembden zu
+keuffen. <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_095.gif">[Hartnack Seite 95]</ref>
+                    </p>
+</div>
+ </div>
+            <div xml:id="Art.60">
+ <head>[60] So kein Keuffer der Pfande befundenn, wie es dann gehalten werden
+soll.</head>
+ <p> Wo aber kein Keuffer befunden, mögen solche Güttere dem Glaubiger vor ein
+benante summa Geldes, oder einen theil der Schuldt, wie das die Gerichte
+erkennen, zu bezalung geben werden, Doch wo die Güttere, wilche zu bezalung
+gegeben, die Heuptsumma oder iren Wert nit ertragen, Soll ihm uff des Beclagten
+<pb n="137v"/> andern Güttern fernner execution vorbehalten
+sein, Herwiederumb wo ubermaß befunden, soll dem Beclagten herauß gegeben
+werdenn.</p> </div>
+            <div xml:id="Art.61">
+ <head>Von Appellation so von Endurtheln geschehen.</head>
+
+<div xml:id="Art.61.1">
+ <p> Wann nach gesprochenem Endurthel ein Parthey sich beschwert befünde, die
+mag alß baldt im fußstapffen, oder bey sitzendem Gericht inn gegenwertigkeit
+des Schultheissen ann uns, oder unsere verordente Appelation Richtere mündlich
+appelliren, mit diesen oder dergleichen worten:</p> </div>
+
+<div xml:id="Art.61.2">
+ <p> Herr Schultheisse von dieser Urtheil als beschwert, ewerer Eherrn und des
+gantzen Handels nichtigkeit vorbeheltlich, appellire und beruff ich mich ann
+den wolgebornen meinen gnedigen Herrn Graven zu Witgenstein etc. oder seiner
+Gn. verordente Commissarien und Appellation Richtere, unnd bitte mir Aposteln
+oder abscheidts Brieffe mitzutheilen.</p> </div>
+
+<div xml:id="Art.61.3">
+ <p> Wo aber von dem Endurthel im fußstapffen nach der eröffnung, mündlich oder
+mit lebendiger stim, nit appellirt würde, Soll die Appellation zum wenigsten
+inwendig zehenn tagen nach gesprochenem Urthel, vonn stunden zu stunden zu <pb n="138r"/>
+rechnen, geschehen, Und soll solche Appellation inn
+Schrifften vor dem Gerichte oder Schultheissen und etlichen Scheffen, so man
+die haben mag, oder vor einem glaubwirdigen Notarien und Zeugen geschehenn,
+Unnd solche schrifftiche Appellation vor Notarien geschehen, inn zeit des
+Rechtens obgemelt, denen Gericht und Wiederparthey insinuirt und verkündigt
+werdenn.</p> </div>
+ </div>
+            <div xml:id="Art.62">
+ <head>[62] Von Aposteln und abscheidts brieven.</head>
+
+<div xml:id="Art.62.1">
+ <p> Wann nun von Endurtheln der gestalt appellirt und Aposteln gepetten unnd
+die sache, also geschaffen, das die Appellation in Recht zuzulassen, so soll
+das Gericht, solchen Appellationen mit diesem oder dergleichen worten deferiren
+oder stadt geben, unnd dieselbige zulassen.</p> </div>
+
+<div xml:id="Art.62.2">
+ <p> Dem Wolgebornen unserm G. Landherrn, Graven zu Witgenstein etc., zu
+Eheren, gibt das Gericht der Appellation stadt und Reverential Aposteln.</p>
+</div>
+
+<div xml:id="Art.62.3">
+ <p> Darauff soll dem appellirenden Theill dreissig Tage gesatzt und verordnet
+werdenn, seine Appellation inn unser Schreiberey anzubringen unnd anhengig zu
+machen.</p> </div>
+
+<div xml:id="Art.62.4">
+ <p>
+ <pb n="138v"/> Wir wöllen auch, das inn hangender Appellation
+sach, weder durch das Gericht, noch Parthey inn der Heuptsach oder costen
+nichts attentirt, oder einige newerungen vorgenommen werden soll.</p> </div>
+
+<div xml:id="Art.62.5">
+ <p> Wo aber appellirt wurde inn Fellenn, darinn die Recht zu appelliren nit
+gestadten, solche Appellation soll von den Undergerichten nit zugelassen,
+sondern mit diesen wortten verworffen werdenn.</p> </div>
+
+<div xml:id="Art.62.6">
+ <p> „Nach dem deine Appellation freventlich, unnd inn Recht nit zulessig ist,
+so geben wir derselben keine stadt, dann refutorial Aposteln, alß dann mag zu
+volnstreckung der Urthel volnzogen werdenn.</p> </div>
+
+<div xml:id="Art.62.7">
+ <p> Würde aber der Appellirender inn obbemelten dreissig tagen, die
+Appellation nit anhengig machen, und das Undergericht dessen nit vorgewissigt,
+oder durch Inhibition inenn die Handt nit schliessen lassenn.</p> </div>
+
+<div xml:id="Art.62.8">
+ <p> So mag das Undergericht auff anhalten der gewinnenden Parthey, alßdann zu
+volnstreckung der Urthell, wie Recht, volnfaren.</p> </div>
+
+<div xml:id="Art.62.9">
+ <p>
+                        <ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_096.gif">[Hartnack Seite 96]</ref> Die
+Undergericht und Schreiber sollen auch die Partheien uber solche dreissig tage
+inn mittheilung aller gerichtlicher Acten, nit auffhalten: Sondern die Acten
+gantz volnkommen mit erzelung auff was tag, Monat, Jar, wie und welcher gestalt
+appellirt worden, mittheilenn.<pb n="139r"/>
+                    </p> </div>
+ </div>
+            <div xml:id="Art.63">
+ <head>[63] Von Appellation, so von beyurtheln beschehen.</head>
+
+<div xml:id="Art.63.1">
+ <p>Wurde aber von einem beyurthell appellirt, soll dasselbig nach Ordnung der
+Rechten in Schrifften und innerhalb obgemelten zehenn tagenn geschehen, unnd
+darinn clärlich die ursachen zugefügter beschwerung, außgedrückt werdenn. Unnd
+soll in diesem fall das Gericht, so ferne es die ursach der beschwernus, nit
+vor redlich oder billich ansicht, der <choice>
+                            <sic>Appelaiton</sic>
+                            <corr/>
+                        </choice>
+stadt zu geben nit schüldig seinn.</p>
+                </div>
+
+<div xml:id="Art.63.2">
+<p>Unnd sonderlich soll keiner Appellation von beyurtheiln stadt gegeben
+werden, die nit crafft einer Endurthel haben, wilchs sich der Appellant nach
+der Endurthel seiner vermeinter beschwerdt, inn der andern Instantz nit
+erhaltenn müge.</p>
+                </div>
+
+<div xml:id="Art.63.3">
+<p>So dieser Appellation nit stadt gegeben würde, mag alßdann durch das Gericht
+vorgefaren, wie hievor vonn Endurtheln, biß so lange ihnenvonn dem Obergericht
+ferner zu handeln verlassen wirdt.</p>
+                </div>
+
+<div xml:id="Art.63.4">
+<p>Wann aber vonn Endt oder beyurtheln inwendig zehen tagen weder mündlich noch
+schrifftlich appellirt, So erlangt die außgesprochen Urthel ir crafft, und mag
+<pb n="139v"/> darauff mit gebürlicher Execution und
+volnstreckung gehandelt werdenn.</p>
+                </div>
+            </div>
+            <div xml:id="Art.64">
+ <head>[64] Von unzulessigenn Appellationen.</head>
+
+<div xml:id="Art.64.1">
+ <p>Wer auff außgangene Ladungen offenbar ungehorsamb erkant, mag nit
+appellirenn, soll die Appellation nit angenommen werdenn.</p>
+                </div>
+
+<div xml:id="Art.64.2">
+<p>2. Einn offenbarer, bekandter und uberwundener Mißtheter, kan nit
+appellirenn. Wann einer aber aus forcht peinlicher marter zu einer bekantnuße
+gedrungen were, der mag vonn der peinlichen frage mit urttel ufferlegter
+straffe woll appelliren. Doch soll er genugsamb Burgschafft thun, oder inn
+Gefengnusse verwaret werdenn.</p>
+                </div>
+
+<div xml:id="Art.64.3">
+ <p>3. Der inn Amptsachen seines unfleiß oder verseumbnuß halber mit Urthell
+verlustig wirdt, mag nit appelliren.</p>
+<p>Wann aber die verhandlung und sachen, derhalb die erkantnuß geschehen, nit
+seinn Ampt, sondern andere ding andrifft, mag derselbige verlustiger woll
+appelliren.</p>
+                </div>
+
+<div xml:id="Art.64.4">
+<p>4. Zum vierdten, mag inn Fiscalischen fellen unnd inn sachen Kay Mat. Rent,
+Zinß, und Gulten bedreffent, nit appellirt werden. Aber so viel die erblosen
+Güt<pb n="140r"/>tere, bona vacantia zu Latein genant,
+belangt, mag woll appellirt werdenn.</p>
+                </div>
+
+<div xml:id="Art.64.5">
+<p>5. Zum fünfften, Wann jemandts vom Heupturthell nit appellirt hat, und
+erstlich von der Execution oder volnzihung derselben urthel appelliren wolt,
+wurdt nit zugelassen, Es wurde dann die gebürliche masse der volnzihung
+ubertretten oder nit gehalten.</p>
+                </div>
+
+<div xml:id="Art.64.6">
+<p>6. Zum sechsten, mag vonn Urtheiln, so allein in possessorio ergangen
+regulariter nit appellirt werden, Es sey dann, das die Urtheil ein offenbar
+unrecht auff ihr drüge, oder die beschwerden in petitorio durch newe
+Rechtfertigung umb das Eigenthumb nit mocht wiederbracht werdenn, mag davonn
+appellirt werdenn, und sonst in possessorio nit.</p>
+                </div>
+
+<div xml:id="Art.64.7">
+<p>7. Zum siebenden, vonn beyurtheln, die nit crafft eines Endurtheils haben,
+oder durch derselben Endurthell zu wiederbringen sein, mag nit appellirt
+werdenn.</p>
+                </div>
+
+<div xml:id="Art.64.8">
+<p>8. Zum achten, vonn erwelung zu einem Vormunder oder Curatorn oder eins
+gemeinen Ampts, mag nit appellirt werden, mag aber seine entschüldigung, wo er
+einige rechtmessige hette, inn gebürender Zeit vorwendenn.</p>
+                </div>
+
+<div xml:id="Art.64.9">
+<p> 9. Zum neundten, vonn Urtheln unnd erkentnusse der volnzihung und
+execution, so <choice>
+                            <sic>kenen</sic>
+                            <corr/>
+                        </choice> Verzug leiden mag, hat keine
+Appellation stadt. [<pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_097.gif" n="Seite&#xA;97"/> <pb n="140v"/>
+                    </p>
+                </div>
+
+<div xml:id="Art.64.10">
+<p>10. Zum zehendten, Wann in einer Appellation etwas das zu derselbigen
+gehörig, unterlassen, und also die wesentliche gebürende Zier nit gebraucht,
+wirdt geacht und furgefaren, als wann nit appellirt worden.</p>
+                </div>
+
+<div xml:id="Art.64.11">
+ <p> 11. Zum eilfften, So ein Urtheil ergangen, unnd von beiden Partheien
+angenommen worden, hat die Appellation nit mehr stadt, ob gleich der eintheil
+der annemung Rewe entpfangen, und vor erscheinung deren 10. tage appelliren
+wolte, oder appellirt hette.</p>
+                </div>
+
+<div xml:id="Art.64.12">
+ <p>12. Zum zwölfften, So die verlustige Parthey zeit begert hette zu
+volnzihung ergangner Urthel, und darüber appeliren wolt, wird solche
+Appellation auch nit zugelassen.</p>
+                </div>
+
+<div xml:id="Art.64.13">
+ <p>13. Zum dreyzehendten, Die Kay. Maj. mag eine sache zu verhören und zu
+erortternn einem Richter oder Commissarien befehlen von dem nit appellirt
+werden solle.</p>
+                </div>
+
+<div xml:id="Art.64.14">
+ <p>14. Zum vierzehendten, so einige freventliche Appellation, das ist, wieder
+Recht und außgedruckte Statuten geschehen, werdenn nit zugelassenn.</p>
+<p>Die jhenigen aber, so freventlicher muttwilliger weise appelliren, sollenn
+vermög der Rechten gestraffet werdenn.</p>
+                </div>
+
+<div xml:id="Art.64.15">
+ <p>15. Zum fünfftzehenden, hat die Appellation nit stat, wann die verlustige
+Parthey, zeit gebetten hat, vermög der Urthel zu bezalen. <pb n="141r"/>
+                    </p>
+                </div>
+
+<div xml:id="Art.64.16">
+<p>16. Zum sechszehenden, Ann des heiligenn Römischen Reichs Cammergericht
+werdenn keine Appellation angenommen inn Sachen die under 150 Gl. Haubtgeldts
+werdt sein, Sollenn auch vonn uns nit zugelassen werden, Also auch inn
+peinlichen sachen.</p>
+                </div>
+
+<div xml:id="Art.64.17">
+<p>17. Zum siebenzehenden, So einer auff angeben eines Clegers gefangen,
+gepeinigt, und inn costen gebracht, doch unschuldig befunden, mag derselbig
+unschüldiger, den Ankleger umb solchen costen, schmach und schaden rechtlich
+vornemen, darinn summarie und onn zirlicheit rechtlichen proceß gehandelt, und
+die urtheil on weittere Appellation volnzogen werden sollenn, wie inn des
+Reichs Halsgerichts Ordnung versehen.</p>
+                </div>
+
+<div xml:id="Art.64.18">
+ <p>18. Zum achtzehenden, Es wird auch nit zugelassen dreymal zu
+appelliren.</p>
+                </div>
+
+<div xml:id="Art.64.19">
+ <p>19. Zum neuntzehenden, Vonn einem nichtigen Urtheil ist nit not zu
+appelliren.</p>
+                </div>
+
+<div xml:id="Art.64.20">
+ <p>20. Zum zwentzigsten, Ein Appellation die ins gemein geschicht wird
+verworffen.</p>
+                </div>
+
+<div xml:id="Art.64.21">
+ <p>21. Zum 21. Inn geringsten Sachen wird keine Appellation
+zugelassen.</p>
+                </div>
+
+<div xml:id="Art.64.22">
+ <p>22. Zum 22. Wann der Richter die beschwernus, derhalb appellirt wirdt,
+revocirt, hat die Appellation keine stadt. <pb n="141v"/>
+                    </p>
+                </div>
+
+<div xml:id="Art.64.23">
+<p>23. Zum 23. Die Appellation dessen, so nit appelliren kann, hat nit
+krafft.</p>
+                </div>
+
+<div xml:id="Art.64.24">
+<p>24. Zum 24. Wann einer vor einen falschen Müntzer verdampt ist, kann nit
+appellirenn.</p>
+                </div>
+
+<div xml:id="Art.64.25">
+ <p>25. Zum 25. Es kann keiner darvon appelliren, das er selbst gethann oder
+bestelt hatt zu thun.</p>
+                </div>
+
+<div xml:id="Art.64.26">
+ <p>26. Zum 26. Der gewinnende Teil kan nit appelliren vonn der Sententz, umb
+der nachgelassener taxation willen der expensen.</p>
+                </div>
+
+<div xml:id="Art.64.27">
+ <p>27. Zum 27. Nach verlauff der geordenter 10. tage wirdt keine Appellation
+gestadt.</p>
+                </div>
+
+<div xml:id="Art.64.28">
+ <p>28. Zum 28. Vonn einem wilkörlichen Scheidßrichter kenn man nit
+appelliren.</p> 
+ <p>Item wann im Compromis die Appellation ausgeschlossen.</p>
+<p>Andere mehr Felle seind bey den Rechts gelerten zu findenn. [142r]
+</p>
+                </div>
+            </div>
+            <div xml:id="Art.65">
+ <head>[65] Wie in Appellation Sachen vorgefaren werden sol.</head>
+
+<div xml:id="Art.65.1">
+<p>Wilche Parthey vonn Undergerichten beschwert an uns appellirt, die soll zu
+volnfürung irer Appellation innerhalb vorgemelten dreissig tagenn, bey unser
+<ref target="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_098.gif">[Hartnack Seite 98]</ref> Schreiberey
+vermelden, das er appellirt habe uff N. tag und zeit, und solchs prothocolliren
+lassen, Unnd wo ime von nöten, mag er umb Compulsorial, oder Zwangsbrieffe ann
+vorigs Undergericht, die Acten ime mitzutheilen, auch sonsten umb Inhibition
+anhaltenn.</p>
+                </div>
+
+<div xml:id="Art.65.2">
+ <p>Die Compulsoriales und Inhibition soll unser Secretarius inn gebürender
+formen zu erkennen und folgen zu lassen, bevelch haben.</p>
+                </div>
+
+<div xml:id="Art.65.3">
+ <p>Unnd da die Undergerichte damit ersucht werden, sollenn sie mit erzelung
+des handels, und wie es vor inen vorbracht und verlaut hat, die Acta und das
+Urtheil under des Gerichtssigell verschlossen zustellen, Die soll darnach die
+appellirende Parthey in die Schreiberey presentiren, citation gegenn seinen
+Wiedertheil bitten. <pb n="142v"/> </p>
+                </div>
+            </div>
+            <div xml:id="Art.66">
+ <head>[66] Von Ordnung Gerichten in Appellation sachen.</head>
+
+<div xml:id="Art.66.1">
+ <p>Ordinari Gerichtstage sollen wochentlich auff einen jeden Freitag gehalten
+werden, und da vonn nötten der Sampstag darzu gehören.</p>
+                </div>
+
+<div xml:id="Art.66.2">
+ <p>Es sollen auch die Parteien durch den Gerichtspotten mit einer
+schrifftlicher Citation zu fruer tagzeit, nemlich Sommerzeit zu sieben, und
+Winterzeit zu acht horen vorbescheiden werden. Unnd wilchs theil uber acht uhr
+ungehorsamblich, one rechtliche entschuldigung außbleiben würde, soll einen Ort
+zu busse geben. Wilche aber den Tag unabgeschrieben nit besuchen wurden, sollen
+dem erscheinenden theil seinenn costen gelten, unnd einen Daler zur Busse
+gebenn, er könne dann dessen solche ursachen der verhinderung darthun, dardurch
+er darvonn billich zu enthebenn.</p>
+                </div>
+
+<div xml:id="Art.66.3">
+ <p>Unnd soll inn der Rechthangendenn Sachen nach besage der Rechten gegen die
+offtmals ungehorsamen, wie inn erster Instantz volnfaren werdenn. <pb n="143r"/>
+                    </p>
+                </div>
+            </div>
+            <div xml:id="Art.67">
+ <head>[67] Vonn gemeinen Audientien.</head>
+
+<div xml:id="Art.67.1">
+ <p>Es sollen im gantzen Jar vier Audientien gehalten werden. Unnd soll jede
+Audientz die Woche auß also 6. tage lang werenn.
+ <list>
+ <item>Die erste den zweitten Montag nach Trium Regum.</item>
+ <item>Die andere Montags nach Oculi.</item>
+ <item>Die dritte Montags nach Johannis Baptistae.</item>
+ <item>Die vierdte Montags nach Galli.</item>
+                        </list>
+                    </p>
+                </div>
+
+<div xml:id="Art.67.2">
+ <p>Bey diesen Audientien sollen sein unser Amptmann, Secretarius, Rentmeister
+und andere Rethe.</p>
+                </div>
+
+<div xml:id="Art.67.3">
+ <p>Uff solchen Audientzien sollen die Partheien inn recht und gute handeln,
+und inn Sachen darinn beschlossen Urthell unnd bescheidts erwartenn.</p>
+                </div>
+
+<div xml:id="Art.67.4">
+ <p>Die gerichtlich und gutlich Verhör sollen zu <name type="place">Lasphe</name>
+und <name type="place">Berleburg</name> uff dem
+Rathause, wo die Hoffhaltung seinn wird, gehalten Werdenn. <pb n="143v"/>
+                    </p>
+                </div>
+            </div>
+            <div xml:id="Art.68">
+ <head>[68] Der erste Termin.</head>
+
+<div xml:id="Art.68.1">
+ <p>1. Uff den termino Citationis soll der Appellant die Citation reproduciren,
+und der Bot relation thun, wie er die dem gegentheil verkündet habe.</p>
+ <p>In gleichem auch, so Compulsorialn und Inhibition außgangen, sollen die
+auch mit irer execution einbracht werden.</p>
+ </div>
+
+<div xml:id="Art.68.2">
+ <p>2. Darnach das Instrumentum appellationis, oder die Acten, darinn die
+Appellation geschrieben.</p>
+                </div>
+
+<div xml:id="Art.68.3">
+ <p>3. Darnach das Libel der Appellation.</p>
+                </div>
+            </div>
+            <div xml:id="Art.69">
+ <head>[69] Wie man die Appellation clage formiren soll.</head>
+
+<div xml:id="Art.69.1">
+ <p>Wann einer durch ein Interlocutori oder beyurthell — die doch eines
+Endurthels crafft nit hette — unwiederbringlich were beschweret worden, und
+darvonn appellirt hette, So ist es gnug, das er das Instrument der Appellation,
+oder <pb n="144r"/> die Appellation zittel in Actis, an stadt
+eines libels bey unsern <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_099.gif" n="Seite&#xA;99"/> Verordenten repetier und erhole. Kurtzlich bittendt zu erkennen, das
+nichtiglich oder ubel gesprochen und woll appellirt sey.</p>
+                </div>
+
+<div xml:id="Art.69.2">
+ <p>Wo aber vonn einer beyurthell, die eins endurtheils crafft hette, oder aber
+vonn einem endurtheil appelirt were, da ist von nötten, das ein Appellation
+libell, wilchs die gravamina unnd beschwerung Summarisch und ins gemein oder
+articulirt, und inn sonderheit begreiffe, unnd in sich halte, auff diesen
+Termin ubergebe und einwende.</p>
+                </div>
+
+<div xml:id="Art.69.3">
+ <p>Wann nun von einer Interlocutori als von einem Endurtheil appellirt ist,
+soll man das Libel beschliessen, wie hievor, Aber gegenn einn Endurtheil soll
+man diese worte hinzusetzenn.</p>
+ <p>Ich bitt das durch eweren Richterlichen spruch möge erkent werden, das
+nichtiglich oder ubel geurthelt und woll appellirt sey, und das mein gegentheil
+verdampt werde, Laut und Inhalt meiner Clage, die ich inn erster Instantz
+gethann habe.</p>
+                </div>
+
+<div xml:id="Art.69.4">
+   <p>Was dann gegen die Inhibition attentirt und vorgenommen, soll der
+Appellant inn einer sonderlichen Schrifft und verzeichnusse fassen und inns
+Gericht vorlegen, mit conclusion und beschluß auff die straffe inn der
+Inhibition oder verbotsbrieffen begriffen oder verleibt, gerichtet. <pb n="144v"/>
+                    </p>
+                </div>
+
+<div xml:id="Art.63.5">
+<p>Im fall keine Inhibition außbracht, und doch inn hangender Appellation etwas
+attentirt und vorgenommen worden, stehet dem Appellanten frey, solchs inn
+schrifften zu clagen und zu bitten. Das alles was geschehen und vorgenommen in
+integrum, das ist inn vorigen standt wiedrumb möge restituirt und gesetzt
+werden.</p>
+                </div>
+
+<div xml:id="Art.69.6">
+ <p>Darauff auch unsere verordente Appellation Richtere, die Attentaten sach
+oder vorgenommene Newerung onn verzug mit dem ersten so viel möglich mit dem
+ersten verrichten unnd billichen bescheidt erlangen sollenn.</p>
+                </div>
+
+<div xml:id="Art.69.7">
+ <p>Inn der zeit soll gleich woll die <choice>
+                            <sic>Appellaiton</sic>
+                            <corr/>
+                        </choice>
+sach damit nit feiren, oder zurück gesatzt
+seinn, sondern soll zugleich, so woll inn sachen gravaminum und beschwerung,
+als der Attentaten und datlichen anmassung, nach seiner Ordnung erkandt unnd
+gesprochen werden: Es weren dann die attentata, und was geschehen gantz und gar
+Notoria, offenbar und bekandt, oder kundten alßbald unverrücklich durch den
+Appellanten beweist werdenn. Beides fals muß vor allen Dingen die restitution
+und wieder einsetzung inn vorigen standt geschehen.</p>
+                </div>
+
+<div xml:id="Art69.8">
+   <p>Der Appellat mag Copey und abschrifft alles des, was der Appellant
+einbracht, sampt dilation und frist, dagegenn zu handeln, und die Acta
+außschreiben zu lassen, bittenn. <pb n="145r"/>
+                    </p>
+                </div>
+            </div>
+            <div xml:id="Art70">
+<head>[70] Secundus Terminus.</head>
+
+<div xml:id="Art70.1">
+ <p>Uff den gebettenen Termin mag der Appelat die Appellation anfechten, als
+das sie untüchtig, unnd gegen form der Rechten geschehen, oder die sache were
+dermassen gestalt unnd gelegen, das sie durch Appellation nit hette können
+devolvirt werdenn, und an den Richter gelangen, oder so er sunst andere
+dilatorias exceptiones hette, die möchte er Articuls weise
+vorbringenn.</p>
+                </div>
+
+<div xml:id="Art70.2">
+ <p>Unnd wirdt hierinn aller seits vorfaren, wie vonn dilatori exceptionem in
+prima instantia gesetzt ist.</p>
+                </div>
+            </div>
+            <div xml:id="Art71">
+ <head>[71] Von der Kriegßbefestigung.</head>
+   <p>Wann aber der Appellat die Appellation an ir selbst oder ihrer
+devolution, mit grundt und bestandt, nit kann anfechten, so ist er schuldig uff
+das ubergebenn Libel, den Krieg zu befestigen. <pb n="145v"/>
+                </p>
+            </div>
+            <div xml:id="Art72">
+ <head>[72] Formalia der Kriegsbefestigung appellatus.</head>
+
+<div xml:id="Art.72.1">
+ <p>Inn Sachen Lucii Ticii des Appellanten und gegen Sempronium den Appellaten,
+gestehe ich nit, das der Appellation folge geschehen sey, und bitte zu
+erkennen, das woll geurtelt und ubel appellirt sey. <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_100.gif" n="100"/>
+                    </p>
+                </div>
+
+<div xml:id="Art72.2">
+ <p>Der Appellant soll also den Krieg bevestigen. Ich repetire und erhole mein
+vorige articulirte petition und Libel anstadt der gravaminum, Bittendt nach
+Inhalt und Laut derselbigen zu erkennen unnd zu sprechenn.</p>
+                </div>
+
+<div xml:id="Art72.3">
+ <p>So er aber kein articulirt, sondern ein gemein Libel inn Gericht ubergeben
+hette, soll er also setzenn.</p>
+ <p>Ich wiederhole mein Appellatorische petition, und bitte mir zeit und frist
+zu erkennen und mitzutheilen, das ich nach Ordnung der Recht möge
+furtfaren.</p>
+                </div>
+
+<div xml:id="Art72.4">
+   <p>Im fall er nichts mehr zu setzen oder zu articuliren hette, kondte er
+alßbaldt den Krieg befestigen, und zugleich concludiren, wie folget. <pb n="146r"/>
+                    </p>
+<p>Ich repetier und erhole meine Appellatorische petition, bittende Laut und
+einhalt derselbigen zu pronunciiren unnd zusprechen, stelle damit die sache dem
+Richterlichen Erkentnusse und endlicher erörtterung heim.</p>
+                </div>
+            </div>
+            <div xml:id="Art73">
+ <head>[73] Juramentum Calumniae.</head>
+
+<div xml:id="Art73.1">
+ <p>Zur selbigen zeit soll man alßbaldt auff eines oder beidertheil erforderrn
+und beger den Aidt vor geferde schwerenn.</p>
+                </div>
+
+<div xml:id="Art73.2">
+ <p>Wann der Appellant also baldt concludirt und beschleust, mag der Appelat
+verzug und frist bitten zu fernerem proces. Oder so der Appellant darmit nit zu
+frieden seinn wolte, möcht er gleicher gestalt anhaltenn, das inn der sachen
+onn weiteren verzug möcht vortgefaren werdenn.</p>
+                </div>
+            </div>
+            <div xml:id="Art74">
+ <head>[74] 3. Terminus.</head>
+
+<div xml:id="Art74.1">
+   <p>Wo der Appellant die Articul seines appellatorischen Clag libels an Stadt
+der gravaminum oder beschwerung inn vorigen termin repetiert und erholt hette.
+Soll der Appellat nun inn diesem Termein darauff Antwort gebenn. Doch also das
+er <pb n="146v"/> alles inn diese Antwort schliesse, was ime
+zu setzen not seinn will.</p>
+                </div>
+
+<div xml:id="Art74.2">
+ <p>Hette aber der Appellant zuvor dilation und frist zu articuliren oder
+fernern Proces gebetten: So soll auff dießmall und um diesen Termeinn
+derselbige Appellat einn conclusion schrifft, und darinn gleicher gestalt alles
+was ime not einbringen und ubergeben. Unnd soll dem Appellaten in diesem fall
+dilation zu antworten und zu concludiren gegeben werdenn.</p>
+                </div>
+
+<div xml:id="Art74.3">
+ <p>Aber so der Appellant inn der hauptsach etwas newes zu confirmation,
+becrefftigung und sterkung desselbigen seines Rechten einfüren, oder was inn
+der vorigen Instantz schonn eingefürt ist, besser ercleren oder beweisen wolte,
+kann er das auch articulirt furbringenn.</p>
+                </div>
+
+<div xml:id="Art74.4">
+ <p>Die form der wort zu concludiren oder zu beschliessen ist hie, wie inn der
+<choice>
+                            <sic>nung</sic>
+                            <corr/>
+                        </choice> der probation oder beweisung erster
+Instantz.</p>
+                </div>
+
+<div xml:id="Art74.5">
+   <p>
+                        <pb n="l47r"/> Also auch wan der Appellat newe
+exceptiones und Ausszüge einwenden unnnd beweisen wolte, Soll er darmit
+zugelassen werden nach obgesetzter unser Ordnung der peremptorischen
+Exceptionen.</p>
+                </div>
+
+<div xml:id="Art74.6">
+ <p>Jedoch mag der Appellant, oder auch der Appellat under diesem scheinn keine
+newe Articull, die zu der sache der ersten Instantz nit gehörig, einfürenn, das
+Gericht damit auffzuhaltenn.</p>
+                </div>
+
+<div xml:id="Art75.7">
+ <p>Die form der wort zu concludiren oder zu beschliessen ist hie, wie inn der
+ersten Instantz zu halten. Doch soll in diesem Ort mit fleiß gemercket werdenn,
+Das aller setze unnd dilation, gestalt und termin, dem Richterlichen Ampt
+heimgestalt sein, also das er darinn moderiren, messigen, vorfaren und
+schaffen, das ist verlengernn oder verkürtzenn möge, alles nach gelegenheit der
+sachen und Personen.</p>
+                </div>
+            </div>
+            <div xml:id="Art76">
+ <head>[76] Wie auff die desertion oder verleschung der Appellation gehandelt
+werden soll.</head>
+
+<div xml:id="Art76.1">
+   <p>
+                        <pb n="147v"/> Wo der Appellant inwendig der zeit,
+wilche ime der Richter erster <pb facs="http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_101.gif" n="101"/> Instantz, wie vorgemelt, angesatzt, seine Appellation zu
+verfolgen, Oder so keine zeit angesetzt werden, inwendig Jarsfrist von zeit des
+ausgesprochenen Urtheils, vor uns oder unsern darzu verordentenn, nit
+erscheinen würde.</p>
+                </div>
+
+<div xml:id="Art76.2">
+ <p>Sollenn unsere Verordenten uff anhalten des Appellaten den Appellanten drey
+mall nacheinander vorheischen lassenn, zu beweisen das er seine Appellation,
+wie Recht, verfolget habe, oder aber zu sehenn und zu hören, sein Appellation
+desert und verloschen zu seinn, zu erkennen.</p>
+                </div>
+
+<div xml:id="Art76.3">
+ <p>Wo alßdann der Appellant nit erscheinen würde, soll uff weiter anhaltten
+des Appelaten, die Appellation desert und verloschen, und das vorig Urthell,
+inn seinn crafft gangen und zu volnziehn sey, erkant, und die sachen vor erster
+Instantz Richter, umb volnzihung der urtel zu thun remittiert, und der
+Appellant inn die Gerichtscosten gewiesen werdenn.</p>
+                </div>
+            </div>
+            <div xml:id="Schlussformel">
+ <p>ENDE DES GERICHTLICHEN PROCESS.</p>
+ </div>
+        </body>
+    </text>
+</TEI>

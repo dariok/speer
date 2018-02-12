@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1491_max_mandat">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mandat Maximilians I. 1491 :: Transkription Speer 2013 / 2016</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Siegfried Adler, Die Organisation der Zentralverwaltung unter Kaiser Maximilian I. (Leipzig 1886) S. 506-507.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+						by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div xml:id="Einleitung">
+            <head>Mandat Maximilians I. 1491</head>
+            <p>Maximilian setzt an die Stelle des obersten Amtmanns zu Innsbruck eine kollegiale Behörde ein. 1491. 28. Februar. Augsburg. (Innsbr. Statth.-Arch. Cod. 124, Fol. 150 ff.)</p>
+            <p>[Quelle: Siegfried Adler, Die Organisation der Zentralverwaltung unter Kaiser Maximilian I. (Leipzig 1886) S. <ref target="http://archive.org/stream/dieorganisation00adlegoog#page/n531">506-507</ref>. Transkription: Speer 2013]<lb/>
+            Letzte Überprüfung: 30.05.2016<lb/>
+            Heino Speer<lb/>
+            Klagenfurt am Wörthersee 2016</p>
+        </div>
+        </front>
+        <body>
+            <div xml:id="Text">
+<p>Wir Maximilian etc. bekennen, als wir dann aus merklichen ... ursachen und nothdurften uns darzu bewegende in unsern erblichen furstentumben und landen, so uns der hochgeborn Sigmund Erzherzog zu Osterreich unser lieber vetter und furst ubergeben hat und deren regierung wir tragen furbasser dheinen obristen ambtman zu setzen noch zuhalten sunder alle sachen durch vier treffenlicher unserer raete als unsere anwelde in der raytung zu Innsprugg, denen unser camermaister camerschreiber und ein puechhalter zu hilf zugeordent sullen werden, zu handln furgenomen, daz wir den erwirdigen edlen unsern fursten andechtigen und lieben getrewen unsern stathaltern und reten zu Innsprugg unser ganz volkomen macht und gewalt gegeben haben und geben auch wissentlich in craft diz briefs also daz sy an unser stat und von unsern wegen dieselben vier anwaelde aus unsern raten ambtlewten oder andern, so inen darzu gevallen und gut bedunken, auch ainen puechhalter erwelen furnemen und inen die gemelten unser camermaister camerschreiber und darzu dem puechhalter von unsern wegen ernstlichen bevelen sullen auf die gemelten vier unserer anwalde aufsehen zu haben und all sachen in iren ambtern mit irem rat willen und wissen zu handlen und daz auch die gemelten unsere stathalter und raete den obbestimbten vieren unsern anwelden des an unser statt unsere ganz volkomen und notdurftig <pb n="507"/> macht und gewalt geben sullen und mugen, und wen also dieselben unsere stathalter und rete fur die vier unser anweld in unserer raytung und zu puechhalter setzen ordnen furnemen und wes sy inen also gewalt geben, was auch aus unserm bevel dieselben vier unser anwlde mit sambt unserm camermeister und camerschreiber und puechhalter zu lesung der pfantschaften bezalung der schulden mit reformirung der ambter geltaufbringen wechselmachen zusagen versprechen oder in ander von unsern wegen handlen ordnen furnemen und sliessen werden, das alles ist unser guter wille und wir wellen, daz auch stet und vest auch die gemelten unser stathalter und rete die vier unsern camermaister camerschreiber und puechhalter des an allen schaden halten, inen auch in die aembter noch ire handlung kein eingriff hyndrung zerruttung noch irrung tun noch zu thun gestatten in dhein weise getrewlich und ungeverlich. mit urkunt diz briefs geben zu Augspurg an Montag nach dem Sonntag Reminiscere nach Cristi gepurt 1400 und 91 unserer reiche des Romischen im sechsten und des Hungerischen im ersten jare.
+</p>
+            </div>
+        </body>
+    </text>
+</TEI>
