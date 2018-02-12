@@ -1,0 +1,161 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta http://dev2.hab.de/edoc/resources/wdbmeta.xsd">
+	<projectID>wd1700</projectID>
+	<titleData>
+		<title>Repertorium frühneuzeitlicher Rechtsquellen</title>
+		<person>Heino Speer</person>
+	</titleData>
+	<files>
+        <file path="texts/1278_oelr_hasenoehrl.xml" uuid="6193cad8-d8ee-34c6-9a5b-d840c6598265" date="2018-02-12T09:45:11.691Z" xml:id="edoc_ed000245_1278_oelr_hasenoehrl"/>
+        <file path="texts/1486_kammergerichtsordnung_staendischerentw.xml" uuid="366cde6f-644b-30ae-b7fb-3a71aafa19c9" date="2018-02-12T09:45:07.679Z" xml:id="edoc_ed000245_1486_kammergerichtsordnung_staendischerentw"/>
+        <file path="texts/1499_frankfurtgo_b.xml" uuid="a7028056-fe0e-3bd6-8ddf-64196f0c3819" date="2018-02-12T09:45:07.723Z" xml:id="edoc_ed000245_1499_frankfurtgo_b"/>
+        <file path="texts/codex_theresianus_inhalt.xml" uuid="034506d2-9aa1-3440-9ec1-6786b8e94a87" date="2018-02-12T09:45:07.828Z" xml:id="edoc_ed000245_codex_theresianus_inhalt"/>
+        <file path="texts/bibl_1899.xml" uuid="bdd3cc31-6e9c-3d3c-b17a-6d8201a29995" date="2018-02-12T09:45:08.232Z" xml:id="edoc_ed000245_bibl_1899"/>
+        <file path="texts/baltl_1949_kaerntlgo_1577.xml" uuid="78844675-bf80-3544-b48b-570e31428781" date="2018-02-12T09:45:08.327Z" xml:id="edoc_ed000245_baltl_1949_kaerntlgo_1577"/>
+        <file path="texts/1381_wien_erbrecht.xml" uuid="41e3c59d-906b-33f5-9ff1-1cfc70502acb" date="2018-02-12T09:45:08.365Z" xml:id="edoc_ed000245_1381_wien_erbrecht"/>
+        <file path="texts/wesener_1970_testierfreiheit.xml" uuid="ef12361f-5efb-3a4e-8aac-7ea70df4eb81" date="2018-02-12T09:45:08.419Z" xml:id="edoc_ed000245_wesener_1970_testierfreiheit"/>
+        <file path="texts/1527_constjoachimica.xml" uuid="4ec419fd-63d7-3204-8b2e-5b8dd1ddfec9" date="2018-02-12T09:45:08.466Z" xml:id="edoc_ed000245_1527_constjoachimica"/>
+        <file path="texts/1488_saechsohofgo.xml" uuid="d00cc251-fe36-3918-8676-6ded20d13207" date="2018-02-12T09:45:08.503Z" xml:id="edoc_ed000245_1488_saechsohofgo"/>
+        <file path="texts/brauneder_1976_probearbeit.xml" uuid="853272ef-0ccc-38a6-8a72-2200cd11305d" date="2018-02-12T09:45:08.537Z" xml:id="edoc_ed000245_brauneder_1976_probearbeit"/>
+        <file path="texts/1493_tuebingenstr.xml" uuid="9389b04d-8c62-3d09-bd39-ae8c1ffeb802" date="2018-02-12T09:45:08.604Z" xml:id="edoc_ed000245_1493_tuebingenstr"/>
+        <file path="texts/1488_noerdlingengo.xml" uuid="f747e411-76e1-38e4-b7a3-d0c521c7201c" date="2018-02-12T09:45:08.664Z" xml:id="edoc_ed000245_1488_noerdlingengo"/>
+        <file path="texts/1491_max_mandat.xml" uuid="4a2a0ebd-f280-31d2-8c0b-21ccf1f9fa67" date="2018-02-12T09:45:08.696Z" xml:id="edoc_ed000245_1491_max_mandat"/>
+        <file path="texts/1497_hofoentw_max.xml" uuid="850ca254-b65e-38fa-a47b-74517281da42" date="2018-02-12T09:45:08.731Z" xml:id="edoc_ed000245_1497_hofoentw_max"/>
+        <file path="texts/torggler_1927_gereimt.xml" uuid="5be2bd41-7221-36ee-86fa-b600ffd00789" date="2018-02-12T09:45:08.777Z" xml:id="edoc_ed000245_torggler_1927_gereimt"/>
+        <file path="texts/1376_pettaustr_bischoff.xml" uuid="b5d020f8-536f-34ab-aa58-9e936a5915fd" date="2018-02-12T09:45:08.843Z" xml:id="edoc_ed000245_1376_pettaustr_bischoff"/>
+        <file path="texts/1442_reichslandfriede.xml" uuid="5cbec265-bccc-34de-9ec8-0a3ad8519366" date="2018-02-12T09:45:08.889Z" xml:id="edoc_ed000245_1442_reichslandfriede"/>
+        <file path="texts/denk_1977.xml" uuid="44e88894-1af2-3023-adec-12bee1ccca40" date="2018-02-12T09:45:09.041Z" xml:id="edoc_ed000245_denk_1977"/>
+        <file path="texts/dedic_protestantismus_1930.xml" uuid="0d232b74-c955-3d01-882f-5a99075d345e" date="2018-02-12T09:45:09.307Z" xml:id="edoc_ed000245_dedic_protestantismus_1930"/>
+        <file path="texts/byloff_1907.xml" uuid="cc049098-7264-300c-8bac-9e244efc448f" date="2018-02-12T09:45:09.615Z" xml:id="edoc_ed000245_byloff_1907"/>
+        <file path="texts/1471_kammergo_battenberg.xml" uuid="5b9fa0a4-5735-37e1-a28b-3fd8a91fdb0e" date="2018-02-12T09:45:09.694Z" xml:id="edoc_ed000245_1471_kammergo_battenberg"/>
+        <file path="texts/1499_frankfurtgo_a.xml" uuid="61c4ff88-bd7b-32c2-ba87-9c5bcd060b27" date="2018-02-12T09:45:09.729Z" xml:id="edoc_ed000245_1499_frankfurtgo_a"/>
+        <file path="texts/1480_kurpfalzhofgo.xml" uuid="1b6b8fda-b0d7-33ee-80d4-d92921edd2bd" date="2018-02-12T09:45:09.777Z" xml:id="edoc_ed000245_1480_kurpfalzhofgo"/>
+        <file path="texts/brauneder_1971_ehescheidung.xml" uuid="34332064-02d5-3212-ae59-bbbadcda072c" date="2018-02-12T09:45:09.834Z" xml:id="edoc_ed000245_brauneder_1971_ehescheidung"/>
+        <file path="texts/1509_badenhofgo.xml" uuid="5c1521d1-c562-31e6-a295-0b7d884e0992" date="2018-02-12T09:45:09.878Z" xml:id="edoc_ed000245_1509_badenhofgo"/>
+        <file path="texts/wesener_1971_buergschaftsrecht.xml" uuid="d5676b02-6eca-3336-9c81-2c133a209389" date="2018-02-12T09:45:09.918Z" xml:id="edoc_ed000245_wesener_1971_buergschaftsrecht"/>
+        <file path="texts/gedeon_nuernberg_1957.xml" uuid="faaa4546-71af-382d-aa09-66d81b9a8ee3" date="2018-02-12T09:45:10.024Z" xml:id="edoc_ed000245_gedeon_nuernberg_1957"/>
+        <file path="texts/wesener_1976_stellungunehelich.xml" uuid="bf22f8b5-7796-3be1-b1a8-8250d2782e52" date="2018-02-12T09:45:10.094Z" xml:id="edoc_ed000245_wesener_1976_stellungunehelich"/>
+        <file path="texts/baltl_1962_roemr.xml" uuid="247b1ed7-b95a-39c2-b863-8779a5438ae7" date="2018-02-12T09:45:10.188Z" xml:id="edoc_ed000245_baltl_1962_roemr"/>
+        <file path="texts/mecens_bibl_sort.xml" uuid="230d89dd-3b61-3949-8f6e-8098915dd3da" date="2018-02-12T09:45:10.252Z" xml:id="edoc_ed000245_mecens_bibl_sort"/>
+        <file path="texts/1365_wienuniversitaet.xml" uuid="eeec6f93-a31c-3393-9bb4-6be14f417a8a" date="2018-02-12T09:45:10.316Z" xml:id="edoc_ed000245_1365_wienuniversitaet"/>
+        <file path="texts/bidermann_1866.xml" uuid="e42f3a62-b37c-3e41-a4a3-c42dd20824c6" date="2018-02-12T09:45:10.373Z" xml:id="edoc_ed000245_bidermann_1866"/>
+        <file path="texts/wesener_1973_pfandrecht.xml" uuid="64478c34-6b11-35d8-b2bb-0b4437e897ac" date="2018-02-12T09:45:10.439Z" xml:id="edoc_ed000245_wesener_1973_pfandrecht"/>
+        <file path="texts/wesener_1975_landesordnungsentwuerfe.xml" uuid="d9123772-acd8-3280-9cae-0c950d835e41" date="2018-02-12T09:45:10.504Z" xml:id="edoc_ed000245_wesener_1975_landesordnungsentwuerfe"/>
+        <file path="texts/1438_kurfuerstlandfriede.xml" uuid="c3bf766d-844a-32e9-9b75-9af6afa97d96" date="2018-02-12T09:45:10.556Z" xml:id="edoc_ed000245_1438_kurfuerstlandfriede"/>
+        <file path="texts/1498_hofkammerordnung_max.xml" uuid="29d8865f-b08e-3366-99d8-1b39f55d32e6" date="2018-02-12T09:45:10.597Z" xml:id="edoc_ed000245_1498_hofkammerordnung_max"/>
+        <file path="texts/bartsch_gueterrecht_1905.xml" uuid="2626bcfe-e2c3-3d7f-b6da-4e14305893d6" date="2018-02-12T09:45:10.7Z" xml:id="edoc_ed000245_bartsch_gueterrecht_1905"/>
+        <file path="texts/thiel_zentralverwaltung_inneroesterreich.xml" uuid="84ee4d9c-413c-3473-a43c-54c76306fa04" date="2018-02-12T09:45:10.859Z" xml:id="edoc_ed000245_thiel_zentralverwaltung_inneroesterreich"/>
+        <file path="texts/1338_kaerntenlr.xml" uuid="3d1cdda6-a170-37ba-ab02-048ca6d5f7e9" date="2018-02-12T09:45:10.941Z" xml:id="edoc_ed000245_1338_kaerntenlr"/>
+        <file path="texts/1500_summalegum.xml" uuid="60b26ae8-3081-36f9-98f5-69baf635a554" date="2018-02-12T09:45:11.101Z" xml:id="edoc_ed000245_1500_summalegum"/>
+        <file path="texts/torggler_1936_darstellung.xml" uuid="6cb107b8-c50b-30f3-902a-f45351dca464" date="2018-02-12T09:45:11.185Z" xml:id="edoc_ed000245_torggler_1936_darstellung"/>
+        <file path="texts/1338_kaernten_ankershofen.xml" uuid="18c3c060-a8c8-383e-a64a-464a7e57900c" date="2018-02-12T09:45:11.239Z" xml:id="edoc_ed000245_1338_kaernten_ankershofen"/>
+        <file path="texts/1340_wienstadtrechtsprivileg.xml" uuid="afeaa26b-e330-396f-95af-24ac79fa99c3" date="2018-02-12T09:45:11.296Z" xml:id="edoc_ed000245_1340_wienstadtrechtsprivileg"/>
+        <file path="texts/1573_brandenbkgo_entwurf.xml" uuid="197e332b-0ae9-3c3a-a305-f0f6268c83cc" date="2018-02-12T09:45:11.345Z" xml:id="edoc_ed000245_1573_brandenbkgo_entwurf"/>
+        <file path="texts/brauneder_1971_stillschweigende_hypotheken.xml" uuid="a85b5f63-da55-36d4-9034-897eaed26138" date="2018-02-12T09:45:11.402Z" xml:id="edoc_ed000245_brauneder_1971_stillschweigende_hypotheken"/>
+        <file path="texts/bremer_1894.xml" uuid="55c81845-b9d0-3c7a-bfcf-06e4ad77cae9" date="2018-02-12T09:45:11.49Z" xml:id="edoc_ed000245_bremer_1894"/>
+        <file path="texts/1513_heilbronnstat.xml" uuid="1ca53f46-e74d-36ef-9bad-23973b2a66ef" date="2018-02-12T09:45:11.556Z" xml:id="edoc_ed000245_1513_heilbronnstat"/>
+        <file path="texts/wesener_1976_stellungkind.xml" uuid="7979923c-d26a-3fa8-9611-bcf0f7f658c6" date="2018-02-12T09:45:11.623Z" xml:id="edoc_ed000245_wesener_1976_stellungkind"/>
+        <file path="texts/baum_flacius.xml" uuid="997d14f4-b736-356e-803c-fc346b1900cc" date="2018-02-12T09:45:11.746Z" xml:id="edoc_ed000245_baum_flacius"/>
+        <file path="texts/1399_frankfurt_bac_iudicii.xml" uuid="02fb8273-3f37-3692-8f93-38f0e17f9f3b" date="2018-02-12T09:45:11.807Z" xml:id="edoc_ed000245_1399_frankfurt_bac_iudicii"/>
+        <file path="texts/1487_regimentsordnung_meran.xml" uuid="8ce062df-a1de-3376-89a3-69510b2f3d75" date="2018-02-12T09:45:11.88Z" xml:id="edoc_ed000245_1487_regimentsordnung_meran"/>
+        <file path="texts/1486_noerdlingenappo.xml" uuid="84bb5040-5d46-3030-b566-652c868d2f2f" date="2018-02-12T09:45:11.924Z" xml:id="edoc_ed000245_1486_noerdlingenappo"/>
+        <file path="texts/1492_stuttgartstr.xml" uuid="e8c13fe5-d8b0-3f55-b675-4c9d7a1b2990" date="2018-02-12T09:45:11.979Z" xml:id="edoc_ed000245_1492_stuttgartstr"/>
+        <file path="texts/bartmann_1908.xml" uuid="237ca285-2023-3172-9609-dddbbce315ab" date="2018-02-12T09:45:12.063Z" xml:id="edoc_ed000245_bartmann_1908"/>
+        <file path="texts/1478_wolkenstein.xml" uuid="3c16538e-aba8-3c6b-b699-0ae817aa91e6" date="2018-02-12T09:45:12.142Z" xml:id="edoc_ed000245_1478_wolkenstein"/>
+        <file path="texts/1569_wittgensteingo.xml" uuid="998d7cfd-f89d-3b59-b7a9-8c40738061b1" date="2018-02-12T09:45:12.22Z" xml:id="edoc_ed000245_1569_wittgensteingo"/>
+        <file path="texts/jung_1889.xml" uuid="3afc5112-dd80-349f-bafa-025178c5f06b" date="2018-02-12T09:45:12.314Z" xml:id="edoc_ed000245_jung_1889"/>
+        <file path="texts/heiss_landschaftsschulen.xml" uuid="852e8ca0-d0c9-3ed3-ba4b-de353b5a8217" date="2018-02-12T09:45:12.41Z" xml:id="edoc_ed000245_heiss_landschaftsschulen"/>
+        <file path="texts/1471_kammergo.xml" uuid="feaeac57-435c-3a01-8f0e-cbc93e7fcde0" date="2018-02-12T09:45:12.474Z" xml:id="edoc_ed000245_1471_kammergo"/>
+        <file path="texts/hachenberg_1997.xml" uuid="bd8ac012-36cd-37f9-b712-4a5a344734af" date="2018-02-12T09:45:12.582Z" xml:id="edoc_ed000245_hachenberg_1997"/>
+        <file path="texts/1278_wienprivileg_uebs.xml" uuid="3273a686-4eec-3096-a14d-da0f29735951" date="2018-02-12T09:45:12.661Z" xml:id="edoc_ed000245_1278_wienprivileg_uebs"/>
+        <file path="texts/wesener_1975_beckmann.xml" uuid="030f56d0-97b9-3d47-84a5-2c274b114240" date="2018-02-12T09:45:12.714Z" xml:id="edoc_ed000245_wesener_1975_beckmann"/>
+        <file path="texts/altmann_1989.xml" uuid="587ac50d-9ffc-3a02-9a4f-970ed42fc620" date="2018-02-12T09:45:12.781Z" xml:id="edoc_ed000245_altmann_1989"/>
+        <file path="texts/mecenseffy_1956.xml" uuid="a12df4e6-3f74-3c65-94b8-7308a8d4581e" date="2018-02-12T09:45:13.048Z" xml:id="edoc_ed000245_mecenseffy_1956"/>
+        <file path="texts/brauneder_1977_tractiurincorp.xml" uuid="24d00f88-0250-3656-ab6e-0319a4630e76" date="2018-02-12T09:45:13.233Z" xml:id="edoc_ed000245_brauneder_1977_tractiurincorp"/>
+        <file path="texts/1495_badenlo.xml" uuid="26030f8b-a381-3a1a-b856-8561902850a6" date="2018-02-12T09:45:13.293Z" xml:id="edoc_ed000245_1495_badenlo"/>
+        <file path="texts/1571_krainlschro.xml" uuid="b5d7b1a7-f41e-3664-87ed-7558cf61be20" date="2018-02-12T09:45:13.351Z" xml:id="edoc_ed000245_1571_krainlschro"/>
+        <file path="texts/brauneder_1973_gesetzgebung.xml" uuid="71556344-b5a7-3b70-9b09-427ad71e9165" date="2018-02-12T09:45:13.425Z" xml:id="edoc_ed000245_brauneder_1973_gesetzgebung"/>
+        <file path="texts/muther_1876_lagus.xml" uuid="c2750565-afbd-3d03-9808-a9e9241b6bee" date="2018-02-12T09:45:13.505Z" xml:id="edoc_ed000245_muther_1876_lagus"/>
+        <file path="texts/1475_frankfurtgo_c.xml" uuid="718592c5-0d06-31fd-b740-4910cd4e604a" date="2018-02-12T09:45:13.557Z" xml:id="edoc_ed000245_1475_frankfurtgo_c"/>
+        <file path="texts/wolff_1913_gerichtsverfassung.xml" uuid="306b2796-1c28-3883-a883-5afdd5c65ede" date="2018-02-12T09:45:13.914Z" xml:id="edoc_ed000245_wolff_1913_gerichtsverfassung"/>
+        <file path="texts/wesener_1972_kauf.xml" uuid="dc0221b3-b23c-3c44-b919-5a3959cbe3fb" date="2018-02-12T09:45:14.041Z" xml:id="edoc_ed000245_wesener_1972_kauf"/>
+    </files>
+	<process target="html">
+		<command type="xsl">/db/apps/edoc/data/repertorium/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="170x">
+		
+	<view label="Das österreichische Landesrecht. Österreichisches Landesrecht im 13. und 14. Jahrhundert" file="edoc_ed000245_1278_oelr_hasenoehrl"/>
+        <view label="Ständischer Entwurf einer Kammergerichtsordnung. 1486, April :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_kammergerichtsordnung_staendischerentw"/>
+        <view label="Frankfurter Gerichtsordnung B 2. Hälfte 15. Jahrhundert :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_b"/>
+        <view label="Codex Theresianus :: digitalisiertes Inhaltsverzeichnis mit Verlinkung zum Faksimile :: Speer 2016" file="edoc_ed000245_codex_theresianus_inhalt"/>
+        <view label="Victor Bibl, Die Organisation des evangelischen Kirchenwesens im Erzherzogthum Österreich unter der Enns von der Ertheilung der Religions-Concession bis zu Kaiser Maximilians II. Tode (1568-1576). 1899 :: Transkription Speer 2014" file="edoc_ed000245_bibl_1899"/>
+        <view label="Hermann Baltl, Die Kärntner Landgerichtsordnung von 1577 :: Transkription Speer 2014" file="edoc_ed000245_baltl_1949_kaerntlgo_1577"/>
+        <view label="Wien Erbrechtsbeschluß 1381 (Csendes) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1381_wien_erbrecht"/>
+        <view label="Wesener, Gunter, Beschränkungen der Testierfreiheit in deutschen Stadtrechtsreformationen und Landrechten der Rezeptionszeit (1970) :: Transkription Speer 2013." file="edoc_ed000245_wesener_1970_testierfreiheit"/>
+        <view label="Constitutio Joachimica 1527 (1549) :: Transkription DRQEdit / Heino Speer 2013" file="edoc_ed000245_1527_constjoachimica"/>
+        <view label="Sächsische Oberhofgerichtsordnung 1488 :: Transkription Speer 2010 / 2013 / 2016" file="edoc_ed000245_1488_saechsohofgo"/>
+        <view label="Wilhelm Brauneder, Eine vermeintliche Probearbeit zum obderennsischen Landrechtsentwurf 1609, in: Jahrbuch des Oberösterreichischen Musealvereines 121a (1976) 223 - 232" file="edoc_ed000245_brauneder_1976_probearbeit"/>
+        <view label="Tübingen Stadtrecht 1493 April 16 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1493_tuebingenstr"/>
+        <view label="Nördlingen Gerichtsordnung 1488 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1488_noerdlingengo"/>
+        <view label="Mandat Maximilians I. 1491 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1491_max_mandat"/>
+        <view label="Materialien zur nicht überlieferten Hofordnung König Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1497_hofoentw_max"/>
+        <view label="Das Klagenfurter Stadtrecht in Reimen. Herausgegeben und erläutert von Dr. Karl Torggler :: Elektronische Edition 2010/2013" file="edoc_ed000245_torggler_1927_gereimt"/>
+        <view label="Bischoff, Das Pettauer Stadtrecht vom Jahre 1376 (1887) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1376_pettaustr_bischoff"/>
+        <view label="Reichslandfrieden 1442 :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1442_reichslandfriede"/>
+        <view label="Erich Denk, Die Appellationsvorschriften der Bayerischen Gerichtsordnung von 1520 [Digitale Edition nach&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;der Druckfassung von 1977]" file="edoc_ed000245_denk_1977"/>
+        <view label="Paul Dedic, Der Protestantismus in Steiermark 1930 :: Digitale Transkription Speer 2014" file="edoc_ed000245_dedic_protestantismus_1930"/>
+        <view label="Byloff, Die Land- und peinliche Gerichtsordnung ... für Steiermark (1907) :: Digitale Edition Heino Speer 2012 / 2016" file="edoc_ed000245_byloff_1907"/>
+        <view label="Friedrich Battenberg, Eine Darmstädter Handschrift zur Kammergerichtsordnung Kaiser Friedrichs III. von&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;1471 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1471_kammergo_battenberg"/>
+        <view label="Frankfurter Schöffengerichtsordnung (A) 15. Jh. :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_a"/>
+        <view label=" Die Hofgerichtsordnung Kurfürst Philipps für die Pfalzgrafschaft bei Rhein " file="edoc_ed000245_1480_kurpfalzhofgo"/>
+        <view label="Wilhelm Brauneder, Die Ehescheidung dem Bande nach in den Landesordnungsentwürfen für Österreich unter und ob der Enns 1595 und 1609, In: Österreichisches Archiv für Kirchenrecht. Vierteljahresschrift 22. Jahrgang  1971, S. 273 - 290 :: Elektronische Ausgabe Heino Speer 2012 (Version: 3. Mai 2015)" file="edoc_ed000245_brauneder_1971_ehescheidung"/>
+        <view label="Badische Hofgerichtsordnung 1509 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1509_badenhofgo"/>
+        <view label="Gunter Wesener, Die Entwicklung des Bürgschaftsrechts in den altösterreichischen Ländern (1971) :: Transkription Speer 2015" file="edoc_ed000245_wesener_1971_buergschaftsrecht"/>
+        <view label="Dr. Andreas Gedeon, Zur Rezeption des römischen Privatrechts in Nürnberg (Nürnberg 1957) :: Transkription Speer 2009 /2013 " file="edoc_ed000245_gedeon_nuernberg_1957"/>
+        <view label="Gunter Wesener, Die Rechtsstellung des unehelichen Kindes in Österreich (vom Mittelalter bis zur Gegenwart), 1976 :: Transkription Speer 2012" file="edoc_ed000245_wesener_1976_stellungunehelich"/>
+        <view label="Hermann Baltl, Einflüsse des römischen Rechts in Österreich :: Transkription und Verlinkung Speer 2014" file="edoc_ed000245_baltl_1962_roemr"/>
+        <view label="Literaturverzeichnis aus: Grete Mecenseffy, Die Geschichte des Protestantismus in Österreich, Graz-Köln 1956 :: Bearbeitung Speer 2014" file="edoc_ed000245_mecens_bibl_sort"/>
+        <view label="Universität Wien Stiftungsbrief 1365 (Ausgabe Csendes)  :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1365_wienuniversitaet"/>
+        <view label="H. J. Bidermann, Geschichte der landesfürstlichen Behörden in und für Tirol von 1490-1749 (1866) :: Transkription Speer November 2013" file="edoc_ed000245_bidermann_1866"/>
+        <view label="Wesener, Pfandrecht (1973)  :: Transkription Speer 2016" file="edoc_ed000245_wesener_1973_pfandrecht"/>
+        <view label="Gunter Wesener, Zur Bedeutung der österreichischen Landesordnungsentwürfe des 16. und 17. Jahrhunderts  (1974/75) :: Transkription Speer 2012" file="edoc_ed000245_wesener_1975_landesordnungsentwuerfe"/>
+        <view label="Der kurfürstliche Landfriede. Frankfurt am Main 1438, März 21 :: Digitale Edition Heino Speer 2010" file="edoc_ed000245_1438_kurfuerstlandfriede"/>
+        <view label="Hofkammerordnung Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1498_hofkammerordnung_max"/>
+        <view label="Robert Bartsch, Eheliches Güterrecht im Erzherzogtum Österreich (1905) :: Digitale Edition Heino Speer 2012" file="edoc_ed000245_bartsch_gueterrecht_1905"/>
+        <view label="Viktor Thiel, Die innerösterreichische Zentralverwaltung 1564-1749 (1917) :: Transkription Speer 2014/16" file="edoc_ed000245_thiel_zentralverwaltung_inneroesterreich"/>
+        <view label="Albrecht II. von Österreich, Landesordnung für Kärnten 1338 (= Schwind-Dopsch 175-177) :: Transkription&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Speer 2012 / 2016" file="edoc_ed000245_1338_kaerntenlr"/>
+        <view label="Die Summa legum brevis levis et utilis des sogenannten Doctor Raymundus von Wiener-Neustadt :: Elektronische Ausgabe Speer 2013 / 2016" file="edoc_ed000245_1500_summalegum"/>
+        <view label="Karl Torggler, Darstellungen des Kärntner Rechtes und Rechtsganges." file="edoc_ed000245_torggler_1936_darstellung"/>
+        <view label="Kärntnerisches Landrecht von 1338, hrsg. G.F. v. Ankershofen (= Archiv für vaterländische Geschichte und&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Topographie, hrsg. vom historischen Vereine für Kärnten, 3 (1856) 43-57) :: Transkription Speer 2012 /&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;2016" file="edoc_ed000245_1338_kaernten_ankershofen"/>
+        <view label="Wien Stadtrechtsprivileg 1340 (Tomaschek / Csendes) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1340_wienstadtrechtsprivileg"/>
+        <view label="Cammer-Gerichts-Ordnung so auf Churfuerst Johann Georgens Befehl abgefasset, aber nicht publiciret worden :: Transkription Speer 2011 / 2016" file="edoc_ed000245_1573_brandenbkgo_entwurf"/>
+        <view label="Brauneder, Wilhelm, &#34;Stillschweigende Hypotheken&#34; im Ius Romano-Germanicum (1971) :: Transkription Speer 2014/16." file="edoc_ed000245_brauneder_1971_stillschweigende_hypotheken"/>
+        <view label="Bremer,  Cantiunculas Gutachten über das Nürnberger Stadtrecht (1898) :: Transkription Speer 2010 / 2016" file="edoc_ed000245_bremer_1894"/>
+        <view label="Statuten von Heilbronn. — Angefangen 1513 Jan. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1513_heilbronnstat"/>
+        <view label="Gunter Wesener, Die Stellung des Kindes im Recht der  Altösterreichischen Länder (Vom Mittelalter bis zum A.B.G.B.), in: L'enfant. Recueils de la Société Jean Bodin 36 (1976) 453-492 :: Digitale Bearbeitung Heino Speer 2013&#xA;" file="edoc_ed000245_wesener_1976_stellungkind"/>
+        <view label="Baum, Der Klagenfurter Universitätsplan des Flacius Illyricus (1562), Klagenfurt 1991 :: Digitale Bearbeitung Heino Speer 2015" file="edoc_ed000245_baum_flacius"/>
+        <view label="Frankfurt Baculus Iudicii 14. Jahrhundert :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1399_frankfurt_bac_iudicii"/>
+        <view label="Regimentsordnung Inner- und Vorderösterreich 1487 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1487_regimentsordnung_meran"/>
+        <view label="Nördlingen Appellationsordnung 1486 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_noerdlingenappo"/>
+        <view label="Stuttgart Stadtrecht 1492 Nov. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1492_stuttgartstr"/>
+        <view label="&#xA;  Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016" file="edoc_ed000245_bartmann_1908"/>
+        <view label="Ordnung des Landgerichtes Wolkenstein vom Jahre 1478 (= ÖW. VI 28 - 34) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1478_wolkenstein"/>
+        <view label="Wittgenstein Gerichtsordnung 1569 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1569_wittgensteingo"/>
+        <view label="Dr. Johann Fichard, 1512—1581. Von Stadtarchivar Dr. Rudolf Jung :: Elektronische Edition Speer 2010 / 2016" file="edoc_ed000245_jung_1889"/>
+        <view label="Gernot Heiß, Die Landschaftsschulen in den nieder- und innerösterreichischen Ländern vor dem Dreißigjährigen Krieg (1978) :: Digitale Bearbeitung Speer 2015" file="edoc_ed000245_heiss_landschaftsschulen"/>
+        <view label="Kammergerichtsordnung — 1471, Okt. 24 :: Transkription 2010 / 2016" file="edoc_ed000245_1471_kammergo"/>
+        <view label="Hachenberg, Die Gogerichte des Fürstbistums Münster und die Landgerichtsordnung von 1571 :: Elektronische Edition 2010 / 2016" file="edoc_ed000245_hachenberg_1997"/>
+        <view label="Tomaschek / Csendes, Übersetzung des zweiten Privilegs von König Rudolf I. für Wien :: Transkription&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Speer 2014 / 2016" file="edoc_ed000245_1278_wienprivileg_uebs"/>
+        <view label="Gunter Wesener, Der innerösterreichische Regimentsrat Nikolaus von Beckmann und sein Kodifikationsplan, in: Johannes Kepler 1571 - 1971. Gedenkschrift der Universität Graz (Graz 1975) 641 - 656 :: Transkription Speer 2012/2016" file="edoc_ed000245_wesener_1975_beckmann"/>
+        <view label="Altmann, Nachwort zu Jodokus Pflanzmann 1989 :: Elektronische Edition Heino Speer 2010 / 2016" file="edoc_ed000245_altmann_1989"/>
+        <view label="Grete Mecenseffy, Geschichte des Protestantismus in Österreich (1956) :: Transkription und Verlinkung Speer 2014/15" file="edoc_ed000245_mecenseffy_1956"/>
+        <view label="Wilhelm Brauneder, Grundbuch und Miteigentum im &#34;Tractatus de Iuribus Incorporalibus&#34; In: ZRG. Germ. 94 (1977) 218ff. :: Transkription Speer 2012/2016" file="edoc_ed000245_brauneder_1977_tractiurincorp"/>
+        <view label="Baden: Landesordnung vom 21. September 1495 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1495_badenlo"/>
+        <view label="Landschrannenordnung  Krain 1571 :: Transkription Speer 2016" file="edoc_ed000245_1571_krainlschro"/>
+        <view label="Wilhelm Brauneder, Zur Gesetzgebungsgeschichte der niederösterreichischen Länder (1973) :: Transkription Speer 2013/2016 " file="edoc_ed000245_brauneder_1973_gesetzgebung"/>
+        <view label="Theodor Muther: Doctor Conrad Lagus. Ein Beitrag zur Geschichte der Systematik des Civilrechts und der Lehre vom Autorrecht.Zur Geschichte der Rechtswissenschaft und der Universitaeten in Deutschland von D. Theodor Muther (Jena 1876) S. 299-351&#xA;                " file="edoc_ed000245_muther_1876_lagus"/>
+        <view label="Frankfurter Gerichtsordnung C 1475 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1475_frankfurtgo_c"/>
+        <view label=" Alfred Wolff: Gerichtsverfassung und Prozess im Hochstift Augsburg in der Rezeptionszeit (1913) :: Transkription Speer 2013/2016" file="edoc_ed000245_wolff_1913_gerichtsverfassung"/>
+        <view label="Wesener, Kauf nach österreichischem Privatrecht  :: Transkription Speer 2014" file="edoc_ed000245_wesener_1972_kauf"/>
+    </struct>
+</projectMD>
