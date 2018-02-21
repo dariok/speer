@@ -6,7 +6,7 @@ declare namespace tei	= "http://www.tei-c.org/ns/1.0";
 
 declare function wdbPF:getProjectFiles ( $model as map(*) ) as node()* {
     (
-        <script src="{$wdb:baseURL}/dat/repertorium/script/project.js" />
+        <script src="{$wdb:edocBaseURL}/dat/repertorium/script/project.js" />
     )
 };
 

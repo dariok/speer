@@ -1,71 +1,15 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="tei mets xlink xsl exist xsi" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	exclude-result-prefixes="tei mets xlink xsl exist xsi" version="1.0">
 	
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
+	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
 	<xsl:import href="tei-common.xsl?6"/>
 	
-	<!-- Ausgabe nach HTML5; mit passendem doctype auch 4.01 möglich. 2016-03-20 DK -->
-	<!--<xsl:output method="xml" encoding="UTF-8" indent="no" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
-			doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>-->
-	<xsl:output encoding="UTF-8" indent="yes" method="html" doctype-system="about:legacy-compat"/>
-	<!-- mehrere param nach common ausgelagert; 2016-05-27 DK -->
-	<xsl:param name="view">documentary</xsl:param>
-	<xsl:param name="footerXSL">
-		<xsl:value-of select="concat($baseDir, '/tei-transcript.xsl')"/>
-	</xsl:param>
-	
-	<!-- kann von param.xsl übernommen werden; Rest über catalog; 2016-06-24 DK -->
-<!--	<xsl:variable name="metsfile">
-		<xsl:value-of select="concat('/',$dir,'/mets.xml')"/>
-	</xsl:variable>-->
-	
-	<!-- erstellt 12.11.2014 von Jennifer Bunselmeier <jennifer@bunselmeier.de> -->
-	<!-- Überarbeitet; 2016-05-27 DK -->
-	<!-- neu mit mode="content" enthält nur noch den tatsächlichen Inhalt; das Gerüst wird über Templating bzw. in common erstellt; 2016-07-18 DK -->
 	<xsl:template match="/" mode="content">
-		<div id="navBar">
-			<h1>Nr. <xsl:value-of select="/tei:TEI/@n"/>
-                <br/>
-				<xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[not(@type)]"/>
-            </h1>
-			<h2>Text</h2>
-			<span class="dispOpts">
-				<xsl:text>[</xsl:text>
-				<xsl:variable name="targetView">
-					<xsl:choose>
-						<xsl:when test="contains($view, 'documentary')">normalize</xsl:when>
-						<xsl:otherwise>documentary</xsl:otherwise>
-					</xsl:choose>
-				</xsl:variable>
-				<a href="{concat($content,      '?dir=edoc/ed000216&amp;distype=optional&amp;xml=',      substring-after($footerXML,'edoc/ed000216/'),      '&amp;xsl=',      $footerXSL,      '&amp;view=',      $targetView)}">
-					<xsl:choose>
-						<!-- Orig-Ansicht als Default -->
-						<xsl:when test="contains($view,'documentary')">
-							<xsl:text>Zeilenfall Leseansicht</xsl:text>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:text>Zeilenfall original</xsl:text>
-						</xsl:otherwise>
-					</xsl:choose>
-				</a>
-				<xsl:text>]</xsl:text>
-			</span>
-			<span class="dispOpts">[<a id="liSB" href="javascript:toggleSidebar();">Navigation einblenden</a>]</span>
-			<hr/>
-		</div>
-		<div id="marginalia_container">	<!-- Container fuer die Marginalien -->
-			<xsl:call-template name="marginaliaContainer"/>
-		</div> <!-- end #marginalia_container -->
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
-			<!-- Bearbeitungsstand in den Content verlegt; 2016-06-30 DK -->
-			<div id="wip">
-				<p>
-                    <xsl:text>➨ Hinweis: Die Edition ist in Bearbeitung und daher nur eingeschränkt zitierfähig.</xsl:text>
-                </p>
-				<p>
-                    <xsl:text>Die Finalisierung der Texte erfolgt mit der Veröffentlichung der gedruckten Editionsbände.</xsl:text>
-                </p>
-			</div> <!-- end WorkInProgress -->
 			<p class="editors">Bearbeitet von <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt[not(@n='encoding')]/tei:persName"/>
             </p>
 			<!-- Haupttext -->
@@ -205,12 +149,6 @@
 	</xsl:template>
 	
 	<xsl:template name="pageBreak">
-		<xsl:if test="parent::tei:w and $view = 'documentary'">-</xsl:if>
-		<!-- Keine Leerzeile einfügen bei pb in Listen in der Orig.Ansicht (JB 18/11/14) -->
-		<!-- weitere Ausnahme parent::tei:head; 2016-07-11 DK -->
-		<xsl:if test="$view = 'documentary' and not(parent::tei:list or parent::tei:head)">
-			<br/>
-		</xsl:if>
 		<!-- a/@name → a/@id; 2016-03-15 DK -->
 		<!-- überzähliges a gelöscht; 2015-05-30 DK -->
 		<xsl:variable name="ID">
@@ -263,9 +201,6 @@
 						</xsl:otherwise>
 					</xsl:choose>
 				</xsl:attribute>
-				<xsl:if test="$pvID != ''">
-					<xsl:attribute name="target">display2</xsl:attribute>
-				</xsl:if>
 				<!-- recto/verso in <pb> hochgestellt ausgeben (JB 10.12.14) -->
 				<xsl:choose>
 					<xsl:when test="@n[contains(.,'r')] and not(@rend='super_no')">
@@ -290,26 +225,14 @@
                 </xsl:otherwise>
 			</xsl:choose>
 		</span>
-		<xsl:if test="$view = 'documentary'">
-			<br/>
-		</xsl:if>
 	</xsl:template>
 	
 	<!-- choice -->
 	<xsl:template match="tei:choice">
-		<xsl:choose>
-			<xsl:when test="$view = 'documentary'">
-				<xsl:apply-templates select="tei:orig"/>
-				<xsl:apply-templates select="tei:abbr"/>
-				<xsl:apply-templates select="tei:corr"/>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:apply-templates select="tei:reg"/>
-				<xsl:apply-templates select="tei:ex"/>
-				<xsl:apply-templates select="tei:expan"/>
-				<xsl:apply-templates select="tei:corr"/>
-			</xsl:otherwise>
-		</xsl:choose>
+		<xsl:apply-templates select="tei:reg"/>
+		<xsl:apply-templates select="tei:ex"/>
+		<xsl:apply-templates select="tei:expan"/>
+		<xsl:apply-templates select="tei:corr"/>
 	</xsl:template>
 	
 	<xsl:template match="tei:sic">

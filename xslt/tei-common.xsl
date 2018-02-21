@@ -3,47 +3,22 @@
 	<!-- erstellt 2015/10/23 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- angepaßt nach ed000216; 2016-11-02 DK -->
 	
-	<xsl:import href="http://diglib.hab.de/rules/styles/param.xsl"/>
-	<xsl:include href="http://diglib.hab.de/rules/functions/resolve.xsl"/>
-	
 	<xsl:output method="html"/>
-	
-	<xsl:param name="createLinks">true</xsl:param>
-	<xsl:param name="distype"/>
-	<xsl:param name="pvID"/>
 	
 	<!-- neu 2016-07-14 DK -->
 	<xsl:param name="server"/>
 	
 	<!-- damit nicht bei jedem bibl neu geladen werden muß; 2016-06-01 DK -->
-	<xsl:variable name="biblFile" select="document('../register/bibliography.xml')"/>
-	
-	<!-- $dir wird wieder aus param.xsl übernommen; 2016-07-14 DK -->
+<!--	<xsl:variable name="biblFile" select="document('../register/bibliography.xml')"/>-->
 	
 	<!-- Name und Inhalt angepaßt für Verwendung auf WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:variable name="viewURL">
-		<xsl:choose>
-			<xsl:when test="$server='eXist'">
-				<xsl:text>http://dev2.hab.de/edoc/view.html</xsl:text>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:text>http://diglib.hab.de/content.php?dir=</xsl:text>
-			</xsl:otherwise>
-		</xsl:choose>
-		<!-- $dir entfernt wegen Links auf spätere EE; 2016-07-12 DK -->
+		<xsl:text>http://dev2.hab.de/edoc/view.html</xsl:text>
 	</xsl:variable>
 	
 	<!-- angepaßt für Verwendung auf WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:variable name="baseDir">
-		<xsl:choose>
-			<xsl:when test="$server='eXist'">
-				<xsl:text>http://dev2.hab.de/rest/db/</xsl:text>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:text>http://diglib.hab.de/</xsl:text>
-			</xsl:otherwise>
-		</xsl:choose>
-		<xsl:value-of select="$dir"/>
+		<xsl:text>http://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/texts</xsl:text>
 	</xsl:variable>
 	
 	<xsl:param name="footerXML">
@@ -56,69 +31,7 @@
 	
 	<!-- neu für die Verwendung mit WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:template match="/">
-		<xsl:choose>
-			<xsl:when test="$server='eXist'">
-				<xsl:apply-templates select="." mode="content"/>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:variable name="css">
-					<xsl:choose>
-						<xsl:when test="contains(/tei:TEI/@xml:id, 'intro')">
-							<xsl:text>intro.css</xsl:text>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:text>transcr.css</xsl:text>
-						</xsl:otherwise>
-					</xsl:choose>
-				</xsl:variable>
-<html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-		<!-- Kurztitel als title; 2016-05-24 DK -->
-		<title>
-			<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='short']"/>
-		</title>
-		<link rel="stylesheet" type="text/css" href="{$baseDir}/Layout/{$css}"/>
-		<script src="http://diglib.hab.de/navigator.js" type="text/javascript"/>
-		<script src="http://code.jquery.com/jquery-2.2.4.js" type="text/javascript"/>
-		<script src="{$baseDir}/script/word.js" type="text/javascript"/>
-		<!-- Syncronisation mit Parallelfenster -->
-		<script type="text/javascript">
-			var dateityp = "introduction";
-			function syncro(anker) {
-			top.display1.location.hash = anker;
-			};
-		</script>
-	</head>
-	<!-- onDblClick ergänzt zum Nachschlagen von Ausdrücken; 2016-11-02 DK -->
-	<body onDblClick="zeige();">
-		<!-- Neugestaltung Seitenkopf; 2016-05-24 DK -->
-		<div id="sideBar">
-		</div>
-		<div id="rightSide">
-		</div>
-		<div id="container">
-			<xsl:apply-templates select="." mode="content"/>
-			<!-- footer -->
-			<div id="footer">
-				<xsl:call-template name="footer">
-					<xsl:with-param name="footerXML">
-						<xsl:call-template name="resolveXML">
-							<xsl:with-param name="metsID">
-								<xsl:value-of select="/tei:TEI/@xml:id"/>
-							</xsl:with-param>
-						</xsl:call-template>
-					</xsl:with-param>
-					<xsl:with-param name="footerXSL">
-						<xsl:value-of select="concat($baseDir, '/tei-introduction.xsl')"/>
-					</xsl:with-param>
-				</xsl:call-template>
-			</div>
-		</div>
-	</body>
-</html>
-			</xsl:otherwise>
-		</xsl:choose>
+		<xsl:apply-templates select="." mode="content"/>
 	</xsl:template>
 	
 	<xsl:template match="tei:abbr">
@@ -134,25 +47,12 @@
 			<xsl:variable name="refs">
 				<xsl:value-of select="substring-after(@ref, '#')"/>
 			</xsl:variable>
-			<xsl:attribute name="href">
-				<xsl:call-template name="referencesREF">
-					<xsl:with-param name="refType">bibliography</xsl:with-param>
-					<xsl:with-param name="cRefValue"/>
-					<xsl:with-param name="refXML">
-                        <xsl:value-of select="$baseDir"/>/bibliography.xml</xsl:with-param>
-					<xsl:with-param name="refXSL">
-                        <xsl:value-of select="$baseDir"/>/xslt/show-bibliography.xsl</xsl:with-param>
-					<xsl:with-param name="refID">
-                        <xsl:value-of select="$refs"/>
-                    </xsl:with-param>
-				</xsl:call-template>
-			</xsl:attribute>
 			<xsl:choose>
 				<xsl:when test="@type='ebd'">ebd.</xsl:when>
 				<xsl:when test="@type='Ebd'">Ebd.</xsl:when>  <!-- Für Großschreibung am Anfang von Fußnoten -->
-				<xsl:otherwise>
+				<!--<xsl:otherwise>
 					<xsl:apply-templates select="$biblFile//tei:bibl[@xml:id=$refs]/tei:abbr"/>
-				</xsl:otherwise>
+				</xsl:otherwise>-->
 			</xsl:choose>
 		</a>
 		<xsl:apply-templates/>
@@ -564,7 +464,7 @@
 		</xsl:variable>
 		<xsl:variable name="link">
 			<xsl:text>javascript:show_annotation('</xsl:text>
-			<xsl:value-of select="$dir"/>
+<!--			<xsl:value-of select="$dir"/>-->
 			<xsl:text>','</xsl:text>
 			<xsl:value-of select="$baseDir"/>
 			<xsl:value-of select="$xml"/>
@@ -725,9 +625,9 @@
 		<a>
 			<xsl:attribute name="href">
 				<xsl:text>javascript:window.open('</xsl:text>
-				<xsl:value-of select="$cRef-biblical-start"/>
+<!--				<xsl:value-of select="$cRef-biblical-start"/>-->
 				<xsl:value-of select="translate(@cRef,' ,_','+: ')"/>
-				<xsl:value-of select="$cRef-biblical-end"/>
+<!--				<xsl:value-of select="$cRef-biblical-end"/>-->
                 <xsl:value-of select="@xml:id"/>
                 <xsl:text>', "Zweitfenster", "width=1200, height=450, top=300, left=50").focus();</xsl:text>
 			</xsl:attribute>
@@ -789,14 +689,7 @@
 		<!-- neu wegen Links auf spätere EE; 2016-07-12 DK -->
 		<!-- TODO verallgemeinern entsprechend Überlegungen oben zu ref -->
 		<xsl:variable name="tdir">
-			<xsl:choose>
-				<xsl:when test="contains($refXML, '240')">
-					<xsl:text>edoc/ed000240</xsl:text>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:value-of select="$dir"/>
-				</xsl:otherwise>
-			</xsl:choose>
+			<xsl:value-of select="$baseDir"/>
 		</xsl:variable>
 		<!-- neu im choose; 2016-07-11 DK -->
 		<!-- TODO ist es (wegen Zitierbarkeit) besser, auch bei einem lokalen Verweis einen vollen Link zu generieren? -->
