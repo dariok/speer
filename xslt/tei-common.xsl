@@ -619,34 +619,6 @@
 		</xsl:if>
 	</xsl:template>
 	
-	<!-- aus intro und transcript ausgelagert; 2016-03-16 DK -->
-	<!-- TODO: in rechter div anzeigen! -->
-	<xsl:template match="tei:ref[@type='biblical']">
-		<a>
-			<xsl:attribute name="href">
-				<xsl:text>javascript:window.open('</xsl:text>
-<!--				<xsl:value-of select="$cRef-biblical-start"/>-->
-				<xsl:value-of select="translate(@cRef,' ,_','+: ')"/>
-<!--				<xsl:value-of select="$cRef-biblical-end"/>-->
-                <xsl:value-of select="@xml:id"/>
-                <xsl:text>', "Zweitfenster", "width=1200, height=450, top=300, left=50").focus();</xsl:text>
-			</xsl:attribute>
-			<xsl:value-of select="."/>
-		</a>
-	</xsl:template>
-	
-	<!-- neu 2016-05-30 DK -->
-	<!-- cRef-Kodierung angepaßt (wird im Sch geprüft); 2016-06-09 DK -->
-	<xsl:template match="tei:ref[@type='vd16']">
-		<xsl:variable name="link">
-			<xsl:value-of select="concat('http://gateway-bayern.de/VD16+', @cRef)"/>
-		</xsl:variable>
-		<a href="{$link}" target="_blank">
-            <xsl:text>VD16 </xsl:text>
-			<xsl:value-of select="translate(@cRef, '+', ' ')"/>
-        </a>
-	</xsl:template>
-	
 	<!-- neu 2017-03-28 DK -->
 	<xsl:template match="tei:ref[not(@type)]">
 		<a href="{@target}" target="_blank">

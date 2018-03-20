@@ -249,21 +249,6 @@
 		</xsl:call-template>
 	</xsl:template>
 	
-	<!-- template match="tei:ref[not(@type='classical' or @type='biblical' or @type='medieval' or @type='corrigenda')]"
-		gelöscht; 2016-05-30 DK -->
-	
-	<!-- position() hinzugefügt für eindeutige IDs; 2016-05-30 DK -->
-	<xsl:template match="tei:ref[@type='corrigenda' and @corresp]">
-		<a id="coa{@corresp}{position()}" href="#co{@corresp}">
-			<xsl:value-of select="."/>
-		</a>
-	</xsl:template>
-	
-	<!-- type="biblical" wird in common abgehandelt; 2016-05-30 DK -->
-	<xsl:template match="tei:ref[@type='classical']">
-		<xsl:apply-templates/>
-	</xsl:template>
-	
 	<!-- #### Pointer #### -->
 	<!-- Change: @type='wdb' ausgelagert nach tei-common, 2015/10/23 DK -->
 	<xsl:template match="tei:ptr[@type='link'][@target]">
