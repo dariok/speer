@@ -107,7 +107,7 @@
 					<xsl:with-param name="type">crit</xsl:with-param>
 				</xsl:call-template>
 			</xsl:if>
-			<a href="#" class="upRef">↑</a>
+			<a href="javascript:$('#wdbContent').scrollTop(0);" class="upRef">↑</a>
 		</xsl:element>
 	</xsl:template>
 	
