@@ -168,62 +168,27 @@
 			</xsl:choose>
 		</xsl:variable>
 		<span class="pagebreak" id="{$ID}">
-			<xsl:choose>
+			<!--<xsl:choose>
+				<xsl:when test="contains(@n, '[') ">‖</xsl:when>
 				<xsl:when test="ancestor::tei:w">
                     <xsl:text>‖[</xsl:text>
                 </xsl:when>
 				<xsl:otherwise>
                     <xsl:text>‖ [</xsl:text>
                 </xsl:otherwise>
-			</xsl:choose>
-			<xsl:element name="a">
-				<xsl:attribute name="href">
-					<xsl:text>http://diglib.hab.de/</xsl:text>
-					<xsl:choose>
-						<xsl:when test="contains(@facs,'varia_selecta')">
-							<xsl:text>varia/selecta</xsl:text>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:value-of select="substring-before(substring(@facs,2),'_')"/>
-						</xsl:otherwise>
-					</xsl:choose>
-					<xsl:text>/</xsl:text>
-					<xsl:choose>
-						<xsl:when test="contains(@facs,'varia_selecta')">
-							<xsl:value-of select="substring-before(substring-after(substring(@facs,2),'varia_selecta_'),'_')"/>
-							<xsl:text>/start.htm?distype=imgs&amp;image=</xsl:text>
-							<xsl:value-of select="substring-after(substring-after(substring(@facs,2),'varia_selecta_'),'_')"/>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:value-of select="substring-before(substring-after(substring(@facs,2),'_'),'_')"/>
-							<xsl:text>/start.htm?distype=imgs&amp;image=</xsl:text>
-							<xsl:value-of select="substring-after(substring-after(substring(@facs,2),'_'),'_')"/>
-						</xsl:otherwise>
-					</xsl:choose>
-				</xsl:attribute>
-				<!-- recto/verso in <pb> hochgestellt ausgeben (JB 10.12.14) -->
-				<xsl:choose>
-					<xsl:when test="@n[contains(.,'r')] and not(@rend='super_no')">
-						<xsl:value-of select="substring-before(@n,'r')"/>
-                        <span class="superscript">r</span>
-					</xsl:when>
-					<xsl:when test="@n[contains(.,'v')] and not(@rend='super_no')">
-						<xsl:value-of select="substring-before(@n,'v')"/>
-                        <span class="superscript">v</span>
-					</xsl:when>
-					<xsl:otherwise>
-						<xsl:value-of select="@n"/>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:element>
-			<xsl:choose>
+			</xsl:choose>-->
+			<a href="{@facs}">
+				<xsl:value-of select="@n"/>
+			</a>
+			<!--<xsl:choose>
+				<xsl:when test="contains(@n, ']')" />
 				<xsl:when test="ancestor::tei:w">
                     <xsl:text>]</xsl:text>
                 </xsl:when>
 				<xsl:otherwise>
                     <xsl:text>] </xsl:text>
                 </xsl:otherwise>
-			</xsl:choose>
+			</xsl:choose>-->
 		</span>
 	</xsl:template>
 	
