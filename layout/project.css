@@ -5,3 +5,7 @@ h2 {
 	letter-spacing: inherit;
 	text-align: center;
 }
+
+span.footnoteText {
+    padding-left: 2em;
+}
