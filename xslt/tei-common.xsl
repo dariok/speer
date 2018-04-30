@@ -5,9 +5,6 @@
 	
 	<xsl:output method="html"/>
 	
-	<!-- neu 2016-07-14 DK -->
-	<xsl:param name="server"/>
-	
 	<!-- damit nicht bei jedem bibl neu geladen werden muß; 2016-06-01 DK -->
 <!--	<xsl:variable name="biblFile" select="document('../register/bibliography.xml')"/>-->
 	
@@ -28,6 +25,9 @@
 			</xsl:with-param>
 		</xsl:call-template>
 	</xsl:param>
+	
+	<xsl:param name="server" />
+	<xsl:param name="projectDir" />
 	
 	<!-- neu für die Verwendung mit WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:template match="/">
@@ -437,15 +437,11 @@
 		</tr>
 	</xsl:template>
 	
-	<!-- übernommen aus transcript; 2016-07-26 DK -->
-	<!-- enthaltenes tei:pb berücksichtigen; 2016-03-14 DK -->
-	<!-- enthaltenes tei:note und tei:subst berücksichtigen; 2016-04-25 DK -->
-	<!-- angepaßt für WDB Classic und eXist, verkürzt; 2016-07-18 DK -->
 	<xsl:template match="tei:rs">
 		<xsl:variable name="xml">
 			<xsl:choose>
 				<xsl:when test="@type='person'">
-					<xsl:text>/register/personenregister.xml</xsl:text>
+					<xsl:text>/db/apps/edoc/data/repertorium/register/personenregister.xml</xsl:text>
 				</xsl:when>
 				<xsl:when test="@type='place'">
 					<xsl:text>/register/ortsregister.xml</xsl:text>
@@ -466,10 +462,10 @@
 			<xsl:text>javascript:show_annotation('</xsl:text>
 <!--			<xsl:value-of select="$dir"/>-->
 			<xsl:text>','</xsl:text>
-			<xsl:value-of select="$baseDir"/>
+			<!--<xsl:value-of select="$projectDir"/>-->
 			<xsl:value-of select="$xml"/>
 			<xsl:text>','</xsl:text>
-			<xsl:value-of select="$baseDir"/>
+			<xsl:value-of select="$projectDir"/>
 			<xsl:value-of select="$xsl"/>
 			<xsl:text>','</xsl:text>
 			<xsl:value-of select="substring-after(@ref, '#')"/>

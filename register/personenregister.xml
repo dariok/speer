@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/edoc/ed000216/rules/register.xsd"
+    xml:id="repertorium_personenregister">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personenregister</title>
+                <respStmt>
+                    <resp>erstellt und bearbeitet von </resp>
+                    <name>Dario Kampkaspar</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">ACDH / ÖAW</name>
+                    <ptr target="http://acdh.oeaw.ac.at"/>
+                    <address>
+                        <street>Sonnenfelsgasse 19</street>
+                        <name type="city">Wien</name>
+                        <postCode>A-1030</postCode>
+                        <name type="country">Austria</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Zeichen aus der Private Use Area entsprechen MUFI 3.0 (http://mufi.info)</p>
+            <projectDesc>
+                <p>repertorium.at</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson xml:id="personenregister">
+                <person xml:id="viktring_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Viktring</surname>
+                    </persName>
+                    <birth when="1270">um 1270</birth>
+                    <death notBefore="1345-07-30" notAfter="1347-10-31"></death>
+                    <idno type="gnd">https://d-nb.info/gnd/119559552</idno>
+                    <listBibl>
+                        <bibl>
+                            <ref target="https://de.wikipedia.org/wiki/Johann_von_Viktring">Wikipedia</ref>
+                        </bibl>
+                    </listBibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
