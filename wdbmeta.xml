@@ -82,80 +82,115 @@
 	<process target="html">
 		<command type="xsl">/db/apps/edoc/data/repertorium/xslt/tei-transcript.xsl</command>
 	</process>
-	<struct label="170x">
-		
-	<view label="Das österreichische Landesrecht. Österreichisches Landesrecht im 13. und 14. Jahrhundert" file="edoc_ed000245_1278_oelr_hasenoehrl"/>
-        <view label="Ständischer Entwurf einer Kammergerichtsordnung. 1486, April :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_kammergerichtsordnung_staendischerentw"/>
-        <view label="Frankfurter Gerichtsordnung B 2. Hälfte 15. Jahrhundert :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_b"/>
+    <struct label="repertorium">
+        <struct label="Quellentexte">
+            <struct label="bis zum Ende des 14. Jh.">
+                <view label="Das österreichische Landesrecht. Österreichisches Landesrecht im 13. und 14. Jahrhundert" file="edoc_ed000245_1278_oelr_hasenoehrl"/>
+                <view label="Tomaschek / Csendes, Übersetzung des zweiten Privilegs von König Rudolf I. für Wien :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1278_wienprivileg_uebs"/>
+                <view label="Kärntnerisches Landrecht von 1338, hrsg. G.F. v. Ankershofen (= Archiv für vaterländische Geschichte und Topographie, hrsg. vom historischen Vereine für Kärnten, 3 (1856) 43-57) :: Transkription Speer 2012 /&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;2016" file="edoc_ed000245_1338_kaernten_ankershofen"/>
+                <view label="Albrecht II. von Österreich, Landesordnung für Kärnten 1338 (= Schwind-Dopsch 175-177) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1338_kaerntenlr"/>
+                <view label="Wien Stadtrechtsprivileg 1340 (Tomaschek / Csendes) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1340_wienstadtrechtsprivileg"/>
+                <view label="Universität Wien Stiftungsbrief 1365 (Ausgabe Csendes)  :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1365_wienuniversitaet"/>
+                <view label="Bischoff, Das Pettauer Stadtrecht vom Jahre 1376 (1887) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1376_pettaustr_bischoff"/>
+                <view label="Wien Erbrechtsbeschluß 1381 (Csendes) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1381_wien_erbrecht"/>
+                <view label="Frankfurt Baculus Iudicii 14. Jahrhundert :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1399_frankfurt_bac_iudicii"/>
+            </struct>
+            <struct label="15. Jh.">
+                <view label="Der kurfürstliche Landfriede. Frankfurt am Main 1438, März 21 :: Digitale Edition Heino Speer 2010" file="edoc_ed000245_1438_kurfuerstlandfriede"/>
+                <view label="Reichslandfrieden 1442 :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1442_reichslandfriede"/>
+                <view label="Kammergerichtsordnung — 1471, Okt. 24 :: Transkription 2010 / 2016" file="edoc_ed000245_1471_kammergo"/>
+                <view label="Frankfurter Gerichtsordnung C 1475 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1475_frankfurtgo_c"/>
+                <view label="Ordnung des Landgerichtes Wolkenstein vom Jahre 1478 (= ÖW. VI 28 - 34) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1478_wolkenstein"/>
+                <view label="Die Hofgerichtsordnung Kurfürst Philipps für die Pfalzgrafschaft bei Rhein" file="edoc_ed000245_1480_kurpfalzhofgo"/>
+                <view label="Nördlingen Appellationsordnung 1486 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_noerdlingenappo"/>
+                <view label="Ständischer Entwurf einer Kammergerichtsordnung. 1486, April :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_kammergerichtsordnung_staendischerentw"/>
+                <view label="Regimentsordnung Inner- und Vorderösterreich 1487 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1487_regimentsordnung_meran"/>
+                <view label="Sächsische Oberhofgerichtsordnung 1488 :: Transkription Speer 2010 / 2013 / 2016" file="edoc_ed000245_1488_saechsohofgo"/>
+                <view label="Nördlingen Gerichtsordnung 1488 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1488_noerdlingengo"/>
+                <view label="Mandat Maximilians I. 1491 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1491_max_mandat"/>
+                <view label="Stuttgart Stadtrecht 1492 Nov. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1492_stuttgartstr"/>
+                <view label="Tübingen Stadtrecht 1493 April 16 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1493_tuebingenstr"/>
+                <view label="Baden: Landesordnung vom 21. September 1495 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1495_badenlo"/>
+                <view label="Materialien zur nicht überlieferten Hofordnung König Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1497_hofoentw_max"/>
+                <view label="Hofkammerordnung Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1498_hofkammerordnung_max"/>
+                <view label="Frankfurter Gerichtsordnung B 2. Hälfte 15. Jahrhundert :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_b"/>
+                <view label="Frankfurter Schöffengerichtsordnung (A) 15. Jh. :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_a"/>
+            </struct>
+            <struct label="16. Jh.">
+                <view label="Die Summa legum brevis levis et utilis des sogenannten Doctor Raymundus von Wiener-Neustadt :: Elektronische Ausgabe Speer 2013 / 2016" file="edoc_ed000245_1500_summalegum"/>
+                <view label="Badische Hofgerichtsordnung 1509 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1509_badenhofgo"/>
+                <view label="Statuten von Heilbronn. — Angefangen 1513 Jan. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1513_heilbronnstat"/>
+                <view label="Constitutio Joachimica 1527 (1549) :: Transkription DRQEdit / Heino Speer 2013" file="edoc_ed000245_1527_constjoachimica"/>
+                <view label="Wittgenstein Gerichtsordnung 1569 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1569_wittgensteingo"/>
+                <view label="Landschrannenordnung  Krain 1571 :: Transkription Speer 2016" file="edoc_ed000245_1571_krainlschro"/>
+                <view label="Cammer-Gerichts-Ordnung so auf Churfuerst Johann Georgens Befehl abgefasset, aber nicht publiciret worden :: Transkription Speer 2011 / 2016" file="edoc_ed000245_1573_brandenbkgo_entwurf"/>
+            </struct>
+        </struct>
+        <struct label="Sekundärliteratur">
+            <struct label="A">
+                <view label="Altmann, Nachwort zu Jodokus Pflanzmann 1989 :: Elektronische Edition Heino Speer 2010 / 2016" file="edoc_ed000245_altmann_1989"/>
+            </struct>
+            <struct label="B">
+                <view label="Hermann Baltl, Die Kärntner Landgerichtsordnung von 1577 :: Transkription Speer 2014" file="edoc_ed000245_baltl_1949_kaerntlgo_1577"/>
+                <view label="Hermann Baltl, Einflüsse des römischen Rechts in Österreich :: Transkription und Verlinkung Speer 2014" file="edoc_ed000245_baltl_1962_roemr"/>
+                <view label="Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016" file="edoc_ed000245_bartmann_1908"/>
+                <view label="Robert Bartsch, Eheliches Güterrecht im Erzherzogtum Österreich (1905) :: Digitale Edition Heino Speer 2012" file="edoc_ed000245_bartsch_gueterrecht_1905"/>
+                <view label="Friedrich Battenberg, Eine Darmstädter Handschrift zur Kammergerichtsordnung Kaiser Friedrichs III. von 1471 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1471_kammergo_battenberg"/>
+                <view label="Baum, Der Klagenfurter Universitätsplan des Flacius Illyricus (1562), Klagenfurt 1991 :: Digitale Bearbeitung Heino Speer 2015" file="edoc_ed000245_baum_flacius"/>
+                <view label="H. J. Bidermann, Geschichte der landesfürstlichen Behörden in und für Tirol von 1490-1749 (1866) :: Transkription Speer November 2013" file="edoc_ed000245_bidermann_1866"/>
+                <view label="Brauneder, Wilhelm, &#34;Stillschweigende Hypotheken&#34; im Ius Romano-Germanicum (1971) :: Transkription Speer 2014/16." file="edoc_ed000245_brauneder_1971_stillschweigende_hypotheken"/>
+                <view label="Wilhelm Brauneder, Eine vermeintliche Probearbeit zum obderennsischen Landrechtsentwurf 1609, in: Jahrbuch des Oberösterreichischen Musealvereines 121a (1976) 223 - 232" file="edoc_ed000245_brauneder_1976_probearbeit"/>
+                <view label="Wilhelm Brauneder, Grundbuch und Miteigentum im &#34;Tractatus de Iuribus Incorporalibus&#34; In: ZRG. Germ. 94 (1977) 218ff. :: Transkription Speer 2012/2016" file="edoc_ed000245_brauneder_1977_tractiurincorp"/>
+                <view label="Wilhelm Brauneder, Zur Gesetzgebungsgeschichte der niederösterreichischen Länder (1973) :: Transkription Speer 2013/2016 " file="edoc_ed000245_brauneder_1973_gesetzgebung"/>
+                <view label="Wilhelm Brauneder, Die Ehescheidung dem Bande nach in den Landesordnungsentwürfen für Österreich unter und ob der Enns 1595 und 1609, In: Österreichisches Archiv für Kirchenrecht. Vierteljahresschrift 22. Jahrgang  1971, S. 273 - 290 :: Elektronische Ausgabe Heino Speer 2012 (Version: 3. Mai 2015)" file="edoc_ed000245_brauneder_1971_ehescheidung"/>
+                <view label="Bremer,  Cantiunculas Gutachten über das Nürnberger Stadtrecht (1898) :: Transkription Speer 2010 / 2016" file="edoc_ed000245_bremer_1894"/>
+                <view label="Byloff, Die Land- und peinliche Gerichtsordnung ... für Steiermark (1907) :: Digitale Edition Heino Speer 2012 / 2016" file="edoc_ed000245_byloff_1907"/>
+            </struct>
+            <struct label="D">
+                <view label="Erich Denk, Die Appellationsvorschriften der Bayerischen Gerichtsordnung von 1520 [Digitale Edition nach der Druckfassung von 1977]" file="edoc_ed000245_denk_1977"/>
+            </struct>
+            <struct label="H">
+                <view label="Hachenberg, Die Gogerichte des Fürstbistums Münster und die Landgerichtsordnung von 1571 :: Elektronische Edition 2010 / 2016" file="edoc_ed000245_hachenberg_1997"/>
+                <view label="Gernot Heiß, Die Landschaftsschulen in den nieder- und innerösterreichischen Ländern vor dem Dreißigjährigen Krieg (1978) :: Digitale Bearbeitung Speer 2015" file="edoc_ed000245_heiss_landschaftsschulen"/>
+            </struct>
+            <struct label="G">
+                <view label="Dr. Andreas Gedeon, Zur Rezeption des römischen Privatrechts in Nürnberg (Nürnberg 1957) :: Transkription Speer 2009 /2013 " file="edoc_ed000245_gedeon_nuernberg_1957"/>
+            </struct>
+            <struct label="J">
+                <view label="Dr. Johann Fichard, 1512—1581. Von Stadtarchivar Dr. Rudolf Jung :: Elektronische Edition Speer 2010 / 2016" file="edoc_ed000245_jung_1889"/>
+            </struct>
+            <struct label="M">
+                <view label="Theodor Muther: Doctor Conrad Lagus. Ein Beitrag zur Geschichte der Systematik des Civilrechts und der Lehre vom Autorrecht.Zur Geschichte der Rechtswissenschaft und der Universitaeten in Deutschland von D. Theodor Muther (Jena 1876) S. 299-351&#xA;                " file="edoc_ed000245_muther_1876_lagus"/>
+            </struct>
+            <struct label="T">
+                <view label="Viktor Thiel, Die innerösterreichische Zentralverwaltung 1564-1749 (1917) :: Transkription Speer 2014/16" file="edoc_ed000245_thiel_zentralverwaltung_inneroesterreich"/>
+                <view label="Karl Torggler, Darstellungen des Kärntner Rechtes und Rechtsganges." file="edoc_ed000245_torggler_1936_darstellung"/>
+                <view label="Das Klagenfurter Stadtrecht in Reimen. Herausgegeben und erläutert von Dr. Karl Torggler :: Elektronische Edition 2010/2013" file="edoc_ed000245_torggler_1927_gereimt"/>
+            </struct>
+            <struct label="W">
+                <view label="Gunter Wesener, Die Entwicklung des Bürgschaftsrechts in den altösterreichischen Ländern (1971) :: Transkription Speer 2015" file="edoc_ed000245_wesener_1971_buergschaftsrecht"/>
+                <view label="Wesener, Gunter, Beschränkungen der Testierfreiheit in deutschen Stadtrechtsreformationen und Landrechten der Rezeptionszeit (1970) :: Transkription Speer 2013." file="edoc_ed000245_wesener_1970_testierfreiheit"/>
+                <view label="Wesener, Pfandrecht (1973)  :: Transkription Speer 2016" file="edoc_ed000245_wesener_1973_pfandrecht"/>
+                <view label="Gunter Wesener, Zur Bedeutung der österreichischen Landesordnungsentwürfe des 16. und 17. Jahrhunderts  (1974/75) :: Transkription Speer 2012" file="edoc_ed000245_wesener_1975_landesordnungsentwuerfe"/>
+                <view label="Gunter Wesener, Die Rechtsstellung des unehelichen Kindes in Österreich (vom Mittelalter bis zur Gegenwart), 1976 :: Transkription Speer 2012" file="edoc_ed000245_wesener_1976_stellungunehelich"/>
+                <view label="Gunter Wesener, Die Stellung des Kindes im Recht der  Altösterreichischen Länder (Vom Mittelalter bis zum A.B.G.B.), in: L'enfant. Recueils de la Société Jean Bodin 36 (1976) 453-492 :: Digitale Bearbeitung Heino Speer 2013&#xA;" file="edoc_ed000245_wesener_1976_stellungkind"/>
+                <view label="Gunter Wesener, Der innerösterreichische Regimentsrat Nikolaus von Beckmann und sein Kodifikationsplan, in: Johannes Kepler 1571 - 1971. Gedenkschrift der Universität Graz (Graz 1975) 641 - 656 :: Transkription Speer 2012/2016" file="edoc_ed000245_wesener_1975_beckmann"/>
+                <view label="Wesener, Kauf nach österreichischem Privatrecht  :: Transkription Speer 2014" file="edoc_ed000245_wesener_1972_kauf"/>
+                <view label=" Alfred Wolff: Gerichtsverfassung und Prozess im Hochstift Augsburg in der Rezeptionszeit (1913) :: Transkription Speer 2013/2016" file="edoc_ed000245_wolff_1913_gerichtsverfassung"/>
+            </struct>
+        </struct>
+        <struct label="Protestantismus in Österreich – Literatur">
+            <struct label="B">
+                <view label="Victor Bibl, Die Organisation des evangelischen Kirchenwesens im Erzherzogthum Österreich unter der Enns von der Ertheilung der Religions-Concession bis zu Kaiser Maximilians II. Tode (1568-1576). 1899 :: Transkription Speer 2014" file="edoc_ed000245_bibl_1899"/>
+            </struct>
+            <struct label="D">
+                <view label="Paul Dedic, Der Protestantismus in Steiermark 1930 :: Digitale Transkription Speer 2014" file="edoc_ed000245_dedic_protestantismus_1930"/>
+            </struct>
+            <struct label="M">
+                <view label="Literaturverzeichnis aus: Grete Mecenseffy, Die Geschichte des Protestantismus in Österreich, Graz-Köln 1956 :: Bearbeitung Speer 2014" file="edoc_ed000245_mecens_bibl_sort"/>
+                <view label="Grete Mecenseffy, Geschichte des Protestantismus in Österreich (1956) :: Transkription und Verlinkung Speer 2014/15" file="edoc_ed000245_mecenseffy_1956"/>
+            </struct>
+        </struct>
         <view label="Codex Theresianus :: digitalisiertes Inhaltsverzeichnis mit Verlinkung zum Faksimile :: Speer 2016" file="edoc_ed000245_codex_theresianus_inhalt"/>
-        <view label="Victor Bibl, Die Organisation des evangelischen Kirchenwesens im Erzherzogthum Österreich unter der Enns von der Ertheilung der Religions-Concession bis zu Kaiser Maximilians II. Tode (1568-1576). 1899 :: Transkription Speer 2014" file="edoc_ed000245_bibl_1899"/>
-        <view label="Hermann Baltl, Die Kärntner Landgerichtsordnung von 1577 :: Transkription Speer 2014" file="edoc_ed000245_baltl_1949_kaerntlgo_1577"/>
-        <view label="Wien Erbrechtsbeschluß 1381 (Csendes) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1381_wien_erbrecht"/>
-        <view label="Wesener, Gunter, Beschränkungen der Testierfreiheit in deutschen Stadtrechtsreformationen und Landrechten der Rezeptionszeit (1970) :: Transkription Speer 2013." file="edoc_ed000245_wesener_1970_testierfreiheit"/>
-        <view label="Constitutio Joachimica 1527 (1549) :: Transkription DRQEdit / Heino Speer 2013" file="edoc_ed000245_1527_constjoachimica"/>
-        <view label="Sächsische Oberhofgerichtsordnung 1488 :: Transkription Speer 2010 / 2013 / 2016" file="edoc_ed000245_1488_saechsohofgo"/>
-        <view label="Wilhelm Brauneder, Eine vermeintliche Probearbeit zum obderennsischen Landrechtsentwurf 1609, in: Jahrbuch des Oberösterreichischen Musealvereines 121a (1976) 223 - 232" file="edoc_ed000245_brauneder_1976_probearbeit"/>
-        <view label="Tübingen Stadtrecht 1493 April 16 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1493_tuebingenstr"/>
-        <view label="Nördlingen Gerichtsordnung 1488 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1488_noerdlingengo"/>
-        <view label="Mandat Maximilians I. 1491 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1491_max_mandat"/>
-        <view label="Materialien zur nicht überlieferten Hofordnung König Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1497_hofoentw_max"/>
-        <view label="Das Klagenfurter Stadtrecht in Reimen. Herausgegeben und erläutert von Dr. Karl Torggler :: Elektronische Edition 2010/2013" file="edoc_ed000245_torggler_1927_gereimt"/>
-        <view label="Bischoff, Das Pettauer Stadtrecht vom Jahre 1376 (1887) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1376_pettaustr_bischoff"/>
-        <view label="Reichslandfrieden 1442 :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1442_reichslandfriede"/>
-        <view label="Erich Denk, Die Appellationsvorschriften der Bayerischen Gerichtsordnung von 1520 [Digitale Edition nach&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;der Druckfassung von 1977]" file="edoc_ed000245_denk_1977"/>
-        <view label="Paul Dedic, Der Protestantismus in Steiermark 1930 :: Digitale Transkription Speer 2014" file="edoc_ed000245_dedic_protestantismus_1930"/>
-        <view label="Byloff, Die Land- und peinliche Gerichtsordnung ... für Steiermark (1907) :: Digitale Edition Heino Speer 2012 / 2016" file="edoc_ed000245_byloff_1907"/>
-        <view label="Friedrich Battenberg, Eine Darmstädter Handschrift zur Kammergerichtsordnung Kaiser Friedrichs III. von&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;1471 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1471_kammergo_battenberg"/>
-        <view label="Frankfurter Schöffengerichtsordnung (A) 15. Jh. :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1499_frankfurtgo_a"/>
-        <view label=" Die Hofgerichtsordnung Kurfürst Philipps für die Pfalzgrafschaft bei Rhein " file="edoc_ed000245_1480_kurpfalzhofgo"/>
-        <view label="Wilhelm Brauneder, Die Ehescheidung dem Bande nach in den Landesordnungsentwürfen für Österreich unter und ob der Enns 1595 und 1609, In: Österreichisches Archiv für Kirchenrecht. Vierteljahresschrift 22. Jahrgang  1971, S. 273 - 290 :: Elektronische Ausgabe Heino Speer 2012 (Version: 3. Mai 2015)" file="edoc_ed000245_brauneder_1971_ehescheidung"/>
-        <view label="Badische Hofgerichtsordnung 1509 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1509_badenhofgo"/>
-        <view label="Gunter Wesener, Die Entwicklung des Bürgschaftsrechts in den altösterreichischen Ländern (1971) :: Transkription Speer 2015" file="edoc_ed000245_wesener_1971_buergschaftsrecht"/>
-        <view label="Dr. Andreas Gedeon, Zur Rezeption des römischen Privatrechts in Nürnberg (Nürnberg 1957) :: Transkription Speer 2009 /2013 " file="edoc_ed000245_gedeon_nuernberg_1957"/>
-        <view label="Gunter Wesener, Die Rechtsstellung des unehelichen Kindes in Österreich (vom Mittelalter bis zur Gegenwart), 1976 :: Transkription Speer 2012" file="edoc_ed000245_wesener_1976_stellungunehelich"/>
-        <view label="Hermann Baltl, Einflüsse des römischen Rechts in Österreich :: Transkription und Verlinkung Speer 2014" file="edoc_ed000245_baltl_1962_roemr"/>
-        <view label="Literaturverzeichnis aus: Grete Mecenseffy, Die Geschichte des Protestantismus in Österreich, Graz-Köln 1956 :: Bearbeitung Speer 2014" file="edoc_ed000245_mecens_bibl_sort"/>
-        <view label="Universität Wien Stiftungsbrief 1365 (Ausgabe Csendes)  :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1365_wienuniversitaet"/>
-        <view label="H. J. Bidermann, Geschichte der landesfürstlichen Behörden in und für Tirol von 1490-1749 (1866) :: Transkription Speer November 2013" file="edoc_ed000245_bidermann_1866"/>
-        <view label="Wesener, Pfandrecht (1973)  :: Transkription Speer 2016" file="edoc_ed000245_wesener_1973_pfandrecht"/>
-        <view label="Gunter Wesener, Zur Bedeutung der österreichischen Landesordnungsentwürfe des 16. und 17. Jahrhunderts  (1974/75) :: Transkription Speer 2012" file="edoc_ed000245_wesener_1975_landesordnungsentwuerfe"/>
-        <view label="Der kurfürstliche Landfriede. Frankfurt am Main 1438, März 21 :: Digitale Edition Heino Speer 2010" file="edoc_ed000245_1438_kurfuerstlandfriede"/>
-        <view label="Hofkammerordnung Maximilians I.  von 1498 (Fellner)  :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1498_hofkammerordnung_max"/>
-        <view label="Robert Bartsch, Eheliches Güterrecht im Erzherzogtum Österreich (1905) :: Digitale Edition Heino Speer 2012" file="edoc_ed000245_bartsch_gueterrecht_1905"/>
-        <view label="Viktor Thiel, Die innerösterreichische Zentralverwaltung 1564-1749 (1917) :: Transkription Speer 2014/16" file="edoc_ed000245_thiel_zentralverwaltung_inneroesterreich"/>
-        <view label="Albrecht II. von Österreich, Landesordnung für Kärnten 1338 (= Schwind-Dopsch 175-177) :: Transkription&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Speer 2012 / 2016" file="edoc_ed000245_1338_kaerntenlr"/>
-        <view label="Die Summa legum brevis levis et utilis des sogenannten Doctor Raymundus von Wiener-Neustadt :: Elektronische Ausgabe Speer 2013 / 2016" file="edoc_ed000245_1500_summalegum"/>
-        <view label="Karl Torggler, Darstellungen des Kärntner Rechtes und Rechtsganges." file="edoc_ed000245_torggler_1936_darstellung"/>
-        <view label="Kärntnerisches Landrecht von 1338, hrsg. G.F. v. Ankershofen (= Archiv für vaterländische Geschichte und&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Topographie, hrsg. vom historischen Vereine für Kärnten, 3 (1856) 43-57) :: Transkription Speer 2012 /&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;2016" file="edoc_ed000245_1338_kaernten_ankershofen"/>
-        <view label="Wien Stadtrechtsprivileg 1340 (Tomaschek / Csendes) :: Transkription Speer 2014 / 2016" file="edoc_ed000245_1340_wienstadtrechtsprivileg"/>
-        <view label="Cammer-Gerichts-Ordnung so auf Churfuerst Johann Georgens Befehl abgefasset, aber nicht publiciret worden :: Transkription Speer 2011 / 2016" file="edoc_ed000245_1573_brandenbkgo_entwurf"/>
-        <view label="Brauneder, Wilhelm, &#34;Stillschweigende Hypotheken&#34; im Ius Romano-Germanicum (1971) :: Transkription Speer 2014/16." file="edoc_ed000245_brauneder_1971_stillschweigende_hypotheken"/>
-        <view label="Bremer,  Cantiunculas Gutachten über das Nürnberger Stadtrecht (1898) :: Transkription Speer 2010 / 2016" file="edoc_ed000245_bremer_1894"/>
-        <view label="Statuten von Heilbronn. — Angefangen 1513 Jan. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1513_heilbronnstat"/>
-        <view label="Gunter Wesener, Die Stellung des Kindes im Recht der  Altösterreichischen Länder (Vom Mittelalter bis zum A.B.G.B.), in: L'enfant. Recueils de la Société Jean Bodin 36 (1976) 453-492 :: Digitale Bearbeitung Heino Speer 2013&#xA;" file="edoc_ed000245_wesener_1976_stellungkind"/>
-        <view label="Baum, Der Klagenfurter Universitätsplan des Flacius Illyricus (1562), Klagenfurt 1991 :: Digitale Bearbeitung Heino Speer 2015" file="edoc_ed000245_baum_flacius"/>
-        <view label="Frankfurt Baculus Iudicii 14. Jahrhundert :: Elektronische Edition Heino Speer 2010" file="edoc_ed000245_1399_frankfurt_bac_iudicii"/>
-        <view label="Regimentsordnung Inner- und Vorderösterreich 1487 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1487_regimentsordnung_meran"/>
-        <view label="Nördlingen Appellationsordnung 1486 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1486_noerdlingenappo"/>
-        <view label="Stuttgart Stadtrecht 1492 Nov. 6 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1492_stuttgartstr"/>
-        <view label="&#xA;  Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016" file="edoc_ed000245_bartmann_1908"/>
-        <view label="Ordnung des Landgerichtes Wolkenstein vom Jahre 1478 (= ÖW. VI 28 - 34) :: Transkription Speer 2012 / 2016" file="edoc_ed000245_1478_wolkenstein"/>
-        <view label="Wittgenstein Gerichtsordnung 1569 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1569_wittgensteingo"/>
-        <view label="Dr. Johann Fichard, 1512—1581. Von Stadtarchivar Dr. Rudolf Jung :: Elektronische Edition Speer 2010 / 2016" file="edoc_ed000245_jung_1889"/>
-        <view label="Gernot Heiß, Die Landschaftsschulen in den nieder- und innerösterreichischen Ländern vor dem Dreißigjährigen Krieg (1978) :: Digitale Bearbeitung Speer 2015" file="edoc_ed000245_heiss_landschaftsschulen"/>
-        <view label="Kammergerichtsordnung — 1471, Okt. 24 :: Transkription 2010 / 2016" file="edoc_ed000245_1471_kammergo"/>
-        <view label="Hachenberg, Die Gogerichte des Fürstbistums Münster und die Landgerichtsordnung von 1571 :: Elektronische Edition 2010 / 2016" file="edoc_ed000245_hachenberg_1997"/>
-        <view label="Tomaschek / Csendes, Übersetzung des zweiten Privilegs von König Rudolf I. für Wien :: Transkription&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;Speer 2014 / 2016" file="edoc_ed000245_1278_wienprivileg_uebs"/>
-        <view label="Gunter Wesener, Der innerösterreichische Regimentsrat Nikolaus von Beckmann und sein Kodifikationsplan, in: Johannes Kepler 1571 - 1971. Gedenkschrift der Universität Graz (Graz 1975) 641 - 656 :: Transkription Speer 2012/2016" file="edoc_ed000245_wesener_1975_beckmann"/>
-        <view label="Altmann, Nachwort zu Jodokus Pflanzmann 1989 :: Elektronische Edition Heino Speer 2010 / 2016" file="edoc_ed000245_altmann_1989"/>
-        <view label="Grete Mecenseffy, Geschichte des Protestantismus in Österreich (1956) :: Transkription und Verlinkung Speer 2014/15" file="edoc_ed000245_mecenseffy_1956"/>
-        <view label="Wilhelm Brauneder, Grundbuch und Miteigentum im &#34;Tractatus de Iuribus Incorporalibus&#34; In: ZRG. Germ. 94 (1977) 218ff. :: Transkription Speer 2012/2016" file="edoc_ed000245_brauneder_1977_tractiurincorp"/>
-        <view label="Baden: Landesordnung vom 21. September 1495 :: Transkription Speer 2013 / 2016" file="edoc_ed000245_1495_badenlo"/>
-        <view label="Landschrannenordnung  Krain 1571 :: Transkription Speer 2016" file="edoc_ed000245_1571_krainlschro"/>
-        <view label="Wilhelm Brauneder, Zur Gesetzgebungsgeschichte der niederösterreichischen Länder (1973) :: Transkription Speer 2013/2016 " file="edoc_ed000245_brauneder_1973_gesetzgebung"/>
-        <view label="Theodor Muther: Doctor Conrad Lagus. Ein Beitrag zur Geschichte der Systematik des Civilrechts und der Lehre vom Autorrecht.Zur Geschichte der Rechtswissenschaft und der Universitaeten in Deutschland von D. Theodor Muther (Jena 1876) S. 299-351&#xA;                " file="edoc_ed000245_muther_1876_lagus"/>
-        <view label="Frankfurter Gerichtsordnung C 1475 :: Transkription Speer 2010 / 2016" file="edoc_ed000245_1475_frankfurtgo_c"/>
-        <view label=" Alfred Wolff: Gerichtsverfassung und Prozess im Hochstift Augsburg in der Rezeptionszeit (1913) :: Transkription Speer 2013/2016" file="edoc_ed000245_wolff_1913_gerichtsverfassung"/>
-        <view label="Wesener, Kauf nach österreichischem Privatrecht  :: Transkription Speer 2014" file="edoc_ed000245_wesener_1972_kauf"/>
     </struct>
 </projectMD>
