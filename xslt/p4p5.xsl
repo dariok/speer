@@ -1,12 +1,14 @@
-<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-	xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	version="2.0"
-	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-	exclude-result-prefixes="tei date">
+<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei date">
 	
 	<xsl:param name="fileid"/>
+	
+	<!-- **
+				* Conversion from TEI P4 to P5
+				* Herzog August Bibliothek Wolfenbüttel - - Wolfenbüttler Digitale Bibliothek
+				* Editor:DK Dario Kampkaspar, kampkaspar@hab.de
+				* This script may be used, distributed and changed freely as long as the author and the library are
+				* properly credited and further usage of this and any derived scripts is granted free of charge. 
+				**-->
 	
 	<!-- Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK -->
 	<!-- TODO nicht benötigte entfernen; 2016-11-02 DK -->
@@ -17,6 +19,7 @@
 	
 	<!-- get the current date -->
 	<xsl:variable name="today">
+		<!--XSLT 1.0: <xsl:value-of select="date:date()"/>-->
 		<xsl:value-of select="current-date()"/>
 	</xsl:variable>
 	
