@@ -7,7 +7,7 @@
 	
 	<xsl:template match="/" mode="content">
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
-			<p class="editors">Bearbeitet von <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt[not(@n='encoding')]/tei:persName"/>
+			<p class="editors">Transkribiert von <xsl:apply-templates select="/tei:TEI/tei:teiHeader//tei:publisher/tei:ref"/>
             </p>
 			<!-- Haupttext -->
 			<xsl:apply-templates select="tei:TEI/tei:text"/>
