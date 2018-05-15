@@ -1,0 +1,1756 @@
+<tei:listPerson xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <tei:person xml:id="Viktor_Bibl">
+        <persName>
+            <forename>Viktor</forename>
+            <surname>Bibl</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Viktor Bibl"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Martin_Eisengrein">
+        <persName>
+            <forename>Martin</forename>
+            <surname>Eisengrein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Martin_Eisengrein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="streun">
+        <persName>
+            <forename>personen.html#streun</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/personen.html#streun"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Jakob_Andreä">
+        <persName>
+            <forename>Jakob</forename>
+            <surname>Andreä</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Jakob_Andreä"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Paul_Eber">
+        <persName>
+            <forename>Paul</forename>
+            <surname>Eber</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Paul_Eber"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Matthias_Flacius">
+        <persName>
+            <forename>Matthias</forename>
+            <surname>Flacius</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Matthias_Flacius"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Chyträus">
+        <persName>
+            <forename>Chyträus</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Chyträus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Rüdiger_von_Starhemberg">
+        <persName>
+            <forename>Rüdiger</forename>
+            <nameLink>von</nameLink>
+            <surname>Starhemberg</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Rüdiger_von_Starhemberg"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Westphal">
+        <persName>
+            <forename>Westphal</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Westphal"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_Wigand">
+        <persName>
+            <forename>Johann</forename>
+            <surname>Wigand</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_Wigand"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="David_Chyträus">
+        <persName>
+            <forename>David</forename>
+            <surname>Chyträus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/David_Chyträus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="August_von_Braunschweig">
+        <persName>
+            <forename>August</forename>
+            <nameLink>von</nameLink>
+            <surname>Braunschweig</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/August_von_Braunschweig"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Arnulf_HRR">
+        <persName>
+            <forename>Arnulf</forename>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Arnulf_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Otto_II_HRR">
+        <persName>
+            <forename>Otto</forename>
+            <name>II</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Otto_II_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Otto_III_HRR">
+        <persName>
+            <forename>Otto</forename>
+            <name>III</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Otto_III_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_III_HRR">
+        <persName>
+            <forename>Heinrich</forename>
+            <name>III</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_III_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_IV_HRR">
+        <persName>
+            <forename>Heinrich</forename>
+            <name>IV</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_IV_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Maximilian_II_HRR">
+        <persName>
+            <forename>Maximilian</forename>
+            <name>II</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Maximilian_II_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Konrad_Salzburg">
+        <persName>
+            <forename>Konrad</forename>
+            <surname>(Salzburg)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Konrad_(Salzburg)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_Salzburg">
+        <persName>
+            <forename>Heinrich</forename>
+            <surname>(Salzburg)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_(Salzburg)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Konrad_III._Salzburg">
+        <persName>
+            <forename>Konrad</forename>
+            <name>III.</name>
+            <surname>(Salzburg)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Konrad_III._(Salzburg)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ulrich_von_Seckau">
+        <persName>
+            <forename>Ulrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Seckau</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/http://de.wikipedia.org/wiki/Ulrich_von_Seckau"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Béla_IV._Ungarn">
+        <persName>
+            <forename>Béla</forename>
+            <name>IV.</name>
+            <surname>(Ungarn)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Béla_IV._(Ungarn)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ottokar_II._PřemyslOttokar_Böhmen">
+        <persName>
+            <forename>Ottokar</forename>
+            <name>II.</name>
+            <name>PřemyslOttokar</name>
+            <surname>(Böhmen)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Ottokar_II._PřemyslOttokar_(Böhmen)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Rudolf_I._HRR">
+        <persName>
+            <forename>Rudolf</forename>
+            <name>I.</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Rudolf_I._(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Leonhard_von_Keutschach">
+        <persName>
+            <forename>Leonhard</forename>
+            <nameLink>von</nameLink>
+            <surname>Keutschach</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Leonhard_von_Keutschach"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hans_von_Schubert">
+        <persName>
+            <forename>Hans</forename>
+            <nameLink>von</nameLink>
+            <surname>Schubert</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hans_von_Schubert"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Wolf_Dietrich_von_Raitenau">
+        <persName>
+            <forename>Wolf</forename>
+            <name>Dietrich</name>
+            <nameLink>von</nameLink>
+            <surname>Raitenau</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Wolf_Dietrich_von_Raitenau"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Matthias_Scheit">
+        <persName>
+            <forename>Matthias</forename>
+            <surname>Scheit</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Matthias_Scheit"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Matthäus_Lang">
+        <persName>
+            <forename>Matthäus</forename>
+            <surname>Lang</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Matthäus_Lang"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Paul_Speratus">
+        <persName>
+            <forename>Paul</forename>
+            <surname>Speratus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Paul_Speratus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_von_Staupitz">
+        <persName>
+            <forename>Johann</forename>
+            <nameLink>von</nameLink>
+            <surname>Staupitz</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_von_Staupitz"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_Draconites">
+        <persName>
+            <forename>Johann</forename>
+            <surname>Draconites</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_Draconites"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Zwingli">
+        <persName>
+            <forename>Zwingli</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Zwingli"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ökolampad">
+        <persName>
+            <forename>Ökolampad</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Ökolampad"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Christophorus_Rauber">
+        <persName>
+            <forename>Christophorus</forename>
+            <surname>Rauber</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Christophorus_Rauber"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Niklas_Graf_Salm_der_Ältere">
+        <persName>
+            <forename>Niklas</forename>
+            <name>Graf</name>
+            <name>Salm</name>
+            <name>der</name>
+            <surname>Ältere</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Niklas_Graf_Salm_der_Ältere"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Balthasar_Hubmaier">
+        <persName>
+            <forename>Balthasar</forename>
+            <surname>Hubmaier</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Balthasar_Hubmaier"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Urbanus_Rhegius">
+        <persName>
+            <forename>Urbanus</forename>
+            <surname>Rhegius</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Urbanus_Rhegius"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_Fabri">
+        <persName>
+            <forename>Johann</forename>
+            <surname>Fabri</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_Fabri"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Matthäus_Lang_von_Wellenburg">
+        <persName>
+            <forename>Matthäus</forename>
+            <name>Lang</name>
+            <nameLink>von</nameLink>
+            <surname>Wellenburg</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Matthäus_Lang_von_Wellenburg"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hans_Ungnad">
+        <persName>
+            <forename>Hans</forename>
+            <surname>Ungnad</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hans_Ungnad"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hans_Ungnad">
+        <persName>
+            <forename>Hans</forename>
+            <surname>Ungnad</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hans_Ungnad"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_Spies">
+        <persName>
+            <forename>Johann</forename>
+            <surname>Spies</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_Spies"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Tobias_Steinmann">
+        <persName>
+            <forename>Tobias</forename>
+            <surname>Steinmann</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Tobias_Steinmann"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Friedrich_III._HRR">
+        <persName>
+            <forename>Friedrich</forename>
+            <name>III.</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Friedrich_III._(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Maximilian_I._HRR">
+        <persName>
+            <forename>Maximilian</forename>
+            <name>I.</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Maximilian_I._(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Savigny">
+        <persName>
+            <forename>Savigny</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Savigny"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Sidonius_Apollinaris">
+        <persName>
+            <forename>Sidonius</forename>
+            <surname>Apollinaris</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Sidonius_Apollinaris"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Krause_Hermann">
+        <persName>
+            <forename>Krause</forename>
+            <surname>Hermann</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Krause_Hermann"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_von_Langenstein">
+        <persName>
+            <forename>Heinrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Langenstein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_von_Langenstein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Durantis">
+        <persName>
+            <forename>personen.html#Durantis</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/sammlung/personen.html#Durantis"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bartolus_de_Saxoferrato">
+        <persName>
+            <forename>Bartolus</forename>
+            <name>de</name>
+            <surname>Saxoferrato</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Bartolus_de_Saxoferrato"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Baldus_de_Ubaldis">
+        <persName>
+            <forename>Baldus</forename>
+            <name>de</name>
+            <surname>Ubaldis</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Baldus_de_Ubaldis"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Alexander_III.">
+        <persName>
+            <forename>Alexander</forename>
+            <surname>III.</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Alexander_III."/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Honorius_III">
+        <persName>
+            <forename>Honorius</forename>
+            <surname>III</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Honorius_III"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Friedrich_II_HRR">
+        <persName>
+            <forename>Friedrich</forename>
+            <name>II</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Friedrich_II_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Leonhard_von_Keutschach">
+        <persName>
+            <forename>Leonhard</forename>
+            <nameLink>von</nameLink>
+            <surname>Keutschach</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Leonhard_von_Keutschach"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nikolaus_von_Kues">
+        <persName>
+            <forename>Nikolaus</forename>
+            <nameLink>von</nameLink>
+            <surname>Kues</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nikolaus_von_Kues"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Friedrich_III_HRR">
+        <persName>
+            <forename>Friedrich</forename>
+            <name>III</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Friedrich_III_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Maximilian_II_HRR">
+        <persName>
+            <forename>Maximilian</forename>
+            <name>II</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Maximilian_II_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="sfz54650.html">
+        <persName>
+            <forename>sfz54650.html</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://www.deutsche-biographie.de/sfz54650.html"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Engelbert_von_Admont">
+        <persName>
+            <forename>Engelbert</forename>
+            <nameLink>von</nameLink>
+            <surname>Admont</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Engelbert_von_Admont"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Tankred_von_Bologna">
+        <persName>
+            <forename>Tankred</forename>
+            <nameLink>von</nameLink>
+            <surname>Bologna</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Tankred_von_Bologna"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_von_Langenstein">
+        <persName>
+            <forename>Heinrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Langenstein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_von_Langenstein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ulrich_von_Albeck">
+        <persName>
+            <forename>Ulrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Albeck</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Ulrich_von_Albeck"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_von_Lobenstein">
+        <persName>
+            <forename>Heinrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Lobenstein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_von_Lobenstein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johannes_Mannestorfer">
+        <persName>
+            <forename>Johannes</forename>
+            <surname>Mannestorfer</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johannes_Mannestorfer"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Baldus_de_Ubaldis">
+        <persName>
+            <forename>Baldus</forename>
+            <name>de</name>
+            <surname>Ubaldis</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Baldus_de_Ubaldis"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bartolus_de_Sassoferrato">
+        <persName>
+            <forename>Bartolus</forename>
+            <name>de</name>
+            <surname>Sassoferrato</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Bartolus_de_Sassoferrato"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Antonius_de_Butrio">
+        <persName>
+            <forename>Antonius</forename>
+            <name>de</name>
+            <surname>Butrio</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Antonius_de_Butrio"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johannes_Andreae">
+        <persName>
+            <forename>Johannes</forename>
+            <surname>Andreae</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johannes_Andreae"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Aegidius_Romanus">
+        <persName>
+            <forename>Aegidius</forename>
+            <surname>Romanus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Aegidius_Romanus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Rolandinus_de_Passageriis">
+        <persName>
+            <forename>personen.html#Rolandinus</forename>
+            <name>de</name>
+            <surname>Passageriis</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/sammlung/personen.html#Rolandinus de Passageriis"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Aeneas_Sylvius">
+        <persName>
+            <forename>Aeneas</forename>
+            <surname>Sylvius</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Aeneas_Sylvius"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Friedrich_III_HRR">
+        <persName>
+            <forename>Friedrich</forename>
+            <name>III</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Friedrich_III_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Rudolf_von_Habsburg">
+        <persName>
+            <forename>Rudolf</forename>
+            <nameLink>von</nameLink>
+            <surname>Habsburg</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Rudolf_von_Habsburg"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Sigismund_HRR">
+        <persName>
+            <forename>Sigismund</forename>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Sigismund_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Albrecht_II_HRR">
+        <persName>
+            <forename>Albrecht</forename>
+            <name>II</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Albrecht_II_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ruprecht_HRR">
+        <persName>
+            <forename>Ruprecht</forename>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Ruprecht_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Kaspar_Schlick">
+        <persName>
+            <forename>Kaspar</forename>
+            <surname>Schlick</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Kaspar_Schlick"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nikolaus_von_Kues">
+        <persName>
+            <forename>Nikolaus</forename>
+            <nameLink>von</nameLink>
+            <surname>Kues</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nikolaus_von_Kues"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bernhard_Walther_Jurist">
+        <persName>
+            <forename>personen.html#Bernhard</forename>
+            <name>Walther</name>
+            <surname>(Jurist)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/pe/personen.html#Bernhard Walther_(Jurist)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Rudolf_IV_HRR">
+        <persName>
+            <forename>Rudolf</forename>
+            <name>IV</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Rudolf_IV_(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_von_Langenstein">
+        <persName>
+            <forename>Heinrich</forename>
+            <nameLink>von</nameLink>
+            <surname>Langenstein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_von_Langenstein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johannes_von_Capistrano">
+        <persName>
+            <forename>Johannes</forename>
+            <nameLink>von</nameLink>
+            <surname>Capistrano</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johannes_von_Capistrano"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hieronymus_Balbus">
+        <persName>
+            <forename>Hieronymus</forename>
+            <surname>Balbus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hieronymus_Balbus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bernhard_Walther">
+        <persName>
+            <forename>Bernhard</forename>
+            <surname>Walther</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Bernhard_Walther"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hugo_Blotius">
+        <persName>
+            <forename>Hugo</forename>
+            <surname>Blotius</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hugo_Blotius"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Zyprian_von_Serntein">
+        <persName>
+            <forename>Zyprian</forename>
+            <nameLink>von</nameLink>
+            <surname>Serntein</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Zyprian_von_Serntein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Kaunitz">
+        <persName>
+            <forename>Kaunitz</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Kaunitz"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Friedrich_Wilhelm_von_Haugwitz">
+        <persName>
+            <forename>Friedrich</forename>
+            <name>Wilhelm</name>
+            <nameLink>von</nameLink>
+            <surname>Haugwitz</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Friedrich_Wilhelm_von_Haugwitz"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_Joachim_Becher">
+        <persName>
+            <forename>Johann</forename>
+            <name>Joachim</name>
+            <surname>Becher</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_Joachim_Becher"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperSchwind_Ernst_Freiherr_von_AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Schwind,</forename>
+            <name>Ernst</name>
+            <name>Freiherr</name>
+            <name>von"</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Schwind, Ernst Freiherr von&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="i119863812">
+        <persName>
+            <forename>119863812</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://d-nb.info/gnd/119863812"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="i132549271">
+        <persName>
+            <forename>132549271</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://d-nb.info/gnd/132549271"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="i124408834">
+        <persName>
+            <forename>124408834</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://d-nb.info/gnd/124408834"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperReutter_J._H._AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Reutter,</forename>
+            <name>J.</name>
+            <name>H."</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Reutter, J. H.&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="i124427340">
+        <persName>
+            <forename>124427340</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://d-nb.info/gnd/124427340"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperBeckmann_Nikolaus_von_AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Beckmann,</forename>
+            <name>Nikolaus</name>
+            <name>von"</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Beckmann, Nikolaus von&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperFinsterwalder_Benedikt_AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Finsterwalder,</forename>
+            <name>Benedikt"</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Finsterwalder, Benedikt&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperKees_J._G._AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Kees,</forename>
+            <name>J.</name>
+            <name>G."</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Kees, J. G.&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperChmel_J._AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Chmel,</forename>
+            <name>J."</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Chmel, J.&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Schwarz">
+        <persName>
+            <forename>personen.html#Schwarz</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/pe/personen.html#Schwarz"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Flacius_Illyricus">
+        <persName>
+            <forename>Flacius</forename>
+            <surname>Illyricus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Flacius_Illyricus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Philipp_Melanchthon">
+        <persName>
+            <forename>Philipp</forename>
+            <surname>Melanchthon</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Philipp_Melanchthon"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nicolaus_Gallus">
+        <persName>
+            <forename>Nicolaus</forename>
+            <surname>Gallus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nicolaus_Gallus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="opac.htmqueryperKaspar_von_Nydbruck_AND_catalogauthoritiesmethodsimpleSearchcqlModetrue">
+        <persName>
+            <forename>opac.htm?query=per="Kaspar</forename>
+            <nameLink>von</nameLink>
+            <name>Nydbruck"</name>
+            <name>AND</name>
+            <surname>catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://portal.dnb.de/opac.htm?query=per=&#34;Kaspar von Nydbruck&#34; AND catalog=authorities&amp;method=simpleSearch&amp;cqlMode=true"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Maximilian_II._HRR">
+        <persName>
+            <forename>Maximilian</forename>
+            <name>II.</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johann_von_Schönburg">
+        <persName>
+            <forename>Johann</forename>
+            <nameLink>von</nameLink>
+            <surname>Schönburg</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johann_von_Schönburg"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hans_von_Ungnad">
+        <persName>
+            <forename>Hans</forename>
+            <nameLink>von</nameLink>
+            <surname>Ungnad</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Hans_von_Ungnad"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Primus_Truber">
+        <persName>
+            <forename>Primus</forename>
+            <surname>Truber</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Primus_Truber"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Maximilian_II._HRR">
+        <persName>
+            <forename>Maximilian</forename>
+            <name>II.</name>
+            <surname>(HRR)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Hieronymus_Haubold">
+        <persName>
+            <forename>Hieronymus</forename>
+            <surname>Haubold</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikipedia.org/wiki/Hieronymus_Haubold"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="waldner-wolfgang.html">
+        <persName>
+            <forename>waldner-wolfgang.html</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://www.controversia-et-confessio.de/cc-digital/personen/register/eintraege/waldner-wolfgang.html"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="BLKÖZiegler_Ambros_gest._1578">
+        <persName>
+            <forename>BLKÖ:Ziegler,</forename>
+            <name>Ambros</name>
+            <name>(gest.</name>
+            <surname>1578)</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikisource.org/wiki/BLKÖ:Ziegler,_Ambros_(gest._1578)"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="David_Chyträus">
+        <persName>
+            <forename>David</forename>
+            <surname>Chyträus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/David_Chyträus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="ADBFichard_Johann_von">
+        <persName>
+            <forename>ADB:Fichard,</forename>
+            <name>Johann</name>
+            <surname>von</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikisource.org/wiki/ADB:Fichard,_Johann_von"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="ADBFichard_Raimund_Pius_von">
+        <persName>
+            <forename>ADB:Fichard,</forename>
+            <name>Raimund</name>
+            <name>Pius</name>
+            <surname>von</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikisource.org/wiki/ADB:Fichard,_Raimund_Pius_von"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Ulrich_Zasius">
+        <persName>
+            <forename>Ulrich</forename>
+            <surname>Zasius</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Ulrich_Zasius"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Heinrich_Husanus">
+        <persName>
+            <forename>Heinrich</forename>
+            <surname>Husanus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Heinrich_Husanus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Conrad_von_Humbracht">
+        <persName>
+            <forename>Conrad</forename>
+            <nameLink>von</nameLink>
+            <surname>Humbracht</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Conrad_von_Humbracht"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Simon_Grynaeus">
+        <persName>
+            <forename>Simon</forename>
+            <surname>Grynaeus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Simon_Grynaeus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Andreas_Cratander">
+        <persName>
+            <forename>Andreas</forename>
+            <surname>Cratander</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Andreas_Cratander"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Galen">
+        <persName>
+            <forename>Galen</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Galen"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Cantiuncula">
+        <persName>
+            <forename>personen.html#Cantiuncula</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repertorium.at/sammlung/personen.html#Cantiuncula"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nicodemus_Frischlin">
+        <persName>
+            <forename>Nicodemus</forename>
+            <surname>Frischlin</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nicodemus_Frischlin"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Philipp_Lonicer">
+        <persName>
+            <forename>Philipp</forename>
+            <surname>Lonicer</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Philipp_Lonicer"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nikolaus_Reusner">
+        <persName>
+            <forename>Nikolaus</forename>
+            <surname>Reusner</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nikolaus_Reusner"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nicodemus_Frischlin">
+        <persName>
+            <forename>Nicodemus</forename>
+            <surname>Frischlin</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nicodemus_Frischlin"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Christian_Egenolf">
+        <persName>
+            <forename>Christian</forename>
+            <surname>Egenolf</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Christian_Egenolf"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Johannes_Lundorp">
+        <persName>
+            <forename>Johannes</forename>
+            <surname>Lundorp</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Johannes_Lundorp"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Flacius_Illyricus">
+        <persName>
+            <forename>Flacius</forename>
+            <surname>Illyricus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Flacius_Illyricus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Caelius_Secundus_Curio">
+        <persName>
+            <forename>Caelius</forename>
+            <name>Secundus</name>
+            <surname>Curio</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Caelius_Secundus_Curio"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Olympia_Fulvia_Morata">
+        <persName>
+            <forename>Olympia</forename>
+            <name>Fulvia</name>
+            <surname>Morata</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Olympia_Fulvia_Morata"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Baur_von_Eyseneck">
+        <persName>
+            <forename>Baur</forename>
+            <nameLink>von</nameLink>
+            <surname>Eyseneck</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Baur_von_Eyseneck"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Jakob_Andreae">
+        <persName>
+            <forename>Jakob</forename>
+            <surname>Andreae</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Jakob_Andreae"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Nicodemus_Frischlin">
+        <persName>
+            <forename>Nicodemus</forename>
+            <surname>Frischlin</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Nicodemus_Frischlin"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Zacharias_Geizkofler">
+        <persName>
+            <forename>Zacharias</forename>
+            <surname>Geizkofler</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Zacharias_Geizkofler"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Daniel_Hitzler">
+        <persName>
+            <forename>Daniel</forename>
+            <surname>Hitzler</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikipedia.org/wiki/Daniel_Hitzler"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Leonhard_Hutter">
+        <persName>
+            <forename>Leonhard</forename>
+            <surname>Hutter</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="https://de.wikipedia.org/wiki/Leonhard_Hutter"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bartolus_de_Saxoferrato">
+        <persName>
+            <forename>#Bartolus</forename>
+            <name>de</name>
+            <surname>Saxoferrato</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Bartolus de Saxoferrato"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Alexander_Tartagnus">
+        <persName>
+            <forename>#Alexander</forename>
+            <surname>Tartagnus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Alexander Tartagnus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Jason_de_Mayno">
+        <persName>
+            <forename>#Jason</forename>
+            <name>de</name>
+            <surname>Mayno</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Jason de Mayno"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Jacques_Cujas">
+        <persName>
+            <forename>Jacques</forename>
+            <surname>Cujas</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://de.wikipedia.org/wiki/Jacques_Cujas"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Wesenbeck_Matthias">
+        <persName>
+            <forename>#Wesenbeck,</forename>
+            <surname>Matthias</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Wesenbeck, Matthias"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="HRG.berlichius_matthias_1586_1638">
+        <persName>
+            <forename>HRG.berlichius</forename>
+            <name>matthias</name>
+            <name>1586</name>
+            <surname>1638</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://www.hrgdigital.de/HRG.berlichius_matthias_1586_1638"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Schneidewein">
+        <persName>
+            <forename>#Schneidewein</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Schneidewein"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Bernhard_Walther">
+        <persName>
+            <forename>#Bernhard</forename>
+            <surname>Walther</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://drqerg.de/RHN/personen/#Bernhard Walther"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="suttinger">
+        <persName>
+            <forename>#suttinger</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repoestrg.info/wp/personen/#suttinger"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Beckmann_Nikolaus">
+        <persName>
+            <forename>#Beckmann,</forename>
+            <surname>Nikolaus</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repoestrg.info/wp/personen/#Beckmann, Nikolaus"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="Finsterwalder_Benedikt">
+        <persName>
+            <forename>#Finsterwalder,</forename>
+            <surname>Benedikt</surname>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://repoestrg.info/wp/personen/#Finsterwalder, Benedikt"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+    <tei:person xml:id="cnp01094521">
+        <persName>
+            <forename>cnp01094521</forename>
+        </persName>
+        <tei:listBibl>
+            <tei:bibl>
+                <tei:ref target="http://thesaurus.cerl.org/record/cnp01094521"/>
+            </tei:bibl>
+        </tei:listBibl>
+    </tei:person>
+</tei:listPerson>
