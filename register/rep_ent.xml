@@ -8187,7 +8187,8 @@
 <!-- harrasowsky_codex_theresianus_2 --> <item xml:id="harrasowsky_codex_theresianus_2">https://archive.org/details/dercodextheresi00martgoog</item>
 <!-- harrasowsky_codex_theresianus_4 --> <item xml:id="harrasowsky_codex_theresianus_4">https://archive.org/details/dercodextheresi02martgoog</item>
 <!-- hasenoehrl_1867_lr Seitenzahl 3stellig +12 + .html-->
-                <item xml:id="hasenoehrl_1867_lr">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00</item>
+                <!--<item xml:id="hasenoehrl_1867_lr">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00</item>-->
+                <item xml:id="hasenoehrl_1867_lr">https://dfg-viewer.de/show/?id=8071&amp;tx_dlf%5Bid%5D=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F~db%2Fmets%2Fbsb10542923_mets.xml&amp;tx_dlf%5Bpage%5D=</item>
 <!-- hasenoehrl_1905_beitr_titel --> <item xml:id="hasenoehrl_1905_beitr_titel">http://archive.org/stream/archivfrsterrei92kommgoog#page/n271/mode/1up</item>
 <!-- hasenoehrl_1905_beitr Seitenzahl +22 --> <item xml:id="hasenoehrl_1905_beitr">http://archive.org/stream/archivfrsterrei92kommgoog#page/n</item> 
 <!-- hatzger_hdbnotariatkunst_1584 --> <item xml:id="hatzger_hdbnotariatkunst_1584">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Hatzger,HdbNotariatkunst 1584</item>
