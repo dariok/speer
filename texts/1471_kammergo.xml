@@ -83,7 +83,7 @@ procurator</term> aufnemen.</p>
 <head>[§ 4] Der procurator-eydt.</head>
 <p> Ich N. <term type="phrase">globe und schwere</term>, daß ich den partein,
 der sachen zu handlen als ich mich annymme, in denselben sachen mit ganzen und
-rechten treuen meinen, und die <pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g271" n="271"/>
+rechten treuen meinen, und die <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="271" facs="ln:,http://drw-www"/>
 sachen in rechten nach mein besten verstentniß, der partein zu gut, <term type="phrase">fürbringen
 und handeln</term>, auch darinnen wißentlich keinerley
 <term type="phrase">falsch und unrecht</term> gebrauchen, daß ich mit derselben
@@ -158,7 +158,7 @@ haben, sunder alles geverde.</p>
 <p> Es sollen auch die bothen sich um ihren lohn von yder meyl zimlichen
 vernügen laßen; würd aber darum zwischen yn und den parteien irrung, wie sie
 denn unser <term type="phrase">cammerrichter und urteilere</term>, oder wem
-unser cammerrichter das auß yn bevelhen <pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g272" n=""/> würde, darumb <term type="phrase">sezen und entscheiden</term>,
+unser cammerrichter das auß yn bevelhen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="" facs="ln:,http://drw-www"/> würde, darumb <term type="phrase">sezen und entscheiden</term>,
 dabey sollen es beyde partheyen bleiben laßen und dem nachkommen.</p>
 </div>
             <div xml:id="P.10">
@@ -248,7 +248,7 @@ wie obgemelt ist.</p>
             <div xml:id="P.18">
     <head>[§ 18]</head>
 <p> Auf daß dann wir dester trefflicher person daran zu setzen gehaben mögen,
-<pb n="S. 273" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g273"/> die auch darum, als billig
+<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 273" facs="ln:,http://drw-www"/> die auch darum, als billig
 ist, yren sold haben sollen, so sezen wir, daß ein yder cleger, in anfange des
 rechtens, von ydem hundert gulden, alß hoch sich sein ansprach trifft, zween
 gülden geben soll, das dann unser vorfarn, Röm. <term type="phrase">keißer und

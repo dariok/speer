@@ -29,7 +29,7 @@
             <div xml:id="Art1">
       <head>[Artikel I</head>
 <p> 
-    [<pb facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g285.gif" n="285"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="285" facs="ln:frankfohof,285"/>]
  Anno XIIII. C. LXX. quinto Uff frytag nach Martini, haben die Scheffene des
 Rychs geriechte zu  frankfurt, zu hanthabunge desselben Rychs geriechte, myt
 Verwilligunge des Rats, etliche irrige hendel hynfür zuvorkomen, sich dieser
@@ -63,7 +63,7 @@ der geriecht zettel noch unvorjert were, weres aber, daz der Jhene, des die
 pfande syn, sich myt dem der die pfande hynder sich in syn gewalt bracht hat,
 gutlichen vertrüge, die pfande lenger zu halten, daz mogen beyder teyle wole
 thun.
-	   <pb n="S. 286" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g286.gif"/>
+	   <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 286" facs="ln:frankfohof,286"/>
                 </p>
             </div>
             <div xml:id="Art3">
@@ -90,7 +90,7 @@ Scheffene von aicht uheren an im Somer, und nun uheren im wynther alle
 ungeverlich biß an Eylff Uheren ungeverlich sytzen, und den parthyen Rechts
 helffen sollen; So aber die parthyen fremde wegehafftig und nit burger zu 
 franckfurt  syn, und dieselben bußfellig erkant werden, die busse nach befelhe
-des geriechts von den fremden von stonts an, und <pb n="S. 287" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g287.gif"/> den burgernn in viertzehen tagen infordern, jnbrengen, und
+des geriechts von den fremden von stonts an, und <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 287" facs="ln:frankfohof,287"/> den burgernn in viertzehen tagen infordern, jnbrengen, und
 daz  gelt oder pfande in der Stede schriberye antwurten sollen, und sal man
 alle jare umb sant walburgen tage den Rychtern, dem Gerichtschribern, synem
 Dyener des Schultheissen botten, jre gewonliche mysßthat Zettel als von alter

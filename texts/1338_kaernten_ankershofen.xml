@@ -29,8 +29,8 @@ by p4p5.xsl. </change>
 				<div xml:id="T.1">
 					<head>Einleitung.</head>
 					<p>
-                        [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_043.jpg" n="43"/>] Heinrich, der letzte Herzog von Kärnten aus dem Geschlechte der Grafen von Görz und Tyrol, hatte, obschon dreimal	vermählt<note xml:id="n43.a" type="crit_app" n="43.a">Commentarii pro Historia Alberti II. cognomento Sapientis scripti ab		<name type="person">Antonio Steyerer</name> S. J. Sacerdote. Lipsiae ex officina Thomas Fritschii MDCCXXVI. col. 583, 591, 595.</note>, keinen männlichen Erben, und es war daher vorauszusehen, daß nach Heinrichs Tode seine Länder an ein anderes Geschlecht gelangen werden. Diese Aussicht erfaßte König Johann von Böhmen aus dem Hause Luxenburg. Bei seinen in Italien beabsichtigten Eroberungen mußten ihm die
-Gränzländer Tyrol und Kärnten als ein wichtiges Besitzthum erscheinen. Er sendete daher schon im Oktober des Jahres 1327 seinen fünfjährigen Sohn Johann nach Kärnten, um diesen mit [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_044.jpg" n="44"/>] einer Tochter des Herzogs Heinrich zu verloben<note xml:id="n44.a" type="crit_app" n="44.a">Item in hoc anno in die sancti galli Joannes
+                        [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="43" facs="ln:drqi,arch_kaernt_3_1856_043"/>] Heinrich, der letzte Herzog von Kärnten aus dem Geschlechte der Grafen von Görz und Tyrol, hatte, obschon dreimal	vermählt<note xml:id="n43.a" type="crit_app" n="43.a">Commentarii pro Historia Alberti II. cognomento Sapientis scripti ab		<name type="person">Antonio Steyerer</name> S. J. Sacerdote. Lipsiae ex officina Thomas Fritschii MDCCXXVI. col. 583, 591, 595.</note>, keinen männlichen Erben, und es war daher vorauszusehen, daß nach Heinrichs Tode seine Länder an ein anderes Geschlecht gelangen werden. Diese Aussicht erfaßte König Johann von Böhmen aus dem Hause Luxenburg. Bei seinen in Italien beabsichtigten Eroberungen mußten ihm die
+Gränzländer Tyrol und Kärnten als ein wichtiges Besitzthum erscheinen. Er sendete daher schon im Oktober des Jahres 1327 seinen fünfjährigen Sohn Johann nach Kärnten, um diesen mit [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="44" facs="ln:drqi,arch_kaernt_3_1856_044"/>] einer Tochter des Herzogs Heinrich zu verloben<note xml:id="n44.a" type="crit_app" n="44.a">Item in hoc anno in die sancti galli Joannes
 	quinquennis infantulus Joannis Regis Bohemiae filius secundogenitus de Praga versus Carinthiam deducitur,
 	ut sibi filia Henrici ducis ipsius Carinthiae, quondam regis Bohemiae matrimonialiter copuletur. (Chron.
 	aulae regiae ad 1327 bei <ref target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10934514_00074.html">Freher Collectio
@@ -65,7 +65,7 @@ den übrigen Unterthanen den Eid der Treue und des Gehorsams leisten<note xml:id
 	superioribus partibus Suevie et Bavarie intravit Carinthiam ubi Johanni suo filio secundo genito Henrici
 	ducis Carinthie filiam copulari matrimonialiter et praestari sibi omagium a Carinthis procuravit. (Chron.
 	aulae reg. bei <ref>Freher a.a.O. S. 76</ref>.)</note>. So glaubten König Johann und Herzog
-	[<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_045.jpg" n="45"/>] Heinrich, im
+	[<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="45" facs="ln:drqi,arch_kaernt_3_1856_045"/>] Heinrich, im
 September des Jahres 1330 ihren Kindern den Besitz von Tyrol und Kärnten gesichert zu haben. Allein zu bald
 keimten die Verhältniße, welche diese Hoffnungen vereiteln sollten.</p>
 					<p>Es machten nämlich auch die Herzoge Albrecht und Otto von Oesterreich Ansprüche auf den einstigen Besitz
@@ -86,7 +86,7 @@ zufallen sollte<note xml:id="n45.b" type="crit_app" n="45.b">Non solum ex compac
 	imperatore impetraturum, dux confidebat. Imperator tamen veluti hoc modo invidiam declinaturus, et regis quoque Joannis indignationem, totum de Carinthiae ducatu negotium arbitris permissit. (<ref>Guilin. Hist. a.a.O. col. 81</ref>.)</note>. K. Ludwig überließ am 23. November 1330 die
 Entscheidung über diese Ansprüche sieben Schiedsmännern; diese entschieden drei Tage später zu Gunsten der
 österreichischen Herzoge, und der Kaiser mußte diesen die Versicherung geben, daß er ihnen nach Herzog
-Heinrichs Tode [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_046.jpg" n="46"/>]
+Heinrichs Tode [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="46" facs="ln:drqi,arch_kaernt_3_1856_046"/>]
 Kärnten als Reichslehen übergeben werde<note xml:id="n46.a" type="crit_app" n="46.a">Die Schiedsmänner waren: Aus des Herzogs
 	Rathe Graf Ulrich von Pfannenberg, Hanns Truchseß von Diesenhofen, Hanns Truchseß von Waldburg, —
 	aus des Kaisers Rathe Graf Berthold von Greyspach, von Marstaller, genannt von Neyffen, und Heinrich von
@@ -132,7 +132,7 @@ Pfannberg und Wallsee, um sich das Land allenfalls auch mit Waffengewalt zu unte
 	allen irn rechten beleiben sullen ‚ als si die || von alter her bracht habent. Vnd geben in dar vber ze
 	vrchund disen Brief, versigelten mit || vnsern anhangunden Insigeln. Der geben ist datz sand Veyt nach
 	Christes geburt Tausend || drey Hundert jar, dar nach in dem Fünf vnd Dreizzigstem jar, detz nehsten
-	Mentags || nach sand Florians tach. (Original im Vereinsarchive.)</note> Da [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_047.jpg" n="47"/>] Konrad von <ref target="http://de.wikipedia.org/wiki/Auffenstein">Aufenstein</ref>, welchen Herzog Heinrich zum
+	Mentags || nach sand Florians tach. (Original im Vereinsarchive.)</note> Da [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="47" facs="ln:drqi,arch_kaernt_3_1856_047"/>] Konrad von <ref target="http://de.wikipedia.org/wiki/Auffenstein">Aufenstein</ref>, welchen Herzog Heinrich zum
 Landeshauptmanne bestellt hatte, Kärnten ohne Widerstand übergab<note xml:id="n47.a" type="crit_app" n="47.a">Et in illis
 	diebus mortuus est dux Karinthie socer fratris nostri. Et cum frater noster debuisset accipere
 	possessionem ducatus Karinthie et comitatus Tyrolis post mortem ipsius tunc fecerat occulte ligam
@@ -153,7 +153,7 @@ Herzoge anerkennen, wenn in einer festgesetzten Frist Kärnten keine Hilfe zukom
 der Tyroler Landherren an König Johann um Schutz und Hilfe gesendet. Dieser lag aber an den Wunden, die er
 im Turniere erhalten, krank zu Paris, und konnte daher nur auf seine baldige Genesung vertrösten. Die
 Verlassenen, welche nicht wußten, was in Kärnten vorgegangen, schickten den Abt Johann von Viktring an die
-Herzoge von Oesterreich, [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_048.jpg" n=""/>] um diesen den Tod ihres Vaters und ihren hilflosen Zustand zu klagen, und zugleich von ihnen
+Herzoge von Oesterreich, [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="" facs="ln:drqi,arch_kaernt_3_1856_048"/>] um diesen den Tod ihres Vaters und ihren hilflosen Zustand zu klagen, und zugleich von ihnen
 Schutz und Vertretung zu verlangen. Der geringe Erfolg dieser Sendung darf nach der bereits geschehenen
 Besitznahme Kärntens nicht auffallen, und keinen bessern Erfolg hatte die Verwendung des Abtes, des Herzogs
 Heinrich von Niederbaiern und des Markgrafen Karl von Mähren bei dem Kaiser, und die Fürsprache des Propsten
@@ -194,7 +194,7 @@ selbst in das Land<note xml:id="n48.b" type="crit_app" n="48.b">Am 15. Juni 1335
 	vrchund geben wir in disen brief versigelten mit vnserm anhangunden Insigel. Der ist geben ze Sand Veyt an
 	Samztag in der Phingstwochen Do man zalt von Gotes gepurde, Dreutzehen hundert iar darnach in dem funf und
 	Dreizzigisten iar.<lb/> NB. Die leeren Stellen sind deßhalb leer geblieben, weil die Urkunde an denselben
-	Stellen etwas ausgerißen ist.</note>, es wurde die Urkunde, mit welcher die Belehnung [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_049.jpg" n="49"/>] der österreichischen
+	Stellen etwas ausgerißen ist.</note>, es wurde die Urkunde, mit welcher die Belehnung [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="49" facs="ln:drqi,arch_kaernt_3_1856_049"/>] der österreichischen
 Herzoge von dem Kaiser kund gegeben und zum Gehorsam aufgefordert wurde, verlesen und sonach dem Herzoge von
 dem Adel und den Bürgern der Eid der Treue geschworen. Nachdem Herzog Otto den Konrad von <ref target="http://de.wikipedia.org/wiki/Auffenstein">Aufenstein</ref> der Landeshauptmannschaft enthoben und
 an dessen Stelle den Ulrich Grafen von Pfannberg gesetzt hatte, verließ er Kärnten und wendete sich nach
@@ -225,7 +225,7 @@ geleistet habe<note xml:id="n49.b" type="crit_app" n="49.b">Anno domini M.CCC.XX
 	colludium in Austriam reportabant. Quibus peractis dux ad fratrem Albertum reversus, in Karinthia votivam
 	obedientiam et exhibitam sibi reverentiam cum gaudio reportavit. (Joh. Vict. 1. b. c. 2. bei <ref target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10800576_00465.html">Böhmer a.a.O. S.
 		419</ref>.)</note>
-[<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_050.jpg" n="50"/>] Nach diesen
+[<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="50" facs="ln:drqi,arch_kaernt_3_1856_050"/>] Nach diesen
 Vorgängen schien Kärnten für die Tyroler Grafen für immer verloren. Selbst König Johann von Böhmen erscheint
 nur mehr darauf bedacht, seinem Sohne Tyrol zu erhalten, und wegen des Verlustes von Kärnten sich an den
 österreichischen Herzogen und deren Anhängern wenigstens zu rächen. Gegen Ende des Jahres 1335 sendete er
@@ -245,7 +245,7 @@ Lambrechtsberg und verheerte das Land drei Wochen hindurch bis zur Klause von Li
 					<p>Wie Markgraf Karl gegen die Grafen von Görz führte König Johann den Rachekrieg gegen die Herzoge von
 Oesterreich, und verwüstete mit den ihm verbündeten Ungarn das im Norden der Donau gelegene Land. Als aber
 die Ungarn den Kampfplatz verließen, König Johann sich im eigenen Lande bedroht und das Land seines
-Verbündeten, des Herzogs [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_051.jpg" n=""/>] Heinrich von Niederbaiern verwüstet sah, gedachte er des Friedens, und durfte eine gütliche
+Verbündeten, des Herzogs [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="" facs="ln:drqi,arch_kaernt_3_1856_051"/>] Heinrich von Niederbaiern verwüstet sah, gedachte er des Friedens, und durfte eine gütliche
 Ausgleichung von den österreichischen Herzogen um so sicherer erwarten, als auch diese ihr kaiserlicher
 Bundesgenosse verlassen hatte. Die Hindernisse, welche in persönlicher Abneigung wurzelten, wußte Albrechts
 Gattin Johanna zu heben, und so kam es in Ems am 9. Oktober des Jahres 1336 zum Vergleiche. Die Herzoge von
@@ -267,7 +267,7 @@ in einigen Schlößern Kärntens festsetzen zu können, suchte Graf Johann in K�
 Fortschritte wurden aber jetzt wie früher durch die Görzer Grafen in der Lienzerklause gehemmt, so daß Graf
 Johann sich damit begnügen mußte, diese Engpässe durch Feuer zu verwüsten. Nach Kärnten kam aber auf die
 wiederholte Kunde von diesen Unruhen Herzog Albrecht, und "wie die Sonne die dichten Nebel zertheilt", löste
-auch der Herzog die Wirren dieses Sturmes durch seine [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_052.jpg" n="52"/>] Gegenwart<note xml:id="n52.a" type="crit_app" n="52.a">Anno domini M.CCC.XXX.VnI. Albertus dux audiens Johannem, Bohemorum regis filium,
+auch der Herzog die Wirren dieses Sturmes durch seine [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="52" facs="ln:drqi,arch_kaernt_3_1856_052"/>] Gegenwart<note xml:id="n52.a" type="crit_app" n="52.a">Anno domini M.CCC.XXX.VnI. Albertus dux audiens Johannem, Bohemorum regis filium,
 	qui Tyrolensem tenuit comitatum, ut Karinthiam invaderet machinari, et quod non modicam spem haberet sibi
 	in terra castra aliqua reservanda; pervenit etenim ad clausuras comitum goricie, ubi suis processus
 	intercluditur per resistentiam clausurarum et rediens incendio districtus illius angustias demolitur.
@@ -296,7 +296,7 @@ erledigte Herzogthum Kärnten erneuerten, gibt schon das Duellmandat des H. Albr
 		Landhandveste S. 9</ref>.</note> und auch Abt Johann von Viktring zu verstehen<note xml:id="n52.f" type="crit_app" n="52.f">Sieh oben <ref target="#Note52.a">n. a</ref>.</note>. Nichts mußte in solchen traurigen
 Zuständen fühlbarer werden, als der Mangel geschriebener Gesetze, und es war daher die angelegentlichste
 Sorge der kärnt. Landherren, von dem nach seiner Länderbereisung in Gratz eingetroffenen Herzoge Albrecht
-ihnen, da [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_053.jpg" n="53"/>] ihre
+ihnen, da [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="53" facs="ln:drqi,arch_kaernt_3_1856_053"/>] ihre
 alten Rechte theils erloschen theils vergessen seien, neue Gesetze zu geben. Nachdem über Leben und
 Eigenthum, über einige andere bestimmte Gegenstände einige Artikel festgesetzt wurden, und die Landherren
 erklärten, in den übrigen nicht ausgedrückten Punkten nach dem steierischen Rechte leben und sich in
@@ -326,7 +326,7 @@ mitgetheilt.</p>
 Marich, und ze Portnaw. Graf ze Habsburch, vnd || ze Kyburch, Lantgraf in obern Elsazzen, vnd Graf ze
 Phirtt. veriehen, vnd tun chvnt offenlich mit disem brief, allen den, die ieczund lebend, vnd die hernach
 chumftig werdent || Daz für vns chomen, vnser getrewn lieben, vnsser Lantherren, Ritter, vnd chnecht, von
-vnsserm Lande [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_054.jpg" n="54"/>] ze
+vnsserm Lande [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="54" facs="ln:drqi,arch_kaernt_3_1856_054"/>] ze
 Chernden, vnd paten vns vlizsichlich, das wir sev von besundern gnaden, bei || etlichen alten gewonhaiten,
 die si von alter herpracht hieten, liezzen beleiben, und daz wir in darczu, von newn dingen, etlichev recht
 geben. No haben wir angesehen, ir ernstlich || pêt, wan ez ouch vns, unserm Lande vnd vnsern leuten ze
@@ -346,7 +346,7 @@ ein gepowr ichtes tat, da mit er den hals verwaricht hat, umb welicher ley sache
 nicht engelt swer der sei an seinem aygen, oder an seinem gut || der Richtter sol seines leibes varen mit
 dem rechten, vnd sol dem Herren sein gut, mit gemache lazzen, Tut aber ainer einen totschlag, vnd chumt er
 da von, der ist dem obristem gericht veruallen || Dreizzig mark, vnd dem Niedern gericht sechczig plıenmng,
-vnd hut sich vor sinen veinden, vnd vor dem geschray, wirt er [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_055.jpg" n="55"/>] aber begriffen, so ist
+vnd hut sich vor sinen veinden, vnd vor dem geschray, wirt er [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="55" facs="ln:drqi,arch_kaernt_3_1856_055"/>] aber begriffen, so ist
 hals, wider hals, oder er lose sich, wie er stat, an || dem Landtsherren, vindet vnd sol des sein Housvrow,
 vnd sinev chinde, nicht engelten, an dem gut. Wer aber ieman, der ze Chernden gut hiet gelegen, vnd in dem
 Lande nicht gesezzen wêr, der || sol daz verantwurtten, ze Chernden. da daz gut gelegen ist, vor dem
@@ -366,7 +366,7 @@ wer ouch dahin nicht || chomen mochte, vor ehaftter not, der mag sich der wol be
 in irr danne ehaft not, so sol er puezwartig sein, vnd sullen ouch die zwen phenning, di ze puezze willent
 geben sint ab || sein. Ouch sullen der Lantrichtteer poten, nieman fuergepieten denn da der man gesezzen ist
 ze hous ond ze hof, ond anderswa nicht, man sol ouch di leut ê vor gericht bechlagen, ê man si vpiete.
-Phendet || ouch der Richtter auf ein gut, daz eines [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_056.jpg" n="56"/>] andern mannés ist, ond
+Phendet || ouch der Richtter auf ein gut, daz eines [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="56" facs="ln:drqi,arch_kaernt_3_1856_056"/>] andern mannés ist, ond
 mag derselb man daz besteten, daz ez sein sei, dem sol der Richtter daz widergeben, an der stat. Ouch habent
 onser dienstherren ze Chernden. die || recht, daz si daz recht tun mugen vber ir biderb diener, vmb gult,
 vmb gelubde, vnd ouch vmb schaden. Ez sol ouch ieder man, hincz seinen gepowern, daz recht tun, vmb die
@@ -386,7 +386,7 @@ sachen, die hie nicht verschriben sint, richten nach dem recht, als vnser herren
 Lande ze Steyer. Vnd daz disev recht, ellev, als si || von wart ze wart in diesem brief geschriben sint,
 also stet, vnd vnczebrochen beliben. Daruber so geben wirr disen brief, besigelten, mit vnserm Insigel. Der
 geben ist ze Gretz, an des || heiligen Chreuczes. tag, ze Herbst. Da man zalt von Christes geburd. Tausent.
-Dreu hundert Jar, darnach in dem acht, vnd Dreizgisten Jar. [<pb facs="http://drqerg.drqedit.de/DRQI/arch_kaernt_3_1856_057.jpg" n="57"/>]
+Dreu hundert Jar, darnach in dem acht, vnd Dreizgisten Jar. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="57" facs="ln:drqi,arch_kaernt_3_1856_057"/>]
                     </p>
                 </div>
             </div>

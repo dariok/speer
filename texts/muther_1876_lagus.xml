@@ -24,7 +24,7 @@
         <body>
             <div xml:id="T1">
 		  <p>
-                    <pb n="S. 299" facs="../DRQI/muther_lagus_299.jpg"/>
+                    <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 299" facs="ln:,"/>
 
       Conrad Lagus ist geboren zu <name type="place">Kreutzburg</name> in
 Hessen<note xml:id="n299.1" type="footnote" n="299.1">Diess bezeugt <name type="person" reg="Johannes Hoppe">Ioannes
@@ -46,7 +46,7 @@ Jahrhunderts sich nicht bestimmen lässt.</p>
       In die Matrikel der Universität <name type="place">Wittenberg</name> ist
 "Conradus Häss de crutzbergk magun. diöc." unter dem 16. Nov. 1519
 eingetragen<note xml:id="n299.3" type="footnote" n="299.3">Album acad. Viteberg, ed. Foerstemann
-p. 87.</note>.<pb n="S. 300" facs="../DRQI/muther_lagus_300.jpg"/>
+p. 87.</note>.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 300" facs="ln:,"/>
                 </p>
 <p>	
 Es wird berichtet, dass Conrad Lagus schon von früh auf sorgfältigen Unterricht
@@ -81,7 +81,7 @@ eine Vermuthung auszusprechen.</p>
       Bemerkenswerth ist, dass unter dem <date when="1521-12-28">28. December
 1521</date> ein "Conradus Hasse Brunsvicensis" in Wittenberg immatriculirt
 wurde<note xml:id="n300.5" type="footnote" n="300.5">Album acad. Viteb. p. 109.</note>, ohne dass
-jedoch dessen Identität mit Conrad Lagus sich nachweisen liesse.<pb n="S. 301" facs="../DRQI/muther_lagus_301.jpg"/>
+jedoch dessen Identität mit Conrad Lagus sich nachweisen liesse.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 301" facs="ln:,"/>
                 </p>
 <p>
 Ein späterer Biograph<note xml:id="n301.1" type="footnote" n="301.1">"Erneuertes Andenken des
@@ -111,7 +111,7 @@ seine Ehefrau war gebürtig aus <name type="place">Zwickau</name>.</p>
 im Hebräischen bewandert, hatte Lagus auch die sonstigen, in den
 Artistenfacultäten gepflegten Wissenschaften mit Eifer getrieben; so konnte es
 denn nicht fehlen, dass sein Unterricht in den Disciplinen, "welche zur Pflege
-des richtigen Ausdrucks eingeführt sind", vielen <pb n="S. 302" facs="../DRQI/muther_lagus_302.jpg"/> Beifall fand<note xml:id="n302.1" type="footnote" n="302.1">Hoppe a. a. O. Sign. B
+des richtigen Ausdrucks eingeführt sind", vielen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 302" facs="ln:,"/> Beifall fand<note xml:id="n302.1" type="footnote" n="302.1">Hoppe a. a. O. Sign. B
 1b.</note>.
 Auch in späteren
 Zeiten war er seinen Schülern ein strenger Mahner, es mit dem Studium der
@@ -145,7 +145,7 @@ Verständniss der exegetischen Vorlesungen der Rechtsprofessoren
 vorzubereiten.</p>
 		  <p>
 			Der Sommer des Jahres 1527 war für Wittenberg ein
-überaus trauriger. Eine jener ansteckenden Krankheiten, <pb n="S. 303" facs="../DRQI/muther_lagus_303.jpg"/> welche man als Pest
+überaus trauriger. Eine jener ansteckenden Krankheiten, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 303" facs="ln:,"/> welche man als Pest
 bezeichnete, suchte die Stadt und Umgegend stärker, denn je zuvor, heim. Die
 Universität wurde im Monat August zeitweise nach Jena verlegt. Von da siedelte
 sie nach einiger Zeit (15. September) nach <name type="place">Schlieben</name>
@@ -176,7 +176,7 @@ solches die Befähigung zum Decanat. Von seinen Vorlesungen erfahren wir, dass
 sie sich über die philosophischen Disciplinen erstreckten. Zugleich aber
 erklärte er in einem sehr zahlreichen Auditorium die reine Lehre von Gott aus
 den biblischen Schriften „auf eine gewisse methodische Weise". „Durch diese
-seine <pb n="S. 304" facs="../DRQI/muther_lagus_304.jpg"/> Mühe war er den Studien Vieler förderlich, so dass diese später die
+seine <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 304" facs="ln:,"/> Mühe war er den Studien Vieler förderlich, so dass diese später die
 erkannte Lehre der evangelischen Religion in der Kirche weit
 verbreiteten".<note xml:id="n304.1" type="footnote" n="304.1">Hoppe a.a.O. Sign. B 3b.</note>
                 </p>
@@ -208,7 +208,7 @@ zu einem Dictat zusammengestellt habe. Wahrscheinlich ist damit nicht der
 Aufenthalt in Jena im Jahre 1527 gemeint, sondern die spätere Uebersiedelung im
 Sommer 1535? Auch damals wüthete die Pest in Wittenberg, und Lehrer wie
 Studirende begaben sich der gesunderen Luft wegen nach der von Bergen umgebenen
-<pb n="S. 305" facs="../DRQI/muther_lagus_305.jpg"/>
+<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 305" facs="ln:,"/>
 thüringischen Landstadt. Der geordnete Gang der herkömmlichen Vorlesungen war
 unterbrochen, Docenten wie Hörer suchten daher auf ausserordentlichen,
 ungewöhnlichen Wegen ihre Ziele zu verfolgen. So war im Jahre 1527 bei dem
@@ -244,7 +244,7 @@ Reform. ed.
 Bretschneider III p. 588. [<ref target="http://katalog.ub.uni-heidelberg.de/titel/1446560">Titelaufnahme
 UB
 Heidelberg</ref>]</note> — 1539 wird Lagus unter denjenigen Magistri artium
-aufgeführt, welche "disputirt <pb n="S. 306" facs="../DRQI/muther_lagus_306.jpg"/> haben", d.h. ihrer
+aufgeführt, welche "disputirt <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 306" facs="ln:,"/> haben", d.h. ihrer
 Pflicht, die vorschriftsmässigen Disputationen zu leiten, genügten.<note xml:id="n306.1" type="footnote" n="306.1">Grossherzogl.
 und herzogl. sächsisches Hauptarchiv in
 Weimar Reg. O. Lit. BBB. Fol. 126.</note>
@@ -279,7 +279,7 @@ Auftraggeber.<note xml:id="n306.4" type="footnote" n="306.4">Hoppe a.a.O. Sign. 
 <p>
       Wenn nun auch Lagus, wie wir sahen, mancher Erfolge sich erfreuen konnte,
 so nahm er doch bei der Universität eine hervorragende Stellung nicht ein. Er
-selbst spricht sich <pb n="S. 307" facs="../DRQI/muther_lagus_307.jpg"/> darüber in späterer
+selbst spricht sich <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 307" facs="ln:,"/> darüber in späterer
 Zeit folgendermassen aus: "Niemand ist, der zwischen den Jahren 1522-1540 an
 der Hochschule sich aufhielt, der nicht wusste, dass ich dort niemals ein
 öffentliches Lehramt bekleidete, sondern dass ich es nur — ich weiss nicht,
@@ -311,7 +311,7 @@ hervorgehen.</p>
 Magistri artium, welche mit den Scholares iuris Institutiones lesen und
 dieselben in grammatica und institutiones üben, zurück. Auch bei der
 Bestimmung, dass denselben gestattet sein solle, für ihren Unterricht und ihre
-Aufsicht jährlich 10 Gulden zu berechnen, <pb n="S. 308" facs="../DRQI/muther_lagus_308.jpg"/> wird die Bedingung
+Aufsicht jährlich 10 Gulden zu berechnen, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 308" facs="ln:,"/> wird die Bedingung
 hinzugefügt: Doch sollen solche Magistri selbst praeceptores in iure gehört
 haben und ziemlich in Rechten instituirt sein.<note xml:id="n308.1" type="footnote" n="308.1">Hauptarchiv
 in Weimar R. O. Lit. RR. Fol. 115 116.</note>
@@ -347,7 +347,7 @@ a.a.O. S. 268 ff. 288 ff.</note>
       Interessant bleibt es, dass noch vor dem Druck oder kurz nach dem
 Erscheinen von Apel's auf Verbesserung des juristischen Studiums gerichteter
 Hauptschrift (<ref target="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-31697">Methodica
-dialectices iratio ad iurisprudentiam adcommodata 1535</ref>) ein <pb n="S. 309" facs="../DRQI/muther_lagus_309.jpg"/>
+dialectices iratio ad iurisprudentiam adcommodata 1535</ref>) ein <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 309" facs="ln:,"/>
 anderer Wittenberger, eben unser Conrad Lagus, bereits Hand ans Werk legte und
 eine "Methodus" des damaligen gemeinen Rechts verabfasste. Lagus hat dabei von
 Apel's Bestrebungen wahrscheinlich Kenntniss gehabt. Hatte er doch mit
@@ -375,7 +375,7 @@ welchen dasselbe auf das Studium der Theologie gewann, regte an, für andere
 Fächer, und insonderheit für die Jurisprudenz, Aehnliches zu versuchen.</p>
 <p>
       Lagus hatte bei seinen Privatvorlesungen über Institutionen nicht
-unbeachtet gelassen, dass dieselben nach Kaiser <pb n="S. 310" facs="../DRQI/muther_lagus_310.jpg"/> Justinian's
+unbeachtet gelassen, dass dieselben nach Kaiser <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 310" facs="ln:,"/> Justinian's
 Anordnung als systematisches Lehrbuch für den ersten Rechtsunterricht dienen
 sollten. Er ging daher auf die methodus, d.i. das System, des Buches näher ein.
 Diess gab seinen Zuhörern Veranlassung, ihn zu bitten, eine mehr detaillirte
@@ -405,7 +405,7 @@ angefüllt. Diess gilt hauptsächlich von den Abschweifungen, welche, sobald sic
 eine entfernte Gelegenheit bei irgend einem Worte zeigt, lediglich um die
 Subtilität im Anknüpfen zu beweisen, beliebt werden. Solche Behandlung der
 Institutionen zerstreut und umflort die Geister der Lernenden; erst auf Umwegen
-und spät erreicht man das Ziel. Doch <pb n="S. 311" facs="../DRQI/muther_lagus_311.jpg"/> das ist eine alte
+und spät erreicht man das Ziel. Doch <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 311" facs="ln:,"/> das ist eine alte
 Klage. <name type="person">Johannes Faber</name> und <name type="person">Panormitanus</name>
 haben sie längst ausgesprochen.</p>
 <p>
@@ -435,7 +435,7 @@ Indem Lagus diess in Erwägung zog, liess er sich bestimmen, den Versuch zu
 wagen: "ob die Rechtsmaterien sich in einen Körper vereinigen liessen, an
 welchem der Lernende sofort wahrnehmen könnte, aus welchen Hauptgliedern die
 Rechtswissenschaft und deren System im Allgemeinen bestehe". Wenn jede Materie
-gewissermassen an <pb n="S. 312" facs="../DRQI/muther_lagus_312.jpg"/> ihrem Sitz für den
+gewissermassen an <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 312" facs="ln:,"/> ihrem Sitz für den
 Herantretenden locirt sei, meinte er, werde schon durch die Stellung auf
 dieselbe mehr Licht geworfen, als es durch den längsten Commentar geschehen
 könne.<note xml:id="n312.1" type="footnote" n="312.1">Protestatio Sign. B 1b.</note>
@@ -471,7 +471,7 @@ sei.</p>
 <p>
 Ueber die Schwierigkeit der Arbeit spricht sich Lagus folgendermassen aus:
 <name type="person">Cicero</name> meine, es sei ein Leichtes, das ungeordnete
-(diffusum) und zerstreut liegende (dissipatum) <pb n="S. 313" facs="../DRQI/muther_lagus_313.jpg"/> Recht unter gewisse
+(diffusum) und zerstreut liegende (dissipatum) <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 313" facs="ln:,"/> Recht unter gewisse
 Theilungsglieder und so in ein wissenschaftliches System zu bringen.<note xml:id="n313.1" type="footnote" n="313.1">Lagus
 bezieht sich hier auf die bekannte Stelle Cic. de
 orat. II 33. Er folgt dabei der in älteren Ausgaben durchgehenden Lesart: "ad
@@ -498,7 +498,7 @@ nach Protestatio Sign A 4a ff.</note>
 <p>
       Lagus dictirte das vollendete Werk seinen Zuhörern. Dabei schärfte er
 ihnen nachdrücklich ein, es solle dasselbe lediglich zu ihrem Privatgebrauch
-dienen, Veröffentlichung wünsche er nicht.<pb n="S. 314" facs="../DRQI/muther_lagus_314.jpg"/>
+dienen, Veröffentlichung wünsche er nicht.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 314" facs="ln:,"/>
                 </p>
 <p>
 "Denn ich wusste wohl", sagt er, "dass solche Weise, das Recht zu lehren, allen
@@ -529,7 +529,7 @@ der bindenden Kraft des Rechts, der andere mit Betrachtung der einzelnen
 Rechtsfiguren (Rechtsinstitute), welche für die Geschäfte des menschlichen
 Verkehrs, für die Ahndung der Verletzungen Anderer die Normen abgeben sollen.
 Jener ist rein philosophisch, d.h. den wahren Grundlagen allen Rechts, insoweit
-der menschliche Verstand sie verfolgen kann, <pb n="S. 315" facs="../DRQI/muther_lagus_315.jpg"/> nachforschend,
+der menschliche Verstand sie verfolgen kann, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 315" facs="ln:,"/> nachforschend,
 dieser historisch, da jene Figuren, obwohl sie gewisse unwandelbare Grundlagen
 haben, doch dem Wechsel unterworfen sind je nach Bedürfniss des Lebens, was
 sich hauptsächlich in Umänderung und Verbesserung der Gesetze zeigt.</p>
@@ -561,7 +561,7 @@ Der historische Theil zerfällt in folgende Unterabtheilungen:
 <p>
 Diese "Capita secundae partis" sind in den gedruckten Ausgaben in sofern in
 einige Unordnung gekommen, als nur nr. 1 und 2 unter der Ueberschrift: "Pars
-secunda" <pb n="S. 316" facs="../DRQI/muther_lagus_316.jpg"/> stehen, nr. 3, 4, 5 und 6 aber mit resp. Pars tertia, P. quarta, P.
+secunda" <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 316" facs="ln:,"/> stehen, nr. 3, 4, 5 und 6 aber mit resp. Pars tertia, P. quarta, P.
 quinta, P. sexta überschrieben sind. Wir werden beim Citiren den Editionen
 folgen müssen.</p>
 <p>
@@ -589,7 +589,7 @@ Die Darstellung des Einzelnen schliesst sich an die Dogmen der
 mittelalterlichen Italiener an. Deshalb ist das Buch noch heute brauchbar. Wer
 sich rasch über die Gestalt einer Lehre, welche dieselbe unter den Händen der
 Glossatoren und Commentatoren im Grossen und Ganzen gewonnen hatte, belehren
-will, thut am besten, Conrad Lagus <pb n="S. 317" facs="../DRQI/muther_lagus_317.jpg"/> nachzuschlagen.
+will, thut am besten, Conrad Lagus <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 317" facs="ln:,"/> nachzuschlagen.
 Ohne viele Mühe wird er wenigstens in so weit sich orientiren, um beurtheilen
 zu können, ob weitere Untersuchung erspriesslich oder nicht. Beispielsweise
 zeige ich hier auf die Lehre von den Naturalobligationen hin, welche Pars III
@@ -619,7 +619,7 @@ er für die löblichste Staatsform, denn, "wie Manche es gar nicht ungeschickt
 zusammengefasst haben, gleichwie <emph>eine</emph> Sonne ist, welche die Welt
 erleuchtet, so ist es nützlich, dass <emph>ein</emph> Regiment den Erdkreis
 beherrsche. Und es findet sich bei Herodot im 3. Buch eine elegante Discussion
-über die Staatsformen, <pb n="S. 318" facs="../DRQI/muther_lagus_318.jpg"/> welche bei den
+über die Staatsformen, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 318" facs="ln:,"/> welche bei den
 Persern geführt wurde, als die Frage entstand, unter was für einem Regiment zu
 leben sei. Schliesslich einigten sich Alle, dass die Monarchie den Vorzug
 verdiene, das, was auch Homer gewollt zu haben scheint mit seinem εις βασιλενς
@@ -649,7 +649,7 @@ welchen das ganze Werk ausfüllt, ein und geht mehr ins Detail, als manche
 selbständige Schriften über Process. Deshalb wird Lagus mitunter — und zwar
 nicht mit Unrecht — den Processschriftstellern beigezählt, wenn es auch
 schwer sein möchte, eine abgesondert erschienene "Practica Conradi Lagi", von
-der Manche faseln, nachzuweisen. Ich kann nicht umhin, auf diese Partie <pb n="S. 319" facs="../DRQI/muther_lagus_319.jpg"/>
+der Manche faseln, nachzuweisen. Ich kann nicht umhin, auf diese Partie <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 319" facs="ln:,"/>
 von Lagus' Buch besonders hinzuzeigen, sie ist dem Besten an die Seite zu
 stellen, was im 16. Jahrhundert über Process geschrieben wurde. Wer sich
 überzeugen will, lese nur das 1. Capitel: De iudiciis eorumque differentiis,
@@ -684,7 +684,7 @@ Rechtens ein Compendium vnd richtigen kurzen ausszug zu begreiffen, in etliche
 gewisse Bücher vnd titulos zu fassen, vnd die zusamen gehörende materias in
 gewisse locos vnd titulos zu redigiren vnd zu vermelden, was in den Texten vnd
 Glossen nit zu finden, das solchs in den gemeynen Kayserlichen Rechten zu
-suchen vnd zu suppliren sey."<pb n="S. 320" facs="../DRQI/muther_lagus_320.jpg"/> </p>
+suchen vnd zu suppliren sey."<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 320" facs="ln:,"/> </p>
 <p>
 Diess Compendium iuris Saxonici ist also um das Jahr 1537, somit nach der
 Methodus iuris civilis, in deutscher Sprache verabfasst. Eine Vergleichung der
@@ -717,7 +717,7 @@ schützen) möge" (De iure actionum).</item>
 <p>
 Den hier angedeuteten "Capitteln" entsprechen in der Ausführung selbst die
 Bücherüberschriften.
-      <pb n="S. 321" facs="../DRQI/muther_lagus_321.jpg"/> </p>
+      <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 321" facs="ln:,"/> </p>
 <p>
 Buch I zerfällt in 5 Titel.
 <list>
@@ -748,7 +748,7 @@ Keyser neben dem gemeinen Recht des Reichs jhnen aus gnaden nachgelassen sein
 worden." Daher soll bloss angezeigt werden, was der Text des Sachsenspiegels
 und Weichbildes dargiebt. Was die Glossen hie und da zur Erfüllung des
 sächsischen Rechtes dazu setzen, soll nicht berücksichtigt werden, "damit wir
-nicht, wie man sagt, das hundert in das tausend werfen, vnd die gemeinen <pb n="S. 322" facs="../DRQI/muther_lagus_322.jpg"/>
+nicht, wie man sagt, das hundert in das tausend werfen, vnd die gemeinen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 322" facs="ln:,"/>
 Keyser-Rechte mit den Sechsischen vermischen". Wo aber die Glosse das
 sächsische Recht erklärt, soll sie dankbarst benutzt werden.</p>
 <p>
@@ -786,7 +786,7 @@ aller Welt Recht."</item>
 diesen Titel ist eingefügt: "Delineatio Saxonicae cognationis. Folget der Baum
 der angebornen Magschafft, vnd des angebornen Geblüts, nach gemeiner
 sechsischer sprach."
-      <pb n="S. 323" facs="../DRQI/muther_lagus_323.jpg"/> </item> 
+      <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 323" facs="ln:,"/> </item> 
 <item>Tit. 6: "Von den Diensten der Güter."</item>
                         </list>
                     </p>
@@ -825,7 +825,7 @@ Das "Fünfte Buch".
 <item>Tit. 8: "Von denen, die da fälschlich andere mit worten
 beschweren."</item>
 <item>Tit. 9: "Von denen, die mit bösen Begierden den andern hindern."
-      <pb n="S. 324" n2="S. 320" facs="../DRQI/muther_lagus_320.jpg"/> </item>
+      <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 324" facs="ln:,"/> </item>
 <item>Tit. 10: "Von Misshandelungen, die nicht am Leibe gestrafft
 werden."</item>
 <item>Tit. 11: "Von vnterscheid der straffen, die nicht an den Leib
@@ -859,7 +859,7 @@ es in seiner gewehr, oder verwahrung hat, fordern mag."</item>
 zu Rechte gehen möge."</item>
 <item>Tit. 7: "Welche Klage der andern solle vorgezogen werden, wenn man beyde,
 vmb das Eigenthumb vnd vmb die gewehr zu rechten hat."
-      <pb n="S. 325" facs="../DRQI/muther_lagus_325.jpg"/> </item> 
+      <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 325" facs="ln:,"/> </item> 
 <item>Tit. 8: "Wie einer vmb das vnuolkomliche eigenthumb seines wolgewonnen
 Guts rechten möge."</item>
 <item>Tit. 9: "Wie man vmb gedingte oder verwirckte pflicht, einen zu Rechte
@@ -890,7 +890,7 @@ werden."</item>
       <item>Tit. 25: "Wie vmb Misshandlunge vnd vngerichte möge geklaget
 werden."</item>
                         </list>
-                        <pb n="S. 326" facs="../DRQI/muther_lagus_326.jpg"/> </p>
+                        <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 326" facs="ln:,"/> </p>
 <p>
       Diess der Inhalt des Compendium iuris Saxonici. Nicht ohne Grund haben
 wir uns so lange bei dieser Uebersicht verweilt, denn abgesehen davon, dass die
@@ -924,7 +924,7 @@ zurück.</p>
 <p>
       Von Lagus' Beschäftigung mit juristischer Praxis und dem Ruhme, welchen
 er als Consulent erlangte, ist bereits die Rede gewesen. Als nun die Stadt
-Danzig im Jahre 1538 eines Syndicus bedürftig war, schickte sie ihren <pb n="S. 327" facs="../DRQI/muther_lagus_327.jpg"/>
+Danzig im Jahre 1538 eines Syndicus bedürftig war, schickte sie ihren <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 327" facs="ln:,"/>
 Secretär, <name type="person">M. Georgius Donner</name>, nach Wittenberg, um
 dort nach einer passenden Persönlichkeit sich umzusehen. Durch <name type="person" reg="Philipp Melanchthon">Philipp
 Melanthon</name> wurde Donner's
@@ -955,7 +955,7 @@ und was sunst zcu solcher Condition von nothen alles mit fleiss beredt und
 bedocht werden moge".</p>
 <p>
       Ob Lagus sich nun nach Danzig verfügte oder ob die weiteren Verhandlungen
-schriftlich geführt wurden, ist nicht <pb n="S. 328" facs="../DRQI/muther_lagus_328.jpg"/>	ersichtlich. Wir
+schriftlich geführt wurden, ist nicht <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 328" facs="ln:,"/>	ersichtlich. Wir
 wissen nur, dass der Rath der Stadt Danzig unter dem <date when="1539-06-17">17.
 Juni 1539</date> eine Bestallung für Lagus ausfertigen
 liess, aus der wir Folgendes hervorheben:</p>
@@ -983,7 +983,7 @@ keinen Miszthaten zur rechtlichen Straffe zu verfordern gäntzlich entschlagen
 und begeben haben. Im Fall aber, do die Stadt von einem offenbahren Feinde
 angefochten wurde, über sölch einen zu klagen und alle Nohtdurft der Staat
 wieder denselben offentlich zu reden, wil er sich och bisz auf Verhafftungen
-desselbigen nicht ausziehen. Da aber ein solcher in Verhafftunge <pb n="S. 329" facs="../DRQI/muther_lagus_329.jpg"/> gebracht und
+desselbigen nicht ausziehen. Da aber ein solcher in Verhafftunge <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 329" facs="ln:,"/> gebracht und
 alsdann weiter peinliche Straffe vor Gerichte über denselbigen zu fürdern nötig
 sein würde, dieweil zu sulcher Furderunge die rechte Procuratores verordnen und
 benennen, wil er sich als das seinem Beruffe und Stande von Nachtheil ist,
@@ -1012,7 +1012,7 @@ groszgünstige lieben herren. Ich hab E. W. schriefftliches begeren neben des
 gestrengen herrn <name type="person">Hansen von Werden</name> schreyben yres
 inhalts gnugsam vornumen. Und wue ich eyniges weges hette vormocht sollchem
 yrem begeren unnd schreyben nachzwkommen, so solt E. W. mich gancz bereyt darzw
-befunden haben. Es hatt aber <pb n="S. 330" facs="../DRQI/muther_lagus_330.jpg"/>	E. W. gesandter
+befunden haben. Es hatt aber <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 330" facs="ln:,"/>	E. W. gesandter
 fuhrman gesehen, wie übel meyn weyb unnd kindelleyn dieses mal yrer krangkheyt
 halben zw wandern geschigkt gewesszt, also das, wen ich gleych sunst keyne
 hinderung gehabt, ich mit ynen mich auff den wegk nicht hatte kunnen begeben
@@ -1039,7 +1039,7 @@ auff dem wege sechs tahler. Unnd bitte E. W. wollen mith angezeygter
 verhinderung halben entschuldiget nenten, das ich auff dieses mal mit ym nicht
 zw E. W. kommen bin. So ferne mich gottes gewaldt nicht verhindern wirdt, so
 will ich auff den vierden odder drietten tag vor pfingsten zw eynes erbarn
-Radts geschigkten gen <pb n="S. 331" facs="../DRQI/muther_lagus_331.jpg"/> <name type="place">Stetin</name> mich verfügen mit meynem
+Radts geschigkten gen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 331" facs="ln:,"/> <name type="place">Stetin</name> mich verfügen mit meynem
 gesindleyn.
 Unnd sintemal
 E. W. begeren, das ich mich alda von meynem armen heuffleyn scheyde, so bitte
@@ -1069,7 +1069,7 @@ Gesandtschaft war zu diesem Behufe im Monat Mai des Jahres 1540 bei der
 "hansaverwandten Zusammenkunft" zu Lübeck erschienen. Lagus wurde den Danziger
 "Sendboten" beigeordnet. Die Verhandlungen zogen sich durch beider Parteien
 Rede und Widerrede bis Anfangs Juli hin.<note xml:id="n331.2" type="footnote" n="331.2">Nach G.
-Lengnich, Geschichte der preussischen Lande I 216.</note> Zwei	<pb n="S. 332" facs="../DRQI/muther_lagus_332.jpg"/>  Briefe des
+Lengnich, Geschichte der preussischen Lande I 216.</note> Zwei	<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 332" facs="ln:,"/>  Briefe des
 Lagus aus Lübeck an den Rath in Danzig vom <date when="1540-06-23">23.
 Juni</date> und <date when="1540-07-03">3. Juli 1540</date> befinden sich noch
 im Danziger Archiv.<note xml:id="n332.1" type="footnote" n="332.1">Mittheilung von Prof. Dr.
@@ -1099,7 +1099,7 @@ Sign. B 8.</note> Bald wusste er sich grosses Ansehen und
 allgemeine Gunst zu erwerben. "Man suchte sein Haus, wie ein Orakel, wenn er
 daheim war", sagt einer seiner Biographen<note xml:id="n332.4" type="footnote" n="332.4">In der
 Preussischen Sammlung a.a.O. S. 122.</note>, "er war so beliebt, dass man ihn
-für einen Mann vom Himmel gesendet <pb n="S. 333" facs="../DRQI/muther_lagus_333.jpg"/>	ansah", der
+für einen Mann vom Himmel gesendet <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 333" facs="ln:,"/>	ansah", der
 andere.<note xml:id="n333.1" type="footnote" n="333.1">Hoppe a.a.O.</note> Hervorgehoben wird
 seine intime Freundschaft mit dem Danziger Rathspräsidenten <name type="person">Ritter
 Johann von Werden</name>.<note xml:id="n333.2" type="footnote" n="333.2">Johanni de Werden
@@ -1137,7 +1137,7 @@ Bischofs zu <name type="place">Culm</name>, dem Woywoden von Marienburg, "der
 in alten Landesgebräuchen grosse Erfahrenheit hatte", und Conrad Lagus, sollte
 in Marienburg Montags nach Johannis (<date when="1542-06-26">26. Juni</date>)
 zusammentreten, um die Arbeit in Angriff zu nehmen. Allein der Woywode wurde
-krank, und so lud der Bischof von <pb n="S. 334" facs="../DRQI/muther_lagus_334.jpg"/>	Culm, welcher die
+krank, und so lud der Bischof von <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 334" facs="ln:,"/>	Culm, welcher die
 Leitung des Revisionswerkes übernommen hatte, die Danziger ein, auf Jacobi e.
 a. ihren Syndicus nach <name type="place">Löbau</name> zu senden. Der Danziger
 Rath aber entschuldigte sich, da er D. Lagus nicht entbehren könne : es sei
@@ -1173,7 +1173,7 @@ Appellationsinstanz. Zur Rechtfertigung der Appellation wurde Termin auf den
 erschienen ausser Lagus noch ein Danziger Bürgermeister und ein Rathmann. Am
 <date when="1545-03-09">9. März</date> hatten die Gesandten Audienz beim
 Könige. Der Process aber zog sich in die Länge und Lagus hatte um so weniger
-Aussicht, bald zu den Seinigen zurückzukehren, als unter dem <pb n="S. 335" facs="../DRQI/muther_lagus_335.jpg"/>  <date when="1545-03-27">27.
+Aussicht, bald zu den Seinigen zurückzukehren, als unter dem <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 335" facs="ln:,"/>  <date when="1545-03-27">27.
 März</date> die Stadt von dem Reichs-Instigator des
 Verbrechens der beleidigten Majestät angeklagt wurde. Von dieser Beschuldigung
 erlangten die Abgesandten Absolution. Allein in der Putziger Sache fiel die
@@ -1212,7 +1212,7 @@ Buchdrucker und Verleger <name type="person">Christian Egenolf</name> in <name t
 am Main</name> ein junger Mann eintrat, welcher sich für
 einen ehemaligen Wittenberger Studenten ausgab. Er legte Egenolf ein starkes
 juristisches Manuscript vor und bot es demselben zum Kaufe an. Egenolf trug
-Bedenken, auf den Handel <pb n="S. 336" facs="../DRQI/muther_lagus_336.jpg"/>	einzugehen, weil
+Bedenken, auf den Handel <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 336" facs="ln:,"/>	einzugehen, weil
 ihm das Buch unbekannt war und für die Publication zu umfangreich erschien.</p>
 		  <p>
  Als aber der Verkäufer ihm mittheilte, es seien Concurrenten für den Kauf
@@ -1242,7 +1242,7 @@ weitere Zuthaten fremde Bücher unter die Presse.</p>
 		  <p>
 			Egenolf nahm nunmehr den Druck der Methodus in Angriff.
 Doch scheinen ihm nachträgliche Bedenken über seine Berechtigung gekommen zu
-sein. Im Frühjahr 1543 <pb n="S. 337" facs="../DRQI/muther_lagus_337.jpg"/>	schrieb er
+sein. Im Frühjahr 1543 <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 337" facs="ln:,"/>	schrieb er
 wiederholt an Lagus, um dessen Erlaubniss zur Publication zu erlangen.<note xml:id="n337.1" type="footnote" n="337.1">Protestatio
 A.</note> Lagus antwortete in einem längeren
 Schreiben und versagte unter Ausführung der Gründe seine Einwilligung. Er
@@ -1271,7 +1271,7 @@ schon, wie auch heut zu Tage, erst bei Beendigung des Druckes zu geschehen
 pflegte, war er davon unterrichtet, dass Lagus weder das Amt eines Ordinarius
 in Wittenberg bekleidet, noch die Methodus öffentlich vorgetragen hatte, denn
 es heisst daselbst: "Ex ore doctissimi Conradi Lagi Iureconsulti annotata" etc.
-Jedenfalls also hat Egenolf während <pb n="S. 338" facs="../DRQI/muther_lagus_338.jpg"/>	des Druckes diese
+Jedenfalls also hat Egenolf während <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 338" facs="ln:,"/>	des Druckes diese
 Kenntniss erhalten, und vielleicht war es gerade das Bedenken, ob er eine
 Privatvorlesung zu veröffentlichen befugt sei, welches ihn veranlasste, die
 schon erwähnte Anfrage an Lagus zu richten.</p>
@@ -1297,7 +1297,7 @@ anrechnet, sondern vielmehr der Fehlerhaftigkeit der Abschrift, welche mir in
 die Hände kam, zuschreibt.  Herr Conrad Lagus wird über die Veröffentlichung
 des Buches in dieser Gestalt nicht ungehalten sein dürfen, denn dieselbe
 geschah nicht, um jemand Unrecht zu thun, sondern sicherlich nur zur
-Bequemlichkeit der Studirenden und zum Vortheil der Wissenschaft."<pb n="S. 339" facs="../DRQI/muther_lagus_339.jpg"/> </p>
+Bequemlichkeit der Studirenden und zum Vortheil der Wissenschaft."<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 339" facs="ln:,"/> </p>
 		  <p>
  Egenolf's böses Gewissen drückt sich in dieser Vorrede sichtlich aus, noch
 mehr aber kam seine mala fides im weiteren Verlauf der Angelegenheit zu
@@ -1329,7 +1329,7 @@ von Grammatikalien strotze.</p>
 			Dass die Publication ohne Wissen des Lagus geschehen,
 vermelde der Herausgeber selbst, er hätte aber auch hinzufügen müssen, dass er
 dieselbe wider den ausdrücklich erklärten Willen des Verfassers unternommen
-habe.<pb n="S. 340" facs="../DRQI/muther_lagus_340.jpg"/> </p>
+habe.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 340" facs="ln:,"/> </p>
 		  <p>
 Daher könne sich Egenolf nicht beklagen, wenn ihn Lagus des Plagium
 beachuldige. "Denn da Plagiarius der heisst, welcher einen fremden Menschen
@@ -1362,7 +1362,7 @@ habe.</p>
 Ausführung über den Plan der Methodus, welche wir bereits kennen. Lagus legt
 Gewicht darauf, dass er seinen Schülern die Veröffentlichung des Dictates
 verboten. Die Unvollkommenheit derselben entschuldigt er mit seiner Occupation
-durch die Praxis. Er habe sich durch seinen Versuch <pb n="S. 341" facs="../DRQI/muther_lagus_341.jpg"/>	vergewissert, dass
+durch die Praxis. Er habe sich durch seinen Versuch <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 341" facs="ln:,"/>	vergewissert, dass
 er etwas Besseres zu Stande bringen könne, wenn ihn ein Mäcen unterstützen und
 so viel Muse gewähren wollte, dass er Dasjenige, was er gesammelt, fleissig
 ergänzen und sorgfältig überarbeiten könnte. Ohne eine solche Hülfe aber sei er
@@ -1392,7 +1392,7 @@ Nichtanerkanntes verworfen haben.</p>
 		  <p>
 			Wer Lagus tadle, dass er so grosse Schwierigkeiten
 mache, den ersten Druck seines Werkes selbst zu besorgen, der möge bedenken,
-dass der Autor hierauf schon längst <pb n="S. 342" facs="../DRQI/muther_lagus_342.jpg"/>	seinen Wunsch
+dass der Autor hierauf schon längst <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 342" facs="ln:,"/>	seinen Wunsch
 gerichtet habe, dass aber derselbe oft gezwungen sei, seine Lieblingspläne
 hintanzusetzen und der Nothwendigkeit des Augenblicks zu gehorchen.</p>
 		  <p>
@@ -1426,7 +1426,7 @@ abschlägliche Antwort respectirt.</p>
 So weit unser protestirender Autor.</p>
 		  <p>
 Egenolf liess im September 1544 eine "Vertheidigung auf die Protestation des
-Herrn Conrad Lagus etc." erscheinen.<pb n="S. 343" facs="../DRQI/muther_lagus_343.jpg"/>
+Herrn Conrad Lagus etc." erscheinen.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 343" facs="ln:,"/>
                     </p>
 		  <p>
 Es wird hier behauptet, Lagus sei weniger aus eigenem Antrieb, als angestachelt
@@ -1457,7 +1457,7 @@ habe es auch unterlassen, die Klage, mit der er gedroht, anzustellen.</p>
 unzähligen Abschriften, die gefertigt würden, seien von Tag zu Tag fehlerhafter
 geworden, die gedruckte Ausgabe aber könne von Fehlern ailmählig gesäubert
 werden. An Arbeit habe es Egenolf bei der Herausgabe nicht fehlen lassen : die
-Correctur mangle nirgends, es sei unbillig, wenn Lagus <pb n="S. 344" facs="../DRQI/muther_lagus_344.jpg"/>	sage, dass kaum
+Correctur mangle nirgends, es sei unbillig, wenn Lagus <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 344" facs="ln:,"/>	sage, dass kaum
 einige Zeilen von grammatikalischen Fehlern frei sein.</p>
 		  <p>
 Hätte Lagus sein Buch im Schreibtisch behalten und die Abschrift nicht
@@ -1489,7 +1489,7 @@ dictirte, verkauften Buches so viel Aufhebens zu machen. Vor etwa 30 Jahren
 seien viele Schriften des <name type="person">Erasmus</name> und <name type="person" reg="Philipp Melanchthon">Ph.
 Melanthon</name>, selbst
 Privatschreiben derselben an Freunde, veröffentlicht worden, ohne dass der
-Zustimmung der Verfasser gedacht wäre. <pb n="S. 345" facs="../DRQI/muther_lagus_345.jpg"/>
+Zustimmung der Verfasser gedacht wäre. <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 345" facs="ln:,"/>
                     </p>
 		  <p>
 Manche Commentare des <name type="person">Zasius</name> zu verschiedenen Titeln
@@ -1522,7 +1522,7 @@ nicht bloss einige Zeilen, sondern an einer Stelle ganze Blätter."</p>
 			"Das ist nun doch", fährt Egenolf fort, "etwas ganz
 anderes, als was ich gethan habe. Gegen den, welcher im bösen Glauben eine
 fremde Sache öffentlich feil hält, als wenn der Eigenthümer das erlaubt hätte,
-möchte die Wandelklage <pb n="S. 346" facs="../DRQI/muther_lagus_346.jpg"/> eher zulässig sein.
+möchte die Wandelklage <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 346" facs="ln:,"/> eher zulässig sein.
 Dass aber ich Niemanden übervortheilt habe, geht schon daraus hervor, dass ich
 von allen Seiten um Erneuerung der Auflage angegangen werde, was gewiss nicht
 geschehen würde, fände das Buch keinen Absatz. Doch ich werde mich hüten eine
@@ -1547,7 +1547,7 @@ sich die Wagschale sehr zu meinen Gunsten. Wer eine Schrift von dem Charakter
 der Protestatio druckte, der musste eigentlich rein von allem Makel dastehen.
 Denn obwohl er die Protestatio nicht schrieb, so hat er es doch an Hetzen nicht
 fehlen lassen und die Unterstützung seiner Arbeit geboten. Er ist also gleicher
-Theilnehmer der That des Lagus, aber hassenswerther, da ihn  <pb n="S. 347" facs="../DRQI/muther_lagus_347.jpg"/>  die Sache
+Theilnehmer der That des Lagus, aber hassenswerther, da ihn  <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 347" facs="ln:,"/>  die Sache
 gar nichts anging und er bloss aus Neid oder Gehässigkeit handelnd seine Ehre
 aufs Spiel setzte.</p>
 		  <p>
@@ -1575,7 +1575,7 @@ Oporinus zu seiner ausgezeichneten Ehrbarkeit zu gratuliren, denn dann hat
 gewiss er allein unter allen Druckern niemals etwas begangen, was Tadel
 verdiente, sicherlich hat er nie ein Buch ohne Zustimmung des Autors gedruckt,
 sondern offen, bieder, anständig, wie es einem braven Manne zukommt, hat er
-Alles angefangen ; wenn dem so ist, beim <pb n="S. 348" facs="../DRQI/muther_lagus_348.jpg"/>	Zeus! dann wird er
+Alles angefangen ; wenn dem so ist, beim <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 348" facs="ln:,"/>	Zeus! dann wird er
 mit Recht bis in den Himmel erhoben und durch die Schriften der Gelehrten mit
 ewigem Ruhme verherrlicht."<note xml:id="n348.1" type="footnote" n="348.1">Die Titel der hier
 ausgezogenen Streitschriften s. oben <ref target="#Note300.4">S. 300 Not.
@@ -1607,7 +1607,7 @@ Blutauswürfe schwächten seine Kraft, am <date when="1546-11-07">7. November
 1546</date> gab er unter Anrufung von Christi Barmherzigkeit den Geist
 auf.<note xml:id="n348.2" type="footnote" n="348.2">Nach Hoppe B 8. Die genaue Angabe des
 Todestages findet sich bei Paul. Eber, Calendar. p. 358.</note>
-                        <pb n="S. 349" facs="../DRQI/muther_lagus_349.jpg"/>
+                        <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 349" facs="ln:,"/>
                     </p>
 		  <p>			    
 Sein Schüler <name type="person">Johann Hoppe</name>, der, durch <name type="person">Christoph
@@ -1640,7 +1640,7 @@ vorgekommen, doch scheinen die Exemplare des Buches äusserst selten geworden zu
 sein.</p>
 		  <p>
 			Obwohl später der Name des Lagus verscholl und seine
-Bücher vom Staub der Bibliotheken überdeckt wurden, lässt <pb n="S. 350" facs="../DRQI/muther_lagus_350.jpg"/> sich doch nicht
+Bücher vom Staub der Bibliotheken überdeckt wurden, lässt <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 350" facs="ln:,"/> sich doch nicht
 behaupten, dass sein geistiges Schaffen ohne nachhaltige Wirkung geblieben sei.
 Freilich wird sich schwer ermitteln lassen, wie viel davon und was in unser
 heutiges Lehrgebäude des Civilrechts übergegangen ist. Allein dass ein Buch,
@@ -1671,7 +1671,7 @@ demselben kaum etwas Anderes als einen schematisirten Auszug aus Lagus.
 Freigius erkennt diess auch an, denn auf der Hinterseite von Bl. III findet
 sich die Ueberschrift :<lb/>
 			"Elenchus partitionum iuris Ex Conradi La. Methodo."
-			<pb n="S. 351" facs="../DRQI/muther_lagus_351.jpg"/>
+			<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 351" facs="ln:,"/>
                     </p>
 		  <p>
 In einer späteren Ausgabe der Partitiones (Basil. 1581 Fol.) ist sogar der

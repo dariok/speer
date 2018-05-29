@@ -27,7 +27,7 @@
         </div>
             <div xml:id="Vorrede">
 	<head>[Vorrede]</head>
-	<p> <pb n="S. 255" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g255.gif"/>
+	<p> <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 255" facs="ln:frankfohof,255"/>
                 </p>	     
 	<p> Als hernach geschriben steet, han die scheffen sich eynmüdiclich
 vereyniget mit der  presentien und sost, under yne zu halten vnd doch darynne
@@ -43,7 +43,7 @@ es verdienet als  nachgeschriben steet.</p>
 	<head>[Art. 2]</head>
 	<p> Item sal eyn iglicher scheffen vor der Nunden stunde an dem
 gerichte sin und an siner statt sitzen und zum mynsten zwo stünde bliben
-sitzen.<pb n="S. 256" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g256.gif"/>
+sitzen.<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 256" facs="ln:frankfohof,256"/>
 	</p>
       </div>
             <div xml:id="Art.3">
@@ -92,7 +92,7 @@ geben sal.</p>
             <div xml:id="Art.8">
 	<head>[Art. 8]</head>
 	<p> Item welcher under den scheffen geburt die presencie ußzugeben, der
-sal dieselbe zyt auch zu yme nemen an dem <pb n="S. 257" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g257.gif"/> gerichte alle <term type="phrase">offgiffte und insetze
+sal dieselbe zyt auch zu yme nemen an dem <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 257" facs="ln:frankfohof,257"/> gerichte alle <term type="phrase">offgiffte und insetze
 gelt</term> und das alle samsttage in die bußen tun, zu dem anderm gelde.</p>
       </div>
             <div xml:id="Art.9">

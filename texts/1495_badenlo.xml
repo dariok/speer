@@ -28,7 +28,7 @@
         <p>Quelle: Rudolf Carlebach, Badische Rechtsgeschichte. I. Das ausgehende Mittelalter und die Rezeption des römischen Rechts unter Mitteilung der wichtigeren bisher ungedruckten Landesordnungen (Landrechte). Heidelberg 1906. S. 94 - 118. Transkription: Heino Speer Mai 2013.<lb/>
             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=carlebach,badrg.+i&amp;seite=o01tit">Faksimile Deutsches Rechtswörterbuch</ref>
                         <lb/>
-        [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=carlebach,badrg.+i&amp;seite=g093" n="93"/>]</p>
+        [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="93" facs="ln:carlebach_1906_1,"/>]</p>
                 </div>
 <div xml:id="Vorrede"> 
 <head>[Vorrede]</head> 

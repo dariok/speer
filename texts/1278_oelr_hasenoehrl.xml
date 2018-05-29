@@ -43,7 +43,7 @@
         <p part="N">[Speer] Die bei Hasenöhrl angegebenen Schreibvarianten sind nicht übernommen worden, da sie in den
           verlinkten Druckseiten ohne weiteres nachgelesen werden können.
           <lb/> Heino Speer, Klagenfurt, im Oktober 2012</p>
-        <p part="N"> [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_0031.html" n="Hasenöhrl S. 19"/>]:
+        <p part="N"> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Hasenöhrl S. 19" facs="ln:hasenoehrl_1867_lr,31"/>]:
           <lb/> "§. 3. Grundsätze bei der Herausgabe.
           <lb/> Die Beschaffenheit der HSS. und der dargestellte Charakter der einzelnen Recensionen liessen keinen
           Zweifel über die Grundsätze, nach denen bei der Herausgabe vorzugehen war. Zuerst musste der nach Möglichkeit
@@ -62,7 +62,7 @@
             sullen auch die taiding sein nůr ze <name type="place" full="yes" instant="false">Newnburg</name> ze <name type="place" full="yes" instant="false">Tůln</name> und ze <name type="place" full="yes" instant="false">Mauttarn</name>. So sol dhain graff noch freie noch dienstman, die ze recht zu dem lannd gehorent, weder
             auf ir leib noch auf ir er noch auf ir aigen ze recht steen nůr in offner schrann vor dem lanndes herren.
             Wil aber im der lanndes herre unrecht tůn, so sol er wol mit recht dingen an das reich und davon sein recht
-            pringen, als im ertailt wirt, und sol auch [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00249.html" n="Seite 237"/>]
+            pringen, als im ertailt wirt, und sol auch [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 237" facs="ln:hasenoehrl_1867_lr,249"/>]
             das geding wider pringen in sechs wochen, in irre dann eehafft not, das er wol mit seinem aid bestetten mag
             nach der eehafften not. Wann er zu dem lannde kůmpt, so sol er vor dem lanndes herren und vor seinen
             hausgenossen in offner schrann antwurten über sechs wochen und nicht darhinder, als recht ist nach gewonhait
@@ -83,7 +83,7 @@
             man ist umb dhain inczicht nicht aufhaben. Er sol in vordern in der schrann nach lanndes gewonhait, als
             recht ist. Kůmpt er dann nicht für an dem vierden taiding, so sol er alles des schuldig sein, da in der
             richter umb gevordert hat, und sol in darnach ze echt tůn. Ist aber, daz er fürkůmpt und wil sich aus der
-            echt [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00250.html" n="Seite 238"/>] sweren, so sol in der richter aus der echt lassen, und sol er des sweren, daz er dem, der
+            echt [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 238" facs="ln:hasenoehrl_1867_lr,250"/>] sweren, so sol in der richter aus der echt lassen, und sol er des sweren, daz er dem, der
             in ze echt hat pracht, ze recht stee drei taiding nach einander, es sei dann, daz in eehafft not irre des in
             sein aigen man oder sein hausgenoss wol bereden mag vor dem richter in der schrann. Nach der eehafften not
             sol er ze recht steen im nagsten lanndtaiding über vierczehen tag und nicht darhinder. Ist, daz er dann
@@ -96,7 +96,7 @@
           <p part="N">Swert er sich aus der echt hinder sechs wochen, so sol er dhainem richter nicht wanndels geben
             noch schuldig sein. Ist aber er über sechs wochen in der echt, so sol er denn dem lanndes herren oder dem
             richter, der an seiner stat richtet, zehen phund ze wanndel geben, und den undern lanndgerichten sechs
-            schilling. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00251.html" n="Seite 239"/>]</p>
+            schilling. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 239" facs="ln:hasenoehrl_1867_lr,251"/>]</p>
         </div>
         <div xml:id="a5" part="N" org="uniform" sample="complete">
           <head>Artikel 5.</head>
@@ -115,7 +115,7 @@
             unversprochen frawen, die die notnuft gesehen habent, oder das geschrai gehort habent, man sol ir richten
             nach lanndes gewonhait, als recht ist. Ist aber, daz er die notnuft gepüzzet vor dem richter, in des gericht
             es geschehen ist, mag er das pringen mit dem richter, vor dem es geschehen ist, oder mit pidern leuten, die
-            dabei gewesen sind, des sol er fürbas wol [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00252.html" n="Seite 240"/>]
+            dabei gewesen sind, des sol er fürbas wol [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 240" facs="ln:hasenoehrl_1867_lr,252"/>]
             geniessen an seinem recht, und wer auch di notnuft gepüzzet, das ensol im fürbas gen dem gericht noch an
             seinen eren dhain schad sein.</p>
         </div>
@@ -139,7 +139,7 @@
         <div xml:id="a11" part="N" org="uniform" sample="complete">
           <head>Artikel 11.</head>
           <p part="N">Spricht man aber iemant kamphs an umb ain getat, die er mit gesundem leib getan hat, ist dem des
-            leibes [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00253.html" n="Seite 241"/>] abgegangen nach der getat, und er si begie, der sol des kamphes wol waigern mit
+            leibes [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 241" facs="ln:hasenoehrl_1867_lr,253"/>] abgegangen nach der getat, und er si begie, der sol des kamphes wol waigern mit
             recht.</p>
         </div>
         <div xml:id="a12" part="N" org="uniform" sample="complete">
@@ -163,7 +163,7 @@
           <p part="N">Es sol der lanndes herre dhain frag haben, wann das ist nicht recht. Irre iemant icht, der sol das
             clagen in offner schrann mit vorsprechen, und sol man denn das richten als recht ist und nach des lanndes
             gewonhait. Er mag aber wol nach rat der herren in dem lannde ain frag haben auf schedleich leut, davon das
-            lannd gerainigt werd. Wenn [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00254.html" n="Seite 242"/>]
+            lannd gerainigt werd. Wenn [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 242" facs="ln:hasenoehrl_1867_lr,254"/>]
             man des ze rat wirt, so sol auch die frag sein über sechs wochen und nicht darhinder, und sol man auch die
             künden in den lanndgerichten, vor den pharren und auf den merkten, also daz alles das darköm, das aigen
             rukche hab, und wer darüber nicht darkůmpt, den sol man dafür haben, daz er das gericht flieche und nicht
@@ -185,7 +185,7 @@
           <head>Artikel 18.</head>
           <p part="N">Es sol auch niemant dhain aigen verantwurten nůr an dem vierden taiding. Kůmpt der antwurter nicht
             für, so sol es der richter ziehen in frongewalt und wenn es der antwurter wil ausnemen in vierczehen tagen,
-            so sol es im der [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00255.html" n="Seite 243"/>]
+            so sol es im der [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 243" facs="ln:hasenoehrl_1867_lr,255"/>]
             richter ausgeben, daz er es verantwurt nach des lanndes gewonhait als recht ist. Ist aber es in des richter
             gewalt über vierczehen tag, so sol er es dem clager ausgeben und sol es versprechen und verantwurten als
             recht ist nach des lanndes gewonhait.</p>
@@ -206,7 +206,7 @@
         <div xml:id="a21" part="N" org="uniform" sample="complete">
           <head>Artikel 21.</head>
           <p part="N">Wer ain aigen kauffet, der tůt damit was er wil und geit es wem er wil inner iar und tag. Behaltet
-            er es [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00256.html" n="Seite 244"/>] aber über iar und tag, das er es niemant geit noch damit getůt, so mag er es fürbas
+            er es [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 244" facs="ln:hasenoehrl_1867_lr,256"/>] aber über iar und tag, das er es niemant geit noch damit getůt, so mag er es fürbas
             niemant geben an seiner kind hannt, wann es auf seine kind erben sol, als ander sein gůt, das in anerbet von
             seinen vordern. Es sei weib oder man, das ain aigen anerstirbet, das geit er in iar und in tag wem er wil.
             Behaltet er es aber über iar und tag, so mag er es niemant geben noch icht damit getůn, dann mit anderm
@@ -226,7 +226,7 @@
             nicht wider, so sol er geben dem herren zehen phund und dem richter fünf phund und sol der richter dem
             herren das gůt intwingen. Laugent aber der aigen man, daz er des herren sei, der nach im claget, so sol im
             iener, der in gevestent hat, verantwurten vor ainem rechten richter. Ob aber in der zeit der aigen man
-            seinem rechten herren widervert, des er da laugent, daz er sein herre icht sei, [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00257.html" n="Seite 245"/>]
+            seinem rechten herren widervert, des er da laugent, daz er sein herre icht sei, [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 245" facs="ln:hasenoehrl_1867_lr,257"/>]
             und denn noch nicht vertaidingt ist noch verrichtet umb in und in der herre begreiffet, wo er im widervert,
             der mag in wol vahen, daz er des nicht engilt gen dem richter.</p>
         </div>
@@ -250,7 +250,7 @@
             und bei der auch kind gewinnet, dieselben kind sullen nicht erben auf das gůt, das er ee gewunnen hat, das
             der vordern kind ist, es sei aigen oder lehen, er mache es dann den andern kinden. Was er auch gůtes
             gewinnet bei der andern konen, das sol erben auf derselben frawen kind, es sei aigen oder lehen, und nicht
-            auf die vordern kind, er mache es dann den vordern kinden. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00258.html" n="Seite 246"/>]
+            auf die vordern kind, er mache es dann den vordern kinden. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 246" facs="ln:hasenoehrl_1867_lr,258"/>]
             Welch tail aber under der zwaier hannt kinden absturbe, die weil ir vater lebt, so ist das recht, was der
             vater hat aigen oder lehen, daz das auf die kind erbe, die da lebent, und ist, daz er da stirbet an
             geschefft, was er varundes gůtes lat, da sol niemant dhain recht zu haben, wann sein hausfraw.</p>
@@ -272,7 +272,7 @@
         <div xml:id="a29" part="N" org="uniform" sample="complete">
           <head>Artikel 29.</head>
           <p part="N">Welch herre manschafft hat, die lehen von im habent, und der herre abstirbt, die sullen ir lehen
-            nicht [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00259.html" n="Seite 247"/>] verliesen gen seinen kinden. Si geben dann tag als recht ist nach gewonhait des lanndes
+            nicht [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 247" facs="ln:hasenoehrl_1867_lr,259"/>] verliesen gen seinen kinden. Si geben dann tag als recht ist nach gewonhait des lanndes
             über sechs wochen und nicht darhinder, und geben im der täg drei, und sullen auch die täg nach einander
             geben in demselben iar und der vater abgestorben ist, und sullen auch die täg gepieten auf den merkten und
             vor den pharren an iegleichem ende, da si da manschafft habent. Wer darüber zu den tägen nicht enkůmpt und
@@ -292,7 +292,7 @@
           <head>Artikel 31.</head>
           <p part="N">Wer ainen anspricht umb ain lehen, des er seinen herren hat und seinen gewer, wil im der herre des
             nicht gelauben, daz er sein herre und sein gewer nicht sull sein, so sol im es der man bestetigen mit seinem
-            aid, und sol der herre dann sein gewer sein. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00260.html" n="Seite 248"/>]</p>
+            aid, und sol der herre dann sein gewer sein. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 248" facs="ln:hasenoehrl_1867_lr,260"/>]</p>
         </div>
         <div xml:id="a32" part="N" org="uniform" sample="complete">
           <head>Artikel 32.</head>
@@ -315,7 +315,7 @@
           <p part="N">Wer ain gůt hat in nucz und in gewer und im der herre des laugent, daz er dasselb gůt von im icht
             hab, hat der man mer lehen von dem herren, so sol er dasselb gůt behalten mit seinem aid zu andern seinen
             lehen. Hat aber er nicht mer von dem herren, wann das gůt, des im der herre nicht gicht, so sol er es bewern
-            mit seinen hausgenossen. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00261.html" n="Seite 249"/>]</p>
+            mit seinen hausgenossen. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 249" facs="ln:hasenoehrl_1867_lr,261"/>]</p>
         </div>
         <div xml:id="a35" part="N" org="uniform" sample="complete">
           <head>Artikel 35.</head>
@@ -342,7 +342,7 @@
           <head>Artikel 39.</head>
           <p part="N">Als ain man seinen herren raubet oder prenet oder im an sein er redt, und sich der man des nicht
             bereden mag als recht ist nach des lanndes gewonhait, er sei auf des herren schaden gewesen, so sind dem
-            herren die lehen zu recht ledig worden. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00262.html" n="Seite 250"/>]</p>
+            herren die lehen zu recht ledig worden. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 250" facs="ln:hasenoehrl_1867_lr,262"/>]</p>
         </div>
         <div xml:id="a40" part="N" org="uniform" sample="complete">
           <head>Artikel 40.</head>
@@ -366,7 +366,7 @@
         <div xml:id="a43" part="N" org="uniform" sample="complete">
           <head>Artikel 43.</head>
           <p part="N">Es hat dhain fraw lehenshannt. Wenn si abstirbt, so ist auch das lehen ledig den erben, die ander
-            ir aigens recht erben sind. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00263.html" n="Seite 251"/>]
+            ir aigens recht erben sind. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 251" facs="ln:hasenoehrl_1867_lr,263"/>]
           </p>
         </div>
         <div xml:id="a44" part="N" org="uniform" sample="complete">
@@ -386,7 +386,7 @@
             er lehen hat und der die hervart vert, allen den zins halben geben, den das gůt das iar über gelten mag, der
             auf dem gůt ist, das von dem herren lehen ist. Ist aber ain burger oder ain pawer, die sullen im den zins
             gar geben, den es das iar vergelten mag, und welch herre die hervart nicht envert, dem sullen seine man
-            dhain herstewer nicht geben. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00264.html" n="Seite 252"/>]</p>
+            dhain herstewer nicht geben. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 252" facs="ln:hasenoehrl_1867_lr,264"/>]</p>
         </div>
         <div xml:id="a46" part="N" org="uniform" sample="complete">
           <head>Artikel 46.</head>
@@ -407,7 +407,7 @@
           <head>Artikel 48.</head>
           <p part="N">Es sol auch niemant dhainen muntman haben, und wer si darüber hat, der sol si lassen, wenn er des
             ermanet wirt von seinem rechten herren, oder er můs dem herren geben fünf phund, und sol der richter dem
-            herren das gůt intwingen und sol auch dannoch den muntman ledigen. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00265.html" n="Seite 253"/>]</p>
+            herren das gůt intwingen und sol auch dannoch den muntman ledigen. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 253" facs="ln:hasenoehrl_1867_lr,265"/>]</p>
         </div>
         <div xml:id="a49" part="N" org="uniform" sample="complete">
           <head>Artikel 49.</head>
@@ -427,7 +427,7 @@
           <p part="N">Es ist recht nach gewonhait des lanndes, wer ain clag gen im wais und dem mit recht fürgepoten
             wirt, der sol mit dem richter des ersten in die schrann und des leczten mit im da wider aus, wenn in der
             clager anspreche, daz er im dann antwurt als recht ist. Můs aber er aus der schrann durch genötigs seines
-            geschefftes, so sol er darin haben [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00266.html" n="Seite 254"/>]
+            geschefftes, so sol er darin haben [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 254" facs="ln:hasenoehrl_1867_lr,266"/>]
             seinen scheinpoten, der das offen vor dem richter und gen dem clager, daz er da sei und daz er well
             antwurten als recht ist. So sol der richter und der clager sein peiten, uncz in der pot hinfür pringet. Wo
             des nicht geschech, was dann mit recht davor behabet wirt, das sol niemant widertailen, er bered sich dann,
@@ -447,7 +447,7 @@
             vierczehen iaren, die iunkfraw hincz zwelif iaren. Nach den iaren sullen si antwurten als recht ist nach
             lanndes gewonhait wer gen in icht ze sprechen hat. Wil auch die iunkfraw icht bestetten ires aigens, das hat
             nicht crafft, uncz daz si ainen konman nimpt. Leget si aber ainen man zu ir, was si dann lobet, das hat
-            crafft. [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00267.html" n="Seite 255"/>] </p>
+            crafft. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 255" facs="ln:hasenoehrl_1867_lr,267"/>] </p>
         </div>
         <div xml:id="a53" part="N" org="uniform" sample="complete">
           <head>Artikel 53.</head>
@@ -470,7 +470,7 @@
         <div xml:id="a55" part="N" org="uniform" sample="complete">
           <head>Artikel 55.</head>
           <p part="N">Ist, daz der lanndes herre sein hausgenossen wil angreiffen von gewalt oder von übermut, so sol im
-            weder graff [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00268.html" n="Seite 256"/>] noch freie noch dienstman nicht helffen noch niemant in dem lannd an sein aigen leut und
+            weder graff [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 256" facs="ln:hasenoehrl_1867_lr,268"/>] noch freie noch dienstman nicht helffen noch niemant in dem lannd an sein aigen leut und
             an die er piten mag und erkauffen mag mit seinem gůt. Wil aber in sein hausgenoss angreiffen mit gewalt und
             mit unrecht, so sullen im alle, die in dem lannd sind, das lannd helffen ze weren und das gemerkch, als verr
             und als si leib und gůt geweret.</p>
@@ -491,7 +491,7 @@
           <head>Artikel 58.</head>
           <p part="N">So ensol auch niemant dhain haus noch dhain purg pawen an des lanndes herren gunst und an sein
             urlaub. Er mag aber wol auf sein aigen auf ebner erd pawen, was er wil, das zwair gaden hoch ist, an
-            umbgeund wer und [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00269.html" n="Seite 257"/>]
+            umbgeund wer und [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 257" facs="ln:hasenoehrl_1867_lr,269"/>]
             an zinnen, und ain graben darumb newn schüch weit und siben schüch tieff und nicht mer, im erlaub es dann
             der lanndes herre.</p>
         </div>
@@ -514,7 +514,7 @@
           <head>Artikel 61.</head>
           <p part="N">Es ist pilleich, wer der gotshewser vogtai gůt raubet oder prenet dem vogt ze laid, daz er den
             schaden selb dritt gelt und daz dem gotshaus, des das urbar ist, die zwai tail werdent, und dem vogt das
-              drittail.[<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00270.html" n="Seite 258"/>]</p>
+              drittail.[<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 258" facs="ln:hasenoehrl_1867_lr,270"/>]</p>
         </div>
         <div xml:id="a62" part="N" org="uniform" sample="complete">
           <head>Artikel 62.</head>
@@ -537,7 +537,7 @@
         <div xml:id="a64" part="N" org="uniform" sample="complete">
           <head>Artikel 64.</head>
           <p part="N">Wer dem andern seinen dienst widersagt, daz er sein veint well sein, der sol nach dem widerpot vor
-            im an angst [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00271.html" n="Seite 259"/>] sein und an schaden uncz an den vierden tag. So sol auch der das widerpot getan hat an
+            im an angst [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 259" facs="ln:hasenoehrl_1867_lr,271"/>] sein und an schaden uncz an den vierden tag. So sol auch der das widerpot getan hat an
             schaden beleiben uncz an den vierden tag. Wer die recht pricht, der sol dem andern seinen schaden abtun mit
             zwispilde und sol dem richter die wanndel geben, die recht sein nach lanndes recht und gewonhait.</p>
         </div>
@@ -556,7 +556,7 @@
             oder in in ain pant leit, das venknuss haisset, wirt er des überczeuget vor seinem richter, als vor
             geschriben ist, derselb sol sein eelos und rechtlos ewikleich, also daz im der vater nimmer mer mit dhainer
             slacht ding wider gehelffen mag. Alle die, die der vater ze zeug nennet vor dem richter über alle die sach,
-            die hie vor geschriben stent, die sullen des nicht über [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00272.html" n="Seite 260"/>]
+            die hie vor geschriben stent, die sullen des nicht über [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 260" facs="ln:hasenoehrl_1867_lr,272"/>]
             werden durch magschafft noch durch dhainer slacht ding, si gesten dem vater der warhait. Der des nicht tůn
             wil, den sol der richter darczu twingen, es ensei, daz er vor dem richter swer auf den heiligen, daz er
             darumb nicht enwisse. Hat der vater dienstman, oder ist es so, daz er aigen leut hat, von der rat, oder von
@@ -570,7 +570,7 @@
             des gericht es geschehen ist, so sol er dieselben in die echt tůn und sol si daraus nimmer lassen, si gelten
             dem vater ee seinen schaden zwifalt, den er von ir helff genomen hat, und dem richter sein recht nach
             lanndes gewonhait. Habent si aber lehen von dem vater, das sol im von in ledig sein, also daz er es in
-            nimmer mer geleihen sol, si erkauffen es dann mit irem gůt.[<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00273.html" n="Seite 261"/>]</p>
+            nimmer mer geleihen sol, si erkauffen es dann mit irem gůt.[<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 261" facs="ln:hasenoehrl_1867_lr,273"/>]</p>
         </div>
         <div xml:id="a67" part="N" org="uniform" sample="complete">
           <head>Artikel 67.</head>
@@ -588,7 +588,7 @@
             das haus tragen und sol darüber richten mit dem fewr. Begreiffet er in, so sol er über in richten als recht
             ist nach lanndes gewonhait. Ist aber der herre selb in dem haus gesessen und wil des nicht understeen, es
             geschech dem lannde schaden darin, es sei bei tag oder bei nacht, man sol über das richten nach lanndes
-            gewonhait als recht ist. Ist aber, daz das haus [<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00274.html" n="Seite 262"/>]
+            gewonhait als recht ist. Ist aber, daz das haus [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 262" facs="ln:hasenoehrl_1867_lr,274"/>]
             wirt übersaget mit siben, so sol man über es richten mit fewr und mit prechen, also daz ain stain bei dem
             andern nicht enlige, und sol im der lanndes herre das haus nimmer mer erlauben ze pawen, es geschech dann
             nach der lanndherren rat, also daz dem lannd fürbas dhain schad davon geschech. Ist, daz der lanndes herre
@@ -608,7 +608,7 @@
             widertreiben. Swert er darüber maines und wil darnach aber zeug sein oder iemant sprechen gen seinen leib
             oder gen seinen eren, den sol man ze recht widertreiben mit siben unversprochen mannen, die sein
             hausgenossen oder sein übergenossen sein, und sol auch die an seinem rukche haben, damit er in widertreiben
-              wil.[<pb facs="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10542923_00275.html" n="Seite 263"/>]</p>
+              wil.[<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="Seite 263" facs="ln:hasenoehrl_1867_lr,275"/>]</p>
         </div>
         <div xml:id="a70" part="N" org="uniform" sample="complete">
           <head>Artikel 70.</head>

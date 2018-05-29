@@ -29,8 +29,8 @@ Heino Speer, Klagenfurt am Wörthersee, 25. Mai 2016</p>
             </div>
             <div xml:id="P.1">
     <head>Vorbemerkungen</head> 
-    <p> [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_209.gif" n="209"/>] Die Beschaffenheit der Quellen für die Geschichte Frankfurts im ausgehenden Mittelalter lässt die Tätigkeit der einzelnen Mitglieder der vielköpfigen Stadtverwaltung, des Rates, nicht deutlich genug erkennen. Die Leitung der städtischen Angelegenheiten nach innen und aussen in dem Jahrhundert vor der Reformation war noch eine verhältnissmässig einfache; im Innern herrschte vollständige Ruhe, unangefochten regierte der Rat die noch durch keine politische oder religiöse Spaltung entzweite Bürgerschaft, und nach aussen hatte man einen Rückhalt gegen die der Freiheit und Blüte der Stadt
-missgünstigen Territorialfürsten an der wenn auch schwachen kaiserlichen Centralgewalt und besonders an den anderen Reichsstädten, die damals noch fest zusammenhielten. Die Zeit der Reformation bot den Frankfurter Staatsmännern schwierigere Aufgaben. Zwar war der Versuch der Untertanen, während der ganz Deutschland durchwühlenden Bauernbewegung mit der religiösen auch politische und soziale Freiheiten zu erringen, Dank der Intervention der benachbarten Fürsten vollständig misslungen, und der Rat wieder wie früher zur Herrschaft gelangt; der Aufruhr von 1525 hatte aber wenigstens die Folge, dass die regierenden Herren fortan mehr Rücksicht auf die Stimme der Untertanen nahmen,in wichtigen Gelegenheiten jetzt häufiger als früher deren Meinung einholten. Der Abfall von der alten Kirche aber, von der sich die Mehrheit der Bürgerschaft im Einverständniss und beinahe unter Führung des Rates schon seit mehreren Jahren abgewandt hatte, wurde jetzt endgültig und machte die Politik der Stadt nach aussen um so viel schwieriger; denn dem Rate lag es ob, die rücksichtslosen Massregeln, zu denen er sich von dem Volke gegen die  katholische Geistlichkeit  drängen   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_210.gif" n="210"/>] liess, vor dem Kaiser, der sich mit seiner wiedererstarkten Macht der alten Kirche annahm, und den altgläubigen Reichsständen zu vertreten; wollte man dies mit Stolz und Energie thun, so setzte man die Freiheiten und Privilegien, von denen der Wohlstand der Stadt abhing, aufs Spiel. So lavirte man denn unsicher zwischen den verschiedenen politisch bedeutenden Mächten hin und her, bis endlich die Stadt, von den benachbarten katholischen Fürsten aufs äusserste gedrängt, im Schmalkaldischen Bunde der evangelischen Reichsstände eine Zuflucht suchte; für diese aber war sie nur ein unzuverlässiger Bundesgenosse, der vor jedem energischen Schritte zurückschreckte und die Erhaltung des Friedens um jeden Preis verlangte.</p>
+    <p> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="209" facs="ln:drqi,jung_1889_209"/>] Die Beschaffenheit der Quellen für die Geschichte Frankfurts im ausgehenden Mittelalter lässt die Tätigkeit der einzelnen Mitglieder der vielköpfigen Stadtverwaltung, des Rates, nicht deutlich genug erkennen. Die Leitung der städtischen Angelegenheiten nach innen und aussen in dem Jahrhundert vor der Reformation war noch eine verhältnissmässig einfache; im Innern herrschte vollständige Ruhe, unangefochten regierte der Rat die noch durch keine politische oder religiöse Spaltung entzweite Bürgerschaft, und nach aussen hatte man einen Rückhalt gegen die der Freiheit und Blüte der Stadt
+missgünstigen Territorialfürsten an der wenn auch schwachen kaiserlichen Centralgewalt und besonders an den anderen Reichsstädten, die damals noch fest zusammenhielten. Die Zeit der Reformation bot den Frankfurter Staatsmännern schwierigere Aufgaben. Zwar war der Versuch der Untertanen, während der ganz Deutschland durchwühlenden Bauernbewegung mit der religiösen auch politische und soziale Freiheiten zu erringen, Dank der Intervention der benachbarten Fürsten vollständig misslungen, und der Rat wieder wie früher zur Herrschaft gelangt; der Aufruhr von 1525 hatte aber wenigstens die Folge, dass die regierenden Herren fortan mehr Rücksicht auf die Stimme der Untertanen nahmen,in wichtigen Gelegenheiten jetzt häufiger als früher deren Meinung einholten. Der Abfall von der alten Kirche aber, von der sich die Mehrheit der Bürgerschaft im Einverständniss und beinahe unter Führung des Rates schon seit mehreren Jahren abgewandt hatte, wurde jetzt endgültig und machte die Politik der Stadt nach aussen um so viel schwieriger; denn dem Rate lag es ob, die rücksichtslosen Massregeln, zu denen er sich von dem Volke gegen die  katholische Geistlichkeit  drängen   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="210" facs="ln:drqi,jung_1889_210"/>] liess, vor dem Kaiser, der sich mit seiner wiedererstarkten Macht der alten Kirche annahm, und den altgläubigen Reichsständen zu vertreten; wollte man dies mit Stolz und Energie thun, so setzte man die Freiheiten und Privilegien, von denen der Wohlstand der Stadt abhing, aufs Spiel. So lavirte man denn unsicher zwischen den verschiedenen politisch bedeutenden Mächten hin und her, bis endlich die Stadt, von den benachbarten katholischen Fürsten aufs äusserste gedrängt, im Schmalkaldischen Bunde der evangelischen Reichsstände eine Zuflucht suchte; für diese aber war sie nur ein unzuverlässiger Bundesgenosse, der vor jedem energischen Schritte zurückschreckte und die Erhaltung des Friedens um jeden Preis verlangte.</p>
  <p>
 Die neuen Verhältnisse stellten höhere Anforderungen an die städtischen
 Staatsmänner. Bisher lag die Leitung der Geschäfte fast ausschliesslich bei den
@@ -51,7 +51,7 @@ Gelehrten in jener Zeit feierte: Dr. <ref target="http://de.wikipedia.org/wiki/J
 Fichard</ref>.</p>
  <p>
 Er gehört nicht zu jener ersten Generation von Staatsmännern der Reformationszeit, welche unter der Führung von <persName ref="">Hammann von Holzhausen</persName> und <persName ref="">Philipp Fürstenberger</persName> dem Luthertum in der alten Wahlstadt Bahn brachen. Er hat dem folgenden Geschlecht, dessen hervorragendste Leiter <ref target="http://de.wikipedia.org/wiki/Johann von Glauburg">Johann von Glauburg</ref> und <ref target="http://de.wikipedia.org/wiki/Justinian von Holzhausen">Justinian von Holzhausen</ref> waren, bei der Vollendung des Werkes der Väter als treuer Mentor zur Seite gestanden, er hat dann in der auf die Religionskriege folgenden Friedenszeit eine reiche Tätigkeit als Gesetzgeber, als Schriftsteller und als praktischer Jurist entwickelt, die ihm eine weit über
-die engen Mauern seiner Vaterstadt reichende Bedeutung verschafft hat. [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_211.gif" n="211"/>]</p>
+die engen Mauern seiner Vaterstadt reichende Bedeutung verschafft hat. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="211" facs="ln:drqi,jung_1889_211"/>]</p>
    <p>
 Ueber Fichards Lebensumstände sind wir sehr gut unterrichtet. Vor allem schöpfen wir unsere Kenntniss über seine Jugend- und die ersten Mannesjahre aus drei Arbeiten von ihm selbst, welche <persName ref="">Johann Carl von Fichard gen. Baur von Eyseneck</persName> in seinem <ref target="">Frankfurtischen Archiv für ältere deutsche Litteratur und Geschichte (1811-15)</ref> veröffentlicht hat; es sind dies <ref target="">Descriptio brevis cursus vitae meae Johannis Fichardi J. U. D. et patris mei (Frankf. Archiv II, 1ff.)</ref> <ref target="">Italia. Anno MDXXXVI. Autore Joanne Fichardo Jure C. (ebenda III, 1ff.)</ref> <ref target="">Annales de annis Domini supra millesimum quingentesimum XII—XLIV (ebenda I, 1 ff.)</ref>. Inhalt und Bedeutung dieser drei Arbeiten Fichards finden weiter unten ihre Würdigung.</p>
  <p>
@@ -63,7 +63,7 @@ dem Stadtarchiv aufbewahrten handschriftlichen Geschlechtergeschichte; <ref targ
 Fichard</persName> zurück. Weitere Erwähnungen Fichards in der juristischen Litteratur ohne besondere Bedeutung siehe in den Anmerkungen bei Stintzing. —
 In der Aufzählung der juristischen Arbeiten Fichards folge ich dem Verzeichniss bei <ref target="http://gdz.sub.uni-goettingen.de/content/PPN372047610/800/0/00000603.jpg">Stinzing, Geschichte der Deutschen Rechtswissenschaft I, 592 ff.</ref>, und verweise für die Einzelheiten auf dessen dortige kritische Ausführungen:<lb/> 
  1) <ref target="http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ155675106">Jurisconsultorum vitae veterum quidem per B. Rutilium una cum ejusdem Decuria, recentiorum vero ad nostra usque tempora per Johannem Fichardum Francofurtensem. Ad haec Indices duo omnium scriptorum in Jure - ad haec nostra usque tempora editorum per Jo. Nevizanum, Lud. Gomessium et (o. Fichardum collecti. Basileae. [1540.]</ref> 
-  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_212.gif" n="212"/>]
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="212" facs="ln:drqi,jung_1889_212"/>]
 2) Biographie seines Universitätsfreundes <persName ref="">Johann Sichard</persName> vor dem zweiten Bande der ersten Ausgabe von Sichards
 Praelectiones in Codicem, 1565. <lb/>
 3) Exegeses summariae titulorum Institutionum, nur aus Erwähnungen von 1565 und 1574 bekannt.<lb/>
@@ -80,7 +80,7 @@ Jungensche Bibliothek gelangte.<lb/>
   <p>Leider ist mir eine Quelle, die sicherlich noch manches von Wichtigkeit für Fichards öffentliche Wirksamkeit, für sein häusliches Leben und seine wissenschaftliche Tätigkeit ergeben hätte, unzugänglich geblieben - das Fichardsche Familienarchiv. Es befindet sich nicht mehr im Besitze der Familie von Fichard, es ist auch nicht mit dem litterarischen Nachlasse <persName ref="">Johann Carls von Fichard</persName> (+ 1829), der es besessen und für seine Arbeiten oft benutzt hatte, auf die Stadtbibliothek gekommen. Alle meine Nachforschungen nach dem Verbleib des gewiss reichhaltigen Archivs, aus welchem noch 1868 von <persName ref="">Professor Dr. Fuchs</persName> (<ref target="http://dlib-zs.mpier.mpg.de/pdf/2085079/08/1869/20850790818690274.pdf">Zeitschrift für Rechtsgeschichte VIII, 271</ref>) einige Briefentwürfe veröffentlicht wurden, sind bis jetzt erfolglos geblieben: weder die Familie noch die Administration des v. Cronstettschen Damenstiftes konnten meine Nachfrage befriedigen.<lb/>
 Im Stadtarchiv befinden sich u.a. von Fichard: sein Bericht über die Gesandtschaft an den Erzbischof von Mainz nach Halle im November 1535 (Mgb. C.
 II, Lit. A), seine eigenhändige, sehr ausführliche Darstellung des Verlaufs des Schmalkaldener Tages von 1543 (Reichssachen-Nachträge), sein Ratschlag der
-erbarn freyen und reychs stede session unnd stim im reychs rath bedreffen (Reichssachen-Nachträge ca. 1560), seine   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_213.gif" n="213"/>] Anmerkungen zu der Schmähschrift des flüchtigen <persName ref="">Dr. Zehener</persName> gegen den Rat (Ugb. A 97, T); das Freiherrlich von Holzhausensche Familienarchiv bewahrt noch ein von Fichard in einem privaten Prozess abgegebenes Consilium.</p>
+erbarn freyen und reychs stede session unnd stim im reychs rath bedreffen (Reichssachen-Nachträge ca. 1560), seine   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="213" facs="ln:drqi,jung_1889_213"/>] Anmerkungen zu der Schmähschrift des flüchtigen <persName ref="">Dr. Zehener</persName> gegen den Rat (Ugb. A 97, T); das Freiherrlich von Holzhausensche Familienarchiv bewahrt noch ein von Fichard in einem privaten Prozess abgegebenes Consilium.</p>
             </div>
             <div xml:id="P.2">
   <head>1. Jugend und Lehrjahre.</head>
@@ -94,7 +94,7 @@ Gerichtsschreibers (der lateinische Titel <term type="juridical">protonotarius
 judicii</term> klingt etwas stattlicher) antrugen, ein Amt, welches in jener
 Zeit wissenschaftliche Bildung erforderte. Nur mit Widerstreben nahm er an, da
 er sich in Mainz gern eine Häuslichkeit gegründet hätte. Im folgenden
-   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_214.gif" n="214"/>]
+   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="214" facs="ln:drqi,jung_1889_214"/>]
 Jahre 1510 heiratete er in Frankfurt die Tochter des Bürgers und Geldverleihers
 <persName ref="">Peter Krotzenberger</persName>.</p>
   <p>
@@ -133,7 +133,7 @@ Anregung abgesehen hatte, bildete das von <persName ref="">Lionardo
 Aretino</persName> ins Lateinische übertragene Buch <persName ref="">Basilius
 des Grossen</persName> über das Lesen der heidnischen Schriftsteller. In einem
 Jahre hatte ihn der Vater
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_215.gif" n="215"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="215" facs="ln:drqi,jung_1889_215"/>]
 so weit gebracht, dass er ihn dem Leiter der am Kollegiatstift zu St. Leonhard
 bestehenden Schule, <persName ref="">Johann Espach</persName>, anvertrauen
 konnte, da seine eigenen Kenntnisse wohl nicht genügten, die sprachliche
@@ -173,7 +173,7 @@ als fertige Lateiner und Griechen; mit Stolz beruft sich Fichard auf seine
 Schulhefte, welche seine philologische Gewandtheit im Anfertigen von Reden und
 Gedichten beweisen sollten und die er seinen Kindern zur Nachahmung aufbewahren
 wollte. Noch besitzen
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_216.gif" n="216"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="216" facs="ln:drqi,jung_1889_216"/>]
     wir eine Elegie Micylls an seinen jungen Schüler, die von dessen Fleiss und
 Lernbegierde das schönste Zeugniss ablegt. Fichard hatte den Lehrer gebeten, in
 besonderen Lektionen ausserhalb der Schulstunden mit ihm den <persName ref="">Homer</persName>
@@ -208,14 +208,14 @@ gut angewendeten Zeit. Ein späterer Biograph berichtet, Fichard habe auf der
 Hochschule Alles hören wollen und sich nicht nur mit der Jurisprudenz und den
 schönen Wissenschaften, sondern auch mit den ihm fernerliegenden theologischen
 und medizinischen Disziplinen befasst.
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_217.gif" n="217"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="217" facs="ln:drqi,jung_1889_217"/>]
 Diese Liebhabereien des Sohnes waren wenig nach dem Sinne des Vaters, der die
 ausschliessliche Beschäftigung mit dem juristischen Fachstudium wünschte; doch
 hat er diese unter Leitung von <persName ref="">Werner von Themar</persName>,
 <persName ref="">Pfau</persName>, <persName ref="">Bauttenbach</persName> und
 <persName ref="">Dym</persName> nicht vernachlässigt. Nach des Grynaeus Abgang
 nach Basel blieb Fichard noch einige Zeit in Heidelberg; doch zwang ihn die im Herbst 1529 auftauchende Seuche, der Englische Schweiss, welcher damals in den Rheingegenden und auch während der Herbstmesse in Frankfurt wütete, bei dem kurfürstlichen Leibarzt <persName ref="">Johannes Locer</persName> Zuflucht zu suchen; in dessen Haus (wohl bei Heidelberg) blieb er bis Ostern 1530. Dem Wunsche des Vaters gemäss wandte er sich dann nach Freiburg im Breisgau, um hier den berühmtesten Rechtslehrer seiner Zeit, <ref target="http://de.wikipedia.org/wiki/Ulrich Zasius">Ulrich Zasius</ref>, zu hören.<note xml:id="n217.1" type="footnote" n="217.1">Vgl. <ref target="">R. Stintzing, Ulrich Zasius, S. 286</ref>, in welchem Buche sich auch Angaben über die anderen hier erwähnten Rechtsgelehrten jener Zeit finden.</note> Gern hätte er in dessen
-    Hause Aufnahme als Konviktschüler gefunden, um dem berühmten Lehrer möglichst nahe zu sein; da aber Zasius keinen Raum mehr hatte und auch bald seinen Konvikt aufgab, wohnte er zuerst bei dem Arzt <persName ref="">Frauenfelder</persName> und dann bei seinem Studiengenossen <ref target="">Johann Sichard</ref>, der zuerst Lehrer der Rhetorik an der Baseler Universität gewesen war, sich aber dann nach Freiburg zum Studium der Jurisprudenz begeben hatte. In Freiburg traf er auch seinen Jugendfreund, den Patrizier <persName ref="http://de.wikipedia.org/wiki/Conrad_von_Humbracht">Konrad Humbracht</persName>, der sich hier ebenfalls dem Rechtsstudium widmete.<note xml:id="n217.2" type="footnote" n="217.2">Ueber die Freundschaft der beiden jugendlichen Landsleute auf der Hochschule besitzen wir in den Glauburgschen Manuskripten des Stadtarchivs von 1554 einige interessante Zeugnisse in einem Briefe des Liebfrauen-Kanonikers <persName ref="">Johann Humbracht</persName> an seinen Neffen mit Nachschrift an Fichard und besonders in einem Schreiben <persName ref="">Konrad Humbrachts</persName> an Fichards Vater. In jugendlicher Ueberschwänglichkeit lobt Konrad den Freund; neidlos dessen künftige Grösse voraussehend, schreibt er: <foreign>autem filius tuus est eumque se in literis hactenus praestitit, ut solus hie nostram rempublicam suis consiliis sustentaturus tanquam humeris videatur</foreign>.</note> Schon im Herbst, als die Pest sich Freiburg näherte, ging Fichard mit mehreren Freunden nach Basel, wo sein früherer Lehrer <persName ref="http://de.wikipedia.org/wiki/Simon_Grynaeus">Grynaeus</persName> wirkte; von Freiburg aus hatte er ihn schon besucht und für dessen Uebersetzung des <persName ref="">Dio Chrysostomus</persName> bereits einen Beitrag geliefert. Neben diesem hörte er in Basel den Professor der Pandekten, <ref target="http://de.wikipedia.org/wiki/Bonifacius Amerbach">Bonifacius Amerbach</ref>, dem seine Zeit den Beinamen des Orakels der Jurisprudenz gegeben hat. Auf seine religiöse Anschauung scheint ein näherer Verkehr mit <ref target="http://de.wikipedia.org/wiki/Johannes_Oekolampad">Oecolampadius</ref> ohne bedeutenderen Einfluss geblieben zu sein; noch wurzelte der junge Fichard zu fest in dem altgläubigen Elternhause. In diese Zeit fällt denn auch die erste litterarische Tätigkeit Fichards. Auf Veranlassung seines Hauswirtes, des Buchdruckers  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_218.gif" n="218"/>] <persName ref="http://de.wikipedia.org/wiki/Andreas_Cratander">Andreas Cratander</persName>, der die Schriften des griechischen Arztes <persName ref="http://de.wikipedia.org/wiki/Galen">Galen</persName> drucken wollte, lieferte er Uebersetzungen von sechs kleineren Abhandlungen desselben, eine Arbeit, auf die er später mit Reue zurückblickte, da er anerkennen musste, dass er ihr in
+    Hause Aufnahme als Konviktschüler gefunden, um dem berühmten Lehrer möglichst nahe zu sein; da aber Zasius keinen Raum mehr hatte und auch bald seinen Konvikt aufgab, wohnte er zuerst bei dem Arzt <persName ref="">Frauenfelder</persName> und dann bei seinem Studiengenossen <ref target="">Johann Sichard</ref>, der zuerst Lehrer der Rhetorik an der Baseler Universität gewesen war, sich aber dann nach Freiburg zum Studium der Jurisprudenz begeben hatte. In Freiburg traf er auch seinen Jugendfreund, den Patrizier <persName ref="http://de.wikipedia.org/wiki/Conrad_von_Humbracht">Konrad Humbracht</persName>, der sich hier ebenfalls dem Rechtsstudium widmete.<note xml:id="n217.2" type="footnote" n="217.2">Ueber die Freundschaft der beiden jugendlichen Landsleute auf der Hochschule besitzen wir in den Glauburgschen Manuskripten des Stadtarchivs von 1554 einige interessante Zeugnisse in einem Briefe des Liebfrauen-Kanonikers <persName ref="">Johann Humbracht</persName> an seinen Neffen mit Nachschrift an Fichard und besonders in einem Schreiben <persName ref="">Konrad Humbrachts</persName> an Fichards Vater. In jugendlicher Ueberschwänglichkeit lobt Konrad den Freund; neidlos dessen künftige Grösse voraussehend, schreibt er: <foreign>autem filius tuus est eumque se in literis hactenus praestitit, ut solus hie nostram rempublicam suis consiliis sustentaturus tanquam humeris videatur</foreign>.</note> Schon im Herbst, als die Pest sich Freiburg näherte, ging Fichard mit mehreren Freunden nach Basel, wo sein früherer Lehrer <persName ref="http://de.wikipedia.org/wiki/Simon_Grynaeus">Grynaeus</persName> wirkte; von Freiburg aus hatte er ihn schon besucht und für dessen Uebersetzung des <persName ref="">Dio Chrysostomus</persName> bereits einen Beitrag geliefert. Neben diesem hörte er in Basel den Professor der Pandekten, <ref target="http://de.wikipedia.org/wiki/Bonifacius Amerbach">Bonifacius Amerbach</ref>, dem seine Zeit den Beinamen des Orakels der Jurisprudenz gegeben hat. Auf seine religiöse Anschauung scheint ein näherer Verkehr mit <ref target="http://de.wikipedia.org/wiki/Johannes_Oekolampad">Oecolampadius</ref> ohne bedeutenderen Einfluss geblieben zu sein; noch wurzelte der junge Fichard zu fest in dem altgläubigen Elternhause. In diese Zeit fällt denn auch die erste litterarische Tätigkeit Fichards. Auf Veranlassung seines Hauswirtes, des Buchdruckers  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="218" facs="ln:drqi,jung_1889_218"/>] <persName ref="http://de.wikipedia.org/wiki/Andreas_Cratander">Andreas Cratander</persName>, der die Schriften des griechischen Arztes <persName ref="http://de.wikipedia.org/wiki/Galen">Galen</persName> drucken wollte, lieferte er Uebersetzungen von sechs kleineren Abhandlungen desselben, eine Arbeit, auf die er später mit Reue zurückblickte, da er anerkennen musste, dass er ihr in
 seinem jugendlichen Alter wenig gewachsen war.</p>
   <p>
     Die erste Zeit seines Aufenthaltes in Basel wurde durch die Trauernachrichten, die er von Frankfurt empfing, sehr getrübt. Anfang Oktober 1530 starben seine drei jüngsten Geschwister an der Pest, und zwei Wochen später folgte der Vater den Kindern im Tode nach. Nach der Schilderung, die uns Fichard von dem Verstorbenen gibt, war er ein Mann von frommer und ehrenhafter Gesinnung, ganz seiner Familie lebend, stets bestrebt, seinen Söhnen eine Erziehung zu geben, die sie im öffentlichen Leben auf eine höhere Stufe heben könnte, als er erreicht hatte, der oft klagte, dass er sich durch Annahme des von ihm verwalteten Amtes den Weg zu höheren Zielen abgeschnitten habe. Seine letzten Lebensjahre wurden ihm verbittert durch den Hass der Mitbürger, welcher ihm, dem eifrigen Anhänger der katholischen Religion und scharfen Gegner der evangelischen Partei,<note xml:id="n218.1" type="footnote" n="218.1">Eine interessante Notiz darüber auch bei <ref target="http://pollux.bsz-bw.de/DB=2.1/PPNSET?PPN=318853663">Steitz, Königstein</ref>, S. 208.</note> in reichlichem Maasse zu Teil wurde. An Fichard trat jetzt auch die Sorge für seine Mutter und Brüder heran; denn auch einen Bruder der Mutter hatte die Pest dahingerafft.<note xml:id="n218.2" type="footnote" n="218.2">Vgl. über diese Todesfälle die Annalen in <ref target="">Fichards Archiv I, 27</ref>.</note> Da von zehn Kindern der Mutter nur noch drei Söhne geblieben waren,
@@ -233,7 +233,7 @@ umsehen, müsse aber jeder Zeit einer Berufung des Rates Folge leisten. So
 lästig Fichard auch diese Verpflichtung empfand, zwingende Gründe müssen ihn
 veranlasst haben, sie auf sich zu nehmen; doch tat er es mit der Absicht,
 dieses Joch bei erster Gelegenheit abzuschütteln,
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_219.gif" n="219"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="219" facs="ln:drqi,jung_1889_219"/>]
 und in der Tat dankte er schon im folgenden Herbste für die Güte des Rates mit
 dem Bemerken, er brauche sie nicht länger in Anspruch zu nehmen und wolle auch
 Bedürftigeren nicht im Wege stehen. Er hatte übrigens, wie er versichert und
@@ -275,7 +275,7 @@ mit Sichard, der ihn dazu veranlasst hatte, als Doktor beider Rechte. Diese
 frühzeitige Promotion — er stand damals im achten Semester, zählte aber kaum 19
 1/2 Jahre — tadelte er selbst später mit herben Worten: er sei dadurch zu frühe
 seinen Studien entrissen worden, habe dazu finanzielle Verpflichtungen eingehen
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_220.gif" n="220"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="220" facs="ln:drqi,jung_1889_220"/>]
 müssen, die über seine Verhältnisse gingen,<note xml:id="n220.1" type="footnote" n="220.1">Wie des
 Canonicus <persName ref="">Konrad Fichard</persName> (+ 1547) Testament zeigt,
 hatte er bei dessen Tod noch nicht Alles zurückgezahlt.</note> und sei endlich
@@ -303,7 +303,7 @@ Hause. Er durfte es als glückliches Omen betrachten, dass er in dem ersten ihm
 übertragenen Prozess der Sache seines Klienten, die schon von allen Seiten
 aufgegeben war, zu einem vollständigen Siege verhalf. Doch war es zunächst
 nicht seine Absicht, sich als Anwalt in der Vaterstadt niederzulassen. Er
-wandte sich ans Reichskammergericht zu Speyer, in jener Zeit die praktische Hochschule für die deutschen Juristen, und liess sich hier am <date when="1532-06-15">15. Juni</date> unter die Advokaten des höchsten Gerichtshofes aufnehmen. Er hatte das Glück, von dem ältesten und tüchtigsten Prokurator, dem rechtsgelehrten Berater der Stadt Frankfurt, <persName ref="">Dr. Konrad von Schwapach</persName>,<note xml:id="n220.2" type="footnote" n="220.2">Vgl. über ihn <ref target="">Lersner IV, 209</ref>.</note> ihm als Landsmann und Freund seines verstorbenen Vaters doppelt wert, in die forensische Praxis eingeführt zu werden; mit dem Sohne des Meisters, der auch bereits die Stelle eines Prokurators erlangt hatte, verband ihn eine innige Freundschaft. Als der ältere Schwapach Ende des Jahres 1532 eine längere Reise antrat, beauftragte er Fichard,   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_221.gif" n="221"/>] der mit seiner advokatorischen Praxis vollständig vertraut war, nebst einem anderen Kollegen mit seiner Stellvertretung. Schwapach kehrte nicht wieder; er wurde auf der Reise von plötzlichem Tode ereilt. Fichard bewarb sich mit vier anderen jungen Juristen um die erledigte Stelle; da das Kollegium der Assessoren sich auf keinen der Bewerber einigen konnte, empfahl es den alljährlich im Mai anwesenden Visitatoren des Gerichtes, alle vier zu Prokuratoren zu ernennen, was denn auch am <date when="1533-05-23">23. Mai 1533</date> erfolgte.</p>
+wandte sich ans Reichskammergericht zu Speyer, in jener Zeit die praktische Hochschule für die deutschen Juristen, und liess sich hier am <date when="1532-06-15">15. Juni</date> unter die Advokaten des höchsten Gerichtshofes aufnehmen. Er hatte das Glück, von dem ältesten und tüchtigsten Prokurator, dem rechtsgelehrten Berater der Stadt Frankfurt, <persName ref="">Dr. Konrad von Schwapach</persName>,<note xml:id="n220.2" type="footnote" n="220.2">Vgl. über ihn <ref target="">Lersner IV, 209</ref>.</note> ihm als Landsmann und Freund seines verstorbenen Vaters doppelt wert, in die forensische Praxis eingeführt zu werden; mit dem Sohne des Meisters, der auch bereits die Stelle eines Prokurators erlangt hatte, verband ihn eine innige Freundschaft. Als der ältere Schwapach Ende des Jahres 1532 eine längere Reise antrat, beauftragte er Fichard,   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="221" facs="ln:drqi,jung_1889_221"/>] der mit seiner advokatorischen Praxis vollständig vertraut war, nebst einem anderen Kollegen mit seiner Stellvertretung. Schwapach kehrte nicht wieder; er wurde auf der Reise von plötzlichem Tode ereilt. Fichard bewarb sich mit vier anderen jungen Juristen um die erledigte Stelle; da das Kollegium der Assessoren sich auf keinen der Bewerber einigen konnte, empfahl es den alljährlich im Mai anwesenden Visitatoren des Gerichtes, alle vier zu Prokuratoren zu ernennen, was denn auch am <date when="1533-05-23">23. Mai 1533</date> erfolgte.</p>
 <p>Fichard hatte, wie wir sahen, sich auf der Universität dem studentischen
 Treiben vollständig ferne gehalten, nur der Wissenschaft in und ausser dem
 Hörsaal gelebt; jetzt erst, nachdem er in amtliche Stellung übergegangen, trat
@@ -333,7 +333,7 @@ Herbstmesse siedelte er nach Frankfurt über und trat am <date when="1533-09-24"
 September 1533</date> sein Amt an, in welchem er
 zusammen mit seinem älteren Kollegen <persName ref="">Dr. Adolf
 Knoblauch</persName> wirkte; er stand damals im  jugendlichen Alter von
-   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_222.gif" n="222"/>]
+   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="222" facs="ln:drqi,jung_1889_222"/>]
 21 1/4 Jahr.<note xml:id="n222.1" type="footnote" n="222.1">B. B. 1533, fol. 29b, 39a, 57b, 64b.
 Nach dem Rechenbuch 1533 erhielt er vierteljährlich 27 1/2 Gulden oder 33 lb.
 Heller, Knoblauch 30 Gulden oder 36 ß.</note> Was der Vater einst für den Sohn
@@ -371,7 +371,7 @@ entschiedenste verdammt; er bezeichnete sie noch später, als er durch keine
 Rücksichten mehr an die katholische Kirche gebunden war, als unverschämte
 Neuerungen, die sein verstorbener Vater laut und offen verdammt haben würde;
 ihm natürlich
-   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_223.gif" n="223"/>]
+   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="223" facs="ln:drqi,jung_1889_223"/>]
 verboten praktische Gründe die Opposition gegen die kirchenfeindlichen, vom
 Volke geforderten Massregeln wider den katholischen Clerus.</p>
 <p>
@@ -397,7 +397,7 @@ Weise dauernd an seine Vaterstadt zu fesseln; doch hatte er keine Lust zum
 Heiraten, weil er einesteils sich noch für zu unreif zu diesem ernsten Schritte
 hielt, andernteils noch an seiner weiteren Ausbildung arbeiten wollte. Denn
 allenthalben, so versichert er, habe er in seiner amtlichen Beschäftigung
-   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_224.gif" n="224"/>]
+   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="224" facs="ln:drqi,jung_1889_224"/>]
 gemerkt, wie sehr ihm noch Kenntniss und Erfahrung in vielen politischen Dingen
 abgehe, die durch noch so langes Studium nicht zu ersetzen seien. Es wurmte
 ihn, dass er noch an keinem Hofe, in keiner grösseren Kanzlei die Hochschule
@@ -432,7 +432,7 @@ früheren Wirkungskreise vermissen werde. Nachdem er seine Angelegenheiten
 geordnet, reiste er am <date when="1536-04-28">28. April 1536</date> von
 Frankfurt ab; bis zum zweiten Meilensteine vor der Stadt gaben ihm die Freunde
 das übliche Geleit.
- [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_225.gif" n="225"/>]</p>
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="225" facs="ln:drqi,jung_1889_225"/>]</p>
             </div>
             <div xml:id="P.3">
 <head>2. Italienische Reise.</head>
@@ -471,7 +471,7 @@ Siena lehrte. 1478 sehen wir dann den älteren Johann von Glauburg zum
 Lichtenstein, der die lange Reihe der wissenschaftlich hervorragenden
 Glauburger eröffnet, in Pavia zum Doktor beider Rechte promovieren. 1490 zog
 <persName ref="">Hammann von Holzhausen</persName>,
- [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_226.gif" n="226"/>]
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="226" facs="ln:drqi,jung_1889_226"/>]
   der bedeutendste Staatsmann Frankfurts im ersten Drittel des 16.
 Jahrhunderts, mit <persName ref="">Jakob Kuehorn</persName> nach Italien; der
 erstere brachte von dort einen päpstlichen Indulgenzbrief für seine
@@ -510,7 +510,7 @@ seine wohl in Italien geknüpfte Freundschaft mit <ref target="http://de.wikiped
 von Hutten</ref>,<note xml:id="n226.4" type="footnote" n="226.4">
                         <ref target="">Archiv, N. F. IV, 60</ref>.</note> in Pavia, woselbst sich mehrere Glauburger
 akademische Titel geholt haben. Um dieselbe Zeit war auch <ref target="http://de.wikipedia.org/wiki/Johannes_Cochlaeus">Johann Cochlaeus</ref>, der spätere Dechant am Frankfurter Liebfrauenstift, als Begleiter der Neffen des Nürnberger Humanisten <ref target="http://de.wikipedia.org/wiki/Willibald Pirckheimer">Willibald Pirckheimer</ref> im Süden, wo er
-damals noch lediglich nach seiner wissenschaftlichen Ausbildung in Jurisprudenz  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_227.gif" n="227"/>] und Theologie strebte; seine Briefe gewähren uns einen tiefen Einblick in das Thun und Treiben dieser humanistischen Italienfahrer.<note xml:id="n227.1" type="footnote" n="227.1">
+damals noch lediglich nach seiner wissenschaftlichen Ausbildung in Jurisprudenz  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="227" facs="ln:drqi,jung_1889_227"/>] und Theologie strebte; seine Briefe gewähren uns einen tiefen Einblick in das Thun und Treiben dieser humanistischen Italienfahrer.<note xml:id="n227.1" type="footnote" n="227.1">
                         <ref target="">Archiv, N. F. IV, 95 ff.</ref>
                     </note> Auffallend erscheint, dass <persName ref="">Johann von
 Glauburg</persName> und <persName ref="">Justinian von
@@ -529,13 +529,13 @@ Ebendort wurde ein Neffe Krafts der Stammvater eines vollständig italianisirten
 Zweiges der Familie Stalburger, welcher dort zu hohem Ansehen und Reichtum
 gelangte.<note xml:id="n227.2" type="footnote" n="227.2">Vgl. <ref target="">Heyden im Frankf. Konversationsblatt 1862 Nr. 48 — 50</ref>.</note> Mit Kraft traf <persName ref="">Hieronymus von Glauburg</persName> in Oberitalien zusammen, welcher am <date when="1536-04-10">10. April 1536</date> in Pavia promovierte; noch ist uns der Brief, in welchem er voll stolzen Selbstbewusstseins dem älteren Bruder Johann die freudige Nachricht mittheilt, erhalten.<note xml:id="n" type="crit_app" n="">
                         <ref target="">Fichards Archiv II, 131 ff.</ref>
-                    </note> Um diese Zeit finden wir aber auch schon unsere Landsleute auf französischen Hochschulen, die unter dem den humanistischen wie den theologischen und juristischen Studien gleich holden Regimente Franz' I. mächtig emporgeblüht waren. <persName ref="">Konrad Humbracht</persName>, auch einer der einflussreichsten Staatsmänner unserer Stadt um die Mitte des 16. Jahrhunderts, studierte 1536 in Bourges und promovierte drei Jahre später in Bologna; Fichards jüngerer Bruder Kaspar erwarb zehn Jahre später in Frankreich den Doktorhut. In den fünfziger Jahren ging <persName ref="">Adolf von Glauburg</persName>, bekannt durch seine astrologischen Grillen, nach Bologna und hielt sich dann nach erfolgter Promotion in Rom und Neapel auf; <persName ref="">Johann von Glauburg</persName> aber besuchte vor seiner Promotion in Bologna die französischen Hochschulen zu Orleans und Avignon. Fichards ältester und der geistigen Bedeutung des Vaters am nächsten kommender Sohn, Raimund Pius, um dies hier vorgreifend zu erwähnen, lebte zuerst in Valence, Bourges und Orleans, studierte sodann 1562 mit seinen Landsleuten <persName ref="">Heinrich Kellner</persName> und <persName ref="">Bernhard Kuehorn</persName> in Padua, unter dessen Studentenschaft er als Wortführer der deutschen Nation eine gewisse Rolle spielte, und  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_228.gif" n="228"/>]
+                    </note> Um diese Zeit finden wir aber auch schon unsere Landsleute auf französischen Hochschulen, die unter dem den humanistischen wie den theologischen und juristischen Studien gleich holden Regimente Franz' I. mächtig emporgeblüht waren. <persName ref="">Konrad Humbracht</persName>, auch einer der einflussreichsten Staatsmänner unserer Stadt um die Mitte des 16. Jahrhunderts, studierte 1536 in Bourges und promovierte drei Jahre später in Bologna; Fichards jüngerer Bruder Kaspar erwarb zehn Jahre später in Frankreich den Doktorhut. In den fünfziger Jahren ging <persName ref="">Adolf von Glauburg</persName>, bekannt durch seine astrologischen Grillen, nach Bologna und hielt sich dann nach erfolgter Promotion in Rom und Neapel auf; <persName ref="">Johann von Glauburg</persName> aber besuchte vor seiner Promotion in Bologna die französischen Hochschulen zu Orleans und Avignon. Fichards ältester und der geistigen Bedeutung des Vaters am nächsten kommender Sohn, Raimund Pius, um dies hier vorgreifend zu erwähnen, lebte zuerst in Valence, Bourges und Orleans, studierte sodann 1562 mit seinen Landsleuten <persName ref="">Heinrich Kellner</persName> und <persName ref="">Bernhard Kuehorn</persName> in Padua, unter dessen Studentenschaft er als Wortführer der deutschen Nation eine gewisse Rolle spielte, und  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="228" facs="ln:drqi,jung_1889_228"/>]
 promovierte ein Jahr später in Ferrara. Zwei jüngere Söhne, welche der Vater zehn Jahre später zum Studium über die Alpen gesandt hatte, fanden dort ein frühes Grab: <persName ref="">Christoph Fichard</persName> starb 20jährig in Padua, zwei Landsleute, <persName ref="">Johann Philipp Völcker</persName> und <persName ref="">Nicolaus Rücker</persName>, erst wenige Tage vor seinem Ableben aus der Heimat eingetroffen, standen am Sterbelager und sandten die Trauerkunde nach Hause; zwei Jahre darauf starb der jüngere Bruder Johann Jakob in Este. Gegen Ende des Jahrhunderts reisen die jungen Frankfurter nur noch vereinzelt nach Italien; als einen der letzten finde ich den als Arzt und Staatsmann später so berühmt gewordenen <persName ref="">Johann Hartmann Beyer</persName>, dessen aus Padua nach Hause geschriebenen Briefe wir noch besitzen.<note xml:id="n228.1" type="footnote" n="228.1">In einer Handschrift der Stadtbibliothek.</note>
                 </p>
 <p>
   Von nun ab wird es, ich möchte sagen, Mode, nach Frankreich, Holland oder auch England zu gehen, um dort die Jugendbildung zum Abschluss zu bringen. Die
 Blüthe der französischen Hochschulen war im stürmischen Zeitalter der Religionskriege unberührt geblieben, die folgende Regierung <persName ref="">Heinrichs
-IV.</persName>, die dem Lande Ruhe im Innern, Macht und Glanz nach Aussen verschaffte, brachte auch den Studien glückliche Zeiten; in den Niederlanden hatte sich in hartem Kampfe mit der spanischen Zwingherrschaft die junge Republik kräftig entwickelt, welche jetzt auch der Wissenschaft eine neue würdige Stätte bei sich bereitete und zur Erinnerung an den schwersten und ruhmvollsten Freiheitskampf die Leydener Hochschule stiftete; England endlich erfreute sich seines goldenen Zeitalters unter der Herrschaft der jungfräulichen Königin. Dieser Zug nach Westen zeigt sich schon um die Mitte des Jahrhunderts; die zahlreichen Söhne und Enkel <persName ref="">Justinians von Holzhausen</persName> wie viele andere dieses Geschlechts haben schon ihre Bildung in Frankreich empfangen. Das rein humanistische Interesse war eben allmählich erstorben, zudem hatte eine streng durchgeführte Inquisition den italienischen Hochschulen das freie wissenschaftliche Leben benommen, das Land für den Fremden, der dort seines Glaubens halber manche Belästigung erdulden musste, zu einem unangenehmen Aufenthalte gemacht; Dank der Gegenreformation wurde Italien, nachdem es über ein Jahrhundert lang die Blüthe der nordischen Nationen bei sich erzogen hatte, von den Fremden verlassen. Was Italien nicht mehr bieten konnte, gaben jetzt Frankreich und die Niederlande; das erstere hatte sich zu einem guten Teil, das zweite vollständig unter harten Kämpfen der neuen Lehre zugewandt, beide waren erfüllt von frischem freiem Leben in  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_229.gif" n="229"/>] Kunst und Wissenschaft, in Handel und Verkehr. Niederländer und Franzosen, die ihres Glaubens willen verfolgt waren, hatten sich um die Mitte des Jahrhunderts in Frankfurt niedergelassen und hier eine angesehene Kolonie gegründet; daher mögen denn für die jungen Frankfurter manche Anregungen gekommen sein, sich in der Heimat der Vertriebenen umzusehen. Was im besonderen die Wanderungen nach Frankreich anbelangt, so beachte man, dass schon damals, d. h. gegen die Wende des 16. und 17. Jahrhunderts, dieses Land das Vorbild für das feinere gesellige Leben zu geben begann, woselbst die jungen Leute nicht nur in den Hörsälen sitzen, die Sprache erlernen, sondern auch einen gewissen gesellschaftlichen Schliff sich aneignen sollten.</p>
+IV.</persName>, die dem Lande Ruhe im Innern, Macht und Glanz nach Aussen verschaffte, brachte auch den Studien glückliche Zeiten; in den Niederlanden hatte sich in hartem Kampfe mit der spanischen Zwingherrschaft die junge Republik kräftig entwickelt, welche jetzt auch der Wissenschaft eine neue würdige Stätte bei sich bereitete und zur Erinnerung an den schwersten und ruhmvollsten Freiheitskampf die Leydener Hochschule stiftete; England endlich erfreute sich seines goldenen Zeitalters unter der Herrschaft der jungfräulichen Königin. Dieser Zug nach Westen zeigt sich schon um die Mitte des Jahrhunderts; die zahlreichen Söhne und Enkel <persName ref="">Justinians von Holzhausen</persName> wie viele andere dieses Geschlechts haben schon ihre Bildung in Frankreich empfangen. Das rein humanistische Interesse war eben allmählich erstorben, zudem hatte eine streng durchgeführte Inquisition den italienischen Hochschulen das freie wissenschaftliche Leben benommen, das Land für den Fremden, der dort seines Glaubens halber manche Belästigung erdulden musste, zu einem unangenehmen Aufenthalte gemacht; Dank der Gegenreformation wurde Italien, nachdem es über ein Jahrhundert lang die Blüthe der nordischen Nationen bei sich erzogen hatte, von den Fremden verlassen. Was Italien nicht mehr bieten konnte, gaben jetzt Frankreich und die Niederlande; das erstere hatte sich zu einem guten Teil, das zweite vollständig unter harten Kämpfen der neuen Lehre zugewandt, beide waren erfüllt von frischem freiem Leben in  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="229" facs="ln:drqi,jung_1889_229"/>] Kunst und Wissenschaft, in Handel und Verkehr. Niederländer und Franzosen, die ihres Glaubens willen verfolgt waren, hatten sich um die Mitte des Jahrhunderts in Frankfurt niedergelassen und hier eine angesehene Kolonie gegründet; daher mögen denn für die jungen Frankfurter manche Anregungen gekommen sein, sich in der Heimat der Vertriebenen umzusehen. Was im besonderen die Wanderungen nach Frankreich anbelangt, so beachte man, dass schon damals, d. h. gegen die Wende des 16. und 17. Jahrhunderts, dieses Land das Vorbild für das feinere gesellige Leben zu geben begann, woselbst die jungen Leute nicht nur in den Hörsälen sitzen, die Sprache erlernen, sondern auch einen gewissen gesellschaftlichen Schliff sich aneignen sollten.</p>
 <p>
 Von den vielen Frankfurter Romfahrern seiner Zeit ist Johann Fichard der
 einzige, welcher Aufzeichnungen über seine italienische Reise hinterlassen hat.
@@ -561,7 +561,7 @@ kannte, hat die ewige Stadt nicht sich angesehen, er hat sie an der Hand der
 damaligen archäologischen Litteratur studiert; auf Schritt und Tritt fragt er
 sich: was hat zu Zeiten des alten Rom an dieser Stelle gestanden? Bei jeder
 Stadt zählt er die Sehenswürdigkeiten auf mit stetem Hinblick
- [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_230.gif" n="230"/>]
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="230" facs="ln:drqi,jung_1889_230"/>]
 auf die antike Bedeutung. Von der Kunstblüthe der Renaissance ist Fichard, der
 so ganz im Altertum lebte, gar nicht berührt worden; mit Anerkennung spricht er
 allenfalls noch von architektonischen Werken seiner Zeit, aber für Skulptur und
@@ -601,7 +601,7 @@ Deutschen, von denen es auf den häufigen Truppendurchmärschen viel zu leiden
 hatte, nicht wenig erbittert war. Mit dem Heere zu marschiren, war allerdings
 ein geringes Vergnügen; man kam nur langsam vorwärts, obwohl es Fichard zur
 Eile drängte,
- [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_231.gif" n="231"/>]
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="231" facs="ln:drqi,jung_1889_231"/>]
 und dieser musste öfter den Sitten des Lagerlebens seinen Tribut zollen, als
 ihm lieb war. In gemächlichem Tempo gings den Gardasee entlang über Peschiera
 nach Brescia; hier konnte er sich vom Heere trennen und in Gesellschaft eines
@@ -639,7 +639,7 @@ abzuwarten; in der Zwischenzeit herrschte ein reges Treiben am Hofe, Gesandte
 kamen und gingen, die diplomatischen Geschäfte sollten möglichst vor Antritt
 des Weitermarsches erledigt werden. Als dann endlich der Kaiser zum Einfall
 nach Südfrankreich und zur Belagerung von Marseille aufbrechen
- [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_232.gif" n="232"/>]
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="232" facs="ln:drqi,jung_1889_232"/>]
 wollte, rieth der Vizekanzler Held Fichard dringend ab, den Hof noch weiter zu
 begleiten; er könne, da die Tätigkeit der Kanzlei stille stehen müsse, seine
 Zeit besser anwenden. So entschloss er sich denn seine Wanderung durch Italien
@@ -677,7 +677,7 @@ Landes durch die Türken die Engel hierher getragen haben sollen. Der frommen
 Sage steht Fichard skeptisch gegenüber, doch liegt ihm jeder Spott darüber
 fern; er erkennt an, dass der Ort geeignet sei, religiöse Gefühle zu wecken.
 Von hier aus ging er über den Apennin
-     [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_233.gif" n="233"/>]
+     [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="233" facs="ln:drqi,jung_1889_233"/>]
 und durch Umbrien direkt nach Rom, wo er gegen Mitte September eintraf; er
 blieb aber nicht lange hier, sondern wandte sich über Gaeta nach Neapel, wohl
 weil er die eingehende Besichtigung der Stadt in einer kühleren Zeit vornehmen
@@ -714,7 +714,7 @@ geschrieben, durchwanderte er die Stadt, immer Antike und Jetztzeit
 vergleichend; er notierte sich gewissenhaft den gegenwärtigen Zustand der
 Stadt, besonders der Ruinen, und bemerkte, ohne sich aber auf weitgehende
 archäologische Ausführungen oder Vermutungen einzulassen
-  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_234.gif" n="234"/>]
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="234" facs="ln:drqi,jung_1889_234"/>]
 lassen, welche Bedeutung die betreffende Stelle im Altertume gehabt hatte.
 Fichard kam zu einer Zeit nach Rom, zu welcher man der Stadt noch allzu
 deutlich die Spuren des neun Jahre vorher über sie hereingebrochenen Unwetters
@@ -752,7 +752,7 @@ Oktober auf den Rückweg; da er auf der Herreise längs des Adriatischen Meeres
 und durch Umbrien gekommen war, beschloss er jetzt, Toscana zu durchwandern.
 Ueber Viterbo gings nach Siena, der stolzen Adelsrepublik, welche damals kurz
 vor
-  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_235.gif" n="235"/>]
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="235" facs="ln:drqi,jung_1889_235"/>]
 dem Verlust ihrer Unabhängigkeit an Florenz von den herrschenden Petrucci
 prächtig geschmückt wurde; das Forum mit dem mächtigen Staatspalast, der
 herrliche Dom und auch die schönen Frauen waren hier die Anziehungspunkte für
@@ -792,7 +792,7 @@ dorthin auf die Universität gebracht hatte; nebenbei war er von seinen
 Ratsfreunden beauftragt, für die Stadt Memmingen einen tüchtigen
 Rechtsgelehrten anzuwerben. Fichard, der bereits auch anderweitige
 Verhandlungen eingeleitet hatte, lehnte
-  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_236.gif" n="236"/>]
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="236" facs="ln:drqi,jung_1889_236"/>]
 nicht ab, erbat sich aber eine zweimonatliche Bedenkzeit, um sich mit seinen
 Angehörigen in Frankfurt beraten zu können. Zu gleicher Zeit erhielt er einen
 Brief von <ref target="http://repertorium.at/sammlung/personen.html#Cantiuncula">Claudius Cantiuncula</ref>,
@@ -831,7 +831,7 @@ venetianischen Landstädtchen, dem sein berühmtester Sohn, der grosse Baumeiste
 <ref target="http://de.wikipedia.org/wiki/Andrea Palladio">Andrea Palladio</ref>, damals noch nicht jenes
 monumentale Gepräge aufgedrückt hatte, welches allein heute den Fremden
 hinzieht, nach Verona, dessen Arena, die besterhaltene Italiens,   er
-  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_237.gif" n="237"/>]
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="237" facs="ln:drqi,jung_1889_237"/>]
     eingehend studierte. Ueber Mantua kehrte er nach Padua zurück und trat dann
 sofort die Heimreise an; in Gesellschaft seines Freundes Thurzo, der ihm bis
 Treviso das Geleite gab, verliess er am <date when="1537-08-22">22. August
@@ -871,7 +871,7 @@ Vorschlag gebracht. Auch sein Gastfreund aus Innsbruck, der königliche Sekretä
 dass ihm als Wiener Professor der Weg in den königlichen Rat bald offen stehen
 werde. Aber Fichard lehnte die ihm angebotene Stellung ab in Rücksicht auf
 seine Mutter,
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_238.gif" n="238"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="238" facs="ln:drqi,jung_1889_238"/>]
    welche ihren Sohn nicht in dem so oft von den Türken bedrohten Wien wissen
 wollte. Bald scheiterten auch seine Verhandlungen mit Trier, teils weil er zu
 hohe Gehaltsansprüche stellte, teils weil ihm das »scythische« Hin- und
@@ -908,7 +908,7 @@ kam eine mütterliche Ermahnung, jetzt endlich seine Häuslichkeit in der Heimat
 zu gründen. Die Entscheidung muss Fichard einen schweren Kampf gekostet haben;
 auf der einen Seite lockte Italien mit seiner berühmten Hochschule, von der aus
 er leichter in eine höhere Laufbahn berufen werden konnte, auf
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_239.gif" n="239"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="239" facs="ln:drqi,jung_1889_239"/>]
 der anderen Seite die Vaterstadt, welche ihm die ehrenvolle und angesehene
 Stellung eines politischen Ratgebers anbot, und zu welcher ihn die Bande der
 Familie und der Freundschaft hinzogen. Um Pfingsten ging er nach Frankfurt; auf
@@ -953,7 +953,7 @@ Jahren auch sein Vater sich in Frankfurt verlobt hatte, feierte Fichard seine
 Verlobung mit Elisabeth Grünberger im Hause Justinians von Holzhausen; der
 Bräutigam stand im 27., die Braut im 20. Lebensjahre. Die Hochzeit, welche
 Fichard
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_240.gif" n="240"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="240" facs="ln:drqi,jung_1889_240"/>]
 eines hartnäckigen Fiebers halber länger hinausschieben musste, fand am <date when="1539-01-28">28.
 Januar 1539</date> statt.</p>
     <p>
@@ -999,7 +999,7 @@ wir heute fordern«.<note xml:id="n240.2" type="footnote" n="240.2">Vgl. Stintzi
 deutschen Rechtswissenschaft S. 592. Die Schrift ist <persName ref="">Claudius
 Pius Peutinger</persName> gewidmet.</note>
                 </p>
- <p> [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_241.gif" n="241"/>]
+ <p> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="241" facs="ln:drqi,jung_1889_241"/>]
  Im Januar 1541 ging Fichard im Auftrage der Stadt an den kaiserlichen Hof in
 Speyer, woselbst damals nach Beendigung des Wormser Religionsgespräches eine
 glänzende Schaar meist spanischer und italienischer Fürsten sich um den Kaiser
@@ -1034,7 +1034,7 @@ sehr zu überschätzen; dass die Konzepte der wichtigsten politischen Schreiben
 die Hand Fichards und der anderen Advokaten aufweisen, darf nicht auffallen:
 das war eine Hauptarbeit der Syndici, dazu brauchte man eben die präcise
 Schärfe des Juristen  mit der schlauen Gewandtheit des Diplomaten.</p>
- <p> [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_242.gif" n="242"/>]
+ <p> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="242" facs="ln:drqi,jung_1889_242"/>]
     Die uns erhaltenen Protokolle der mündlichen Verhandlungen in den
 Ratssitzungen geben leider den Gang der Debatte gar nicht oder nur selten und
 unvollkommen wieder, so dass sich die Einwirkung der einzelnen Ratsherren durch
@@ -1073,7 +1073,7 @@ Schmalkaldischen Generale, sie mit ihren Truppen aufzunehmen, nach langen
 Verhandlungen abwies; in diesen Geschäften mehr militärischer Natur finden wir
 Fichard nur wenig, am meisten <persName ref="">Justinian von
 Holzhausen</persName> tätig. Es gelang Büren, die Stellung seiner Feinde
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_243.gif" n="243"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="243" facs="ln:drqi,jung_1889_243"/>]
  bei Frankfurt im Norden zu umgehen, wobei er Bonames in Flammen aufgehen
 liess, und seinen Marsch an die Donau glücklich zu vollenden. Als dann im
 Winter das Heer der Verbündeten nach ruhmlosem Feldzuge nach Norddeutschland
@@ -1111,7 +1111,7 @@ vermeiden gedacht hatte. Nach mehrtägigen Verhandlungen, welche Fichards
 Kollege <persName ref="">Dr. zum Lamb</persName> mit dem kaiserlichen Feldherrn
 führte, musste die Stadt in die bedingungslose Aufnahme des ganzen Bürenschen
 Korps willigen. Am 23. Dezember
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_244.gif" n="244"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="244" facs="ln:drqi,jung_1889_244"/>]
  hatte Fichard mit seinen Begleitern die Stadt verlassen und kam nach
 mannigfachen Gefahren und Verzögerungen am <date when="1547-01-07">7. Januar
 1547</date> in das Hauptquartier Karls V. nach Heilbronn. Nachdem der Kaiser
@@ -1148,7 +1148,7 @@ einquartiert und bedrückte aufs schwerste die Bürgerschaft, die noch nie
 fremdes Militär in ihren Mauern gesehen hatte. Mit Büren als dem Vertreter der
 kaiserlichen Gewalt gab es jetzt lange Verhandlungen. Denn mit jenem
 erniedrigenden Schritte in Heilbronn war noch lange nicht
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_245.gif" n="245"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="245" facs="ln:drqi,jung_1889_245"/>]
 Alles vorüber; die Bürger mussten dem Grafen von Büren einen neuen
 Huldigungseid leisten, die Stadt musste, wie die anderen unterworfenen Orte,
 eine hohe Kontribution, 80,000 fl., erlegen und die schwer auf ihr lastende
@@ -1188,7 +1188,7 @@ zurücktreten.</p>
     <p>
   Die Erhebung der deutschen Fürsten unter Kurfürst <persName ref="">Moritz
 von Sachsen</persName> in Verbindung mit Frankreich gegen Karls V. ausschweifende
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_246.gif" n="246"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="246" facs="ln:drqi,jung_1889_246"/>]
 Pläne war anfangs vom glänzendsten Erfolg bekleidet; aber die langwierigen
 Verhandlungen in Linz und Passau stellten ihn wieder in Frage. Um sie zu
 beschleunigen, ihren Forderungen mehr Nachdruck zu geben, wandten sich die
@@ -1227,7 +1227,7 @@ das Verdienst Fichards. Als es dann im folgenden Frühjahr galt, sich am
 kaiserlichen Hof in Brüssel der hessischen Ansprüche zu erwehren, da ging
 Fichard wieder an den Hof, um historisch und juristisch das Recht seiner
 Vaterstadt darzu-
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_247.gif" n="247"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="247" facs="ln:drqi,jung_1889_247"/>]
 legen; nach langen Bemühungen gelang es ihm und den anderen Gesandten, die
 Anerkennung dieses Rechtes am Hof durchzusetzen. Bald darauf reiste Fichard
 nach Wien zu König Ferdinand, um mit ihm, der noch nachträglich die
@@ -1266,7 +1266,7 @@ Stadtarchivs Bd. IL</note> Ueber seine leitenden politischen Grundsätze nur
 folgendes: als Ziel und Zweck der Frankfurtischen Politik betrachtete er ein
 gutes Einvernehmen mit dem Kaiser, von dessen Gnade der Wohlstand der Stadt
 abhängig war, und welcher dabei doch die Entwicklung der inneren Verhältnisse
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_248.gif" n="248"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="248" facs="ln:drqi,jung_1889_248"/>]
  weit weniger störte und gefährdete, als von Seiten der benachbarten
 Territorialfürsten zu befürchten stand; daraus folgt, dass er ein Feind all der
 Massregeln seitens der Protestanten war, welche zu einem Bruch mit dem Kaiser
@@ -1306,7 +1306,7 @@ und liess bald seine einzige theoretische
 juristische Schrift folgen, die verlorenen Exegeses summariae titulorum
 institutionum. Von grösserer Bedeutung sind seine praktischen Arbeiten.  Ein
 lateinisches Notariatsbuch hat er anonym veröffentlicht;
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_249.gif" n="249"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="249" facs="ln:drqi,jung_1889_249"/>]
  auf Bitten des bekannten Druckers <persName ref="">Feyerabend</persName>
 beteiligte er sich an der Herausgabe einer Sammlung von Opiniones communes;
 schliesslich befürwortete er noch den von seinem Sohn Raimund Pius
@@ -1351,7 +1351,7 @@ ganz confuse, an vielen orthen dunkel und in vielen stücken mangelbar« einer
 Verbesserung dringend bedurfte. Es sei ein für seine Kräfte schwieriger Auftrag
 gewesen, er habe ihn aber »dieser statt Franckfurth meinem geliebten vatterland
 und einer ehrlichen burgerschaft allhie zu gutem und wohlfart« nicht
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_250.gif" n="250"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="250" facs="ln:drqi,jung_1889_250"/>]
  ablehnen dürfen. Ueber die Art seiner Arbeit spricht er sich offen aus: es war
 keine originale Leistung, sondern eine freie Kompilation aus allen gedruckten
 Rechten der einzelnen Reichsstände. Anfang des Jahres 1572 hatte er die
@@ -1394,7 +1394,7 @@ Absicht war es nicht, dem heimischen Recht Gewalt anzuthun; er unterwirft sich
 keineswegs blindlings der Autorität des Corpus juris, sondern trägt kein
 Bedenken seine Gültigkeit auszuschliessen oder seine Sätze zu ändern, wo die
 Verhältnisse es fordern. Allein wo es sich darum handelte
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_251.gif" n="251"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="251" facs="ln:drqi,jung_1889_251"/>]
 ein festes und klares Recht herzustellen, konnte gegenüber der schwankenden und
 unklaren Praxis nur das gemeine Recht den Ausschlag geben. Von seinen
 Zeitgenossen ist Fichard als Solon und Lykurg Frankfurts gepriesen: und
@@ -1434,7 +1434,7 @@ eine poetische Schilderung des Wappens, welches der Kaiser Fichard bei der
 Erhebung in den Adelstand verliehen hatte. Nach der Einleitung folgt eine kurze
 Darstellung der Schicksale der Familie vor der Einwanderung nach Frankfurt, in
 der er sich auf Mitteilungen seines Oheims,
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_252.gif" n="252"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="252" facs="ln:drqi,jung_1889_252"/>]
  des Canonicus <persName ref="">Konrad Fichard</persName>, stützt. Wie die
 Schilderung der Jugendzeit uns so manchen Blick in die inneren Verhältnisse des
 damaligen Frankfurt werfen lässt, so sind auch die Nachrichten von seinen
@@ -1472,7 +1472,7 @@ Notizen; wo sie aufhört, treten eben die Annalen Fichards bis 1544 als beste
 chronikalische Quelle ein; sie ist um so schätzenswerter, als ihr Verfasser so
 regen Anteil an der politischen Leitung der Stadt hatte und eben an den
 ausführlicher dargestellten Ereignissen und Verhandlungen
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_253.gif" n="253"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="253" facs="ln:drqi,jung_1889_253"/>]
 in hervorragender Weise beteiligt war. Die Form des Werkes ist, wie ja schon
 der Titel erkennen lässt, die streng annalistische; er geht von Jahr zu Jahr
 vorwärts und bringt die einzelnen Ereignisse in kleinen Abschnitten unter
@@ -1511,7 +1511,7 @@ Reinheit in Gesinnung und Wandel wusste er die Bekannten an sein Haus zu
 fesseln. Den Bedrängten stand er stets mit Rat und Tat zur Verfügung; sein
 Vermögen, das er sich durch rastlose Tätigkeit erworben, gestattete ihm diese
 Freigebigkeit. Jeder unnütze Prunk war ihm verhasst; er lebte
-    [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_254.gif" n="254"/>]
+    [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="254" facs="ln:drqi,jung_1889_254"/>]
    einfach und gut. Ein hervorstechender Zug in seinem Leben ist die tiefe
 Frömmigkeit, zu der er auch seine Familienangehörigen erzog und die jungen
 Leute, die ihm in seinen Arbeiten an die Hand gingen, anhielt; dabei war er
@@ -1557,16 +1557,16 @@ Cassiodoro de Reina in Frankfurt vgl. Steitz-Dechent,
 Geschichte der Niederländischen Gemeinde Augsburger Konfession; über »Frankfurt
 als Herberge der fremden protestantischen Flüchtlinge« den Vortrag Schotts in
 »Der Verein für Reformationsgeschichte am Schluss seines ersten Trienniums
-(1886)«.</note> Die Freunde, welche ihm in seinen  [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_255.gif" n="255"/>] letzten Jahren am nächsten standen, waren sein späterer Biograph <persName ref="">Heinrich Petrejus</persName> aus Herdegen, dem er zu der Stelle eines Rektors der hiesigen Lateinschule verholfen hatte, und der bekannte Drucker <persName ref="">Sigmund Feyerabend</persName>.<note xml:id="n255.1" type="footnote" n="255.1">Ueber des letzteren Verhältniss zu Fichard vgl. Pallmanns treffliche
+(1886)«.</note> Die Freunde, welche ihm in seinen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="255" facs="ln:drqi,jung_1889_255"/>] letzten Jahren am nächsten standen, waren sein späterer Biograph <persName ref="">Heinrich Petrejus</persName> aus Herdegen, dem er zu der Stelle eines Rektors der hiesigen Lateinschule verholfen hatte, und der bekannte Drucker <persName ref="">Sigmund Feyerabend</persName>.<note xml:id="n255.1" type="footnote" n="255.1">Ueber des letzteren Verhältniss zu Fichard vgl. Pallmanns treffliche
   Biographie Feyerabends im <ref target="">Archiv N. F. VII</ref>; nicht nur geschäftlich, sondern noch vielmehr freundschaftlich hatte er dem Drucker seine Dienste geliehen. — Petrejus, welcher von 1576 bis 1580 an der Spitze des Frankfurter Gymnasiums stand, hat sich wie kein anderer des näheren Umgangs Fichards erfreut; ihre Freundschaft wurde nicht gestört, als Petrejus wegen eines Zwistes mit den Prädikanten über die Frage der Erbsünde sein Schulamt, welches er auf Fichards Empfehlung hin erlangt hatte, aufgeben musste; vgl. darüber die Ratsprotokolle 1576—1580. — Der gelehrte Freundeskreis, dessen Mittelpunkt der berühmte Rechtsgelehrte in seinen letzten Lebensjahren gewesen war, hat seinem ehrwürdigen Haupte in den <ref target="">Epicedia in obitum Joannis Fichardi, JC. CL. (Francofurti, excudebat Joannes Wechelus, anno MDLXXXII)</ref> ein schönes Denkmal gesetzt. Da in diesem Werkchen viele der Männer mit Beiträgen vertreten sind, welche in der zweiten Hälfte des 16. Jahrhunderts in Frankfurt durch geistige Bedeutung hervorragen, so sei eine kurze Angabe des Inhaltes gestattet. Die Epicedia sind eine Sammlung von lateinischen Gedichten, meist im elegischen Versmass geschrieben, welche die Freunde Fichards auf die Kunde von seinem Tode verfasst haben; <persName ref="">Raimund Pius Fichard</persName>, an den sehr viele dieser Ergüsse gerichtet sind, hat, wie seine Vorrede ergibt, sie auf Drängen gelehrter Freunde zusammengestellt und der Oeffentlichkeit übergeben. Die Sammlung wird eröffnet durch ein Gedicht Fichards aus dem Jahre 1578, Votum ad Jesum Christum, in welchem der Verfasser seine Sehnsucht nach der ewigen Ruhe ausspricht. Dann folgen die Epicedia, nach dem Berufe der einzelnen Verfasser geordnet. Die Theologie wird durch den Frankfurter Prädikanten <persName ref="">Matthias Ritter</persName>, durch den Königsteiner Superintendenten <persName ref="http://de.wikipedia.org/wiki/Philipp_Lonicer">Philipp Lonicer</persName> und den Triburer Pfarrer <persName ref="">Wendelin Heibach</persName> vertreten; besonders des letzteren Elegie gibt uns ein abgerundetes Bild von dem geistig angeregten Leben im Fichardschen Hause, von den Gelehrten, die sich um den allverehrten Hausherrn schaarten und von dessen häuslichen Tugenden, sowie von seinen geistigen Bestrebungen. Von Juristen finden wir <persName ref="">Johannes Hell</persName>, einen Freund des früh verstorbenen <persName ref="">Christoph Fichard</persName>, ferner den Lauinger Professor <persName ref="http://de.wikipedia.org/wiki/Nikolaus_Reusner">Nicolaus Reusner</persName> und den Kammergerichtsadvokaten <persName ref="">Paschasius Brismann</persName>. Von Medizinern haben der Würzburger Arzt <persName ref="">Johann Portius</persName> und <persName ref="">Dr. Andreas Ellinger</persName> dem Todten den Tribut dankbarer Anerkennung gezollt. Von den »alii praestantissimi et literatissimi viri« seien erwähnt: der getreue Petrejus, der dem Meister hier eine dichterische Lebensbeschreibung widmet, der poeta laureatus und Tübinger Professor <persName ref="http://de.wikipedia.org/wiki/Nicodemus_Frischlin">Nicodemus Frischlin</persName>, der Frankfurter <persName ref="http://de.wikipedia.org/wiki/Christian_Egenolf">Christian Egenolf</persName>, der Gelnhäuser Rektor <persName ref="http://de.wikipedia.org/wiki/Johannes_Lundorp">Johann Lundorp</persName>, der Prorektor von Lich <persName ref="">Friedrich Sylburg</persName>. Den Schluss bilden Elegien von Frischlin auf Christof Fichards Tod, sowie von Petrejus auf das Ableben des Sohnes Johann Jakob und des Enkels Daniel Pius. Vielen dieser lateinischen Gedichte ist die griechische Uebersetzung beigefügt. Für unseren Geschmack sind diese dichterischen Erzeugnisse eine wenig geniessbare Kost; es ist eine mühsame Arbeit, aus den unendlich   vielen, dem Altertum entlehnten Phrasen und Wendungen wirklich historischen Kern, greifbare Angaben über Fichard, sein Leben und Wirken herauszuschälen. Immerhin ist das Werk von Interesse für die Kenntniss geistiger Zustände in dem damaligen Frankfurt. — Ein gleiches, wenn nicht höheres Interesse darf auch ein Sammelband unserer Stadtbibliothek, bezeichnet Auct. Neol. Coll. N. 115 I, 81, beanspruchen. Er enthält viele lateinische und deutsche Gelegenheitsgedichte aus der gleichen Zeit und meist auf Frankfurt bezüglich, vielfach in interessanter typographischer Ausstattung. Von und über Fichard ist daraus hervorzuheben: sein Votum ad Jesum Christum, sein Hochzeitsgedicht für Petrejus, als dieser sich mit der Wittwe des <persName ref="http://de.wikipedia.org/wiki/Flacius_Illyricus">Flacius Illyricus</persName> verband, mehrere an Fichard gerichtete Gedichte enthaltend Bittgesuche bei Bewerbungen um ein Stipendium und um das Notariatsamt u. s. w.</note>
                 </p>
-    <p>   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_256.gif" n="256"/>] Die späteren Lebensjahre wurden ihm durch manch bitteres Leid getrübt. Als er im Januar 1547 von jener Gesandtschaft nach Heilbronn zurückkehrte, verlor er seinen Oheim Konrad Fichard, den Canonicus am Liebfrauenstift, der, wie sein Testament zeigt, dem Neffen den Abfall von der alten Kirche und die Tätigkeit im Dienste des Rats, die ihn oft zum Vorgehen gegen die katholisch Geistlichkeit zwang, nicht nachgetragen hatte.<note xml:id="n256.1" type="footnote" n="256.1">Er setzte seine beiden Neffen Johann und Kaspar zu Haupterben ein und erliess dem ersteren Alles, was er noch von seiner Promotion her ihm schuldig war, sowie eine Summe von 100 Goldgulden, die er ihm 1538 wohl zur Gründung des Hausstandes vorgestreckt hatte; sein Grossneffe Raimund Pius solle davon die Kosten der Universitätszeit bestreiten.</note> Sein Bruder <persName ref="">Dr. Kaspar Fichard</persName>, der als Kammergerichtsprokurator in
+    <p>   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="256" facs="ln:drqi,jung_1889_256"/>] Die späteren Lebensjahre wurden ihm durch manch bitteres Leid getrübt. Als er im Januar 1547 von jener Gesandtschaft nach Heilbronn zurückkehrte, verlor er seinen Oheim Konrad Fichard, den Canonicus am Liebfrauenstift, der, wie sein Testament zeigt, dem Neffen den Abfall von der alten Kirche und die Tätigkeit im Dienste des Rats, die ihn oft zum Vorgehen gegen die katholisch Geistlichkeit zwang, nicht nachgetragen hatte.<note xml:id="n256.1" type="footnote" n="256.1">Er setzte seine beiden Neffen Johann und Kaspar zu Haupterben ein und erliess dem ersteren Alles, was er noch von seiner Promotion her ihm schuldig war, sowie eine Summe von 100 Goldgulden, die er ihm 1538 wohl zur Gründung des Hausstandes vorgestreckt hatte; sein Grossneffe Raimund Pius solle davon die Kosten der Universitätszeit bestreiten.</note> Sein Bruder <persName ref="">Dr. Kaspar Fichard</persName>, der als Kammergerichtsprokurator in
 Speyer lebte und anscheinend mit seiner Familie wieder zur alten Kirche zurückgetreten war, starb 1569; in seinen letzten Lebensjahren war er Syndicus seiner Vaterstadt beim höchsten deutschen Gerichtshof, ein Amt, welches ihm der einflussreiche Bruder verschafft hatte. Von den acht Kindern aus Fichards Ehe mit <persName ref="">Elisabeth Grünberger</persName> sah er sechs vor sich dahinsterben. Drei wurden ihm noch in zartem Kindesalter stehend entrissen. Die älteste Tochter Maria, welche er seinem Kollegen <persName ref="">Dr. Engelbrecht</persName> vermählt hatte, starb 1568 im Alter von 27 Jahren, der Gatte folgte ihr noch vor dem Ableben des Schwiegervaters im Tode nach; die beiden aus dieser Ehe stammenden Enkel Fichards waren blödsinnig. Im Frühjahr 1574 verlor er seine Gattin, mit der er 35 Jahre lang in glücklicher Ehe gelebt hatte; in seinem Testamente gedenkt er dankbar ihrer sparsamen, redlichen Haushaltung. Ein halbes Jahr
-später traf ihn die Trauerkunde, dass sein Sohn Christoph, den er zur Fortsetzung seiner Studien nach Padua gesandt hatte, dort erst 20jährig dem Fieber erlegen sei. Auch der jüngste Sohn Johann Jakob starb zwei Jahre später fern von der Heimat in Este; auch ihn hatte der Vater über die Alpen ziehen lassen, um wie er selbst und  die älteren Brüder in   [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_257.gif" n="257"/>]  Italien seine Bildung zu vollenden; das folgende Jahr 1577 brachte dann wieder tiefe Trauer durch das Ableben seines ältesten Enkelkindes Daniel Pius. So überlebten den Vater nur zwei seiner Kinder, Elisabeth und Raimund Pius. Die erstere verheiratete sich 1562 mit dem Patrizier <persName ref="">Georg Mengershausen</persName>, welcher kurz nach Fichards Tode starb, und in zweiter Ehe sodann mit <persName ref="">Nicolaus von Hausen</persName>, einem schwäbischen Edelmann. So setzte sich das Fichardsche Geschlecht nur in der Familie des ältesten, als Staatsmann und praktischer Jurist dem Vater ebenbürtigen Sohnes fort.</p>
+später traf ihn die Trauerkunde, dass sein Sohn Christoph, den er zur Fortsetzung seiner Studien nach Padua gesandt hatte, dort erst 20jährig dem Fieber erlegen sei. Auch der jüngste Sohn Johann Jakob starb zwei Jahre später fern von der Heimat in Este; auch ihn hatte der Vater über die Alpen ziehen lassen, um wie er selbst und  die älteren Brüder in   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="257" facs="ln:drqi,jung_1889_257"/>]  Italien seine Bildung zu vollenden; das folgende Jahr 1577 brachte dann wieder tiefe Trauer durch das Ableben seines ältesten Enkelkindes Daniel Pius. So überlebten den Vater nur zwei seiner Kinder, Elisabeth und Raimund Pius. Die erstere verheiratete sich 1562 mit dem Patrizier <persName ref="">Georg Mengershausen</persName>, welcher kurz nach Fichards Tode starb, und in zweiter Ehe sodann mit <persName ref="">Nicolaus von Hausen</persName>, einem schwäbischen Edelmann. So setzte sich das Fichardsche Geschlecht nur in der Familie des ältesten, als Staatsmann und praktischer Jurist dem Vater ebenbürtigen Sohnes fort.</p>
   <p>Raimund Pius hatte unter dem durch die italienische Gegenreformation aus Ferrara verjagten <persName ref="http://de.wikipedia.org/wiki/Caelius_Secundus_Curio">Caelius Secundus Curio</persName>, dem Freund und Lehrer von <persName ref="http://de.wikipedia.org/wiki/Olympia_Fulvia_Morata">Olympia Fulvia Morata</persName> in Heidelberg, in Basel die humanistischen Wissenschaften studiert und war dann in Frankfurt theoretisch von seinem Vater und in Speyer praktisch von seinem Oheim weitergebildet worden. Nachdem er seine Studien auf den Hochschulen Tübingen, Valence, Bourges, Orleans und Padua fortgesetzt und durch die juristische Promotion in Ferrara beschlossen hatte, kehrte er in die Vaterstadt zurück, woselbst er sich als Anwalt niederliess und <persName ref="">Katharina Völker</persName>, die Tochter <persName ref="">Johann Völkers</persName>, heiratete. Als er und seine Frau um die Aufnahme auf Alt-Limpurg nachsuchten, wurde sie ihnen abgeschlagen, weil man an dem Vorleben der Frau gar manches auszusetzen fand; erst nach sieben Jahren gelang es Raimund Pius, welchem persönlich der Eintritt schon früher »aus Rücksicht für Kaiserliche Majestät (an die er appelliert hatte) und seinen um die Stadt verdienten Vater« gestattet worden war, auch die Aufnahme seiner Gattin durchzusetzen; man gewährte sie endlich »in Rücksicht auf ihres Hauswirts Vaters Reputation, darin derselbe bei einem ehrbaren Rat und ausserhalb dieser Stadt steht«. Ich glaube nicht, dass bei dieser Opposition auf Alt-Limpurg gegen Sohn und Schwiegertochter Fichards Neid und Missgunst gegen diesen eine grosse Rolle
 spielen, wie <persName ref="">Johann Carl v. Fichard</persName> angenommen hat; sicher ist, dass das Ansehen des alten Fichard und seiner Familie unter diesem Skandalprozess, mit dem manche recht unliebsame Enthüllungen verbunden waren, schwer litt.<note xml:id="n257.1" type="footnote" n="257.1">Interessante  Akten  über   diese Angelegenheit  bewahrt das Archiv	unter Ugb. C. 25 C.</note> 1578 wurde Raimund Pius an Stelle seines Schwagers Engelbrecht als Stadtadvokat Kollege seines Vaters, den er nur um vier Jahre überlebte.<note xml:id="n257.2" type="footnote" n="257.2">Ueber seine  wissenschaftliche   Bedeutung vgl. <ref target="http://gdz.sub.uni-goettingen.de/content/PPN372047610/800/0/00000610.jpg">Stintzing, Geschichte   der Deutschen Rechtswissenschaft I, 599 ff.</ref> u. <ref target="http://daten.digitale-sammlungen.de/~db/bsb00008364/images/index.html?seite=762">Allgem. Deutsche Biographie VI, 760</ref>.</note>
                 </p>
- <p> [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_258.gif" n="258"/>] In der Familie seines Sohnes, umgeben von dessen zahlreicher Nachkommenschaft
+ <p> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="258" facs="ln:drqi,jung_1889_258"/>] In der Familie seines Sohnes, umgeben von dessen zahlreicher Nachkommenschaft
 brachte Fichard den Abend seines Lebens zu. Von den Beschwerden des
 Greisenalters blieb seine glückliche Natur verschont; gesund an Geist und Leib,
 im vollen Besitze seiner starken Arbeitskraft sehnte er sich dennoch nach dem
@@ -1600,7 +1600,7 @@ Nach den verschiedenen Seiten seiner Tätigkeit, als Staatsmann, als Jurist, als
 Schriftsteller, ist Fichard unstreitig der bedeutendste Mann gewesen, den
 Frankfurt im 16. Jahrhundert hervorgebracht hat. Als Staatsmann und Jurist ist
 ihm sein Sohn Raimund Pius beinahe ebenbürtig. Die Verdienste der weiteren
-Nachkommen sind [<pb facs="http://drqerg.drqedit.de/DRQI/jung_1889_259.gif" n="259"/>] bescheidener; die Angehörigen der Familien widmeten sich teils dem städtischen,
+Nachkommen sind [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="259" facs="ln:drqi,jung_1889_259"/>] bescheidener; die Angehörigen der Familien widmeten sich teils dem städtischen,
 teils auch fremden Diensten, ohne aber an die Bedeutung ihrer Vorfahren auch
 nur entfernt heranzureichen. Etwa 1770 starb der letzte direkte Nachkomme; in
 seinem Testamente setzte er seinen Neffen, einen <persName ref="http://de.wikipedia.org/wiki/Baur_von_Eyseneck">Baur v.

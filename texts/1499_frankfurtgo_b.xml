@@ -28,7 +28,7 @@
             <div xml:id="Register.">
  <head>[Register]</head>
  <p>
-                    <pb n="S. 257" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g257.gif"/>
+                    <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 257" facs="ln:frankfohof,257"/>
                 </p>
 <p>
                     <ref target="#Art1">I.</ref> Nota wie und vor wem man uff <term type="phrase">eigen
@@ -47,7 +47,7 @@ nachgeen etc.
 Item were der, dem man verkunden sulde nit bynnen landes, wie man dan den
 verkuntzbrieff zu herburge antworden sulde, und der bode dan vor gerichte komen
 und
- <pb n="S. 258" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g258.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 258" facs="ln:frankfohof,258"/>
 wie der kommerer dan des gerichtes warten, sin gezuggelt zugeben, und zum
 andern, und dritten male aber verkunden etc.
 </p>
@@ -106,7 +106,7 @@ ußtragen</term> sal.
 Item weres, daz solich <term type="phrase">farnde habe</term> nit mochte <term type="phrase">versast
 odir verkaufft</term> werden, wie sie dann der Cleger
 selbis behalden mochte, und damyde vmbgeen sulde.
- <pb n="S. 259" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g259.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 259" facs="ln:frankfohof,259"/>
 </p>
 <p>
                     <ref target="#Art13">XIII.</ref>
@@ -162,7 +162,7 @@ Item obe eim burger geboden wurde, vur frauel von <term type="phrase">zinse
 odir geltschult</term> wegen odir ander sache, daz doch nit <term type="phrase">scheltwort,
 odir slahery</term> were, daz sulde kein frauel sin,
 sundern die burger sich irer fryheid von der gebode wegen gebruchen. 
- <pb n="S. 260" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g260.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 260" facs="ln:frankfohof,260"/>
 </p>
  <p>
                     <ref target="#Art22">XXII.</ref>
@@ -227,7 +227,7 @@ leisten, ane laube dez gerichts, und waz sie dan davon nemen mogen.
                     <ref target="#Art33">XXXIII.</ref>
 Item daz die vursprechen von sachen vor dem Rade odir anders, daz nit vor
 gericht hinge, nit me nemen sullen tage zu leisten dan einen alden thurnoß.
- <pb n="S. 261" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g261.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 261" facs="ln:frankfohof,261"/>
 </p>
  <p>
                     <ref target="#Art34">XXXIV.</ref>
@@ -307,7 +307,7 @@ Item weres aber umb frabel, daz sullen die Richtere an gerichte wisen.
                     <ref target="#Art49">XLIX.</ref>
 Item obe man dem Richter nit recht antwert, so mag er gebieden, recht zu
 antworten, und by der buße etc.
- <pb n="S. 262" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g262.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 262" facs="ln:frankfohof,262"/>
 </p>
  <p>
                     <ref target="#Art50">L.</ref>
@@ -367,7 +367,7 @@ gesatzt und ubirkommen</term> han, allermenlichin,
 geistlichen und werntlichen, fremden und heimschen, den des not ist, odir
 vurter not sin wirdet, <term type="phrase">zu fordern oder zu suchen</term> in
 aller masse, als hernach von <term type="phrase">stucken und artikeln</term>
- <pb n="S. 263" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g263.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 263" facs="ln:frankfohof,263"/>
 geschriben und underscheiden steet, nach dem als dann die Scheffene, <term type="phrase">nach
 aldem herkommen, gewonheit und rechte</term> des Richs
 gerichts vorgenant des eynmudeclichen uberkommen sin, nach iren besten synnen
@@ -413,7 +413,7 @@ cleger da sy, die <term type="phrase">clage und forderunge</term> zutun und zu
 vollenfuren. Und weris daz an dasselbe gericht nymant qweme, der soliche <term type="phrase">kommere
 und sache</term> <term type="phrase">virantworte und
 virstunde</term>, so sal 
- <pb n="S. 264" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g264.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 264" facs="ln:frankfohof,264"/>
 darnach der cleger E andere gerichtstage kommen, denselben kommer den erben
 desselben <term type="phrase">Eygen und erbes</term>, daruff er gekommert
 hette, die anders <term type="phrase">inplichtig und wonhafftig</term> zu
@@ -442,7 +442,7 @@ werden mit <term type="phrase">gezuggelde siegelunge und brieffen</term> nach
 den Stemmen zu nemen, als viel der weren die das antreffe und nit verrer. Und
 weris das ein bote, der soliche virkunds brieffe trüge, sehe oder kuntlich
 wiste, das derjene, dem er den brieff brengen sulde
- <pb n="S. 265" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g265.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 265" facs="ln:frankfohof,265"/>
 jnheimisch were, und wulde man des brieffs nit von jm nemen, So sal er den
 brieff ym in sin <term type="phrase">dore thore oder band</term> desselben
 <term type="phrase">sloßis, Burge, huses oder hofis</term> darinne der oder die
@@ -480,7 +480,7 @@ frankenfurd komen vur den Schultheissen und uff den heilgen sweren, das er dem
 also nachgegangen habe, und wann das gescheen ist. Weris dann, das solicher
 kommer nit virantwort oder virstanden wurde, wann dan seß wochen und ein tag
 virgangen sin und der kommer nit virantwort 
- <pb n="S. 266" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g266.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 266" facs="ln:frankfohof,266"/>
 wort oder verstanden wirt, so sal der cleger sin gezugggelt geben, und das in
 des gerichts büch tun schriben, Darnach sal der cleger zum andere male eynen
 virkunds brieff von gerichtes wegen nemen da Jnne ein tag und seß wochen
@@ -514,7 +514,7 @@ gerichte vor Schultheißen und Scheffen uff den heilgen sweren, und damyde
 kuntlich machen, und bedarff man auch kein ander sache me vor gerichte
 berechten, dann allein scholt, als recht ist, und das auch in des gerichts buch
 tun schriben, und wan das geschicht, So sal ym des 
- <pb n="S. 267" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g267.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 267" facs="ln:frankfohof,267"/>
 gerichts schriber solicher ergangen sache, obe er des begeret zetteln uß des
 gerichts buch geben und schriben, davon als dan igliche sache in ir selbes
 gelegen ist, und von einem iglichen zedel, der von erfolgunge, bekantnisse,
@@ -552,7 +552,7 @@ unschedelich dem Riche, dem Rade und der Stad zü franckenfurd an iren <term typ
 gnaden und friheiden</term>, und auch das den <term type="phrase">erben und zinßluden</term>
 daz zuverkünden, dann sal der cleger
 das den <term type="phrase">erben und zinßluden</term> lassen 
- <pb n="S. 268" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g268.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 268" facs="ln:frankfohof,268"/>
 virkunden mit namen denjenen die zu franckenfurd oder in der <term type="phrase">terminy
 und begriff</term> daselbis <term type="phrase">wonhafftig und inplichtig</term>
 sin, mit dem Richter und den
@@ -598,7 +598,7 @@ wolde dann der cleger soliche erfolgete <term type="phrase">Eigen und
 Erbe</term> vur sin <term type="phrase">schult, zinse, gulde, oder
 forderunge</term>, darfur der kommer gescheen were, oder vur mynner und nit
 daruber, nach siner berechtunge, und vur die zinse daruff 
- <pb n="S. 269" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g269.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 269" facs="ln:frankfohof,269"/>
 gelegen, und vur den kosten, der von gerichts wegen uff die sache gegangen were
 oder vurter daruff geen wurde, selber behalten, des solde man jm gonnen, und jn
 von gerichts wegen darin setzen, und in des gerichtes buch lassen schriben;
@@ -639,7 +639,7 @@ geschicht, das die <term type="phrase">bezalunge und ußrichtunge</term>
 derselben schulde nit <term type="phrase">ußgerichtit und bezalt</term> were
 uff die zyde, als dann das vorgenant buch ußwisete; So sal und mag derselbe dem
 des also not ist, die selben underphande vor des Richs gericht 
- <pb n="S. 270" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g270.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 270" facs="ln:frankfohof,270"/>
 uffbieden, und das in des gerichts buch lassen schriben, dann sal jm der
 Schultheiß einen Richter lihen, und jm von gerichts wegen an solichem <term type="phrase">Eigen
 und Erbe</term> lassen richten. Und wann dem also daran
@@ -670,7 +670,7 @@ seß wochen</term> zu glicher wise als auch da vor von <term type="phrase">Eygen
 und Erbes</term> wegen underscheiden ist, und geschicht die entschuddunge dann
 nit nach ußgange iglicher der obgenanten getzyde, daz sal der cleger dann daz
 vor 
- <pb n="S. 271" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g271.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 271" facs="ln:frankfohof,271"/>
 dem Schultheissen an des Richs gericht offen, und das auch in des gerichts buch
 tun schriben, und sal auch kein andir insatz von <term type="phrase">eygen und
 erbes</term> wegen gescheen, dan noch lude der Stede franckenford versatzbuch.
@@ -713,7 +713,7 @@ Auch wer uff <term type="phrase">farnden habe</term> kommern wil iz sy vur
 <term type="phrase">schult, zinse, gulde, gelt oder geldes wert oder ander
 forderunge</term>, den kommer sal und mag ein iglich werntlich Richter zu
 franckenfurd tun, und sal der cleger 
- <pb n="S. 272" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g272.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 272" facs="ln:frankfohof,272"/>
 den kommer am nesten gericht, das nach dem tage, als der kommer gescheen were,
 als der kommer gescheen were, komende wirt vor dem Schultheissen offen, und das
 in des gerichts buch tun schriben, und desselbin gerichts ußwarten, obe jmand
@@ -739,7 +739,7 @@ zedeln uz dem buch nemen, und sal jm dann der Richter an solicher farnder habe
 lassen richten, und wann dem also gerichtet were; So sal der cleger die farnden
 habe fur sin schult und forderunge oder vur mynner und nit daruber und vur den
 gericht schaden virsetzen;
- <pb n="S. 273" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g273.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 273" facs="ln:frankfohof,273"/>
 mag die nit virsatzt weren, So zu virkeuffen und daz den erben der die farnde
 habe ist, daz von gerichts wegen lassen virkunden in den nesten vierzehen tagen
 darnach zu entschudden, obe das ist, das sie als nahe und bynnen lands sin;
@@ -778,7 +778,7 @@ jenen, der sie versatzt hat, wider lihen umb einen benanten wochenlichen zins,
 und wann dan der sins geldes nit lenger enberen wil, So sal er die farnden habe
 vor dem Schultheissen an des Richs gericht uffbieten, also wann der Richter den
 Jnsatz vor dem 
- <pb n="S. 274" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g274.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 274" facs="ln:frankfohof,274"/>
 Schultheissen an des Richs gericht mit Eide besaget hat, und uff solich
 uffbietunge sal jm der Dchultheiß einen Richter daran heissen richten, dan mag
 er daz versetzen oder virkeuffen vur die schult oder darunder und nit daruber,
@@ -822,7 +822,7 @@ gericht gescheen und anders nit.
 <p>
 Auch wann lude vurfluchtig werden, weris dann, das lude uff ir gut und habe vur
 ir schult kommerten,
- <pb n="S. 275" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g275.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 275" facs="ln:frankfohof,275"/>
 uff daz dann soliche habe und gude nit verruckt werde; So sollen der Obirster
 Richter und des gerichts schriber von gerichtes wegen alle soliche habe und gut
 von stucken zu stucken beschriben, und sal man von gerichts wegen einen huder
@@ -861,7 +861,7 @@ angeet, daz zu meren oder zu mynnern, als sie dann behalden han.
 <div xml:id="Art19">
  <head>[Art. 19]</head>
  <p>
- <pb n="S. 276" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g276.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 276" facs="ln:frankfohof,276"/>
                     </p>
 <p>
 Nota disser hernach geschriben artikel han die Scheffen von gerichtis wegen
@@ -914,7 +914,7 @@ sin scholt berechten, als recht ist.
 <div xml:id="Art23">
  <head>[Art. 23]</head>
  <p>
- <pb n="S. 277" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g277.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 277" facs="ln:frankfohof,277"/>
                     </p>
 <p>
 Auch wann einer dem andern slecht odir wonte, und derjene jm tut gebieden, daz
@@ -960,7 +960,7 @@ Auch ist der Scheffen meynunge; daz der Schultheiß und die Rechenmeister vurter
 kein busse nemen odir vertedungen sullen, sie sy dan vor mit urteil gewiset,
 odir mit andern undirwisungen der Scheffen, und wan die kretzery sitzet, daz
 dann die Scheffen davor etzlichen tag, als verre solich sache vor gerichte nit 
- <pb n="S. 278" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g278.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 278" facs="ln:frankfohof,278"/>
 ußgericht were, darby sitzen und erbodt sollen werden, soliche underwisunge zu
 tun. 
 </p>
@@ -1017,7 +1017,7 @@ dann nit me dan ein fürsprechen gelt nemen sollen.
 <p>
 Jtem von der Momperschafft wegen, als vor irludet, das vorter die fursprechen
 furter me nymant 
- <pb n="S. 279" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g279.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 279" facs="ln:frankfohof,279"/>
 Momper werden odir sin sollen, umb sunderlicher sache und unrads willen, die
 dem gerichte davon entstanden ist, und vorter entsteen mochte, als dan die
 Scheffen das sunderlich gewegen han.
@@ -1085,7 +1085,7 @@ damyde entweldiget sy.
 <div xml:id="Art38">
  <head>[Art. 38]</head>
  <p>
- <pb n="S. 280" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g280.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 280" facs="ln:frankfohof,280"/>
                     </p>
 <p>
 Jtem weres sache, daz eyn mompar odir truwenhender junger kindere, eynchen
@@ -1123,7 +1123,7 @@ billich engangen were, der jener, der jn dan schuldigete, wulde jn dan gewisen
 als recht were, daz er jme solich gelt von desselben kauffs odir lihunge wegen
 eins teils odir zumale schuldig were. Jtem weres abir, daz der, der also
 geschuldiget wurde, den der yn dan schuldigete gewisen wulde, 
- <pb n="S. 281" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g281.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 281" facs="ln:frankfohof,281"/>
 daz er jm den vorgenanten kauff odir lihunge bezalt und ußgericht hette, so
 ensulde er der unschult nit tun, sunder man sulde jn zu solicher gewisunge
 lassen kommen.
@@ -1170,7 +1170,7 @@ viertzehen tage, obe gericht wirt, vor dem heilgen gerichte; wurde nit
 gerichts, so darnach an nesten gerichte die unschult zu tun, und der zu warten
 als verre, als das umb geltschult ist, und ußwendig der messe friheit. Weris
 aber in der messe, so sulde der Richter yn beiden tag machen 
- <pb n="S. 282" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g282.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 282" facs="ln:frankfohof,282"/>
 an daz neste gerichte, vur der heilgen gerichte, der unschult zü tun und zu
 warten, als vorgeschriben steet, und mit der erkentnisse auch umbgegangen
 werden, als der messe friheit steet. 
@@ -1213,7 +1213,7 @@ gericht, und treffe sich is uber Nün schillinge, so sal der schuldige dem
 cleger ein unschult tun am nesten gerichte vor den heilgen vur das ubirge als
 verre yn der cleger des nit erwisen wulde, und sal auch solichen liedelon
 nymand anders berechten, dann eins 
- <pb n="S. 283" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g283.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 283" facs="ln:frankfohof,283"/>
 gebrote gesynde; So umb die andern Richtere, als die zu richten han ubir Nun
 schillinge und darunder und nit daruber, sal es von des liddelons wegen auch
 gehalden werden, nach anzal als in gebürit zu richten, in aller der masse als
@@ -1270,7 +1270,7 @@ besetzunge odir anders.
 <div xml:id="Art52">
  <head>[Art. 52]</head>
  <p>
- <pb n="S. 284" facs="http://www.rzuser.uni-heidelberg.de/~cd2/drw/F9/frankfoh/g284.gif"/>
+ <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 284" facs="ln:frankfohof,284"/>
                     </p>
 <p>
 Auch sollen die Richter ußwendig der messe friheid von eim iglichen kommer und

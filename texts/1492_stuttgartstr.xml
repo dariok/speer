@@ -91,7 +91,7 @@ werden.</p>
 		    <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.1">Tübingen Stadtrecht
 1493 Art. 1</ref>]</p>
 <p>
-<pb n="S. 538" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_538.jpg"/>
+<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 538" facs="ln:drqi,stuttgartstr_1492_538"/>
 Was aber antrifft X ß hlr. oder minder, und vom vogt guͤtlich nit hingelegt
 wirt, das soͤllent die púttel hoͤren und rechtlich nach raut des vogts
 oder der richter, wa si sich ainer sache fúr sich selbs nit versteend,
@@ -149,7 +149,7 @@ ergeen und volzogen werden.</p>
 gegenwuͤrtig ist, so vogt und gerichte nidersitzend, so sol der antwúrter
 den ersten tag geben zuͦ pene I ß, den andern II ß, und den dritten III ß
 hlr. Belibe aber der antwúrter gar us und keme nit, die wile das gerichte
-dennocht seß, so sol er geben die <pb n="S. 539" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_539.jpg"/>
+dennocht seß, so sol er geben die <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 539" facs="ln:drqi,stuttgartstr_1492_539"/>
 hievorgeschriben großen pene wie der cleger, nemlich den ersten tag II ß, den
 andern V ß und den dritten X ß hlr., und sinem widertaile somnús zerung und
 schaͤden ablegen wie obstet, dem ouch alsdenn als dem gehorsamen nit
@@ -211,7 +211,7 @@ obgemelt geltpene davon nit entschuldigen noch dafúr gnuͦg sin.</p>
 <p>
     Item abzestricken muͦtwillig umbtriben, so gar oft geschicht von denen,
 die vil lieber rechtent und zuͦm win geend dann ire schulden bezalent, und
-ouch zuͦ etwas straufe denen,  die umb <pb n="S. 540" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_540.jpg"/>
+ouch zuͦ etwas straufe denen,  die umb <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 540" facs="ln:drqi,stuttgartstr_1492_540"/>
 clainer ungegrúndter ursachen willen die lút mit recht understeend anzefechten
 und umbzetriben, so sol fúrohin ain ieder der zuͦ Stuͦtgarten rechten
 will, er sie cleͣger oder antwúrter, im anfang und ingang des rechten, vor
@@ -265,7 +265,7 @@ ainer ieden appellation von undergang, die nit abgetriben wirt.</p>
     Item ouch soͤllent inen gedihen und werden die X ß hlr., die da
 gefallent von ainem ieden großen frevel, und die V ß hlr., die da gefallent von
 ainem clain frevel, so die statt vormals ingenommen, und von ainer ieden
-appellation vom ampt ain gulden und ain <pb n="S. 541" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_541.jpg"/>
+appellation vom ampt ain gulden und ain <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 541" facs="ln:drqi,stuttgartstr_1492_541"/>
 gulden von ainer ieden urtail, die vom undergange geappelliert und vom gericht
 creftig erkennt wirt, und darzuͦ die III ß gerichtgelts, mitsampt den penen
 der ungehorsamen.</p>
@@ -331,7 +331,7 @@ statschriber diser unser statt und der statt insigel geflohen und bi andern
 schribern geschriben, ouch ander denn der statt sigler zuͦ besigeln gepetten
 habent, und in sonder so hand etlich ire guͤtere under diser unser statt
 insigel haft gemacht und die darnach aber fúr ledig unverkúmmert verschriben
-und die selben <pb n="S. 542" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_542.jpg"/>
+und die selben <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 542" facs="ln:drqi,stuttgartstr_1492_542"/>
 briefe etwan bi andern schribern gemacht, ouch mit andern insigeln dann mit der
 statt insigel besigelt, und erber lút damit beschalkt und betrogen. Soͤlichs
 als ain unertraͤglich boushait falsch und betrug fúrzekommen und
@@ -376,7 +376,7 @@ zuͦ großem unbuwe kommen und egerden werden moͤchtent.</p>
 uszerichten, hand taile mit den andern richtern an allen obgemelten stucken,
 und soͤllent allweg vor und nach mittag wenn si beruͤft werdent zuͦ
 rechter zit helfen handeln. Darumb soͤllent si vier in sonderhait zuͦ
-lone haben nemen und emphahen die vierzig <pb n="S. 543" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_543.jpg"/>
+lone haben nemen und emphahen die vierzig <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 543" facs="ln:drqi,stuttgartstr_1492_543"/>
 pfund hlr. von uns herruͤrend, die bisher aim gericht worden sind, gepúrt ir
 iedem jars X lb. hlr., und darzuͦ von aim ieden clain frevel den si erkennen
 werdent V ß, die vormals der statt in iren seckel gedient hand, und das
@@ -428,7 +428,7 @@ sinde, und nit von hinnen zu ziehen noch sich diser unser statt zuͦ
 empfroͤmbden, er habe denn das burgerrecht zuͦvor unsern amptman und der
 statt rechnern abkúndt und der statt ain gulden zuͦ abzuge bezalt, und
 mengklich dem er ze tuͦnd ist entricht oder in benuͤgig gemacht, und ob
-er mit iemanden under den stabe diser unser statt <pb n="S. 544" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_544.jpg"/>
+er mit iemanden under den stabe diser unser statt <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 544" facs="ln:drqi,stuttgartstr_1492_544"/>
 Stuͦtgarten gehoͤrig ze tuͦnde hette, warumb das were, soͤlichs
 daselbs mit recht uszerichten und bi dem selben rechten ze pliben, er woͤlte
 sich dann davon beruͤfen, das mag und sol er tuͦn lut und innhalt der
@@ -468,7 +468,7 @@ sinde, und von hinnen nit ze ziehen, er hab denn mengklich dem er gelten
 soͤlle entricht, und ob er ain stubenmaister oder stubenknecht wúrde und
 ichtzit frevelichs ruͦgbars oder straufbars sehen oder hoͤren wúrde, das
 selb unserm amptman vor sinem abschide endeckt und fúrbracht, und ob er mit
-iemanden ichtzit ze tuͦnde úberkeͣme oder iemands <pb n="S. 545" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_545.jpg"/>
+iemanden ichtzit ze tuͦnde úberkeͣme oder iemands <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 545" facs="ln:drqi,stuttgartstr_1492_545"/>
 mit
 im, das selb vor dem stabe zuͦ Stuͦtgarten mit recht ze lútern und
 uszerichten und dabi ze beliben, er woͤlle sich dann davon beruͤfen, das
@@ -521,7 +521,7 @@ laßen und ze rumen, glicher wise als ob er die nach diser unser statt
 Stuͦtgarten recht herkommen und gewonhait erlangt und ervolgt hette. Ob aber
 der gloͤubig umb sine schulde kain underpfande hette, so sol der schuldner
 der die taͤding nit helt im geben vergangne pfande, die er triben und
-tragen, und <pb n="S. 546" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_546.jpg"/>
+tragen, und <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 546" facs="ln:drqi,stuttgartstr_1492_546"/>
 daruf er siner schulde wol bekommen moͤg, und sol witer kains pfendens
 ufruͤfens vertaͤdingens verkúndens noch usbietens bedoͤrfen noch nout
 sin kaineswegs, damit die gloͤubigen muͦtwilligs umbtribens und ufzugs
@@ -565,7 +565,7 @@ ustroͤttend.</head>
     <p>[Übernommen in <ref target="http://drqerg.de/RHN/quellen/tuebingen-stadtrecht-1493/#Art.106">Tübingen
 Stadtrecht 1493 Art. 106</ref>]</p>
 <p>
-    Item taͤglich wirt erfunden, das vil unnútzer lichtvertiger lút, <pb n="S. 547" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_547.jpg"/>
+    Item taͤglich wirt erfunden, das vil unnútzer lichtvertiger lút, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 547" facs="ln:drqi,stuttgartstr_1492_547"/>
 die
 sich selb und ire kindere in verderben richtent, erber lút anstoussent, umb das
 ir betriegent, und darnach ustraͤttent und vermainent denn wider inzekommen,
@@ -613,7 +613,7 @@ dem sol, wie es vormals ouch gewesen und von alter herkommen ist, das selb
 guͦte umb sin bekanntlich koufsumme und schulde vor mengklichem, vor
 soͤlichem koufe uf dem selben guͦte nichtzit noch ainich gerechtigkait
 daran oder darzuͦ habend, nach diser unser statt Stuͦtgarten bruwch und
-herkommen haft sin, alle <pb n="S. 548" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_548.jpg"/>
+herkommen haft sin, alle <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 548" facs="ln:drqi,stuttgartstr_1492_548"/>
 die
 wile im des selben koufgelts ichtzit unvergolten ussteet. Und ob soͤlichs im
 koufe nit beredt were, dennocht sol es lut diser unser satzung gehalten werden.
@@ -665,7 +665,7 @@ sine kind oder sin wib laß nach brot geen, das der selb nit solle zum win geen
 weder firtag noch werktage, usgenommen hochzitlich schenkinen siner nechsten
 frúnde. Wirt er aber bi dem win ergriffen, so sol er von stunden an in fenknus
 gelegt und allain mit wasser und brote uf benuͤgen des amptmans darinn
-gespiset <pb n="S. 549" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_549.jpg"/>
+gespiset <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 549" facs="ln:drqi,stuttgartstr_1492_549"/>
 werden. Und heruf gebieten wir allen stattknechten pútteln winziehern und
 andern gemainlich und sonderlich, bi gelúpten und aiden uns und zuͦ iren
 diensten getan, ain flissig ufsehen uf die ding ze haben, und wa si ain
@@ -709,7 +709,7 @@ vertrage úberkomen oder satzung tuͦn soͤlle vor vogt und gericht, der
 gestalt, das si erkennent soͤlichen vertrage úberkomen oder satzunge den
 kinden zuͦ den selben ziten nútz und besser sin denn tailung, und welicher
 vertrage úberkomen oder satzung also geschicht, der das oder die sol darnach
-allwegen <pb n="S. 550" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_550.jpg"/>
+allwegen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 550" facs="ln:drqi,stuttgartstr_1492_550"/>
 in
 wirden und kreften sin und beliben und durch kúnftig sachen zuͦ- oder
 anfelle, die ainichem taile, es were den kinden oder iren eltern, nachtaile
@@ -750,7 +750,7 @@ werden.</p>
     <head>[Abs. 45] Was ainer, der erst in gericht oder raut kompt, der statt
 geben soll:</head>
 <p>
-    Item wiewol gnuͦg schwer ist ain richter sin, so ist es doch <pb n="S. 551" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_551.jpg"/>
+    Item wiewol gnuͦg schwer ist ain richter sin, so ist es doch <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 551" facs="ln:drqi,stuttgartstr_1492_551"/>
 ain
 erlich ampt, darzuͦ ouch die e[r]bersten und vernúnftigsten lúte geprucht
 und darumb ouch billich gewirdet und geeret werdent. So nun ain alter bruch
@@ -804,7 +804,7 @@ merer noch anders denn im vom vogt und gericht erlopt wirt.</p>
             </div>
             <div xml:id="Abs.50">
     <head>[Abs. 50]</head> 
-    <p> <pb n="S. 552" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_552.jpg"/>
+    <p> <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 552" facs="ln:drqi,stuttgartstr_1492_552"/>
 Item alle kemmit soͤllent gefegt gesúbert gemacht und gehalten werden der
 gestalt das kain schad davon entsteen moͤg, dann wa ain kemmit wirt erfunden
 also das es fegens oder ander sachen halb sorg uf im hat, da muͦß der
@@ -856,7 +856,7 @@ nemen.</p>
     <head>[Abs. 55]</head> 
 <p>
     Item welicher ain kelter hat, der sol fúrohin allwegen haben ain gerústen
-karren und daruf ain laitfaß, das wasser halte und <pb n="S. 553" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_553.jpg"/>
+karren und daruf ain laitfaß, das wasser halte und <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 553" facs="ln:drqi,stuttgartstr_1492_553"/>
 beheb sie, uf das, wenn fúwr usgang, das man das alles gerúst und versehen
 finde wie obstet. Und hat er selb ain roß, so soll er damit one alles verziehen
 dem fúr zuͦfaren; hat er aber kain roß, so sol er fúrdern, das es von ainem
@@ -905,7 +905,7 @@ usgeloͤscht und versehen werdent.</p>
 das mit brinnenden liechtern one laternen in schúren stelle oder andere orte,
 da der wandel sorglich ist, nit gegangen gewebert noch gewandelt werde kains
 wegs, bi pene ains pfunds fúnf schilling hlr., der statt als oft es anders
-erfunden wirdet unablaͤßlich zuͦ bezalen, <pb n="S. 554" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_554.jpg"/>
+erfunden wirdet unablaͤßlich zuͦ bezalen, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 554" facs="ln:drqi,stuttgartstr_1492_554"/>
 und
 soͤllent alle richtere alle vom raute underkoͤufer winzieher púttel
 waͤchter und alle der statt geschwornen bi aids verpflicht ruͤgen und von
@@ -950,7 +950,7 @@ ze geben, alles ungeverlich.</p>
 <p>
     Also und in der gestalt gebietent wir ouch allen und ieglichen bi iren
 gelúpten und aiden, wa unsern amptlúten gericht raute andern geschwornen und
-stattknechten von iemanden in dem, <pb n="S. 555" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_555.jpg"/>
+stattknechten von iemanden in dem, <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 555" facs="ln:drqi,stuttgartstr_1492_555"/>
 das
 inen und ir iedem von unsern oder gemainer statt wegen ze tuͦnde gepúrt,
 widerstande geschúhe mit worten oder werken, den selben unervordert und
@@ -994,7 +994,7 @@ gerichts.</p>
 <p>
     Mer ordnen woͤllen und setzen wir, das nieman weder holze pfaͤle
 frúchten brout schmalz húnr aier visch noch ichtzit anders, nichtzit
-usgenommen, das her gen Stuͦtgarten zuͦ merkt gefuͤrt oder <pb n="S. 556" facs="http://drqerg.drqedit.de/DRQI/stuttgartstr_1492_556.jpg"/>
+usgenommen, das her gen Stuͦtgarten zuͦ merkt gefuͤrt oder <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 556" facs="ln:drqi,stuttgartstr_1492_556"/>
 getragen wirt, vor diser statt in iren zwingen und bennen koufen soͤlle,
 sonder sol mengklich alle ding ganz frie ber uf den merkt zuͦ failem koufe
 kommen laßen, bi pene III lb. V ß hlr., die ain ieder so oft und dick er das

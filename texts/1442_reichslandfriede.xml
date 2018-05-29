@@ -28,7 +28,7 @@
             </div>
             <div xml:id="a0">
   <p>
-     <pb n="S. 260" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g260"/>
+     <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 260" facs="ln:,http://drw-www"/>
      <lb/>
      <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00061">[Druck
 1484 HAB Wolfenbüttel]</ref>
@@ -77,7 +77,7 @@ dann leider groß clag durch die lande geet, dardurch gemeiner nutz großlich
 geirret, geswechet und undergedrucket wirdet: so haben wir uns von der purde
 wegen unsers kuniclichen ampts, die wir Gott zu lobe, dem heiligen reich zu
 eren und durch gemeines nutzes willen auf uns genomen haben, darzu ergeben, daz
-wir mit allem fleiß <pb n="S. 261" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g261"/> solch
+wir mit allem fleiß <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 261" facs="ln:,http://drw-www"/> solch
 unrat und boß Sachen mit zeitlichem rate und mit der hilfe Gottes des
 allmechtigen, ouch beistand unser und des heiligen Romischen reiches getrewen
 nach allem unserm vermögen ze tiligen arbeiten wollen.</p>
@@ -165,7 +165,7 @@ dhein mitrewter weder beute noch teile davon nemen noch nemen lassen, sunder
 dieselb habe sol unverruckt bei einander beleiben.</p>
   <p>
                         <index level1="Pfändung" level2="Pfandverwertung"/> Und ist dann, daz
-iemand kumpt, der dieselben <term type="phrase">nam und pfande</term>  <pb n="S. 262" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g262"/> außnemen wil, dem sol man si <term type="phrase">auf recht und gewißheit</term>
+iemand kumpt, der dieselben <term type="phrase">nam und pfande</term>  <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 262" facs="ln:,http://drw-www"/> außnemen wil, dem sol man si <term type="phrase">auf recht und gewißheit</term>
 außgeben mit kuntschaft des
 richters oder des amptmans, in des gerichte sie sein, oder sol ander erber leut
 darzu nemen, die <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00065">[Druck
@@ -257,7 +257,7 @@ noten</term>, so mocht man sich daraus weeren.</p> </div>
 dhein gereisiger knechte sein, der sein aigen pferd habe, er hab dann einen
 <term type="phrase">herren oder junkherren</term> oder sei einer statt diener,
 des oder der <term type="juridical">geprotter und gedingter knecht</term> er
-sei. Und ob der knecht ichts tete wider die vor- <pb n="S. 263" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g263"/> und nachgeschriben stuck, das sol
+sei. Und ob der knecht ichts tete wider die vor- <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 263" facs="ln:,http://drw-www"/> und nachgeschriben stuck, das sol
 sein herschaft <term type="phrase">verantwurten und widerkern</term>. Und was
 sust raisiger knecht weren, die eigen pferd und nit herren oder junkherren
 <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00068">[Druck
@@ -360,7 +360,7 @@ und urteilen.</p>
     <p> <index level1="Femgericht" level2="Freischöffe"/>
      Es sol auch dhein freigreve dheinen freischeffen machen dann die, die
 von rechts wegen werden mogen und die solich ir tuglicheit durch gnugsam <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00071">[Druck
-1484 HAB Wolfenbüttel]</ref>kuntschaft <pb n="S. 264" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g264"/> furbringen; nemlich sollen si keinen zu schoffen machen, der
+1484 HAB Wolfenbüttel]</ref>kuntschaft <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 264" facs="ln:,http://drw-www"/> furbringen; nemlich sollen si keinen zu schoffen machen, der
 uneelich geborn, iemands eigen oder sust verpunden oder zugehorig sei; die auch
 in des heiligen reichs <term type="phrase">achte, aberacht oder bennen</term>,
 geistlichen oder werntlichen, sein, sollen si auch dheinswegs schoffen
@@ -447,7 +447,7 @@ setzen oder die ganz oder der ein teile abzutun sich gepuren wurde nach
 gelegenheit der zeit und der sache, daz wir das, als doch fur sich selbs
 billich ist, mit rat unserr und des reichs getrewen ze <ref target="http://diglib.hab.de/inkunabeln/153-4-quod-2f-2/start.htm?image=00074">[Druck
 1484 HAB Wolfenbüttel]</ref>tun haben und tun mogen, all argliste und geverde
-in allen und ieglichen <pb n="S. 265" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g265"/>
+in allen und ieglichen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 265" facs="ln:,http://drw-www"/>
 vorgeschriben puncten und artikeln genzlich außgeslossen und
 hindangesatzt.</p>
                     </div>

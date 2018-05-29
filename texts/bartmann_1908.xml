@@ -210,7 +210,7 @@ Nr. 5, S. 309 ff.</cell> <cell/>
             </div>
             <div xml:id="K.0">
 <p>
-  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g299" n="299"/> <pb n="299"/>] <anchor xml:id="SD11"/>
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="299" facs="ln:bartmann_1908F,"/> <pb n="299"/>] <anchor xml:id="SD11"/>
                 </p>
  </div>
             <div xml:id="K.1"> 
@@ -242,7 +242,7 @@ lassen". Dieses "etwas" wird wohl die in W. Ldr. I<note xml:id="n13" type="footn
 die stete Abkürzung für <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=WestfLR.">Philippi, Westfälische
 Landrechte, Bd. I, Landrechte des Münsterlandes, Münster 1907</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">151ff.</ref>
                     </note>
-abgedruckte  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g300" n="300"/> <pb n="300"/>] <anchor xml:id="SD12"/>
+abgedruckte  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="300" facs="ln:bartmann_1908F,"/> <pb n="300"/>] <anchor xml:id="SD12"/>
 "kurtze anzeich der misbruiche" sein. Weiter heißt es, vor allem solle eine
 "Inquisition bei allen hoch- und niedergerichten bestendiglich durch etliche
 erfarene Rethe sopalt immer müglich, fürgenommen werden". Ferner: "Dweill in
@@ -267,7 +267,7 @@ Offizialat-, eine Hof- und eine Landgerichtsordnung.<note xml:id="n14" type="foo
 sind diese Entwürfe nicht mehr erhalten.</note> Von einer
 Aufzeichnung des Gewohnheitsrechtes sehen und hören wir nichts mehr.</p> 
 <p>Die wieder vorgelegten Entwürfe wurden durch den Landtagsabschied vom 8.
-August 1569 nochmals einer Kommission überwiesen.  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g301" n="301"/> <pb n="301"/>] <anchor xml:id="SD13"/> Im April 1570
+August 1569 nochmals einer Kommission überwiesen.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="301" facs="ln:bartmann_1908F,"/> <pb n="301"/>] <anchor xml:id="SD13"/> Im April 1570
 wurde endlich die "Reformation des geistlichen Offizialat-, auch Hof- und
 Landgerichts- und andere gemeine Ordnungen" von dem Landtage angenommen.</p> 
 <p>Erst am 26. Februar 1571 erließ der Bischof das im Januar 1568 beschlossene
@@ -281,7 +281,7 @@ ff.</ref>
 <p>Durch mancherlei Streitigkeiten zwischen Bischof und Ständen wurde die
 Publikation der Ordnungen bis zum 31. Oktober 1571 verzögert. Als ihr Verfasser
 wird in dem Protokoll über die Eröffnung des Hofgerichts der Kanzler Dr. jur.
- <name type="person">Steck</name> genannt.  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g302" n="302"/> <pb n="302"/>] <anchor xml:id="SD14"/> </p>
+ <name type="person">Steck</name> genannt.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="302" facs="ln:bartmann_1908F,"/> <pb n="302"/>] <anchor xml:id="SD14"/> </p>
             </div>
             <div xml:id="K.2"> 
 <head>Zweites Kapitel.</head> 
@@ -319,7 +319,7 @@ II</ref>). Für die Freigerichte begnügte man
 sich mit einer energischen Ermahnung, die bestehende "Reformation" zu
 befolgen.<note xml:id="n25" type="footnote" n="2.5">
                         <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.3">LGO.
-3 III</ref>.</note> Auch  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g303" n="303"/> <pb n="303"/>] <anchor xml:id="SD15"/> die Holz-, Gast- und Bauergerichte können wir
+3 III</ref>.</note> Auch  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="303" facs="ln:bartmann_1908F,"/> <pb n="303"/>] <anchor xml:id="SD15"/> die Holz-, Gast- und Bauergerichte können wir
 übergehen, da sich über diese nur wenige Vorschriften in der LGO. finden<note xml:id="n26" type="footnote" n="2.6">
                         <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.9">3
 IX-XIII</ref>.</note>, die überdies auch den Bestimmungen über die Gogerichte
@@ -379,7 +379,7 @@ Ldr., I, S. 198</ref>, 3.</note>
                         <index level1="Gogericht" level2="Abgrenzung zum Goding"/>
                         <index level1="Goding" level2="Abgrenzung zum Gogericht"/>
 Über die Abgrenzung von
-Goding und Gogericht im  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g304" n="304"/> <pb n="304"/>] <anchor xml:id="SD16"/> Hochstift Osnabrück schreibt Stüve<note xml:id="n219" type="footnote" n="2.19">Stüve,
+Goding und Gogericht im  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="304" facs="ln:bartmann_1908F,"/> <pb n="304"/>] <anchor xml:id="SD16"/> Hochstift Osnabrück schreibt Stüve<note xml:id="n219" type="footnote" n="2.19">Stüve,
 Geschichte des Hochstifts Osnabrück, Jena 1872,
 II, S. 575.</note>: "Ursprünglich sollten alle Klagen bei den Landgödingen
 vorgebracht werden. Später wurden gewöhnliche Schuldklagen und ähnliche
@@ -416,7 +416,7 @@ alles "per viam consultationis".<note xml:id="n225" type="footnote" n="2.25">
 Ldr., I, S. 158</ref>.</note> </p> 
 <p> Mit diesem Urteil (vurraem)<note xml:id="n226" type="footnote" n="2.26">Mißbr. Nr. 13, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
 Ldr., I, S. 152</ref>.</note> in der Hand konnte
-man immer noch überlegen, ob es aussichtsvoll sei, einen Rechtsstreit  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g305" n="305"/> <pb n="305"/>] <anchor xml:id="SD17"/> zu beginnen,
+man immer noch überlegen, ob es aussichtsvoll sei, einen Rechtsstreit  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="305" facs="ln:bartmann_1908F,"/> <pb n="305"/>] <anchor xml:id="SD17"/> zu beginnen,
 damit "das urthel zum negsten gerichte vur recht
 abgekant werde". Auch pflegte man den späteren Gegner von der Verhandlung vor
 dem Goding zu benachrichtigen.<note xml:id="n227" type="footnote" n="2.27">
@@ -455,7 +455,7 @@ bededinghet"<note xml:id="n232" type="footnote" n="2.32">Es handelt sich hier zw
 Vergleich, der auch nicht vor dem Gogericht, sondern, weil mit dem Inhaber des
 Gerichtes selbst, den Korffen geschlossen, "vor syner gnade rede" (S. 196)
 getätigt worden ist. Die Form ist jedoch wohl sicher die eines
-Gerichtsbeschlusses.</note>, den sie vorliest: "To  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g306" n="306"/> <pb n="306"/>]<anchor xml:id="SD18"/> gedenkenne, dat
+Gerichtsbeschlusses.</note>, den sie vorliest: "To  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="306" facs="ln:bartmann_1908F,"/> <pb n="306"/>]<anchor xml:id="SD18"/> gedenkenne, dat
 men up den nesten godinck ... vraghe den gemeynen dinckpflichtigen, of de ok
 gedenken ... Sachten ok de dinckpflichtigen, dat id also de tyt eres levendes
 geholden were, dat dan de Korve by eren besitte blyven". Als die Partei nun
@@ -498,7 +498,7 @@ unten.</note>
 Er wurde von dem Inhaber des Gerichts ernannt<note xml:id="n238" type="footnote" n="2.38">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p018">W.
 Ldr., I, S. XVIII</ref> und XLI.</note>, nicht
- [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g307" n="307"/> <pb n="307"/>] <anchor xml:id="SD19"/>
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="307" facs="ln:bartmann_1908F,"/> <pb n="307"/>] <anchor xml:id="SD19"/>
 mehr von dem "Land" gewählt.<note xml:id="n239" type="footnote" n="2.39">Vgl.
 Planck, Deutsches Gerichtsverfahren im Mittelalter, Braunschweig 1872, I, S. 9
 und Ssp. I, Art. 55 und 56.</note> Seine Tätigkeit bestand fast ausschließlich
@@ -553,7 +553,7 @@ beiden genannten Orten keine Godinge stattfanden, ferner aus dem Mißbr. Nr.
 152</ref>.</note> und aus <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.2">LGO. 1
 II</ref>: "Es soll durch richter und scheffen und nit durch den umstandt (wie
 biß daher geschehen) erkendt werden". Auch hier ist nicht das Goding gemeint,
-denn dieses regelt ausschließlich  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g308" n="308"/> <pb n="308"/>] <anchor xml:id="SD20"/> und
+denn dieses regelt ausschließlich  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="308" facs="ln:bartmann_1908F,"/> <pb n="308"/>] <anchor xml:id="SD20"/> und
 erschöpfend <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.2">LGO. 2 II</ref>. Schließlich
 wäre noch die Kölner Reformation von 1537 heranzuziehen: "Und wollen hiemit den
 alten mißbruch unser Westvelischer gericht, als das die urthel nit durch den
@@ -594,7 +594,7 @@ durchaus nicht immer aus der Gerichtsgemeinde.<note xml:id="n255" type="footnote
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p020">W.
 Ldr., I, S. XX</ref>.</note> Im Goding konnte der
 Gograf stets genug Adelige, Bauerrichter oder Bauern als Kornoten haben; aber
-zum Gogericht, wo er nicht darauf rechnen durfte, stets passende Leute zur  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g309" n="309"/> <pb n="309"/>] <anchor xml:id="SD21"/> Hand zu haben,
+zum Gogericht, wo er nicht darauf rechnen durfte, stets passende Leute zur  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="309" facs="ln:bartmann_1908F,"/> <pb n="309"/>] <anchor xml:id="SD21"/> Hand zu haben,
 brachte er seine Kornoten mit, und zwar waren dies
 meist Beamte, so in <name type="place">Vechta</name> der Drost und der Richter
 von <name type="place">Wildeshusen</name>, in <name type="place">Dülmen</name>
@@ -640,7 +640,7 @@ zu sein, erfüllten schon die Kornoten.</p> </div>
 <div xml:id="K.2.3"> <head>§ 3. Das Verfahren.</head> <index level1="Gogericht" level2="Verfahren"/>
 <index level1="Goding" level2="Verfahren"/> 
 <p>Über die Form der Verhandlungen im Goding sind wir hinlänglich unterrichtet;
-bezüglich des Verfahrens im Gogericht  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g310" n="310"/> <pb n="310"/>] <anchor xml:id="SD22"/> können wir nur
+bezüglich des Verfahrens im Gogericht  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="310" facs="ln:bartmann_1908F,"/> <pb n="310"/>] <anchor xml:id="SD22"/> können wir nur
 Vermutungen aufstellen. Wir werden jedoch wohl nicht fehlgehen, wenn wir
 annehmen, daß bedeutende Unterschiede zwischen beiden nicht bestanden haben.
 Sehen wir doch noch im Jahre 1448<note xml:id="n262" type="footnote" n="2.62">
@@ -680,7 +680,7 @@ scheltwort, nytwort, strytwort, kyffwort, hennewort."<note xml:id="n266" type="f
 Ldr., I, S. 143</ref>.</note>
                     </p> 
 <p>
-                        <index level1="Bank"/>Nachdem also "die bank gespannt", folgte zunächst  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g311" n="311"/> <pb n="311"/>]  <anchor xml:id="SD23"/> die Zulassung
+                        <index level1="Bank"/>Nachdem also "die bank gespannt", folgte zunächst  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="311" facs="ln:bartmann_1908F,"/> <pb n="311"/>]  <anchor xml:id="SD23"/> die Zulassung
 der Fürsprechen<index level1="Fürsprech/Vorsprech" level2="Gogericht"/>, denn im
 Gegensatz zum Sachsenrecht, das die Annahme eines
 Fürsprechen der Partei anheim stellte<note xml:id="n267" type="footnote" n="2.67">Planck, a. a.
@@ -721,7 +721,7 @@ nicht en scheydeden, se en hadden getughet in der sake, dat recht sy".</note>
 oder einen Fürsprechen<note xml:id="n275" type="footnote" n="2.75">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.5">LGO.
 1 V, Abs. 7</ref>.</note> persönlich oder
-ein ihnen gehöriges Gut festzuhalten, um zunächst ihr Erscheinen vor  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g312" n="312"/> <pb n="312"/>] <anchor xml:id="SD24"/> Gericht, dann
+ein ihnen gehöriges Gut festzuhalten, um zunächst ihr Erscheinen vor  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="312" facs="ln:bartmann_1908F,"/> <pb n="312"/>] <anchor xml:id="SD24"/> Gericht, dann
 auch die Erfüllung ihrer anderen Verbindlichkeiten
 sicher zu stellen.<note xml:id="n276" type="footnote" n="2.76">Planck, a.a.O., II, S.
 380.</note>
@@ -765,7 +765,7 @@ unter Verpfändung der Treue.<note xml:id="n284" type="footnote" n="2.84">
 Rechtsgeschichte, 5. Auflage, S. 306</ref>.</note> Inhalt des Versprechens ist die Erfüllung der prozessualen
 Pflichten, insbesondere hier das Erscheinen im nächsten Ding. Erkennt der
 Beklagte den Anspruch an, so erhält er eine Frist zur Befriedigung des Klägers.
-  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g313" n="313"/> <pb n="313"/>] <anchor xml:id="SD25"/>Beteuert
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="313" facs="ln:bartmann_1908F,"/> <pb n="313"/>] <anchor xml:id="SD25"/>Beteuert
 der Beklagte dagegen seine "unschult up de ansprake"<note xml:id="n285" type="footnote" n="2.85">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W.
 Ldr., I, S.
@@ -810,7 +810,7 @@ Beweisurteil finden wir in <ref target="http://drw-www.adw.uni-heidelberg.de/drw
 239e</ref>.<note xml:id="n294" type="footnote" n="2.94">Vgl. auch Kölner Reformation, S. 436:
 "An unseren Westvelischen Gerichten die urtheil nit dermaß mit fürbehaltnissen
 adir uff condition und fürwardt, als das jemant bei ein gut geweist wirdt, mit
- [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g314" n="314"/>]  
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="314" facs="ln:bartmann_1908F,"/>]  
 der massen, sein gegentheil kundten dan mit besserm recht darauß
 entwinden u. dergl. nit mehr gewiesen werden sollen."</note>
                         <anchor xml:id="SD26"/> <pb n="314"/>
@@ -858,7 +858,7 @@ Ldr., I, S. 239g</ref>: "darup
 vragede J.St. (Kläger) eynes gerechten ordels, wu men den wech openen solle in
 dem rechten und welliker tyd? Darup wart ghewiset ..., B. (Beklagter) solle den
 wech  openen bynnen dren dagen; en dede he des nicht, so solde dat
-gerichte den wech openen."</note> [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g315" n="315"/> <pb n="315"/>] <anchor xml:id="SD27"/>
+gerichte den wech openen."</note> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="315" facs="ln:bartmann_1908F,"/> <pb n="315"/>] <anchor xml:id="SD27"/>
                     </p> <index level1="Urteil" level2="Beratung"/>
 <index level1="Gogericht" level2="Urteilsfindung"/> 
 <p>Die sämtlichen Urteile, die der Umstand zu sprechen hat, werden vorher
@@ -912,7 +912,7 @@ Ldr., I, S.
 "stadet der gogreve dat vor rechte".<note xml:id="n2110" type="footnote" n="2.110">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
 Ldr., I, S. 202</ref>.</note> Haben dann die
-Parteien dem Gografen noch  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g316" n="316"/> <pb n="316"/>]  <anchor xml:id="SD28"/> "affgewunnen,
+Parteien dem Gografen noch  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="316" facs="ln:bartmann_1908F,"/> <pb n="316"/>]  <anchor xml:id="SD28"/> "affgewunnen,
 dal he en itlichen eyn schyn moiste geven under syn segel up oer koist"<note xml:id="n2111" type="footnote" n="2.111">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g090">W.
 Ldr., I, S.
@@ -961,7 +961,7 @@ Ldr., I, S. 245</ref> u. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-c
 überhaupt jeder Anwesende befugt<note xml:id="n2118" type="footnote" n="2.118">Planck, a.a.O., I,
 S. 270.</note>, eine Tatsache, die im Wesen der Schelte begründet liegt. Diese
 bezweckt nämlich nicht die Aufhebung eines schon gesprochenen Urteils —
-ein solches  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g317" n="317"/> <pb n="317"/>]
+ein solches  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="317" facs="ln:bartmann_1908F,"/> <pb n="317"/>]
 <anchor xml:id="SD29"/> kommt nur zustande, wenn niemand "wedderachtet" —
 vielmehr soll durch das Angehen eines höheren Gerichtes"<note xml:id="n2119" type="footnote" n="2.119">Hierzu
 wie auch zum Folgenden vgl. stets <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W. Ldr., I, S.
@@ -1004,7 +1004,7 @@ auch zum Folgenden vgl. stets <ref target="http://drw-www.adw.uni-heidelberg.de/
 85</ref>.</note> Kommt eine Einigung nicht zustande, so fertigt der Gograf den
 Richtschein aus und stellt den Parteien anheim, das Urteil " up den nesten
 godink to hovede to halen". Zu dieser Verhandlung muß der Schelter den
-Urteilsfinder  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g318" n="318"/> <pb n="318"/>]
+Urteilsfinder  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="318" facs="ln:bartmann_1908F,"/> <pb n="318"/>]
 <anchor xml:id="SD30"/> und auch denjenigen laden, auf dessen Frage das Urteil
 gewiesen worden ist.<note xml:id="n2127" type="footnote" n="2.127">In der Ladung des Letzteren
 liegt schon ein Ansatz zu der neuen Auffassung der Berufung als eines
@@ -1023,7 +1023,7 @@ Vorschlag des Urteilfinders beseitigt, sondern zugleich der "<index level1="vurr
 des Schelters als bindende Norm aufgestellt, obwohl
 vielleicht die Mehrheit in der ersten Instanz auf Seiten des Urteilfinders
 gestanden hat. Insofern ist die Schelte doch mehr als ein bloßer Zwischenstreit
-des Schelters und Urteilfinders.  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g319" n="319"/> <pb n="319"/>]  <anchor xml:id="SD31"/>
+des Schelters und Urteilfinders.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="319" facs="ln:bartmann_1908F,"/> <pb n="319"/>]  <anchor xml:id="SD31"/>
                     </p> 
 </div> 
 </div>
@@ -1052,7 +1052,7 @@ geführt wird, in das Klage, Klagebeantwortung,
 ferner die Zeugenaussagen aufgenommen werden. <index level1="Gerichtsschreiber"/>Der
 Gerichtsschreiber wird dadurch ausschließlich
 Urkundsperson an Stelle der "kornoten". Auch sehen wir, daß für jedes
-Vorbringen ein besonderer Termin  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g320" n="320"/> <pb n="320"/>] <anchor xml:id="SD32"/> angesetzt
+Vorbringen ein besonderer Termin  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="320" facs="ln:bartmann_1908F,"/> <pb n="320"/>] <anchor xml:id="SD32"/> angesetzt
 wird, worauf die Gegenpartei Abschrift des Protokolls und neuen Termin zur
 Antwort erhält. Überhaupt scheint die <index level1="Schriftlichkeit des Verfahrens"/>Schriftlichkeit
 sich immer mehr, auch im Parteivorbringen, breit
@@ -1095,7 +1095,7 @@ gograff oder richter macht haben, einmahl im jahr zu sommerszeiten ein gemein
 göding . . öffentlich verkündigen zu lassen, auf welchem gerürter gograff für
 sich selbst oder auff ansuchen der partheien die erscheinende ins gemein
 befragen sol, wie es nach landts gebrauch mit graben, zeunen, potten oder
-pflantzen, sehen, mehen, wegen  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g321" n="321"/> <pb n="321"/>]  <anchor xml:id="SD33"/> und stegen,
+pflantzen, sehen, mehen, wegen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="321" facs="ln:bartmann_1908F,"/> <pb n="321"/>]  <anchor xml:id="SD33"/> und stegen,
 und dergleichen zu halten, item von Mist und pflug gerechtigkeit, ... und sie
 darauff bey iren eyden ermahnen, die warheit, wie man die ins gemein belebt und
 erfahren und bißheran bestendiglich gehalten, zu vermelden. Was dann
@@ -1129,7 +1129,7 @@ Teil, Titel I</ref>, wo angeordnet wird,
 daß das Protokoll über die Übergaben, Verträge und Testamente, die gerichtlich
 geschehen sind, gut aufbewahrt werden solle. Zum anderen in der Taxe der
 Gerichtsgefälle, <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.16">1 XVI</ref>, wo es
-heißt: "Item von Erbkaufen,  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g322" n="322"/> <pb n="322"/>] <anchor xml:id="SD34"/> Verträgen,
+heißt: "Item von Erbkaufen,  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="322" facs="ln:bartmann_1908F,"/> <pb n="322"/>] <anchor xml:id="SD34"/> Verträgen,
 Verzichten, Erbaußgängen und dergl., da etwas erblich gegeben, verkaufft oder
 auffgetragen wird, welches vor dem Richter in beysein der Schöffen jederzeit
 geschehen sol ...". Die alte Form ist also mit Änderung der Namen beibehalten,
@@ -1174,7 +1174,7 @@ Ldr. S. 6ff.</ref>
                     </p> 
 <p>Verfassung und Verfahren des Gogerichtes zeigen nach der LGO. von 1571 ein
 völlig verändertes Aussehen. Die seit Anfang des 16. Jahrhunderts so tätige
-prozessuale Gesetzgebung aller Territorien und des Reiches macht ihren  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g323" n="323"/> <pb n="323"/>] <anchor xml:id="SD35"/> Einfluß deutlich
+prozessuale Gesetzgebung aller Territorien und des Reiches macht ihren  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="323" facs="ln:bartmann_1908F,"/> <pb n="323"/>] <anchor xml:id="SD35"/> Einfluß deutlich
 bemerkbar. <index level1="Münsterische Hof- und Landgerichtsordnung 1571" level2="Quellen"/>Als
 Vorbilder dürften der LGO.
 gedient haben: die <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MainzUGO. 1534">Mainzer
@@ -1213,7 +1213,7 @@ II</ref>). Vertreter des Richters ist der älteste Schöffe.</p>
 doch können sie "auß redlichen Ursachen ihres gerichtlichen Ampts durch die
 Obrigkeit erlassen werden" (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.1">1 I</ref>).
 Wenn ein Schöffe stirbt oder aus sonstigen Gründen sein Amt nicht mehr ausüben
-kann, so  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g324" n="324"/> <pb n="324"/>]
+kann, so  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="324" facs="ln:bartmann_1908F,"/> <pb n="324"/>]
 <anchor xml:id="SD36"/> sollen "die undergesessene deß gerichtes" dem <index level1="Stuhlherr"/>Stuhlherrn
 zwei oder drei Personen aus ihrer Mitte
 vorschlagen, damit er eine daraus zum Schöffen wähle. Die übrigen
@@ -1249,7 +1249,7 @@ Tätigkeit der Parteien verlegt ist.</p>
 <index level1="Gerichtsschreiber"/>Gerichtsschreiber sein. Er hat "die namen
 der Partheien, Citationen, Mandaten, vort Clag, Antwort, Beweisungen, ein- und
 gegenreden, auch die Urtheil und Decreta auszuschreiben", und den Parteien auf
-Verlangen Abschriften der Protokolle und Urteile auszufertigen  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g325" n="325"/> <pb n="325"/>]  <anchor xml:id="SD37"/> (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.6">1
+Verlangen Abschriften der Protokolle und Urteile auszufertigen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="325" facs="ln:bartmann_1908F,"/> <pb n="325"/>]  <anchor xml:id="SD37"/> (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.6">1
 IV</ref>). Die Ladungen und sonstige
 Botengänge, ferner die Aufrechthaltung der Ordnung während der Sitzungen
 besorgt ein <index level1="Bote"/>Bote oder <index level1="Frone"/>Frone, der
@@ -1287,7 +1287,7 @@ ist von zehn auf sechs Tage herabgesetzt (<ref target="http://drw-www.adw.uni-he
 VII</ref>).</p> 
 <p>Ein <index level1="Schiedsverfahren"/>Schiedsverfahren, das heißt ein
 Versuch, die Streitigkeit durch einen Vergleich, "mit minne" zu erledigen, wie
- [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g326" n="326"/> <pb n="326"/>] <anchor xml:id="SD38"/>
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="326" facs="ln:bartmann_1908F,"/> <pb n="326"/>] <anchor xml:id="SD38"/>
 er in vielen Ordnungen vorgeschrieben war<note xml:id="n314" type="footnote" n="3.14">Vgl. Schwartz,
 a.a.O., S. 391.</note>, findet wie früher, so auch
 jetzt nicht statt.</p> 
@@ -1325,7 +1325,7 @@ V</ref>). Das als Mißbrauch gerügte Verfahren<note xml:id="n316" type="footnot
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W. Ldr. I, S. 151, Nr. 6</ref>.</note> wird
 also beibehalten.</p> 
 <p>Will der Beklagte dilatorische oder solche peremptorische Einwendungen
-machen, die <index level1="litis finitae"/>litis finitae heißen, so  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g327" n="327"/> <pb n="327"/>] <anchor xml:id="SD39"/> muß er sie
+machen, die <index level1="litis finitae"/>litis finitae heißen, so  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="327" facs="ln:bartmann_1908F,"/> <pb n="327"/>] <anchor xml:id="SD39"/> muß er sie
 bei Strafe der Ausschließung sämtlich auf dem ersten
 Termin vorbringen (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.24">2 XXIV</ref>).<note xml:id="n317" type="footnote" n="3.17">Nach
 <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1555&amp;fs=III 13">KGO. 3
@@ -1366,7 +1366,7 @@ alten Verfahren.</p>
 <p>Außer den oben genannten Eiden wird noch einer oder beiden Parteien das
 <index level1="juramentum calumniae"/>juramentum calumniae, der <index level1="Gefährdeeid/Calumnieneid" level2="bei Positionen/Satzstücken"/>Eid
 "für
-gefehrde", auferlegt. Bei Verweigerung dieses Eides wird  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g328" n="328"/> <pb n="328"/>] <anchor xml:id="SD40"/> der Kläger
+gefehrde", auferlegt. Bei Verweigerung dieses Eides wird  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="328" facs="ln:bartmann_1908F,"/> <pb n="328"/>] <anchor xml:id="SD40"/> der Kläger
 kostenpflichtig abgewiesen, der Beklagte ohne weiteres verurteilt (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.5">2
 V</ref>).<note xml:id="n320" type="footnote" n="3.20">Über
 die verderblichen Folgen einer solchen Eideshäufung vgl. Schwartz, a.a.O., S.
@@ -1406,7 +1406,7 @@ Bestimmungen der <ref target="KölnRef.1537.431">Kölner Reformation, S.
 431ff.</ref> in erweiterter Form wieder.</note>
                     </p> 
 <p>Auf dem vierten Termin werden die Zeugenaussagen eröffnet. Hat eine Partei
-sich vor dem Verhör Einwendungen  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g329" n="329"/> <pb n="329"/>] <anchor xml:id="SD41"/> gegen einen
+sich vor dem Verhör Einwendungen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="329" facs="ln:bartmann_1908F,"/> <pb n="329"/>] <anchor xml:id="SD41"/> gegen einen
 Zeugen vorbehalten oder leistet sie einen besonderen <index level1="Gefährdeeid/Calumnieneid"/>Gefährdeeid,
 so wird in einem getrennten
 Verfahren die Glaubwürdigkeit des Zeugen geprüft. <index level1="Zeuge" level2="Glaubwürdigkeit"/>Unter
@@ -1442,7 +1442,7 @@ welche die privilegierten Sachen nur zu Feriensachen macht (S. 423).</note>
 wird folgendermaßen gehandhabt. Ist der
 Beklagte zweimal ausgeblieben, so wird ohne ihn verhandelt, er selbst aber zu
 keiner Einrede mehr zugelassen, falls er wieder erscheinen sollte (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.26.4">2
-XXVI Abs. 4</ref>).  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g330" n="330"/> <pb n="330"/>]
+XXVI Abs. 4</ref>).  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="330" facs="ln:bartmann_1908F,"/> <pb n="330"/>]
 <anchor xml:id="SD42"/> <index level1="Einsetzung" level2="ex primo decreto"/>Will der
 Kläger dieses Verfahren
 nicht, so kann er immissio ex primo decreto verlangen (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.26.6">2
@@ -1482,7 +1482,7 @@ Vorbringen<note xml:id="n327" type="footnote" n="3.27">
 Hofgerichtsordnung, 1
 IV</ref>.</note>, sie ist nur möglich gegen Endurteile und solche "Bescheidt
 und gerichtliche Beschwerungen, so durch die Appellation von der Endurtheil in
-der Hauptsachen nicht  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g331" n="331"/> <pb n="331"/>] <anchor xml:id="SD43"/> repariert werden mögen" (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=230">2
+der Hauptsachen nicht  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="331" facs="ln:bartmann_1908F,"/> <pb n="331"/>] <anchor xml:id="SD43"/> repariert werden mögen" (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=230">2
 XXX</ref>), <index level1="Appellation " level2="Instanzenzug"/>sie geht nicht mehr
 an ein anderes Gogericht, sondern,
 soweit sie nicht "an ein Stadt, Fleck oder Wigboldt gehörte", an das
@@ -1523,7 +1523,7 @@ Leistung zu bezeichnen. Zwar kann sie auf Selbständigkeit keinen allzu großen
 Anspruch machen — wie wir sahen, ist sie in der äußeren Form und in
 einzelnen Bestimmungen der Mainzer Untergerichtsordnung und der Kölner
 Reformation nachgebildet, inhaltlich stark von der Reichsgesetzgebung abhängig
-— aber durch das  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g332" n="332"/> <pb n="332"/>] <anchor xml:id="SD44"/> Ganze geht doch ein erfrischender Zug und ein
+— aber durch das  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="332" facs="ln:bartmann_1908F,"/> <pb n="332"/>] <anchor xml:id="SD44"/> Ganze geht doch ein erfrischender Zug und ein
 gutes Empfinden für gesunde Entwicklung. Überall zeigt sich das redliche
 Bestreben, Neues wie Altes auf seine Brauchbarkeit unparteiisch zu prüfen. Da
 wir schon an den einzelnen Stellen darauf hingewiesen haben, erübrigt es sich,
@@ -1552,7 +1552,7 @@ Kostenfestsetzungsverfahren und die Einsetzung eines ständigen
 Gerichtsschreibers.</p> 
 <p>Schließlich hat die LGO. gewiß auch viele örtliche Verschiedenheiten des
 Verfahrens beseitigt. Nur das Gogericht auf dem Desum und seine Untergerichte
-erhielten  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g333" n="333"/> <pb n="333"/>]
+erhielten  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="333" facs="ln:bartmann_1908F,"/> <pb n="333"/>]
 <anchor xml:id="SD45"/> 1578 auf unablässiges Bitten der Eingesessenen eine
 besondere "Vechtische Gerichtsordnung"<note xml:id="n333" type="footnote" n="3.33">Abgedruckt
 bei <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g068">Engelke, a.a.O., S. 68ff.</ref>
@@ -1573,7 +1573,7 @@ bestendiger und bequemer auffgeschrieben, registriert und bedacht werden möge"
 die Unbilden der Witterung nicht gescheut, um dem Gedanken des offenen, freien
 Gerichtes Ausdruck zu geben<note xml:id="n334" type="footnote" n="3.34">Vgl. Planck, a.a.O., II,
 S. 23.</note>; nun fordern Schreibwerk und Aktenwesen gebieterisch den
-geschlossenen, das heißt überdeckten Raum. [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g334" n="334"/> <pb n="334"/>] <anchor xml:id="SD46"/>
+geschlossenen, das heißt überdeckten Raum. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="334" facs="ln:bartmann_1908F,"/> <pb n="334"/>] <anchor xml:id="SD46"/>
                     </p> </div>
 </div>
             <div xml:id="K.4."> 
@@ -1603,7 +1603,7 @@ gingen, um das neue Recht zu erlernen. So sehen wir, daß in den Jahren
 Matrikel der Universität Köln, 1389-1559, Bd. I, Bonn
 1892.</note> in der Anlage A aufgezählt sind, in Köln jura oder leges studiert
 haben. Ferner erfahren wir, daß in den Jahren 1466 bis 1559 aus den Städten
-Bocholt, Emden, Coesfeld, Münster und Warendorf im ganzen 672 Studenten in  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g335" n="335"/> <pb n="335"/>]  <anchor xml:id="SD47"/> Köln immatrikuliert
+Bocholt, Emden, Coesfeld, Münster und Warendorf im ganzen 672 Studenten in  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="335" facs="ln:bartmann_1908F,"/> <pb n="335"/>]  <anchor xml:id="SD47"/> Köln immatrikuliert
 waren, wovon 119 ad jura, 4 ad leges.<note xml:id="n44" type="footnote" n="4.4">Die Zahlen für das
 ganze Stift anzugeben war leider nicht
 möglich, da der zweite Band der Matrikel noch nicht erschienen ist; vorstehende
@@ -1637,7 +1637,7 @@ Köln. Die darüber gepflogene Korrespondenz ist teilweise erhalten.<note xml:id
 Landes-Archiv, Landtagsakten 1567-74.</note>
 Aus Köln stammt auch das Gutachten des Professor <name type="person">Tossanus</name>
 und des lic. <name type="person">Gierlich</name> <ref target="WLdr.121">W.-Ldr. I,
-S.121f.</ref> [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g336" n="336"/> <pb n="336"/>] 
+S.121f.</ref> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="336" facs="ln:bartmann_1908F,"/> <pb n="336"/>] 
  <anchor xml:id="SD48"/> </p>
 <p>Indes nicht nur nach Köln führten die nachbarlichen Beziehungen junge
 Westfalen zum Rechtsstudium. Auch die berühmte<index level1="Universität Bologna"/>
@@ -1666,7 +1666,7 @@ in Leipzig 10 Stiftseingesessene immatrikuliert waren, 1495-1560 in Bonn 13,
 9ff., Nr. 10 u. 11.</note> Auch diese Zahlen dürften jedoch wegen der
 mangelhaften Heimatsbezeichnung wohl viel zu gering sein.</p> 
 <p>Infolge seiner Lage war Münster besonders dem Einflusse Hollands ausgesetzt.
-Drum ist auch sicher mancher  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g337" n="337"/> <pb n="337"/>] <anchor xml:id="SD49"/> Münsteraner
+Drum ist auch sicher mancher  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="337" facs="ln:bartmann_1908F,"/> <pb n="337"/>] <anchor xml:id="SD49"/> Münsteraner
 nach Löwen gezogen, wo der erste Rektor der Universität, im Jahre 1429, ein
 Kölner Legist war, oder nach Leiden, wo <name type="person">Donellus</name> im
 Jahre 1576 römisches Recht las.<note xml:id="n411" type="footnote" n="4.11">Stölzel, a.a.O., I,
@@ -1701,7 +1701,7 @@ Ldr., I, S. 166</ref>).</note> gewesen war<note xml:id="n416" type="footnote" n=
 Köln ein <name type="person">Egbertus de
 Langen</name> ad artes eingeschrieben.</note>, daß ferner mehrere Gografen
 Adelige waren, bei denen die Neigung zum Besuch der Universitäten stets sehr
-groß gewesen  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g338" n="338"/> <pb n="338"/>]
+groß gewesen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="338" facs="ln:bartmann_1908F,"/> <pb n="338"/>]
 <anchor xml:id="SD50"/> ist, so kann man als gewiß annehmen, daß mancher Gograf
 römischrechtliche Kenntnisse besessen hat.</p> 
 <p>Aus dem Satz der Hofgerichtsordnung <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=1.4">1
@@ -1739,7 +1739,7 @@ es<note xml:id="n421" type="footnote" n="4.21">
 Notarien geben uns die seit 1571 geführten Notariatsregister<note xml:id="n422" type="footnote" n="4.22">Im
 kgl. Staatsarchiv zu Münster.</note> guten Aufschluß. Die meisten
 von ihnen nennen sich Kleriker<note xml:id="n423" type="footnote" n="4.23">Vgl. das französische
-Wort clerc = Notar.</note>, was ein  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g339" n="339"/> <pb n="339"/>] <anchor xml:id="SD51"/>
+Wort clerc = Notar.</note>, was ein  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="339" facs="ln:bartmann_1908F,"/> <pb n="339"/>] <anchor xml:id="SD51"/>
 Universitätsstudium vermuten läßt, fast alle schreiben lateinisch, einer trägt
 sogar zum Beweise seiner Rechtskenntnisse eine lateinische Definition der
 stipulatio in das Register ein. Da sie durch den Offizial und Siegler oder die
@@ -1772,7 +1772,7 @@ Staatsarchiv zu Münster.</note>, das laut Inschrift einem Gerichtsschreiber in
 Warendorf gehört hat. Ein in Osnabrück befindliches Exemplar der LGO.<note xml:id="n427" type="footnote" n="4.27">Dasselbe
 wurde aus der Bücherei des dortigen hist.
 Vereins frdl. zur Verfügung gestellt.</note> ist zusammengebunden mit der <ref target="VD16_L_1290">Schrift</ref>
-eines Dr. jur. <name type="person">Lersener</name>: "Ob es  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g340" n="340"/> <pb n="340"/>] <anchor xml:id="SD52"/> besser sey,
+eines Dr. jur. <name type="person">Lersener</name>: "Ob es  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="340" facs="ln:bartmann_1908F,"/> <pb n="340"/>] <anchor xml:id="SD52"/> besser sey,
 nach gewissenen beschriebenen ... Rechten ... oder nach eigener Vernunft ... zu
 urtheylen", Frankfurt 1595. Darin wird ganz naiv das geschriebene Recht<index level1="Recht, geschriebenes/positives"/>
 dem römischen gleichgesetzt und
@@ -1804,7 +1804,7 @@ Bestimmungen absehen können, daß sie bei äußerlicher Ähnlichkeit die oft v�
 verschiedenen zugrunde liegenden Prinzipien nicht erkennen. Wie wir schon bei
 dem Bericht der Burgmänner von Vechta<note xml:id="n428" type="footnote" n="4.28">Oben <ref target="#SD31">S.
 31</ref>.</note> und an anderen Stellen betonten, wies das neue
- [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g341" n="341"/> <pb n="341"/>] <anchor xml:id="SD53"/>
+ [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="341" facs="ln:bartmann_1908F,"/> <pb n="341"/>] <anchor xml:id="SD53"/>
 Verfahren so viele Ähnlichkeiten mit dem alten auf, daß die nicht
 juristisch gebildeten Mitglieder der Stände die fundamentalen Unterschiede
 zwischen beiden gewiß nicht in ihrem ganzen Umfange erkannt haben. <index level1="Deutsch" level2="als Gerichtssprache"/>Dazu
@@ -1837,7 +1837,7 @@ Gerichtskosten<note xml:id="n431" type="footnote" n="4.31">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151ff.</ref>, Mißbr. l, 16 u. 21.</note>, die sich auch ohne
 Änderung des ganzen Verfahrens hätten beseitigen lassen, die LGO. als einen
-bedeutenden Fortschritt erscheinen.  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g342" n="342"/> <pb n="342"/>]  <anchor xml:id="SD54"/>
+bedeutenden Fortschritt erscheinen.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="342" facs="ln:bartmann_1908F,"/> <pb n="342"/>]  <anchor xml:id="SD54"/>
                     </p> 
 <p>
                         <index level1="Landesherr" level2="Gerichtsgewalt"/>
@@ -1872,7 +1872,7 @@ nahm, ersieht man aus dem Memorial der Hofräte<note xml:id="n435" type="footnot
 S. <ref target="#SD11">11</ref>.</note>, wo es heißt, daß "I.f.G. des
 Justizienwerks Reformation als ein hochnotwendigkeit nit widerachten". Auch in
 der Proposition zum Landtag vom April 1569 heißt es, daß trotz der fleißigen
-Bitten der Stände "biß daher  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g343" n="343"/> <pb n="343"/>] <anchor xml:id="SD55"/> ein jeder
+Bitten der Stände "biß daher  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="343" facs="ln:bartmann_1908F,"/> <pb n="343"/>] <anchor xml:id="SD55"/> ein jeder
 abscheuens davon gehapt, sich dessen zu unterwinden".</p> 
 <p>Daß die Stände nicht allein durch die Mängel des alten Verfahrens veranlaßt
 wurden, so dringend um die neue Gerichtsordnung zu bitten, kann man aus der
@@ -1901,7 +1901,7 @@ die Schöffen, die Artikelform, den Zeugenbeweis gewöhnt worden.</p>
 keineswegs von einem Bankerott des deutschen Prozesses reden kann. Er hatte
 gewiß seine Mängel, aber er zeigte sich auch sehr entwicklungsfähig. Hätte die
 Entwicklung ihren ruhigen Lauf nehmen können, so wäre er gewiß auf eine ebenso
-hohe Stufe gelangt, wie der gemeine Prozeß. Beweis dafür  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g344" n="344"/> <pb n="344"/>] <anchor xml:id="SD56"/> ist seine
+hohe Stufe gelangt, wie der gemeine Prozeß. Beweis dafür  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="344" facs="ln:bartmann_1908F,"/> <pb n="344"/>] <anchor xml:id="SD56"/> ist seine
 Ausbildung bei den Brandenburger und Magdeburger Schöffenstühlen.</p> </div>
 
 <div xml:id="K.4.3"> <head>§ 3. Das materielle Recht.</head> <index level1="Rezeption" level2="Recht, materielles"/>
@@ -1940,7 +1940,7 @@ durch selbständige Prüfung — allerdings mit Hilfe der Aufzeichnungen
 Stammesrechte und des deutschen vom römischen Rechte bewußt, so trägt man doch
 kein Bedenken, im Fall des Zweifels nachzuforschen, wie es anderswo verhalten
 werde, in der Hoffnung, dadurch auf die richtigen Gesichtspunkte aufmerksam zu
-werden."</note>, so schöpften die Romanisten ihr  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g345" n="345"/> <pb n="345"/>] <anchor xml:id="SD57"/> Recht
+werden."</note>, so schöpften die Romanisten ihr  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="345" facs="ln:bartmann_1908F,"/> <pb n="345"/>] <anchor xml:id="SD57"/> Recht
 vorzugsweise aus den Definitionen und Distinktionen des <name type="person">Bartolus</name>
 und <name type="person">Baldus</name>.<note xml:id="n438" type="footnote" n="4.38">Vgl. Sohm, Institutionen,
 Leipzig 1901, S. 138ff.</note>
@@ -1970,7 +1970,7 @@ die
 Landgerichtsordnung auch bei den Gerichten erster Instanz das schriftliche
 Verfahren einführte, ermöglichte sie eine tiefgehende Beeinflussung der Richter
 und Schöffen durch Schriftsätze, welche die Parteien bei den gelehrten Juristen
-anfertigen ließen. Dazu  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g346" n="346"/> <pb n="346"/>] <anchor xml:id="SD58"/> kam, daß naturgemäß auch die Gerichte ihre
+anfertigen ließen. Dazu  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="346" facs="ln:bartmann_1908F,"/> <pb n="346"/>] <anchor xml:id="SD58"/> kam, daß naturgemäß auch die Gerichte ihre
 Rechtsbelehrung gern bei den Romanisten einholten.<index level1="Rechtsgutachten"/>
 Eine solche wurde aber nicht allein für den gerade
 vorliegenden Fall gegeben, sondern so abgefaßt, daß sie auch für ähnliche Fälle
@@ -2009,7 +2009,7 @@ I, S. 177</ref>.</note>, worin er
 sich beschwert, "daß der her officiael des geistligen hoveß zu Munster den
 burgern binnen Sendenhorst mit inhibitionis, cassationis, penalitatis mandatis
 ... bemoiet und daß man unangesehen furgebrachten dokumenten preventionis
-selden Sachen an  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g347" n="347"/> <pb n="347"/>] <anchor xml:id="SD59"/> sein befollen gericht ... kann remittiert
+selden Sachen an  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="347" facs="ln:bartmann_1908F,"/> <pb n="347"/>] <anchor xml:id="SD59"/> sein befollen gericht ... kann remittiert
 krigen". Noch deutlicher erkennen wir die wachsende Macht der geistlichen
 Gerichte, wenn wir vergleichen die Bestimmungen des im Jahre 1576 zwischen dem
 <index level1="Domkapitel zu Münster" level2="Justiztätigkeit"/>Domkapitel und
@@ -2040,7 +2040,7 @@ vom münsterischen Domkapitel verordnet worden, daß kein Kanoniker rezipiert
 werden würde, der nicht in Bologna, Paris oder einer anderen Universitätsstadt
 Frankreichs oder der Lombardei ein Jahr lang studiert hätte.<note xml:id="n447" type="footnote" n="4.47">Niesert,
 Münstersche Urkundensammlung. Coesfeld 1829, Bd. 7, S.
-283.</note>  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g348" n="348"/> <pb n="348"/>]
+283.</note>  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="348" facs="ln:bartmann_1908F,"/> <pb n="348"/>]
 <anchor xml:id="SD60"/> Daß die geistlichen Gerichte auch sonst mit den
 Universitäten in engen Beziehungen gestanden haben, ist sehr wahrscheinlich. Im
 Jahre 1439 schlossen z.B. die Augustiner zu <name type="place">Bödeken</name>
@@ -2078,7 +2078,7 @@ Domkapitels von 1715<note xml:id="n452" type="footnote" n="4.52">
 Ldr., I, S. 125ff.</ref>
                         </note> findet sich nur
 deutsches Recht.</p> 
-<p>Während im Herzogtum Westfalen das römische Dotalrecht  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g349" n="349"/> <pb n="349"/>] <anchor xml:id="SD61"/> eingeführt
+<p>Während im Herzogtum Westfalen das römische Dotalrecht  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="349" facs="ln:bartmann_1908F,"/> <pb n="349"/>] <anchor xml:id="SD61"/> eingeführt
 wurde<note xml:id="n453" type="footnote" n="4.53">Welter, Handbuch über das eheliche Güterrecht
 in Westfalen, Paderborn 1861, S. 33.</note>, blieb noch bis zum 1. Januar 1900
 in Münster das System der allgemeinen Gütergemeinschaft in Geltung.<note xml:id="n454" type="footnote" n="4.54">Welter,
@@ -2117,7 +2117,7 @@ Mutter hat der Vater nur die Stellung eines Vormundes seiner Kinder.</note>
 
 <p>Im Jahre 1725 erging eine Verordnung<note xml:id="n459" type="footnote" n="4.59">Abgedruckt
 bei Scotti, Sammlung der Gesetze ..., Münster 1842, I, S. 375.</note>, wonach
-beim  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g350" n="350"/> <pb n="350"/>] <anchor xml:id="SD62"/>
+beim  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="350" facs="ln:bartmann_1908F,"/> <pb n="350"/>] <anchor xml:id="SD62"/>
 geistlichen Hofgericht<index level1="Deutsch" level2="als Gerichtssprache"/> der
 bis dahin in lateinischer Sprache geführte Prozeß in
 causis civilibus künftig in der den Untertanen verständlichen deutschen Sprache
@@ -2152,7 +2152,7 @@ und gehalten werden sollen". Weiter heißt es in dem Bericht:</p>
 Civile Romanum zur Entscheidung." Es kann demnach von einer Aufnahme des
 materiellen römischen Rechtes nur in ganz beschränktem Umfange gesprochen
 werden. Mag auch, was hier nicht festgestellt werden kann, das Schuldrecht
-stärker von dem Fremdrecht  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g351" n="351"/> <pb n="351"/>] <anchor xml:id="SD63"/> beeinflußt,
+stärker von dem Fremdrecht  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="351" facs="ln:bartmann_1908F,"/> <pb n="351"/>] <anchor xml:id="SD63"/> beeinflußt,
 mag auch das gemeine Recht besonders in den höheren Gerichten zur Auslegung des
 eigenen Rechtes benutzt worden sein, im wesentlichen hat man im Stift Münster
 stets an dem eigenen Rechte festgehalten.</p> 
@@ -2186,7 +2186,7 @@ den starken Schutz, den das Sachsenrecht in anderen Territorien an seinen
 Oberhöfen fand.</p> 
 <p>Auch der Hinweis auf die vorwiegend bäuerlichen Verhältnisse des
 Münsterlandes genügt nicht allein zur Erklärung für die Zähigkeit des
-heimischen Rechtes, denn  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g352" n="352"/> <pb n="352"/>] <anchor xml:id="SD64"/> gerade auf dem flachen Lande drang, wie selbst
+heimischen Rechtes, denn  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="352" facs="ln:bartmann_1908F,"/> <pb n="352"/>] <anchor xml:id="SD64"/> gerade auf dem flachen Lande drang, wie selbst
 Stobbe<note xml:id="n470" type="footnote" n="4.70">Kritische Vierteljahrsschrift, Bd. XI (1869),
 S. 15.</note> zugeben muß, das römische Recht früher ein als in den
 Städten.</p> 
@@ -2216,7 +2216,7 @@ römisches Recht hätte heranziehen müssen. Es beweist einen hohen Grad der
 Selbstzucht, daß man, um den Wunsch nach Kodifizierung zu befriedigen, sich
 nicht dem römischen Recht in die Arme warf, sondern statt dessen den
 beschwerlicheren Weg der allmählichen Fixierung des Gewohnheitsrechtes
-einschlug. Als Vorbild mag hierbei das in den Städten schon lange üblich  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g353" n="353"/> <pb n="353"/>] <anchor xml:id="SD65"/> gewesene Verfahren
+einschlug. Als Vorbild mag hierbei das in den Städten schon lange üblich  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="353" facs="ln:bartmann_1908F,"/> <pb n="353"/>] <anchor xml:id="SD65"/> gewesene Verfahren
 zur Festsetzung der Statuten gedient haben.<note xml:id="n474" type="footnote" n="4.74">Vgl. Statuten
 von Bocholt, Vorrede, Wiegands Archiv, III,
 S. l f.</note>
@@ -2249,7 +2249,7 @@ auch <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;
 XXIX</ref>: "Es muß unter den zum Goding gehörigen Bauern ein großer Schatz
 von Rechtsregeln lebendig gewesen sein, denn das Gewohnheitsrecht in
 bäuerlichen Verhältnissen war einheitlich, wiewohl jedes Gericht für sich
-Gesetzgeber".</note>, und zwar nicht starr und  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g354" n="354"/> <pb n="354"/>] <anchor xml:id="SD66"/> unverändert,
+Gesetzgeber".</note>, und zwar nicht starr und  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="354" facs="ln:bartmann_1908F,"/> <pb n="354"/>] <anchor xml:id="SD66"/> unverändert,
 sondern durch stete Übung und Anwendung erneuert, bereichert und fortgebildet.
 Man hatte darum nicht nötig, etwaige Lücken durch römisches Recht
 auszufüllen.</p> 
@@ -2286,7 +2286,7 @@ Ldr., I, S. 118ff.</ref>
                         </note>,
 zeigt, daß um diese Zeit noch dieses Goding viel angegangen wurde. Der Desumer
 Stuhl hielt noch bis zum Jahre 1622 regelmäßig die vier jährlichen Gerichtstage
-ab, später fanden nur mehr  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g355" n="355"/> <pb n="355"/>] <anchor xml:id="SD67"/> vereinzelte
+ab, später fanden nur mehr  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="355" facs="ln:bartmann_1908F,"/> <pb n="355"/>] <anchor xml:id="SD67"/> vereinzelte
 Sitzungen, aber allerdings bis zum Jahre 1803, statt.<note xml:id="n483" type="footnote" n="4.83">
                             <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g015">Engelke,
 a.a.O., S. 15f.</ref>
@@ -2322,7 +2322,7 @@ Schöffen mit dem Rechtsbewußtsein des Volkes war in Münster besonders stark
 ausgeprägt. Goding und Schöffengericht stützten und stärkten sich gegenseitig,
 und gewiß wurde niemand als Schöffe gewählt, der sich nicht schon im Goding
 hervorgetan und dadurch bewiesen hatte, daß er mit der Rechtsüberlieferung
-völlig vertraut war. Daher ist es denn auch  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g356" n="356"/> <pb n="356"/>] <anchor xml:id="SD68"/> nicht zu
+völlig vertraut war. Daher ist es denn auch  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="356" facs="ln:bartmann_1908F,"/> <pb n="356"/>] <anchor xml:id="SD68"/> nicht zu
 verwundern, daß bis ins 19. Jahrhundert hinein keine Klagen über schlechte
 Rechtsprechung gehört wurden.<note xml:id="n487" type="footnote" n="4.87">Philippi, Hundert
 Jahre preußischer Herrschaft, S. 17. Die Schöffenverfassung erhielt sich noch
@@ -2355,12 +2355,12 @@ fehlte jede Andeutung für ein derartiges Güteverfahren. Deshalb behielten die
 Schöffengerichte auch ihre volle Bedeutung, und römisches Recht konnte nicht
 durch den Amtmann in das Volk und in die Rechtsprechung gebracht werden.</p> 
 <p>So sehen wir einen sich ständig wiederholenden Kreislauf: weil noch ein
-starkes Rechtsbewußtsein im Volke lebte,  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g357" n="357"/> <pb n="357"/>] <anchor xml:id="SD69"/> so büßten auch
+starkes Rechtsbewußtsein im Volke lebte,  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="357" facs="ln:bartmann_1908F,"/> <pb n="357"/>] <anchor xml:id="SD69"/> so büßten auch
 die alten deutschen Gerichtsformen nur wenig von ihrer Kraft ein, und es war
 kein Raum für ein außergerichtliches Verfahren vor dem Amtmann, keine
 Gelegenheit für das römische Recht, unbemerkt in die Rechtsprechung
 einzudringen. Weil aber Goding und Gogericht noch ihre volle Bedeutung hatten,
-so blieb das Volk in steter Übung und Erneuerung seiner Rechtskenntnisse.  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g358" n="358"/> <pb n="358"/>] 
+so blieb das Volk in steter Übung und Erneuerung seiner Rechtskenntnisse.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="358" facs="ln:bartmann_1908F,"/> <pb n="358"/>] 
  <anchor xml:id="SD70"/>
                     </p>
  </div>
@@ -2414,7 +2414,7 @@ decr.).</item>
  </list>
                     </p>
      <p>
-  [<pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Bartmann,MuensterLGO.&amp;seite=g359" n="359"/> <pb n="359"/>] 
+  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="359" facs="ln:bartmann_1908F,"/> <pb n="359"/>] 
  
      <list>
  <item>1432: Seyfr. Wener, cl. Mon. d., jur.</item>
