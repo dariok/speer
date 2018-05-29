@@ -1,10 +1,12 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1471_kammergo">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xml:id="edoc_ed000245_1471_kammergo">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-<title>Kammergerichtsordnung — 1471, Okt. 24 :: Transkription 2010 / 2016</title>
-</titleStmt>
-<publicationStmt>
+                <title>Kammergerichtsordnung — 1471, Okt. 24 :: Transkription 2010 / 2016</title>
+            </titleStmt>
+            <publicationStmt>
                 <publisher>
                     <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
                 </publisher>
@@ -13,262 +15,232 @@
                 <p>TODO: Quelle eintragen</p>
             </sourceDesc>
         </fileDesc>
-<revisionDesc>
-            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
-						by p4p5.xsl. </change>
+        <revisionDesc>
+            <change when="2017-04-05+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5 by p4p5.xsl.
+            </change>
         </revisionDesc>
     </teiHeader>
     <text>
         <front/>
         <body>
             <div xml:id="Editorial">
-<head>Editorial</head>
-<p>Quelle: Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit / bearb. von Karl Zeumer. - 2., verm. Aufl. - Tübingen (1913) S. 270 ff. nach den Drucken in: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=RAbsch.+I&amp;seite=g249">NS. d. RA. I, S. 249 ff.</ref> vgl. auch den älteren Druck bei Lünig, Reichsarchiv IV (1720), 272 ff.</p>
+                <head>Editorial</head>
+                <p>Quelle: Quellensammlung zur Geschichte der Deutschen Reichsverfassung in Mittelalter und Neuzeit /
+                    bearb. von Karl Zeumer. - 2., verm. Aufl. - Tübingen (1913) S. 270 ff. nach den Drucken in: <ref
+                        target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=RAbsch.+I&amp;seite=g249"
+                        >NS. d. RA. I, S. 249 ff.</ref> vgl. auch den älteren Druck bei Lünig, Reichsarchiv IV (1720),
+                    272 ff.</p>
             </div>
             <div xml:id="Vorrede">
-    <head>[Vorrede]</head>
-<p>Wir <name type="person">Friedrich von Gots gnaden Romischer keiser</name> zu
-allen zyten merer des reichs, zu Hungarn, Dalmatien, Croacien etc. könig,
-herzog zu Oestereich und zu Steyr etc. <term type="phrase">sezen und
-ordenen</term>, daß hinfür unser cammergericht besizen sollen ein cammerrichter
-mit einer zimlichen zahl <term type="phrase">erbaren, redelichen, beysizenden
-urteilern</term>, die verbunden seyn sollen, unsers cammergerichts stetiglichs,
-wo wir zu zeiten im reich sein, oder cammergericht zu halten befehlen, zu
-gewarten, oder das merer aus yn, und auf daß aller argwohn vermieten werde,
-sollen dieselbigen, und wer hinfür zu <term type="phrase">cammerrichtern und
-urteilern</term> aufgenommen werden, diesen hernach geschrieben eidt thun.</p>
-</div>
+                <head>[Vorrede]</head>
+                <p>Wir <name type="person">Friedrich von Gots gnaden Romischer keiser</name> zu allen zyten merer des
+                    reichs, zu Hungarn, Dalmatien, Croacien etc. könig, herzog zu Oestereich und zu Steyr etc. <term
+                        type="phrase">sezen und ordenen</term>, daß hinfür unser cammergericht besizen sollen ein
+                    cammerrichter mit einer zimlichen zahl <term type="phrase">erbaren, redelichen, beysizenden
+                        urteilern</term>, die verbunden seyn sollen, unsers cammergerichts stetiglichs, wo wir zu zeiten
+                    im reich sein, oder cammergericht zu halten befehlen, zu gewarten, oder das merer aus yn, und auf
+                    daß aller argwohn vermieten werde, sollen dieselbigen, und wer hinfür zu <term type="phrase"
+                        >cammerrichtern und urteilern</term> aufgenommen werden, diesen hernach geschrieben eidt
+                    thun.</p>
+            </div>
             <div xml:id="P.1">
-<head>[§ 1] Der eyd des richters und beysizenden urteilern.</head>
-<p> Ich N. globe und swere, daß ich nach allen minen besten verstentniß und
-sinnen recht urteilen und recht sprechen will, in sachen, so vor mir in dem
-kammergericht gehandelt und fürgenommen werden, u. das nicht laßen umb vorcht,
-gunst, lieb, gab oder versprechniß eincher gab oder anders; mein urteil auch zu
-sprechende geverlich nicht verhalten oder verziehen, auch mit keiner partei,
-die vor dem gerichte zu schaffen hat, einche fürrede haben, noch keiner
-parteyen wider die andern hülf oder beystandt tun, noch ichtz von yne nemen
-oder in iren sachen rathen, sunder alles geverde.</p>
-</div>
+                <head>[§ 1] Der eyd des richters und beysizenden urteilern.</head>
+                <p> Ich N. globe und swere, daß ich nach allen minen besten verstentniß und sinnen recht urteilen und
+                    recht sprechen will, in sachen, so vor mir in dem kammergericht gehandelt und fürgenommen werden, u.
+                    das nicht laßen umb vorcht, gunst, lieb, gab oder versprechniß eincher gab oder anders; mein urteil
+                    auch zu sprechende geverlich nicht verhalten oder verziehen, auch mit keiner partei, die vor dem
+                    gerichte zu schaffen hat, einche fürrede haben, noch keiner parteyen wider die andern hülf oder
+                    beystandt tun, noch ichtz von yne nemen oder in iren sachen rathen, sunder alles geverde.</p>
+            </div>
             <div xml:id="P.2">
-<head>[§ 2] Gerichtschreibers eydt.</head>
-<p> Ich N. globe und swere, daß ich alle gerichthändel, vor mir in gericht
-gehandelt und fürbracht, getrewlich und eigentlich aufschreiben will, und
-register, briefe und urkund, so im gericht fürbracht und gelegt werden, bey dem
-gericht getreulich halten, und keiner partei oder yemants von ihren wegen
-übergeben, öfenen, leßen, hören oder abschrifft davon werden lassen, es würde
-denn zu gescheen von richtern und urteilern erleubet.</p>
-</div>
+                <head>[§ 2] Gerichtschreibers eydt.</head>
+                <p> Ich N. globe und swere, daß ich alle gerichthändel, vor mir in gericht gehandelt und fürbracht,
+                    getrewlich und eigentlich aufschreiben will, und register, briefe und urkund, so im gericht
+                    fürbracht und gelegt werden, bey dem gericht getreulich halten, und keiner partei oder yemants von
+                    ihren wegen übergeben, öfenen, leßen, hören oder abschrifft davon werden lassen, es würde denn zu
+                    gescheen von richtern und urteilern erleubet.</p>
+            </div>
             <div xml:id="P.3">
-    <head>[§ 3]</head>
-<p> Item, es soll kein <term type="phrase">fürsprech oder procurator</term>,
-das wort in dem rechten zu thun, zugelaßen werden, es sey denn [daß er] zuvor
-von unsern wegen zugelaßen, aufgenommen, und diesen hernach geschriben eidt
-gethan habe. Deßgleichen soll auch nymants <term type="phrase">advocat seyn
-oder advociren</term>, er seyn dann zuvor durch uns, oder wem wir das befehlen,
-zu sollichem amt aufgenommen, auf daß <term type="phrase">redelich und gelerte
-advocaten</term>, die den partein wißen zu rathen, aufgenommen werden, und eher
-er zu solchem amt aufgenommen würdet, sol er <term type="phrase">globen und
-sweren</term> den eyd, als hierunter von den advocaten geschriben ist.</p>
-<p> Es soll auch kein partei über einen geswornen <term type="phrase">advocaten
-oder procurator</term> in einer sachen <term type="phrase">aufnemen oder
-bestellen</term>, auf daß die ander partei auch möge <term type="phrase">advocaten
-und fürsprecher</term> bekommen, und daß darinnen kein
-gefehrlichkeit gebraucht werden möge, soll kein <term type="phrase">advocat
-oder procurator</term> eincher partei in ihrer sache raten, dieselbige partey,
-die yn umb rath ersucht, wolle dann den <term type="phrase">advocaten oder
-procurator</term> in den sachen zu <term type="phrase">advocaten oder zu
-procurator</term> aufnemen.</p>
-</div>
+                <head>[§ 3]</head>
+                <p> Item, es soll kein <term type="phrase">fürsprech oder procurator</term>, das wort in dem rechten zu
+                    thun, zugelaßen werden, es sey denn [daß er] zuvor von unsern wegen zugelaßen, aufgenommen, und
+                    diesen hernach geschriben eidt gethan habe. Deßgleichen soll auch nymants <term type="phrase"
+                        >advocat seyn oder advociren</term>, er seyn dann zuvor durch uns, oder wem wir das befehlen, zu
+                    sollichem amt aufgenommen, auf daß <term type="phrase">redelich und gelerte advocaten</term>, die
+                    den partein wißen zu rathen, aufgenommen werden, und eher er zu solchem amt aufgenommen würdet, sol
+                    er <term type="phrase">globen und sweren</term> den eyd, als hierunter von den advocaten geschriben
+                    ist.</p>
+                <p> Es soll auch kein partei über einen geswornen <term type="phrase">advocaten oder procurator</term>
+                    in einer sachen <term type="phrase">aufnemen oder bestellen</term>, auf daß die ander partei auch
+                    möge <term type="phrase">advocaten und fürsprecher</term> bekommen, und daß darinnen kein
+                    gefehrlichkeit gebraucht werden möge, soll kein <term type="phrase">advocat oder procurator</term>
+                    eincher partei in ihrer sache raten, dieselbige partey, die yn umb rath ersucht, wolle dann den
+                        <term type="phrase">advocaten oder procurator</term> in den sachen zu <term type="phrase"
+                        >advocaten oder zu procurator</term> aufnemen.</p>
+            </div>
             <div xml:id="P.4">
-<head>[§ 4] Der procurator-eydt.</head>
-<p> Ich N. <term type="phrase">globe und schwere</term>, daß ich den partein,
-der sachen zu handlen als ich mich annymme, in denselben sachen mit ganzen und
-rechten treuen meinen, und die <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="271" facs="ln:,http://drw-www"/>
-sachen in rechten nach mein besten verstentniß, der partein zu gut, <term type="phrase">fürbringen
-und handeln</term>, auch darinnen wißentlich keinerley
-<term type="phrase">falsch und unrecht</term> gebrauchen, daß ich mit derselben
-meiner parthien keinerley <term type="phrase">fürgedinge oder fürwort</term>
-machen, darumb ich ein teil von der sachen, darumb die parthie in recht steht,
-wartend sey, auch heimligkeit und behelf, so ich von derselben parthey vernemen
-oder nach unterrichtung der sach von mir selbs vermercken würde, der partheyen
-zu schaden wissentlich nymands offenbaren, darzu auch die partein über den sold
-und lone, der mir im anfange des rechtens versprochen were, nit <term type="phrase">meren
-oder gedingen, beschweren oder erhöern</term> will; und
-oder <term type="phrase">des solds und des lohns halben</term>, zwischen den
-partheien und mir <term type="phrase">irrung oder spenne</term> entstünde, des
-will ich bleiben bey dem <term type="phrase">cammerrichter und
-urteilern</term>, oder wem der cammerrichter das aus den urteilern bevelen
-würde, und wie sie mich darum entscheiden, wil ich es darbey bleiben laßen und
-gnügig seyn, auch der sachen so ich angenommen hab, on redelich ursach und des
-richters erleubunge mich nicht entslahen, sundern der parthien zu gut
-getruwlich biß zu endunge des rechtens handeln, in diesen allen geverde und
-argelist genzlich außgescheiden.</p>
-</div>
+                <head>[§ 4] Der procurator-eydt.</head>
+                <p> Ich N. <term type="phrase">globe und schwere</term>, daß ich den partein, der sachen zu handlen als
+                    ich mich annymme, in denselben sachen mit ganzen und rechten treuen meinen, und die <pb
+                        n="271" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g271"/> sachen in rechten
+                    nach mein besten verstentniß, der partein zu gut, <term type="phrase">fürbringen und handeln</term>,
+                    auch darinnen wißentlich keinerley <term type="phrase">falsch und unrecht</term> gebrauchen, daß ich
+                    mit derselben meiner parthien keinerley <term type="phrase">fürgedinge oder fürwort</term> machen,
+                    darumb ich ein teil von der sachen, darumb die parthie in recht steht, wartend sey, auch heimligkeit
+                    und behelf, so ich von derselben parthey vernemen oder nach unterrichtung der sach von mir selbs
+                    vermercken würde, der partheyen zu schaden wissentlich nymands offenbaren, darzu auch die partein
+                    über den sold und lone, der mir im anfange des rechtens versprochen were, nit <term type="phrase"
+                        >meren oder gedingen, beschweren oder erhöern</term> will; und oder <term type="phrase">des
+                        solds und des lohns halben</term>, zwischen den partheien und mir <term type="phrase">irrung
+                        oder spenne</term> entstünde, des will ich bleiben bey dem <term type="phrase">cammerrichter und
+                        urteilern</term>, oder wem der cammerrichter das aus den urteilern bevelen würde, und wie sie
+                    mich darum entscheiden, wil ich es darbey bleiben laßen und gnügig seyn, auch der sachen so ich
+                    angenommen hab, on redelich ursach und des richters erleubunge mich nicht entslahen, sundern der
+                    parthien zu gut getruwlich biß zu endunge des rechtens handeln, in diesen allen geverde und argelist
+                    genzlich außgescheiden.</p>
+            </div>
             <div xml:id="P.5">
-<head>[§ 5] Der advocaten eydt.</head>
-<p> Ich N. <term type="phrase">globe und schwere</term>, daß ich in den sachen,
-durch mich angenommen, dem rechten nach getreulich <term type="phrase">rathen
-und handeln</term>, keinen <term type="phrase">falsch oder geverde</term>
-darinen gebrauchen will, und die <term type="phrase">heimligkeit und gestalt
-der sachen</term> meiner parthei zuwider mit geferde nymand offenbaren, auch
-mit der partei sunder gedinge umb ein teil der heubtsumm zu haben nit <term type="phrase">machen
-oder annemen</term>, sunder mich <term type="phrase">zimlichs und redelichs</term>
-soldes benügen, und ob zwischen der
-parthei und mir deßhalb irrung entstünde, nach erkentniß des <term type="phrase">cammerrichters
-und der beysizer</term>, die er zu ime nemen
-würdet, entscheiden und auch dabey ungewiddert bleiben laßen.</p>
-</div>
+                <head>[§ 5] Der advocaten eydt.</head>
+                <p> Ich N. <term type="phrase">globe und schwere</term>, daß ich in den sachen, durch mich angenommen,
+                    dem rechten nach getreulich <term type="phrase">rathen und handeln</term>, keinen <term
+                        type="phrase">falsch oder geverde</term> darinen gebrauchen will, und die <term type="phrase"
+                        >heimligkeit und gestalt der sachen</term> meiner parthei zuwider mit geferde nymand offenbaren,
+                    auch mit der partei sunder gedinge umb ein teil der heubtsumm zu haben nit <term type="phrase"
+                        >machen oder annemen</term>, sunder mich <term type="phrase">zimlichs und redelichs</term>
+                    soldes benügen, und ob zwischen der parthei und mir deßhalb irrung entstünde, nach erkentniß des
+                        <term type="phrase">cammerrichters und der beysizer</term>, die er zu ime nemen würdet,
+                    entscheiden und auch dabey ungewiddert bleiben laßen.</p>
+            </div>
             <div xml:id="P.6">
-    <head>[§ 6]</head>
-<p> Item, auf daß armuts halben nymands rechtloß gelaßen werde, so soll der
-cammer richter, so zu zeiten sein wird, die sachen der armen, die yr armut mit
-ihren eyden, ob der gesonnen würde, erweisten, den <term type="phrase">advocaten
-oder procuratorn</term> entpfehlen, darinne zu raten
-und zum besten in recht fürzubringen.</p>
-<p> Und welchem <term type="phrase">advocaten oder procuratorn</term> solch
-sachen von dem cammerrichter entpholen würde, sol <term type="phrase">schuldig
-und pflichtig</term> sein, bei pene entsezung seins amts, die on wiederrede,
-wie vorgemelt, anzunemen, doch so soll der cammerrichter, ob der sachen mer
-denn eine würden, die gleich unter die <term type="phrase">advocaten und
-procuratores</term> teilen, alles ungeverlich.</p>
-</div>
+                <head>[§ 6]</head>
+                <p> Item, auf daß armuts halben nymands rechtloß gelaßen werde, so soll der cammer richter, so zu zeiten
+                    sein wird, die sachen der armen, die yr armut mit ihren eyden, ob der gesonnen würde, erweisten, den
+                        <term type="phrase">advocaten oder procuratorn</term> entpfehlen, darinne zu raten und zum
+                    besten in recht fürzubringen.</p>
+                <p> Und welchem <term type="phrase">advocaten oder procuratorn</term> solch sachen von dem cammerrichter
+                    entpholen würde, sol <term type="phrase">schuldig und pflichtig</term> sein, bei pene entsezung
+                    seins amts, die on wiederrede, wie vorgemelt, anzunemen, doch so soll der cammerrichter, ob der
+                    sachen mer denn eine würden, die gleich unter die <term type="phrase">advocaten und
+                        procuratores</term> teilen, alles ungeverlich.</p>
+            </div>
             <div xml:id="P.7">
-    <head>[§ 7]</head>
-<p> Ob auch ein <term type="phrase">fürst, grav, herre oder commun</term> ander
-<term type="phrase">advocaten oder fürsprecher</term>, dann obgemelt, im
-rechten <term type="phrase">zu rathen oder zu reden</term> nehmen wolten, oder
-ob ymants im selbst sein wort im rechten thun wolt, solten sie macht haben,
-doch auf eyde von denselben zu thun, so sich durch recht gebüren würde.</p>
-</div>
+                <head>[§ 7]</head>
+                <p> Ob auch ein <term type="phrase">fürst, grav, herre oder commun</term> ander <term type="phrase"
+                        >advocaten oder fürsprecher</term>, dann obgemelt, im rechten <term type="phrase">zu rathen oder
+                        zu reden</term> nehmen wolten, oder ob ymants im selbst sein wort im rechten thun wolt, solten
+                    sie macht haben, doch auf eyde von denselben zu thun, so sich durch recht gebüren würde.</p>
+            </div>
             <div xml:id="P.8">
-<head>[§ 8] Was gerichtz boten sein, sollen diesen eid tun, und was sie also
-<term type="phrase">uf den eyd sagen und furbringen</term>, dem soll gestanden
-werden.</head>
-<p> Ich N. globe und schwere, daß ich alle <term type="phrase">ladung, urteil,
-proceß und gebotsbriefe</term>, so mir bevolhen werden, getreulich <term type="phrase">verkunden
-und überantworten</term> will, wohin mir das zu thun
-bevolhen und sich geburen würdet, und des getreuliche relation zu yder zeit
-thun, wo, wann und wem ich solchs thun soll, und darinn kein geverlichkeit
-gebrauchen, noch um ymants willen laßen, auch nicht anders <term type="phrase">fürbringen
-noch referiren</term>, dann wie sich die dingk begeben
-haben, sunder alles geverde.</p>
-</div>
+                <head>[§ 8] Was gerichtz boten sein, sollen diesen eid tun, und was sie also <term type="phrase">uf den
+                        eyd sagen und furbringen</term>, dem soll gestanden werden.</head>
+                <p> Ich N. globe und schwere, daß ich alle <term type="phrase">ladung, urteil, proceß und
+                        gebotsbriefe</term>, so mir bevolhen werden, getreulich <term type="phrase">verkunden und
+                        überantworten</term> will, wohin mir das zu thun bevolhen und sich geburen würdet, und des
+                    getreuliche relation zu yder zeit thun, wo, wann und wem ich solchs thun soll, und darinn kein
+                    geverlichkeit gebrauchen, noch um ymants willen laßen, auch nicht anders <term type="phrase"
+                        >fürbringen noch referiren</term>, dann wie sich die dingk begeben haben, sunder alles
+                    geverde.</p>
+            </div>
             <div xml:id="P.9">
-    <head>[§ 9]</head>
-<p> Es sollen auch die bothen sich um ihren lohn von yder meyl zimlichen
-vernügen laßen; würd aber darum zwischen yn und den parteien irrung, wie sie
-denn unser <term type="phrase">cammerrichter und urteilere</term>, oder wem
-unser cammerrichter das auß yn bevelhen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="" facs="ln:,http://drw-www"/> würde, darumb <term type="phrase">sezen und entscheiden</term>,
-dabey sollen es beyde partheyen bleiben laßen und dem nachkommen.</p>
-</div>
+                <head>[§ 9]</head>
+                <p> Es sollen auch die bothen sich um ihren lohn von yder meyl zimlichen vernügen laßen; würd aber darum
+                    zwischen yn und den parteien irrung, wie sie denn unser <term type="phrase">cammerrichter und
+                        urteilere</term>, oder wem unser cammerrichter das auß yn bevelhen <pb n="272" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g272"/> würde, darumb <term
+                        type="phrase">sezen und entscheiden</term>, dabey sollen es beyde partheyen bleiben laßen und
+                    dem nachkommen.</p>
+            </div>
             <div xml:id="P.10">
-    <head>[§ 10]</head>
-<p> Und daß sich ein jeder in sachen, so hinfüre in unserm cammergericht
-gehandelt werden, zu halten wiße, <term type="phrase">sezen und ordenen
-wir</term>, so der cläger auf den gesezten rechttagk nicht erschiene, auch kein
-ehehafft seiner verhinderung, der zu recht gnug were, beybringen laßen würd,
-wann denn solch sein <term type="phrase">außenblibunge und contumacia</term>
-beschicht, ehe der antworter auf die clage geantwort und <term type="juridical">litem
-contestiret</term> hette, so solt der antwerter von
-solchem gericht auf daßelbig mahl entledigt werden und die gerichtskosten, so
-darauf gegangen weren, erlangt haben.</p>
-</div>
+                <head>[§ 10]</head>
+                <p> Und daß sich ein jeder in sachen, so hinfüre in unserm cammergericht gehandelt werden, zu halten
+                    wiße, <term type="phrase">sezen und ordenen wir</term>, so der cläger auf den gesezten rechttagk
+                    nicht erschiene, auch kein ehehafft seiner verhinderung, der zu recht gnug were, beybringen laßen
+                    würd, wann denn solch sein <term type="phrase">außenblibunge und contumacia</term> beschicht, ehe
+                    der antworter auf die clage geantwort und <term type="juridical">litem contestiret</term> hette, so
+                    solt der antwerter von solchem gericht auf daßelbig mahl entledigt werden und die gerichtskosten, so
+                    darauf gegangen weren, erlangt haben.</p>
+            </div>
             <div xml:id="P.11">
-    <head>[§ 11]</head>
-<p> Ob aber der antworter begerte, sich von der <term type="phrase">clage und
-ansprach</term>, in der citation bestimt, oder von des clegers teil in recht
-fürbracht mit recht zu entledigen, und <term type="phrase">sein unschult und
-gerechtigkeit</term> fürbringen wolt und sich erbeut, solichs in recht zu
-volfürn, so solt er in solchem erbieten also <term type="phrase">gehört und
-zugelaßen werden</term>, und auf sein <term type="phrase">fürbringen und
-kuntschafft</term> mit entlicher urteil gescheen, was recht were.</p>
-</div>
+                <head>[§ 11]</head>
+                <p> Ob aber der antworter begerte, sich von der <term type="phrase">clage und ansprach</term>, in der
+                    citation bestimt, oder von des clegers teil in recht fürbracht mit recht zu entledigen, und <term
+                        type="phrase">sein unschult und gerechtigkeit</term> fürbringen wolt und sich erbeut, solichs in
+                    recht zu volfürn, so solt er in solchem erbieten also <term type="phrase">gehört und zugelaßen
+                        werden</term>, und auf sein <term type="phrase">fürbringen und kuntschafft</term> mit entlicher
+                    urteil gescheen, was recht were.</p>
+            </div>
             <div xml:id="P.12">
-    <head>[§ 12]</head>
-<p> Ob aber der cleger, nachdem der antwerter auf sein clage geantwort und
-<term type="juridical">litem contestiret</term> hette, ungehorsam würde, so
-solt der antwerter auf sein begeren von der clag, darinn er geladen wer,
-entledigt werden und seinen gerichtzkosten behabt haben, es wer dann, daß der
-<term type="phrase">richter und die urteiler</term> auß dem <term type="phrase">fürbringen
-und gerichtzhandel</term> als kundschafften und anders
-den weg abnemen möchten, was ynen in solchen <term type="phrase">zu erkennen
-und zu urteilen</term> wer, dem solten sie alßo nachkommen, und um
-gerichtzkosten gescheen, was sich in recht gebürt.</p>
-</div>
+                <head>[§ 12]</head>
+                <p> Ob aber der cleger, nachdem der antwerter auf sein clage geantwort und <term type="juridical">litem
+                        contestiret</term> hette, ungehorsam würde, so solt der antwerter auf sein begeren von der clag,
+                    darinn er geladen wer, entledigt werden und seinen gerichtzkosten behabt haben, es wer dann, daß der
+                        <term type="phrase">richter und die urteiler</term> auß dem <term type="phrase">fürbringen und
+                        gerichtzhandel</term> als kundschafften und anders den weg abnemen möchten, was ynen in solchen
+                        <term type="phrase">zu erkennen und zu urteilen</term> wer, dem solten sie alßo nachkommen, und
+                    um gerichtzkosten gescheen, was sich in recht gebürt.</p>
+            </div>
             <div xml:id="P.13">
-    <head>[§ 13]</head>
-<p> Würde aber der antwerter vor oder nach seiner antwort ungehorsam, so sollen
-<term type="phrase">richter und urteiler</term> auf des clegers anruffen in der
-sachen mit der verhörung alles fürbringens volnfaren und darauß biß zu
-entlichen urteilen und andern <term type="phrase">processen und
-executorial</term> procediren und dem cleger, so er das entlich urteil behabt
-hette, den ungehorsamen angeclagten in gerichtzkosten urteilen; so aber das
-urteil für den antwerter gesprochen würde, so solt umb gerichtzkosten auch
-gescheen, alß sich in recht gepürt.</p>
+                <head>[§ 13]</head>
+                <p> Würde aber der antwerter vor oder nach seiner antwort ungehorsam, so sollen <term type="phrase"
+                        >richter und urteiler</term> auf des clegers anruffen in der sachen mit der verhörung alles
+                    fürbringens volnfaren und darauß biß zu entlichen urteilen und andern <term type="phrase">processen
+                        und executorial</term> procediren und dem cleger, so er das entlich urteil behabt hette, den
+                    ungehorsamen angeclagten in gerichtzkosten urteilen; so aber das urteil für den antwerter gesprochen
+                    würde, so solt umb gerichtzkosten auch gescheen, alß sich in recht gepürt.</p>
             </div>
             <div xml:id="P.14">
-    <head>[§ 14]</head>
-<p> Und auf daß verlengerunge, die die parthei, so geappellirt hat, biß her
-durch den schein ihrer appellation oft gesucht haben, hinfür vermiden werden;
-so <term type="phrase">orden und sezen</term> wir, daß die parthei, wider die
-also appellirt wurde, die dann <term type="juridical">pars appellata</term>
-heißet, nu fürter nicht schuldig sey, das jare auswarten, das dann den, die
-appelliren, zu volfürunge derselben ihrer appellation im rechten zugeben ist,
-sundern sie mögen nach verlaufen sechs monaten von der zeit der appellation vor
-unserm gericht erscheinen, instrument solcher appellation und der verkündigung
-fürbringen, darauf ladung erlangen und die <term type="juridical">appellation
-prosequiren</term>.</p>
+                <head>[§ 14]</head>
+                <p> Und auf daß verlengerunge, die die parthei, so geappellirt hat, biß her durch den schein ihrer
+                    appellation oft gesucht haben, hinfür vermiden werden; so <term type="phrase">orden und sezen</term>
+                    wir, daß die parthei, wider die also appellirt wurde, die dann <term type="juridical">pars
+                        appellata</term> heißet, nu fürter nicht schuldig sey, das jare auswarten, das dann den, die
+                    appelliren, zu volfürunge derselben ihrer appellation im rechten zugeben ist, sundern sie mögen nach
+                    verlaufen sechs monaten von der zeit der appellation vor unserm gericht erscheinen, instrument
+                    solcher appellation und der verkündigung fürbringen, darauf ladung erlangen und die <term
+                        type="juridical">appellation prosequiren</term>.</p>
             </div>
             <div xml:id="P.15">
-    <head>[§ 15]</head>
-<p> Auf daß auch durch vermischung der reden die sachen nicht verhindert noch
-den <term type="phrase">richter und urteilern</term> unverständig gemacht
-werden, so wollen wir, daß, so ein sach in dem gericht fürgewand wird, daß kein
-ander sach, dieweil die partheien gegen einander durch sich oder ire anwelde
-reden, fürgenommen werden, biß die sach nach notdurft <term type="phrase">verhört
-und zu recht gesatzt</term> oder auf den stand bracht
-wer, das recht alsdann erfordert.</p>
+                <head>[§ 15]</head>
+                <p> Auf daß auch durch vermischung der reden die sachen nicht verhindert noch den <term type="phrase"
+                        >richter und urteilern</term> unverständig gemacht werden, so wollen wir, daß, so ein sach in
+                    dem gericht fürgewand wird, daß kein ander sach, dieweil die partheien gegen einander durch sich
+                    oder ire anwelde reden, fürgenommen werden, biß die sach nach notdurft <term type="phrase">verhört
+                        und zu recht gesatzt</term> oder auf den stand bracht wer, das recht alsdann erfordert.</p>
             </div>
             <div xml:id="P.16">
-    <head>[§ 16]</head>
-<p> Es were dann, daß einicher parthein ein zeit zu bedencken gegönnet würde,
-also daß man do zwischen en ein andere sache verhören möcht, oder daß eincher
-parthien beybrengung zu geteilet würde, als denn solt man ein ander sache
-verhören, wie obgemelt ist. Wer sich auch dawider sezt und anders hilt, der
-solt unserm fiscal mit zehen gulden an unser statt zu bezahlen verfallen sein,
-und doch nit anders, wie obgemelt, verhöret werden. </p>
+                <head>[§ 16]</head>
+                <p> Es were dann, daß einicher parthein ein zeit zu bedencken gegönnet würde, also daß man do zwischen
+                    en ein andere sache verhören möcht, oder daß eincher parthien beybrengung zu geteilet würde, als
+                    denn solt man ein ander sache verhören, wie obgemelt ist. Wer sich auch dawider sezt und anders
+                    hilt, der solt unserm fiscal mit zehen gulden an unser statt zu bezahlen verfallen sein, und doch
+                    nit anders, wie obgemelt, verhöret werden. </p>
             </div>
             <div xml:id="P.17">
-    <head>[§ 17]</head>
-<p> Item, alß im anfang gemeldet ist, unser cammergericht mit <term type="phrase">cammerrichter
-und urteilern</term> besezt werden soll, die
-desselbigen gerichts zu warten verpunden sein sollen, auch eyde darüber thun,
-wie obgemelt ist.</p>
+                <head>[§ 17]</head>
+                <p> Item, alß im anfang gemeldet ist, unser cammergericht mit <term type="phrase">cammerrichter und
+                        urteilern</term> besezt werden soll, die desselbigen gerichts zu warten verpunden sein sollen,
+                    auch eyde darüber thun, wie obgemelt ist.</p>
             </div>
             <div xml:id="P.18">
-    <head>[§ 18]</head>
-<p> Auf daß dann wir dester trefflicher person daran zu setzen gehaben mögen,
-<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 273" facs="ln:,http://drw-www"/> die auch darum, als billig
-ist, yren sold haben sollen, so sezen wir, daß ein yder cleger, in anfange des
-rechtens, von ydem hundert gulden, alß hoch sich sein ansprach trifft, zween
-gülden geben soll, das dann unser vorfarn, Röm. <term type="phrase">keißer und
-könige</term>, <term type="juridical">sportulas</term> genannt haben, davon dem
-<term type="phrase">richter und den urteilern</term> iren sold zu bezalen und
-aus zurichten, doch also, ob ein sach sich ob tausend gülden haben würde, so
-sollt von dem übrigen biß auf zwey tausend gülden, ye von hundert gülden, ein
-gülden gegeben werden. So aber die summ über zwey tausend gulden treffe, von
-dem übrigen ye von hundert gülden ein halber gülden bezahlet werden, und solich
-geld, <term type="juridical">sportulae</term> gericht genannt, soll die
-parthey, die in die costen nach der entlichen urteil geteilet wirdet, der
-behaltenden partey widergeben und ausrichten.</p>
+                <head>[§ 18]</head>
+                <p> Auf daß dann wir dester trefflicher person daran zu setzen gehaben mögen, <tei:pb
+                    xmlns:tei="http://www.tei-c.org/ns/1.0" n="S. 273" facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2a|g273"/> die auch darum,
+                    als billig ist, yren sold haben sollen, so sezen wir, daß ein yder cleger, in anfange des rechtens,
+                    von ydem hundert gulden, alß hoch sich sein ansprach trifft, zween gülden geben soll, das dann unser
+                    vorfarn, Röm. <term type="phrase">keißer und könige</term>, <term type="juridical">sportulas</term>
+                    genannt haben, davon dem <term type="phrase">richter und den urteilern</term> iren sold zu bezalen
+                    und aus zurichten, doch also, ob ein sach sich ob tausend gülden haben würde, so sollt von dem
+                    übrigen biß auf zwey tausend gülden, ye von hundert gülden, ein gülden gegeben werden. So aber die
+                    summ über zwey tausend gulden treffe, von dem übrigen ye von hundert gülden ein halber gülden
+                    bezahlet werden, und solich geld, <term type="juridical">sportulae</term> gericht genannt, soll die
+                    parthey, die in die costen nach der entlichen urteil geteilet wirdet, der behaltenden partey
+                    widergeben und ausrichten.</p>
             </div>
             <div xml:id="Promulgatio">
-    <head>[Promulgatio]</head>
-<p> Geben und öfentlich verkündigt zu Wien, auf den <date when="1471-10-24">24.
-tagk des monats octobris, nach Cristi geburde
-vierzehenhundert und in dem ein und siebenzigsten</date>, unser reich, des
-Römischen im zwey und drißigsten, des keiserthums im zwenzigsten, und des
-Hungerischen im dreyzehenden jaren.</p>
+                <head>[Promulgatio]</head>
+                <p> Geben und öfentlich verkündigt zu Wien, auf den <date when="1471-10-24">24. tagk des monats
+                        octobris, nach Cristi geburde vierzehenhundert und in dem ein und siebenzigsten</date>, unser
+                    reich, des Römischen im zwey und drißigsten, des keiserthums im zwenzigsten, und des Hungerischen im
+                    dreyzehenden jaren.</p>
             </div>
         </body>
     </text>
