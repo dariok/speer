@@ -1,7 +1,12 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="xsl tei mets xlink exist xsi html" version="2.0" xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xstring = "https://github.com/dariok/XStringUtils"
+	exclude-result-prefixes="#all" version="3.0"
+	xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd">
 	
-	<!-- erstellt 2015/10/23 DK: Dario Kampkaspar, kampkaspar@hab.de -->
-	<!-- angepaßt nach ed000216; 2016-11-02 DK -->
+	<xsl:import href="string-pack.xsl" />
 	
 	<xsl:output method="html"/>
 	
@@ -645,7 +650,19 @@
 	
 	<!-- neu 2017-03-28 DK -->
 	<xsl:template match="tei:ref[not(@type)]">
-		<a href="{@target}" target="_blank">
+		<a target="_blank">
+			<xsl:attribute name="href">
+				<xsl:choose>
+					<xsl:when test="starts-with(@target, 'ln:')">
+						<xsl:variable name="base" select="xstring:substring-before(substring-after(@target, 'ln:'), ',')"/>
+						<xsl:variable name="url" select="doc('https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')/id($base)"/>
+						<xsl:value-of select="$url || xstring:substring-after(@target, ',')"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="@target"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
 			<xsl:apply-templates/>
 		</a>
 	</xsl:template>
