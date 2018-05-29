@@ -1,6 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-    xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xml:id="edoc_ed000245_1338_kaerntenlr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_1338_kaerntenlr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,16 +26,12 @@
             <div xml:id="T.0">
                 <head>Herzog Albrecht II. von Oesterreich erlässt eine Landesordnung für Kärnthen</head>
                 <p>
-                    <pb
-                        facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=buecher&amp;term=schwind-dopsch&amp;seite=g174-175"
-                        n="175"/> Or. (A) u. K. s. XV (B) StA. Wien.<note xml:id="n1" type="footnote" n="1">Von
+                    <pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=buecher&amp;term=schwind-dopsch&amp;seite=g174-175" n="175"/> Or. (A) u. K. s. XV (B) StA. Wien.<note xml:id="n1" type="footnote" n="1">Von
                         demselben Tage eine gleiche Landesordnung für Krain [Or. StA. Wien — <ref>Krainer Landhandfesten
                             (1598) S. 2</ref>; <ref target="https://books.google.at/books?id=aUtmAAAAcAAJ">1687 S.
                             3</ref>. &amp; <ref>Lichnowsky-Birk 3, Reg. n°. 1171</ref>.</note> Graz 1338 September 14. </p>
                 <p>
-                    <ref
-                        target="https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/view.html?id=edoc_ed000245_1338_kaernten_ankershofen"
-                        >Ankershofen, Kärnthner A. 3,53 (A).</ref> — <ref>Lichnowsky-Birk 3, Reg. n° 1170.</ref> Vgl.
+                    <ref target="https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/view.html?id=edoc_ed000245_1338_kaernten_ankershofen">Ankershofen, Kärnthner A. 3,53 (A).</ref> — <ref>Lichnowsky-Birk 3, Reg. n° 1170.</ref> Vgl.
                     neben dem Berichte <rs type="person" ref="#viktring_johann">Johannes' von Viktring</rs>
                         (<ref>Böhmer, FRG. 1, 434</ref>: <ref>Muchar 6, 280 Anm. 4</ref>; <ref>Ankershofen, a. a. O.
                         43.</ref>
@@ -103,9 +97,7 @@
                     recht tuen umb die sache die auf sinem guet beschehent, an alain umb die sache die an den toed gent;
                     ez wer dann, daz daz recht von des gepowren herren wuert vertzigen, so mag unser richter daruber
                     richten.</p>
-                <p>Was auch dienstherren ist die stoek und galgen habent, und begriffen si dhainen <pb
-                        facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=buecher&amp;term=schwind-dopsch&amp;seite=g176-177"
-                        n="177"/> in irm gericht der dem lande schedlich ist, daz mugen si wol verhoren und ouch
+                <p>Was auch dienstherren ist die stoek und galgen habent, und begriffen si dhainen <pb facs="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=buecher&amp;term=schwind-dopsch&amp;seite=g176-177" n="177"/> in irm gericht der dem lande schedlich ist, daz mugen si wol verhoren und ouch
                     richten. Swa ouch ein noetzog geschiecht in unserm lande ze Chernden, mag man den war gemachen mit
                     zwain, ez sein weib oder man, sein entgelt êner an dem hals, und sol man demselben den hals
                     abstozzen mit einer dillen.</p>
