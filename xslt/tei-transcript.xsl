@@ -1,9 +1,15 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist" xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="tei mets xlink xsl exist xsi" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	xmlns:mets="http://www.loc.gov/METS/" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xstring = "https://github.com/dariok/XStringUtils"
+	exclude-result-prefixes="#all" version="3.0">
 	
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
 	<xsl:import href="tei-common.xsl?6"/>
+	<xsl:import href="string-pack.xsl" />
 	
 	<xsl:template match="/" mode="content">
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
@@ -117,74 +123,23 @@
 	</xsl:template>
 
 	<!-- Seitenumbrüche-->
-	<!-- Aktualisierung JB 18/11/14: pb in Leseansicht im Fließtext darstellen, in Orig.Ansicht nur als Zeilenumbruch
-		ohne Leerzeile-->
-	<!-- pb in rs getrennt behandeln; 2016-03-14 DK -->
-	<!-- TODO muß vmtl noch erweitert werden! Untenstehende Verarbeitung von list prüfen -->
-	<!-- pb vor head nicht hier verabeiten; 2016-05-30 DK -->
-	<xsl:template match="tei:pb[not(following-sibling::*[1][self::tei:head] or (following-sibling::*[1][self::tei:note]   and following-sibling::*[2][self::tei:head]))]">
-		<xsl:choose>
-			<xsl:when test="parent::tei:list and preceding-sibling::tei:label">
-				<dt style="display: block;">
-					<xsl:call-template name="pageBreak"/>
-				</dt>
-			</xsl:when>
-			<xsl:when test="parent::tei:list and not(preceding-sibling::tei:label)">
-				<li style="display: block;">
-					<xsl:call-template name="pageBreak"/>
-				</li>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:call-template name="pageBreak"/>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-	<!-- neu 2016-05-30 DK -->
-	<xsl:template match="tei:pb[following-sibling::*[1][self::tei:head]   or (following-sibling::*[1][self::tei:note] and following-sibling::*[2][self::tei:head])]" mode="head">
-		<xsl:call-template name="pageBreak"/>
-	</xsl:template>
-	
-	<xsl:template name="pageBreak">
-		<!-- a/@name → a/@id; 2016-03-15 DK -->
-		<!-- überzähliges a gelöscht; 2015-05-30 DK -->
-		<xsl:variable name="ID">
-			<xsl:choose>
-				<xsl:when test="ancestor::tei:front">
-					<xsl:value-of select="concat(substring(@facs,2), 'f')"/>
-				</xsl:when>
-				<xsl:when test="ancestor::tei:back">
-					<xsl:value-of select="concat(substring(@facs,2), 'b')"/>
-				</xsl:when>
-				<xsl:when test="ancestor::tei:opener">
-					<xsl:value-of select="concat(substring(@facs, 2), 'o')"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:value-of select="substring(@facs, 2)"/>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:variable>
-		<span class="pagebreak" id="{$ID}">
-			<!--<xsl:choose>
-				<xsl:when test="contains(@n, '[') ">‖</xsl:when>
-				<xsl:when test="ancestor::tei:w">
-                    <xsl:text>‖[</xsl:text>
-                </xsl:when>
-				<xsl:otherwise>
-                    <xsl:text>‖ [</xsl:text>
-                </xsl:otherwise>
-			</xsl:choose>-->
-			<a href="{@facs}">
+	<xsl:template match="tei:pb">
+		<span class="pagebreak">
+			<a>
+				<xsl:attribute name="href">
+					<xsl:choose>
+						<xsl:when test="starts-with(@facs, 'ln:')">
+							<xsl:variable name="base" select="xstring:substring-before(substring-after(@facs, 'ln:'), ',')"/>
+							<xsl:variable name="url" select="doc('https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')/id($base)"/>
+							<xsl:value-of select="$url || xstring:substring-after(@facs, ',')"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:value-of select="@facs"/>
+						</xsl:otherwise>
+					</xsl:choose>
+				</xsl:attribute>
 				<xsl:value-of select="@n"/>
 			</a>
-			<!--<xsl:choose>
-				<xsl:when test="contains(@n, ']')" />
-				<xsl:when test="ancestor::tei:w">
-                    <xsl:text>]</xsl:text>
-                </xsl:when>
-				<xsl:otherwise>
-                    <xsl:text>] </xsl:text>
-                </xsl:otherwise>
-			</xsl:choose>-->
 		</span>
 	</xsl:template>
 	
