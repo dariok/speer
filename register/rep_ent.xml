@@ -7809,7 +7809,8 @@
 <!-- adb --> <!--  Allgemeine Deutsche Bibliothek Adressierung ueber PND-Nummer 'pnd118592122.html' -->
 <!-- adb --> <item xml:id="adb">http://www.deutsche-biographie.de/</item>
 <!-- adler_1886 25 addieren  -->
-                <item xml:id="adler_1886">http://archive.org/stream/dieorganisation00adlegoog#page/n</item>
+                <!--<item xml:id="adler_1886">http://archive.org/stream/dieorganisation00adlegoog#page/n</item>-->
+    <item xml:id="adler_1886">https://repertorium-images.eos.arz.oeaw.ac.at/adler_cv_max_1886</item>
 <!-- adlerflycht_privatrecht_1-2 --> <item xml:id="adlerflycht_privatrecht_1-2">http://dlib-pr.mpier.mpg.de/mfer-cgi/kleioc/0010MFER/exec/books/"94465"</item>
 <!-- adlerflycht_privatrecht_3-4 --> <item xml:id="adlerflycht_privatrecht_3-4">http://dlib-pr.mpier.mpg.de/m/kleioc/0010/exec/books/"94467"</item>
 <!-- agenda_1571 --> <item xml:id="agenda_1571">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10197392-1</item>
@@ -9162,7 +9163,8 @@
 <!-- rive_2_1866 Seitenzahl dreistellig + 21 + .htm " -->
                 <item xml:id="rive_2_1866">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10552341_00</item> 
 <!-- rkanzlo_1498 --> <item xml:id="rkanzlo_1498">http://repertorium.at/qu/1498_reichskanzleio_max.html</item>
-<!-- rkgo_1471 --> <item xml:id="rkgo_1471">http://repertorium.at/qu/1471_kammergo_battenberg.html</item>
+<!-- rkgo_1471 --> <!--<item xml:id="rkgo_1471">http://repertorium.at/qu/1471_kammergo_battenberg.html</item>-->
+    <item xml:id="battenberg_1978">https://repertorium-images.eos.arz.oeaw.ac.at/battenberg_1978/battenberg_1978_</item>
 <!-- rkgo_1495 --> <item xml:id="rkgo_1495">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1495</item>
 <!-- rkgo_1500F --> <item xml:id="rkgo_1500F">http://diglib.hab.de/inkunabeln/158-quod-2f-3/start.htm?image=00022</item>
 <!-- rkgo_1507 --> <item xml:id="rkgo_1507">http:</item>
