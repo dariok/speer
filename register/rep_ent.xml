@@ -8893,7 +8893,8 @@
 <!-- nassaugo_1530 --> <item xml:id="nassaugo_1530">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NassauGO. 1530</item>
 <!-- neisselo_1549 --> <item xml:id="neisselo_1549">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NeisseLO. 1549 (1570)</item>
 <!-- neuschuez_1936F 3stellig + .jpg --> <item xml:id="neuschuez_1936F">http://drqerg.drqedit.de/DRQI/neuschuez_nuernbref_1936_</item>
-<!-- neuschuez_1936 3stellig + .jpg --> <item xml:id="neuschuez_1936">http://drqerg.drqedit.de/DRQI/neuschüz_nürnbref_1936_</item>
+<!-- neuschuez_1936 3stellig + .jpg --> <!--<item xml:id="neuschuez_1936">http://drqerg.drqedit.de/DRQI/neuschüz_nürnbref_1936_</item>-->
+                <item xml:id="neuschuez_1936">https://reporting-images.eos.arz.oeaw.ac.at/neuschuez_1936/neuschüz_nürnbref_1936_</item>
 <!-- neuwald_berichtzauberinnen_1584 --> <item xml:id="neuwald_berichtzauberinnen_1584">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Neuwald,BerichtZauberinnen 1584</item>
 <!-- nicoladoni_buenderlin_1888 --> <item xml:id="nicoladoni_buenderlin_1888">http://digi.landesbibliothek.at/resolver?urn=urn:nbn:at:AT-OOeLB-1850074</item>
 <!-- niederlausitzgo_1538 --> <item xml:id="niederlausitzgo_1538">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NiederlausitzGO. 1538</item>
@@ -9093,9 +9094,12 @@
 <!-- raguellus_leges_1579 --> <item xml:id="raguellus_leges_1579">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Raguellus,Leges(Saur) 1579</item>
 <!-- ramingen_haushaltung_1566 --> <item xml:id="ramingen_haushaltung_1566">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Ramingen,Haushaltung 1566</item>
 <!-- ramingen_registratur_1571 --> <item xml:id="ramingen_registratur_1571">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Ramingen,Registratur 1571</item>
-<!-- rapp_1_1827 --> <item xml:id="rapp_1_1827">http://repertorium.at/pdf/rapp_1_1827.pdf</item>
-<!-- rapp_2_1829 --> <item xml:id="rapp_2_1829">http://repertorium.at/pdf/rapp_2_1829.pdf</item>
-<!-- rapp_3_1834 --> <item xml:id="rapp_3_1834">http://repertorium.at/pdf/rapp_3_1834.pdf</item>
+<!-- rapp_1_1827 --> <!--<item xml:id="rapp_1_1827">http://repertorium.at/pdf/rapp_1_1827.pdf</item>-->
+                <item xml:id="rapp_1_1827">https://repertorium-images.eos.arz.oeaw.ac.at/rapp_1_1827/rapp_1_1827-</item>
+<!-- rapp_2_1829 --> <!--<item xml:id="rapp_2_1829">http://repertorium.at/pdf/rapp_2_1829.pdf</item>-->
+                <item xml:id="rapp_2_1829">https://repertorium-images.eos.arz.oeaw.ac.at/rapp_2_1829/rapp_2_1829-</item>
+<!-- rapp_3_1834 --> <!--<item xml:id="rapp_3_1834">http://repertorium.at/pdf/rapp_3_1834.pdf</item>-->
+                <item xml:id="rapp_3_1834">https://repertorium-images.eos.arz.oeaw.ac.at/rapp_3_1834/rapp_3_1834-</item>
 <!-- ratssekretaersoentw_max_1497 --> <item xml:id="ratssekretaersoentw_max_1497">http://repertorium.at/qu/1497_ratssekretaersoent_max.html</item>
 <!-- rauchdorn_halsgo_1564 --> <item xml:id="rauchdorn_halsgo_1564">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Rauchdorn,HalsGO. 1564</item>
 <!-- raupach_1_1741_onb --> <item xml:id="raupach_1_1741_onb">http://data.onb.ac.at/ABO/+Z185377806</item>
@@ -9301,7 +9305,8 @@
 <!-- schaeffner_1859_roemr Seitenzahl 3stellig + 4 + .html -->
                 <item xml:id="schaeffner_1859_roemr">http://reader.digitale-sammlungen.de/resolve/display/bsb10740719_00</item>
 <!-- schenck_go_1530 --> <item xml:id="schenck_go_1530">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Schenck,GO. 1530</item>
-<!-- schenk_1864 --> <item xml:id="schenk_1864">http://drqerg.drqedit.de/DRQI/schenk_1864_001.jpg</item>
+<!-- schenk_1864 --> <!--<item xml:id="schenk_1864">http://drqerg.drqedit.de/DRQI/schenk_1864_001.jpg</item>-->
+                <item xml:id="schenk_1864">https://repertorium-images.eos.arz.oeaw.ac.at/schenk_1864/schenk_1864_</item>
 <!-- scheubelin_arbor_1586 --> <item xml:id="scheubelin_arbor_1586">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Scheubelin,Arbor 1586</item>
 <!-- schladmingbergbrief --> <item xml:id="schladmingbergbrief">http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Schwind-Dopsch&amp;seite=g310-311</item>
 <!-- schleslo_1577 --> <item xml:id="schleslo_1577">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=SchlesLO. 1577</item>
