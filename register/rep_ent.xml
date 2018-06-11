@@ -7810,7 +7810,7 @@
 <!-- adb --> <item xml:id="adb">http://www.deutsche-biographie.de/</item>
 <!-- adler_1886 25 addieren  -->
                 <!--<item xml:id="adler_1886">http://archive.org/stream/dieorganisation00adlegoog#page/n</item>-->
-    <item xml:id="adler_1886">https://repertorium-images.eos.arz.oeaw.ac.at/adler_cv_max_1886</item>
+                <item xml:id="adler_1886">https://repertorium-images.eos.arz.oeaw.ac.at/adler_cv_max_1886/adler_cv_max_1886_</item>
 <!-- adlerflycht_privatrecht_1-2 --> <item xml:id="adlerflycht_privatrecht_1-2">http://dlib-pr.mpier.mpg.de/mfer-cgi/kleioc/0010MFER/exec/books/"94465"</item>
 <!-- adlerflycht_privatrecht_3-4 --> <item xml:id="adlerflycht_privatrecht_3-4">http://dlib-pr.mpier.mpg.de/m/kleioc/0010/exec/books/"94467"</item>
 <!-- agenda_1571 --> <item xml:id="agenda_1571">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10197392-1</item>
@@ -7906,7 +7906,8 @@
 <!-- belial_dt_1472_zainer --> <item xml:id="belial_dt_1472_zainer">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Belial(dt.) 1472 (Zainer)</item>
 <!-- below_1905 --> <item xml:id="below_1905">http://repertorium.at/pdf/below_ursachen_1905.pdf</item>
 <!-- below_1905_seite Seite 3stellig + ".jpg " -->
-                <item xml:id="below_1905_seite">http://drqerg.drqedit.de/DRQI/Below_Ursachen_1905_</item>
+                <!--<item xml:id="below_1905_seite">http://drqerg.drqedit.de/DRQI/Below_Ursachen_1905_</item>-->
+                <item xml:id="below_1905_seite">https://repertorium-images.eos.arz.oeaw.ac.at/below_ursachen_1905/below_ursachen_1905_</item>
 <!-- below_territorium --> <item xml:id="below_territorium_1900">https://archive.org/stream/territoriumundst00belo#page/n5/mode/2up</item>
 <!-- bemel_trakttestam_1587 --> <item xml:id="bemel_trakttestam_1587">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Bemel,TraktTestam. 1587</item>
 <!-- bergmann_pillius --> <item xml:id="bergmann_pillius">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10510996-7</item>
@@ -7964,6 +7965,7 @@
 <!-- braunschweigwolfenbuettelhofgo_1571 --> <item xml:id="braunschweigwolfenbuettelhofgo_1571">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BraunschweigWolfenbuettelHofGO. 1571</item>
 <!-- bremenordn_1534 --> <item xml:id="bremenordn_1534">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BremenOrdn. 1534</item>
 <!-- bremer_1894 --> <item xml:id="bremer_1894">http://drqerg.drqedit.de/DRQH/bremer_1894.html#</item>
+                <item xml:id="bremer_cantiuncula_1894">https://repertorium-images.eos.arz.oeaw.ac.at/bremer_cantiuncula_1894/bremer_cantiuncula_1894_</item>
 <!-- breslaugo_1591 --> <item xml:id="breslaugo_1591">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauGO. 1591</item>
 <!-- breslaustat_1578 --> <item xml:id="breslaustat_1578">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauStat. 1578</item>
 <!-- breslaustat_1588 --> <item xml:id="breslaustat_1588">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauStat. 1588</item>
