@@ -8199,7 +8199,8 @@
 <!-- heider_notariat_1580 --> <item xml:id="heider_notariat_1580">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Heider,Notariat 1580</item>
 <!-- heider_notariat_1586 --> <item xml:id="heider_notariat_1586">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Heider,Notariat 1586</item>
 <!-- heilbronnstat_1541 --> <item xml:id="heilbronnstat_1541">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=HeilbronnStat. 1541</item>
-<!-- heiligenberglgo_1580 --> <item xml:id="heiligenberglgo_1580">http://repertorium/qu/1580_heiligenberglgo.html</item>
+<!-- heiligenberglgo_1580 --> <!--<item xml:id="heiligenberglgo_1580">http://repertorium/qu/1580_heiligenberglgo.html</item>-->
+                <item xml:id="heiligenberglgo_1580">https://repertorium-images.eos.arz.oeaw.ac.at/heiligenberglgo_1580/heiligenberglgo_1580_</item>
 <!-- heinke_noelehenr_1 --> <item xml:id="heinke_noelehenr_1">http://reader.digitale-sammlungen.de/resolve/display/bsb10413697.html</item>
 <!-- heinke_noelehenr_2 --> <item xml:id="heinke_noelehenr_2">http://reader.digitale-sammlungen.de/resolve/display/bsb10413698.html</item>
 <!-- heiss_landschaftsschulen --> <item xml:id="heiss_landschaftsschulen">http://repertorium.at/sl/heiss_landschaftsschulen.html</item>
@@ -8568,6 +8569,8 @@
 <!-- julian_1 Seitenzahl +22 +/mode/1up --> <item xml:id="julian_1">https://archive.org/stream/dictionaryofhymn01lond#page/n</item>
 <!-- julian_2 +Seitenzahl --> <item xml:id="julian_2">https://archive.org/stream/dictionaryofhymn02lond#page/n</item>
 <!-- jung_gegenreftirol_1874 -->  <item xml:id="jung_gegenreftirol_1874">http://digi.landesbibliothek.at/viewer/resolver?urn=urn:nbn:at:AT-OOeLB-1850486</item>
+                <!-- Jung 1889-->
+                <item xml:id="jung_1889">https://repertorium-images.eos.arz.oeaw.ac.at/jung_1889/jung_1889_</item>
 <!-- justizcodex1 Seitenzahl vierstellig 20 addieren + .html -->
                 <item xml:id="justizcodex1">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10543034_0</item> 
 <!-- justizcodex2 Seitenzahl vierstellig 10 addieren + .html -->
