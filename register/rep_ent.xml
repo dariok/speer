@@ -9421,10 +9421,13 @@
 <!-- stintzing_rw_3-1-3 --> <item xml:id="stintzing_rw_3-1-3">http://resolver.sub.uni-goettingen.de/purl?PPN372056172</item>
 <!-- stobbe_1 --> <item xml:id="stobbe_1">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10552790-6</item>
 <!-- stobbe_1_seite + Seitenzahl 3stellig +16 -->
-                <item xml:id="stobbe_1_seite">http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10552790.html?pageNo=</item>
+                <!--<item xml:id="stobbe_1_seite">http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10552790.html?pageNo=</item>-->
+                <item xml:id="stobbe_1_seite">http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F~db%2Fmets%2Fbsb10552790_mets.xml&amp;tx_dlf%5Bdouble%5D=0&amp;tx_dlf%5Bpage%5D=</item>
 <!-- stobbe_1_titel --> <item xml:id="stobbe_1_titel">http://reader.digitale-sammlungen.de/resolve/display/bsb10552790.html</item>
 <!--<!-\- stobbe_2 -\-> <item xml:id="stobbe_2">http://books.google.de/books?id=G78OAAAAYAAJ&pg=PA</item>-->
-<!-- stobbe_2 --> <item xml:id="stobbe_2">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10552791-1</item> 
+<!-- stobbe_2 --> <item xml:id="stobbe_2">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10552791-1</item>
+                <!-- stobbe_2_seite -->
+                <item xml:id="stobbe_2_seite">http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F~db%2Fmets%2Fbsb10552791_mets.xml&amp;tx_dlf%5Bdouble%5D=0&amp;cHash=680275b31e51d0cd907a1ce90c885954tx_dlf%5Bpage%5D=</item>
 <!-- stobbe_vertragsrecht_1855 Seite 3stellig + .html + 16-->
                 <item xml:id="stobbe_1855">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10552789_00</item>
 <!-- stobbe_hdb_1 --> <item xml:id="stobbe_hdb_1">http://dlib-pr.mpier.mpg.de/m/kleioc/0010/exec/books/'207350'</item>
@@ -9441,9 +9444,12 @@
 <!-- strassburgprokuratoro_1598 --> <item xml:id="strassburgprokuratoro_1598">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=StrassburgProkuratorO. 1598</item>
 <!-- strobl-albeg_1908 --> <item xml:id="strobl-albeg_1908">https://archive.org/stream/dasobersthofmar02viengoog</item>
 <!-- stubenrauch_1847 + 3stellig +.html--> <item xml:id="stubenrauch_1847">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10543356_00</item>
+                <!-- stuehlingenlgo_1527 -->
+                <item xml:id="stuehlingenlgo_1527">https://repertorium-images.eos.arz.oeaw.ac.at/stuehlingenlgo_1527/stuehlingenlgo_1527_</item>
 <!-- stuelz_1852 --> <item xml:id="stuelz_1852">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10011459-9</item>
 <!-- stumphart_proz_1541 --> <item xml:id="stumphart_proz_1541">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Stumphart,Proz. 1541</item>
-<!-- stuttgartstr_1492 --> <item xml:id="stuttgartstr_1492">http://drqerg.de/RHN/quellen/stuttgart-stadtrecht-1492/</item>
+<!-- stuttgartstr_1492 --> <!--<item xml:id="stuttgartstr_1492">http://drqerg.de/RHN/quellen/stuttgart-stadtrecht-1492/</item>-->
+                <item xml:id="stuttgartstr_1492">https://repertorium-images.eos.arz.oeaw.ac.at/stuttgartstr_1492/stuttgartstr_1492_</item>
 <!-- su --> <item xml:id="su">ͧ</item>
 <!-- summa_legum --> <item xml:id="summa_legum">http://repertorium.at/qu/1500_summalegum.html</item>
 <!-- summaroland_1544 --> <item xml:id="summaroland_1544">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=SummaRoland. 1544</item>
