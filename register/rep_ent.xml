@@ -9492,7 +9492,8 @@
                 <item xml:id="tomaschek_1859_iglau">http://reader.digitale-sammlungen.de/resolve/display/bsb10543386_00</item>
 <!-- tomaschek_1859_iglau_titel --> <item xml:id="tomaschek_1859_iglau_titel">http://reader.digitale-sammlungen.de/resolve/display/bsb10543386_00001.html</item>
 <!-- tomaschek_1860_trient --> <item xml:id="tomaschek_1860_trient">http://reader.digitale-sammlungen.de/resolve/display/bsb10543555.html</item>
-<!-- torggler_1927 --> <item xml:id="torggler_1927">http://drqerg.drqedit.de/DRQH/torggler_1927.html#</item>
+<!-- torggler_1927 --> <!--<item xml:id="torggler_1927">http://drqerg.drqedit.de/DRQH/torggler_1927.html#</item>-->
+                <item xml:id="torggler_1927">https://repertorium-images.eos.arz.oeaw.ac.at/torggler_1927/torggler_1927_</item>
 <!-- torggler_1927_gereimt --> <item xml:id="torggler_1927_gereimt">http://repertorium.at/sl/torggler_1927_gereimt.html</item>
 <!-- torggler_1936 --> <item xml:id="torggler_1936">http://repoestrg.info/wp/sekundarliteratur/torggler-darstellungen-1936/</item>
 <!-- torggler_1936_darstellung --> <item xml:id="torggler_1936_darstellung">http://repertorium.at/sl/torggler_1936_darstellung.html</item>
