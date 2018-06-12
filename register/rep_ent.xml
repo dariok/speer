@@ -9497,7 +9497,8 @@
 <!-- torggler_1927_gereimt --> <item xml:id="torggler_1927_gereimt">http://repertorium.at/sl/torggler_1927_gereimt.html</item>
 <!-- torggler_1936 --> <item xml:id="torggler_1936">http://repoestrg.info/wp/sekundarliteratur/torggler-darstellungen-1936/</item>
 <!-- torggler_1936_darstellung --> <item xml:id="torggler_1936_darstellung">http://repertorium.at/sl/torggler_1936_darstellung.html</item>
-<!-- torggler_1937 --> <item xml:id="torggler_1937">http://drqerg.drqedit.de/DRQH/torggler_1937.html#</item>
+<!--<!-\- torggler_1937 -\-> <item xml:id="torggler_1937">http://drqerg.drqedit.de/DRQH/torggler_1937.html#</item>-->
+                <item xml:id="torggler_1937">https://repertorium-images.eos.arz.oeaw.ac.at/torggler_1937/torggler_1937_</item>
 <!-- torggler_1937_stadtrecht --> <item xml:id="torggler_1937_stadtrecht">http://repertorium.at/sl/torggler_1937_stadtrecht.html</item>
 <!-- tractjurincorp_1679 --> <item xml:id="tractjurincorp_1679">http://repertorium.at/qu/1679_tractiurincorp.html</item>
 <!-- trient_1528 --> <item xml:id="trient_1528">http://repertorium.at/qu/1528_trient.html</item>
@@ -9547,7 +9548,8 @@
 <!-- weingarten_fasc_1690_I+II --> <item xml:id="weingarten_fasc_II">http://digi.ub.uni-heidelberg.de/diglit/drwweingarten1690</item>
 <!-- weingaertler_1674 --> <item xml:id="weingaertler_1674">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10506475-7</item>
 <!-- weino_1498_freiburg_1501 --> <item xml:id="weino_1498_freiburg_1501">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WeinO. 1498 (Freiburg 1501)</item>
-<!-- weiss_untersuchungen2 +44-45.jpg--> <item xml:id="weiss_untersuchungen2">http://drqerg.drqedit.de/DRQI/weiss_untersuchungen2_</item>
+<!-- weiss_untersuchungen2 +44-45.jpg--> <!--<item xml:id="weiss_untersuchungen2">http://drqerg.drqedit.de/DRQI/weiss_untersuchungen2_</item>-->
+                <item xml:id="weiss_untersuchungen2">https://repertorium-images.eos.arz.oeaw.ac.at/weiss_untersuchungen2/weiss_untersuchungen2_</item>
 <!-- weisse_notariatkunst_1578 --> <item xml:id="weisse_notariatkunst_1578">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Weisse,Notariatkunst 1578</item>
 <!-- weissler_1905_rechtsanw +Seite+17 --> <item xml:id="weissler_1905_rechtsanw">https://archive.org/stream/geschichtederre01weisgoog#page/n</item>
 <!-- welmitzheimugo_1564 --> <item xml:id="welmitzheimugo_1564">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WelmitzheimUGO. 1564</item>
@@ -9596,7 +9598,8 @@
 <!-- wisnicki_1926_abfassung --> <item xml:id="wisnicki_1926_abfassung">http://repertorium.at/sl/wisnicki_1926_abfassung.html</item>
 <!-- wisnicki_1929_tractiurincorp --> <item xml:id="wisnicki_1929_tractiurincorp">http://repertorium.at/sl/wisnicki_1929_tractiurincorp.html</item>
 <!-- wittenberghofgo_1550 --> <item xml:id="wittenberghofgo_1550">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WittenbergHofGO. 1550</item>
-<!-- wittgenstlr_1579F Seite 3stellig + .gif --> <item xml:id="wittgenstlr_1579F">http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_</item>
+<!-- wittgenstlr_1579F Seite 3stellig + .gif --> <!--<item xml:id="wittgenstlr_1579F">http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_</item>-->
+                <item xml:id="wittgenstlr_1579F">https://repertorium-images.eos.arz.oeaw.ac.at/wittgensteinlr_1579/wittgensteinlr_1579_</item>
 <!-- woerner_strafrtrakt_1597 --> <item xml:id="woerner_strafrtrakt_1597">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,StrafrTrakt. 1597</item>
 <!-- woerner_trakt_1597 --> <item xml:id="woerner_trakt_1597">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,Trakt. 1597</item>
 <!-- woerner_trakt_1600 --> <item xml:id="woerner_trakt_1600">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,Trakt. 1600</item>
