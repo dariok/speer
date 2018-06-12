@@ -9460,7 +9460,8 @@
 <!-- suttinger_1656_obs_seite +3stellig +22 + .html--> <item xml:id="suttinger_1656_obs_seite">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10506460_00</item>
 <!-- suttinger_1716_cons --> <item xml:id="suttinger_1716_cons">http://reader.digitale-sammlungen.de/resolve/display/bsb11066346.html</item>
 <!-- suttinger_1718_cons +dreistellig Seite + 8 -->
-                <item xml:id="suttinger_1718_cons">http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10506458.html?pageNo=</item> 
+                <!--<item xml:id="suttinger_1718_cons">http://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb10506458.html?pageNo=</item>-->
+                <item xml:id="suttinger_1718_cons">http://dfg-viewer.de/show/?id=8071&amp;tx_dlf%5Bid%5D=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F~db%2Fmets%2Fbsb11066346_mets.xml&amp;tx_dlf%5Bpage%5D=</item>
 <!-- sv --> <item xml:id="sv">ͮ</item>
 <!-- tancred_ordo_1545 -->
                 <item xml:id="tancred_ordo_1545">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10181624-1</item>
@@ -9469,7 +9470,8 @@
 <!-- teutschejura_1537 --> <item xml:id="teutschejura_1537">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=TeutscheJura. 1537</item>
 <!-- tezner_verwrechtspflege_1898 +Seitenzahl -->
                 <item xml:id="tezner_verwrechtspflege_1898">http://archive.org/stream/dielandesfrstli00tezngoog#page/n</item>
-<!-- thiel_verw_1917 --> <item xml:id="thiel_verw_1917">http://repertorium.at/sl/thiel_zentralverwaltung_inneroesterreich.html</item>
+<!-- thiel_verw_1917 --> <!--<item xml:id="thiel_verw_1917">http://repertorium.at/sl/thiel_zentralverwaltung_inneroesterreich.html</item>-->
+                <item xml:id="thiel_verw_1917">https://repertorium-images.eos.arz.oeaw.ac.at/thiel_archoeg_105/thiel_archoeg_105_</item>
 <!-- tiller_1_1787 --> <item xml:id="tiller_1_1787">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z180051704</item>
 <!-- tiller_2.1_1787 --> <item xml:id="tiller_2.1_1787">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z180051807</item>
 <!-- tiller_2.2_1788 --> <item xml:id="tiller_2.2_1788">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z18005190X</item>
