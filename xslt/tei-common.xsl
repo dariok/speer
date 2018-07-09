@@ -656,7 +656,7 @@
 					<xsl:when test="starts-with(@target, 'ln:')">
 						<xsl:variable name="base" select="xstring:substring-before(substring-after(@target, 'ln:'), ',')"/>
 						<xsl:variable name="url" select="doc('https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')/id($base)"/>
-						<xsl:value-of select="$url || xstring:substring-after(@target, ',')"/>
+						<xsl:value-of select="$url || substring-after(@target, ',')"/>
 					</xsl:when>
 					<xsl:otherwise>
 						<xsl:value-of select="@target"/>
