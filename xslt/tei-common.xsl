@@ -649,7 +649,7 @@
 	</xsl:template>
 	
 	<!-- neu 2017-03-28 DK -->
-	<xsl:template match="tei:ref[not(@type)]">
+	<xsl:template match="tei:ref[not(@type) and @target]">
 		<a target="_blank">
 			<xsl:attribute name="href">
 				<xsl:choose>
@@ -665,6 +665,10 @@
 			</xsl:attribute>
 			<xsl:apply-templates/>
 		</a>
+	</xsl:template>
+	<!-- neu 2018-08-02 DK -->
+	<xsl:template match="tei:ref[not(@type or @target)]">
+		<xsl:apply-templates />
 	</xsl:template>
 	
 	<xsl:template name="makeLink">
