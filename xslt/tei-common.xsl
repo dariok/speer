@@ -3,24 +3,17 @@
 	xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:xstring = "https://github.com/dariok/XStringUtils"
-	exclude-result-prefixes="#all" version="3.0"
-	xsi:schemaLocation="http://www.w3.org/1999/XSL/Transform http://www.w3.org/2007/schema-for-xslt20.xsd">
+	exclude-result-prefixes="#all" version="3.0">
 	
 	<xsl:import href="string-pack.xsl" />
 	
 	<xsl:output method="html"/>
 	
-	<!-- damit nicht bei jedem bibl neu geladen werden muß; 2016-06-01 DK -->
-<!--	<xsl:variable name="biblFile" select="document('../register/bibliography.xml')"/>-->
-	
-	<!-- Name und Inhalt angepaßt für Verwendung auf WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:variable name="viewURL">
-		<xsl:text>http://dev2.hab.de/edoc/view.html</xsl:text>
+		<xsl:text>https://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/view.html</xsl:text>
 	</xsl:variable>
-	
-	<!-- angepaßt für Verwendung auf WDB Classic und eXist; 2016-07-14 DK -->
 	<xsl:variable name="baseDir">
-		<xsl:text>http://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/texts</xsl:text>
+		<xsl:text>https://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/data/repertorium</xsl:text>
 	</xsl:variable>
 	
 	<xsl:param name="footerXML">
@@ -655,7 +648,7 @@
 				<xsl:choose>
 					<xsl:when test="starts-with(@target, 'ln:')">
 						<xsl:variable name="base" select="xstring:substring-before(substring-after(@target, 'ln:'), ',')"/>
-						<xsl:variable name="url" select="doc('https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')/id($base)"/>
+						<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
 						<xsl:value-of select="$url || substring-after(@target, ',')"/>
 					</xsl:when>
 					<xsl:otherwise>

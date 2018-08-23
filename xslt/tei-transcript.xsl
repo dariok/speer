@@ -8,7 +8,7 @@
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
-	<xsl:import href="tei-common.xsl?7"/>
+	<xsl:import href="tei-common.xsl?11"/>
 	
 	<xsl:template match="/" mode="content">
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
@@ -112,8 +112,6 @@
 		</xsl:element>
 	</xsl:template>
 	
-	<!-- tei:hi ausgelagert nach common; 2016-05-27 DK -->
-	
 	<!-- @style kommt nicht vor; 2016-05-30 DK -->
 	<xsl:template match="tei:p[not(parent::tei:div[@type='colophon'])]">
 		<p class="content">
@@ -129,7 +127,7 @@
 					<xsl:choose>
 						<xsl:when test="starts-with(@facs, 'ln:')">
 							<xsl:variable name="base" select="xstring:substring-before(substring-after(@facs, 'ln:'), ',')"/>
-							<xsl:variable name="url" select="doc('https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')/id($base)"/>
+							<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
 							<xsl:value-of select="$url || xstring:substring-after(@facs, ',')"/>
 						</xsl:when>
 						<xsl:otherwise>
@@ -305,163 +303,10 @@
 		<br/>
 	</xsl:template>
 	
-	<!-- ausgelagert nach common; 2016-07-26 DK -->
-	<!--<!-\- enthaltenes tei:pb berücksichtigen; 2016-03-14 DK -\->
-	<!-\- enthaltenes tei:note und tei:subst berücksichtigen; 2016-04-25 DK -\->
-	<!-\- angepaßt für WDB Classic und eXist, verkürzt; 2016-07-18 DK -\->
-	<xsl:template match="tei:rs">
-		<xsl:variable name="xml">
-			<xsl:choose>
-				<xsl:when test="@type='person'">
-					<xsl:text>/register/personenregister.xml</xsl:text>
-				</xsl:when>
-				<xsl:when test="@type='place'">
-					<xsl:text>/register/ortsregister.xml</xsl:text>
-				</xsl:when>
-			</xsl:choose>
-		</xsl:variable>
-		<xsl:variable name="xsl">
-			<xsl:choose>
-				<xsl:when test="@type='person'">
-					<xsl:text>/xslt/show-person.xsl</xsl:text>
-				</xsl:when>
-				<xsl:when test="@type='place'">
-					<xsl:text>/xslt/show-place.xsl</xsl:text>
-				</xsl:when>
-			</xsl:choose>
-		</xsl:variable>
-		<xsl:variable name="link">
-			<xsl:text>javascript:show_annotation('</xsl:text>
-			<xsl:value-of select="$dir"/>
-			<xsl:text>','</xsl:text>
-			<xsl:value-of select="$baseDir" />
-			<xsl:value-of select="$xml" />
-			<xsl:text>','</xsl:text>
-			<xsl:value-of select="$baseDir" />
-			<xsl:value-of select="$xsl" />
-			<xsl:text>','</xsl:text>
-			<xsl:value-of select="substring-after(@ref, '#')" />
-			<xsl:text>',300,500)</xsl:text>
-		</xsl:variable>
-		
-		<!-\- The works -\->
-		<!-\- pb kann auch innerhalb eines w stehen; 2016-06-19 DK -\->
-		<xsl:choose>
-			<xsl:when test="descendant::tei:pb">
-				<a href="{$link}">
-					<xsl:value-of select="text()[following-sibling::tei:w]"/>
-					<xsl:value-of select="tei:w/text()[following-sibling::tei:pb]"/>
-				</a>
-				<xsl:apply-templates select="descendant::tei:pb[1]" />
-				<a href="{$link}">
-					<xsl:value-of select="tei:w/text()[preceding-sibling::tei:pb]"/>
-					<xsl:value-of select="text()[preceding-sibling::tei:w]"/>
-				</a>
-			</xsl:when>
-			<xsl:when test="tei:note">
-				<!-\- XXX Offen: was passiert, wenn neben der note noch andere Sachen vorhanden sind? Bisher nicht der Fall... -\->
-				<!-\- TODO @type='footnote' in eigenem when berücksichtigen, falls der Fall auftritt -\->
-				<xsl:if test="node()[following-sibling::tei:note]">
-					<a href="{$link}"><xsl:apply-templates select="node()[following-sibling::tei:note]"/></a>
-				</xsl:if>
-				<xsl:apply-templates select="tei:note" mode="fnLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:apply-templates>
-				<xsl:if test="node()[preceding-sibling::tei:note]">
-					<a href="{$link}"><xsl:apply-templates select="node()[preceding-sibling::tei:choice]"/></a>
-				</xsl:if>
-			</xsl:when>
-			<!-\- angepaßt für a-a und unterbrochene Ausgabe; 2016-05-19 DK -\->
-			<xsl:when test="tei:subst">
-				<xsl:if test="node()[following-sibling::tei:subst]">
-					<a href="{$link}">
-						<xsl:apply-templates select="node()[following-sibling::tei:subst]"/>
-					</a>
-				</xsl:if>
-				<xsl:if test="contains(tei:subst/tei:add, ' ')">
-					<xsl:apply-templates select="tei:subst/tei:add" mode="fnLink">
-						<xsl:with-param name="position">a</xsl:with-param>
-						<xsl:with-param name="type">crit</xsl:with-param>
-					</xsl:apply-templates>
-				</xsl:if>
-				<a href="{$link}"><xsl:apply-templates select="tei:subst/tei:add" /></a>
-				<xsl:apply-templates select="tei:subst/tei:add" mode="fnLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:apply-templates>
-				<xsl:if test="node()[preceding-sibling::tei:subst]">
-					<a href="{$link}">
-						<xsl:apply-templates select="node()[preceding-sibling::tei:subst]"/>
-					</a>
-				</xsl:if>
-			</xsl:when>
-			<!-\- neu 2016-05-18 DK -\->
-			<xsl:when test="tei:choice">
-				<xsl:if test="node()[following-sibling::tei:choice]">
-					<a href="{$link}"><xsl:apply-templates select="node()[following-sibling::tei:choice]"/></a>
-				</xsl:if>
-				<xsl:if test="contains(tei:choice/tei:corr, ' ')">
-					<xsl:apply-templates select="tei:choice" mode="fnLink">
-						<xsl:with-param name="position">a</xsl:with-param>
-						<xsl:with-param name="type">crit</xsl:with-param>
-					</xsl:apply-templates>
-				</xsl:if>
-				<a href="{$link}">
-					<xsl:apply-templates select="tei:choice/tei:corr" />
-				</a>
-				<xsl:apply-templates select="tei:choice" mode="fnLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:apply-templates>
-				<xsl:if test="node()[preceding-sibling::tei:choice]">
-					<a href="{$link}"><xsl:apply-templates select="node()[preceding-sibling::tei:choice]"/></a>
-				</xsl:if>
-			</xsl:when>
-			<!-\- neu 2016-05-18 DK -\->
-			<xsl:when test="tei:app">
-				<xsl:if test="node()[following-sibling::tei:app]">
-					<a href="{$link}"><xsl:apply-templates select="node()[following-sibling::tei:app]"/></a>
-				</xsl:if>
-				<xsl:if test="contains(tei:app/tei:lem, ' ')">
-					<xsl:apply-templates select="tei:app" mode="fnLink">
-						<xsl:with-param name="position">a</xsl:with-param>
-						<xsl:with-param name="type">crit</xsl:with-param>
-					</xsl:apply-templates>
-				</xsl:if>
-				<a href="{$link}">
-					<xsl:apply-templates select="tei:app" />
-				</a>
-				<xsl:apply-templates select="tei:app" mode="fnLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:apply-templates>
-				<xsl:if test="node()[preceding-sibling::tei:app]">
-					<a href="{$link}"><xsl:apply-templates select="node()[preceding-sibling::tei:app]"/></a>
-				</xsl:if>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:element name="a">
-					<xsl:attribute name="href"><xsl:value-of select="$link"/></xsl:attribute>
-					<xsl:apply-templates />
-				</xsl:element>
-			</xsl:otherwise>
-		</xsl:choose>
-		<!-\-<xsl:if test="not(following-sibling::tei:note)">
-			<xsl:if test="following-sibling::node()[1] = following-sibling::*[1][not(self::tei:supplied)]">
-				<xsl:text> </xsl:text>
-			</xsl:if>
-		</xsl:if>-\->
-	</xsl:template>-->
-	
-	<!-- template match="tei:quote" in tei-common ausgelagert; 2016-05-31 DK -->
-	<!-- tei:cit ausgelagert nach common; 2016-05-31 DK -->
-	<!-- template match="tei:bibl/tei:title gelöscht; 2016-05-31 DK -->
-	<!-- template match="tei:cb" gelöscht; 2016-05-31 DK -->
-	
-	<!-- Für die Sprache des Raumes (UB); 2016-02-23 DK -->
-	<!-- Neu auch in tei:titlePage für Titelseiten; 2016-04-20 DK -->
-	<!-- geändert auf docTitle, für nicht ausgerichtete/umgebrochene Stellen auf der Titelseite; 2016-05-11 DK -->
-	<!-- Ausnahme für closer im Blocksatz hinzugefügt; 2016-05-17 DK -->
-	<!-- übernommen aus PDF; 2016-05-31 DK -->
 	<xsl:template match="tei:lb[ancestor::tei:closer or ancestor::tei:docTitle]">
-		<xsl:if test="not(generate-id() = generate-id((ancestor::tei:titlePart//tei:lb)[1]))    and not(generate-id() = generate-id((ancestor::tei:closer//tei:lb)[1]))    and not(contains(ancestor::tei:closer/@rend, 'justified'))">
+		<xsl:if test="not(generate-id() = generate-id((ancestor::tei:titlePart//tei:lb)[1]))
+				and not(generate-id() = generate-id((ancestor::tei:closer//tei:lb)[1]))
+				and not(contains(ancestor::tei:closer/@rend, 'justified'))">
 			<br/>
 		</xsl:if>
 	</xsl:template>
@@ -477,10 +322,6 @@
 			</xsl:call-template>
 		</span>
 	</xsl:template>
-	
-	<!-- expan/ex nach common; 2016-05-31 DK -->
-	<!-- xsl:template match="tei:unclear" nach tei-common; 2016-05-31 DK -->
-	<!-- template match="tei:gap" ausgelagert nach tei-common; 2016-05-31 DK -->
 	
 	<xsl:template match="tei:titleStmt//tei:persName">
 		<xsl:value-of select="tei:forename"/>
@@ -504,38 +345,6 @@
 			<xsl:text>]</xsl:text>
 		</xsl:if>
 	</xsl:template>
-	
-	<!-- template match="tei:div[@type='colophon']/tei:p" gelöscht; Ausrichtung getrennt verarbeitet; 2016-05-31 DK -->
-	<!-- template match="tei:back" gelöscht; tei:back wird ausgegeben; 2016-05-31 DK -->
-	
-	<!-- *** Marginalienfunktion *** -->
-	<!-- Anzeige der Marginalien in separatem div -->
-	<xsl:template name="marginaliaContainer">	
-		<xsl:for-each select="//tei:note[@place='margin']">
-			<span class="marginalia_text" id="text_{generate-id()}">
-				<xsl:apply-templates/>
-			</span>
-		</xsl:for-each>
-	</xsl:template>	
-	<!-- template match="tei:span[@type='subheading']" gelöscht; 2016-05-31 DK -->
-	
-	<!-- für Anmerkungen über Elementgrenzen hinweg; 2016-05-31 DK -->
-	<xsl:template match="tei:anchor[@type]">
-		<xsl:variable name="myID">
-            <xsl:value-of select="concat('#', @xml:id)"/>
-        </xsl:variable>
-		<xsl:variable name="num">
-			<xsl:apply-templates select="preceding::tei:span[@from=$myID or @to=$myID]" mode="fnLink"/>
-		</xsl:variable>
-		<a id="{@xml:id}" class="anchorRef fn_number" href="#crit{$num}">
-			<xsl:value-of select="$num"/>
-		</a>
-	</xsl:template>
-	
-	<!-- span im Text nicht ausgeben; 2016-05-31 DK -->
-	<xsl:template match="tei:span"/>
-	
-	<!-- template match="tei:seg[@xml:id and not(@type)]" gelöscht; 2016-05-31 DK -->
 	
 	<!-- ergänzt um crit_app; 2016-05-31 DK -->
 	<xsl:template match="tei:seg[@xml:id and @type]">
