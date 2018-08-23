@@ -1,219 +1,216 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_bartmann_1908">
-    <teiHeader>
+  <teiHeader>
   <fileDesc>
-   <titleStmt>
-                <title>
+ <titleStmt>
+  <title>
   Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016</title>
  </titleStmt>
- 
- <sourceDesc>
-  </sourceDesc>
  <publicationStmt>
-                <publisher>
-                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
-                </publisher>
-            </publicationStmt>
-        </fileDesc>
+  <publisher>
+  <ref target="http://www.repertorium.at">Heino Speer</ref>
+  </publisher>
+  </publicationStmt>
+  </fileDesc>
  <revisionDesc>
-            <change when="2017-05-11+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
+  <change when="2017-05-11+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
 						by p4p5.xsl. </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div xml:id="Titel">
-     <head>Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016</head>
-            </div>
-            <div xml:id="Editorial">
-     <head>[Editorial]</head>
-     <p>Quelle: Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 und die Aufnahme des römischen Rechts im Stifte Münster (Heidelberg 1908, Carl Winter's Universitätsbuchhandlung) = Deutschrechtliche Beiträge. Forschungen und Quellen zur Geschichte des Deutschen Rechts.  Herausgegeben von Dr. Konrad Beyerle, ord. Professor an der Universität Göttingen, Band II,  Heft 3.<lb/>Mit einem OCR-Programm als Text erfasst und mit Markup nach TEI-XML versehen, korrigiert und hypertextualisiert. <lb/>Heino Speer 2010 / 2016.</p>
-            </div>
-            <div xml:id="Literaturverzeichnis">
-    <head>Literaturverzeichnis [formal angepasst. H.S.]</head>
-<p>    
-   <table border="1">
-    <row>
-                            <cell>Autor</cell> <cell>Titel</cell> <cell>Digitalisat</cell>
-                        </row>
+  </revisionDesc>
+  </teiHeader>
+  <text>
+  <front/>
+  <body>
+  <div xml:id="Titel">
+ <head>Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 /2016</head>
+  </div>
+  <div xml:id="Editorial">
+ <head>[Editorial]</head>
+ <p>Quelle: Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 und die Aufnahme des römischen Rechts im Stifte Münster (Heidelberg 1908, Carl Winter's Universitätsbuchhandlung) = Deutschrechtliche Beiträge. Forschungen und Quellen zur Geschichte des Deutschen Rechts.  Herausgegeben von Dr. Konrad Beyerle, ord. Professor an der Universität Göttingen, Band II,  Heft 3.<lb/>Mit einem OCR-Programm als Text erfasst und mit Markup nach TEI-XML versehen, korrigiert und hypertextualisiert. <lb/>Heino Speer 2010 / 2016.</p>
+  </div>
+  <div xml:id="Literaturverzeichnis">
+  <head>Literaturverzeichnis [formal angepasst. H.S.]</head>
+<p>  
+ <table border="1">
+  <row>
+  <cell>Autor</cell> <cell>Titel</cell> <cell>Digitalisat</cell>
+  </row>
 <row>
-                            <cell>Friedländer u. Malagola (Hrsg.):</cell> <cell>Acta Nationis Germanicae Universitatis Bononiensis, Berlin 1887</cell> <cell/>
-                        </row>
-    <row>
-                            <cell> Arnold:</cell> <cell>Studien zur deutschen Kulturgeschichte, Stuttgart 1882</cell>
-                            <cell/>
-                        </row>
-    <row>
-                            <cell>v. Below:</cell> <cell>Die Ursachen der Rezeption des römischen Rechtes in Deutschland, München und Berlin 1905</cell> <cell/>
-                        </row>
-    <row>
-                            <cell>Bömer:</cell> <cell>Das literarische Leben in Münster bis zur endgültigen Rezeption des Humanismus, aus der Festschrift der Universitätsbibliothek, Münster 1906</cell> <cell/>
-                        </row>
-    <row>
-                            <cell>Bornhak:</cell> <cell>Der Einfluß der Rezeption der fremden Rechte auf die Umgestaltung der älteren deutschen Gerichtsverfassung, Forschungen zur deutschen Geschichte XXVI, 1886</cell> <cell/>
-                        </row>
-    <row>
-                            <cell>Cornelius:</cell> <cell>Die münsterischen Humanisten, Münster 1851</cell> <cell/>
-                        </row>
-     <row>
-                            <cell>Darpe:</cell> <cell>Humanismus in Rheine (Ztschr. f. vaterl. Gesch. u. Altertumsk., Münster 1888, Bd. 46, I, S. 1 ff.)</cell> <cell/>
-                        </row>
-     <row>
-                            <cell>Detmer:</cell> <cell>Johann von Hoya, Allgemeine deutsche Biographie, Bd. 14, S. 246 ff.</cell>
-                            <cell/>
-                        </row>
-<row>
-                            <cell>Diepenbrock:</cell> <cell>Geschichte des vormaligen münsterschen Amtes Meppen, Münster, 1838</cell> <cell/> </row>
-      <row>
-                            <cell>v. Duhn:</cell> <cell>Deutschrechtliche Arbeiten, Lübeck, 1877</cell> <cell/> </row>
-<row>
-                            <cell>Engelke:</cell> <cell> Das Gogericht auf dem Desum, Jahrbuch für Oldenburgische Geschichte XIV, S. 1ff. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=Engelke,GogerichtDesum">[DRW-Sigle]</ref>
-                            </cell> <cell/>
-                        </row>
-<row>
-                            <cell>Erler:</cell> <cell>Die Matrikel der Universität Leipzig (= <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=LeipzUnivMatr.">Cod. dipl. Sax. Reg. 2 Hauptteil, Bd. 16</ref>), Leipzig, 1895</cell> <cell/> </row>
-      <row>
-                            <cell>Franklin:</cell> <cell>Beiträge zur Geschichte der Rezeption des römischen Rechtes in Deutschland, Hannover, 1863</cell> <cell/> </row>
-<row>
-                            <cell>Gobler:</cell> <cell> Der Rechten Spiegel, Frankfurt, 1558 [<ref target="http://gateway-bayern.bib-bvb.de/aleph-cgi/bvb_suche?sid=VD16&amp;find_code_1=WVD&amp;find_request_1=G+2315">VD16-Titelaufnahme]</ref>
-                            </cell> <cell/> </row>
+  <cell>Friedländer u. Malagola (Hrsg.):</cell> <cell>Acta Nationis Germanicae Universitatis Bononiensis, Berlin 1887</cell> <cell/>
+  </row>
+  <row>
+  <cell> Arnold:</cell> <cell>Studien zur deutschen Kulturgeschichte, Stuttgart 1882</cell>
+  <cell/>
+  </row>
+  <row>
+      <cell>v. Below:</cell> <cell>Die Ursachen der Rezeption des römischen Rechtes in Deutschland, München und Berlin 1905. [<ref target="http://repertorium.at/pdf/below_ursachen_1905.pdf">PDF-Datei Repertorium</ref>]</cell> <cell/>
+  </row>
+  <row>
+  <cell>Bömer:</cell> <cell>Das literarische Leben in Münster bis zur endgültigen Rezeption des Humanismus, aus der Festschrift der Universitätsbibliothek, Münster 1906</cell> <cell/>
+  </row>
+  <row>
+  <cell>Bornhak:</cell> <cell>Der Einfluß der Rezeption der fremden Rechte auf die Umgestaltung der älteren deutschen Gerichtsverfassung, Forschungen zur deutschen Geschichte XXVI, 1886</cell> <cell/>
+  </row>
+  <row>
+  <cell>Cornelius:</cell> <cell>Die münsterischen Humanisten, Münster 1851</cell> <cell/>
+  </row>
  <row>
-                            <cell>Heldmann:</cell> <cell>Westfälische Studierende zu Erfurt, Marburg, Heidelberg, Wittenberg (in: Zeitschrift für vaterländische Geschichte und Altertumskunde, Münster 1894, Bd. 52, II, S. 77 ff., 1897, Bd. 55, II, S.93ff., 1902, Bd. 60, II, S. 19 ff., 1895, Bd. 53, II, S. 97 ff.).</cell> <cell/>
-                        </row>
+  <cell>Darpe:</cell> <cell>Humanismus in Rheine (Ztschr. f. vaterl. Gesch. u. Altertumsk., Münster 1888, Bd. 46, I, S. 1 ff.)</cell> <cell/>
+  </row>
+ <row>
+  <cell>Detmer:</cell> <cell>Johann von Hoya, Allgemeine deutsche Biographie, Bd. 14, S. 246 ff.</cell>
+  <cell/>
+  </row>
 <row>
-                            <cell> v. Kamptz:</cell> <cell>Die Provinzial- und Statutarrechte in der preußischen Monarchie, Bd. II, Berlin, 1827</cell> <cell/> </row>
+  <cell>Diepenbrock:</cell> <cell>Geschichte des vormaligen münsterschen Amtes Meppen, Münster, 1838</cell> <cell/> </row>
+  <row>
+  <cell>v. Duhn:</cell> <cell>Deutschrechtliche Arbeiten, Lübeck, 1877</cell> <cell/> </row>
 <row>
-                            <cell>Karlowa:</cell> <cell>Über die Rezeption des römischen Rechtes in Deutschland, Heidelberg, 1878</cell> <cell>
-                                <ref target="">Volltext</ref>
-                            </cell> </row>
+  <cell>Engelke:</cell> <cell> Das Gogericht auf dem Desum, Jahrbuch für Oldenburgische Geschichte XIV, S. 1ff. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=Engelke,GogerichtDesum">[DRW-Sigle]</ref>
+  </cell> <cell/>
+  </row>
 <row>
-                            <cell>Keussen:</cell> <cell>Die Matrikel der Universität Köln, 1389—1559, Bd. I, 1389 bis 1463, Bonn, 1892</cell> <cell/> </row>
+  <cell>Erler:</cell> <cell>Die Matrikel der Universität Leipzig (= <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=LeipzUnivMatr.">Cod. dipl. Sax. Reg. 2 Hauptteil, Bd. 16</ref>), Leipzig, 1895</cell> <cell/> </row>
+  <row>
+  <cell>Franklin:</cell> <cell>Beiträge zur Geschichte der Rezeption des römischen Rechtes in Deutschland, Hannover, 1863</cell> <cell/> </row>
 <row>
-                            <cell>Knod:</cell> <cell>Deutsche Studenten in Bologna (1289—1562), Berlin, 1899</cell> <cell>
-                                <ref target="http://archive.org/stream/deutschestudent00knod#page/n5/mode/2up">Digitalisat</ref>
-                            </cell> </row>
+  <cell>Gobler:</cell> <cell> Der Rechten Spiegel, Frankfurt, 1558 [<ref target="http://gateway-bayern.bib-bvb.de/aleph-cgi/bvb_suche?sid=VD16&amp;find_code_1=WVD&amp;find_request_1=G+2315">VD16-Titelaufnahme]</ref>
+  </cell> <cell/> </row>
+ <row>
+  <cell>Heldmann:</cell> <cell>Westfälische Studierende zu Erfurt, Marburg, Heidelberg, Wittenberg (in: Zeitschrift für vaterländische Geschichte und Altertumskunde, Münster 1894, Bd. 52, II, S. 77 ff., 1897, Bd. 55, II, S.93ff., 1902, Bd. 60, II, S. 19 ff., 1895, Bd. 53, II, S. 97 ff.).</cell> <cell/>
+  </row>
 <row>
-                            <cell>Kock:</cell> <cell>Series Episcoporum Monasteriensium, III, Monasterii,1802</cell> <cell/> </row>
+  <cell> v. Kamptz:</cell> <cell>Die Provinzial- und Statutarrechte in der preußischen Monarchie, Bd. II, Berlin, 1827</cell> <cell/> </row>
 <row>
-                            <cell>Kurfürstentum Köln</cell>
-                            <cell>Kölner Reformation der weltlichen Gerichte, ausgegangen im Jahre 1537, in der Ediktensammlung Maximilian Friedrichs, Bd. I, S. 412 ff., Köln, 1772</cell> <cell/> </row>
+  <cell>Karlowa:</cell> <cell>Über die Rezeption des römischen Rechtes in Deutschland, Heidelberg, 1878</cell> <cell>
+  <ref target="">Volltext</ref>
+  </cell> </row>
 <row>
-                            <cell>Küster:</cell> <cell>Die juristische Abteilung der kgl. Universitäts-Bibliothek in Münster, Festschrift, Münster, 1906</cell> <cell/> </row>
+  <cell>Keussen:</cell> <cell>Die Matrikel der Universität Köln, 1389—1559, Bd. I, 1389 bis 1463, Bonn, 1892</cell> <cell/> </row>
 <row>
-                            <cell>Laband:</cell> <cell>Über die Bedeutung der Rezeption des römischen Rechtes für das deutsche Staatsrecht, Straßburg, 1880</cell> <cell/> </row>
-   <row>
-                            <cell>Lüdicke:</cell> <cell>Die landesherrlichen Zentralbehörden im Bistum Münster, Göttinger Dissertation, Münster, 1901</cell> <cell/> </row>
-     <row>
-                            <cell>Merkel:</cell> <cell>Der Kampf des Fremdrechtes mit dem einheimischen Rechte in Braunschweig-Lüneburg, Hannover und Leipzig, 1904</cell> <cell>
-                                <ref target="http://drqerg.de/RHN/wp-content/uploads/2012/09/merkel_1901.html">Digitalisat</ref>
-                            </cell> </row>
+  <cell>Knod:</cell> <cell>Deutsche Studenten in Bologna (1289—1562), Berlin, 1899</cell> <cell>
+  <ref target="http://archive.org/stream/deutschestudent00knod#page/n5/mode/2up">Digitalisat</ref>
+  </cell> </row>
 <row>
-                            <cell>Münster</cell> <cell>Münsterische Hoff- und Landgerichts- auch gemeine Ordnungen, Münster, 1617</cell> <cell/> </row>
+  <cell>Kock:</cell> <cell>Series Episcoporum Monasteriensium, III, Monasterii,1802</cell> <cell/> </row>
 <row>
-                            <cell>Nieberding:</cell> <cell>Geschichte des ehemaligen Niederstifts Münster, Vechta, 1852</cell> <cell/> </row>
+  <cell>Kurfürstentum Köln</cell>
+  <cell>Kölner Reformation der weltlichen Gerichte, ausgegangen im Jahre 1537, in der Ediktensammlung Maximilian Friedrichs, Bd. I, S. 412 ff., Köln, 1772</cell> <cell/> </row>
 <row>
-                            <cell>Niesert:</cell> <cell>Münstersche Urkundensammlung, Coesfeld, 1829</cell> <cell/> </row>
+  <cell>Küster:</cell> <cell>Die juristische Abteilung der kgl. Universitäts-Bibliothek in Münster, Festschrift, Münster, 1906</cell> <cell/> </row>
 <row>
-                            <cell>Nordhoff:</cell> <cell>Denkwürdigkeiten aus dem münsterischen Humanismus, Münster, 1874</cell> <cell/> </row>
+  <cell>Laband:</cell> <cell>Über die Bedeutung der Rezeption des römischen Rechtes für das deutsche Staatsrecht, Straßburg, 1880</cell> <cell/> </row>
+ <row>
+  <cell>Lüdicke:</cell> <cell>Die landesherrlichen Zentralbehörden im Bistum Münster, Göttinger Dissertation, Münster, 1901</cell> <cell/> </row>
+ <row>
+  <cell>Merkel:</cell> <cell>Der Kampf des Fremdrechtes mit dem einheimischen Rechte in Braunschweig-Lüneburg, Hannover und Leipzig, 1904</cell> <cell>
+  <ref target="http://drqerg.de/RHN/wp-content/uploads/2012/09/merkel_1901.html">Digitalisat</ref>
+  </cell> </row>
 <row>
-                            <cell>von Olfers:</cell> <cell>Verfassung und Zerstückelung des Oberstiftes Münster, Münster, 1848</cell> <cell/> </row>
+  <cell>Münster</cell> <cell>Münsterische Hoff- und Landgerichts- auch gemeine Ordnungen, Münster, 1617</cell> <cell/> </row>
 <row>
-                            <cell>Planck:</cell> <cell>Die Lehre vom Beweisurteil, Göttingen, 1848</cell> <cell/> </row>
+  <cell>Nieberding:</cell> <cell>Geschichte des ehemaligen Niederstifts Münster, Vechta, 1852</cell> <cell/> </row>
 <row>
-                            <cell>Planck:</cell> <cell>Deutsches Gerichtsverfahren im Mittelalter, Braunschweig, 1879</cell> <cell/> </row>
+  <cell>Niesert:</cell> <cell>Münstersche Urkundensammlung, Coesfeld, 1829</cell> <cell/> </row>
 <row>
-                            <cell>Philippi:</cell> <cell>Hundert Jahre preußischer Herrschaft im Münsterlande, Münster, 1904</cell> <cell/> </row>
+  <cell>Nordhoff:</cell> <cell>Denkwürdigkeiten aus dem münsterischen Humanismus, Münster, 1874</cell> <cell/> </row>
 <row>
-                            <cell>Philippi:</cell> <cell>Westfälische Landrechte, Bd. I, Landrechte des Münsterlandes (Veröffentlichungen der hist. Kommission für Westfalen, Rechtsquellen), Münster, 
+  <cell>von Olfers:</cell> <cell>Verfassung und Zerstückelung des Oberstiftes Münster, Münster, 1848</cell> <cell/> </row>
+<row>
+  <cell>Planck:</cell> <cell>Die Lehre vom Beweisurteil, Göttingen, 1848</cell> <cell/> </row>
+<row>
+  <cell>Planck:</cell> <cell>Deutsches Gerichtsverfahren im Mittelalter, Braunschweig, 1879</cell> <cell/> </row>
+<row>
+  <cell>Philippi:</cell> <cell>Hundert Jahre preußischer Herrschaft im Münsterlande, Münster, 1904</cell> <cell/> </row>
+<row>
+  <cell>Philippi:</cell> <cell>Westfälische Landrechte, Bd. I, Landrechte des Münsterlandes (Veröffentlichungen der hist. Kommission für Westfalen, Rechtsquellen), Münster, 
  1907</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=westflr.">DRW-Sigle</ref>
-                            </cell> </row>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=westflr.">DRW-Sigle</ref>
+  </cell> </row>
 <row>
-                            <cell>Rehker:</cell> <cell>Die landesherrlichen Verwaltungsbehörden im Bistum Osnabrück von 1553—1661 (Mitteil. des Vereins für Gesch. u. Landeskunde von Osnabrück, Bd. 30, Jahrgang 1905)</cell> <cell/>
-                        </row>
+  <cell>Rehker:</cell> <cell>Die landesherrlichen Verwaltungsbehörden im Bistum Osnabrück von 1553—1661 (Mitteil. des Vereins für Gesch. u. Landeskunde von Osnabrück, Bd. 30, Jahrgang 1905)</cell> <cell/>
+  </row>
 <row>
-                            <cell>Reichskammergerichtsordnung</cell> <cell>Reichskammergerichtsordnung von 1555, in <ref target="">Lünigs deutschem Reichsarchiv, Leipzig 1713, Bd. I, S. 163ff.</ref>,  jetzt auch bei <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2b|g">Zeumer, Quellensammlung zur Gesch. der deutsch. Reichsverfassung (1904)</ref>, Nr. <choice>
-                                    <sic>164</sic>
-                                    <corr/>
-                                </choice>., </cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1555">DRQEdit</ref>
-                            </cell>
-                        </row>
-    <row>
-                            <cell>Saur</cell> <cell>Fasciculus Iudiciarii Ordinis Singularis, VI. Faszikel S. 134 ff. (= Münsterische Hoff- und Landgerichts- auch gemeine Ordnungen), Frankfurt, 1588</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=&amp;fs=saur,fasc. I">DRQEdit-Sigle</ref>
-                            </cell> </row>
-    <row>
-                            <cell>Saur</cell> <cell>Fasciculus Iudiciarii Ordinis Singularis, I. Faszikel, S. 1ff. (= Mainzer Untergerichtsordnung), Frankfurt, 1588</cell> <cell>[<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=&amp;fs=saur,fasc. I">DRQEdit-Sigle Saur</ref>]
-     <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MainzUGO. 1534">DRQEdit Originaldruck</ref>
-                            </cell> </row>
-     <row>
-                            <cell>Schlüter:</cell> <cell>Provinzialrecht der Provinz Westfalen, Bd. I, Provinzialrecht des Fürstentums Münster, Leipzig, 1829</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=schlueter,westfprovr.">DRW-Sigle</ref>
-                            </cell> </row>
+  <cell>Reichskammergerichtsordnung</cell> <cell>Reichskammergerichtsordnung von 1555, in <ref target="">Lünigs deutschem Reichsarchiv, Leipzig 1713, Bd. I, S. 163ff.</ref>,  jetzt auch bei <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=zeumer,qs.2&amp;seite=F7/zeumer2b|g">Zeumer, Quellensammlung zur Gesch. der deutsch. Reichsverfassung (1904)</ref>, Nr. <choice>
+  <sic>164</sic>
+  <corr/>
+  </choice>., </cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1555">DRQEdit</ref>
+  </cell>
+  </row>
+  <row>
+  <cell>Saur</cell> <cell>Fasciculus Iudiciarii Ordinis Singularis, VI. Faszikel S. 134 ff. (= Münsterische Hoff- und Landgerichts- auch gemeine Ordnungen), Frankfurt, 1588</cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=&amp;fs=saur,fasc. I">DRQEdit-Sigle</ref>
+  </cell> </row>
+  <row>
+  <cell>Saur</cell> <cell>Fasciculus Iudiciarii Ordinis Singularis, I. Faszikel, S. 1ff. (= Mainzer Untergerichtsordnung), Frankfurt, 1588</cell> <cell>[<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=&amp;fs=saur,fasc. I">DRQEdit-Sigle Saur</ref>]
+ <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MainzUGO. 1534">DRQEdit Originaldruck</ref>
+  </cell> </row>
+ <row>
+  <cell>Schlüter:</cell> <cell>Provinzialrecht der Provinz Westfalen, Bd. I, Provinzialrecht des Fürstentums Münster, Leipzig, 1829</cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=schlueter,westfprovr.">DRW-Sigle</ref>
+  </cell> </row>
 <row>
-                            <cell>Schmitz:</cell> <cell>Die Gogerichte im ehemaligen Herzogtum Westfalen, Münsterische Dissertation, Münster, 1901</cell> <cell/> </row>
+  <cell>Schmitz:</cell> <cell>Die Gogerichte im ehemaligen Herzogtum Westfalen, Münsterische Dissertation, Münster, 1901</cell> <cell/> </row>
 <row>
-                            <cell>Schmidt:</cell> <cell>Die Rezeption des römischen Rechtes in Deutschland 1868</cell> <cell/> </row>
+  <cell>Schmidt:</cell> <cell>Die Rezeption des römischen Rechtes in Deutschland 1868</cell> <cell/> </row>
 <row>
-                            <cell>Schroeder:</cell> <cell>Lehrbuch der deutschen Rechtsgeschichte, 5. Aufl., Leipzig, 1907</cell> <cell>
-                                <ref target="http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/3424768">Digitalisat 7. Aufl.</ref>
-                            </cell> </row>
+  <cell>Schroeder:</cell> <cell>Lehrbuch der deutschen Rechtsgeschichte, 5. Aufl., Leipzig, 1907</cell> <cell>
+  <ref target="http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/3424768">Digitalisat 7. Aufl.</ref>
+  </cell> </row>
 <row>
-                            <cell>Schwartz:</cell> <cell>400 Jahre deutscher Civilprozeßgesetzgebung, Berlin, 1898</cell> <cell>
-                                <ref target="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-104651/">Digitalisat</ref>
-                            </cell> </row>
+  <cell>Schwartz:</cell> <cell>400 Jahre deutscher Civilprozeßgesetzgebung, Berlin, 1898</cell> <cell>
+  <ref target="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-104651/">Digitalisat</ref>
+  </cell> </row>
 <row>
-                            <cell>Scotti:</cell> <cell>Samml. der Gesetze und Verordnungen, welche im Erbfürstentum Münster ergangen sind, Bd. 1 u. 2, Münster, 1842</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=Scotti,Münster">DRW-Sigle</ref>
-                            </cell> </row>
+  <cell>Scotti:</cell> <cell>Samml. der Gesetze und Verordnungen, welche im Erbfürstentum Münster ergangen sind, Bd. 1 u. 2, Münster, 1842</cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=Scotti,Münster">DRW-Sigle</ref>
+  </cell> </row>
 <row>
-                            <cell>Sohm:</cell> <cell>Fränkisches Recht u. römisches Recht, Ztschr. der Savigny-Stiftung für Rechtsgesch., Germ. Abt. Bd. I (1880), S. 1ff.</cell>
-                            <cell/>
-                        </row>
+  <cell>Sohm:</cell> <cell>Fränkisches Recht u. römisches Recht, Ztschr. der Savigny-Stiftung für Rechtsgesch., Germ. Abt. Bd. I (1880), S. 1ff.</cell>
+  <cell/>
+  </row>
 <row>
-                            <cell>Sohm:</cell> <cell>Institutionen des römischen Rechtes, Leipzig, 1901</cell> <cell/> </row>
+  <cell>Sohm:</cell> <cell>Institutionen des römischen Rechtes, Leipzig, 1901</cell> <cell/> </row>
 <row>
-                            <cell>Sohm:</cell> <cell>Die deutsche Rechtsentwicklung und die Kodifikationsfrage, Grünhuts Ztschr. Bd. I (1874), S. 245 ff.</cell> <cell/>
-                        </row>
+  <cell>Sohm:</cell> <cell>Die deutsche Rechtsentwicklung und die Kodifikationsfrage, Grünhuts Ztschr. Bd. I (1874), S. 245 ff.</cell> <cell/>
+  </row>
 <row>
-                            <cell>Stobbe:</cell> <cell>Geschichte der deutschen Rechtsquellen, Braunschweig, 1860</cell> <cell>
-                                <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10552790-6">Digitalisat</ref>
-                            </cell> </row>
+  <cell>Stobbe:</cell> <cell>Geschichte der deutschen Rechtsquellen, Braunschweig, 1860</cell> <cell>
+  <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10552790-6">Digitalisat</ref>
+  </cell> </row>
 <row>
-                            <cell>Stobbe:</cell> <cell>Zur Literatur der deutschen Rechtsgeschichte, Kritische Vierteljahrsschrift für Gesetzgebung u. Rechtswiss., Bd. XI (1869), S. 1ff.</cell> <cell/>
-                        </row>
+  <cell>Stobbe:</cell> <cell>Zur Literatur der deutschen Rechtsgeschichte, Kritische Vierteljahrsschrift für Gesetzgebung u. Rechtswiss., Bd. XI (1869), S. 1ff.</cell> <cell/>
+  </row>
 <row>
-                            <cell>Stölzel:</cell> <cell>Die Entwicklung des gelehrten Richtertums in deutschen Territorien, Stuttgart, 1872</cell> <cell>
-                                <ref target="http://digi.ub.uni-heidelberg.de/diglit/stoelzel1872bd1/0001">Digitalisat</ref>
-                            </cell> </row>
+  <cell>Stölzel:</cell> <cell>Die Entwicklung des gelehrten Richtertums in deutschen Territorien, Stuttgart, 1872</cell> <cell>
+  <ref target="http://digi.ub.uni-heidelberg.de/diglit/stoelzel1872bd1/0001">Digitalisat</ref>
+  </cell> </row>
 <row>
-                            <cell>Stölzel:</cell> <cell>Das Bedürfnis nach Rechtseinheit als Ursache der Rezeption des römischen Rechtes, Vortrag, im Auszug abgedr. in der deutschen Lit.-Ztg. 1907,
+  <cell>Stölzel:</cell> <cell>Das Bedürfnis nach Rechtseinheit als Ursache der Rezeption des römischen Rechtes, Vortrag, im Auszug abgedr. in der deutschen Lit.-Ztg. 1907,
 Nr. 5, S. 309 ff.</cell> <cell/>
-                        </row>
-    <row>
-                            <cell>Stüve:</cell> <cell>Geschichte des Hochstifts Osnabrück, Jena, 1872</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=stueve,osnabr. ">DRW-Sigle</ref>
-                            </cell> </row>
+  </row>
+  <row>
+  <cell>Stüve:</cell> <cell>Geschichte des Hochstifts Osnabrück, Jena, 1872</cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=stueve,osnabr. ">DRW-Sigle</ref>
+  </cell> </row>
 <row>
-                            <cell>Stüve:</cell> <cell>Untersuchung über die Gogerichte in Westfalen, Jena, 1870</cell> <cell/> </row>
+  <cell>Stüve:</cell> <cell>Untersuchung über die Gogerichte in Westfalen, Jena, 1870</cell> <cell/> </row>
 <row>
-                            <cell>Undergerichtsordnung des Erzstifts Mainz, Frankfurt, 1534</cell> <cell>[<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MainzUGO._1534">DRQEdit-Digitalisat</ref>]</cell> </row>  
+  <cell>Undergerichtsordnung des Erzstifts Mainz, Frankfurt, 1534</cell> <cell>[<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MainzUGO._1534">DRQEdit-Digitalisat</ref>]</cell> </row>  
 <row>
-                            <cell>Welter:</cell> <cell>Handbuch über das eheliche Güterrecht in Westfalen, Paderborn, 1861</cell> <cell/> </row>
+  <cell>Welter:</cell> <cell>Handbuch über das eheliche Güterrecht in Westfalen, Paderborn, 1861</cell> <cell/> </row>
 <row>
-                            <cell>Wigand:</cell> <cell>Archiv für Geschichte und Altertumskunde Westfalens, Bd. III, Lemgo, 1828</cell> <cell>
-                                <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=archwestf. ">DRW-Sigle</ref>
-                            </cell> </row>
+  <cell>Wigand:</cell> <cell>Archiv für Geschichte und Altertumskunde Westfalens, Bd. III, Lemgo, 1828</cell> <cell>
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=archwestf. ">DRW-Sigle</ref>
+  </cell> </row>
 </table>
 </p>
-            </div>
-            <div xml:id="K.0">
+  </div>
+  <div xml:id="K.0">
 <p>
   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="299" facs="ln:bartmann_1908F,"/> <pb n="299"/>] <anchor xml:id="SD11"/>
-                </p>
+  </p>
  </div>
-            <div xml:id="K.1"> 
+  <div xml:id="K.1"> 
  <head>Erstes Kapitel.</head> 
  <head>Die Entstehungsgeschichte der Münsterischen Landgerichtsordnung von
 1571.</head> <index level1="Münsterische Hof- und Landgerichtsordnung 1571" level2="Entstehungsgeschichte"/>
@@ -222,7 +219,7 @@ Nr. 5, S. 309 ff.</cell> <cell/>
   <p>Am 26. Oktober 1566 wurde <name type="person">Johann von Hoya</name>
 <index level1="Hoya, Johann Graf v."/>zum Bischof von Münster gewählt.<note xml:id="n11" type="footnote" n="1.1">Vgl.
 <ref target="http://de.wikisource.org/wiki/ADB:Johann_IV._(1._Artikel)"> Detmer, J. von Hoya, Allgem. deutsche Biographie, Bd. 14, S. 246ff.</ref>
-                    </note> Nach seiner
+  </note> Nach seiner
 ganzen Vergangenheit erschien er sehr tauglich zur Verbesserung des stiftischen
 Gerichtswesens, über welches hie und da Klagen laut geworden waren. Johann
 hatte in Paris und Orleans studiert, er genoß den Ruf eines tüchtigen Juristen,
@@ -241,7 +238,7 @@ gleichwohl habe Ihre fürstlichen Gnaden durch Dr. Rey schon "etwas verfassen
 lassen". Dieses "etwas" wird wohl die in W. Ldr. I<note xml:id="n13" type="footnote" n="1.3">So
 die stete Abkürzung für <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=siglen&amp;term=WestfLR.">Philippi, Westfälische
 Landrechte, Bd. I, Landrechte des Münsterlandes, Münster 1907</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">151ff.</ref>
-                    </note>
+  </note>
 abgedruckte  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="300" facs="ln:bartmann_1908F,"/> <pb n="300"/>] <anchor xml:id="SD12"/>
 "kurtze anzeich der misbruiche" sein. Weiter heißt es, vor allem solle eine
 "Inquisition bei allen hoch- und niedergerichten bestendiglich durch etliche
@@ -277,13 +274,13 @@ deren die durch die Landgerichtsordnung (abgek. LGO.) eingeführten Neuerungen
 in die Tat umgesetzt werden sollten.<note xml:id="n15" type="footnote" n="1.5">Die Antworten
 sind abgedruckt in <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g164">W. Ldr., I, 3. 164
 ff.</ref>
-                    </note> </p> 
+  </note> </p> 
 <p>Durch mancherlei Streitigkeiten zwischen Bischof und Ständen wurde die
 Publikation der Ordnungen bis zum 31. Oktober 1571 verzögert. Als ihr Verfasser
 wird in dem Protokoll über die Eröffnung des Hofgerichts der Kanzler Dr. jur.
  <name type="person">Steck</name> genannt.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="302" facs="ln:bartmann_1908F,"/> <pb n="302"/>] <anchor xml:id="SD14"/> </p>
-            </div>
-            <div xml:id="K.2"> 
+  </div>
+  <div xml:id="K.2"> 
 <head>Zweites Kapitel.</head> 
 <head>Das Gerichtsverfahren vor Erlaß der Landgerichtsordnung.</head> 
 <p>Um beurteilen zu können, weiche Bedeutung die LGO. für die Rechtsentwicklung
@@ -302,13 +299,13 @@ a.a.O., S. 2.)</note> besonders für die Aufnahme des römischen Rechtes gehabt
 hat, ist zunächst das frühere Verfahren darzustellen.</p> 
 <p>Dabei rechtfertigt sich die Beschränkung auf das Zivilverfahren vor den
 Gogerichten, den ordentlichen weltlichen Landgerichten<note xml:id="n22" type="footnote" n="2.2">
-                        <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p006">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p006">W.
 Ldr., I, S. VI</ref>.</note>, denn
 nur dieses hat in der LGO. eine durchgreifende Regelung bezw. Umgestaltung
 erfahren.</p> 
  <p>Bezüglich des peinlichen Verfahrens wird auf die Vorschriften der Carolina
 verwiesen.<note xml:id="n23" type="footnote" n="2.3">
-                        <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.1">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.1">LGO.
 3 I</ref>.</note> Über das Brüchtenverfahren<index level1="Brüchtenverfahren"/>,
 ein halb ziviles, halb kriminelles Verfahren<note xml:id="n24" type="footnote" n="2.4">Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g203">W.
 Ldr. I, S.
@@ -318,10 +315,10 @@ Beweiß angehört und darauff alßbald erkendt werden soll" (<ref target="http:/
 II</ref>). Für die Freigerichte begnügte man
 sich mit einer energischen Ermahnung, die bestehende "Reformation" zu
 befolgen.<note xml:id="n25" type="footnote" n="2.5">
-                        <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.3">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.3">LGO.
 3 III</ref>.</note> Auch  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="303" facs="ln:bartmann_1908F,"/> <pb n="303"/>] <anchor xml:id="SD15"/> die Holz-, Gast- und Bauergerichte können wir
 übergehen, da sich über diese nur wenige Vorschriften in der LGO. finden<note xml:id="n26" type="footnote" n="2.6">
-                        <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.9">3
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.9">3
 IX-XIII</ref>.</note>, die überdies auch den Bestimmungen über die Gogerichte
 nach Möglichkeit entsprechen.<note xml:id="n27" type="footnote" n="2.7">Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=3.5">LGO.
 3 V</ref>.</note> </p>
@@ -330,54 +327,54 @@ nach Möglichkeit entsprechen.<note xml:id="n27" type="footnote" n="2.7">Vgl. <r
 <index level1="Gogericht"/> 
 <p>Zwei Formen der Goversammlung sind scharf zu scheiden: das Goding, auch
 "generallandgoding"<note xml:id="n28" type="footnote" n="2.8">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g113">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g113">W.
 Ldr., I, S. 113</ref>.</note>, "echtes
 godinch"<note xml:id="n29" type="footnote" n="2.9">W. Ldr., I, S. XLI.</note> oder "steveliger
 gerichtestag"<note xml:id="n210" type="footnote" n="2.10">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
 Das Gogericht auf dem Desum, Jahrb. f.
 Oldenburg. Geschichte, XIV. Bd. S. 64</ref>
-                        </note> genannt, und das
+  </note> genannt, und das
 eigentliche Gogericht, "Gericht in streitigen Partiensachen".<note xml:id="n211" type="footnote" n="2.11">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g224">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g224">W.
 Ldr., I S. 224</ref>.</note>
-                    </p> 
+  </p> 
  <p> <index level1="Gogericht" level2="Malstatt"/>An vielen Orten bestand für
 beide eine verschiedene Malstatt: so wurde z.B. in Beckum und in Ahlen das
 Goding vor dem Ost-, das Gogericht vor dem Westtore abgehalten.<note xml:id="n212" type="footnote" n="2.12">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g174">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g174">W.
 Ldr., I, S.
 174f.</ref>
-                        </note> <index level1="Dingpflichtiger "/>
-                        <index level1="Ungebotenes Ding"/>Ferner
+  </note> <index level1="Dingpflichtiger "/>
+  <index level1="Ungebotenes Ding"/>Ferner
 war das Goding ein ungebotenes Ding, zu
 welchem alle Dingpflichtigen, also auch die Parteien, ungeladen erscheinen
 mußten<note xml:id="n213" type="footnote" n="2.13">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
 a.a.O., S. 64</ref>.</note> und welches an bestimmten, sogenannten
 Pflichttagen<index level1="Goding" level2="Pflichttag"/> gehalten wurde.
 Solcher Tage gab es in einigen Gerichten nur zwei (eines bei Gras und eines bei
 Stroh<note xml:id="n214" type="footnote" n="2.14">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g125">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g125">W. Ldr., I, S.
 125</ref>.</note>), in anderen drei, vier oder sogar sechs.<note xml:id="n215" type="footnote" n="2.15">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g196">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g196">W.
 Ldr., I, S. 196</ref>.</note>
 Außerdem konnte der Bischof noch außerordentliche "steffliche richtliche
 pflichtdaiche" anberaumen.<note xml:id="n216" type="footnote" n="2.16">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g080">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g080">W.
 Ldr., I, S. 80</ref>.</note> </p> 
 <p> Gogericht wurde dagegen gehalten, "so offt es durch des Herrn von Munster
 amptlude uthgekundyget worth, ock dar es parten umb schulden und unschulden
 begeren".<note xml:id="n217" type="footnote" n="2.17">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g161">W. Ldr.,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g161">W. Ldr.,
 I, S. 161</ref>.</note> Dies war ein gebotenes Ding, zu welchem die
 Gegenpartei zehn Tage vorher geladen werden mußte.<note xml:id="n218" type="footnote" n="2.18">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
 Ldr., I, S. 198</ref>, 3.</note>
 </p> 
 <p>
-                        <index level1="Gogericht" level2="Abgrenzung zum Goding"/>
-                        <index level1="Goding" level2="Abgrenzung zum Gogericht"/>
+  <index level1="Gogericht" level2="Abgrenzung zum Goding"/>
+  <index level1="Goding" level2="Abgrenzung zum Gogericht"/>
 Über die Abgrenzung von
 Goding und Gogericht im  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="304" facs="ln:bartmann_1908F,"/> <pb n="304"/>] <anchor xml:id="SD16"/> Hochstift Osnabrück schreibt Stüve<note xml:id="n219" type="footnote" n="2.19">Stüve,
 Geschichte des Hochstifts Osnabrück, Jena 1872,
@@ -397,7 +394,7 @@ Geschichte des Niederstifts Münster, Vechta
 ein Goding nahe bevorstand, oder wenn man Zweifel an der Rechtsgültigkeit
 seines Anspruches hatte, so ging man zunächst zum Goding. Dort holte man sich
 in Gestalt eines "gemeynen ordels"<note xml:id="n222" type="footnote" n="2.22">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g200">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g200">W.
 Ldr., I, S. 200</ref>.</note> eine Auskunft über
 das Bestehen eines Rechtssatzes<note xml:id="n223" type="footnote" n="2.23">Z.B. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g199">W.
 Ldr., I, S. 199</ref>.</note> oder eines
@@ -412,7 +409,7 @@ westfälischen Gerichte handelt, erscheint gerechtfertigt, weil in diesen die
 gleichen Zustände wie in den münsterischen Geric hten herrschten. Vgl. Schmitz,
 die Gogerichte im ehemaligen Herzogtum Westfalen, Münster. Diss. 1901.</note>,
 alles "per viam consultationis".<note xml:id="n225" type="footnote" n="2.25">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g158">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g158">W.
 Ldr., I, S. 158</ref>.</note> </p> 
 <p> Mit diesem Urteil (vurraem)<note xml:id="n226" type="footnote" n="2.26">Mißbr. Nr. 13, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
 Ldr., I, S. 152</ref>.</note> in der Hand konnte
@@ -420,7 +417,7 @@ man immer noch überlegen, ob es aussichtsvoll sei, einen Rechtsstreit  [<tei:pb
 damit "das urthel zum negsten gerichte vur recht
 abgekant werde". Auch pflegte man den späteren Gegner von der Verhandlung vor
 dem Goding zu benachrichtigen.<note xml:id="n227" type="footnote" n="2.27">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g091">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g091">W.
 Ldr., I, S. 91</ref>: "Thot welckeren ordell ock
 etsliche, de dar enthegen dechten tho done, by vorwyttiget weren, umme des
 ordels gestalt tho horen na eren vorwylligen."</note> Durch deren Ergebnis
@@ -429,7 +426,7 @@ befriedigen oder schon im Goding seine Einwendungen anzubringen. Der erteilte
 Richtschein konnte im späteren Rechtsstreite verwandt werden.<note xml:id="n228" type="footnote" n="2.28">Kölner
 Reformation, S. 430: "die den richtschein erhalten, sich damit
 hochlich zu behelfen vermeynen ..."</note>
-                    </p> 
+  </p> 
 <p>Hatte man dagegen den Rechtsstreit am Gogericht anhängig gemacht, so wurde
 dort möglicherweise die Befragung der Dingpflichtigen oder eines Teiles
 derselben über einen tatsächlichen Zustand oder über eine Rechtsfrage
@@ -442,14 +439,14 @@ Rechtsgrundsätze kaum.</note> im Goding; denn auch bei der Feststellung des
 objektiven Rechtes handelte es sich nicht um Rechtserzeugung oder -auslegung,
 sondern auch nur um eine Tatsache, das Wissen oder Nichtwissen des verlangten
 Rechtssatzes.<note xml:id="n230" type="footnote" n="2.30">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
 Ldr., I, S. 202</ref>: "dat ze ney anders by tyt ers levendes gewitten noch
 gehoirth en hebben, dan ..."</note> Wie diese Verweisung vom Gogericht an das
 Goding geschah, sehen wir deutlich an folgendem Falle aus dem Jahre 1488.<note xml:id="n231" type="footnote" n="2.31">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g196">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g196">W.
 Ldr., I, S.
 196</ref>.</note>
-                    </p> 
+  </p> 
 <p>Dort kommt eine Partei zum Goding und erklärt, es sei "ein receß und cedule
 bededinghet"<note xml:id="n232" type="footnote" n="2.32">Es handelt sich hier zwar nur um einen
 Vergleich, der auch nicht vor dem Gogericht, sondern, weil mit dem Inhaber des
@@ -472,31 +469,31 @@ I, S. 87</ref> Nr. 3, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g216">S. 216 Nr. 28</ref>.</note> Die persönliche
 Zuständigkeit interessiert hier nicht, da sie durch die LGO. nicht geändert
 wurde.<note xml:id="n231" type="footnote" n="2.31">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.2">2, II,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.2">2, II,
 Abs. 3</ref>.</note>
-                    </p> <index level1="Freiwillige Gerichtsbarkeit" level2="Gogericht"/>
+  </p> <index level1="Freiwillige Gerichtsbarkeit" level2="Gogericht"/>
 
  <p>Freiwillige Gerichtsbarkeit fand nur wenig in den Gogerichten statt, denn
 "echtes Eigen wurde im Freigericht aufgelassen, Übertragung von Leihenutzung,
 ja sogar Ausstattung der Kinder und Versorgung der Leibzüchter wurden im
 Hofgericht oder vor dem Gutsherrn getätigt".<note xml:id="n235" type="footnote" n="2.35">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p011">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p011">W.
 Ldr., I, S. XI</ref>.</note> Die wenigen anderen
 Akte der freiwilligen Gerichtsbarkeit fanden im Gogericht, im "sunderlix darto
 gehegeden gericht"<note xml:id="n236" type="footnote" n="2.36">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g053">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g053">Engelke,
 a.a.., S. 53</ref>.</note> statt, ob auch im
 Goding, muß dahingestellt bleiben, ist aber sehr wahrscheinlich.</p> 
 <p>Der Umfang der Geschäfte, welche gerichtlich beurkundet werden mußten, wird
 der gleiche gewesen sein wie nach der LGO.<note xml:id="n237" type="footnote" n="2.37">Vgl.
 unten.</note>
-                    </p> </div>
+  </p> </div>
 
 <div xml:id="K.2.2"> <head>§ 2. Die Gerichtspersonen.</head> <index level1="Gerichtsperson" level2="Arten"/>
 <index level1="Gogericht" level2="Verfassung"/> 
 <p>Vorsitzender eines jeden Gogerichts war der Gograf<index level1="Gograf"/>.
 Er wurde von dem Inhaber des Gerichts ernannt<note xml:id="n238" type="footnote" n="2.38">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p018">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p018">W.
 Ldr., I, S. XVIII</ref> und XLI.</note>, nicht
  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="307" facs="ln:bartmann_1908F,"/> <pb n="307"/>] <anchor xml:id="SD19"/>
 mehr von dem "Land" gewählt.<note xml:id="n239" type="footnote" n="2.39">Vgl.
@@ -505,51 +502,51 @@ und Ssp. I, Art. 55 und 56.</note> Seine Tätigkeit bestand fast ausschließlich
 in der Leitung der Verhandlung.<note xml:id="n240" type="footnote" n="2.40">Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr. I, S. 151 ff.</ref>, Kurtze anzeich der
 misbruiche (zitiert einfach "Mißbr.") Nr. 11 und 14.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Parteibetrieb" level2="Gogericht"/>Das Betreiben des
+  <index level1="Parteibetrieb" level2="Gogericht"/>Das Betreiben des
 Verfahrens lag den Parteien ob. Deren Sache war es, dem Gografen alle
 Prozeßhandlungen "affzugewinnen", das heißt, ihn durch Befragung des Umstandes
 und darauf ergehendes Urteil dazu zu zwingen.<note xml:id="n241" type="footnote" n="2.41">Vgl.
 z. B. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g090">W. Ldr., I, S. 90</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Gograf" level2="Vertretung"/>War der Gograf an der Ausübung
+  <index level1="Gograf" level2="Vertretung"/>War der Gograf an der Ausübung
 seines Amtes verhindert, so ließ er sich durch "bequeme Personen"
 vertreten.<note xml:id="n242" type="footnote" n="2.42">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g154">W. Ldr.,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g154">W. Ldr.,
 I, S. 154</ref>.</note> Bei bloß augenblicklicher Verhinderung, z.B. bei der
 Beratung mit dem Umstande, legte er ein "instrument" an seine "stede".<note xml:id="n243" type="footnote" n="2.43">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g144">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g144">W.
 Ldr., I, S.
 144</ref>.</note>
-                    </p> 
+  </p> 
  <p>
-                        <index level1="Gogericht" level2="Urteilsfindung"/>
-                        <index level1="Umstand"/>
-                        <index level1="Urteilen durch Umstand" level2="Gogericht"/>
-                        <index level1="Urteilen durch Umstand" level2="Goding"/>Die
+  <index level1="Gogericht" level2="Urteilsfindung"/>
+  <index level1="Umstand"/>
+  <index level1="Urteilen durch Umstand" level2="Gogericht"/>
+  <index level1="Urteilen durch Umstand" level2="Goding"/>Die
 Urteilsfindung lag bei dem Umstande. Daß im Goding die ganze Gemeinde, das
 "land"<note xml:id="n244" type="footnote" n="2.44">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W. Ldr., I,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W. Ldr., I,
 S. 240</ref>.</note>, urteilte, sehen wir aus den zahlreich erhaltenen
 Richtscheinen.<note xml:id="n245" type="footnote" n="2.45">Z.B. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g091">W.
 Ldr., I, S. 91</ref> und <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g092">92</ref>, ferner <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g004">Engelke,
 a.a.., S. 4</ref>.</note> Jeder "Hausherr"
 war bei Strafe verpflichtet, selbst im Goding zu erscheinen.<note xml:id="n246" type="footnote" n="2.46">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g089">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g089">W.
 Ldr., I, S. 89</ref>.</note> Aber
 auch im Gogericht entschied der Umstand. Weil hier keine allgemeine Dingpflicht
 bestand, wurde er aus den zufällig anwesenden Männern gebildet.<note xml:id="n247" type="footnote" n="2.47">Vgl.
 <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.15">LGO. 1 XV,
 Abs. 3</ref>, wo das Wort "Umstand" in diesem Sinne gebraucht ist.</note> Daß
 dem so war, ersehen wir aus den Berichten von Brunnen und Dingden<note xml:id="n248" type="footnote" n="2.48">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g159">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g159">W.
 Ldr., I, S.
 159</ref>.</note>, wo es heißt: "mit dem umbstand gerichtet", obgleich an den
 beiden genannten Orten keine Godinge stattfanden, ferner aus dem Mißbr. Nr.
 14<note xml:id="n249" type="footnote" n="2.49">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W. Ldr., I, S.
 152</ref>.</note> und aus <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.2">LGO. 1
 II</ref>: "Es soll durch richter und scheffen und nit durch den umstandt (wie
 biß daher geschehen) erkendt werden". Auch hier ist nicht das Goding gemeint,
@@ -562,26 +559,26 @@ werden, gentzlich abgethan haben". Hier ist auch offenbar das Gogericht
 gemeint, denn im Goding kann man doch nicht von einem "ungeferlichen umbstandt"
 reden, weil dort der Umstand, die Gemeinde, immer der gleiche ist.</p> 
  <p>
-                        <index level1="Kornote"/>
-                        <index level1="Urkundsperson" level2="Kornote"/>Eine
+  <index level1="Kornote"/>
+  <index level1="Urkundsperson" level2="Kornote"/>Eine
 besondere Stellung unter dem Umstände nahmen die
 "kornoten" ein, die auch "standenoten, getugen oder tuchluden" genannt
 wurden.<note xml:id="n250" type="footnote" n="2.50">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W. Ldr., I,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W. Ldr., I,
 S. 202</ref> und <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">240</ref>.</note> Wie die
 letzten Namen schon andeuten, scheinen sie Urkundspersonen für das
 Gerichtszeugnis gewesen zu sein. <index level1="Bank"/>Mit dem Richter zusammen
 bildeten sie die "bank".<note xml:id="n251" type="footnote" n="2.51">Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p020">W.
 Ldr., I, S. XX</ref>.</note> Mancherorts wurden
 sie auch bei dem Urteilsvorschlag bevorzugt<note xml:id="n252" type="footnote" n="2.52">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W.
 Ldr., I, S. 155, Anm. 1</ref>.</note>, jedoch
 waren sie nicht identisch mit den noch zu erwähnenden Urteilsfindern. Die
 Bezeichnung "Kornoten", das heißt gekürte Gerichtsgenossen, deutet auf ihre
 Berufung im Einzelfall hin. Tatsächlich sehen wir auch, daß die Kornoten (die
 <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.1">LGO. 1 I</ref> nennt auch die Schöffen
 in Anlehnung hieran Kurgenossen) von den Parteien<note xml:id="n253" type="footnote" n="2.53">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
 Ldr., I, S. 202</ref>: "tuchluden
 und stantnoten ... van beyden parten hyr tho geeisscheth und gebedden, dyt ...
 mede to beseynne und hoer ne und dyt richteschyn myt my tho besegelenne
@@ -591,7 +588,7 @@ Kapitel Kornoten senden, weil sie als Inhaber von Gogerichten an der dort
 behandelten Frage über Zuständigkeit sehr interessiert sind.</note>, in letzter
 Linie vom Gografen für jede Verhandlung besonders ernannt wurden, und zwar
 durchaus nicht immer aus der Gerichtsgemeinde.<note xml:id="n255" type="footnote" n="2.55">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p020">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p020">W.
 Ldr., I, S. XX</ref>.</note> Im Goding konnte der
 Gograf stets genug Adelige, Bauerrichter oder Bauern als Kornoten haben; aber
 zum Gogericht, wo er nicht darauf rechnen durfte, stets passende Leute zur  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="309" facs="ln:bartmann_1908F,"/> <pb n="309"/>] <anchor xml:id="SD21"/> Hand zu haben,
@@ -603,24 +600,24 @@ die Amtleute.<note xml:id="n256" type="footnote" n="2.56">Vgl.
 die "beamtlichen Berichte«, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g154">W. Ldr., I, S.
 154ff.</ref>, besonders <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g173">S. 173</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g164">164</ref>,
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g159">159</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g160">160</ref>.</note>
-                    </p>
+  </p>
 
 <p>
-                        <index level1="Umstand"/>
-                        <index level1="Urteil" level2="Beratung"/>Zur
+  <index level1="Umstand"/>
+  <index level1="Urteil" level2="Beratung"/>Zur
 Urteilsfindung war, grundsätzlich wenigstens, jedermann aus dem Umstande
 berufen<note xml:id="n257" type="footnote" n="2.57">Kölner Reformation, S. 413, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p022">W.
 Ldr., I, S. XXII</ref>.</note>; nur in den
 westlich gelegenen Gerichten sehen wir, daß eine besondere Klasse, die Inhaber
 von Sattelgütern, zusammen mit den Kornoten das Urteil fanden<note xml:id="n258" type="footnote" n="2.58">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W.
 Ldr., I, S. 155, Anm.
 1</ref>.</note>, ferner in den Ämtern <name type="person">Vechta</name>, <name type="person">Kloppenburg</name>
 und <name type="person">Wildeshausen</name>
 die Burgmannen mit 24 beeideten Hausleuten.<note xml:id="n259" type="footnote" n="2.59">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g173">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g173">W.
 Ldr., I, S. 173</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g005">Engelke, a.a.., S. 5</ref>.</note>
-                    </p>
+  </p>
 
 <p>Ständige oder gar beamtete <index level1="Fürsprech/Vorsprech" level2="Gogericht"/>Vorsprechen
 gab es noch nicht, vielmehr erbat sich jede
@@ -631,7 +628,7 @@ selbst zukommenden Rechte<note xml:id="n260" type="footnote" n="2.60">Planck, a.
 203f., <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W. Ldr., I, S. 239a</ref>.</note>; er
 mußte außerdem von der Bank zugelassen werden.<note xml:id="n261" type="footnote" n="2.61">Z.B.
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g115">W. Ldr., I, S. 115</ref>.</note>
-                    </p> 
+  </p> 
 <p>Nur ein Teil der Gogerichte hatte einen <index level1="Gerichtsschreiber"/>Gerichtsschreiber;
 daraus kann man ersehen, daß diesem keine rechtlich
 bedeutsame Stellung zuteil geworden war. Seine spätere Aufgabe, Urkundsperson
@@ -644,9 +641,9 @@ bezüglich des Verfahrens im Gogericht  [<tei:pb xmlns:tei="http://www.tei-c.org
 Vermutungen aufstellen. Wir werden jedoch wohl nicht fehlgehen, wenn wir
 annehmen, daß bedeutende Unterschiede zwischen beiden nicht bestanden haben.
 Sehen wir doch noch im Jahre 1448<note xml:id="n262" type="footnote" n="2.62">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g238">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g238">W.
 Ldr., I, S. 238ff.</ref>
-                        </note> Goding und
+  </note> Goding und
 Gogericht vereinigt. Und als sich später die Trennung vollzogen hatte —
 wahrscheinlich, weil die Dingpflicht zu lästig wurde — da war immer noch
 kein wesentlicher Unterschied zwischen dem Rechtsprechen und dem Erteilen eines
@@ -668,25 +665,25 @@ Verhandlung
 zerfiel in drei Teile: Vorfragen, Hauptverhandlung und Beweiserhebung.<note xml:id="n264" type="footnote" n="2.64">Schwartz,
 4. Jahrh. deutscher Zivilprozeßgesetzgebung,
 Berlin 1898, S. 413.</note>
-                    </p> 
+  </p> 
  <p>Begonnen wurde der Gerichtstag mit einer feierlichen <index level1="Hegung"/>Hegung,
 das heißt "Befragung oder bestattung besonderer
 fürurtheil an den umbstandt oder fürsprächen"<note xml:id="n265" type="footnote" n="2.65">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.2">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.2">LGO.
 1, II</ref>.</note>, ob es sei rechte
 Dingzeit, ob er, der Gograf, nicht müsse verbieten "unrecht, unlust,
 scheltwort, nytwort, strytwort, kyffwort, hennewort."<note xml:id="n266" type="footnote" n="2.66">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g143">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g143">W.
 Ldr., I, S. 143</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Bank"/>Nachdem also "die bank gespannt", folgte zunächst  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="311" facs="ln:bartmann_1908F,"/> <pb n="311"/>]  <anchor xml:id="SD23"/> die Zulassung
+  <index level1="Bank"/>Nachdem also "die bank gespannt", folgte zunächst  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="311" facs="ln:bartmann_1908F,"/> <pb n="311"/>]  <anchor xml:id="SD23"/> die Zulassung
 der Fürsprechen<index level1="Fürsprech/Vorsprech" level2="Gogericht"/>, denn im
 Gegensatz zum Sachsenrecht, das die Annahme eines
 Fürsprechen der Partei anheim stellte<note xml:id="n267" type="footnote" n="2.67">Planck, a. a.
 0., I, S. 194.</note>, durfte hier niemand sprechen, "he doe dat vermitz sinen
 togelaten und erloefften vorspreicken".<note xml:id="n268" type="footnote" n="2.68">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g144">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g144">W.
 Ldr., I, S. 144</ref>.</note> Daraus, daß
 jedermann, also nicht nur die Partei, einen Fürsprechen haben mußte, ersieht
 man, daß es sich hier nicht um eine Prozeßvertretung handelte, die von der
@@ -695,16 +692,16 @@ das heißt Reden für den ungeübten Bauersmann, mit bindender Kraft für diesen
 nur dann, wenn er schweigend seine Zustimmung gab.<note xml:id="n269" type="footnote" n="2.69">Planck,
 a.a.., I, S. 194.</note> Falls Bedenken obwalteten, wurde
 durch Urteil entschieden, ob ein Fürsprech genügende Vollmacht habe<note xml:id="n270" type="footnote" n="2.70">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g086">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g086">W.
 Ldr., I, S. 86</ref>:
 "voert woert my, gogreven, myt ordelle und recht affgewunnen, dat ick ... offt
 se oik vulmechtich weren ... to seyn und to vullentrecken ... vraigen
 moiste".</note>, ob der Beklagte zur Antwort vor diesem Gerichte und an diesem
 Tage<note xml:id="n271" type="footnote" n="2.71">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W. Ldr., I, S.
 239a</ref>.</note> verpflichtet sei.<note xml:id="n272" type="footnote" n="2.72">Vgl. Schwartz,
 a.a.O., S. 413.</note>
-                    </p> 
+  </p> 
  <p>Zum Vorverfahren gehörte wohl auch noch die Bekümmerung<index level1="Bekommerung/Bekümmerung/Beschlagnahme"/>.<note xml:id="n273" type="footnote" n="2.73">Gemeine
 Münsterische Landt-Ordnungen von 1570 (gedruckt hinter der
 LGO), II. Titul: "hinfüro soll keiner den andern weder an seinem Leib noch Gut
@@ -719,27 +716,27 @@ und <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;i
 de burrichtere bekummerth und besath unde den geboden, dat se van den gerychte
 nicht en scheydeden, se en hadden getughet in der sake, dat recht sy".</note>
 oder einen Fürsprechen<note xml:id="n275" type="footnote" n="2.75">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.5">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.5">LGO.
 1 V, Abs. 7</ref>.</note> persönlich oder
 ein ihnen gehöriges Gut festzuhalten, um zunächst ihr Erscheinen vor  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="312" facs="ln:bartmann_1908F,"/> <pb n="312"/>] <anchor xml:id="SD24"/> Gericht, dann
 auch die Erfüllung ihrer anderen Verbindlichkeiten
 sicher zu stellen.<note xml:id="n276" type="footnote" n="2.76">Planck, a.a.O., II, S.
 380.</note>
-                    </p> 
+  </p> 
 <p>Von einem Versuche, den Streit im Vorverfahren auf gütlichem Wege, mit
 <index level1="Minne"/>Minne, beizulegen<note xml:id="n277" type="footnote" n="2.77">Schwartz,
 a.a.O., S. 390.</note>, finden wir keine Spuren.</p> 
 <p>
-                        <index level1="Hauptverhandlung"/>
-                        <index level1="Klageanspruch"/>Zum Beginn
+  <index level1="Hauptverhandlung"/>
+  <index level1="Klageanspruch"/>Zum Beginn
 des Hauptverfahrens "spricht der Kläger den Beklagten an und giebt ihm
 Schuld".<note xml:id="n278" type="footnote" n="2.78">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W. Ldr., I,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W. Ldr., I,
 S. 239b</ref>.</note> Den Grund des Klageanspruches bringt er in längerer
 Erzählung vor, nach jedem Satze sich zum Beweise erbietend mit Worten, wie:
 "Wolde ome de yemand bespreken" oder "wolde he dar wat eynkeghen seggen, dat
 wolde he wysen und kunden, wo he myt rechte solde na demme lantrechte".<note xml:id="n279" type="footnote" n="2.79">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W.
 Ldr., S. 239 b,
 84</ref>.</note> Beispiele einer schlichten Klage<note xml:id="n280" type="footnote" n="2.80">Planck,
 a.a.O., I, S. 369.</note> lassen sich nicht nachweisen;
@@ -748,26 +745,26 @@ Klage im 16. Jahrhundert schon ein überwundener Standpunkt war. Zuletzt bringt
 der Kläger dann sein Klagebegehren vor: "Und begherden, dat ick, gogreve
 vorskreven, den buerrichter (Beklagten) wolde dwingen myt deme rechte, dat he
 den broke uthgeve und den schaden richtede, off tor rechten antworde".<note xml:id="n281" type="footnote" n="2.81">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g084">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g084">W.
 Ldr., I, S.
 84</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Klagebeantwortung"/>Der Beklagte erhält zur Antwort eine
+  <index level1="Klagebeantwortung"/>Der Beklagte erhält zur Antwort eine
 Frist von 14 Tagen<note xml:id="n282" type="footnote" n="2.82">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
 Ldr., I, S. 198, 3</ref>.</note>, aber nur, falls
 er "handgeloiffthe" gibt.<note xml:id="n283" type="footnote" n="2.83">Mißbr. Nr. 2, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151</ref>.</note> Dieses "<index level1="Handgelübde"/>Handgelübde"
 entspricht der fränkischen <index level1="Wette"/>Wette und ist ein förmliches <index level1="Schuldversprechen"/>Schuldversprechen
 unter Verpfändung der Treue.<note xml:id="n284" type="footnote" n="2.84">
-                            <ref target="">Schröder, Lehrb. der deutschen
+  <ref target="">Schröder, Lehrb. der deutschen
 Rechtsgeschichte, 5. Auflage, S. 306</ref>.</note> Inhalt des Versprechens ist die Erfüllung der prozessualen
 Pflichten, insbesondere hier das Erscheinen im nächsten Ding. Erkennt der
 Beklagte den Anspruch an, so erhält er eine Frist zur Befriedigung des Klägers.
   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="313" facs="ln:bartmann_1908F,"/> <pb n="313"/>] <anchor xml:id="SD25"/>Beteuert
 der Beklagte dagegen seine "unschult up de ansprake"<note xml:id="n285" type="footnote" n="2.85">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W.
 Ldr., I, S.
 85</ref>.</note>, so muß er die Behauptungen des Klägers, die er nicht gelten
 lassen will, Satz für Satz bestreiten<note xml:id="n286" type="footnote" n="2.86">Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W.
@@ -786,20 +783,20 @@ Endurteile gleich, kann auch für sich gescholten werden.<note xml:id="n289" typ
 a.a.O., S. 306, 273.</note> In einem solchen Falle wird ein
 Richtschein ausgestellt, mit dem der Schelter zu dem höheren Gerichte geht;
 dieses entscheidet dann, ob das Urteil richtig gescholten ist oder nicht.<note xml:id="n290" type="footnote" n="2.90">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g153">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g153">W.
 Ldr., I, S.
 153</ref>, Mißbr. 19.</note> "So wert dann in einer saiche etwan 2 oder 3 mael
 zu haupte zu verscheiden zeitten appellert und wedderumb de saiche ad
 inferiorem judicem remittirt".<note xml:id="n91" type="footnote" n="91">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g084">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g084">W.
 Ldr., I, S. 84f.</ref>
-                        </note> Die Eröffnung eines
+  </note> Die Eröffnung eines
 solchen "zu hofe geholten" Urteils ist besonders teuer.<note xml:id="n292" type="footnote" n="2.92">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g175">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g175">W.
 Ldr., I, S. 175</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g159">159</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Beweisurteil"/>Ist so durch "stetiges urteilen, ... ehe die
+  <index level1="Beweisurteil"/>Ist so durch "stetiges urteilen, ... ehe die
 beweisung beschehen"<note xml:id="n293" type="footnote" n="2.93">Kölner Reformation, S.
 436.</note> festgestellt, welche Punkte bestritten und erheblich sind, welche
 Kraft die einzelnen Beweismittel haben, so wird die Hauptverhandlung durch das
@@ -813,14 +810,14 @@ adir uff condition und fürwardt, als das jemant bei ein gut geweist wirdt, mit
  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="314" facs="ln:bartmann_1908F,"/>]  
 der massen, sein gegentheil kundten dan mit besserm recht darauß
 entwinden u. dergl. nit mehr gewiesen werden sollen."</note>
-                        <anchor xml:id="SD26"/> <pb n="314"/>
-                    </p> 
+  <anchor xml:id="SD26"/> <pb n="314"/>
+  </p> 
 <p>
-                        <index level1="Beweis"/>Da der Beweis ein Recht ist, so ist ein Gegenbeweis
+  <index level1="Beweis"/>Da der Beweis ein Recht ist, so ist ein Gegenbeweis
 ausgeschlossen, andererseits aber auch jede Partei, die den angebotenen und ihr
 zuerkannten Beweis "by sittendem gerichte" nicht zu erbringen vermag, sofort
 "der saeke fellig und verluestig".<note xml:id="n293" type="footnote" n="2.93">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g246">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g246">W.
 Ldr., I, S. 246</ref>: "konde de provest myt den
 <index level1="Erfexe"/>erffexen (Kläger) bybrengen und myt den richter und
 ummestande des gerichtes in den nesten <index level1="noetholtinge"/>noetholtinge,
@@ -829,15 +826,15 @@ de dat behoert hebn, dat sick H.v.B.
 dem gerichte ..., soe sy he der sake vellich und verlustich." Es handelt sich
 hier zwar um ein <index level1="Holting"/>Holting; dieses hat jedoch das
 Gogerichtsverfahren übernommen.</note>
-                    </p> <index level1="Beweismittel" level2="Arten"/>
+  </p> <index level1="Beweismittel" level2="Arten"/>
 
 <p>Die Beweismittel bilden eine Mischung von Altem und Neuem; neben dem
 Selbstzeugnis der Partei, das heißt dem <index level1="Parteieid"/>Parteieid
 ohne<note xml:id="n296" type="footnote" n="2.96">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W. Ldr., I, S.
 85</ref>: "he (Beklagter) solde allene tughen so vele, als seven ander mans
 tughen mochten."</note> oder mit "Zeugen"<note xml:id="n297" type="footnote" n="2.97">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
 Ldr., I, S. 198, Nr. 2</ref>: "dat sodane
 unschult de beklagede doen solle sollff derde over de hilgen, mer se sachten so
 vele deyper."</note>, finden wir schon <index level1="Zeuge"/>Zeugen im
@@ -845,21 +842,21 @@ heutigen Sinne, das heißt solche, deren Schwur nicht mehr zu dem Parteieide
 hinzutritt und wie dieser ein Urteil ist, die vielmehr über ihnen bekannte
 Tatsachen aussagen.<note xml:id="n298" type="footnote" n="2.98">Vgl. Planck, a.a.O., II, S.
 76.</note>
-                    </p> 
+  </p> 
 <p>Gelingt dem Beweisführer der Beweis nicht und kann die Gegenpartei dies
 "bybrengen", das heißt nachweisen, so hat er damit den Prozeß verloren.<note xml:id="n299" type="footnote" n="2.99">S.
 Anm. 95.</note>
-                    </p> 
+  </p> 
 <p>Glückt aber der Beweis, so ist nur noch übrig, über die Art der
 Vollstreckung ein Urteil zu fragen, durch welches naturgemäß zugleich der
 Klageanspruch als zu Recht bestehend anerkannt wird.<note xml:id="n2100" type="footnote" n="2.100">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g239">W.
 Ldr., I, S. 239g</ref>: "darup
 vragede J.St. (Kläger) eynes gerechten ordels, wu men den wech openen solle in
 dem rechten und welliker tyd? Darup wart ghewiset ..., B. (Beklagter) solle den
 wech  openen bynnen dren dagen; en dede he des nicht, so solde dat
 gerichte den wech openen."</note> [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="315" facs="ln:bartmann_1908F,"/> <pb n="315"/>] <anchor xml:id="SD27"/>
-                    </p> <index level1="Urteil" level2="Beratung"/>
+  </p> <index level1="Urteil" level2="Beratung"/>
 <index level1="Gogericht" level2="Urteilsfindung"/> 
 <p>Die sämtlichen Urteile, die der Umstand zu sprechen hat, werden vorher
 beraten. Handelt es sich um Urteile, die den Gang des Prozesses betreffen, so
@@ -871,66 +868,64 @@ Ldr., I, S. 144</ref>; ebenso <ref target="http://drw-www.adw.uni-heidelberg.de/
 "des de dinckpflichtigen myt my
 klaerden to rechte."</note> Urteile in der Sache selbst werden von dem Gografen
 "bestadet"<note xml:id="n2102" type="footnote" n="2.102">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W. Ldr.,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W. Ldr.,
 I, S. 85</ref>.</note>, und zwar, soweit es keine bestimmten Urteilsfinder
 gibt<note xml:id="n2103" type="footnote" n="2.103">Siehe oben.</note>, entweder an die sämtlichen
 Dingpflichtigen<note xml:id="n2104" type="footnote" n="2.104">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g088">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g088">W.
 Ldr., I, S. 88, Nr. 9</ref>.</note> oder an einzelne aus dem Umstande.<note xml:id="n2105" type="footnote" n="2.105">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
 Ldr., I, S.
 152</ref>.</note>
-                    </p> 
+  </p> 
 <p>Der zum Urteilfinden Bestimmte kehrt sich, wie es in den Urkunden so
 plastisch beschrieben ist, mit den sämtlichen Dingpflichtigen um, berät sich
 mit ihnen und bringt dann das gefundene Urteil wieder ein. <index level1="Rechtsgutachten"/>"Im
 fall aber sie bei demselben gerichte under sich
 dasselbe nith finden können, pflecht dergenne, daran es bestattet, zeit zu
 belherungh begeren".<note xml:id="n2106" type="footnote" n="2.106">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g180">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g180">W.
 Ldr., I, S. 180f.</ref>
-                        </note> Es wird ihm
+  </note> Es wird ihm
 alsdann aufgegeben, "sich by rechtzgelerten zu ersuegen umb deß urthels
 verfathung"<note xml:id="n2105" type="footnote" n="2.105">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">W.
 Ldr., I, S. 152</ref>.</note>, und die Einbringung erfolgt im "achtergudynge",
 das 14 Tage später stattfindet.<note xml:id="n2107" type="footnote" n="2.107">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g162">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g162">W.
 Ldr., I, S. 162</ref>.</note> Letzteres heißt
 dann das "hele gericht" im Gegensatz zu dem ordentlichen Ding, dem "halven
 gericht".<note xml:id="n2108" type="footnote" n="2.108">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W. Ldr.,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g155">W. Ldr.,
 I, S. 155</ref>.</note>
-                    </p> 
+  </p> 
 <p>Für das gefundene Urteil fragt der Gograf "ghevolchnisse"<note xml:id="n2109" type="footnote" n="2.109">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W.
 Ldr., I, S. 240</ref>.</note>,
 und zwar "eynewerff, anderwerff, tomme negeden male overwerff".<note xml:id="n2110" type="footnote" n="2.110">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
 Ldr., I, S.
 202</ref>.</note> Wenn der Spruch "myt swygener fulbarth togelaten" ist, so
 "stadet der gogreve dat vor rechte".<note xml:id="n2110" type="footnote" n="2.110">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g202">W.
 Ldr., I, S. 202</ref>.</note> Haben dann die
 Parteien dem Gografen noch  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="316" facs="ln:bartmann_1908F,"/> <pb n="316"/>]  <anchor xml:id="SD28"/> "affgewunnen,
 dal he en itlichen eyn schyn moiste geven under syn segel up oer koist"<note xml:id="n2111" type="footnote" n="2.111">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g090">W.
-Ldr., I, S.
-90</ref>.</note>, so "entfanght er syne orkunne darup, wandt alle gerychtlike
-gescheyn und myt ordelle und myt recht bestediget und gevestyged sind".</p> 
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g090">W.
+Ldr., I, S. 90</ref>.</note>, so "entfanght er syne orkunne darup, wandt alle gerychtlike gescheyn und myt ordelle und myt recht bestediget und gevestyged sind".</p> 
 <p>
-                        <index level1="Säumnis-/Versäumnisverfahren" level2="Gogericht"/>Das
+  <index level1="Säumnis-/Versäumnisverfahren" level2="Gogericht"/>Das
 Versäumnisverfahren ist folgendermaßen ausgebildet: läßt der ungehorsame
 Beklagte sich nicht "vernotsinnigen", das heißt durch Säumnisboten (fränkisch
 "sunnis") echte Not dartun, so erhält der Kläger, und zwar im Goding ohne
 weiteres, im Gogericht bei nachgewiesener einmaliger<note xml:id="n2112" type="footnote" n="2.112">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g198">W.
 Ldr., I, S. 198, 3</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">151, Nr. 1</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p036">XXXVI</ref>.</note>
 Ladung (bodagunge) des
 Beklagten, auf seine "Ansprache" ein "doergaende gericht et rem judicatam", ein
 Versäumnisurteil.<index level1="Säumnis-/Versäumnisurteil"/>
-                        <note xml:id="n2113" type="footnote" n="2.113">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
+  <note xml:id="n2113" type="footnote" n="2.113">
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151</ref>, Mißbr. 3
 u. 5.</note> Dieses gründet sich auf das bloße Nichterscheinen des Beklagten,
 nicht etwa auf die vorgebrachten Behauptungen des Klägers.<note xml:id="n2114" type="footnote" n="2.114">Planck,
@@ -938,24 +933,24 @@ a.a.O., II, S. 268; vgl. auch <ref target="http://drw-www.adw.uni-heidelberg.de/
 "Quemen se ok upp den
 vurgenomden teynden dach (Einlassungsfrist) nicht, so mach de kleger de sake
 upp se vorderen und upp se wynnen."</note>
-                    </p> 
+  </p> 
  <p>
-                        <index level1="Säumnis-/Versäumnisurteil" level2="Einspruch gegen"/>Ein
+  <index level1="Säumnis-/Versäumnisurteil" level2="Einspruch gegen"/>Ein
 Einspruch gegen das Versäumnisurteil ist nicht möglich: "Imo non permittitur,
 ut reus purget contumaciam hujus modi".<note xml:id="n2113" type="footnote" n="2.113">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151</ref>, Mißbr. 3 u. 5.</note>
 Außerdem hat der Ungehorsame noch eine Geldstrafe (gewedde, <index level1="Friedensgeld"/>Friedensgeld)<note xml:id="n2113" type="footnote" n="2.113">
-                            <ref target="">Schröder, a.a.O., S. 306</ref>.</note> wegen Nichtbeachtung des in der Ladung enthaltenen
+  <ref target="">Schröder, a.a.O., S. 306</ref>.</note> wegen Nichtbeachtung des in der Ladung enthaltenen
 obrigkeitlichen Befehles zu gewärtigen.<note xml:id="n2116" type="footnote" n="2.116">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151</ref>, Mißbr. 4 u. <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.27">LGO. 2
 XXVI, letzter Absatz</ref>.</note>
-                    </p>
+  </p>
 
  <p>Rechtskräftig wird ein Urteil, wenn "niemantz by sittenden gerichte tor
 scheldunge erschennen".<note xml:id="n2117" type="footnote" n="2.117">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g245">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g245">W.
 Ldr., I, S. 245</ref> u. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">S. 152</ref>, Mißbr. 12</note>
 <index level1="Urteilsschelte"/>Zur Schelte ist nicht nur jede Partei, sondern
 überhaupt jeder Anwesende befugt<note xml:id="n2118" type="footnote" n="2.118">Planck, a.a.O., I,
@@ -973,7 +968,7 @@ a.a.O., S. 6.</note> <index level1="Urteilsschelte" level2="Verfahren"/>Die Sche
 besteht aus drei Akten:
 1. der formellen Erklärung, daß man das gefundene Urteil nicht anerkenne, 2.
 dem Vorbringen eines besseren "vurraem"<note xml:id="n2121" type="footnote" n="2.121">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g085">W.
 Ldr., I, S. 85</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g246">246</ref>.</note> 3. dem
 Angehen eines höheren
 Gerichtes. Es ist möglich, daß der dem Urteilsvorschlag Widersprechende sich
@@ -984,19 +979,19 @@ Gegenvorschlag zur wirklichen Schelte.<note xml:id="n2122" type="footnote" n="2.
 a.a.O., I, S. 264 f. u. 268 ff.</note> Deshalb wird man "der scheldunge
 vellich", wenn man "den ordelvinder by namen offt tonamen nicht nennt und sick
 des ock an nyn hoger gericht bereipt".<note xml:id="n2123" type="footnote" n="2.123">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g203">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g203">W.
 Ldr., I, S. 203</ref>.</note> Im Stift Münster
 ging die Schelte an das Goding<note xml:id="n2124" type="footnote" n="2.124">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.2">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.2">LGO.
 2 II, Abs. 3</ref>; <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g008">Engelke, a.a.O., S. 8</ref>,
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">64</ref>.</note>, und zwar nach Sandwelle<note xml:id="n2125" type="footnote" n="2.125">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g216">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g216">W.
 Ldr., I, S.
 216</ref>
-                        </note> oder zum Desum.<note xml:id="n2126" type="footnote" n="2.126">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
+  </note> oder zum Desum.<note xml:id="n2126" type="footnote" n="2.126">
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
 a.a.O., S. 64</ref>.</note>
-                    </p> 
+  </p> 
 <p>Ist das Urteil richtig gescholten, so pflegt der Gograf die
 Urteilsausfertigung eine Zeitlang hinauszuschieben ("eyn tytlank upgeschort"),
 "um fruntlike schedinge to versokene".<note xml:id="n2119" type="footnote" n="2.119">Hierzu wie
@@ -1009,12 +1004,12 @@ Urteilsfinder  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="318" facs="ln
 gewiesen worden ist.<note xml:id="n2127" type="footnote" n="2.127">In der Ladung des Letzteren
 liegt schon ein Ansatz zu der neuen Auffassung der Berufung als eines
 Parteistreites.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Urteilsschelte" level2="Richtschein des Urteils"/>Dem oben
+  <index level1="Urteilsschelte" level2="Richtschein des Urteils"/>Dem oben
 besprochenen Wesen der Schelte entspricht es, daß es in der höheren Instanz
 kein neues Vorbringen von Beweisen und Tatsachen gibt<note xml:id="n2128" type="footnote" n="2.128">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g153">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g153">W.
 Ldr., I, S. 153</ref>, Mißbr.
 18.</note>, daß vielmehr einfach der Richtschein verlesen und dann sogleich ein
 Urteil darüber gefällt wird, ob der Schelter richtig gescholten habe oder
@@ -1024,10 +1019,10 @@ des Schelters als bindende Norm aufgestellt, obwohl
 vielleicht die Mehrheit in der ersten Instanz auf Seiten des Urteilfinders
 gestanden hat. Insofern ist die Schelte doch mehr als ein bloßer Zwischenstreit
 des Schelters und Urteilfinders.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="319" facs="ln:bartmann_1908F,"/> <pb n="319"/>]  <anchor xml:id="SD31"/>
-                    </p> 
+  </p> 
 </div> 
 </div>
-            <div xml:id="K.3"> <head>Drittes Kapitel.</head> <head>Die Landgerichtsordnung.</head>
+  <div xml:id="K.3"> <head>Drittes Kapitel.</head> <head>Die Landgerichtsordnung.</head>
 
 <div xml:id="K.3.1"> <head>§ 1. Der Übergang.</head> 
 <p>Wieviel römisches Recht schon vor Erlaß der LGO. in den Prozeß der
@@ -1037,7 +1032,7 @@ Münster sandten und in welchem die Prozeßformen dargestellt sind, wie sie "von
 alterß her im swange gewest, geubeth und gebraucht" worden waren.<note xml:id="n31" type="footnote" n="3.1">Abgedruckt
 bei <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g064">Engelke,
 a.a.O., S. 64 ff.</ref>
-                        </note> In diesem Berichte lesen wir viele
+  </note> In diesem Berichte lesen wir viele
 fremdrechtliche Ausdrücke, von denen sich jedoch nicht mit Sicherheit behaupten
 läßt, ob sie nur <index level1="Latinisierung"/>Latinisierungen der alten
 Begriffe sind, oder ob die Praxis schon teilweise einen anderen Sinn mit ihnen
@@ -1057,32 +1052,32 @@ wird, worauf die Gegenpartei Abschrift des Protokolls und neuen Termin zur
 Antwort erhält. Überhaupt scheint die <index level1="Schriftlichkeit des Verfahrens"/>Schriftlichkeit
 sich immer mehr, auch im Parteivorbringen, breit
 gemacht zu haben.<note xml:id="n32" type="footnote" n="3.2">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g240">W.
 Ldr., I, S. 240ff.</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">151</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g152">152</ref>,
 Mißbr. 5 u. 7.</note>
-                    </p> 
+  </p> 
 <p>Während früher die Urteile des Sandweller und Desumer Stuhles unanfechtbar
 waren<note xml:id="n33" type="footnote" n="3.3">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g089">W. Ldr., S. 89,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g089">W. Ldr., S. 89,
 Nr. 16</ref> und <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g091">S. 91</ref>: "dyt allent
 solle eyn vorrichtete sake syen unde blyven, also dat neymant des to jeniger
 weddertaille sail kommen geistlich offte vertlicks gerichte."</note>, ist jetzt
 eine Appellation an die fürstliche Kammer möglich.<note xml:id="n34" type="footnote" n="3.4">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g063">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g063">Engelke,
 a.a.O., S. 63</ref>.</note> Da
 diese noch kein eigentliches Rechtsmittel, sondern nur eine "<index level1="Supplikation"/>Supplikation"
 ist, so steht es im Belieben des Fürsten,
 sie anzunehmen oder nicht. Tatsächlich wurde sie jedoch immer gewährt.<note xml:id="n35" type="footnote" n="3.5">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g066">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g066">Engelke,
 a.a.O., S.
 66</ref>.</note>
-                    </p> 
+  </p> 
 <p>Somit ist der Boden schon bereitet für die LGO.</p> </div>
 
 <div xml:id="K.3.2"> <head>§ 2. Goding und Gogericht.</head> 
  <p>
-                        <index level1="Goding" level2="Abgrenzung zum Gogericht"/>
-                        <index level1="Gogericht" level2="Abgrenzung zum Goding"/>Die
+  <index level1="Goding" level2="Abgrenzung zum Gogericht"/>
+  <index level1="Gogericht" level2="Abgrenzung zum Goding"/>Die
 durch Abtrennung des
 Gogerichtes vom Goding angebahnte Entwicklung wird vollendet in der LGO. Die
 bisher noch unsichere Abgrenzung zwischen beiden wird nunmehr scharf
@@ -1122,7 +1117,7 @@ deren Händen nun die Rechtsprechung lag, als Gemeindemi tglieder am Goding
 teilnahmen und so in steter Fühlung mit der lebendigen Überlieferung und dem
 Rechtsbewußtsein des Volkes blieben.</p> 
 <p>
-                        <index level1="Freiwillige Gerichtsbarkeit" level2="Gogericht"/>Neben der
+  <index level1="Freiwillige Gerichtsbarkeit" level2="Gogericht"/>Neben der
 Rechtsprechung findet die freiwillige Gerichtsbarkeit in den Gogerichten statt,
 doch wird sie nur zweimal flüchtig in der LGO. erwähnt. Einmal im <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.1">2.
 Teil, Titel I</ref>, wo angeordnet wird,
@@ -1142,36 +1137,36 @@ allerdings das Goding im wesentlichen sein altes Verfahren bei.<note xml:id="n37
 180</ref> den Bericht des Gografen Strick von 1576.</note> Wie früher schon in
 den Gogerichten, so treten jetzt auch hier sehr häufig Beamte als Kornoten
 auf.<note xml:id="n38" type="footnote" n="3.8">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g108">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g108">W. Ldr., I, S.
 108</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g114">114</ref>, <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g116">116</ref>,
 <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g117">117</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Fürsprech/Vorsprech" level2="Gogericht"/>Obwohl die
+  <index level1="Fürsprech/Vorsprech" level2="Gogericht"/>Obwohl die
 Vorsprechen von nun an fest angestellt sind (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.5.1">1
 V, Abs. 1</ref>), müssen sie gleichwohl im
 Goding noch jedesmal sich an die Bank dingen und zugelassen werden.<note xml:id="n39" type="footnote" n="3.9">Z.B.
 W. Ldr., I, S. 116 u. 117.</note> Sie treten nun fast
 allein als <index level1="Urteilfrager"/>Urteilfrager auf, und zwar dürfen sie
 dabei die Namen der Parteien nicht mehr nennen.<note xml:id="n310" type="footnote" n="3.10">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g180">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g180">W.
 Ldr., I, S. 180</ref>.</note>
-                    </p> 
+  </p> 
 <p>So vollzieht sich allmählich in einfacher, natürlicher Weise der Übergang
 zum geschriebenen Recht. Man zeichnet nicht nur alle "gemeinen", das heißt im
 Goding gewiesenen Urteile in einem <index level1="Protokollbuch"/>Protokollbuche
 auf, sondern man sammelt auch noch
 solche aus den früheren Jahren. <index level1="Rechtsprechungssammlung"/>So
 entstehen Sammlungen wie die der Sandweller Urteile zu C.<note xml:id="n311" type="footnote" n="3.11">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g066">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g066">W.
 Ldr., I, S. 66ff.</ref>
-                        </note>
+  </note>
 Diese bildeten dann den Grundstock zu einer im Jahre 1586 erfolgten
 systematischen Bearbeitung.<note xml:id="n312" type="footnote" n="3.12">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g006">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g006">W.
 Ldr. S. 6ff.</ref>
-                        </note>
-                    </p> 
+  </note>
+  </p> 
 <p>Verfassung und Verfahren des Gogerichtes zeigen nach der LGO. von 1571 ein
 völlig verändertes Aussehen. Die seit Anfang des 16. Jahrhunderts so tätige
 prozessuale Gesetzgebung aller Territorien und des Reiches macht ihren  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="323" facs="ln:bartmann_1908F,"/> <pb n="323"/>] <anchor xml:id="SD35"/> Einfluß deutlich
@@ -1181,7 +1176,7 @@ gedient haben: die <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi
 Untergerichtsordnung</ref>, die <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=KoelnErzstiftRef. 1537 (1538)">Kölner
 Reformation von 1537</ref> und die Kammergerichtsordnungen; insbesondere die
 <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1555">KGO. von 1555</ref>
-                        <note xml:id="n313" type="footnote" n="3.13">Künftig
+  <note xml:id="n313" type="footnote" n="3.13">Künftig
 zitiert einfach: KGO.</note>, die umfassendste Prozeßordnung ihrer Zeit, hat
 bedeutend auf die LGO. eingewirkt.</p>
 <p>Im einzelnen die Übereinstimmung zwischen beiden nachzuweisen, wird sich
@@ -1197,13 +1192,13 @@ noch stärker als diese an den reichskammergerichtlichen Prozeß an.</p>
 <index level1="Gogericht" level2="Verfassung"/> <index level1="Gerichtsperson" level2="Arten"/>
 
 <p>
-                        <index level1="Richter"/>Im Gogericht wird das Volk, der Umstand, jeder
+  <index level1="Richter"/>Im Gogericht wird das Volk, der Umstand, jeder
 rechtlichen Bedeutung beraubt. Während der Richter, der jetzt nicht mehr Gograf
 heißt, emporsteigt und nicht mehr als bloßer Verhandlungsleiter, sondern als
 volles, stimmberechtigtes Mitglied in den Gerichtshof eintritt, muß die
 Gemeinde ihre Stellung den vier oder sechs Schöffen abtreten (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=1.1">1
 I</ref>). <index level1="Schöffe"/>
-                        <index level1="Schöffengerichtsverfassung"/>Im
+  <index level1="Schöffengerichtsverfassung"/>Im
 Gegensatz zu den Kurgenossen, die nur
 primi inter pares waren, stehen sie über dem anwesenden Volke und bilden mit
 dem Richter zusammen das Gerichtskollegium, das nach Mehrheitsbeschluß, nicht
@@ -1275,7 +1270,7 @@ I</ref>). Auch sind die Parteien
 verpflichtet, ihr Vorbringen, wie Klage, Antwort u.s.f., stets schriftlich
 einzureichen, ausgenommen bei Sachen unter 20 Taler Wert und bei
 Extraordinar-Sachen. Abgesehen von diesen Ausnahmen geschieht auch die <index level1="Ladung" level2="Form"/>
-                        <index level1="Schriftlichkeit des Verfahrens"/>Ladung
+  <index level1="Schriftlichkeit des Verfahrens"/>Ladung
 nicht mehr mündlich, sondern schriftlich durch Vermittlung
 des Gerichtsschreibers und mit genauer Angabe des Anspruches und des streitigen
 Rechtsverhältnisses (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.3">2 III</ref>).
@@ -1296,8 +1291,8 @@ stete Urteilen, so sucht man jetzt der Verschleppung vorzubeugen durch
 Einführung der <index level1="Eventualmaxime"/>Eventualmaxime und durch
 Verteilung des Prozeßstoffes auf feste Termine.</p> 
 <p>
-                        <index level1="Klageerhebung"/>
-                        <index level1="Klageeinreichung/Einbringung/Inbringung der Klage"/>Im
+  <index level1="Klageerhebung"/>
+  <index level1="Klageeinreichung/Einbringung/Inbringung der Klage"/>Im
 ersten Termin
 wird die Klage eingebracht, und zwar schriftlich und artikuliert.<note xml:id="n315" type="footnote" n="3.15">In
 dem Verlangen nach sofortiger Artikulierung stimmt die
@@ -1309,7 +1304,7 @@ verständig es war, diese Umständlichkeiten nicht in die LGO. aufzunehmen, zeig
 das Bestreben auf dem Speyerer Reichstage von 1570, welches dahin zielte, die
 sofortige Artikulierung auch für das Kammergericht wieder einzuführen, aber nur
 teilweise Erfolg hatte (Schwartz, a.a.O., S. 109).</note>
-                    </p> 
+  </p> 
 <p>Jede Partei, die bereit ist, "deß Streites außzuwarten", hat das Recht, von
 dem Gegner Kaution "mit Bürgen oder Güttern" für den Fall ihres Obsiegens zu
 verlangen (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.4">2 IV</ref>). Eine <index level1="Bekommerung/Bekümmerung/Beschlagnahme"/>Bekümmerung
@@ -1351,9 +1346,9 @@ S. 109, 110). Ein besonderes Verfahren, wie nach <ref target="http://drw-www.adw
 XXVII-XXIX</ref>, findet für die exceptiones
 peremptoriales nicht statt, diese werden vielmehr mit den Responsionen zusammen
 verhandelt.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Klagebeantwortung"/>Die Antworten müssen auf jeden Artikel
+  <index level1="Klagebeantwortung"/>Die Antworten müssen auf jeden Artikel
 einzeln durch das Wort: "Glaub wahr" oder "Glaub nit wahr" geschehen (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.5">2
 V</ref>). Alsdann kann das Gericht "für sich
 selbst oder auff begeren der Partheyen" beiden Streitteilen die <index level1="juramenta dandorum et respondendorum"/>juramenta
@@ -1371,7 +1366,7 @@ kostenpflichtig abgewiesen, der Beklagte ohne weiteres verurteilt (<ref target="
 V</ref>).<note xml:id="n320" type="footnote" n="3.20">Über
 die verderblichen Folgen einer solchen Eideshäufung vgl. Schwartz, a.a.O., S.
 103.</note>
-                    </p> 
+  </p> 
 <p>Auf dem dritten Termine bringt der Kläger seine Repliken vor. Da eine Duplik
 nicht mehr geschehen darf, so ist damit das <index level1="Behauptungsverfahren"/>Behauptungsverfahren
 beendet, und es beginnt das
@@ -1382,11 +1377,11 @@ probandi wird über alle bestrittenen
 Behauptungen beider Parteien Beweis erhoben.<note xml:id="n322" type="footnote" n="3.22">Nach
 der KGO. fand für jedes Parteivorbringen ein besonderer Beweistermin statt
 (Schwartz, a.a.O., S. 98).</note>
-                    </p> 
+  </p> 
 <p>Die alte, straffe Prozeßgliederung in Vor-, Haupt- und Beweisverfahren hat
 man also beibehalten.</p> 
 <p>
-                        <index level1="Beweismittel" level2="Arten"/>Beweismittel sind Zeugen,
+  <index level1="Beweismittel" level2="Arten"/>Beweismittel sind Zeugen,
 Urkunden und Augenschein; den Parteieid oder richterlichen Eid kennt die LGO.
 nicht. Man glaubte anscheinend, daß durch die neuen Beweismittel die alten: Eid
 mit oder ohne "Zeugen" völlig entbehrlich geworden seien. <index level1="Zeugenvernehmung"/>Die
@@ -1404,7 +1399,7 @@ XI</ref>).<note xml:id="n323" type="footnote" n="3.23">Die
 KGO. hat keine Bestimmungen über Beweismittel usw. Die LGO. gibt die
 Bestimmungen der <ref target="KölnRef.1537.431">Kölner Reformation, S.
 431ff.</ref> in erweiterter Form wieder.</note>
-                    </p> 
+  </p> 
 <p>Auf dem vierten Termin werden die Zeugenaussagen eröffnet. Hat eine Partei
 sich vor dem Verhör Einwendungen  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="329" facs="ln:bartmann_1908F,"/> <pb n="329"/>] <anchor xml:id="SD41"/> gegen einen
 Zeugen vorbehalten oder leistet sie einen besonderen <index level1="Gefährdeeid/Calumnieneid"/>Gefährdeeid,
@@ -1423,7 +1418,7 @@ publiziert (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?
 <p>Wie man schon früher für geringschätzige Sachen, "graven, zeune und
 plaggenmath betreffend", ein abgekürztes Verfahren in einem einzigen Termin
 hatte<note xml:id="n324" type="footnote" n="3.24">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g065">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g065">Engelke,
 a.a.O., S. 65</ref>.</note>, so werden auch nach der LGO. <index level1="Sache, privilegierte"/>privilegierte
 Sachen in einem kurzen,
 mündlichen oder schriftlichen Verfahren von zwei oder drei Terminen erledigt.
@@ -1436,7 +1431,7 @@ Pachtgelder, alle Zwangsvollstreckungssachen und Exekutionsinterventionsklagen
 solches Verfahren kennt weder die KGO., die sich in derartigen
 Fällen mit einer Verkürzung der Fristen begnügt, noch die Kölner Reformation,
 welche die privilegierten Sachen nur zu Feriensachen macht (S. 423).</note>
-                    </p>
+  </p>
 
 <p>Das <index level1="Säumnis-/Versäumnisverfahren" level2="Gogericht"/>Versäumnisverfahren
 wird folgendermaßen gehandhabt. Ist der
@@ -1463,7 +1458,7 @@ Untergerichtsordnung (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-
 der Kölner Reformation (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=KoelnErzstiftRef. 1537 (1538)&amp;fs=S. 424">S.
 424</ref>). Die <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1555&amp;fs=3.43">KGO., 3 XLIII</ref> hat das
 Versäumnisverfahren hiervon abweichend geregelt.</note>
-                    </p> 
+  </p> 
 <p>Der Ungehorsame kann bei jedem Stande des Prozesses wieder zugelassen
 werden, und es wird sogar das bis dahin Erkannte "als nichtig abgethan und
 revoziert", falls er eine genügende Entschuldigung seines Fortbleibens
@@ -1478,7 +1473,7 @@ XXX, Abs. 2</ref>).</p>
 von der <index level1="Urteilsschelte"/>Schelte: sie steht nur den Parteien zu,
 sie führt zu einem vollständig neuen Verfahren mit beliebig neuem
 Vorbringen<note xml:id="n327" type="footnote" n="3.27">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=1.4">Münst.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=1.4">Münst.
 Hofgerichtsordnung, 1
 IV</ref>.</note>, sie ist nur möglich gegen Endurteile und solche "Bescheidt
 und gerichtliche Beschwerungen, so durch die Appellation von der Endurtheil in
@@ -1488,13 +1483,13 @@ an ein anderes Gogericht, sondern,
 soweit sie nicht "an ein Stadt, Fleck oder Wigboldt gehörte", an das
 Hofgericht<note xml:id="n328" type="footnote" n="3.28">Dies wurde 1572 auf Grund der Reform
 eingerichtet.</note> und weiter an das Reichskammergericht.<note xml:id="n329" type="footnote" n="3.29">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.30">LGO.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.30">LGO.
 2 XXX</ref> u. <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=.2.41">Hofgerichtsordnung 2 XLI</ref>.</note>
 Am
 Hofgericht wird nach der Hofgerichtsordnung prozediert, die 1571 zusammen mit
 der LGO. verkündet wurde.</p> 
 <p>
-                        <index level1="Kostenfestsetzung"/>Für die Kostenfestsetzung hat die LGO.
+  <index level1="Kostenfestsetzung"/>Für die Kostenfestsetzung hat die LGO.
 ein vollständiges Verfahren mit Einrede und Replik, Aktenversendung und Urteil
 eingesetzt (<ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterLGO. 1571&amp;fs=2.32">2 XXXII</ref>).<note xml:id="n330" type="footnote" n="3.30">Die
 KGO. läßt ohne besonderes Verfahren die Kosten
@@ -1556,7 +1551,7 @@ erhielten  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="333" facs="ln:bar
 <anchor xml:id="SD45"/> 1578 auf unablässiges Bitten der Eingesessenen eine
 besondere "Vechtische Gerichtsordnung"<note xml:id="n333" type="footnote" n="3.33">Abgedruckt
 bei <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g068">Engelke, a.a.O., S. 68ff.</ref>
-                        </note>, die
+  </note>, die
 von der LGO. allerdings nur in der Gerichtsverfassung, aber nicht im Verfahren
 abweicht.</p> 
 <p>Für die Rechtsentwicklung des Stiftes bedeutet die LGO. den Anbruch der
@@ -1574,10 +1569,10 @@ die Unbilden der Witterung nicht gescheut, um dem Gedanken des offenen, freien
 Gerichtes Ausdruck zu geben<note xml:id="n334" type="footnote" n="3.34">Vgl. Planck, a.a.O., II,
 S. 23.</note>; nun fordern Schreibwerk und Aktenwesen gebieterisch den
 geschlossenen, das heißt überdeckten Raum. [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="334" facs="ln:bartmann_1908F,"/> <pb n="334"/>] <anchor xml:id="SD46"/>
-                    </p> </div>
+  </p> </div>
 </div>
-            <div xml:id="K.4."> 
-    <head>IV. Die Aufnahme des römischen Rechtes.</head> <index level1="Stift Münster" level2="Rezeptionsgesetzgebung"/>
+  <div xml:id="K.4."> 
+  <head>IV. Die Aufnahme des römischen Rechtes.</head> <index level1="Stift Münster" level2="Rezeptionsgesetzgebung"/>
 <index level1="Stift Münster" level2="Rezeptionsgesetzgebung"/>
 
 <div xml:id="K.4.1"> <head>§ 1. Allgemeines.</head> 
@@ -1586,8 +1581,8 @@ soll, welche Umstände die Aufnahme des römischen Rechtes gefördert oder gehem
 haben, mögen zunächst allgemein die dem Fremdrechte günstigen Bewegungen im
 Stift Münster kurz nachgewiesen werden.</p> 
 <p>
-                        <index level1="Jurastudium/Studium der Rechte"/>
-                        <index level1="Römisches Recht" level2="Studium"/>Wie
+  <index level1="Jurastudium/Studium der Rechte"/>
+  <index level1="Römisches Recht" level2="Studium"/>Wie
 die anderen Territorien, so hat auch Münster nicht
 gesäumt, seine Söhne schon früh an die Universitäten zu senden und Jurisprudenz
 studieren zu lassen. Bei den regen Beziehungen zwischen Münster und Köln<note xml:id="n41" type="footnote" n="4.1">Cornelius,
@@ -1622,13 +1617,13 @@ als Legisten Bezeichneten, sondern auch ein großer Prozentsatz der einfach als
 Juristen Genannten das weltliche Recht studiert haben, ersieht man aus der
 großen Zahl der leges dozierenden Professoren.<note xml:id="n45" type="footnote" n="4.5">Vgl.
 v. Below, a.a.O, S. 114.</note>
-                    </p> 
+  </p> 
 <p>Unter Bischof <name type="person">Johann von Hoya</name>
-                        <index level1="Hoya, Johann Graf v."/>
+  <index level1="Hoya, Johann Graf v."/>
 wurde der Verkehr mit der Kölner Juristenfakultät noch
 reger. Der erste Advokat bei dem Hofgericht in Münster, <name type="person">Johannes
 Havik-Horstius</name>
-                        <note xml:id="n46" type="footnote" n="4.6">v.
+  <note xml:id="n46" type="footnote" n="4.6">v.
 Olfers, a.a.O., S. 74.</note>, war 1564 als lic. jur. Rektor der Universität in
 Köln gewesen.<note xml:id="n47" type="footnote" n="4.7">Stölzel, Die Entwicklung des gelehrten
 Richtertums in deutschen Territorien, Stuttgart 1872, I, S. 89.</note> Als
@@ -1671,7 +1666,7 @@ nach Löwen gezogen, wo der erste Rektor der Universität, im Jahre 1429, ein
 Kölner Legist war, oder nach Leiden, wo <name type="person">Donellus</name> im
 Jahre 1576 römisches Recht las.<note xml:id="n411" type="footnote" n="4.11">Stölzel, a.a.O., I,
 S. 60.</note>
-                    </p> 
+  </p> 
 <p>Die Untersuchung darüber, welche Stellungen die westfälischen Jünger des
 römischen Rechtes im Stift eingenommen haben, darf sich nicht auf die Leute mit
 dem Doktor- oder Lizentiatentitel beschränken. Nach den sorgfältigen Angaben in
@@ -1682,11 +1677,11 @@ besetzt waren, fanden die Legisten, vor allem die Doktoren, gute Stellungen in
 der Verwaltung. Der gewiß nicht unbeträchtliche Rest der Juristen muß dann wohl
 in den Gogerichten verwandt worden sein. So sehen wir z.B. im Jahre 1553 einen
 lic. <name type="person">Averdunk</name> als Richter in Recklinghausen<note xml:id="n412" type="footnote" n="4.12">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g250">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g250">W.
 Ldr., I, S.
 250</ref>.</note>, 1584 einen gewissen <name type="person">Graminetus</name>,
 der Rechten lic., als Gograf an dem Stuhl von Sandwell.<note xml:id="n413" type="footnote" n="4.13">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g113">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g113">W.
 Ldr., I, S. 113</ref>.</note>
 Weiter findet sich zum Jahre 1570 ein <name type="person">Th. Ernest
 Wenner</name>, jur. utr. Dr., als eines Münsterischen Domkapitels Gograf
@@ -1724,18 +1719,18 @@ Institutionen zu halten.<note xml:id="n419" type="footnote" n="4.19">Stüve, a.a
 196.</note> Noch größeren Vorschub leisteten die humanistischen Anstalten dem
 römischen Recht durch weite Verbreitung der lateinischen Sprachkenntnisse. So
 lesen wir von dem Gografen von <name type="place">Bevergern</name>
-                        <note xml:id="n420" type="footnote" n="4.20">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g168 ">W.
+  <note xml:id="n420" type="footnote" n="4.20">
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g168 ">W.
 Ldr., I, S.
 168</ref>.</note>, er sei "tom dele congruus in latine" gewesen, ein anderer
 prunkt d amit, daß er die vierte Klasse besucht habe. Von den Gografen von
 <name type="place">Aschendorf</name> und <name type="place">Haren</name> heißt
 es<note xml:id="n421" type="footnote" n="4.21">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g164">W. Ldr., I, S.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g164">W. Ldr., I, S.
 164</ref> u. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g167">167</ref>.</note>, sie seien
 "temelich gelehrte gesellen na dieser landardt".</p> 
 <p>
-                        <index level1="Notar" level2="Ausbildung"/>Über den Bildungsstand der
+  <index level1="Notar" level2="Ausbildung"/>Über den Bildungsstand der
 Notarien geben uns die seit 1571 geführten Notariatsregister<note xml:id="n422" type="footnote" n="4.22">Im
 kgl. Staatsarchiv zu Münster.</note> guten Aufschluß. Die meisten
 von ihnen nennen sich Kleriker<note xml:id="n423" type="footnote" n="4.23">Vgl. das französische
@@ -1762,7 +1757,7 @@ Tegeder</name> und die des Domdechanten <name type="person">G. von
 Raesfeld</name>.</p> 
 <p>Schließlich konnte man auch ohne Kenntnis des Lateinischen das fremde Recht
 aus der populären Literatur kennen lernen. <name type="person">Gobler</name>
-                        <index level1="Gobler, Justinus"/>,
+  <index level1="Gobler, Justinus"/>,
 ein
 vielgenannter Schriftsteller auf diesem Gebiete, war im Jahre 1546 Kanzler des
 Bischofs von Münster. Die naheliegende Vermutung, daß seine Werke im Stift sehr
@@ -1818,7 +1813,7 @@ anbefahl, sich stets der deutschen Sprache zu bedienen (<ref target="http://drw-
 V, Abs. 2</ref>). Durch alles dieses wurde
 der Übergang natürlich sehr erleichtert.</p> 
 <p>
-                        <index level1="Deutsches Recht" level2="in Prozeßordnungen der Rezeptionszeit"/>Daneben
+  <index level1="Deutsches Recht" level2="in Prozeßordnungen der Rezeptionszeit"/>Daneben
 enthielt die LGO. aber auch noch sehr viel
 kerndeutsches Recht, wie z.B. die Einrichtung des Godinges, die in den
 Nachbargebieten schon lange eingeführte Schöffenverfassung, die Gliederung des
@@ -1834,14 +1829,14 @@ um des Rechtes willen und nicht aus Verzögerungsabsicht das Urteil
 schelte.<note xml:id="n430" type="footnote" n="4.30">Planck, a.a.O., I, S. 273.</note>
 Schließlich ließen zahlreiche Mängel, z.B. bezüglich der Ladung oder der
 Gerichtskosten<note xml:id="n431" type="footnote" n="4.31">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g151">W.
 Ldr., I, S. 151ff.</ref>, Mißbr. l, 16 u. 21.</note>, die sich auch ohne
 Änderung des ganzen Verfahrens hätten beseitigen lassen, die LGO. als einen
 bedeutenden Fortschritt erscheinen.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="342" facs="ln:bartmann_1908F,"/> <pb n="342"/>]  <anchor xml:id="SD54"/>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Landesherr" level2="Gerichtsgewalt"/>
-                        <index level1="Münsterische Hof- und Landgerichtsordnung 1571" level2="Landesherr"/>Im
+  <index level1="Landesherr" level2="Gerichtsgewalt"/>
+  <index level1="Münsterische Hof- und Landgerichtsordnung 1571" level2="Landesherr"/>Im
 Zuge der Zeit lag es, daß man dem Landesherrn eine immer größer werdende
 Machtbefugnis zuerkannte. Gewohnheitsmäßig hatte der Bischof das Recht
 erworben, das Urteil eines Gogerichtes aufzuheben, wenn eine Partei sich an die
@@ -1864,7 +1859,7 @@ römischen Recht nicht mehr an Macht, als er schon besaß. Aus dem
 Landtagsabschiede vom 14. Mai 1567<note xml:id="n434" type="footnote" n="4.34">Oben S. <ref target="#SD11">11</ref>.</note>
 ersehen wir, daß die Anregung zur Reform von den
 Ständen ausgegangen ist. <index level1="Münsterische Hof- und Landgerichtsordnung 1571" level2="Stände, Einfluß"/>
-                        <index level1="Stift Münster" level2="Stände, Einfluß auf die Gesetzgebung"/>Der
+  <index level1="Stift Münster" level2="Stände, Einfluß auf die Gesetzgebung"/>Der
 Bischof erklärte
 sich wohl bereit, den wiederholten Bitten der Stände nachzugeben, daß er aber
 nicht mit derselben Freude wie sonstige Reorganisationen auch diese in die Hand
@@ -1897,7 +1892,7 @@ Umständen nicht erwarten. Auch war man schon durch die <name type="quelle">Karo
 an manche Einzelheiten des neuen Verfahrens, wie
 die Schöffen, die Artikelform, den Zeugenbeweis gewöhnt worden.</p> 
 <p>
-                        <index level1="Deutsches Recht"/>Als Resultat ergibt sich, daß man
+  <index level1="Deutsches Recht"/>Als Resultat ergibt sich, daß man
 keineswegs von einem Bankerott des deutschen Prozesses reden kann. Er hatte
 gewiß seine Mängel, aber er zeigte sich auch sehr entwicklungsfähig. Hätte die
 Entwicklung ihren ruhigen Lauf nehmen können, so wäre er gewiß auf eine ebenso
@@ -1927,7 +1922,7 @@ Schöffen nur "der Peinlichen Halßgerichtsordnung, und sonst des Stiffts
 wohlherbrachter gebrauch, gewonheiten und gerechtigkeiten zur nothturfft
 erfahren" sein müssen.</p> 
 <p>
-                        <index level1="Recht, geschriebenes/positives" level2="Verbindlichkeit"/>Diese
+  <index level1="Recht, geschriebenes/positives" level2="Verbindlichkeit"/>Diese
 beiden Bestimmungen erläutern trefflich die
 laxe Auffassung der damaligen Zeit über die Verbindlichkeit des geschriebenen
 Rechtes, eine Auffassung, die dem deutschen Recht wie dem von Scholastik
@@ -1951,9 +1946,9 @@ S. XVII</ref>.</note> Bei der Rechtsprechung wurde darauf geachtet,
 daß die gefällten Urteile nicht nur "dem Landgeprauch wie gleichfalß den
 gemeinen beschribenen Rechten", sondern "auch natürlicher Pilligkeit äinlich",
 wie es in einem Rechtsgutachten von 1619<note xml:id="n440" type="footnote" n="4.40">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g121">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g121">W.
 Ldr., I, S. 121 f.</ref>
-                        </note> wiederholt heißt.
+  </note> wiederholt heißt.
 <index level1="Billigkeit, natürliche"/>Hält man sich diese Auffassung stets
 gewärtig, so wird man besser erkennen, welche Umstände die Einführung des
 Fremdrechtes gefördert oder gehindert haben.</p> 
@@ -1979,7 +1974,7 @@ in <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;in
 einen bestimmten Rechtsstreit eingeholt worden war, ergeben die Schlußsätze,
 worin noch die Namen der Parteien angegeben sind, während es im ersten Teil
 immer nur heißt N.N.</note>
-                    </p> 
+  </p> 
 <p>Von großer Wichtigkeit war es auch, daß im 16. Jahrhundert die Appellation
 aufkam, welche an die fürstliche Kammer, später in der Regel an das Hofgericht
 ging.<note xml:id="n442" type="footnote" n="4.42">Vgl. oben, S. <ref target="#SD43">43</ref>.</note>
@@ -1987,9 +1982,9 @@ Dieses war mit zwei Doktoren und zwei bis vier
 Räten oder Gelehrten besetzt und kannte nur Doktoren oder Lizentiaten als
 Advokaten.<note xml:id="n443" type="footnote" n="4.43">Hofgerichtsordnung <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=1.2">1
 II</ref> und <ref target="http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=MuensterHofGO. 1571&amp;fs=1.4">IV</ref>.</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Reichskammergericht" level2="und materielles Recht, Rezeption"/>Wie
+  <index level1="Reichskammergericht" level2="und materielles Recht, Rezeption"/>Wie
 groß der Einfluß des Hofgerichts und weiterhin des
 Reichskammergerichts auf das materielle Recht gewesen sein muß, läßt sich
 leicht ermessen; denn wenn einmal ein dem gemeinen Recht widersprechendes
@@ -1997,14 +1992,14 @@ Urteil als dem natürlichen Recht zuwider aufgehoben worden war, so sah sich der
 Unterrichter gezwungen, das nächste Mal nicht mehr nach deutschem, sondern nach
 gemeinem Recht zu urteilen.</p> 
 <p>
-                        <index level1="Geistliches Gericht" level2="Machtzuwachs"/>Bei den engen
+  <index level1="Geistliches Gericht" level2="Machtzuwachs"/>Bei den engen
 Beziehungen zwischen Staat und Kirche wie auch zwischen dem gemeinen Recht und
 der Scholastik ist es klar, daß römische Rechtsgedanken durch die geistlichen
 Gerichte weite Verbreitung fanden, und zwar um so mehr, als der Archidiakon
 stets bestrebt war, den Kreis der ihm zustehenden Gerichtsbarkeit zu
 vergrößern. Dies können wir ersehen aus dem Bericht des Richters von <name type="place">Sendenhorst</name>
 vom Jahre 1571<note xml:id="n444" type="footnote" n="4.44">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g177">W. Ldr.,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g177">W. Ldr.,
 I, S. 177</ref>.</note>, worin er
 sich beschwert, "daß der her officiael des geistligen hoveß zu Munster den
 burgern binnen Sendenhorst mit inhibitionis, cassationis, penalitatis mandatis
@@ -2020,7 +2015,7 @@ erlassen) entnommenen <index level1="Casus et Puncta"/>"Casus et puncta, in
 quibus D.D. Archidiaconorum Jurisdictio partim de jure, partim de consuetudine,
 partim ex privilegio fundata est".<note xml:id="n446" type="footnote" n="4.46">Kock, a.a.O.,
 III, S. 268ff.</note>
-                    </p> 
+  </p> 
 <p>Dem äußerlichen Unterschiede zwischen beiden — letztere zählen im
 ganzen 90, ersterer nur 13 Punkte — entspricht der innere. Die gewiß zum
 größten Teil auf Gewohnheitsrecht beruhenden casus et puncta boten dem
@@ -2051,9 +2046,9 @@ Juristenfakultät zu Köln oder Erfurt einzuholen sei. Tatsächlich wurde auch d
 Fakultät in Erfurt deswegen angegangen.<note xml:id="n448" type="footnote" n="4.48">Spancken,
 Ein Prozeß über Sendhafer (Ztschr. f. vaterl. Geschichte, Münster 1873, Bd. 31
 II, S. 174ff.).</note>
-                    </p> 
+  </p> 
 <p>
-                        <index level1="Stift Münster" level2="Gewohnheitsrecht, deutsches"/>Alle
+  <index level1="Stift Münster" level2="Gewohnheitsrecht, deutsches"/>Alle
 Umstände waren also danach angetan, dem römischen Rechte zum Durchbruch zu
 verhelfen, so daß man annehmen sollte, es habe alle Gerichte überschwemmt, das
 heimische Recht ganz vernichtet. Tatsächlich läßt sich aber ein Eindringen des
@@ -2074,9 +2069,9 @@ a.a.O., S. 52ff.</ref>, Diepenbrock,
 Geschichte des vormaligen münsterschen Amtes Meppen, Münster 1838, S.
 712.</note> wie in den "<name type="quelle">Gohdings-Artikeln</name>" des
 Domkapitels von 1715<note xml:id="n452" type="footnote" n="4.52">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g125">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g125">W.
 Ldr., I, S. 125ff.</ref>
-                        </note> findet sich nur
+  </note> findet sich nur
 deutsches Recht.</p> 
 <p>Während im Herzogtum Westfalen das römische Dotalrecht  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="349" facs="ln:bartmann_1908F,"/> <pb n="349"/>] <anchor xml:id="SD61"/> eingeführt
 wurde<note xml:id="n453" type="footnote" n="4.53">Welter, Handbuch über das eheliche Güterrecht
@@ -2086,12 +2081,12 @@ a.a.O., S. 32.</note> Auch das Recht auf das
 Heergewäte und die Gerade erhielten sich sehr lange. In den Ämtern Vechta und
 Kloppenburg wurde es erst am 28. November 1716 durch den Bischof ausdrücklich
 aufgehoben.<note xml:id="n455" type="footnote" n="4.55">Diepenbrock, a.a.O., S. 221.</note>
-                    </p> 
+  </p> 
 <p>Die am 18. Januar 1592 erlassene, im Jahre 1742 revidierte <name type="quelle">Polizeiordnung
 der Stadt Münster</name>
-                        <note xml:id="n456" type="footnote" n="4.56">Abgedruckt bei Schlüter, a.a.O.,
+  <note xml:id="n456" type="footnote" n="4.56">Abgedruckt bei Schlüter, a.a.O.,
 S. 117ff.</note>
-                        <index level1="Münsterische Polizeiordnung 1592"/> ordnete in den
+  <index level1="Münsterische Polizeiordnung 1592"/> ordnete in den
 Kapiteln VI und IX
 das Erb- und Vormundschaftsrecht in vorwiegend deutschem Sinne; nur das
 Beneficium inventarii wurde dem gemeinen Recht entnommen. Formale
@@ -2099,9 +2094,9 @@ Erleichterungen, die das römische Recht für Verfügungen von Todeswegen zwisch
 Ehegatten oder zwischen Eltern und Kindern kannte, wurden dagegen ausdrücklich
 abgelehnt. Schon die <name type="quelle">gemeine münsterische Landordnung von
 1571</name>
-                        <note xml:id="n457" type="footnote" n="4.57">Abgedruckt bei der LGO.</note> hatte
+  <note xml:id="n457" type="footnote" n="4.57">Abgedruckt bei der LGO.</note> hatte
 bestimmt, <index level1="Vormundschaft" level2="Altersgrenzen"/>
-                        <index level1="Vormundschaft" level2="Obervormundschaft der Sippe"/>daß
+  <index level1="Vormundschaft" level2="Obervormundschaft der Sippe"/>daß
 die
 Vormundschaft nicht, wie nach römischem Recht, schon mit dem 12. bezw. 14.
 Lebensjahre endigen, sondern "nach gelegenheit dieser Landtsart" bis zum 17.
@@ -2113,7 +2108,7 @@ Verwandten genommen
 werden. Beide haben einmal jährlich vor einer Ratsperson und zwei Verwandten
 des Mündels, den Vertretern der Sippe, Rechnung zu legen. Nach dem Tode der
 Mutter hat der Vater nur die Stellung eines Vormundes seiner Kinder.</note>
-                    </p>
+  </p>
 
 <p>Im Jahre 1725 erging eine Verordnung<note xml:id="n459" type="footnote" n="4.59">Abgedruckt
 bei Scotti, Sammlung der Gesetze ..., Münster 1842, I, S. 375.</note>, wonach
@@ -2124,11 +2119,11 @@ causis civilibus künftig in der den Untertanen verständlichen deutschen Sprach
 gehalten werden solle.</p> 
 <p>Die <name type="quelle">Münsterische (Leib-)Eigentums-Ordnung von
 1770</name>
-                        <index level1="Münsterische Eigentumsordnung 1770"/>
-                        <note xml:id="n460" type="footnote" n="4.60">Abgedruckt
+  <index level1="Münsterische Eigentumsordnung 1770"/>
+  <note xml:id="n460" type="footnote" n="4.60">Abgedruckt
 bei Schlüter, a.a.O., I, S. 257ff.</note> und
 die <name type="quelle">Münsterische Erbpacht-Ordnung von 1783</name>
-                        <note xml:id="n461" type="footnote" n="4.61">Abgedruckt
+  <note xml:id="n461" type="footnote" n="4.61">Abgedruckt
 bei Schlüter, a.a.O., I, S. 338ff.</note>
 enthalten beide kein römisches Recht. Erstere betont ausdrücklich in der
 Vorrede, daß "von dem Jure civili Romano kein sonderlicher Gebrauch zu machen
@@ -2162,7 +2157,7 @@ römischen Recht standgehalten haben?</p>
 Landurteile waren gesammelt und um die Mitte des 16. Jahrhunderts systematisch
 geordnet worden. In Agrarsachen stand ein ziemlich einheitliches
 Gewohnheitsrecht zur Verfügung.<note xml:id="n463" type="footnote" n="4.63">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p029">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p029">W.
 Ldr., I, S. XXIX</ref>.</note> Das Familien- und
 Erbrecht im Stift war dagegen sehr zersplittert, ein Zustand, der sich zwar
 später gebessert, aber doch in einzelnen Güterrechten bis in das 19.
@@ -2178,7 +2173,7 @@ an den Sachsenspiegel<note xml:id="n467" type="footnote" n="4.67">Z.B. <ref targ
 Ldr., I, S. 87</ref> unter 1.</note>, davon aber,
 daß er "in allen Gerichten Norddeutschlands als Gesetz rezipiert worden
 sei"<note xml:id="n468" type="footnote" n="4.68">
-                            <ref target="">Schröder, Deutsche Rechtsgeschichte, 5. Aufl.,
+  <ref target="">Schröder, Deutsche Rechtsgeschichte, 5. Aufl.,
 1907, S. 679</ref>.</note>, ist im Stift nichts zu merken.<note xml:id="n469" type="footnote" n="4.69">Vgl.
 auch Statuten der Stadt <name type="place">Bocholt</name>,
 Vorrede, Wiegands Archiv, Bd. III, S. 1f.</note> Darum vermissen wir hier auch
@@ -2191,7 +2186,7 @@ Stobbe<note xml:id="n470" type="footnote" n="4.70">Kritische Vierteljahrsschrift
 S. 15.</note> zugeben muß, das römische Recht früher ein als in den
 Städten.</p> 
 <p>
-                        <index level1="Stift Münster" level2="Gewohnheitsrecht, deutsches"/>Der
+  <index level1="Stift Münster" level2="Gewohnheitsrecht, deutsches"/>Der
 Grund der Nichtrezeption ist der, daß im Stift Münster noch ein starkes
 Rechtsbewußtsein, ein festüberliefertes Gewohnheitsrecht lebte, als der
 Zusammenprall der beiden Rechtsanschauungen erfolgte. Die Kodifikationen, die
@@ -2201,7 +2196,7 @@ vollzogen, zeigen deutlich, wie sehr dort das heimische Recht dem Gedächtnis
 der Massen entschwunden war.<note xml:id="n471" type="footnote" n="4.71">Vgl. v.Below, a.a.O, S.
 143.</note> Ganz anders in Münster! Zwar schlugen die Hofräte in ihrem Memorial
 von 1567<note xml:id="n472" type="footnote" n="4.72">S.o. S. <ref target="#SD11">11.</ref>
-                        </note>
+  </note>
 vor, die "guten alten Gewohnheiten" zu
 kodifizieren, die Stände scheinen aber nach hartnäckigem Kampfe<note xml:id="n473" type="footnote" n="4.73">Vgl.
 S. <ref target="#SD5">5</ref>: "und dann hiebevor
@@ -2220,7 +2215,7 @@ einschlug. Als Vorbild mag hierbei das in den Städten schon lange üblich  [<te
 zur Festsetzung der Statuten gedient haben.<note xml:id="n474" type="footnote" n="4.74">Vgl. Statuten
 von Bocholt, Vorrede, Wiegands Archiv, III,
 S. l f.</note>
-                    </p> 
+  </p> 
 <p>Natürlich war das heimische Recht dort, wo es aufgezeichnet war, um so
 widerstandsfähiger gegenüber dem römischen Recht, es diente aber auch zugleich
 dem Bedürfnis nach Rechtseinheit — ein Beweis dafür, daß eine
@@ -2231,7 +2226,7 @@ Teile des Stifts Anwendung; so galten die Sandweller Urteile bis über das Stift
 Münster hinaus, z.B. in <name type="place">Herford</name> als subsidiäres
 Recht.</p> 
 <p>
-                        <index level1="Goding" level2="Rechtsbewußtsein, deutschrechtliches"/>Es ist
+  <index level1="Goding" level2="Rechtsbewußtsein, deutschrechtliches"/>Es ist
 noch darzustellen, wo das Rechtsbewußtsein sich zeigen konnte, wo die Quellen
 seiner Kraft waren. Vor allem war das Goding der rechte Hort des angestammten
 Rechtes. Hier hörten die Jungen, was ihre Altvorderen stets für Recht gehalten
@@ -2254,14 +2249,14 @@ sondern durch stete Übung und Anwendung erneuert, bereichert und fortgebildet.
 Man hatte darum nicht nötig, etwaige Lücken durch römisches Recht
 auszufüllen.</p> 
 <p>
-                        <index level1="Rechtsaufzeichnung"/>
-                        <index level1="Rechtsprechungssammlung"/>Während
+  <index level1="Rechtsaufzeichnung"/>
+  <index level1="Rechtsprechungssammlung"/>Während
 andere Territorien ihr Sonderrecht
 nur insoweit vor dem Reichskammergericht geltend machen konnten, als es
 schriftlich aufgezeichnet war, konnten die Münsterländer über jedweden
 Rechtssatz einen Beweis in Gestalt eines Landurteils erbringen, wie es z.B.
 noch im Jahre 1663<note xml:id="n476" type="footnote" n="4.76">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g181">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g181">W.
 Ldr, I, S. 181</ref>.</note> geschah.</p> 
 <p>Auch noch nach ihrer Beschneidung durch die LGO. entfalteten die Godinge,
 vor allem am Sandweller Stuhl, eine rege Tätigkeit. Man gab Urteile nicht nur
@@ -2273,7 +2268,7 @@ Zehnte<note xml:id="n479" type="footnote" n="4.79">Das. C 57, 45 und 75.</note> 
 Leibzucht.<note xml:id="n480" type="footnote" n="4.80">Das. C 80.</note> Die zahlreich
 erhaltenen Sammlungen der Sandweller Urteile, die sogar in einigen angrenzenden
 Gebieten als subsidiäres Recht galten<note xml:id="n481" type="footnote" n="4.81">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p005">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=p005">W.
 Ldr., I, S. V</ref>.</note>, zeigen die Bedeutung
 der Godinge für die Stärkung des deutschen Rechtes. Hier war noch eine starke,
 schöpferische Rechtskraft, welche die durch die LGO. ihr gezogenen Dämme immer
@@ -2281,20 +2276,20 @@ wieder überflutete.</p>
 <p>Wie lange die Godinge tätig gewesen sind, ist im einzelnen noch nicht
 festgestellt worden. Daß im Jahre 1619 am Stuhl zum Sandwell in einer Sitzung
 13 Urteile allein über Triftgerechtigkeiten gefragt wurden<note xml:id="n482" type="footnote" n="4.82">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g118">W.
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=WestfLR.&amp;seite=g118">W.
 Ldr., I, S. 118ff.</ref>
-                        </note>,
+  </note>,
 zeigt, daß um diese Zeit noch dieses Goding viel angegangen wurde. Der Desumer
 Stuhl hielt noch bis zum Jahre 1622 regelmäßig die vier jährlichen Gerichtstage
 ab, später fanden nur mehr  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="355" facs="ln:bartmann_1908F,"/> <pb n="355"/>] <anchor xml:id="SD67"/> vereinzelte
 Sitzungen, aber allerdings bis zum Jahre 1803, statt.<note xml:id="n483" type="footnote" n="4.83">
-                            <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g015">Engelke,
+  <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;index=buecher&amp;term=Engelke,GogerichtDesum&amp;seite=g015">Engelke,
 a.a.O., S. 15f.</ref>
-                        </note>
-                    </p> 
+  </note>
+  </p> 
 <p>
-                        <index level1="Schöffengerichtsverfassung "/>
-                        <index level1="Deutsches Recht" level2="Schöffengerichtsverfassung "/>Die
+  <index level1="Schöffengerichtsverfassung "/>
+  <index level1="Deutsches Recht" level2="Schöffengerichtsverfassung "/>Die
 Schöffenverfassung war in vielen
 Gegenden Deutschlands in Verfall geraten, jedoch nicht überall. Schon
 Stölzel<note xml:id="n484" type="footnote" n="4.84">A.a.O., S. 338.</note> bemerkt, daß in
@@ -2307,7 +2302,7 @@ wahre Grund dafür sein, daß noch nach der Rezeption in <name type="person">Kö
 Schöffen waren?<note xml:id="n485" type="footnote" n="4.85">Bornhak, Forschungen zur deutschen Geschichte,
 XXVI (1886), S.
 426.</note>
-                    </p> 
+  </p> 
 <p>Sollte dies der Grund dafür sein, daß die LGO., die doch den besten und
 modernsten Gesetzen nachgebildet war, die Schöffenverfassung völlig neu in
 Münster eingeführt hat? Gerade für das letztere gibt es nur die eine Erklärung,
@@ -2331,12 +2326,12 @@ Vgl. Skotti, a.a.O., II, S. 422, Verordnung vom 29. Sept. 1752: die in der LGO.
 enthaltene Vorschrift, daß alle Kontrakte ... nur vor den Richtern im Beisein
 der Scheffen, wo deren vorhanden sind, ausgefertigt werden ..., wird neu
 eingeschärft.</note>
-                    </p> 
+  </p> 
 <p>Den Romanisten waren diese rein deutschen Gerichte natürlich ein Dorn im
 Auge, und es ist köstlich, wie z.B. <name type="person">Gobler</name>
-                        <index level1="Gobler, Justinus"/>
-                        <note xml:id="n488" type="footnote" n="4.88">
-                            <name type="quelle">Der
+  <index level1="Gobler, Justinus"/>
+  <note xml:id="n488" type="footnote" n="4.88">
+  <name type="quelle">Der
 Rechten Spiegel</name>, S. XII.</note> über sie schilt. Auf einem Bilde sehen
 wir eine Schöffensitzung dargestellt, im Hintergrunde verbrennt ein Mann die
 römischen Rechtsbücher. Darunter heißt es dann: "Zudem auch solche unbericht
@@ -2362,10 +2357,10 @@ Gelegenheit für das römische Recht, unbemerkt in die Rechtsprechung
 einzudringen. Weil aber Goding und Gogericht noch ihre volle Bedeutung hatten,
 so blieb das Volk in steter Übung und Erneuerung seiner Rechtskenntnisse.  [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="358" facs="ln:bartmann_1908F,"/> <pb n="358"/>] 
  <anchor xml:id="SD70"/>
-                    </p>
+  </p>
  </div>
  </div>
-            <div xml:id="a5">
+  <div xml:id="a5">
  <head>Anhang.</head>
  <head>Münsterische und Westfälische Juristen auf den Rechtsschulen zu Köln und
 Bologna.</head>
@@ -2374,7 +2369,7 @@ Bologna.</head>
  <head>A. Münsterische Studenten des weltlichen Rechtes auf der Rechtsschule zu
 Köln:</head>
  <p>
-                        <list>
+  <list>
  <item>1398: Joh. Roßmit de Warendorp, cl(ericus) Mon(asteriensis)
 d(ioeceseos), jur., (später
  Fraterherr und Priester).</item>
@@ -2412,11 +2407,11 @@ Bologna).</item>
  <item>1431: Scoswinus Boemhouvers de Costveldia, Mon. d., jur. (1440 bacc.
 decr.).</item>
  </list>
-                    </p>
-     <p>
+  </p>
+ <p>
   [<tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="359" facs="ln:bartmann_1908F,"/> <pb n="359"/>] 
  
-     <list>
+ <list>
  <item>1432: Seyfr. Wener, cl. Mon. d., jur.</item>
  <item>Joh. de Emeda, cl. Mon. d., jur.</item>
  <item>Reyn. de Emeda, cl. Mon. d., jur. (1436 bacc. decr.).</item>
@@ -2462,7 +2457,7 @@ Col. not).</item>
 jur.</item>
  <item>Lamb. Veddermann, saccrd. Mon. d., jur.</item>
  <item>1454: Joh. de Ryngenborch, d. Mon., jur.</item>
-      <!-- [Seite 72]  <anchor id="SD72"/> -->
+  <!-- [Seite 72]  <anchor id="SD72"/> -->
  <item>1456: Henr. Raesvelt de Bocholdia, Mon. d., jur. (1458 bacc.
 jur.).</item>
  <item>Henr. Halteren, Mon. d., jur.</item>
@@ -2486,13 +2481,13 @@ bacc. art. (in
  <item>1463: Wilh. de Emeda, Mon. d., jur. (1466 bacc, decr.)</item>
  <item>Hugo fil. Mennonis de Bruxemer, cl. Mon. d., jur.</item>
  </list>
-                    </p>
+  </p>
  </div>
 
 <div xml:id="K.5.2">
  <head>B. Westfälische Studenten auf der Universität Bologna:</head>
  <p>
-                        <list>
+  <list>
  <item>1289: d. Engelbertus de Wistvalia (i. J. 1303 als magister comitis de
 Ravensperg
  nochmals eingeschrieben).</item>
@@ -2516,7 +2511,7 @@ Ravensperg
  <item>1359: d. Hermannus canonicus Monasteriensis.</item>
  <item>1368: d. Henricus de Monasterio, canonicus Monasteriensis.</item>
  </list>
-                    </p>
+  </p>
  <!-- [Seite 73] <anchor id="SD73"/> -->
  </div>
 
@@ -2651,7 +2646,7 @@ Ravensperg
  <item>wegfertig <ref target="#SD38">38</ref>.</item>
  <item>zuschlagen der gütter <ref target="#SD23">23</ref>.</item>
  </list>
-                    </p>
+  </p>
  <!--  [Seite 75]
 
 <anchor url="#SD75"/> -->
@@ -2869,7 +2864,7 @@ Ravensperg
  <item>Urteil <ref target="#SD17">17ff.</ref>. <ref target="#SD41">41</ref>.</item>
  <item>Vechta <ref target="#SD31">31</ref>. <ref target="#SD45">45</ref>.</item>
  <item>Verbindlichkeit des Rechtes <ref target="#SD56">56</ref>
-                            </item>
+  </item>
  <item>Vereidigung <ref target="#SD33">33</ref>. <ref target="#SD36">36f.</ref>.
 <ref target="#SD40">40</ref>.</item>
  <item>Verhandlungsmaxime <ref target="#SD22">22</ref>.</item>
@@ -2895,9 +2890,9 @@ Ravensperg
  <item>Zwangsvollstreckung <ref target="#SD26">26</ref>. <ref target="#SD41">41</ref>.
 <ref target="#SD43">43</ref>.</item>
  </list>
-                    </p>
+  </p>
  </div>
  </div>
-        </body>
-    </text>
+  </body>
+  </text>
 </TEI>

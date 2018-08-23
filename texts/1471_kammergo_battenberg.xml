@@ -7,7 +7,7 @@
 			</titleStmt>
 		<publicationStmt>
                 <publisher>
-                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                    <ref target="http://repertorium.at">Heino Speer</ref>
                 </publisher>
             </publicationStmt>
             <sourceDesc>
@@ -33,20 +33,8 @@
             <div xml:id="Aufsatz1">
 				<head>I</head>
 				<p>
-                    <pb n="S. 37" facs="ln:battenberg_1978,37"/> Bei der systematischen Erfassung aller - auf die verschiedensten Bestände verstreuten - Akten
-					zur Geschichte des Reichskammergerichts im Hessischen Staatsarchiv Darmstadt<note xml:id="n1" type="footnote" n="1">Da die
-						Akten des Reichskammergerichts zu einem bedeutenden Teil bereits im 19. Jahrhundert auf Veranlassung von
-						Archivdirektor <name type="person">Ludwig Baur</name> vernichtet wurden, geht es hier vor allem um die
-						Erfassung von Kammergerichts- und Reichshofratsakten aus den Archiven der Prozeßparteien.</note> fand sich
-					an versteckter Stelle eine Handschrift zur Kammergerichtsordnung <name type="person">Kaiser Friedrichs
-						III.</name> von 1471, die meines Wissens bisher weder benutzt noch überhaupt beachtet worden ist.<note xml:id="n2" type="footnote" n="2">Sign.: E 9 (Justizangelegenheiten), Nr. 2/1.</note> Schuld daran ist einerseits die
-					leider nur sehr unzureichende Verzeichnung des betreffenden Bestandes (Justizangelegenheiten, heute Sign. E
-					9), die die provenienzmäßigen Zusammenhänge nur sehr selten eindeutig erkennen läßt - der falsche Obertitel
-					der Abteilung ("Reichskammergericht, Nichthessische Angelegenheiten") tut hierzu ein übriges, andererseits
-					aber auch die Tatsache, daß die Ordnung seit <name type="person">
-                        <ref target="http://de.wikipedia.org/wiki/Johann Christian Lünig">Johann Christian Lünig</ref>
-                    </name> vielfach gedruckt wurde<note xml:id="n3" type="footnote" n="3">Johann Christian
-						Lünig, Das Teutsche Reichs-Archiv, Band IV (Leipzig 1720), <ref target="http://digbib.bibliothek.uni-augsburg.de/25/index.html?http://digbib.bibliothek.uni-augsburg.de/25/pages/02_XII_05_2_0331_04_0316.html">S. 272 ff.</ref>; [J. J. Schmaus/Heinrich Christian von Senckenberg], Neue und vollständigere Sammlung
+                    <pb n="S. 37" facs="ln:battenberg_1978,37"/> Bei der systematischen Erfassung aller - auf die verschiedensten Bestände verstreuten - Akten zur Geschichte des Reichskammergerichts im Hessischen Staatsarchiv Darmstadt<note xml:id="n1" type="footnote" n="1">Da die  Akten des Reichskammergerichts zu einem bedeutenden Teil bereits im 19. Jahrhundert auf Veranlassung von Archivdirektor <name type="person">Ludwig Baur</name> vernichtet wurden, geht es hier vor allem um die Erfassung von Kammergerichts- und Reichshofratsakten aus den Archiven der Prozeßparteien.</note> fand sich an versteckter Stelle eine Handschrift zur Kammergerichtsordnung <name type="person">Kaiser Friedrichs III.</name> von 1471, die meines Wissens bisher weder benutzt noch überhaupt beachtet worden ist.<note xml:id="n2" type="footnote" n="2">Sign.: E 9 (Justizangelegenheiten), Nr. 2/1.</note> Schuld daran ist einerseits die leider nur sehr unzureichende Verzeichnung des betreffenden Bestandes (Justizangelegenheiten, heute Sign. E 9), die die provenienzmäßigen Zusammenhänge nur sehr selten eindeutig erkennen läßt - der falsche Obertitel der Abteilung ("Reichskammergericht, Nichthessische Angelegenheiten") tut hierzu ein übriges, andererseits 	aber auch die Tatsache, daß die Ordnung seit <name type="person">  <ref target="http://de.wikipedia.org/wiki/Johann Christian Lünig">Johann Christian Lünig</ref>
+                    </name> vielfach gedruckt wurde<note xml:id="n3" type="footnote" n="3">Johann Christian Lünig, Das Teutsche Reichs-Archiv, Band IV (Leipzig 1720), <ref target="http://digbib.bibliothek.uni-augsburg.de/25/index.html?http://digbib.bibliothek.uni-augsburg.de/25/pages/02_XII_05_2_0331_04_0316.html">S. 272 ff.</ref>; [J. J. Schmaus/Heinrich Christian von Senckenberg], Neue und vollständigere Sammlung
 						der Reichs-Abschiede 1 (Frankfurt 1747, Neudruck Osnabrück 1967), <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=RAbsch.+I&amp;seite=g249">S. 249
 							ff.</ref>; Johann Heinrich von Harpprecht, Staatsarchiv des kayserlichen und des heiligen Römischen
 						Reichs Cammergericht..., Teil 1 (Ulm/Frankfurt 1757), S. 220 ff.</note> und zuletzt in die Quellensammlung
