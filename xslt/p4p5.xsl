@@ -880,7 +880,7 @@
 					<xsl:value-of select="concat('a', .)"/>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:value-of select="."/>
+					<xsl:value-of select="replace(., ' ', '_')"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:attribute>
