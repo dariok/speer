@@ -13,9 +13,14 @@ let $filename := if (request:get-uploaded-file-name('file'))
 		then
 			let $origFileData := string(request:get-uploaded-file-data('file'))
 			let $origFileData := util:base64-decode($origFileData)
-			let $origFileDataWithout := concat('<?xml', substring-after($origFileData, '<?xml'))
-			(: Das Problem der Entitäten muß erst einmal offen bleiben :)
-			let $oFDW := util:parse($origFileDataWithout)
+			(:let $origFileDataWithout := concat('<?xml', substring-after($origFileData, '<?xml'))
+			(\: Das Problem der Entitäten muß erst einmal offen bleiben :\)
+			let $oFDW := util:parse($origFileDataWithout):)
+			let $ofdw := "<T" || substring-after($origFileData, '<T')
+			let $d2 := replace($ofdw, "&amp;([^;]+);", "ln:$1,")
+			let $data := replace($d2, 'ln:amp,', '&amp;amp;')
+			let $oFDW := util:parse($data)
+			
 			let $xslt := doc('/db/apps/edoc/data/repertorium/xslt/p4p5.xsl')
 			
 			let $params := <parameters>
