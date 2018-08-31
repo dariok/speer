@@ -4,16 +4,9 @@
 	xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.0"
 	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
 	
+	<!-- Bearbeier:DK = Dario Kampkaspar <dario.kampkaspar@oeaw.ac.at> -->
+	
 	<xsl:param name="fileid"/>
-	
-	<!-- **
-				* Conversion from TEI P4 to P5
-				* Herzog August Bibliothek Wolfenbüttel - - Wolfenbüttler Digitale Bibliothek
-				* Editor:DK Dario Kampkaspar, kampkaspar@hab.de
-				* This script may be used, distributed and changed freely as long as the author and the library are
-				* properly credited and further usage of this and any derived scripts is granted free of charge. 
-				**-->
-	
 	<!-- Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK -->
 	<!-- TODO nicht benötigte entfernen; 2016-11-02 DK -->
 	
@@ -44,9 +37,7 @@
 			<xsl:if test="not(*:revisionDesc)">
 				<revisionDesc>
 					<xsl:element name="change">
-						<xsl:attribute name="when">
-                            <xsl:value-of select="$today"/>
-                        </xsl:attribute>
+						<xsl:attribute name="when" select="$today"/>
 						<xsl:attribute name="who">p4p5.xsl</xsl:attribute>
 						<xsl:variable name="max_n">
 							<xsl:choose>
@@ -72,8 +63,9 @@
 			<xsl:apply-templates/>
 			<xsl:if test="not(*:publicationStmt) or normalize-space(*:publicationStmt)=''">
 				<publicationStmt>
+					<editor>Heino Speer</editor>
 					<publisher>
-						<ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+						<ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
 					</publisher>
 				</publicationStmt>
 			</xsl:if>
