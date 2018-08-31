@@ -36,6 +36,7 @@ let $filename := if (request:get-uploaded-file-name('file'))
 			let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
 			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $resultData)
 			let $perm := sm:chown($store, 'repertorium:repertorium')
+			let $mod := sm:chmod($store, 'rw-rw-r--')
 			let $id := $resultData/@xml:id
 			let $title := if (contains($resultData//tei:title[1], '::'))
 				then normalize-space(substring-before($resultData//tei:title[1], '::'))
