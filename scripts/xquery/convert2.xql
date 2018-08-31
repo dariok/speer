@@ -1,8 +1,8 @@
 xquery version "3.0";
 
 declare namespace tei		= "http://www.tei-c.org/ns/1.0";
-declare namespace mets	= "http://www.loc.gov/METS/";
 declare namespace xlink	= "http://www.w3.org/1999/xlink";
+declare namespace meta	= "https://github.com/dariok/wdbplus/wdbmeta";
 
 let $filename := if (request:get-uploaded-file-name('file'))
 		then request:get-uploaded-file-name('file')
@@ -16,7 +16,7 @@ let $filename := if (request:get-uploaded-file-name('file'))
 			let $origFileDataWithout := concat('<?xml', substring-after($origFileData, '<?xml'))
 			(: Das Problem der Entitäten muß erst einmal offen bleiben :)
 			let $oFDW := util:parse($origFileDataWithout)
-			let $xslt := doc('/db/edoc/ed000245/xslt/p4p5.xsl')
+			let $xslt := doc('/db/apps/edoc/data/repertorium/xslt/p4p5.xsl')
 			
 			let $params := <parameters>
 					<param name="server" value="eXist"/>
@@ -28,34 +28,28 @@ let $filename := if (request:get-uploaded-file-name('file'))
 				transform:transform($oFDW/*:TEI.2, $xslt, $params, $attr, "expand-xincludes=no") }
 				catch * { '<ul><li> ' || $err:code || ": " || $err:description || '</li>' || "\n " || $err:line-number || ':' || $err:column-number || "\n a:" || $err:additional }
 				
-			let $login := xmldb:login('/db/edoc/ed000245/texts', 'guest', 'adf')
-			let $store := xmldb:store('/db/edoc/ed000245/texts', $filename, $resultData)
-			let $perm := sm:chown($store, 'guest:ed000245')
+			let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
+			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $resultData)
+			let $perm := sm:chown($store, 'repertorium:repertorium')
 			let $id := $resultData/@xml:id
 			let $title := if (contains($resultData//tei:title[1], '::'))
 				then normalize-space(substring-before($resultData//tei:title[1], '::'))
 				else normalize-space($resultData//tei:title[1])
-			let $location := substring-after($store, '245/')
+			let $location := substring-after($store, 'texts/')
 			
 			(: Daten in die METS einfügen :)
-			let $mets := doc('/db/edoc/ed000245/mets.xml')
-			let $lastOrder := $mets//mets:div[@ORDER and position()=last()]/@ORDER
-			let $order := format-number($lastOrder + 1, '000')
-			let $metsFile :=
-				<mets:file ID="{$id}" MIMETYPE="application/xml">
-					<mets:FLocat LOCTYPE="URL" xlink:href="{$location}"/>
-				</mets:file>
-			let $metsDiv :=
-				<mets:div LABEL="{$title}" ID="edoc_ed000245_{$order}" ORDER="{$order}">
-					<mets:fptr FILEID="{$id}"/>
-				</mets:div>
-			let $upd1 := if (not($mets//mets:file[@ID=$id]))
-				then update insert $metsFile into $mets//mets:fileGrp[@ID='transcript']
+			let $meta := doc('/db/apps/edoc/data/repertorium/wdbmeta.xml')
+			let $file := <file xmlns="https://github.com/dariok/wdbplus/wdbmeta" path="{concat('texts/',$location)}"
+				xml:id="{$id}"/>
+			let $view := <view xmlns="https://github.com/dariok/wdbplus/wdbmeta" label="{$title}" file="{$id}"/>
+			
+			let $upd1 := if (not($meta//meta:file[@xml:id=$id]))
+				then update insert $file into $meta//meta:files
 				else ()
-			let $upd2 := if ($mets//mets:div[mets:fptr[@FILEID=$id]])
-				then update replace $mets//mets:div[mets:fptr[@FILEID=$id]]/@LABEL with $title
-				else update insert $metsDiv into $mets//mets:div[@ID='edoc_ed000245_dokumente']
-			let $target := concat('/edoc/view.html?id=', $id)
+			let $upd2 := if ($meta//meta:view[@file = $id])
+				then update replace $meta//meta:view[@file = $id]/@label with $title
+				else update insert $view into $meta//meta:struct[@label = 'repertorium']
+			let $target := concat('view.html?id=', $id)
 			return response:redirect-to($target)
 		else 
 			<h1>nee</h1>

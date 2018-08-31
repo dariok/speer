@@ -1,12 +1,12 @@
 xquery version "3.0";
 
-module namespace habq = "http://diglib.hab.de/ns/habq";
+module namespace habq = "https://github.com/dariok/wdbplus/wdbq";
 
-declare function habq:query() {
-	let $collection := '/db/edoc/ed000245'
+declare function habq:query($map) {
+	let $collection := '/db/apps/edoc/data/repertorium'
 	return
 		<div id="content">
-			<form enctype="multipart/form-data" method="post" action="ed000245/scripts/xquery/convert2.xql">
+			<form enctype="multipart/form-data" method="post" action="data/repertorium/scripts/xquery/convert2.xql">
 				<fieldset>
 					<legend>Upload von TEI-P4-Dateien:</legend>
 					<input type="file" name="file"/>
