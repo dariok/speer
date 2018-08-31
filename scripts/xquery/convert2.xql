@@ -49,7 +49,7 @@ let $filename := if (request:get-uploaded-file-name('file'))
 			let $upd2 := if ($meta//meta:view[@file = $id])
 				then update replace $meta//meta:view[@file = $id]/@label with $title
 				else update insert $view into $meta//meta:struct[@label = 'repertorium']
-			let $target := concat('view.html?id=', $id)
+			let $target := concat('/exist/apps/edoc/view.html?id=', $id)
 			return response:redirect-to($target)
 		else 
 			<h1>nee</h1>
