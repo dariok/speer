@@ -1,4 +1,8 @@
-<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei date">
+<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.0"
+	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
 	
 	<xsl:param name="fileid"/>
 	
@@ -206,7 +210,7 @@
 					<xsl:value-of select="concat('n', @n)"/>
 				</xsl:variable>
 				<xsl:choose>
-					<xsl:when test="@n and $n castable as xs:ID">
+					<xsl:when test="@n">
 						<xsl:value-of select="$n"/>
 					</xsl:when>
 					<xsl:otherwise>
@@ -872,7 +876,7 @@
 	<xsl:template match="@id">
 		<xsl:attribute name="xml:id">
 			<xsl:choose>
-				<xsl:when test=". castable as xs:float">
+				<xsl:when test=". castable as xs:float or matches(., '^\d')">
 					<xsl:value-of select="concat('a', .)"/>
 				</xsl:when>
 				<xsl:otherwise>
