@@ -12,8 +12,7 @@
   </publicationStmt>
   </fileDesc>
  <revisionDesc>
-  <change when="2017-05-11+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5
-						by p4p5.xsl. </change>
+  <change when="2017-05-11+02:00" who="p4p5.xsl" n="1"> Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
   </revisionDesc>
   </teiHeader>
   <text>
@@ -41,7 +40,7 @@
   <cell/>
   </row>
   <row>
-      <cell>v. Below:</cell> <cell>Die Ursachen der Rezeption des römischen Rechtes in Deutschland, München und Berlin 1905. [<ref target="http://repertorium.at/pdf/below_ursachen_1905.pdf">PDF-Datei Repertorium</ref>]</cell> <cell/>
+      <cell>v. Below:</cell> <cell>Die Ursachen der Rezeption des römischen Rechtes in Deutschland, München und Berlin 1905. [<ref target="http://repertorium.at/img/below_ursachen_1905/index.html">Digitalisat Repertorium</ref>]</cell> <cell/>
   </row>
   <row>
   <cell>Bömer:</cell> <cell>Das literarische Leben in Münster bis zur endgültigen Rezeption des Humanismus, aus der Festschrift der Universitätsbibliothek, Münster 1906</cell> <cell/>

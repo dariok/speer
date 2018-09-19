@@ -2,8 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Albrecht II. von Österreich, Landesordnung für Kärnten 1338 (= Schwind-Dopsch 175-177) ::
-                    Transkription Speer 2012 / 2016</title>
+                <title>Albrecht II. von Österreich, Landesordnung für Kärnten 1338 (= Schwind-Dopsch 175-177) :: Transkription Speer 2012 / 2016</title>
                 <author>Albrecht II. von Österreich</author>
             </titleStmt>
             <publicationStmt>
@@ -26,94 +25,34 @@
             <div xml:id="T.0">
                 <head>Herzog Albrecht II. von Oesterreich erlässt eine Landesordnung für Kärnthen</head>
                 <p>
-                    <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="175" facs="ln:schwind-dopsch,"/> Or. (A) u. K. s. XV (B) StA. Wien.<note xml:id="n1" type="footnote" n="1">Von
-                        demselben Tage eine gleiche Landesordnung für Krain [Or. StA. Wien — <ref>Krainer Landhandfesten
-                            (1598) S. 2</ref>; <ref target="https://books.google.at/books?id=aUtmAAAAcAAJ">1687 S.
-                            3</ref>. &amp; <ref>Lichnowsky-Birk 3, Reg. n°. 1171</ref>.</note> Graz 1338 September 14. </p>
+                    <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="175" facs="ln:schwind-dopsch,"/> Or. (A) u. K. s. XV (B) StA. Wien.<note xml:id="n1" type="footnote" n="1">Von demselben Tage eine gleiche Landesordnung für Krain [Or. StA. Wien — <ref>Krainer Landhandfesten (1598) S. 2</ref>; <ref target="https://books.google.at/books?id=aUtmAAAAcAAJ">1687 S. 3</ref>. &amp; <ref>Lichnowsky-Birk 3, Reg. n°. 1171</ref>.</note> Graz 1338 September 14. </p>
                 <p>
-                    <ref target="https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/view.html?id=edoc_ed000245_1338_kaernten_ankershofen">Ankershofen, Kärnthner A. 3,53 (A).</ref> — <ref>Lichnowsky-Birk 3, Reg. n° 1170.</ref> Vgl.
-                    neben dem Berichte <rs type="person" ref="#viktring_johann">Johannes' von Viktring</rs>
-                        (<ref>Böhmer, FRG. 1, 434</ref>: <ref>Muchar 6, 280 Anm. 4</ref>; <ref>Ankershofen, a. a. O.
-                        43.</ref>
+                    <ref target="https://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/view.html?id=edoc_ed000245_1338_kaernten_ankershofen">Ankershofen, Kärnthner A. 3,53 (A).</ref> — <ref>Lichnowsky-Birk 3, Reg. n° 1170.</ref> Vgl. neben dem Berichte <rs type="person" ref="#viktring_johann">Johannes' von Viktring</rs> (<ref>Böhmer, FRG. 1, 434</ref>: <ref>Muchar 6, 280 Anm. 4</ref>; <ref>Ankershofen, a. a. O. 43.</ref>
                 </p>
             </div>
             <div xml:id="T.1">
-                <p>Wir Albrêcht von gots gnaden herczog ze Oesterich ze Steyr und ze Chernden herr ze Chrain auf der
-                    Marich und ze Portnawe graf ze Habspurch und ze Kybuerch lantgraf in obern Elsazzen und graf ze
-                    Phirtt veriehen und tuen chunt offenlich mit disem brief allen den die ietzund lebend und die
-                    hernach chumftig werdent, das fuer uns chomen unser getrewen lieben unser lantherren ritter und
-                    chnecht von unserm lande ze Chernden und paten uns vlizsichlich, das wier seu von besundern gnaden
-                    bei etlichen alten gewonhaiten die si von alter herpracht hieten, liezzen beleiben, und daz wir in
-                    darczue von newen dingen etlicheu recht geben.</p>
-                <p>Nu haben wier angesehen ier ernstlich pête, wan ez ouch uns unserm lande und unsern leuten ze
-                    Chernden nutz und noetduerftig ist, und haben in ireu recht gegeben in solicher weis, als hernach
-                    geschriben stet.</p>
-                <p>Der ersten, swer bei gutem gericht und mit stiller gewêr ein aygen herpracht hat dreizzig iar und
-                    ainen tag, ain lehen zwelf iar und einen tag, ein purchrecht iar und tag, mag er das fuerbringen, do
-                    hat er fuerbaz recht dartzue.</p>
-                <p>Wer auch daz dhainer einen gewalt chlait, den sol er bewêrn selbdritte; tuet er das, so muez êner den
-                    gewalt pezzern selbander; ist aber daz der dreyr ainer abget, so ist êner des gewaltes ledig.</p>
-                <p>Wier wellen ouch, swaz ein man in unserm lande ze Chernden in nutz und in unroublicher gewêr
-                    herpracht hat, daz in dez niemant entwêr noch davon treib, denn mit dem rechtem alain.</p>
-                <p>Ist ouch daz iemand den andern anspricht umb lehen, der sol die verantwuerten vor dem herren, da er
-                    si von ze lehen hat. Wolt es aber der lêhenherr vertziehen, so mugen wier ez selben gerichten.</p>
-                <p>Wier sullen ouch selben, oder der dem wir ez enphelhen an unserr stat, richten umb lehen und umb
-                    aygen ze vier taegen ie uber sechs wochen. Man sol ouch in der schranne niemand haizzen stille sten,
-                    der in dem lande wol gesezzen ist, umb lehen und umb aygen, er bring in danne mit fuerbot und mit
-                    chlag fuer daz gericht.</p>
-                <p>Ouch wellen wier ob ein gepower ichtes tuet, damit er den hals verwaricht hat, umb welicherlay sache
-                    daz sei, daz des sein herr nicht entgelt swer der sei, an seinem aygen oder an seinem guet; der
-                    richter soll seines leibes varen mit dem rechten und sol dem herren sein guet mit gemache
-                    lazzen.</p>
-                <p>Tuet aber einer einen toetslag und chumt er davon, der ist dem obristem gericht vervallen dreizzig
-                    mark und dem nidern gericht sechtzig phenning und huet sich voer sinen veinden und voer dem
-                    geschray. Wirt er aber begriffen, so ist hals wider hals oder er lose sich, wie er stat an dem
-                    lantsherren vindet, und sol des sein hausvrowe und siner chind nicht entgelten an dem guet.</p>
-                <p>Wer aber ieman der ze Chernden guet hiet gelegen und in dem lande nicht gesezzen wer, der sol das
-                    verantwuertten ze Chernden, da das guet gelegen ist, voer dem gericht, da man umb ander guet
-                    verhoret. Ist aber, daz ein gast chumt gen Chernden in das lande und vordert ein recht an einen
-                    lantsman, der sol demselben recht hinwider tuen, da er recht von nemen wil, an derselben stat umb
-                    sogetan sache, darumb er ez billeich tuen sol.</p>
-                <p>Ouch wellen wir umb aygen und umb lehen die von uns sint, daz darumb nieman gerichten noch verhoren
-                    mug, denn wier selben oder unser houptman oder wem wier ez enphelhen. Wem auch unser houptman
-                    enphilicht ze richten umb gult und umb newe auflouff, der mag das wol verhoeren und gerichten.</p>
-                <p>Ez sullen ouch die grâfen, die in dem lande ze Chernden gesessen sint, recht voer unser oder voer
-                    unserm houptman tuen, umb swecz man hintz in ze sprechen hat.</p>
-                <p>So sullen die richter, so si daz gericht enphahent, swern, daz si recht richten dem armen als dem
-                    reichen und nicht durch lieb; si sullen auch nieman umb dhain puezze phenden, er vevalle ier ê voer
-                    gericht, und sol der richter dieselben puezze in viertzehen tagen nemen.</p>
-                <p>Es sullen ouch alle leut in unserm lande ze Chernden ze gemeinen taegen gen dri stund in dem iar in
-                    allen unsern lantgerichten und sagen bei dem ayde, den si da sweren muezzen, ob icht schedliches
-                    oder ungerichttes sei in dem lande, und ob icht sei, daz dem gericht ze pezzern ist.</p>
-                <p>Wer ouch dahin nicht chomen mochte vor ehafter noet, der mag sich der wol bereden. Chumt er aber
-                    nicht, in ierr dann ehaft noet, so sol er puezwaertig sein, und sullen ouch die zwen phenning, di ze
-                    puezze wilent geben sint, ab sein. Ouch sullent der lantrichter poten nieman fuergepieten, denn da
-                    der man gesezzen ist ze hous und ze hof, und anderswa nicht. Man sol ouch di leut ê vor gericht
-                    bechlagen, ê man si verpiete.</p>
-                <p>Phendet ouch der richter auf ein guet, das eines andern mannes ist, und mag derselb man daz bestêten
-                    das ez sein sei, dem sol der richter das widergeben an der stat.</p>
-                <p>Ouch habent unser dienstherren ze Chernden die recht, daz si das recht tuen mugent uber ier biderb
-                    diener umb gult umb gelubde und ouch umb schaden. Ez sol ouch ieder man hintz seinen gepowren das
-                    recht tuen umb die sache die auf sinem guet beschehent, an alain umb die sache die an den toed gent;
-                    ez wer dann, daz daz recht von des gepowren herren wuert vertzigen, so mag unser richter daruber
-                    richten.</p>
-                <p>Was auch dienstherren ist die stoek und galgen habent, und begriffen si dhainen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="177" facs="ln:schwind-dopsch,"/> in irm gericht der dem lande schedlich ist, daz mugen si wol verhoren und ouch
-                    richten. Swa ouch ein noetzog geschiecht in unserm lande ze Chernden, mag man den war gemachen mit
-                    zwain, ez sein weib oder man, sein entgelt êner an dem hals, und sol man demselben den hals
-                    abstozzen mit einer dillen.</p>
-                <p>Wiert aber ein strazrouber begriffen mit der hanthaft, dem mag man mit zwain den hals anbehaben;
-                    begreiffet man in aber an die hanthaft, so muez man in mit sibenn ubersagen; und demselben
-                    strazrouber sol man den hals abslahen.</p>
+                <p>Wir Albrêcht von gots gnaden herczog ze Oesterich ze Steyr und ze Chernden herr ze Chrain auf der Marich und ze Portnawe graf ze Habspurch und ze Kybuerch lantgraf in obern Elsazzen und graf ze Phirtt veriehen und tuen chunt offenlich mit disem brief allen den die ietzund lebend und die hernach chumftig werdent, das fuer uns chomen unser getrewen lieben unser lantherren ritter und chnecht von unserm lande ze Chernden und paten uns vlizsichlich, das wier seu von besundern gnaden bei etlichen alten gewonhaiten die si von alter herpracht hieten, liezzen beleiben, und daz wir in darczue von newen dingen etlicheu recht geben.</p>
+                <p>Nu haben wier angesehen ier ernstlich pête, wan ez ouch uns unserm lande und unsern leuten ze Chernden nutz und noetduerftig ist, und haben in ireu recht gegeben in solicher weis, als hernach geschriben stet.</p>
+                <p>Der ersten, swer bei gutem gericht und mit stiller gewêr ein aygen herpracht hat dreizzig iar und ainen tag, ain lehen zwelf iar und einen tag, ein purchrecht iar und tag, mag er das fuerbringen, do hat er fuerbaz recht dartzue.</p>
+                <p>Wer auch daz dhainer einen gewalt chlait, den sol er bewêrn selbdritte; tuet er das, so muez êner den gewalt pezzern selbander; ist aber daz der dreyr ainer abget, so ist êner des gewaltes ledig.</p>
+                <p>Wier wellen ouch, swaz ein man in unserm lande ze Chernden in nutz und in unroublicher gewêr herpracht hat, daz in dez niemant entwêr noch davon treib, denn mit dem rechtem alain.</p>
+                <p>Ist ouch daz iemand den andern anspricht umb lehen, der sol die verantwuerten vor dem herren, da er si von ze lehen hat. Wolt es aber der lêhenherr vertziehen, so mugen wier ez selben gerichten.</p>
+                <p>Wier sullen ouch selben, oder der dem wir ez enphelhen an unserr stat, richten umb lehen und umb aygen ze vier taegen ie uber sechs wochen. Man sol ouch in der schranne niemand haizzen stille sten, der in dem lande wol gesezzen ist, umb lehen und umb aygen, er bring in danne mit fuerbot und mit chlag fuer daz gericht.</p>
+                <p>Ouch wellen wier ob ein gepower ichtes tuet, damit er den hals verwaricht hat, umb welicherlay sache daz sei, daz des sein herr nicht entgelt swer der sei, an seinem aygen oder an seinem guet; der richter soll seines leibes varen mit dem rechten und sol dem herren sein guet mit gemache lazzen.</p>
+                <p>Tuet aber einer einen toetslag und chumt er davon, der ist dem obristem gericht vervallen dreizzig mark und dem nidern gericht sechtzig phenning und huet sich voer sinen veinden und voer dem geschray. Wirt er aber begriffen, so ist hals wider hals oder er lose sich, wie er stat an dem lantsherren vindet, und sol des sein hausvrowe und siner chind nicht entgelten an dem guet.</p>
+                <p>Wer aber ieman der ze Chernden guet hiet gelegen und in dem lande nicht gesezzen wer, der sol das verantwuertten ze Chernden, da das guet gelegen ist, voer dem gericht, da man umb ander guet verhoret. Ist aber, daz ein gast chumt gen Chernden in das lande und vordert ein recht an einen lantsman, der sol demselben recht hinwider tuen, da er recht von nemen wil, an derselben stat umb sogetan sache, darumb er ez billeich tuen sol.</p>
+                <p>Ouch wellen wir umb aygen und umb lehen die von uns sint, daz darumb nieman gerichten noch verhoren mug, denn wier selben oder unser houptman oder wem wier ez enphelhen. Wem auch unser houptman enphilicht ze richten umb gult und umb newe auflouff, der mag das wol verhoeren und gerichten.</p>
+                <p>Ez sullen ouch die grâfen, die in dem lande ze Chernden gesessen sint, recht voer unser oder voer unserm houptman tuen, umb swecz man hintz in ze sprechen hat.</p>
+                <p>So sullen die richter, so si daz gericht enphahent, swern, daz si recht richten dem armen als dem reichen und nicht durch lieb; si sullen auch nieman umb dhain puezze phenden, er vevalle ier ê voer gericht, und sol der richter dieselben puezze in viertzehen tagen nemen.</p>
+                <p>Es sullen ouch alle leut in unserm lande ze Chernden ze gemeinen taegen gen dri stund in dem iar in allen unsern lantgerichten und sagen bei dem ayde, den si da sweren muezzen, ob icht schedliches oder ungerichttes sei in dem lande, und ob icht sei, daz dem gericht ze pezzern ist.</p>
+                <p>Wer ouch dahin nicht chomen mochte vor ehafter noet, der mag sich der wol bereden. Chumt er aber nicht, in ierr dann ehaft noet, so sol er puezwaertig sein, und sullen ouch die zwen phenning, di ze puezze wilent geben sint, ab sein. Ouch sullent der lantrichter poten nieman fuergepieten, denn da der man gesezzen ist ze hous und ze hof, und anderswa nicht. Man sol ouch di leut ê vor gericht bechlagen, ê man si verpiete.</p>
+                <p>Phendet ouch der richter auf ein guet, das eines andern mannes ist, und mag derselb man daz bestêten das ez sein sei, dem sol der richter das widergeben an der stat.</p>
+                <p>Ouch habent unser dienstherren ze Chernden die recht, daz si das recht tuen mugent uber ier biderb diener umb gult umb gelubde und ouch umb schaden. Ez sol ouch ieder man hintz seinen gepowren das recht tuen umb die sache die auf sinem guet beschehent, an alain umb die sache die an den toed gent; ez wer dann, daz daz recht von des gepowren herren wuert vertzigen, so mag unser richter daruber richten.</p>
+                <p>Was auch dienstherren ist die stoek und galgen habent, und begriffen si dhainen <tei:pb xmlns:tei="http://www.tei-c.org/ns/1.0" n="177" facs="ln:schwind-dopsch,"/> in irm gericht der dem lande schedlich ist, daz mugen si wol verhoren und ouch richten. Swa ouch ein noetzog geschiecht in unserm lande ze Chernden, mag man den war gemachen mit zwain, ez sein weib oder man, sein entgelt êner an dem hals, und sol man demselben den hals abstozzen mit einer dillen.</p>
+                <p>Wiert aber ein strazrouber begriffen mit der hanthaft, dem mag man mit zwain den hals anbehaben; begreiffet man in aber an die hanthaft, so muez man in mit sibenn ubersagen; und demselben strazrouber sol man den hals abslahen.</p>
                 <p>Man ubersagt ouch wol einen moerder mit zwain und richtet und pezzert hintz im mit dem ratte.</p>
-                <p>Den valscher, der mit der hanthaft begriffen wiert, den sol man ubersagen mit zwain und sol in
-                    darnach sêczen auf einen roest. Aber einen dieb, der nicht begriffen ist mit der hanthaft, den sol
-                    man ubersagen mit sibenn und sol in dann henchen an ainen galgen. Ouch wellen wier, daz alle herren
-                    dienstleut und ander edel leut ze Chernden in allen andern sachen, die hie nicht verschriben sint,
-                    richten nach dem recht, als unser herren und edel leut in unserm lande ze Steyr.</p>
-                <p>Und daz diseu recht elleu, als si von wart ze wart in disem brief geschriben sint, also stet und
-                    unzebrochen beliben, daruber so geben wier disen prief besigelten mit unserm insigel, der geben ist
-                    ze Gretz an des heiligen chreuzes tag ze herbst, do man zalt von Christes gebuerd tausent
-                    dreuhundert iar darnach in dem aecht und dreizgisten iar.</p>
+                <p>Den valscher, der mit der hanthaft begriffen wiert, den sol man ubersagen mit zwain und sol in darnach sêczen auf einen roest. Aber einen dieb, der nicht begriffen ist mit der hanthaft, den sol man ubersagen mit sibenn und sol in dann henchen an ainen galgen. Ouch wellen wier, daz alle herren dienstleut und ander edel leut ze Chernden in allen andern sachen, die hie nicht verschriben sint, richten nach dem recht, als unser herren und edel leut in unserm lande ze Steyr.</p>
+                <p>Und daz diseu recht elleu, als si von wart ze wart in disem brief geschriben sint, also stet und unzebrochen beliben, daruber so geben wier disen prief besigelten mit unserm insigel, der geben ist ze Gretz an des heiligen chreuzes tag ze herbst, do man zalt von Christes gebuerd <date when="1338">tausent dreuhundert iar darnach in dem aecht und dreizgisten</date> iar.</p>
             </div>
         </body>
     </text>
