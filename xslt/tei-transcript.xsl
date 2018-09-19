@@ -8,7 +8,7 @@
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
-	<xsl:import href="tei-common.xsl?11"/>
+	<xsl:import href="tei-common.xsl?12"/>
 	
 	<xsl:template match="/" mode="content">
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
@@ -85,29 +85,16 @@
 	<xsl:template match="tei:head">
 		<xsl:variable name="lev">
 			<xsl:choose>
-				<xsl:when test="@type='subheading'">5</xsl:when>
-				<xsl:otherwise>4</xsl:otherwise>
+				<xsl:when test="@type='subheading'">3</xsl:when>
+				<xsl:otherwise>2</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
 		<xsl:element name="h{$lev}">
-			<xsl:attribute name="id">hd<xsl:number level="any"/>
-            </xsl:attribute>
-			<xsl:if test="(@rend = 'inline' or @place = 'margin') and (contains(., ' ') or contains(., '&#x9;'))">
-				<xsl:call-template name="footnoteLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-					<xsl:with-param name="position">a</xsl:with-param>
-				</xsl:call-template>
-			</xsl:if>
-			<xsl:if test="preceding-sibling::*[1][self::tei:pb]     or (preceding-sibling::*[1][self::tei:note[@place='margin']] and preceding-sibling::*[2][self::tei:pb])">
+			<xsl:attribute name="id">hd<xsl:number level="any"/></xsl:attribute>
+			<xsl:if test="preceding-sibling::*[1][self::tei:pb]">
 				<xsl:apply-templates select="preceding-sibling::tei:pb[1]" mode="head"/>
 			</xsl:if>
-			<xsl:apply-templates/>
-			<xsl:apply-templates select="preceding-sibling::tei:note[@place = 'margin']"/>
-			<xsl:if test="(@rend = 'inline' or @place = 'margin') and (contains(., ' ') or contains(., '&#x9;'))">
-				<xsl:call-template name="footnoteLink">
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:call-template>
-			</xsl:if>
+			<xsl:apply-templates/>	
 			<a href="javascript:$('#wdbContent').scrollTop(0);" class="upRef">↑</a>
 		</xsl:element>
 	</xsl:template>

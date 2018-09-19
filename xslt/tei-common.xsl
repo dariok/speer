@@ -167,7 +167,7 @@
 	<!-- grundsätzlich alle Fußnoten ausgeben; 2016-03-18 DK -->
 	<!-- umgestellt auf template footnoteLink; 2016-05-19 DK -->
 	<!-- ausgelagert nach common; 2016-05-23 DK -->
-	<xsl:template match="tei:note[@type='footnote']">
+	<xsl:template match="tei:note[@type='footnote' or not(@type)]">
 		<xsl:call-template name="footnoteLink">
 			<xsl:with-param name="type">fn</xsl:with-param>
 			<xsl:with-param name="position">t</xsl:with-param>
@@ -739,10 +739,14 @@
 		<xsl:variable name="fn">
 			<xsl:choose>
 				<xsl:when test="$context/ancestor::tei:seg[@type='paraphrase']">
-					<xsl:value-of select="count($context/preceding::tei:note[@type='footnote']       | $context/preceding::tei:seg[@type='paraphrase']       | $context/preceding::tei:ptr[parent::tei:cit])+2"/>
+					<xsl:value-of select="count($context/preceding::tei:note[@type='footnote' or not(@type)]
+							| $context/preceding::tei:seg[@type='paraphrase']
+							| $context/preceding::tei:ptr[parent::tei:cit])+2"/>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:value-of select="count($context/preceding::tei:note[@type='footnote']       | $context/preceding::tei:seg[@type='paraphrase']       | $context/preceding::tei:ptr[parent::tei:cit])+1"/>
+					<xsl:value-of select="count($context/preceding::tei:note[@type='footnote' or not(@type)]
+						| $context/preceding::tei:seg[@type='paraphrase']
+						| $context/preceding::tei:ptr[parent::tei:cit])+1"/>
 				</xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
@@ -826,7 +830,9 @@
 		<div id="FußnotenApparat">
 			<!-- überflüssiges a gelöscht; 2016-05-31 DK -->
 			<hr class="fnRule"/>
-			<xsl:for-each select="/tei:TEI/tei:text//tei:note[@type='footnote']     | /tei:TEI/tei:text//tei:seg[@type='paraphrase'] | /tei:TEI/tei:text//tei:cit/tei:ptr">
+			<xsl:for-each select="/tei:TEI/tei:text//tei:note[@type='footnote' or not(@type)]
+					| /tei:TEI/tei:text//tei:seg[@type='paraphrase']
+					| /tei:TEI/tei:text//tei:cit/tei:ptr">
 				<xsl:variable name="number">
 					<xsl:call-template name="fnumberFootnotes"/>
 				</xsl:variable>
