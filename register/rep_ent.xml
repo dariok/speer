@@ -7810,7 +7810,7 @@
 <!-- adb --> <item xml:id="adb">http://www.deutsche-biographie.de/</item>
 <!-- adler_1886 25 addieren  -->
                 <!--<item xml:id="adler_1886">http://archive.org/stream/dieorganisation00adlegoog#page/n</item>-->
-                <item xml:id="adler_1886">https://repertorium-images.hephaistos.arz.oeaw.ac.at/adler_cv_max_1886/adler_cv_max_1886_</item>
+                <item xml:id="adler_1886">https://repertorium-images.acdh-dev.oeaw.ac.at/adler_cv_max_1886/adler_cv_max_1886_</item>
 <!-- adlerflycht_privatrecht_1-2 --> <item xml:id="adlerflycht_privatrecht_1-2">http://dlib-pr.mpier.mpg.de/mfer-cgi/kleioc/0010MFER/exec/books/"94465"</item>
 <!-- adlerflycht_privatrecht_3-4 --> <item xml:id="adlerflycht_privatrecht_3-4">http://dlib-pr.mpier.mpg.de/m/kleioc/0010/exec/books/"94467"</item>
 <!-- agenda_1571 --> <item xml:id="agenda_1571">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10197392-1</item>
@@ -7907,7 +7907,7 @@
 <!-- below_1905 --> <item xml:id="below_1905">http://repertorium.at/pdf/below_ursachen_1905.pdf</item>
 <!-- below_1905_seite Seite 3stellig + ".jpg " -->
                 <!--<item xml:id="below_1905_seite">http://drqerg.drqedit.de/DRQI/Below_Ursachen_1905_</item>-->
-                <item xml:id="below_1905_seite">https://repertorium-images.hephaistos.arz.oeaw.ac.at/below_ursachen_1905/below_ursachen_1905_</item>
+                <item xml:id="below_1905_seite">https://repertorium-images.acdh-dev.oeaw.ac.at/below_ursachen_1905/below_ursachen_1905_</item>
 <!-- below_territorium --> <item xml:id="below_territorium_1900">https://archive.org/stream/territoriumundst00belo#page/n5/mode/2up</item>
 <!-- bemel_trakttestam_1587 --> <item xml:id="bemel_trakttestam_1587">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Bemel,TraktTestam. 1587</item>
 <!-- bergmann_pillius --> <item xml:id="bergmann_pillius">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10510996-7</item>
@@ -7965,7 +7965,7 @@
 <!-- braunschweigwolfenbuettelhofgo_1571 --> <item xml:id="braunschweigwolfenbuettelhofgo_1571">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BraunschweigWolfenbuettelHofGO. 1571</item>
 <!-- bremenordn_1534 --> <item xml:id="bremenordn_1534">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BremenOrdn. 1534</item>
 <!-- bremer_1894 --> <item xml:id="bremer_1894">http://drqerg.drqedit.de/DRQH/bremer_1894.html#</item>
-                <item xml:id="bremer_cantiuncula_1894">https://repertorium-images.hephaistos.arz.oeaw.ac.at/bremer_cantiuncula_1894/bremer_cantiuncula_1894_</item>
+                <item xml:id="bremer_cantiuncula_1894">https://repertorium-images.acdh-dev.oeaw.ac.at/bremer_cantiuncula_1894/bremer_cantiuncula_1894_</item>
 <!-- breslaugo_1591 --> <item xml:id="breslaugo_1591">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauGO. 1591</item>
 <!-- breslaustat_1578 --> <item xml:id="breslaustat_1578">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauStat. 1578</item>
 <!-- breslaustat_1588 --> <item xml:id="breslaustat_1588">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=BreslauStat. 1588</item>
@@ -8200,7 +8200,7 @@
 <!-- heider_notariat_1586 --> <item xml:id="heider_notariat_1586">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Heider,Notariat 1586</item>
 <!-- heilbronnstat_1541 --> <item xml:id="heilbronnstat_1541">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=HeilbronnStat. 1541</item>
 <!-- heiligenberglgo_1580 --> <!--<item xml:id="heiligenberglgo_1580">http://repertorium/qu/1580_heiligenberglgo.html</item>-->
-                <item xml:id="heiligenberglgo_1580">https://repertorium-images.hephaistos.arz.oeaw.ac.at/heiligenberglgo_1580/heiligenberglgo_1580_</item>
+                <item xml:id="heiligenberglgo_1580">https://repertorium-images.acdh-dev.oeaw.ac.at/heiligenberglgo_1580/heiligenberglgo_1580_</item>
 <!-- heinke_noelehenr_1 --> <item xml:id="heinke_noelehenr_1">http://reader.digitale-sammlungen.de/resolve/display/bsb10413697.html</item>
 <!-- heinke_noelehenr_2 --> <item xml:id="heinke_noelehenr_2">http://reader.digitale-sammlungen.de/resolve/display/bsb10413698.html</item>
 <!-- heiss_landschaftsschulen --> <item xml:id="heiss_landschaftsschulen">http://repertorium.at/sl/heiss_landschaftsschulen.html</item>
@@ -8570,7 +8570,7 @@
 <!-- julian_2 +Seitenzahl --> <item xml:id="julian_2">https://archive.org/stream/dictionaryofhymn02lond#page/n</item>
 <!-- jung_gegenreftirol_1874 -->  <item xml:id="jung_gegenreftirol_1874">http://digi.landesbibliothek.at/viewer/resolver?urn=urn:nbn:at:AT-OOeLB-1850486</item>
                 <!-- Jung 1889-->
-                <item xml:id="jung_1889">https://repertorium-images.hephaistos.arz.oeaw.ac.at/jung_1889/jung_1889_</item>
+                <item xml:id="jung_1889">https://repertorium-images.acdh-dev.oeaw.ac.at/jung_1889/jung_1889_</item>
 <!-- justizcodex1 Seitenzahl vierstellig 20 addieren + .html -->
                 <item xml:id="justizcodex1">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10543034_0</item> 
 <!-- justizcodex2 Seitenzahl vierstellig 10 addieren + .html -->
@@ -8894,7 +8894,7 @@
 <!-- neisselo_1549 --> <item xml:id="neisselo_1549">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NeisseLO. 1549 (1570)</item>
 <!-- neuschuez_1936F 3stellig + .jpg --> <item xml:id="neuschuez_1936F">http://drqerg.drqedit.de/DRQI/neuschuez_nuernbref_1936_</item>
 <!-- neuschuez_1936 3stellig + .jpg --> <!--<item xml:id="neuschuez_1936">http://drqerg.drqedit.de/DRQI/neuschüz_nürnbref_1936_</item>-->
-                <item xml:id="neuschuez_1936">https://reporting-images.hephaistos.arz.oeaw.ac.at/neuschuez_1936/neuschüz_nürnbref_1936_</item>
+                <item xml:id="neuschuez_1936">https://reporting-images.acdh-dev.oeaw.ac.at/neuschuez_1936/neuschüz_nürnbref_1936_</item>
 <!-- neuwald_berichtzauberinnen_1584 --> <item xml:id="neuwald_berichtzauberinnen_1584">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Neuwald,BerichtZauberinnen 1584</item>
 <!-- nicoladoni_buenderlin_1888 --> <item xml:id="nicoladoni_buenderlin_1888">http://digi.landesbibliothek.at/resolver?urn=urn:nbn:at:AT-OOeLB-1850074</item>
 <!-- niederlausitzgo_1538 --> <item xml:id="niederlausitzgo_1538">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=NiederlausitzGO. 1538</item>
@@ -9025,7 +9025,7 @@
 <!-- peterka_kauf_1936 --> <item xml:id="peterka_kauf_1936">http://repertorium.at/sl/peterka_kauf_1936.html</item>
 <!-- peterka_1941 --> <item xml:id="peterka_1941">http://repertorium.at/sl/peterka_1941.html</item> 
 <!-- pettaustr --> <item xml:id="pettaustr">http://repertorium.at/qu/1376_pettaustr_bischoff.html</item>
-            	<item xml:id="pettaustr_1376">https://repertorium-images.hephaistos.arz.oeaw.ac.at/1376_pettaustr/1376_pettaustr_</item>
+            	<item xml:id="pettaustr_1376">https://repertorium-images.acdh-dev.oeaw.ac.at/1376_pettaustr/1376_pettaustr_</item>
 <!-- pfaff_schranz_1923 --> <item xml:id="pfaff_schranz_1923">http://repertorium.at/sl/pfaff_schranz_1923.html</item>
 <!-- pfaff_walther_1917 --> <item xml:id="pfaff_walther_1917">http://repertorium.at/sl/pfaff_walther_1917.html</item>
 <!-- pfalzhofgo_1573 --> <item xml:id="pfalzhofgo_1573">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=PfalzHofGO. 1573</item>
@@ -9096,11 +9096,11 @@
 <!-- ramingen_haushaltung_1566 --> <item xml:id="ramingen_haushaltung_1566">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Ramingen,Haushaltung 1566</item>
 <!-- ramingen_registratur_1571 --> <item xml:id="ramingen_registratur_1571">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Ramingen,Registratur 1571</item>
 <!-- rapp_1_1827 --> <!--<item xml:id="rapp_1_1827">http://repertorium.at/pdf/rapp_1_1827.pdf</item>-->
-                <item xml:id="rapp_1_1827">https://repertorium-images.hephaistos.arz.oeaw.ac.at/rapp_1_1827/rapp_1_1827-</item>
+                <item xml:id="rapp_1_1827">https://repertorium-images.acdh-dev.oeaw.ac.at/rapp_1_1827/rapp_1_1827-</item>
 <!-- rapp_2_1829 --> <!--<item xml:id="rapp_2_1829">http://repertorium.at/pdf/rapp_2_1829.pdf</item>-->
-                <item xml:id="rapp_2_1829">https://repertorium-images.hephaistos.arz.oeaw.ac.at/rapp_2_1829/rapp_2_1829-</item>
+                <item xml:id="rapp_2_1829">https://repertorium-images.acdh-dev.oeaw.ac.at/rapp_2_1829/rapp_2_1829-</item>
 <!-- rapp_3_1834 --> <!--<item xml:id="rapp_3_1834">http://repertorium.at/pdf/rapp_3_1834.pdf</item>-->
-                <item xml:id="rapp_3_1834">https://repertorium-images.hephaistos.arz.oeaw.ac.at/rapp_3_1834/rapp_3_1834-</item>
+                <item xml:id="rapp_3_1834">https://repertorium-images.acdh-dev.oeaw.ac.at/rapp_3_1834/rapp_3_1834-</item>
 <!-- ratssekretaersoentw_max_1497 --> <item xml:id="ratssekretaersoentw_max_1497">http://repertorium.at/qu/1497_ratssekretaersoent_max.html</item>
 <!-- rauchdorn_halsgo_1564 --> <item xml:id="rauchdorn_halsgo_1564">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Rauchdorn,HalsGO. 1564</item>
 <!-- raupach_1_1741_onb --> <item xml:id="raupach_1_1741_onb">http://data.onb.ac.at/ABO/+Z185377806</item>
@@ -9174,7 +9174,7 @@
                 <item xml:id="rive_2_1866">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10552341_00</item> 
 <!-- rkanzlo_1498 --> <item xml:id="rkanzlo_1498">http://repertorium.at/qu/1498_reichskanzleio_max.html</item>
 <!-- rkgo_1471 --> <!--<item xml:id="rkgo_1471">http://repertorium.at/qu/1471_kammergo_battenberg.html</item>-->
-    <item xml:id="battenberg_1978">https://repertorium-images.hephaistos.arz.oeaw.ac.at/battenberg_1978/battenberg_1978_</item>
+    <item xml:id="battenberg_1978">https://repertorium-images.acdh-dev.oeaw.ac.at/battenberg_1978/battenberg_1978_</item>
 <!-- rkgo_1495 --> <item xml:id="rkgo_1495">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=RKGO. 1495</item>
 <!-- rkgo_1500F --> <item xml:id="rkgo_1500F">http://diglib.hab.de/inkunabeln/158-quod-2f-3/start.htm?image=00022</item>
 <!-- rkgo_1507 --> <item xml:id="rkgo_1507">http:</item>
@@ -9307,7 +9307,7 @@
                 <item xml:id="schaeffner_1859_roemr">http://reader.digitale-sammlungen.de/resolve/display/bsb10740719_00</item>
 <!-- schenck_go_1530 --> <item xml:id="schenck_go_1530">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Schenck,GO. 1530</item>
 <!-- schenk_1864 --> <!--<item xml:id="schenk_1864">http://drqerg.drqedit.de/DRQI/schenk_1864_001.jpg</item>-->
-                <item xml:id="schenk_1864">https://repertorium-images.hephaistos.arz.oeaw.ac.at/schenk_1864/schenk_1864_</item>
+                <item xml:id="schenk_1864">https://repertorium-images.acdh-dev.oeaw.ac.at/schenk_1864/schenk_1864_</item>
 <!-- scheubelin_arbor_1586 --> <item xml:id="scheubelin_arbor_1586">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Scheubelin,Arbor 1586</item>
 <!-- schladmingbergbrief --> <item xml:id="schladmingbergbrief">http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=dig&amp;darstellung=v&amp;index=buecher&amp;term=Schwind-Dopsch&amp;seite=g310-311</item>
 <!-- schleslo_1577 --> <item xml:id="schleslo_1577">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=SchlesLO. 1577</item>
@@ -9446,11 +9446,11 @@
 <!-- strobl-albeg_1908 --> <item xml:id="strobl-albeg_1908">https://archive.org/stream/dasobersthofmar02viengoog</item>
 <!-- stubenrauch_1847 + 3stellig +.html--> <item xml:id="stubenrauch_1847">http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10543356_00</item>
                 <!-- stuehlingenlgo_1527 -->
-                <item xml:id="stuehlingenlgo_1527">https://repertorium-images.hephaistos.arz.oeaw.ac.at/stuehlingenlgo_1527/stuehlingenlgo_1527_</item>
+                <item xml:id="stuehlingenlgo_1527">https://repertorium-images.acdh-dev.oeaw.ac.at/stuehlingenlgo_1527/stuehlingenlgo_1527_</item>
 <!-- stuelz_1852 --> <item xml:id="stuelz_1852">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10011459-9</item>
 <!-- stumphart_proz_1541 --> <item xml:id="stumphart_proz_1541">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Stumphart,Proz. 1541</item>
 <!-- stuttgartstr_1492 --> <!--<item xml:id="stuttgartstr_1492">http://drqerg.de/RHN/quellen/stuttgart-stadtrecht-1492/</item>-->
-                <item xml:id="stuttgartstr_1492">https://repertorium-images.hephaistos.arz.oeaw.ac.at/stuttgartstr_1492/stuttgartstr_1492_</item>
+                <item xml:id="stuttgartstr_1492">https://repertorium-images.acdh-dev.oeaw.ac.at/stuttgartstr_1492/stuttgartstr_1492_</item>
 <!-- su --> <item xml:id="su">ͧ</item>
 <!-- summa_legum --> <item xml:id="summa_legum">http://repertorium.at/qu/1500_summalegum.html</item>
 <!-- summaroland_1544 --> <item xml:id="summaroland_1544">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=SummaRoland. 1544</item>
@@ -9472,7 +9472,7 @@
 <!-- tezner_verwrechtspflege_1898 +Seitenzahl -->
                 <item xml:id="tezner_verwrechtspflege_1898">http://archive.org/stream/dielandesfrstli00tezngoog#page/n</item>
 <!-- thiel_verw_1917 --> <!--<item xml:id="thiel_verw_1917">http://repertorium.at/sl/thiel_zentralverwaltung_inneroesterreich.html</item>-->
-                <item xml:id="thiel_verw_1917">https://repertorium-images.hephaistos.arz.oeaw.ac.at/thiel_archoeg_105/thiel_archoeg_105_</item>
+                <item xml:id="thiel_verw_1917">https://repertorium-images.acdh-dev.oeaw.ac.at/thiel_archoeg_105/thiel_archoeg_105_</item>
 <!-- tiller_1_1787 --> <item xml:id="tiller_1_1787">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z180051704</item>
 <!-- tiller_2.1_1787 --> <item xml:id="tiller_2.1_1787">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z180051807</item>
 <!-- tiller_2.2_1788 --> <item xml:id="tiller_2.2_1788">http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_+Z18005190X</item>
@@ -9494,12 +9494,12 @@
 <!-- tomaschek_1859_iglau_titel --> <item xml:id="tomaschek_1859_iglau_titel">http://reader.digitale-sammlungen.de/resolve/display/bsb10543386_00001.html</item>
 <!-- tomaschek_1860_trient --> <item xml:id="tomaschek_1860_trient">http://reader.digitale-sammlungen.de/resolve/display/bsb10543555.html</item>
 <!-- torggler_1927 --> <!--<item xml:id="torggler_1927">http://drqerg.drqedit.de/DRQH/torggler_1927.html#</item>-->
-                <item xml:id="torggler_1927">https://repertorium-images.hephaistos.arz.oeaw.ac.at/torggler_1927/torggler_1927_</item>
+                <item xml:id="torggler_1927">https://repertorium-images.acdh-dev.oeaw.ac.at/torggler_1927/torggler_1927_</item>
 <!-- torggler_1927_gereimt --> <item xml:id="torggler_1927_gereimt">http://repertorium.at/sl/torggler_1927_gereimt.html</item>
 <!-- torggler_1936 --> <item xml:id="torggler_1936">http://repoestrg.info/wp/sekundarliteratur/torggler-darstellungen-1936/</item>
 <!-- torggler_1936_darstellung --> <item xml:id="torggler_1936_darstellung">http://repertorium.at/sl/torggler_1936_darstellung.html</item>
 <!--<!-\- torggler_1937 -\-> <item xml:id="torggler_1937">http://drqerg.drqedit.de/DRQH/torggler_1937.html#</item>-->
-                <item xml:id="torggler_1937">https://repertorium-images.hephaistos.arz.oeaw.ac.at/torggler_1937/torggler_1937_</item>
+                <item xml:id="torggler_1937">https://repertorium-images.acdh-dev.oeaw.ac.at/torggler_1937/torggler_1937_</item>
 <!-- torggler_1937_stadtrecht --> <item xml:id="torggler_1937_stadtrecht">http://repertorium.at/sl/torggler_1937_stadtrecht.html</item>
 <!-- tractjurincorp_1679 --> <item xml:id="tractjurincorp_1679">http://repertorium.at/qu/1679_tractiurincorp.html</item>
 <!-- trient_1528 --> <item xml:id="trient_1528">http://repertorium.at/qu/1528_trient.html</item>
@@ -9550,7 +9550,7 @@
 <!-- weingaertler_1674 --> <item xml:id="weingaertler_1674">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10506475-7</item>
 <!-- weino_1498_freiburg_1501 --> <item xml:id="weino_1498_freiburg_1501">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WeinO. 1498 (Freiburg 1501)</item>
 <!-- weiss_untersuchungen2 +44-45.jpg--> <!--<item xml:id="weiss_untersuchungen2">http://drqerg.drqedit.de/DRQI/weiss_untersuchungen2_</item>-->
-                <item xml:id="weiss_untersuchungen2">https://repertorium-images.hephaistos.arz.oeaw.ac.at/weiss_untersuchungen2/weiss_untersuchungen2_</item>
+                <item xml:id="weiss_untersuchungen2">https://repertorium-images.acdh-dev.oeaw.ac.at/weiss_untersuchungen2/weiss_untersuchungen2_</item>
 <!-- weisse_notariatkunst_1578 --> <item xml:id="weisse_notariatkunst_1578">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Weisse,Notariatkunst 1578</item>
 <!-- weissler_1905_rechtsanw +Seite+17 --> <item xml:id="weissler_1905_rechtsanw">https://archive.org/stream/geschichtederre01weisgoog#page/n</item>
 <!-- welmitzheimugo_1564 --> <item xml:id="welmitzheimugo_1564">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WelmitzheimUGO. 1564</item>
@@ -9600,7 +9600,7 @@
 <!-- wisnicki_1929_tractiurincorp --> <item xml:id="wisnicki_1929_tractiurincorp">http://repertorium.at/sl/wisnicki_1929_tractiurincorp.html</item>
 <!-- wittenberghofgo_1550 --> <item xml:id="wittenberghofgo_1550">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=WittenbergHofGO. 1550</item>
 <!-- wittgenstlr_1579F Seite 3stellig + .gif --> <!--<item xml:id="wittgenstlr_1579F">http://drqerg.drqedit.de/DRQI/wittgensteinlr_1579_</item>-->
-                <item xml:id="wittgenstlr_1579F">https://repertorium-images.hephaistos.arz.oeaw.ac.at/wittgensteinlr_1579/wittgensteinlr_1579_</item>
+                <item xml:id="wittgenstlr_1579F">https://repertorium-images.acdh-dev.oeaw.ac.at/wittgensteinlr_1579/wittgensteinlr_1579_</item>
 <!-- woerner_strafrtrakt_1597 --> <item xml:id="woerner_strafrtrakt_1597">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,StrafrTrakt. 1597</item>
 <!-- woerner_trakt_1597 --> <item xml:id="woerner_trakt_1597">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,Trakt. 1597</item>
 <!-- woerner_trakt_1600 --> <item xml:id="woerner_trakt_1600">http://drw-www.adw.uni-heidelberg.de/drqedit-cgi/zeige?sigle=Woerner,Trakt. 1600</item>
