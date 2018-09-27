@@ -5,7 +5,7 @@
     version="2.0">
     
     <xsl:template name="start">
-        <xsl:variable name="entries" select="doc('http://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')//*:item"/>
+        <xsl:variable name="entries" select="doc('http://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/rep_ent.xml')//*:item"/>
         
         <items action="replace">
             <xsl:apply-templates select="$entries">

@@ -14,6 +14,9 @@
 
     <!-- The contributed values are obtained by executing the given XSLT -->
     <match elementName="pb" elementNS="http://www.tei-c.org/ns/1.0" attributeName="facs">
-        <xslt href="http://repertorium-dev.eos.arz.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/getent.xsl" useCache="false" action="replace"/>
+        <xslt href="http://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/getent.xsl" useCache="false" action="replace"/>
     </match>
+	<match elementName="ref" elementNS="http://www.tei-c.org/ns/1.0" attributeName="target">
+		<xslt href="http://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/data/repertorium/register/getent.xsl" useCache="false" action="replace"/>
+	</match>
 </config>
