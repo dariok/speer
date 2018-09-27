@@ -1,5 +1,9 @@
 /* Bearbeiter:DK Dario Kampkaspar kampkaspar@hab.de */
 /* erstellt 2016-11-02 DK */
+body {
+	font-size: 1.2rem;
+	line-height: 1.6rem;
+}
 
 h2 {
 	letter-spacing: inherit;
