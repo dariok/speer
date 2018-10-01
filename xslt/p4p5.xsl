@@ -30,30 +30,13 @@
 				* Adjust these according to your local requirements.
 				** -->
 	<!-- ** teiHeader ** -->
-	<!-- in jedem Fall eine revision erstellen für die Konversion nach P5; 2016-08-18 DK -->
+	<!-- Text sind anfangs immer "draft"; vgl. dariok/speer#11 -->
 	<xsl:template match="*:teiHeader">
 		<teiHeader>
 			<xsl:apply-templates/>
-			<xsl:if test="not(*:revisionDesc)">
-				<revisionDesc>
-					<xsl:element name="change">
-						<xsl:attribute name="when" select="$today"/>
-						<xsl:attribute name="who">p4p5.xsl</xsl:attribute>
-						<xsl:variable name="max_n">
-							<xsl:choose>
-								<xsl:when test="//*:change[@n]">
-									<xsl:value-of select="//*:change[max(//*:change/@n)]/@n"/>
-								</xsl:when>
-								<xsl:otherwise>0</xsl:otherwise>
-							</xsl:choose>
-						</xsl:variable>
-						<xsl:attribute name="n">
-                            <xsl:value-of select="$max_n+1"/>
-                        </xsl:attribute> Automatic transcoding TEI P4 → P5
-						by p4p5.xsl. </xsl:element>
-					<xsl:apply-templates select="*:revisionDesc/*:change"/>
-				</revisionDesc>
-			</xsl:if>
+			<revisionDesc status="draft">
+				<change when="{$today}" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
+			</revisionDesc>
 		</teiHeader>
 	</xsl:template>
 	
