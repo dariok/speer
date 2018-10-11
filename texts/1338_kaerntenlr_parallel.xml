@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000245_1338_kaerntenlr_parallel">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kärntnerisches Landrecht vom Jahre 1338 in Paralleldarstellung der Editionen von Ankershofen (1856) und Schwind-Dopsch (1895) :: Heino Speer</title>
+            </titleStmt>
+            <publicationStmt>
+                <editor>Heino Speer</editor>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+    <revisionDesc status="fertig">
+            <change when="2018-10-04Z" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="T.0">
+                           <p>
+                    <table border="1">
+<row>
+                            <cell>Edition <ref target="http://repertorium.at/qu/1338_kaernten_ankershofen.html">Ankershofen 1856</ref>
+                            </cell> <cell>Edition <ref target="http://repertorium.at/qu/1338_kaerntenlr.html">Schwind-Dopsch 1895</ref>
+                            </cell>
+                        </row>
+    <row>
+                            <cell>Orig. auf Pergament mit Siegel in k. k. geheimen Hausarchive, gut erhalten. Höhe: 13 Z. 3. L. ln:mdash, Breite: 17 Zoll. 7. L. mdash; Das sehr gut erhaltene Siegen hat 4. Z. im Durchmesser. Einfaches Reitersiegel. Doppelte Umschrift zwischen 3 Perllinien.</cell> <cell>
+                                <pb facs="ln:schwind-dopsch,g174-175" n="175"/> Or. (A) u. K. s. XV (B) StA. Wien.<note xml:id="n1" type="footnote" n="1">Von demselben Tage eine gleiche Landesordnung für Krain [Or. StA. Wien ln:mdash, <ref>Krainer Landhandfesten (1598) S. 2</ref>; <ref>1687 S. 3</ref>. &amp; <ref>Lichnowsky-Birk 3, Reg. n°. 1171</ref>].</note> Graz 1338 September 14.<lb/> <ref target="http://repertorium.at/qu/1338_kaernten_ankershofen.html">Ankershofen, Kärnthner A. 3,53 (A).</ref> — <ref>Lichnowsky-Birk 3, Reg. n° 1170.</ref> Vgl. neben dem Berichte Johannes' von Viktring (<ref>Böhmer, FRG. 1, 434</ref>: <ref>Muchar 6, 280 Anm. 4</ref>; <ref>Ankershofen, a. a. O. 43.</ref>
+                            </cell>
+                        </row>
+<row>
+                            <cell>WIR Albrecht. von gots gnaden, Hertzog ze Östereich, ze Steyr, vnd ze Chernden, Herr ze Chrain, auf der Marich, und ze Portnaw. Graf ze Habsburch, vnd || ze Kyburch, Lantgraf in obern Elsazzen, vnd Graf ze Phirtt. veriehen, vnd tun chvnt offenlich mit disem brief, allen den, die ieczund lebend, vnd die hernach chumftig werdent || Daz für vns chomen, vnser getrewn lieben, vnsser Lantherren, Ritter, vnd chnecht, von vnsserm Lande <pb facs="http://repertorium.at/img/1338_kaerntenlr_1856/original/s054.html" n="54"/> ze Chernden, vnd paten vns vlizsiehlich, das wir sev von besundern gnaden, bei || etlichen alten gewonhaiten, die si von alter herpracht hieten, liezzen beleiben, und daz wir in darczu, von newn dingen, etlichev recht geben.</cell>
+    <cell>Wir Albrêcht von gots gnaden herczog ze Oesterich ze Steyr und ze Chernden herr ze Chrain auf der Marich und ze Portnawe graf ze Habspurch und ze Kybuerch lantgraf in obern Elsazzen und graf ze Phirtt veriehen und tuen chunt offenlich mit disem brief allen den die ietzund lebend und die hernach chumftig werdent, das fuer uns chomen unser getrewen lieben unser lantherren ritter und chnecht von unserm lande ze Chernden und paten uns vlizsichlich, das wier seu von besundern gnaden bei etlichen alten gewonhaiten die si von alter herpracht hieten, liezzen beleiben, und daz wir in darczue von newen dingen etlicheu recht geben.</cell>
+                        </row>
+    <row>
+                            <cell>No haben wir ange<choice>
+                                    <sic>h</sic>
+                                    <corr/>
+                                </choice>ehen, ir ernstlich || pêt, wan ez ouch vns, unserm Lande vnd vnsern leuten ze Chernden nutz, und notdurftig ist, vnd haben in irev recht gegeben, in solicher weis, als hernach geschriben stet.</cell> <cell> Nu haben wier angesehen ier ernstlich pête, wan ez ouch uns unserm lande und unsern leuten ze Chernden nutz und noetduerftig ist, und haben in ireu recht gegeben in solicher weis, als hernach geschriben stet.</cell>
+                        </row>
+    <row>
+                            <cell> Des ersten || Swer bei gutem gericht, und mit stiller gewêr, ein aygen herpracht hat, dreizzig iar, vnd ainen tag, ein lehen czwelf iar, vnd ainen tag, ein Purchrecht iar vnd tag, mag er daz ||  furbringen so hat er furbaz recht darczue.</cell> <cell>Der ersten, swer bei gutem gericht und mit stiller gewêr ein aygen herpracht hat dreizzig iar und ainen tag, ain lehen zwelf iar und einen tag, ein purchrecht iar und tag, mag er das fuerbringen, do hat er fuerbaz recht dartzue.</cell>
+                        </row>
+    <row>
+                            <cell>Wer ouch daz dhainer einen gewalt chlait, den sol er bewêrn selb dritte, tut er daz, so muez êner den gewalt pezzern selb ander, ist aber daz, der || Dreyr ainer abget, so ist êner des gewaltes ledig.</cell> <cell>Wer auch daz dhainer einen gewalt chlait, den sol er bewêrn selbdritte; tuet er das, so muez êner den gewalt pezzern selbander; ist aber daz der dreyr ainer abget, so ist êner des gewaltes ledig.</cell>
+                        </row>
+    <row>
+                            <cell>Wir Wellen ouch, swaz ein mann in unserm Lande ze Chernden, in nucz, und in vnroublicher gewêr herpracht hat, daz in des niemant || entwêr noch da von treib, denn mit dem rechten alain.</cell> <cell>Wier wellen ouch, swaz ein man in unserm lande ze Chernden in nutz und in unroublicher gewêr herpracht hat, daz in dez niemant entwêr noch davon treib, denn mit dem rechtem alain.</cell>
+                        </row>
+    <row>
+                            <cell>Ist ouch daz iemant den andern anspricht, umb lehen, der sol die verantwurten, vor dem herren, da er si von ze lehen hat, wolt ez aber || der Lêhen herr vertziehen, so mugen wir ez selben gerichten.</cell> <cell>Ist ouch daz iemand den andern anspricht umb lehen, der sol die verantwuerten vor dem herren, da er si von ze lehen hat. Wolt es aber der lêhenherr vertziehen, so mugen wier ez selben gerichten.</cell>
+                        </row>
+    <row>
+                            <cell>Wir sullen ouch selben, oder der, dem wir ez emphelhen an unser stat, richten, vmb lehen, vnd vmb aygen, ze vier tagen, ie || vber Sechs wochen</cell> <cell>Wier sullen ouch selben, oder der dem wir ez enphelhen an unserr stat, richten umb lehen und umb aygen ze vier taegen ie uber sechs wochen.</cell>
+                        </row>
+    <row>
+                            <cell>man sol ouch in der Schranne niemand haizzen stille sten, der in dem Lande wolgesezzen ist, umb lehen, vnd umb aygen, er bring in danne mit Furbot, vnd mit chlag fur daz || Gericht.</cell> <cell>Man sol ouch in der schranne niemand haizzen stille sten, der in dem lande wol gesezzen ist, umb lehen und umb aygen, er bring in danne mit fuerbot und mit chlag fuer daz gericht.</cell>
+                        </row>
+    <row>
+                            <cell>Ouch wellen wir, ob ein gepowr ichtes tat, da mit er den hals verwaricht hat, umb welicher ley sache daz sei, daz des sein herr nicht engelt swer der sei an seinem aygen, oder an seinem gut || der Richtter sol seines leibes varen mit dem rechten, vnd sol dem Herren sein gut, mit gemache lazzen,</cell> <cell>Ouch wellen wier ob ein gepower ichtes tuet, damit er den hals verwaricht hat, umb welicherlay sache daz sei, daz des sein herr nicht entgelt swer der sei, an seinem aygen oder an seinem guet; der richter soll seines leibes varen mit dem rechten und sol dem herren sein guet mit gemache lazzen.</cell>
+                        </row>
+    <row>
+                            <cell>Tut aber ainer einen totschlag, vnd chumt er da von, der ist dem obristem gericht veruallen || Dreizzig mark, vnd dem Niedern gericht sechczig phenning, vnd hut sich vor sinen veinden, vnd vor dem geschray, wirt er <pb facs="http://http://repertorium.at/img/1338_kaerntenlr_1856/original/s055.html" n="55"/> aber begriffen, so ist hals, wider hals, oder er lose sich, wie er stat, an || dem Landtsherren, vindet vnd sol des sein Housvrow, vnd sinev chinde, nicht engelten, an dem gut.</cell> <cell>Tuet aber einer einen toetslag und chumt er davon, der ist dem obristem gericht vervallen dreizzig mark und dem nidern gericht sechtzig phenning und huet sich voer sinen veinden und voer dem geschray. Wirt er aber begriffen, so ist hals wider hals oder er lose sich, wie er stat an dem lantsherren vindet, und sol des sein hausvrowe und siner chind nicht entgelten an dem guet.</cell>
+                        </row>
+    <row>
+                            <cell>Wer aber ieman, der ze Chernden gut hiet gelegen, vnd in dem Lande nicht gesezzen wêr, der || sol daz verantwurtten, ze Chernden. da daz gut gelegen ist, vor dem Gericht, da man umb ander gut verhoret.</cell> <cell>Wer aber ieman der ze Chernden guet hiet gelegen und in dem lande nicht gesezzen wer, der sol das verantwuertten ze Chernden, da das guet gelegen ist, voer dem gericht, da man umb ander guet verhoret.</cell>
+                        </row>
+<row>
+                            <cell>Ist aber daz ein gast chumt gen Chernden. in daz Lande, vnd vodert ein recht an ainen || lantsman, der sol demselben, recht hinwider tan, da er recht von nemen wil, an derselben stat, vmb sogetan sache, darumb er ez billeich tun sol.</cell> <cell>Ist aber, daz ein gast chumt gen Chernden in das lande und vordert ein recht an einen lantsman, der sol demselben recht hinwider tuen, da er recht von nemen wil, an derselben stat umb sogetan sache, darumb er ez billeich tuen sol.</cell>
+                        </row>
+    <row>
+                            <cell>Ouch wellen wir, vmb aygn, vnd vmb Lehen, di || von vns sint, daz darumb niemand gerichten, noch verhoren mûg, denn wir selben, oder onser Hoouptman, oder wem wir ez enphelhen, wem auch onser Houptman enphilicht ze richten, vmb gult, vnd vmb new || auflouff, der mag daz wol verhoren vnd gerichten.</cell> <cell>Ouch wellen wir umb aygen und umb lehen die von uns sint, daz darumb nieman gerichten noch verhoren mug, denn wier selben oder unser houptman oder wem wier ez enphelhen. Wem auch unser houptman enphilicht ze richten umb gult und umb newe auflouff, der mag das wol verhoeren und gerichten.</cell>
+                        </row>
+    <row>
+                            <cell>Ez sullen ouch die Grâfen, die in dem Lande ze Chernden gesezzen sint, recht vor onser, oder vor onserm Houptman tun, vmb swev man hincz || in ze sprechen hat.</cell> <cell>Ez sullen ouch die grâfen, die in dem lande ze Chernden gesessen sint, recht voer unser oder voer unserm houptman tuen, umb swecz man hintz in ze sprechen hat.</cell>
+                        </row>
+    <row>
+                            <cell>So sollen die Richtter, so si daz Gericht enphahent swern, das si recht richten, dem armen, als reichen, vnd nicht durch lieb, si sollen ouch nieman umb dhain puezze || phenden, er verualle ir ê vor Gericht, vnd sol der Richtter, diselben puezze, in Viertzehen tagen nemen.</cell> <cell>So sullen die richter, so si daz gericht enphahent, swern, daz si recht richten dem armen als dem reichen und nicht durch lieb; si sullen auch nieman umb dhain puezze phenden, er vevalle ier ê voer gericht, und sol der richter dieselben puezze in viertzehen tagen nemen.</cell>
+                        </row>
+    <row>
+                            <cell>Ez sollen ouch alle leut, in vnserm Lande ze Chernden, ze gemainen tagen gen, dristund in dem iar || in allen onsern Lantgerichten, vnd sagen bei dem ayde, den si da swern muezzen, ob icht schedliches, oder vngerichtetes sei in dem Lande, und ob icht sei, daz dem Gericht ze pezzern ist,</cell> <cell>
+        Es sullen ouch alle leut in unserm lande ze Chernden ze gemeinen taegen gen dri stund in dem iar in allen unsern lantgerichten und sagen bei dem ayde, den si da sweren muezzen, ob icht schedliches oder ungerichttes sei in dem lande, und ob icht sei, daz dem gericht ze pezzern ist.</cell>
+                        </row>
+    <row>
+                            <cell>wer ouch dahin nicht || chomen mochte, vor ehaftter not, der mag sich der wol bereden, chumt er aber nicht, in irr danne ehaft not, so sol er puezwartig sein, vnd sullen ouch die zwen phenning, di ze puezze willent geben sint ab || sein.</cell> <cell>Wer ouch dahin nicht chomen mochte vor ehafter noet, der mag sich der wol bereden. Chumt er aber nicht, in ierr dann ehaft noet, so sol er puezwaertig sein, und sullen ouch die zwen phenning, di ze puezze wilent geben sint, ab sein.</cell>
+                        </row>
+<row>
+                            <cell>Ouch sullen der Lantrichtteer poten, nieman fuergepieten denn da der man gesezzen ist ze hous ond ze hof, ond anderswa nicht, man sol ouch di leut ê vor gericht bechlagen, ê man si v[er]piete.</cell>
+                            <cell> Ouch sullent der lantrichter poten nieman fuergepieten, denn da der man gesezzen ist ze hous und ze hof, und anderswa nicht. Man sol ouch di leut ê vor gericht bechlagen, ê man si verpiete.</cell>
+                        </row>
+    <row>
+                            <cell>Phendet || ouch der Richtter auf ein gut, daz eines <pb facs="http://repertorium.at/img/1338_kaerntenlr_1856/original/s056.html" n="56"/> andern mannés ist, ond mag derselb man daz besteten, daz ez sein sei, dem sol der Richtter daz widergeben, an der stat.</cell> <cell>Phendet ouch der richter auf ein guet, das eines andern mannes ist, und mag derselb man daz bestêten das ez sein sei, dem sol der richter das widergeben an der stat.</cell>
+                        </row>
+    <row>
+                            <cell>Ouch habent onser dienstherren ze Chernden. die || recht, daz si daz recht tun mugen vber ir biderb diener, vmb gult, vmb gelubde, vnd ouch vmb schaden.</cell> <cell>Ouch habent unser dienstherren ze Chernden die recht, daz si das recht tuen mugent uber ier biderb diener umb gult umb gelubde und ouch umb schaden.</cell>
+                        </row>
+    <row>
+                            <cell>Ez sol ouch ieder man, hincz seinen gepowern, daz recht tun, vmb die sache, die auf sinem gut besche || hent, an alain vmb die sache, die an den tod gent, ez wer danne, daz daz recht, von des gepowrn herren, wurt vertzigen, sv mag vnser Richtter daruber richten.</cell> <cell> Ez sol ouch ieder man hintz seinen gepowren das recht tuen umb die sache die auf sinem guet beschehent, an alain umb die sache die an den toed gent; ez wer dann, daz daz recht von des gepowren herren wuert vertzigen, so mag unser richter daruber richten.</cell>
+                        </row>
+    <row>
+                            <cell>Waz ouch dienstherren ist, di Stok, vnd || galgen habent, vnd begriffen si dhainen in irem gericht, der dem Lande schedlich ist, daz mugen si wol verhoren, vnd ouch richten.</cell> <cell>Was auch dienstherren ist die stoek und galgen habent, und begriffen si dhainen <pb facs="ln:schwind-dopsch,g176-177" n="177"/> in irm gericht der dem lande schedlich ist, daz mugen si wol verhoren und ouch richten.</cell>
+                        </row>
+    <row>
+                            <cell>Swa ouch ein notzog geschiecht in vnserm Lande ze Chernden. mag man || den war gemachten, mit zwain, ez sein weib, oder man, sein engelt êner an dem Hals, und sol man demselben den hals abstozzen, mit einer dillen,</cell> <cell>Swa ouch ein noetzog geschiecht in unserm lande ze Chernden, mag man den war gemachen mit zwain, ez sein weib oder man, sein entgelt êner an dem hals, und sol man demselben den hals abstozzen mit einer dillen.</cell>
+                        </row>
+    <row>
+                            <cell>Wiert aber ein Strazrouber begriffen, mit der handhaft, dem mag man, mit zwain, den hals an behaben, begreiffet man in aber, an die handhaft, sv muez man in, mit sibenn vbersagen, vnd demselben Strazrouber, sol man den hals abslahen,</cell> <cell>Wiert aber ein strazrouber begriffen mit der hanthaft, dem mag man mit zwain den hals anbehaben; begreiffet man in aber an die hanthaft, so muez man in mit sibenn ubersagen; und demselben strazrouber sol man den hals abslahen.</cell>
+                        </row>
+    <row>
+                            <cell>Man vbersagt || ouch wol einen morder, mit zwain, vnd richtet, vnd pezzert hincz im, mit dem ratte,</cell> <cell>Man ubersagt ouch wol einen moerder mit zwain und richtet und pezzert hintz im mit dem ratte.</cell>
+                        </row>
+    <row>
+                            <cell>Den Valscher der mit der hanthaft begriffen wirt, den sol man vbersagen mit zwain, vnd sol in darnach setzen || auf einen rost,</cell>
+                            <cell>Den valscher, der mit der hanthaft begriffen wiert, den sol man ubersagen mit zwain und sol in darnach sêczen auf einen roest.</cell>
+                        </row>
+    <row>
+                            <cell>Aber einen dieb, der nicht begriffen ist, mit der Handhaft, den sol man vbersagen mit sibenn und sol in danne hênchen, an ainen galgen.</cell> <cell>Aber einen dieb, der nicht begriffen ist mit der hanthaft, den sol man ubersagen mit sibenn und sol in dann henchen an ainen galgen.</cell>
+                        </row>
+    <row>
+                            <cell>Ouch wellen wir, daz alle Herren, dienstleut, vnd || ander edel leut, ze Chernden. in allen andern sachen, die hie nicht verschriben sint, richten nach dem recht, als vnser herren, vnd edel leut, in vnserm Lande ze Steyer.</cell> <cell>Ouch wellen wier, daz alle herren dienstleut und ander edel leut ze Chernden in allen andern sachen, die hie nicht verschriben sint, richten nach dem recht, als unser herren und edel leut in unserm lande ze Steyr.</cell>
+                        </row>
+    <row>
+                            <cell>Vnd daz disev recht, ellev, als si || von wart ze wart in diesem brief geschriben sint, also stet, vnd vnczebrochen beliben. Daruber so geben wirr disen brief, besigelten, mit vnserm Insigel. Der geben ist ze Gretz, an des || heiligen Chreuczes. tag, ze Herbst. Da man zalt von Christes geburd. Tausent. Dreu hundert Jar, darnach in dem acht, vnd Dreizgisten Jar. <pb facs="http://repertorium.at/img/1338_kaerntenlr_1856/original/s057.html" n="57"/>
+                            </cell> <cell>Und daz diseu recht elleu, als si von wart ze wart in disem brief geschriben sint, also stet und unzebrochen beliben, daruber so geben wier disen prief besigelten mit unserm insigel, der geben ist ze Gretz an des heiligen chreuzes tag ze herbst, do man zalt von Christes gebuerd tausent dreuhundert iar darnach in dem aecht und dreizgisten iar.</cell>
+                        </row>
+                    </table>
+</p>
+            </div>
+        </body>
+    </text>
+</TEI>

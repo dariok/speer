@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000245_1338_meranstr">
+    <teiHeader> 
+        <fileDesc> 
+            <titleStmt> <title>Stadtrecht von Meran [ZDA 6 (1848) Franz Pfeiffer]  :: Transkription Heino Speer 2018</title>
+            </titleStmt>
+        <publicationStmt>
+                <editor>Heino Speer</editor>
+                <publisher>
+                    <ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc> 
+    <revisionDesc status="draft">
+            <change when="2018-10-04Z" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div xml:id="Einleitung">
+<head>I. [Einleitung von Franz Pfeiffer]</head> <p>
+[<pb facs="https://www.jstor.org/stable/20650143?seq=1" n="413"/>] Obwohl die städteordnungen des mittelalters der natur der sache nach in vielen punkten sich berühren und wiederholen, so besitzt doch in der regel jede derselben ihre besondern eigenthümlichkeiten, die unsere kenntnis der sitten und gewohnheiten gewisser zeiten und des gemeindewesens überhaupt zu erweitern geeignet sind, die mittheilung des nachstehenden erst kürzlich aufgefundenen stadtrechtes dürfte daher nicht unwillkommen sein. herr <persName ref="">Matthias Koch</persName>, der in seinen beiträgen zur geschichte der stadt Meran (<ref target="">Nationalkalender für Tirol 1840, Innsbruck bei Wagner</ref>) dessen existenz noch bezweifelte, hat es später im archiv zu Meran selbst entdeckt und mir seine abschrift freundlich mitgetheilt.</p>
+<p>Stuttgart 14 august 1847. Franz Pfeiffer.</p>
+            </div>
+        </front>
+        <body>
+            <div xml:id="Editorial"> 
+                <head>Editorial</head>
+<p>Quelle: Das alte Stadtrecht von Meran / Franz Pfeiffer. In: Zeitschrift für deutsches Alterthum ; 6. 1848, S. 413 - 430. [Titelaufnahme DRW].</p>
+<p>Zur Datierung: Im DRW wird das Meraner Stadtrecht entweder ohne Datierung oder mit "14. Jh." datiert. Nun wird aber in VII 1 das Jahr 1337 erwähnt, so dass dieses Jahr als Terminus post quem dienen kann.</p>
+<p>Die elektronische Version des Meraner Stadtrechts ist gegenüber der von Franz Pfeiffer stammenden Edition geringfügig vereinfacht worden, um die Erfassung des Textes durch Suchmaschinen zu erleichtern. So wurde die "ae"-Ligatur aufgelöst in "ae" und der Zirkumflex über Vokalen wurde stillschweigend eliminiert. Denn wieweit diese diakritischen Zeichen tatsächlich ihre Berechtigung haben, liesse sich nur bei einem Vergleich mit der Handschrift feststellen.</p>
+<p>Das Ziel dieser Version ist es einzig und allein, einen maschinenlesbaren Text des Meraner Stadtrechts im Internet verfügbar zu haben. <lb/> Heino Speer, Klagenfurt am Wörthersee, 17. Juni 2018.</p>
+            </div>
+            <div xml:id="Stadtrecht">
+<head>II. [Text des Stadtrechtes]</head>
+<div xml:id="T.1">
+<head>Daz erste gesetzede ist daz:</head>
+<div xml:id="T.1.1">
+<p>[I 1]  Alle die veile habent brot und kaese und fuoter und smalz und salz und honic und magen und unslitkerzen und wiltpraet und smalsat und obez und knoflach und unslit und hüener und eier und smer und har und vadem und griuze und nuzzen und kesten und swaz so getan klein kost daz ist, und swer der ist der daz veile hat, si haben hiuser ze erbrehte oder niht, oder alle ander die da gädemler sint: die sullent koufen und mugent koufen nach der fruomessen ersten glocken, die man liutet ze vron ampt ze sant Nicolaus, und vor niht. aver holz und höu und strouw sullent und mugent si koufen fruo oder spat swenne sie wellent; und sol man daz veile haben uf dem platze ennent der brucken. und milch und krut sullent und mugent si koufen ouch swenne si wellent fruo oder spat, und sol man daz anderswa nindert koufen noch veile haben wan uf dem obezplatze vor der münze, und swer daz übervert und brichet, als ofte und er daz tuot, der ist ze pene gevallen zwei pfunt und fünf schillinge, halbiu
+[<pb facs="https://www.jstor.org/stable/20650143?seq=2" n=""/>] dem gerihte und halbiu der stat. swaz ein burger koufen wil daz veil ist, ez si korn, fuoter, kaese, wildez oder zamez, grawez oder linin tuoch oder swaz ez ist, daz sol der gädemler<note n="1">gädemler, inquilinus, vergl. <ref target="https://books.google.de/books?id=DY8NAAAAQAAJ&amp;pg=PP5#v">Frisch 1, 312c</ref>. [Anm. HS: <ref target="ln:drwlemma,gademler">DRW-Artikel Gademler</ref>]</note> im lazen unde da von sten und in daz lazen koufen bi pene fünf pfunde und fünf schillinge, halbiu der stat und halbiu dem gerihte. und swaz ein burger des kouft, daz sol man im hin heim füeren und tragen.</p>
+                    </div>
+<div xml:id="T.1.2">
+<p>[I 2] Ouch ist erfunden, daz ie der wirt oder gastgeber sinem gaste sagen sol, daz der gast sine koufmanschaft sol veile haben hie vor uf sinem laden als lange hinz daz man die fruomessen singet oder sprichet datz sant Nicolaus; und in der selben wile sullent burger koufen und keine gädemler. aftermalen nach der fruomessen sullent und mügent koufen burger und gädemler.</p>
+                    </div>
+<div xml:id="T.1.3">
+<p>[I 3] Und ob dehein gastgebe waere, der heimlich in sinem huse von sinen gesten iht in koufte und er daz sinen gehusen<note n="2">der gehuse <emph>hausgenoss</emph> [Anm. HS: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=Gehause&amp;darstellung=u#Gehause-2.1">DRW-Artikel Gehause (II 1)</ref>.</note> mit teilen wolte oder in ze gunst koufte, und wirt er da mite begriffen ane gevaerde, der hat daz guot verlorn daz er kouft hat, und daz sol gevallen halbez dem gerihte und halbez der stat.</p>
+                    </div>
+                </div>
+<div xml:id="T.2">
+<head>II. Daz sint diu gesetzede von dem korn.</head>
+<p>Ez sol nieman, burger noch gädemler noch ander ieman, keinerleie korn noch smalsat uzerhalbe der stat noch indert anderhalben iht koufen noch verarren<note n="3">verarren, durch geben oder nehmen von einem drangeld verbindlich machen, <ref target="http://www.literature.at/viewer.alo?objid=10873&amp;viewmode=fullscreen&amp;scale=3.33&amp;rotate=&amp;page=77">Schmeller 1, 90</ref>.</note>, daz man zuo der stat füeret oder treit veile, wan niur aleine uf dem kornmarkt an in den zwein frien jarmerten, bi flust des selben kornes, halbez gevalle dem gerihte und halbez der stat. und ob der kouf geschehen ist mit worten unde die pfennige dannoch niht vergolten sint, dennoch sol der kouf der pene gebunden sin, ob der hingeber siniu reht darnach tuot daz erz verkouft habe, [<pb facs="https://www.jstor.org/stable/20650143?seq=3" n=""/>] oder ob er sin mit ander ieman überwart<note n="4">überwaeren, <emph>überzeugen, überführen</emph>.</note> wirt. ouch sol kein burger noch gädemler niht mer kornes koufen dan er in sinem huse bedarf ane gevaerde, und durch keinerleie fürkouf, bi pene ie des mutten zweier pfunde und fünf schillinge, halbez dem gerihte und halbez der stat. ez sol kein burger noch gädemler der veilez brot bachen wil niht mer kornes in koufen dan ie ze zwein bechen<note n="5">beche, <emph>was auf einmal gebacken wird</emph>. [Anm. HS: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=Beck-2&amp;darstellung=u#Beck-2-1.0">DRW-Artikel ²Beck</ref>]</note>. und alle die wile daz er daz brot unverkouft hat sol er kein korn koufen, an in den zwein frien jarmerkten aleine, bi pene zweir pfunde und fünf schillinge, als ofte ez gebrochen wirt, halbez dem gerihte und halbez der stat. ez sol ouch kein burger noch gädemler noch ander ieman kein korn in koufen durch fürkoufes willen, an aleine die brotbechen, die gen hof bachent: die mugent mer korn koufen swenne sin not ist, so diu herschaft hie ist. und swenne si daz koufen wellent, so solnt si tuon nach der drizehener rat, ane gevaerde. ez sol ouch kein kornmezze noch sin kneht niht me kornes in koufen dan er uf sinem tische bedarf, und sullent ouch an korn noch an fuoter mit nieman kein teil noch geselleschaft bi irem eide niht enhaben und bi pene ires amptes, wenne daz geschiht und sich mit der warheit ervindet. ouch sol man den burgern ir korn daz sie koufent da heim in ir huse mezzen, an aleine den die brot vaile habent, den sol man daz korn mezzen uf dem kornmarkt, ouch sol man, weder burger noch gädemler, kein korn niht koufen bi der naht, wan niur bi schoenem liehten tage, bi pene zweier pfunde und fünf schillinge von ie dem mutte, halbez dem gerihte, halbez der stat. würde aver einem burger des kornes iht überic daz im niht geviele oder er des niht bedörfte, und verkouft er daz, daz sol im sin an allen schaden.</p>
+                </div>
+<div xml:id="T.3">
+<head>III. Daz ist daz gesetzede über daz brot.</head>
+<p>Ez sullent vier man, die dar zuo erwellet werdent, alle zit, als ofte und sin not geschiht, daz brot beschouwen unde [<pb facs="https://www.jstor.org/stable/20650143?seq=4" n="416"/>] besorgen bi iren triuwen dar nach und daz korn ganc hat, ob ez ze klein oder ze liht si an der groeze oder an der güete. und swa si ez ze kleine oder ze lihte vindent, da sullent si daz selbe brot uf hefen gar unde gänzlich und sullent die zwei teil geben in daz spital und daz ander dritteil an den hornval<note n="6">hornval, <emph>ein höchst seltenes wort, vergl.</emph> horngibruader <emph>bei Otfried und Marner <ref target="">MS. 2, 153</ref>
+                                <hi rend="sup">a</hi>. <ref target="">gramm. 2, 461</ref>. <ref target="https://books.google.de/books?id=7TqgNeGS69AC&amp;hl=de&amp;pg=PT351#v=onepage&amp;q&amp;f=false">Oberlin 694</ref>
+                            </emph>. [Anm. HS: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=Hornfall">DRW-Artikel Hornfall</ref>]</note>, den uzsetzigen; und als ez die XIII des rates mit den brotschouwern schaffent, so sullent sie ez schouwen und sullent ez handeln ane gevaerde. swer ouch daz brot, so die schouwer zuo gent, ab wege bringet, der sol ze pene geben zwei pfunt dri schillinge, und ist daz er daz selbe brot verkoufet, der kumt in die selben pene, wan erz niht verkoufen sol bi der selben pene. und waz ouch die selben brotbeschouwer brotes nement und absagent, daz selbe brot sol man after des niht verkoufen, swaz des ist, ez habe der beche uf der laten oder inrehalben des laden, bi pene zweier pfunde dri schillinge. und swer die brotbeschouwer übel handelt, ez si mit worten oder mit werken, der sol geben ze pene fünf pfunt, halbiu dem gerihte und halbiu der stat, unverzigen unde ze behalten dem sin reht hinz dem dem ez mit gereht wirt.</p>
+                </div>
+<div xml:id="T.4">
+<head>IV. Daz ist daz gesetzede über den win.</head>
+<p>Ez sol menniclich der win schenken wil ganzlich daz gesatzte maz geben ze allen ziten ane underlaz; und sullent ouch gleser und becher haben dar in daz maz volliclichen ge. ouch sullent si bi halber und ganzer patzeiden<note n="7">die patzeiden, <emph>südtyrolisches getränkmass, als theil einer ürn. <ref target="">Schmeller 1, 303</ref>
+                            </emph>. [Anm. HS: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?term=patzeide&amp;index=lemmata">DRW-Artikel Patzeide</ref>]</note> und bi halben und ganzen vierteilen win zuo koufen geben menniclich. ez sol ouch kein leitgebe nach der winglocke niht schenken noch win geben in dem leithuse wan aleine dem rihter und für daz leithus menniclich; an sine herberge hin heim swer win nemen wil, dem sol man in geben, ez sol ouch kein leitgebe nach der winglocken kein spil lazen geschehen weder umbe bereite pfennige noch umb ledigiu. swelhez ouch under [<pb facs="https://www.jstor.org/stable/20650143?seq=5" n="417"/>] disen obgenanten gesetzeden des wines ein leitgebe übervert, der ist gebunden ze geben ze pene als ofte ez übervarn wirt zwei pfunnt und dri schillinge, halbez dem gerihte und halbez der stat. ez sol ouch nieman in der stat win schenken denn aleine der waht und stiure git. wolte aber ander ieman schenken in der stat der waht noch stiure niht git, der sol geben an die stat von ieglichem fuoder ein pfunt Berner. ez sol menniclich der schenken wil daz maz geben wie er wil, doch über ein zehen niht, und sol doch geben daz gesworne maz, ez si denne daz die drizehen ein anderz mit in schaffent oder ordent. man sol ouch den Kriechel und Romaner schenken ein ganzez trinken umb zwene zweinziger und ein halbez trinken umb einen zweinziger, und Malfasier ein trinken umb dri zweinziger und ein halbez trinken umb anderhalben zweinziger. und wenne man die wine her ziuget und in leit unde die schenken wil, daz sullent si niht tuon, ez sin denne der drizehner dri da bi. und ob si daz überfüeren, wenne sich daz erfünde, der ist komen umb den win, halber dem gerihte und halber der stat. und ob er also daz maz niht gaebe als oben geschriben stet, so ist er komen von ie dem trinken umbe zwei pfunt, dri schillinge.</p>
+                </div>
+<div xml:id="T.5">
+<head>V. Daz ist daz gesetzede über daz fleisch.</head>
+<p>Ez sol kein fleischhäckel keinen nieren niht machen an keinem vihe, jungem oder altem, wan als ez got gemachet hat, mit keinerlei gemächte, und ouch niht uf blaejen. si sullent ouch keine hoden ab den remlern<note n="8">remler, <emph>rammler, schaf während der brunstzeit</emph>.</note> noch ab den kastroun<note n="9">kastroun, kastrun, <emph>castrierter widder</emph>.</note> niht ab sniden, und sullent si an den stücken verkoufen dar an si sint. si sullent ouch keine su niht slahen, veile ze verkoufen under der fleischbank. ouch sullent si kein nunne<note n="10">nunne <emph>castriertes schwein</emph>. [Anm. HS: <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=Nonne&amp;darstellung=u#Nonne-2.0">DRW-Artikel Nonne (II)</ref>]</note> noch kein rint niht abslahen noch uf tuon, ez sin denne die dri da bi die dar zuo gesetzet sint oder gesetzet werdent, oder ir einer. si sullent ouch kein unzitigez vihe niht abnemen, [<pb facs="https://www.jstor.org/stable/20650143?seq=6" n="418"/>] ez si kalp, kitze, lamp, spünnevärle oder swelher hande ez si. ouch sullent si kein phindigce swin noch schelmigez rint niht verkoufen under der fleischbank, bi pene fünf pfunde, halbiu dem gerichte und halbiu der stat. si sullent ouch keine wurst niht machen danne mit dem fleisch daz von dem swine komen ist. si sullent ouch kein ingeweide noch kein bluot noch keinerlei unsuberkeit, von swelhcrleie sache daz si, in den bach niht werfen noch ander ieman ze<note n="11">[ze werfenne verhengen? <emph>Hpt.</emph>]</note> verhengen, die daz von in kouften. si sullent ouch eim ieglichen der fleisch koufen wil, ob er dar nach fraget, sagen bi irn triuwen an allez gevairde wenne daz fleisch geslagen si und welher hande fleisch ez si. si sullent ouch daz fleisch niht anders zieren noch machen danne üeblich rizen uf dem rücken mit dem mezzer. und swelhez der einez si übervarnt, als ofte daz geschiht, als ofte sullent si gevallen sin in pene zwei pfunt und fünf schillinge, halbiu dem gerichte und halbiu der stat. si sullent ouch eim ieglichen ze koufen geben ein halbez stücke, swelher leie ez si, ane rindrinez aleine, bi der vorgenanten pene. si sullent ouch eim ieglichen ze koufen geben ein puggel, ez si von kitze oder von lamp, dar nach und er koufen wil oder mac. si sullent ouch kein smeckendez fleisch, swelher hande ez si, niht verkoufen bi der vorgenanten pene. swelher ouch den drin fleischhäckeln an irn eit rette, daz sich mit der warheit ervindet, der sol gevallen sin den burgern ze pene fünf pfunt, unverzigen des rihters reht und ouch des dem ez mit gereht wirt.</p>
+                </div>
+<div xml:id="T.6">
+<head>VI.</head>
+<div xml:id="T.6.1">
+<p>[VI 1] Umbe pfant diu man riten sol unde pfant diu man füeren sol unde pfant diu man tragen sol, daz sol der veiltrager, er oder sin kneht, in der stat uf und nider tuon ane gevaerde, dar umbe daz diu selben pfant einem ieglichen dester baz vergolten werden. und ob daz waere daz iht an pfanten diu man us vrien niht verkoufte kein übertiure<note n="12">übertiure, <emph>mehrerlös</emph>.</note> belibe über daz gelt dar umbe er diu pfant verkoufte, und ob der daz niht naeme hin wider des diu pfant sint gewesen [<pb facs="https://www.jstor.org/stable/20650143?seq=7" n="419"/>] unde dem ez billich werden solte, inre vierzehen tagen, so sol er<note n="13">er, <emph>der feilträger</emph>.</note> diu übertiure des geltes legen hintz einem gemeinen piderben burger an Meran, und sol da ligen als lange unz daz der uz kumt dem diu übertiure des geltes billich werden sol; dem selben sol ez geantwurtet werden.</p>
+                    </div>
+<div xml:id="T.6.2">
+<p>[VI 2] Ouch sol der veiltrager in sinem gewalte niht behalten ezzendiu pfant<note n="14">ezzendez pfant, <emph>vieh und was sonst, zu pfande genommen oder gegeben, genährt werden muss.</emph>
+                            </note>: er sol diu heizen antworten hinz einem gemeinen gastgeber an Meran, an aleine swin oder ander kleinez viehe sol unde mag der veiltrager wol behalten.</p>
+                    </div>
+<div xml:id="T.6.3">
+<p>[VI 3] Ouch sol der veiltrager nemen ze lone waz er mizzet mit Münicher ellenstabe von hundert ellen grawes tuoches, von dem hingeber einen schilling und von dem koufer ouch einen schilling, und von dem zwilich gelich als vile. von hundert ellen lininen tuoches sol er nemen sehs Berner<note n="15">Berner, <emph>Berner pfennig, denarius Veronensis, wovon im 14n jahrh. 12 einen schilling, 240 ein pfund machten.</emph>
+                            </note> von dem hingeber, und von dem koufer sol er nemen ouch sehs Berner.</p>
+                    </div>
+<div xml:id="T.6.4">
+<p>[VI 4] Ouch sol der veiltrager nemen ze lon, so er häringe oder dürre vische zelt, von dem hingeber von einem hundert häringe oder dürrer vische einen visch ane gevaerde; und ob sie ander ieman selbe zeln wolte von den koufliuten, dannoch sol im da von werden sin lon von der zale.</p>
+                    </div>
+                </div>
+<div xml:id="T.7">
+<head>VII. Daz sint diu gesetzede diu den veiltrager angehoerent uf sin ampt.</head>
+<div xml:id="T.7.1">
+<p>[VII 1] Nach Kristi gebürte tusent unde driu hundert jar unde darnach in dem siben unde drizigesten jar (1337), des samstages an sant Andres abent habent gesprachet her <persName ref="">Otte der Bon</persName>, <persName ref="">Thomas der Stapfel</persName>, <persName ref="">Uolrich der schriber</persName>, meister <persName ref="">Albreht der snider</persName>, <persName ref="">Thomas Meister</persName>, <persName ref="">Dietmars sun</persName>, meister <persName ref="">Wigant der schuolmeister</persName>, <persName ref="">Eberle der sun</persName>, <persName ref="">Fritz der sun</persName>, <persName ref="">Geori der sun</persName>, <persName ref="">sin sun</persName>, <persName ref="">Thomas der smit</persName>, <persName ref="">Fritz der Seibisch</persName>, [<pb facs="https://www.jstor.org/stable/20650143?seq=8" n="420"/>] <persName ref="">Engelle Vende</persName>, <persName ref="">Davit der noder</persName>
+                            <note n="16">noder, <emph>notar</emph>.</note>, dise burger von Meran; <persName ref="">Heinrich Umhus</persName>, <persName ref="">Heinrich Igels</persName>, <persName ref="">Th. Chöverle</persName>, die ze disen sachen ze bekennen gesament worden, uf vorgeriht erteilt waz ze sprechen über des frien marktes reht.</p>
+                    </div>
+<div xml:id="T.7.2">
+<p>[VII 2] Swer ein pfant ab dem markte nimt mit gewalt daz uf in druf gesant wirt, der hat gewalt begangen unde den markt gebrochen und ist dar umbe minen herren libes unde guotes vervallen.</p>
+                    </div>
+<div xml:id="T.7.3">
+<p>[VII 3] Swer ouch uf ein pfant bietet daz uf dem markte get, und im daz umbe daz selbe gebot belibet, und er die pfennige niht git umbe daz selbe pfant, der ist umb ein frävel komen als ofte die pfennige an in gevordert werdent, einest im tage, unde diu selbe frävel (git?) 4 pfunt.</p>
+                    </div>
+<div xml:id="T.7.4">
+<p>[VII 4] Swer ouch ein pfant uf den markt sendet unde daz verkouft unde daz selbe pfant dem koufer niht antwurtet ze der zit und erz antworten sol ze rehte, der ist ouch umbe die selben frävel komen, als ofte der koufer daz pfant an in vordert, einest im tage.</p>
+                    </div>
+<div xml:id="T.7.5">
+<p>[VII 5] Swer ouch ein pfant uf dem markt verkouft und daz tiurer git danne ez im stet unde sin gülte ist, der sol die übertiure datz dem veiltrager lazen, daz si dem gelter wider geboten werde unde daz er si da vinde. swer ouch des niht tuot, der sol jenem uf den der schade get sinen abe tuon und den schaden selbe gelten und liden. und kumpt daz für gerihte, swaz danne von geriht bänne<note n="17">bänne, <emph>gesetzliche gerichtssporteln</emph>.</note> gevallent, die sol der rihter haben und anders niht.</p>
+                    </div>
+<div xml:id="T.7.6">
+<p>[VII 6] Swelch leitgebe ouch winpfant koufen wil, der sol des ersten die burger dar zuo nemen, einen, zwei, dri oder viere oder me, daz die bekennen, ob ez ein solch pfant si daz uf den markt ze senden si oder sust uf dem laden ze verkoufen. und swie si inz heizent verkoufen, uf dem markte oder sust, also sol erz verkoufen, also doch daz dem gelter diu übertiure wider gevalle. get aver im an der verkoufunge des pfandes iht abe, dar umbe mag er sinen gelter für baz pfenden unde benoeten unz uf ganze wernüsse siner gülte. diser sache aller sint die vor genanten burger alle überein (komen), daz frier markt disiu vorgeschriben reht hat und haben sol. [<pb facs="https://www.jstor.org/stable/20650143?seq=9" n="421"/>]</p>
+                    </div>
+                </div>
+<div xml:id="T.8">
+<head>VIII.</head>
+<p>Daz ist der lon den ein ieglich veiltrager nemen sol von dem vorgeschribenen pfantverkoufen, und niht mer.</p>
+<p>Von einem rainischen (rinischen?) grozen rosse daz verkouft wirt und niht geloeset wirt sehs zweinziger; wirt ez geloeset, sol er nemen dri zweinziger. von einem hengist der verkouft wirt und niht geloeset wirt sol er nemen dri zweinziger; wirt er geloeset, sol er nemen anderhalbe zweinziger. von einem ohsen der verkouft wirt und niht geloeset wirt zwene zweinziger; wirt er geloeset, sol er nemen einen zweinziger. von einer kuo oder von einem stier ouch als vil. von einem swin sol er nemen daz verkouft wirt einen zweinziger; wirt ez geloeset, sol er nemen einen zehener. von einem fuoder win sol er nemen einen zehener; wirt ez geloeset ouch einen zehener; und ob des wines minre ist, sol er nemen ouch einen zehener. von urbor sol er nemen einen zweinziger; wirt ez geloeset, sol er nemen einen zehener. von guote daz under einer mark ist sol er nemen einen zehener, und waz über eine mark ziuget, ez si wenig oder vil, ez werde verkouft oder niht, sol er nemen einen zweinziger. von geizen, von schafen oder swaz so getanes kleines vihes ist, ez werde verkouft und niht geloeset oder geloeset, sol er nemen einen zehener.</p>
+                </div>
+<div xml:id="T.9">
+<head>IX. Daz sint diu gesetzede über dez winmezampt.</head>
+<div xml:id="T.9.1">
+<p>[IX 1] Daz die winmezzer von burgern und gädemblern an Meran die wahte und stiure gebent ze lone nemen sullent von einer ürn<note n="18">ürn, <emph>ein getränkmass von 40 vierteln, vergl. <ref target="">Schmeller 1, 109</ref>
+                                </emph>.</note> wines, swa sie die mezzent in der stat, niur vier Berner. von einem fuoder wines in dem winmonde uzerhalben der stat oder in der stat einen zweinziger. von den gesten in der stat oder uzerhalben der stat in dem winmonde oder vor dem winmonde sullent si nemen ze lon einen zweinziger von ie einem fuoder wines. von einem ieglichen vazze daz si mit wazzer mezzent sullent si nemen ze lon niur [<pb facs="https://www.jstor.org/stable/20650143?seq=10" n="422"/>] einen zweinziger, und ir knehte die daz wazzer schepfent sullent nemen ze lon niur einen zweinziger. von einem ieglichen mutte öls oder honic sullent si nemen ze lon einen zweinziger, und von ir ietwederm von einem halben mutte einen zehener; und von einer gelten öls oder honic sullent si nemen vier Berner. von einem halben fuoder wines sullent si nemen einen zehener ze lone. swenne si hin für die stat in daz göu ürn, patzeiden, pottigen bi einem fuoder pfehtent, da sullent si von nemen ze lon von ie einer ürn sehs zweinziger und von ie einer pottigen, da si daz fuoder in mezzent, dri zweinziger.</p>
+                    </div>
+<div xml:id="T.9.2">
+<p>[IX 2] Ouch sullent si haben von patzeiden, pottigen, ölmutte, gelten und stangen und kuofkar genuog, dar umb daz nieman dar an gesumet si, swenne man ir bedarf, an gevaerde. si sullent ouch haben den kezzel dar in alle winmaz und ölmaz bezeichent sint, dar umb daz ie dem man rehte gemezzen unde gepfehtet werde sin maz.</p>
+                    </div>
+<div xml:id="T.9.3">
+<p>[IX 3] Ouch sulnt die winmezzer von Marlingen und von Lanan, einer von Marlingen und einer von Lanan, ieglicher alle jar sehs kriuzer von einer ürn ze pfehten.</p>
+                    </div>
+<div xml:id="T.9.4">
+<p>[IX 4] Die winmezzer sullent ouch nemen von ein fuoder wins in ze lazen sehs zweinziger und von ein fuoder uz ze ziehen ein pfunt Berner.</p>
+                    </div>
+<div xml:id="T.9.5">
+<p>[IX 5] Si sullent ouch warten uf den wal tag unde naht, als ob keinerlei für üz kaeme, daz der walen vertiglich ge, und si sullent in ouch alle samestage ordentlich mit einer houwen rumen durch die ganze stat abe.</p>
+                    </div>
+<div xml:id="T.9.6">
+<p>[IX 6] Si sullent ouch staete und empziglich warten mit allem irem ziuge, scheffer, stangen und ander, ob fiur üz koeme, daz si da mit bereit sin.</p>
+                    </div>
+                </div>
+<div xml:id="T.10">
+<head>X. Daz ist daz gesetzede über daz fuoter.</head>
+<p>Ez sol weder burger noch gädemler noch ander ieman in der stat uf kein fuoter niht lihen vor hin, noch vor hin koufen noch verarren, wan daz man daz fuoter sol lazen füeren unde tragen in die stat uf den kornmarkt, ez sol ouch [<pb facs="https://www.jstor.org/stable/20650143?seq=11" n="423"/>] nieman für die stat dar nach niht riten noch gen noch keinen kneht noch boten darnach niht senten uf die straze durch koufens willen. ez sol ouch menniclich daz fuoter nindert anderswa koufen, an als vil als ein herre oder ein burger oder ir boten kaemen und fuoter koufen wolten in der vrist und ein gädemler in dem koufe waer oder kouft haet, so sol er da von sten und im daz lazen an alle widerrede bi pene fünf pfunde, halbiu dem gerihte und halbiu der stat. ez sol ouch daz selbe fuoter nieman, ez si burger oder gädemler, nimmer koufen wan bi dem liehten tage. ez sol ouch nieman uzerhalben der stat daz fuoter nindert in legen in kein göu noch verbergen noch heimlich in die stat füeren noch mit ander ieman uzerhalben der stat pflihtteil noch gemein noch geselleschaft niht haben, uf in ze koufen, bi pene des fuoters und zehen pfunde, halbiu dem gerihte und halbiu der stat. ez sol ouch kein hindergädemler kein fuoter niht koufen bi pene zweir pfunde und fünf schillinge von ieglichem mutte<note n="19">muete <emph>hs.</emph>
+                        </note>; und sol man den burgern daz fuoter in iriu hiuser lazen füeren unde da mezzen, und andern liuten uf den kornmarkt. swaz fuoter ouch die gädemler koufen, daz sullent sie offenlich veile haben in potigen in den vordern gädemern und niht hin hinder bergen und uf tiurunge behalten; und sol an dem mutte gewinnen niht mer danne einen zweinziger. und swer wider ditze gesetze tuot unde daz fuoter hin hinder birget oder verlougent und niht offenlichen in potigen in sinem gadem veile hat, der ist umb daz fuoter komen und ze pene zwei pfunt und fünf schillige, halbiu dem gerihte und halbiu der stat. ez sol ouch menniclich, ez si gastgeber oder gädemler, daz fuoter verkoufen und geben bi einem rehten vierteil (der sehsiu?) gen an ein ster<note n="20">daz ster (stär), <emph>ital. staro, sesquimodius, getreidemass = 1/2 Wiener metzen</emph>.</note>, oder bi einem vierteil, der ahtiu gen an ein ster. [<pb facs="https://www.jstor.org/stable/20650143?seq=12" n="424"/>] </p>
+                </div>
+<div xml:id="T.11"> 
+<head>XI. Daz ist daz gesetzede über daz fiwer.</head>
+<p>Swenne daz fiwer uz kumt, so sol ie von der fiurstat, ez si burger oder gädemler oder ir gewisser bote, da hin komen mit einer fiurhaken oder mit einer akes oder mit einem schaff wazzer und sol helfen retten. swer daz niht tuot, der sol geben ze pene zehen pfunt Berner, und sol diu pene gevallen der gemeinschaft der stat. und ist daz keinem sin hus abgebrochen wirt durch rettunge des fiwers, dem sol man sin hus wider machen mit der selben pene. möhte diu pene niht gelangen, so sol im diu gemeine dar zuo helfen dannoch. koeme aver ieman daz fiwer ze nahen uf, an dem andern oder an dem dritten oder an dem vierden oder an dem fünften oder an dem sehsten huse uf, der sol umb die pene niht komen.<note n="21">
+                            <emph>d. h. soll keine strafe zahlen, wenn er nicht auf der brandstätte erscheint.</emph>
+                        </note> in swes huse ouch daz fiwer uf kumpt, der sol sin tor uf werfen und niht versperren und sol ouch schrien "fiwer! fiwer!" daz man rette. swer daz niht tuot, der git ze pene fünf und zweinzig pfunt der stat.</p>
+                </div>
+<div xml:id="T.12">
+<head>XII. Daz ist daz gesetzede über diu da die straze unsubernt.</head>
+<div xml:id="T.12.1">
+<p>[XII 1] Ez sol nieman bi tage noch bi naht keinen harn noch huspaht noch unsuber gespüele noch keine unsuberkeit, swie daz genant ist, her füeren in die stat, noch in die straze niht werfen noch tragen, heimlich noch offenlich, bi pene zweir pfunde und fünf schillinge, halbiu dem gerihte und halbiu der stat.</p>
+                    </div>
+<div xml:id="T.12.2">
+<p>[XII 2] Dar nach sol kein ovenkneht noch ofnerin kein vackellieht tragen bi tage noch bi naht, an aleine in der laterne, bi der obgenanten pene dem gerihte unde der stat. [<pb facs="https://www.jstor.org/stable/20650143?seq=13" n="425"/>] </p>
+                    </div>
+                </div>
+<div xml:id="T.13">
+<head>XIII. Daz ist daz gesetzede über die gemeinen frouwen.</head>
+<div xml:id="T.13.1">
+<p>[XIII 1] Ez sol kein gemeine fröuwele keinen frouwenmantel noch kursen niht tragen noch an keinen tanz gen da bürgerin oder ander erbare frouwen sint; und sullent ouch uf irn schuohen tragen ein gelwez vänle, da mit man si erkenne, und sullent niht vehe vedern tragen noch silbergesmide. und swelhez diser sachen ir ainiu des übervert, der sol man daz nemen. und wer daz tuot, dem sol daz sin an allen schaden gen dem gerihte und gen den burgern.</p>
+                    </div>
+<div xml:id="T.13.2">
+<p>[XIII 2] Dar nach sullent die offen pfeffinne sin in den obgenanten penen.</p>
+                    </div>
+                </div>
+<div xml:id="T.14">
+<head>XIV.</head>
+<p>Dar nach ist erfunden, daz nieman sol kein linlach noch ander gewant an die schranken uf der brukken henken bi pene zweir pfunde und fünf schillinge, halbiu dem gerihte und halbiu der stat.</p>
+                </div>
+<div xml:id="T.15">
+<head>XV. Daz ist daz gesetzede über die gädemler</head>
+<p>die in die stat ziehent und veile wellent haben; die sullent am ersten, ent si iht koufen oder verkoufen, sich den burgern ze erkennen geben, ob si in gunnen wellen ze koufen oder verkoufen. und swelher des niht taete oder überfüere, dem sol man nemen waz er veile hat. ouch sol in der kornmezzer kein korn mezzen noch salz, noch der veiltrager kein tuoch mezzen. ist aver daz in daz die burger erloubent und in sin gunnen wellent, so sol man si lazen veile haben und sol man in mezzen als andern gädemlern. ouch sol in daz ir hofwirt in des huse si sint ze wizzen tuon.</p>
+                </div>
+<div xml:id="T.16">
+<head>XVI. Daz ist daz gesetzede umbe den wec</head>
+<p>der durch die münzen get an die fleischbank, daz in den selben wec bi tage noch bi naht iht unsubers geworfen noch [<pb facs="https://www.jstor.org/stable/20650143?seq=14" n="426"/>] gozzen werde, nemlich uz den drin hiusern diu zwischen der münzen und des Slitzgern huse ligent, bi pene zweir pfunde und drier schillinge, halbe dem gerihte und halbe der stat.</p>
+                </div>
+<div xml:id="T.17">
+<head>XVII. Daz ist daz gesetzede über daz underköufelampt an Meran.</head>
+<div xml:id="T.17.1">
+<p>[XVII 1] Von einem fuoder win daz verkouft wirt ein zweinziger, halber von dem köufer und halber von dem hingeber. von ie dem stücke gevärwetes gewandes von wolle zwene schillinge, einen von dem hingeber und einen von dem köufer. von ie dem stücke barchent einen zehener, halben von dem hingeber und halben von dem köufer. von ie dem zentner wahs, kupfer, bli, zin einen zweinziger, halben von dem verkoufer und halben von dem koufer. von ie dem pferde daz verkouft wirt vier zweinziger, zwene von dem verkoufer und zwene von dem koufer. von ie dem soume isen einen zweinziger, halben von dem koufer und halben von dem verkoufer. ouch sullent si den gesten helfen win koufen unde den gesten fuore gewinnen, soumrosse, den selben win ze füeren, also daz man in gebe von ie dem fuoder daz man in der stat an Meran verkouft einen zweinziger, halben von dem verkoufer und halben von dem koufer. von ie dem fuoder win daz man verkouft uzerhalben der stat zwene zweinziger, einen von dem verkoufer und einen von dem koufer. aver die burger die ir wine in der stat verkoufent sint niht gebunden den underkoufen ze lonen. wanne die underköufel helfent gesten pfert zuo winfuore gewinnen, so sullent si nemen von den koufern ze lone zwene zweinziger und von ie dem fuorman der diu pfert lihet ouch zwene zweinziger, si gewinnen vil pfert oder wenic.</p>
+                    </div>
+<div xml:id="T.17.2">
+<p>[XVII 2] Also daz ditze ampt alle underköufel üeben unde tuon an allez gevaerde unde daz si keinen kouf mit der hant dar slahen noch bestaeten, ez werde e geben sant Niklaus kirchen an Meran der gotes pfennic, ein zweinziger. und ob die underköufel der obegenanten koufmanschaft selbe koufen welten, daz mugent si wol tuon ane gevaerde, und sullent [<pb facs="https://www.jstor.org/stable/20650143?seq=15" n="427"/> darumb an ir eide den si tuont über ir ampt niht gearquanet werden von den burgern und ander ieman. unde den lon den die underköufel nement, den sullent si mit einander geliche teiln an allez gevaerde; unde bi welhen koufen oder verkoufen ir ein niht engegen gesin möhte, so sol der ander da bi sin, ze übertragen den andern ane gevaerde.</p>
+                    </div>
+<div xml:id="T.17.3">
+<p>[XVII 3] Ouch sullent si haben daz isen da mit man pfehten sol unde mezzen die ellenstab ze einvaruem gewande, und darzuo unde da mit ein brenisen da mit man ze ietwedrem orte uf die ellenstab brennen sol ein kriuze. und sullent ze den zwen vrien jarmerkten ze pfingesten unde sant Martins tage ie dem gaste geben und antwurten einen niuwen ellenstab, der ein varwez gewant snidet und veile hat. und sol in den gast geben umb einen ellenstab einen zweinziger, oder ander, swer der ist, der in gerne hat oder haben muoz, den sol man in geben ane gevaerde.</p>
+                    </div>
+                </div>
+<div xml:id="T.18">
+<head>XVIII. Daz ist daz gesetzede über daz gebütelampt an Meran.</head>
+<div xml:id="T.18.1">
+<p>Ez sol ein ieglich gebütel, swen er in der stat fürgebiutet, von einem ieglichen der wahte und stiure git nemen ze lone von einem fürgebot einen zehener; und von dem der niht wahte unde stiure git sol er nemen einen zweinziger, uz genomen burgerknehte und antwürkerknehte, der sol ir ieglicher ouch geben niur einen zehener. und swaz er datz einem burger gastgeben oder gädemler oder antwürken verleit und verbiutet, von einem der waht und stiure git sol er nemen ze lon einen zehener, und der niht waht und stiure git oder ein uzerre man ist, sol er nemen ze lon einen zweinziger. er sol ouch nemen ze lon von einem ieglichem dem er von gerihtes wegen pfant sol antwurten dri zweinziger, und von dem er ouch von gerihten wegen gewer sol antwurten, ez sin varndiu<note n="22">v~ndiu <emph>die hs.</emph>
+                            </note> pfant oder urbar, niur in der stat, dri zweinziger. er sol ouch nemen ze lon von einem ster fuoter, ez si haber oder fuotergerste von dem hingeber niur [<pb facs="https://www.jstor.org/stable/20650143?seq=16" n="428"/>] einen Berner; unde von einem ster salz sol er nemen ze lon von dem hingeber ouch einen Berner.</p>
+                    </div>
+<div xml:id="T.18.2">
+<p>[XVIII 2] Swenne ouch der gebütel wahter gewinnet die in der stat an Meran wachent, da von sol er eines wahters lon uf nemen für sine müe. er sol ouch der stat sweiner unde horter gewinnen, ir vihe, swin unde rinder ze hüeten. den selben sol ein ieglicher der swin oder rinder für tribet gebn kost unde lon. swelher daz niht tuon wolte, den sol er dar umbe pfanten und sol ouch da von uz nemen sin reht.</p>
+                    </div>
+<div xml:id="T.18.3">
+<p>[XVIII 3] Swenne ein burger oder einer der waht und stiure git mit einem andern burger oder insaeze der waht und stiure git iht ze schaffen hat mit dem rehten, daz der gebütel im die burger samnen sol, daz sol der gebütel tuon: da von ist man im niht schuldic ze gebn. hat aber ein burger oder einer der waht und stiure git ze schaffen mit einem uzern man mit dem rehten, und im dar zuo der gebütel die burger samnet, so sol er im geben zwene kriuzer und niht mer.</p>
+                    </div>
+                </div>
+<div xml:id="T.19">
+<head>XIX. Daz ist daz gesetzede umbe daz vermachen</head>
+<p>diu vordren tor in der gazzen bergeshalben, da man in den zwein vrien jarmärkten aller leie gewant unde kramen veile hat, daz nieman sin vordrez tor her uz in die strazen über die nuosche<note n="23">nussche <emph>hs.</emph>
+                        </note> weder mit gewant noch mit ander ihtiu verslahen oder verschrenken noch vermachen sol, bi pene fünf pfunde und dri zweinziger, halbiu dem gerihte und halbiu der stat.</p>
+                </div>
+<div xml:id="T.20">
+<head>XX. Daz ist daz gesetzede über die leitgeben</head>
+<p>die da win schenkent, ez sin burger oder gädemler, an Meran, ez si umbe lon oder eigen win. swer den trinken wil in dem leithuse oder uzerhalben des leithuses under dem tor des selben leithuses oder uf dem laden des huses, swie man den win schenket, der sol den win gelten mit bereiten Pfennigen oder, ob er pfennige niht enhat, so sol er dem winschenken [<pb facs="https://www.jstor.org/stable/20650143?seq=17" n="429"/>] solhiu pfant da lazen da von er sins geltes gewert ane gevaerde, swelher leie pfant daz sin, ane messegewant und waz zuo dem alter gehoeret und ungebuntenz garn und ungegerwete hiute oder vel uz dem eschen<note n="24">
+                            <emph>vergl.</emph> äscher <ref target="">Frisch 1, 38<hi rend="sup">b</hi>
+                            </ref>.</note> und bluotigez gewant, oder swaz so getanes dinges ist daz ein leitgebe niht nemen sol. oder er setze im einen bürgen ane gevaerde nach wines reht, der im pfant gebe und antwurte über naht ze bereiten unde des anderen tages ze verkoufen ze voller werunge sins geltes. waer aver er solher man der niht gelten möhte oder wolte, den mac der leitgebe wol pfenten ob er wil. ist ab er ein<note n="25">ist aver ein <emph>hs.</emph>
+                        </note> solher man der wol gelten mag unde dar zuo gesezzen ist unde den win des er schuldig ist ze gelten niht giltet und get da mit uz dem leithus ane des leitgeben urloub unde kumpt des andern tages, vor ert man ze sant Niklaus kirchen gar ze fron ampt gehütet hat, hinwider in daz selbe leitgebhus unde giltet dem leitgeber sin gelt mit pfennigen oder pfanten da sich der leitgebe an lat genüegen, wol und guot. geschaehe des aver also niht, so ist er gevallen ze pene fünf pfunt unde dri zweinziger, halbiu dem geriht und halbiu der stat. ist aver er ein uzerre man der niht waht und stiure git, der ist komen umbe fünfzic pfunt gen dem gerihte, dannoch sol er dem leitgeben sinen win gelten.</p>
+                </div>
+<div xml:id="T.21">
+<head>XXI.</head>
+<p>Swelher ouch der liute die in der stat gesezzen sin, ez sin burger oder ander, den andern wundet, da von sol dem gerihte gevallen fünfzig pfunt. swer ouch ez si, burger, edel oder unedel oder swie er geheizen ist, keinem an Meran, er si rich oder arm, uf unzuht in sin hus git oder loufet oder ieman dar in jagt, der flühtig wirt, mit nachvolgende, kumpt er innerhalb des trupfstals, so sol er geben ze halber buoze dem er nach volget 25 pfunt Berner, dem gerihte 25 pfunt, unde dem wirte under des trupfstal er kumpt, sol er ouch geben 25 pfunt. kumpt aber der der in da jagt für baz unz über daz drischüvel,<note n="26">dristhubel <emph>hs. (abschrift). schwelle.</emph>
+                        </note> so sol er ze ganzer buoze ieglichem [<pb facs="https://www.jstor.org/stable/20650143?seq=18" n="430"/>] geben 50 pfunt. waer ouch ez ein solher man der daz niht vergelten möhte und ungewis darzuo waere, koment die burger darzuo, die sullent denselben uf haben, ob si mügent, unz an daz gerihte. wolte aber sich derselbe weren unde sich niht lazen uf haben noch vahen, geschaehe danne der aht von den burgaern, ez waeren wunden oder totschlag, dar umbe sullent die burger in unser ungenade niht gevallen unde sullent ouch uns und unsern rihtern dar umbe ungebunten sin daz selbe mit aehte ze büezen. dar umbe ist ein brief und umb ander gesetzet von künig Heinrichen, des datum lutet 1317 sambstag vor sant Vitstag.
+</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
