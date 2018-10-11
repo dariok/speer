@@ -654,7 +654,7 @@
 					<xsl:when test="starts-with(@target, '#')">
 						<xsl:value-of select="@target"/>
 					</xsl:when>
-					<xsl:when test="starts-with(@target, 'http')">
+					<xsl:when test="starts-with(@target, 'http') or starts-with(@target, 'view.html')">
 						<xsl:value-of select="@target"/>
 					</xsl:when>
 					<xsl:otherwise>
