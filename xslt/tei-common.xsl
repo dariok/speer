@@ -651,8 +651,15 @@
 						<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
 						<xsl:value-of select="$url || substring-after(@target, ',')"/>
 					</xsl:when>
-					<xsl:otherwise>
+					<xsl:when test="starts-with(@target, '#')">
 						<xsl:value-of select="@target"/>
+					</xsl:when>
+					<xsl:when test="starts-with(@target, 'http')">
+						<xsl:value-of select="@target"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:variable name="id" select="doc(@target)/tei:TEI/@xml:id"/>
+						<xsl:value-of select="'view.html?id=' || $id"/>
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
