@@ -26,7 +26,8 @@
 	<!-- replace space by _ and remove ,. -->
 	
 	<xsl:template match="/">
-		<xsl:processing-instruction name="xml-model">/exist/apps/edoc/data/repertorium/rules/repertorium.sch"</xsl:processing-instruction>
+		<xsl:processing-instruction name="xml-model">href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+		<xsl:processing-instruction name="xml-model">href="../rules/tei-p5-transcr.xsd" type="application/xml"</xsl:processing-instruction>
 		<xsl:apply-templates />
 	</xsl:template>
 	
@@ -106,7 +107,8 @@
 	<!-- @target nur produzieren, wenn Inhalt vorhanden; 2018-11-07 DK -->
 	<xsl:template match="*:quelle">
 		<xsl:choose>
-			<xsl:when test="contains(., 'Seite') and count(tokenize(., ' ')) &lt; 3">
+			<xsl:when test="contains(., 'Seite')
+				and not(following-sibling::*[1][self::*:pb])">
 				<!-- Seite und ein Leerzeichen: Seitenumbruch -->
 				<pb>
 					<xsl:attribute name="facs">
@@ -182,6 +184,19 @@
 	<!-- pb/@url → pb/@facs; 2016-08-18 DK -->
 	<xsl:template match="*:pb/@url">
 		<xsl:attribute name="facs" select="."/>
+	</xsl:template>
+	<xsl:template match="*:pb">
+		<pb>
+			<xsl:if test="not(@id)">
+				<xsl:attribute name="xml:id">
+					<xsl:choose>
+						<xsl:when test="@n">p<xsl:value-of select="@n"/></xsl:when>
+						<xsl:otherwise>p<xsl:number /></xsl:otherwise>
+					</xsl:choose>
+				</xsl:attribute>
+			</xsl:if>
+			<xsl:apply-templates select="@*" />
+		</pb>
 	</xsl:template>
 	
 	<!-- corr/@sic → <choice><sic><corr>; 2016-08-18 DK -->
