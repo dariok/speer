@@ -58,7 +58,7 @@
 				</publicationStmt>
 			</xsl:if>
 			<!-- educated guess... 2016-08-18 DK -->
-			<xsl:if test="not(sourceDesc) or not(sourceDesc/*)">
+			<xsl:if test="not(*:sourceDesc) or not(*:sourceDesc/*)">
 				<sourceDesc>
 					<xsl:choose>
 						<xsl:when test="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]">
@@ -740,36 +740,38 @@
 	</xsl:template>
 	
 	<!-- nested indexes are really nested now -->
-	<xsl:template match="index[@level1]">
-		<xsl:element name="index" namespace="http://www.tei-c.org/ns/1.0">
-			<xsl:attribute name="indexName">
-				<xsl:value-of select="@index"/>
-			</xsl:attribute>
-			<xsl:element name="term">
-				<xsl:value-of select="@level1"/>
-			</xsl:element>
-			<xsl:if test="@level2">
-				<xsl:element name="index">
-					<xsl:element name="term">
-						<xsl:value-of select="@level2"/>
-					</xsl:element>
-					<xsl:if test="@level3">
-						<xsl:element name="index">
-							<xsl:element name="term">
-								<xsl:value-of select="@level3"/>
-							</xsl:element>
-							<xsl:if test="@level4">
-								<xsl:element name="index">
-									<xsl:element name="term">
-										<xsl:value-of select="@level4"/>
-									</xsl:element>
-								</xsl:element>
-							</xsl:if>
-						</xsl:element>
-					</xsl:if>
-				</xsl:element>
+	<xsl:template match="*:index[@level1]">
+		<index>
+			<xsl:if test="@index">
+				<xsl:attribute name="indexName">
+					<xsl:value-of select="@index"/>
+				</xsl:attribute>
 			</xsl:if>
-		</xsl:element>
+			<term>
+				<xsl:value-of select="@level1"/>
+			</term>
+			<xsl:if test="@level2">
+				<index>
+					<term>
+						<xsl:value-of select="@level2"/>
+					</term>
+					<xsl:if test="@level3">
+						<index>
+							<term>
+								<xsl:value-of select="@level3"/>
+							</term>
+							<xsl:if test="@level4">
+								<index>
+									<term>
+										<xsl:value-of select="@level4"/>
+									</term>
+								</index>
+							</xsl:if>
+						</index>
+					</xsl:if>
+				</index>
+			</xsl:if>
+		</index>
 	</xsl:template>
 	
 	<!-- <monogr> only allowed as child of a <biblStruct> -->
