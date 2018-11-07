@@ -12,8 +12,11 @@
 	</pattern>-->
 	
 	<pattern id="ref">
-		<rule context="tei:ref">
-			<assert test="starts-with(@target, 'ln:') or starts-with(@target, 'http') or matches(@target, '\.xml')">
+		<rule context="tei:ref[@target]">
+			<assert test="starts-with(@target, 'ln:')
+				or starts-with(@target, 'http')
+				or matches(@target, '\.xml')
+				or starts-with(@target, '#')">
 				Fehler im ref. Muß mit „ln:“ beginnen (ehem. Entitäten), auf eine XML-Datei verweisen oder eine URL sein
 			</assert>
 		</rule>
