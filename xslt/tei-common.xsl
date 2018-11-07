@@ -879,6 +879,10 @@
 		</div>
 	</xsl:template>
 	
+	<xsl:template match="@xml:id">
+		<xsl:attribute name="id" select="normalize-space()" />
+	</xsl:template>
+	
 	<!-- neu 2016-07-012 DK -->
 	<xsl:template match="tei:note" mode="fnText">
 		<xsl:apply-templates/>

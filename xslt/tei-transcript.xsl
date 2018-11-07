@@ -8,7 +8,7 @@
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
-	<xsl:import href="tei-common.xsl?13"/>
+	<xsl:import href="tei-common.xsl?14"/>
 	
 	<xsl:template match="/" mode="content">
 		<div id="content"> <!-- Container für den restlichen Inhalt -->
@@ -122,7 +122,7 @@
 						</xsl:otherwise>
 					</xsl:choose>
 				</xsl:attribute>
-				<xsl:value-of select="@n"/>
+				<xsl:apply-templates select="@n | @xml:id" />
 			</a>
 		</span>
 	</xsl:template>
