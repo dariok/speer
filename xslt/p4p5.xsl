@@ -48,7 +48,7 @@
 	<!-- fileDesc vervollständigen; 2016-08-18 DK -->
 	<xsl:template match="*:fileDesc">
 		<fileDesc>
-			<xsl:apply-templates/>
+			<xsl:apply-templates select="*[*]"/>
 			<xsl:if test="not(*:publicationStmt) or normalize-space(*:publicationStmt)=''">
 				<publicationStmt>
 					<editor>Heino Speer</editor>
@@ -58,43 +58,11 @@
 				</publicationStmt>
 			</xsl:if>
 			<!-- educated guess... 2016-08-18 DK -->
-			<xsl:if test="not(*:sourceDesc)">
+			<xsl:if test="not(sourceDesc) or not(sourceDesc/*)">
 				<sourceDesc>
-					<!-- »<p>[Quelle:« oder ähnlich -->
 					<xsl:choose>
-						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]">
-							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*Transkription')]"/>
-							<xsl:variable name="u" select="substring-after(substring-before($t, 'Transkription'), 'Quelle:')"/>
-							<xsl:choose>
-								<xsl:when test="ends-with(normalize-space($u), '::')">
-									<xsl:value-of select="normalize-space(substring-before($u, '::'))"/>
-								</xsl:when>
-								<xsl:when test="ends-with(normalize-space($u), ':')">
-									<xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/>
-								</xsl:when>
-								<xsl:otherwise>
-									<p>
-										<xsl:value-of select="normalize-space($u)"/>
-									</p>
-								</xsl:otherwise>
-							</xsl:choose>
-						</xsl:when>
-						<xsl:when test="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]">
-							<xsl:variable name="t" select="/*:TEI.2/*:text/*:body/*:div[@id='Einleitung']/*:p[matches(., '.?Quelle:.*:*')]"/>
-							<xsl:variable name="u" select="substring-after($t, 'Quelle:')"/>
-							<xsl:choose>
-								<xsl:when test="ends-with(normalize-space($u), '::')">
-									<xsl:value-of select="normalize-space(substring-before($u, '::'))"/>
-								</xsl:when>
-								<xsl:when test="ends-with(normalize-space($u), ':')">
-									<xsl:value-of select="normalize-space(substring(normalize-space($u), -1))"/>
-								</xsl:when>
-								<xsl:otherwise>
-									<p>
-										<xsl:value-of select="normalize-space($u)"/>
-									</p>
-								</xsl:otherwise>
-							</xsl:choose>
+						<xsl:when test="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]">
+							<p><xsl:apply-templates select="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]/node()" /></p>
 						</xsl:when>
 						<xsl:when test="matches(//*:title, '[iI]n: ')">
 							<p>
