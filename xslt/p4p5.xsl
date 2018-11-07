@@ -4,7 +4,7 @@
 	xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.0"
 	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
 	
-	<!-- Bearbeier:DK = Dario Kampkaspar <dario.kampkaspar@oeaw.ac.at> -->
+	<!-- Bearbeiter:DK = Dario Kampkaspar <dario.kampkaspar@oeaw.ac.at> -->
 	
 	<xsl:param name="fileid"/>
 	<!-- Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK -->
@@ -103,22 +103,8 @@
 	</xsl:template>
 	
 	<!-- Specifica -->
-	<!-- quelle wird zunächst zu tei:ref; 2016-08-18 DK -->
-	<!-- geändert: idR wird es zu pb; 2016-11-02 DK -->
-	<!-- genauere Prüfung des Inhaltes; 2017-03-28 DK -->
+	<!-- @target nur produzieren, wenn Inhalt vorhanden; 2018-11-07 DK -->
 	<xsl:template match="*:quelle">
-		<!--<pb>
-			<xsl:if test="string-length(@url) > 0">
-				<xsl:attribute name="facs">
-					<xsl:value-of select="@url"/>
-				</xsl:attribute>
-			</xsl:if>
-			<xsl:if test="text()">
-				<xsl:attribute name="n">
-					<xsl:apply-templates/>
-				</xsl:attribute>
-			</xsl:if>
-		</pb>-->
 		<xsl:choose>
 			<xsl:when test="contains(., 'Seite') and count(tokenize(., ' ')) &lt; 3">
 				<!-- Seite und ein Leerzeichen: Seitenumbruch -->
@@ -140,9 +126,11 @@
 			</xsl:when>
 			<xsl:otherwise>
 				<ref>
-					<xsl:attribute name="target">
-						<xsl:value-of select="@url"/>
-					</xsl:attribute>
+					<xsl:if test="@url and string-length(@url) > 0">
+						<xsl:attribute name="target">
+							<xsl:value-of select="@url"/>
+						</xsl:attribute>
+					</xsl:if>
 					<xsl:apply-templates/>
 				</ref>
 			</xsl:otherwise>
@@ -219,7 +207,9 @@
 				Adjust this to your local use of @targType/@type and @type/@subtype. -->
 	<xsl:template name="t_ref">
 		<xsl:element name="ref">
-			<xsl:copy-of select="@target"/>
+			<xsl:if test="@target and string-length(@target) > 0">
+				<xsl:sequence select="@target" />
+			</xsl:if>
 			<xsl:choose>
 				<xsl:when test="@targType">
 					<xsl:if test="@type">
