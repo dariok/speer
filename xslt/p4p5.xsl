@@ -25,6 +25,11 @@
 	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ ,.'"/>
 	<!-- replace space by _ and remove ,. -->
 	
+	<xsl:template match="/">
+		<xsl:processing-instruction name="xml-model">/exist/apps/edoc/data/repertorium/rules/repertorium.sch"</xsl:processing-instruction>
+		<xsl:apply-templates />
+	</xsl:template>
+	
 	<!-- **
 				* Project-specific instructions
 				* Adjust these according to your local requirements.
