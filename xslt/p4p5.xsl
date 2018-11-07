@@ -944,9 +944,9 @@
 		</xsl:if>
 	</xsl:template>
 	
-	<xsl:template match="teiCorpus/TEI/@xmlns"/>
-	
-	<xsl:template match="@xmlns"/>
+	<xsl:template match="*:table/@border">
+		<xsl:attribute name="rend" select="'border: ' || normalize-space()"/>
+	</xsl:template>
 	<!-- ** Defaults ** -->
 	
 	<!-- make sure every element is in the right namespace -->
