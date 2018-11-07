@@ -659,10 +659,10 @@
 					<xsl:when test="starts-with(@target, 'http') or starts-with(@target, 'view.html')">
 						<xsl:value-of select="@target"/>
 					</xsl:when>
-					<xsl:otherwise>
+					<xsl:when test="doc-available(@target)">
 						<xsl:variable name="id" select="doc(@target)/tei:TEI/@xml:id"/>
 						<xsl:value-of select="'view.html?id=' || $id"/>
-					</xsl:otherwise>
+					</xsl:when>
 				</xsl:choose>
 			</xsl:attribute>
 			<xsl:apply-templates/>
