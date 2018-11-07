@@ -407,9 +407,12 @@
 	<!-- Tabellen -->
 	<xsl:template match="tei:table">
 		<table>
-			<xsl:if test="@rend='noborder'">
-				<xsl:attribute name="class">noborder</xsl:attribute>
-			</xsl:if>
+			<xsl:choose>
+				<xsl:when test="not(@rend) or @rend='noborder'">
+					<xsl:attribute name="class">noborder</xsl:attribute>
+				</xsl:when>
+				<xsl:when test="contains(@rend, 'border')" />
+			</xsl:choose>
 			<xsl:if test="tei:row[1]/tei:cell[1][@role='label']">
 				<xsl:attribute name="class">firstColumnLabel</xsl:attribute>
 			</xsl:if>
@@ -417,7 +420,6 @@
 		</table>
 	</xsl:template>
 	
-	<!-- TODO das hier nach "common-common"? 2016-05-31 DK -->
 	<xsl:template match="tei:unclear">
 		<xsl:apply-templates/>
 		<xsl:text>〈?〉</xsl:text>
