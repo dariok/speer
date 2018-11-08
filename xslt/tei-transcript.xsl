@@ -3,91 +3,74 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:xstring = "https://github.com/dariok/XStringUtils"
+	xmlns:acdh="https://www.acdh.oeaw.ac.at"
 	exclude-result-prefixes="#all" version="3.0">
 	
 	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
-	<!-- Imports werden über tei-common abgewickelt; 2015/10/23 DK -->
-	<xsl:import href="tei-common.xsl?14"/>
 	
-	<xsl:template match="/" mode="content">
-		<div id="content"> <!-- Container für den restlichen Inhalt -->
+	<xsl:import href="string-pack.xsl" />
+	
+	<xsl:output method="html"/>
+	
+	<xsl:variable name="viewURL">
+		<xsl:text>https://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/view.html</xsl:text>
+	</xsl:variable>
+	<xsl:variable name="baseDir">
+		<xsl:text>https://repertorium.acdh-dev.oeaw.ac.at/exist/apps/edoc/data/repertorium</xsl:text>
+	</xsl:variable>
+	
+	<xsl:template match="/">
+		<div id="content">
 			<p class="editors">Transkribiert von <xsl:apply-templates select="/tei:TEI/tei:teiHeader//tei:publisher/tei:ref"/></p>
 			<!-- Haupttext -->
 			<xsl:apply-templates select="tei:TEI/tei:text"/>
-			<xsl:call-template name="apparatus"/>
-			<xsl:call-template name="footnotes"/>
-		</div><!-- end #content -->
+			<div id="FußnotenApparat">
+				<hr class="fnRule"/>
+				<xsl:apply-templates select="/tei:TEI/tei:text//tei:note[@type='footnote' or not(@type)]" mode="fn" />
+			</div>
+			<xsl:call-template name="apparatus" />
+		</div>
 	</xsl:template>
 	
-	<!-- Body-Elemente -->
-	<!-- TODO closer, opener etc entsprechend PDF positionieren -->
-	<xsl:template match="tei:closer[@rend and not(@rend='inline')]">
+	<xsl:template match="tei:titleStmt/tei:title">
+		<xsl:apply-templates select="node()[not(self::tei:date or self::tei:placeName)]"/>
 		<br/>
-		<span class="closer" style="{@rend}">
-			<xsl:apply-templates/>
-		</span>
+		<xsl:apply-templates select="tei:placeName"/>
+		<xsl:if test="tei:date and tei:placeName">
+			<xsl:text>, </xsl:text>
+		</xsl:if>
+		<xsl:apply-templates select="tei:date"/>
 	</xsl:template>
 	
-	<!-- a gelöscht; id in div übernommen; 2016-05-30 DK -->
-	<!-- Sonderfälle wie in PDF berücksichtigt; 2016-05-30 DK -->
-	<xsl:template match="tei:div[not(@type='footnotes' or @type='supplement')]">
+	<xsl:template match="tei:div">
 		<div>
 			<xsl:attribute name="id">
-                <xsl:call-template name="makeID"/>
-            </xsl:attribute>
-			<xsl:choose>
-				<xsl:when test="tei:*[1][self::tei:note] and tei:*[2][self::tei:head]">
-					<xsl:apply-templates select="*[2]"/>
-					<xsl:apply-templates select="*[position() &gt; 2]"/>
-				</xsl:when>
-				<xsl:when test="tei:*[1][self::tei:pb] and tei:*[2][self::tei:note] and tei:*[3][self::tei:head]">
-					<xsl:apply-templates select="*[3]"/>
-					<xsl:apply-templates select="*[position() &gt; 3]"/>
-				</xsl:when>
-				<xsl:when test="tei:*[1][self::tei:note] and tei:*[2][self::tei:note] and tei:*[3][self::tei:head]">
-					<xsl:apply-templates select="*[3]"/>
-					<xsl:apply-templates select="*[position() &gt; 3]"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:apply-templates/>
-				</xsl:otherwise>
-			</xsl:choose>
+				<xsl:choose>
+					<xsl:when test="@xml:id"><xsl:value-of select="@xml:id" /></xsl:when>
+					<xsl:otherwise>d<xsl:number level="any" /></xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
+			<xsl:apply-templates />
 		</div>
 	</xsl:template>
 	
-	<!-- @type='supplement' entfernt wg. Konformität zu structMD; 2016-03-18 DK -->
-	<!-- angepaßt an PDF; 2016-05-30 DK -->
-	<xsl:template match="tei:div[starts-with(@xml:id, 'supp')]">
-		<div class="supplement">
-			<xsl:attribute name="id">
-                <xsl:call-template name="makeID"/>
-            </xsl:attribute>
-			<h2>Beilage 
-				<xsl:if test="count(//tei:div[@type = 'supplement']) &gt; 1">
-					<xsl:number level="single" count="tei:div[@type = 'supplement']"/>
-				</xsl:if>
-			</h2>
-			<xsl:if test="tei:head">
-				<h3>
-                    <xsl:value-of select="tei:head"/>
-                </h3>
-			</xsl:if>
-		</div>
-		<xsl:apply-templates select="tei:div"/>
-	</xsl:template>
-	
-	<!-- Entscheidung vom 5.11.14: fw nicht mehr ausgeben (JB)-->
 	<xsl:template match="tei:fw"/>	
 	
-	<!-- angepaßt an Ausgabe in intro und gemeinsames template für bei Arten von Überschrift (wegen Fußnote bei
-		@rend='inline'; 2016-05-30 DK -->
+	<xsl:template match="tei:gap">
+		<xsl:choose>
+			<xsl:when test="@reason">
+				<xsl:text>〈…〉</xsl:text>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:text>[…]</xsl:text>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	
 	<xsl:template match="tei:head">
 		<xsl:variable name="lev">
-			<xsl:choose>
-				<xsl:when test="@type='subheading'">3</xsl:when>
-				<xsl:otherwise>2</xsl:otherwise>
-			</xsl:choose>
+			<xsl:value-of select="count(ancestor::tei:div)"/>
 		</xsl:variable>
 		<xsl:element name="h{$lev}">
 			<xsl:attribute name="id">hd<xsl:number level="any"/></xsl:attribute>
@@ -98,669 +81,366 @@
 			<a href="javascript:$('#wdbContent').scrollTop(0);" class="upRef">↑</a>
 		</xsl:element>
 	</xsl:template>
-	
-	<!-- @style kommt nicht vor; 2016-05-30 DK -->
-	<xsl:template match="tei:p[not(parent::tei:div[@type='colophon'])]">
+
+	<xsl:template match="tei:hi">
+		<xsl:choose>
+			<xsl:when test="@rend='strong'">
+				<b><xsl:apply-templates/></b>
+			</xsl:when>
+			<xsl:when test="@rend='ita'">
+				<i><xsl:apply-templates/></i>
+			</xsl:when>
+			<xsl:when test="@rend='center'">
+				<span style="display:inline-block; width:100%; text-align:center;"><xsl:apply-templates/></span>
+			</xsl:when>
+			<xsl:when test="@rend='sup'">
+				<span class="superscript">
+					<xsl:apply-templates/>
+				</span>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:apply-templates />
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<xsl:template match="tei:p">
 		<p class="content">
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
-
-	<!-- Seitenumbrüche-->
+	
 	<xsl:template match="tei:pb">
-		<span class="pagebreak">
-			<a>
-				<xsl:attribute name="href">
-					<xsl:choose>
-						<xsl:when test="starts-with(@facs, 'ln:')">
-							<xsl:variable name="base" select="xstring:substring-before(substring-after(@facs, 'ln:'), ',')"/>
-							<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
-							<xsl:value-of select="$url || xstring:substring-after(@facs, ',')"/>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:value-of select="@facs"/>
-						</xsl:otherwise>
-					</xsl:choose>
-				</xsl:attribute>
-				<xsl:apply-templates select="@n | @xml:id" />
-			</a>
-		</span>
+		<a class="pagebreak">
+			<xsl:attribute name="href">
+				<xsl:choose>
+					<xsl:when test="starts-with(@facs, 'ln:')">
+						<xsl:variable name="base" select="xstring:substring-before(substring-after(@facs, 'ln:'), ',')"/>
+						<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
+						<xsl:value-of select="$url || xstring:substring-after(@facs, ',')"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="@facs"/>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute>
+			<xsl:apply-templates select="@n | @xml:id" />
+		</a>
 	</xsl:template>
 	
-	<!-- choice -->
 	<xsl:template match="tei:choice">
-		<xsl:apply-templates select="tei:reg"/>
-		<xsl:apply-templates select="tei:ex"/>
-		<xsl:apply-templates select="tei:expan"/>
-		<xsl:apply-templates select="tei:corr"/>
-	</xsl:template>
-	
-	<xsl:template match="tei:sic">
-		<xsl:apply-templates/>
-		<xsl:if test="not(parent::tei:choice)">
-			<xsl:text> [!]</xsl:text>
+		<xsl:variable name="number">
+			<xsl:call-template name="fnumberKrit"/>
+		</xsl:variable>
+		
+		<xsl:if test="contains(tei:corr, ' ')">
+			<xsl:call-template name="footnoteLink">
+				<xsl:with-param name="position">a</xsl:with-param>
+				<xsl:with-param name="type">crit</xsl:with-param>
+			</xsl:call-template>
 		</xsl:if>
-	</xsl:template>
-	
-	<!-- neu für items mit mehreren Zählungen; 2016-07-18 DK -->
-	<xsl:template match="tei:rdg" mode="fnLink">
+		<span id="tcrit{$number}">
+			<xsl:apply-templates select="tei:corr/node()"/>
+		</span>
 		<xsl:call-template name="footnoteLink">
 			<xsl:with-param name="type">crit</xsl:with-param>
 		</xsl:call-template>
 	</xsl:template>
 	
-	<!-- #### Pointer #### -->
-	<!-- Change: @type='wdb' ausgelagert nach tei-common, 2015/10/23 DK -->
-	<xsl:template match="tei:ptr[@type='link'][@target]">
-		[<a href="{@target}" target="_blank">Link</a>]
-		<xsl:apply-templates/>
+	<xsl:template match="tei:list">
+		<ul>
+			<xsl:apply-templates select="tei:item | tei:pb"/>
+		</ul>
 	</xsl:template>
 	
-	<xsl:template match="tei:ptr[@type='digitalisat'][@target]">
-		[<a href="{@target}" target="_blank">Digitalisat</a>
-        <xsl:text>]</xsl:text>
-		<xsl:apply-templates/>
-	</xsl:template>
-	
-	<xsl:template match="tei:ptr[@type='gbv'][@cRef]">
-		<xsl:variable name="gbv">
-            <xsl:text>http://gso.gbv.de/DB=2.1/PPN?PPN=</xsl:text>
-        </xsl:variable>
-		[<a href="{concat($gbv,@cRef)}" target="_blank">GBV</a>]
-		<xsl:apply-templates/>
-	</xsl:template>
-	
-	<xsl:template match="tei:ptr[@type='opac'][@cRef]">
-		<xsl:variable name="opac">
-            <xsl:text>http://opac.lbs-braunschweig.gbv.de/DB=2/PPN?PPN=</xsl:text>
-        </xsl:variable>
-		[<a href="{concat($opac,@cRef)}" target="_blank">OPAC</a>]
-		<xsl:apply-templates/>
-	</xsl:template>
-	
-	<!-- Listen -->
-	<!-- überarbeitet 2016-05-31 DK -->
-	<xsl:template match="tei:list[@rend='continuous_text']">
-		<xsl:apply-templates select="tei:item" mode="ctext"/>
-	</xsl:template>
-	<xsl:template match="tei:list[not(@rend)]">
-		<dl>
-			<xsl:choose>
-				<xsl:when test="contains(@type, 'flex')">
-					<xsl:attribute name="class">flex</xsl:attribute>
-				</xsl:when>
-				<xsl:when test="contains(@type, 'long')">
-					<xsl:attribute name="class">long</xsl:attribute>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:attribute name="class">flex</xsl:attribute>
-				</xsl:otherwise>
-			</xsl:choose>
-			<xsl:apply-templates select="tei:item | tei:pb | tei:anchor"/>
-		</dl>
-	</xsl:template>
-	
-	<!-- item bei @rend="continuous_text" als Fließtext ausgeben; Korrigendaliste: vor jedes corrigenda-<item> und nach
-		jedem korrelierenden <add @corresp> einen Pfeil als Link zum Springen einfügen (JB 11.12.14) -->
-	<!-- TODO prüfen; es gibt ggf. mehrere Ziele! 2016-05-31 DK -->
-	<xsl:template match="tei:item" mode="ctext">
-		<xsl:if test="@xml:id[starts-with(.,'corr')]">
-			<!-- Überprüfen, ob im Dokument ein @corresp zur @xml:id vorhanden ist -->
-			<!-- Prüfung ausgenommen; sollte idR immer vorhanden sein; 2016-06-01 DK -->
-<!--			<xsl:if test="//tei:*[@corresp = substring(current()/@xml:id, 1)]">-->
-				<a id="co{@xml:id}" href="#coa{@xml:id}">↑</a>
-			<!--</xsl:if>-->
-		</xsl:if>
-		<xsl:apply-templates/>
-		<xsl:text> </xsl:text>
-	</xsl:template>
-	
-	<!-- vollständige überarbeitet; Aussehen an PDF angepaßt; 2016-05-31 DK -->
 	<xsl:template match="tei:item">
-		<xsl:choose>
-			<xsl:when test="preceding-sibling::tei:label">
-				<dt>
-					<xsl:if test="(preceding-sibling::tei:label)[1]/@xml:id">
-						<xsl:attribute name="id">
-                            <xsl:value-of select="(preceding-sibling::tei:label)[1]/@xml:id"/>
-                        </xsl:attribute>
-					</xsl:if>
-					<xsl:choose>
-						<xsl:when test="preceding-sibling::tei:label[1][@n] and not(parent::tei:list[contains(@type, 'consistent')])">
-							<xsl:text>〈</xsl:text>
-							<xsl:value-of select="preceding-sibling::tei:label[1]/@n"/>
-							<xsl:text>〉 </xsl:text>
-						</xsl:when>
-						<xsl:when test="string-length(preceding-sibling::tei:label[1]/tei:app/tei:lem) &gt; 0">
-							<xsl:value-of select="preceding-sibling::tei:label[1]/tei:app/tei:lem"/>
-							<xsl:if test="not(substring(preceding-sibling::tei:label[1]/tei:app/tei:lem,         string-length(preceding-sibling::tei:label[1]/tei:app/tei:lem)-1) = '.')">
-								<xsl:text>.</xsl:text>
-							</xsl:if>
-						</xsl:when>
-						<xsl:otherwise>
-							<xsl:apply-templates select="preceding-sibling::tei:label[1]"/>
-						</xsl:otherwise>
-					</xsl:choose>
-				</dt>
-			</xsl:when>
-			<xsl:otherwise>
-				<dt>&#160;</dt>
-			</xsl:otherwise>
-		</xsl:choose>
-		<dd>
-			<xsl:if test="preceding-sibling::tei:label[1]/tei:app">
-				<xsl:if test="string-length(preceding-sibling::tei:label[1]/tei:app/tei:rdg[1]) &gt; 0">
-					<xsl:text>(</xsl:text>
-					<xsl:apply-templates select="preceding-sibling::tei:label[1]/tei:app/tei:rdg[1]"/>
-					<xsl:text>)</xsl:text>
-					<xsl:apply-templates select="preceding-sibling::tei:label[1]/tei:app/tei:note"/>
-					<xsl:text> </xsl:text>
-				</xsl:if>
-				<xsl:if test="preceding-sibling::tei:label[1]/tei:app/tei:rdg[2]">
-					<!-- neu 2016-07-18 DK -->
-					<!-- TODO Ergebnis gegen PDF prüfen (kommt in 069 oder so vor) -->
-					<xsl:apply-templates select="preceding-sibling::tei:label[1]/tei:app/tei:rdg[2]" mode="fnLink"/>
-					<!-- TODO Ausgabe der Fußnote prüfen -->
-					<!--<xsl:text>\footnotetextA{\textit{</xsl:text>
-					<xsl:value-of select="substring-after(preceding-sibling::tei:label[1]/tei:app/tei:rdg[1]/@wit, '#')"/>
-					<xsl:text>}; </xsl:text>
-					<xsl:value-of select="preceding-sibling::tei:label[1]/tei:app/tei:rdg[2]"/>
-					<xsl:text> \textit{</xsl:text>
-					<xsl:value-of select="substring-after(preceding-sibling::tei:label[1]/tei:app/tei:rdg[2]/@wit, '#')"/>
-					<xsl:text>}}</xsl:text>
-					<xsl:text> </xsl:text>-->
-				</xsl:if>
-			</xsl:if>
+		<li>
 			<xsl:apply-templates select="node()"/>
-		</dd>
+		</li>
 	</xsl:template>
 	
-	<!-- template match="tei:listBibl" gelöscht, kommt nicht vor; 2016-05-31 DK -->
-	<!-- index gelöscht; 2016-05-31 -->
-	<!-- templates zu tei:anchor ausgelagert nach common; 2016-05-26 DK -->
-	
-	<!-- TODO Einrücken wie in PDF; 2016-05-31 DK -->
-	<xsl:template match="tei:lg">
-		<span>
+	<xsl:template match="tei:ref[@target]">
+		<a target="_blank">
+			<xsl:attribute name="href">
+				<xsl:choose>
+					<xsl:when test="starts-with(@target, 'ln:')">
+						<xsl:variable name="base" select="xstring:substring-before(substring-after(@target, 'ln:'), ',')"/>
+						<xsl:variable name="url" select="doc($baseDir || '/register/rep_ent.xml')/id($base)"/>
+						<xsl:value-of select="$url || substring-after(@target, ',')"/>
+					</xsl:when>
+					<xsl:when test="starts-with(@target, '#')">
+						<xsl:value-of select="@target"/>
+					</xsl:when>
+					<xsl:when test="starts-with(@target, 'http') or starts-with(@target, 'view.html')">
+						<xsl:value-of select="@target"/>
+					</xsl:when>
+					<xsl:when test="doc-available(@target)">
+						<xsl:variable name="id" select="doc(@target)/tei:TEI/@xml:id"/>
+						<xsl:value-of select="'view.html?id=' || $id"/>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:attribute>
 			<xsl:apply-templates/>
-		</span>
+		</a>
 	</xsl:template>
-	<xsl:template match="tei:l">
-		<xsl:apply-templates/>
-		<br/>
-	</xsl:template>
-	
-	<xsl:template match="tei:lb[ancestor::tei:closer or ancestor::tei:docTitle]">
-		<xsl:if test="not(generate-id() = generate-id((ancestor::tei:titlePart//tei:lb)[1]))
-				and not(generate-id() = generate-id((ancestor::tei:closer//tei:lb)[1]))
-				and not(contains(ancestor::tei:closer/@rend, 'justified'))">
-			<br/>
-		</xsl:if>
+	<xsl:template match="tei:ref[not(@type or @target)]">
+		<xsl:apply-templates />
 	</xsl:template>
 	
-	<!-- TODO: prüfen, ob die Stelle in 044A ersetzt werden kann; 2016-05-31 DK -->
-	<xsl:template match="tei:space">
-		<!-- feste Whitespaces einfuegen -->
-		<span style="white-space: pre-wrap;">
-			<xsl:call-template name="createSpace">
-				<xsl:with-param name="total">
-					<xsl:value-of select="number(@quantity)"/>
-				</xsl:with-param>
-			</xsl:call-template>
-		</span>
-	</xsl:template>
-	
-	<xsl:template match="tei:titleStmt//tei:persName">
-		<xsl:value-of select="tei:forename"/>
-		<xsl:text> </xsl:text>
-		<xsl:value-of select="tei:surname"/>
-		<xsl:if test="following-sibling::tei:persName and (position() &lt; last()-1)">
-			<xsl:text>, </xsl:text>
-		</xsl:if>
-		<xsl:if test="following-sibling::tei:persName and (position() = last()-1)">
-			<xsl:text> und </xsl:text>
-		</xsl:if>
-	</xsl:template>
-	
-	<!-- TODO nach common-common auslagern? 2016-05-31 DK -->
-	<xsl:template match="tei:placeName">
-		<xsl:if test="@cert">
-			<xsl:text>[</xsl:text>
-		</xsl:if>
-		<xsl:apply-templates/>
-		<xsl:if test="@cert">
-			<xsl:text>]</xsl:text>
-		</xsl:if>
-	</xsl:template>
-	
-	<!-- ergänzt um crit_app; 2016-05-31 DK -->
-	<xsl:template match="tei:seg[@xml:id and @type]">
-		<xsl:choose>
-			<xsl:when test="@type='paraphrase'">
-				<xsl:variable name="ref" select="concat('#', @xml:id)"/>
-				<xsl:variable name="fn">
-					<xsl:call-template name="fnumberFootnotes"/>
-				</xsl:variable>
-				<a id="tfn{$fn}" href="#fn{$fn}" class="fn_number">
-					<xsl:call-template name="fnumberFootnotes"/>
-				</a>
-			</xsl:when>
-			<xsl:when test="@type='crit_app'">
-				<xsl:variable name="ref" select="concat('#', @xml:id)"/>
-				<xsl:variable name="fn">
-					<xsl:apply-templates select="following-sibling::tei:note[@corresp=$ref]" mode="fnLink">
-						<xsl:with-param name="type">crit</xsl:with-param>
-					</xsl:apply-templates>
-				</xsl:variable>
-				<a id="tcrit{$fn}" href="#crit{$fn}" class="fn_number anchorRef">
-					<xsl:value-of select="$fn"/>
-				</a>
-			</xsl:when>
-		</xsl:choose>
-		<span id="{@xml:id}">
-			<xsl:apply-templates/>
-		</span>
-		<!-- NB: das schließende FN-Zeichen bei crit_app erzeugt das template für note -->
-	</xsl:template>
-	
-	<!-- Fussnoten und Zubehör -->
-	<!-- Bestandteile im Fließtext -->
-	<!-- a/@name → a/@id; Variable mit Link entfernt für Eindeutigkeit; 2016-03-18 DK -->
-	<!-- angepaßt auf neue Variante rs; 2016-05-19 DK -->
-	<xsl:template match="tei:add[not(parent::tei:rdg)]">
-		<xsl:variable name="number">
-			<xsl:call-template name="fnumberKrit"/>
+	<xsl:template match="tei:rs">
+		<xsl:variable name="xml">
+			<xsl:choose>
+				<xsl:when test="@type='person'">
+					<xsl:text>/db/apps/edoc/data/repertorium/register/personenregister.xml</xsl:text>
+				</xsl:when>
+				<xsl:when test="@type='place'">
+					<xsl:text>../register/ortsregister.xml</xsl:text>
+				</xsl:when>
+			</xsl:choose>
 		</xsl:variable>
-		<xsl:if test="contains(., ' ') and not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="position">a</xsl:with-param>
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-		<xsl:choose>
-			<xsl:when test="child::tei:note[@type='comment']">
-				<!--<xsl:value-of select="text()"/>-->
-				<span id="tcrit{$number}">
-                    <xsl:apply-templates select="node()[not(self::tei:note)]"/>
-                </span>
-			</xsl:when>
-			<xsl:otherwise>
-				<span id="tcrit{$number}">
-                    <xsl:apply-templates/>
-                </span>
-			</xsl:otherwise>
-		</xsl:choose>
-		<xsl:if test="not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-		<xsl:if test="@corresp">
-			<a id="coa{@corresp}{$number}" href="#co{@corresp}">↑</a>
-		</xsl:if>
-	</xsl:template>
-	
-	<xsl:template match="tei:app">
-		<xsl:if test="tei:lem">
-			<xsl:variable name="number">
-				<xsl:call-template name="fnumberKrit"/>
-			</xsl:variable>
-			
-			<xsl:if test="contains(tei:lem, ' ') and not(ancestor::tei:rs)">
-				<!-- lokale Erstellung ersetzt; 2016-05-18 DK -->
-				<xsl:call-template name="footnoteLink">
-					<xsl:with-param name="position">a</xsl:with-param>
-					<xsl:with-param name="type">crit</xsl:with-param>
-				</xsl:call-template>
-			</xsl:if>
-			<span id="tcrit{$number}">
-                <xsl:apply-templates select="tei:lem"/>
-            </span>
-		</xsl:if>
-		<!-- lokale Erstellung ersetzt; 2016-05-18 DK -->
-		<xsl:if test="not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-	</xsl:template>
-	
-	<!-- doppeltes FN-Zeichen nur, wenn der Text von corr selbst Spatien enthält; 2014-09-19 DK -->
-	<!-- a/@name → a/@id; 2016-03-15 DK -->
-	<!-- Link aus Variable ausgelagert wegen Eindeutigkeit der ID; 2016-03-17 DK -->
-	<!-- überarbeitet für die Ausgabe von Links innerhalb rs; 2016-05-18 DK -->
-	<xsl:template match="tei:corr[not(@type='corrigenda')]">
-		<xsl:variable name="number">
-			<xsl:call-template name="fnumberKrit"/>
+		<xsl:variable name="xsl">
+			<xsl:choose>
+				<xsl:when test="@type='person'">
+					<xsl:text>../xslt/show-person.xsl</xsl:text>
+				</xsl:when>
+				<xsl:when test="@type='place'">
+					<xsl:text>../xslt/show-place.xsl</xsl:text>
+				</xsl:when>
+			</xsl:choose>
+		</xsl:variable>
+		<xsl:variable name="link">
+			<!-- TODO anpassen -->
 		</xsl:variable>
 		
-		<xsl:if test="contains(text(), ' ') and not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="position">a</xsl:with-param>
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-		<xsl:if test="@cert='low'">
-			<xsl:text>〈</xsl:text>
-		</xsl:if>
-		<span id="tcrit{$number}">
-            <xsl:apply-templates/>
-        </span>
-		<xsl:if test="@cert='low'">
-			<xsl:text>〉</xsl:text>
-		</xsl:if>
-		<xsl:if test="not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
+		<!-- The works -->
+		<!-- pb kann auch innerhalb eines w stehen; 2016-06-19 DK -->
+		<xsl:choose>
+			<xsl:when test="descendant::tei:pb">
+				<a href="{$link}">
+					<xsl:value-of select="text()[following-sibling::tei:w]"/>
+					<xsl:value-of select="tei:w/text()[following-sibling::tei:pb]"/>
+				</a>
+				<xsl:apply-templates select="descendant::tei:pb[1]"/>
+				<a href="{$link}">
+					<xsl:value-of select="tei:w/text()[preceding-sibling::tei:pb]"/>
+					<xsl:value-of select="text()[preceding-sibling::tei:w]"/>
+				</a>
+			</xsl:when>
+			<xsl:when test="tei:choice">
+				<xsl:if test="node()[following-sibling::tei:choice]">
+					<a href="{$link}">
+						<xsl:apply-templates select="node()[following-sibling::tei:choice]"/>
+					</a>
+				</xsl:if>
+				<xsl:if test="contains(tei:choice/tei:corr, ' ')">
+					<xsl:apply-templates select="tei:choice" mode="fnLink">
+						<xsl:with-param name="position">a</xsl:with-param>
+						<xsl:with-param name="type">crit</xsl:with-param>
+					</xsl:apply-templates>
+				</xsl:if>
+				<a href="{$link}">
+					<xsl:apply-templates select="tei:choice/tei:corr"/>
+				</a>
+				<xsl:apply-templates select="tei:choice" mode="fnLink">
+					<xsl:with-param name="type">crit</xsl:with-param>
+				</xsl:apply-templates>
+				<xsl:if test="node()[preceding-sibling::tei:choice]">
+					<a href="{$link}">
+						<xsl:apply-templates select="node()[preceding-sibling::tei:choice]"/>
+					</a>
+				</xsl:if>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:element name="a">
+					<xsl:attribute name="href">
+						<xsl:value-of select="$link"/>
+					</xsl:attribute>
+					<xsl:apply-templates/>
+				</xsl:element>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 	
-	<!-- a/@name → a/@id; 2016-03-15 DK -->
-	<!-- überarbeitet für die Ausgabe von Links innerhalb rs; 2016-05-18 DK -->
-	<xsl:template match="tei:del[not(parent::tei:subst)]">
-		<xsl:variable name="number">
-			<xsl:call-template name="fnumberKrit"/>
-		</xsl:variable>
-		<xsl:if test="contains(., ' ') and not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="position">a</xsl:with-param>
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-		<span id="tcrit{$number}">
-            <xsl:apply-templates/>
-        </span>
-		<xsl:if test="not(ancestor::tei:rs)">
-			<xsl:call-template name="footnoteLink">
-				<xsl:with-param name="type">crit</xsl:with-param>
-			</xsl:call-template>
-		</xsl:if>
-	</xsl:template>
-	
-	<!-- Bei <subst> im Haupttext nur <add> ausgeben, nicht <del> -->
-	<xsl:template match="tei:subst">
-		<xsl:apply-templates select="tei:add"/>
-	</xsl:template>
-	
-	<!-- Paragraphenzeichen, mit <g> kodiert, vorerst nicht ausgeben. -->
-	<xsl:template match="tei:g"/>
-	
-	<!-- Marginalien -->
-	<!-- Alle Marginalien haben @place=margin; Marginalien werden ueber named template ausgegeben. (DK)  -->
-	<xsl:template match="tei:note[@place='margin']">
-		<xsl:element name="a">
-			<xsl:attribute name="class">mref</xsl:attribute>
-			<xsl:attribute name="id">
-                <xsl:value-of select="generate-id()"/>
-            </xsl:attribute>
-		</xsl:element>
-	</xsl:template>
-	
-	<!-- Kritische Fußnoten -->
-	<!-- angepaßt für neue Ausgabe rs; 2016-05-19 DK -->
-	<xsl:template match="tei:note[@type='crit_app']">
-		<xsl:if test="not(ancestor::tei:rs)">
+	<xsl:template match="tei:table">
+		<table>
 			<xsl:choose>
-				<xsl:when test="preceding-sibling::tei:seg[@type='crit_app']">
-					<xsl:call-template name="footnoteLink">
-						<xsl:with-param name="type">crit</xsl:with-param>
-						<xsl:with-param name="position">e</xsl:with-param>
-					</xsl:call-template>
+				<xsl:when test="not(@rend) or @rend='noborder'">
+					<xsl:attribute name="class">noborder</xsl:attribute>
 				</xsl:when>
-				<xsl:otherwise>
-					<xsl:call-template name="footnoteLink">
-						<xsl:with-param name="type">crit</xsl:with-param>
-						<xsl:with-param name="position">t</xsl:with-param>
-					</xsl:call-template>
-				</xsl:otherwise>
+				<xsl:when test="contains(@rend, 'border')" />
 			</xsl:choose>
+			<xsl:if test="tei:row[1]/tei:cell[1][@role='label']">
+				<xsl:attribute name="class">firstColumnLabel</xsl:attribute>
+			</xsl:if>
+			<xsl:apply-templates/>
+		</table>
+	</xsl:template>
+	<xsl:template match="tei:row">
+		<tr>
+			<xsl:apply-templates select="tei:cell"/>
+		</tr>
+	</xsl:template>
+	<xsl:template match="tei:cell[parent::tei:row[@role='label']]">
+		<th>
+			<xsl:apply-templates/>
+		</th>
+	</xsl:template>
+	<xsl:template match="tei:cell[parent::tei:row[not(@role)]]">
+		<xsl:variable name="pos" select="position()"/>
+		<xsl:if test="text() or tei:* or not(parent::tei:row/preceding-sibling::tei:row/tei:cell[$pos][@rows])">
+			<td>
+				<xsl:if test="@rows">
+					<xsl:attribute name="rowspan">
+						<xsl:value-of select="@rows"/>
+					</xsl:attribute>
+				</xsl:if>
+				<xsl:apply-templates/>
+			</td>
 		</xsl:if>
 	</xsl:template>
-	
-	<!-- neu 2016-07-11 DK -->
-	<xsl:template match="tei:note[@type='crit_app']" mode="fn">
-		<xsl:apply-templates/>
+
+	<xsl:template match="tei:term">
+		<i><xsl:apply-templates /></i>
+	</xsl:template>
+
+	<xsl:template match="tei:note[@type='crit_app']">
+		<xsl:call-template name="footnoteLink">
+			<xsl:with-param name="type">crit</xsl:with-param>
+			<xsl:with-param name="position">t</xsl:with-param>
+		</xsl:call-template>
 	</xsl:template>
 	
-	<xsl:template match="tei:note[@type='comment']"/>
+	<xsl:template match="tei:note[@type='footnote' or not(@type)]">
+		<xsl:call-template name="footnoteLink">
+			<xsl:with-param name="type">fn</xsl:with-param>
+			<xsl:with-param name="position">t</xsl:with-param>
+		</xsl:call-template>
+	</xsl:template>
 	
-	<!-- note[@type='footnote'] nach common ausgelagert; 2016-05-23 DK -->
+	<xsl:template match="tei:note[@type='footnote' or not(@type)]" mode="fn">
+		<xsl:variable name="number" select="acdh:fnumberFootnotes(.)" />
+		<div class="footnotes" id="fn{$number}">
+			<a href="#tfn{$number}" class="fn_number_app">
+				<xsl:value-of select="$number"/>
+			</a>
+			<span class="footnoteText">
+				<!-- damit man auch zu referenzierten FN springen kann; 2016-07-11 DK -->
+				<xsl:choose>
+					<xsl:when test="@xml:id">
+						<xsl:apply-templates select="@xml:id" />
+					</xsl:when>
+					<xsl:when test="@n">
+						<xsl:attribute name="id" select="@n" />
+					</xsl:when>
+				</xsl:choose>
+				<xsl:apply-templates />
+			</span>
+		</div>
+	</xsl:template>
 	
-	<!-- Bei <note> innerhalb von <add> etc. keine Fußnote in der Fußnote erzeugen (JB) -->
-	<xsl:template match="tei:note" mode="no_count"/>
+	<xsl:template match="tei:anchor">
+		<a id="{@xml:id}" class="anchorRef"/>
+	</xsl:template>
 	
-	<!-- fnumber-Templates nach common ausgelagert; 2016-05-18 DK --> 
+	<xsl:template match="tei:*" mode="fnLink">
+		<xsl:param name="type"/>
+		<xsl:param name="position">s</xsl:param>
+		<xsl:call-template name="footnoteLink">
+			<xsl:with-param name="type" select="$type"/>
+			<xsl:with-param name="position" select="$position"/>
+		</xsl:call-template>
+	</xsl:template>
 	
-	<!-- template name="grcApp" gelöscht, da kein Bedarf mehr; 2016-05-31 DK -->
-	
-	<!-- Kritischer Apparat am Fuß -->
-	<!-- Kritische Fußnoten nicht mehr automatisch mit einem Punkt beenden (eingerichtet JB 10.09.14)
-		doppeltes FN-Zeichen nur, wenn der Textknoten Spatien enthält, nicht jedoch wenn die Spatien nur in Kindern stehen
-		(DK 19/09/14) -->
-	<!-- Anpassung für app/rdg in Thesenreihen; 2015/11/03 DK -->
-	<!-- inline- und marginales Head hinzugefügt, Link angepaßt; 2016-05-30 DK -->
-	<!-- span[@type='crit_app'] hinzugefügt; 2016-05-31 DK -->
 	<xsl:template name="apparatus">
 		<div id="kritApp">
 			<!-- überflüssiges a und xsl:if gelöscht; 2016-05-31 DK -->
 			<hr class="fnRule"/>
-			<xsl:for-each select="/tei:TEI/tei:text//tei:choice[not(tei:corr[@cert='low'])]     | /tei:TEI/tei:text//tei:app[not(ancestor::tei:choice)      and not(parent::tei:label[not(@rend)] and ancestor::tei:div[@type='thesen'] and count(tei:rdg) = 1)]     | /tei:TEI/tei:text//tei:subst     | /tei:TEI/tei:text//tei:add[not(parent::tei:subst | parent::tei:rdg  | parent::tei:lem)]     | /tei:TEI/tei:text//tei:del[not(parent::tei:subst | parent::tei:rdg)]     | /tei:TEI/tei:text//tei:note[@type='crit_app']     | /tei:TEI/tei:text//tei:head[@rend='inline' or @place='margin']     | /tei:TEI/tei:text//tei:span[@type='crit_app']">
+			<xsl:for-each select="//tei:choice
+				| //tei:note[@type='crit_app']">
 				<xsl:variable name="text">
-					<xsl:value-of select="translate(translate(./@wit,' ',','),'#',' ')"/>
+					<xsl:value-of select="translate(./@wit,' #',', ')"/>
 				</xsl:variable>
 				<xsl:variable name="number">
 					<xsl:call-template name="fnumberKrit"/>
 				</xsl:variable>
-				<!-- neu wegen Link auf Überschrift; 2016-05-30 DK -->
-				<!-- um span ergänzt; 2016-05-31 DK -->
 				<xsl:variable name="target">
-					<xsl:choose>
-						<xsl:when test="name()='head'">hd<xsl:number level="any"/>
-                        </xsl:when>
-						<xsl:when test="name()='span'">
-                            <xsl:value-of select="substring-after(@from, '#')"/>
-                        </xsl:when>
-						<xsl:otherwise>tcrit<xsl:call-template name="fnumberKrit"/>
-                        </xsl:otherwise>
-					</xsl:choose>
+					<xsl:text>tcrit</xsl:text><xsl:call-template name="fnumberKrit"/>
 				</xsl:variable>
-				<!-- div/@name → div/@id; 2016-03-15 DK -->
-				<!-- head neu aufgenommen; 2016-07-11 DK -->
+				
 				<div class="footnotes" id="crit{$number}">
 					<a href="#{$target}" class="fn_number_app">
-						<xsl:if test="contains(tei:lem, ' ') or contains(tei:add, ' ') or contains(tei:corr/text(), ' ')         or (name() = 'add' and contains(., ' ')) or (name() = 'head' and contains(., ' '))">
+						<xsl:if test="contains(tei:corr/text(), ' ')">
 							<xsl:value-of select="$number"/>
-                            <xsl:text>–</xsl:text>
+							<xsl:text>–</xsl:text>
 						</xsl:if>
 						<xsl:value-of select="$number"/>
-						<xsl:text> </xsl:text>
 					</a>
 					<span class="footnoteText">
 						<xsl:choose>
-							<xsl:when test="name()='add'">
-								<xsl:apply-templates select="." mode="fn"/>
-							</xsl:when>
-							<xsl:when test="name()='del'">
+							<xsl:when test="self::tei:note">
 								<i>
-									<!-- TODO sobald nutzbares XSLT bereitsteht, hier ändern -->
-									<xsl:if test="substring(., string-length(.)-1) = ' '">
-										<xsl:text>davor </xsl:text>
-									</xsl:if>
-									<xsl:if test="substring(., 1, 1) = ' '">
-										<xsl:text>danach </xsl:text>
-									</xsl:if>
-									<xsl:if test="@type = 'corrigenda'">
-										<xsl:text>gemäß Korrekturverzeichnis </xsl:text>
-									</xsl:if>
-									<xsl:text>gestrichen: </xsl:text>
+									<xsl:apply-templates select="node()" />
 								</i>
-								<xsl:apply-templates select="." mode="fn"/>
 							</xsl:when>
-							<xsl:when test="name()='note'">
-								<i>
-                                    <xsl:apply-templates select="." mode="fn"/>
-                                </i>
+							<xsl:when test="self::tei:choice">
+								<i>vom Editor verbessert für: </i>
+								<xsl:apply-templates select="tei:sic/node()" />
 							</xsl:when>
-							<xsl:when test="name()='subst'">
-								<xsl:apply-templates select="tei:add" mode="fn"/>
-								<i>
-                                    <xsl:text> verbessert für: </xsl:text>
-                                </i>
-								<!-- Abgrenzung zu "vom Editor verbesser" nicht nötig, da in Kombination mit "Im
-									Korrekturverzeichnis..:" <i><xsl:text> von Karlstadt verbessert für: </xsl:text></i>-->
-								<xsl:apply-templates select="tei:del" mode="fn"/>
-							</xsl:when>
-							<xsl:when test="name()='app'">
-								<xsl:if test="not(ancestor::tei:choice)">
-									<xsl:apply-templates select="." mode="fn"/>
-								</xsl:if>
-								<xsl:if test="child::tei:note[@type='comment']">
-									<xsl:text>. – </xsl:text>
-									<i>
-                                        <xsl:apply-templates select="tei:note[@type='comment']" mode="fn"/>
-                                    </i>
-								</xsl:if>
-							</xsl:when>
-							<xsl:when test="name()='choice'">
-								<xsl:choose>
-									<xsl:when test="@resp">
-										<i>von <xsl:value-of select="@resp"/> verbessert für: </i>
-									</xsl:when>
-									<xsl:otherwise>
-										<i>vom Editor verbessert für: </i>
-									</xsl:otherwise>
-								</xsl:choose>
-								<xsl:choose>
-									<xsl:when test="tei:sic/tei:app">
-										<xsl:apply-templates select="tei:sic/tei:app" mode="fn"/>
-									</xsl:when>
-									<xsl:otherwise>
-										<xsl:apply-templates select="tei:sic" mode="fn"/>
-									</xsl:otherwise>
-								</xsl:choose>
-								<xsl:if test="tei:corr/tei:note[@type='comment']">
-									<xsl:text>. </xsl:text>
-									<i>
-                                        <xsl:apply-templates select="tei:corr/tei:note[@type='comment']" mode="fn"/>
-                                    </i>
-								</xsl:if>
-								<xsl:if test="tei:sic/tei:app/tei:note[@type='comment']">
-									<xsl:text>. </xsl:text>
-									<i>
-                                        <xsl:apply-templates select="tei:sic/tei:app/tei:note[@type='comment']" mode="fn"/>
-                                    </i>
-								</xsl:if>
-							</xsl:when>
-							<xsl:when test="name()='head'">
-								<i>
-									<xsl:text>Im Original </xsl:text>
-									<xsl:choose>
-										<xsl:when test="@rend='inline'">
-											<xsl:text>im fortlaufenden Text</xsl:text>
-										</xsl:when>
-										<xsl:when test="@place='margin'">
-											<xsl:text>am Rand</xsl:text>
-										</xsl:when>
-										<xsl:otherwise>
-											<xsl:text>woanders</xsl:text>
-										</xsl:otherwise>
-									</xsl:choose>
-								</i>
-								<xsl:text>.</xsl:text>
-							</xsl:when>
-							<xsl:when test="name()='span'">
-								<xsl:apply-templates/>
-							</xsl:when>
+							<xsl:otherwise>
+								<i><xsl:apply-templates select="node()"/></i>
+							</xsl:otherwise>
 						</xsl:choose>
 					</span>
 				</div>
 			</xsl:for-each>
 		</div>
 	</xsl:template>
-
-	<xsl:template match="tei:add" mode="fn">
-		<!-- TODO hier weitere Fälle (wieder gestrichen) wie in -tex einfügen! -->
-		<i>
-			<xsl:choose>
-				<xsl:when test="@place='margin'">am Rand </xsl:when>
-				<xsl:when test="@place='supralinear'">über der Zeile </xsl:when>
-				<xsl:when test="@type='corrigenda'">im Korrekturverzeichnis </xsl:when>
-				<!-- hinzugefügt 2016-06-09 DK -->
-				<xsl:when test="@place = 'end'">am Zeilenende </xsl:when>
-				<xsl:when test="@resp">von <xsl:value-of select="substring-after(@resp, '#')"/>
-                    <xsl:text> </xsl:text>
-                </xsl:when>
-			</xsl:choose>
-			<xsl:if test="not(parent::tei:subst)">hinzugefügt</xsl:if>
-		</i>
-		<xsl:if test="child::tei:note[@type='comment']">
-			<i>
-                <xsl:text>. </xsl:text>
-                <xsl:apply-templates select="tei:note[@type='comment']" mode="fn"/>
-            </i>
-		</xsl:if>
-	</xsl:template>
 	
-	<xsl:template match="tei:app" mode="fn">
-		<xsl:variable name="witness">
-			<xsl:value-of select="translate(tei:lem/@wit, ' #', ', ')"/>
+	<!-- globales -->
+	<xsl:template name="footnoteLink">
+		<xsl:param name="position">s</xsl:param>
+		<xsl:param name="type"/>
+		<xsl:variable name="number">
+			<xsl:choose>
+				<xsl:when test="$type='crit'">
+					<xsl:call-template name="fnumberKrit"/>
+				</xsl:when>
+				<xsl:when test="$type='fn'">
+					<xsl:value-of select="acdh:fnumberFootnotes(.)"/>
+				</xsl:when>
+			</xsl:choose>
 		</xsl:variable>
-		<xsl:if test="tei:lem and not(substring-after(tei:lem/@wit, '#')     = //tei:listWit[not(@type='other')][1]/tei:witness/@xml:id)">
-			<i>
-                <xsl:value-of select="$witness"/>; </i>
-		</xsl:if>
-		<xsl:for-each select="tei:rdg">
-			<xsl:if test="not(position()=1)">
-                <xsl:text>, </xsl:text>
-            </xsl:if>
-			<xsl:choose>
-				<!-- wenn <rdg> entweder leer ist, oder nur aus einem Element (nicht <del>) besteht (betrifft bisher nur
-						<expan>, <unclear>) statt Text und Elementen (JB 11.12.14); Alternativ: bei jedem leeren <lem> automatisch
-						ein "fehlt Sigle Editionsvorlage" anhängen mit: not(text()) and not(child::tei:w|add|expan)(!) -->
-				<xsl:when test="not(text()) and not(child::tei:expan | child::tei:unclear)">
-					<i>fehlt</i>
-				</xsl:when>
-				<xsl:when test="@rend='margin'">
-					<xsl:apply-templates/>
-					<i> am Rand</i>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:apply-templates/>
-				</xsl:otherwise>
-			</xsl:choose>
-			<xsl:choose>
-				<!-- normale Ausgabe: "fehlt Sigle", bei rdg/del: "fehlt Sigle:...", bei del[@rend='om'] den Inhalt von rdg
-						nicht nochmal ausgeben (Sonderfall in 066.2, JB 10.12.14)-->
-				<xsl:when test="descendant::tei:del">
-					<i>
-						<xsl:text> </xsl:text>
-						<xsl:value-of select="translate(@wit, ' #', ', ')"/>:
-						<xsl:apply-templates select="tei:del" mode="fn"/>
-					</i>
-				</xsl:when>
-				<xsl:otherwise>
-					<i>
-						<xsl:text> </xsl:text>
-						<xsl:value-of select="translate(@wit, ' #', ', ')"/>
-					</i>
-				</xsl:otherwise>
-			</xsl:choose>
-		</xsl:for-each>
+		
+		<a id="{$position}{$type}{$number}" href="#{$type}{$number}" class="fn_number">
+			<xsl:value-of select="$number"/>
+		</a>
 	</xsl:template>
 	
-	<!-- Funktion space -->
-	<xsl:template name="createSpace">
-		<xsl:param name="index" select="1"/>
-		<xsl:param name="total" select="2"/>
-		<xsl:text> </xsl:text>
-		<xsl:if test="not($index = $total)">
-			<xsl:call-template name="createSpace">
-				<xsl:with-param name="index" select="$index + 1"/>
-				<xsl:with-param name="total">
-					<xsl:value-of select="$total"/>
-				</xsl:with-param>
-		</xsl:call-template>
-		</xsl:if>
+	<xsl:template name="fnumberKrit">
+		<xsl:number level="any" format="a" count="tei:choice | tei:note[@type='crit_app'] | tei:corr"/>
+	</xsl:template>
+	
+	<xsl:function name="acdh:fnumberFootnotes">
+		<xsl:param name="context" />
+		
+		<xsl:choose>
+			<xsl:when test="$context/@n">
+				<xsl:value-of select="$context/@n"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<!--<xsl:value-of select="count($context/preceding::tei:note[@type='footnote' or not(@type)])+1"/>-->
+				<xsl:number select="tei:note[not(@type) or @type='footnote']" from="$context" />
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:function>
+	
+	<xsl:template match="@xml:id">
+		<xsl:attribute name="id" select="normalize-space()" />
+	</xsl:template>
+	
+	<xsl:template match="@* | node()">
+		<xsl:copy>
+			<xsl:apply-templates select="@* | node()" />
+		</xsl:copy>
 	</xsl:template>
 </xsl:stylesheet>
