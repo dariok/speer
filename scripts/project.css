@@ -1,8 +1,14 @@
 /* Bearbeiter:DK Dario Kampkaspar kampkaspar@hab.de */
 /* erstellt 2016-11-02 DK */
 body {
-	font-size: 1.2rem;
-	line-height: 1.6rem;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+}
+
+h1 {
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	text-align: center;
 }
 
 h2 {
@@ -11,5 +17,5 @@ h2 {
 }
 
 span.footnoteText {
-    padding-left: 2em;
+	padding-left: 2em;
 }
