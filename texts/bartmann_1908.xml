@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml"?>
+<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000245_bartmann_1908">
    <teiHeader>
       <fileDesc>

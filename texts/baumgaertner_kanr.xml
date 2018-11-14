@@ -140,12 +140,12 @@
 
 ROFFREDUS BENEVENTANUS: 'LIBELLI DE IURE CANONICO'</head>
 <p>
-<table border="1">
+<table rend="border">
 <row>
                             <cell>[Titel bei Roffredus]</cell> <cell>Analoge Titel im Liber Extra</cell>
                         </row>
 <row>
-                            <cell>1. De electionibus et postulationibus (forma electionis, libelli, de litteris, forma decreti electionis, differentia inter electionem et postulationem)</cell> <cell>
+                            <cell rend="border">1. De electionibus et postulationibus (forma electionis, libelli, de litteris, forma decreti electionis, differentia inter electionem et postulationem)</cell> <cell>
                                 <ref target="ln:liber_extra,#X.1.6">X 1.6 et 5</ref>
                             </cell>
                         </row>
