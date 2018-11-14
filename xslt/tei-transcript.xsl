@@ -6,7 +6,6 @@
 	xmlns:acdh="https://www.acdh.oeaw.ac.at"
 	exclude-result-prefixes="#all" version="3.0">
 	
-	<!-- Bearbeiter ab 2015/07/01 DK: Dario Kampkaspar, kampkaspar@hab.de -->
 	<!-- Bearbeiter ab 2018/01/01 DK: Dario Kampkaspar, dario.kampkaspar@oeaw.ac.at -->
 	
 	<xsl:import href="string-pack.xsl" />
@@ -353,7 +352,6 @@
 	
 	<xsl:template name="apparatus">
 		<div id="kritApp">
-			<!-- überflüssiges a und xsl:if gelöscht; 2016-05-31 DK -->
 			<hr class="fnRule"/>
 			<xsl:for-each select="//tei:choice
 				| //tei:note[@type='crit_app']">
@@ -416,9 +414,7 @@
 		</a>
 	</xsl:template>
 	
-	<xsl:template name="fnumberKrit">
-		<xsl:number level="any" format="a" count="tei:choice | tei:note[@type='crit_app'] | tei:corr"/>
-	</xsl:template>
+	
 	
 	<xsl:function name="acdh:fnumberFootnotes">
 		<xsl:param name="context" />
@@ -428,11 +424,14 @@
 				<xsl:value-of select="$context/@n"/>
 			</xsl:when>
 			<xsl:otherwise>
-				<!--<xsl:value-of select="count($context/preceding::tei:note[@type='footnote' or not(@type)])+1"/>-->
-				<xsl:number select="tei:note[not(@type) or @type='footnote']" from="$context" />
+				<xsl:value-of select="count($context/preceding::tei:note[@type='footnote' or not(@type)])+1"/>
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:function>
+	
+	<xsl:template name="fnumberKrit">
+		<xsl:number level="any" format="a" count="tei:choice | tei:note[@type='crit_app'] | tei:corr"/>
+	</xsl:template>
 	
 	<xsl:template match="@xml:id">
 		<xsl:attribute name="id" select="normalize-space()" />
