@@ -16,7 +16,8 @@
 			<assert test="starts-with(@target, 'ln:')
 				or starts-with(@target, 'http')
 				or matches(@target, '\.xml')
-				or starts-with(@target, '#')">
+				or starts-with(@target, '#')
+				or contains(@target, 'view.html')">
 				Fehler im ref. Muß mit „ln:“ beginnen (ehem. Entitäten), auf eine XML-Datei verweisen oder eine URL sein
 			</assert>
 		</rule>
