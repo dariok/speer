@@ -19,3 +19,10 @@ h2 {
 span.footnoteText {
 	padding-left: 2em;
 }
+
+table {
+	border: 1px solid lightgray;
+}
+table.noborder {
+	border: 0;
+}

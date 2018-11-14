@@ -23,7 +23,7 @@
 		<div id="content">
 			<p class="editors">Transkribiert von <xsl:apply-templates select="/tei:TEI/tei:teiHeader//tei:publisher/tei:ref"/></p>
 			<!-- Haupttext -->
-			<xsl:apply-templates select="tei:TEI/tei:text"/>
+			<xsl:apply-templates select="tei:TEI/tei:text/*"/>
 			<div id="FußnotenApparat">
 				<hr class="fnRule"/>
 				<xsl:apply-templates select="/tei:TEI/tei:text//tei:note[@type='footnote' or not(@type)]" mode="fn" />
