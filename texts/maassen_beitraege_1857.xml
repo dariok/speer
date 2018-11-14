@@ -1,73 +1,274 @@
+<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000245_maassen_beitraege_1857">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Maassen, Beiträge zur Geschichte der juristischen Literatur des Mittelalters (1857) :: Transkription Speer 2018</title>
-<author>Heino Speer</author>
-            </titleStmt>
-            <publicationStmt>
-                <authority>Heino Speer</authority>
-                <publisher>
-                    <ref target="http://repertorium.at">Heino Speer</ref>
-                </publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>TODO: Quelle eintragen</p>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc status="draft">
-            <change when="2018-10-27Z" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div xml:id="a0">
-    <head>Friedrich Maassen, Beiträge zur Geschichte der juristischen Literatur des Mittelalters, insbesondere der Decretisten-Literatur des XII. Jahrhunderts. (1857)</head>
-<div xml:id="Quelle">
-<p>(Aus dem Junihefte des Jahrganges 1857 der Sitzungsberichte der philos.-histor. Classe der kais. Akademie der Wissenschaften [XXIV. Bd., S. 4] besonders abgedruckt.) Wien. 1857.</p>
-                </div>
-<div xml:id="Einleitung">
-<head>Einleitung.</head>
-<p>
-                        <ref target="ln:wp,Friedrich_Carl_von_Savigny">Savigny</ref> hat durch seine <ref>Geschichte des römischen Rechts im Mittelalter</ref> in eine der anziehendsten und folgenreichsten Epochen, welche die Rechtsgeschichte aufweist, in die Heimath unserer heutigen civilistischen Jurisprudenz, uns wieder eingeführt. Es ist auffallend, dass trotz der unendlich bedeutenden durch dieses Werk gegebenen Anregung ein mit dem unmittelbaren und nächsten Gegenstande seiner Darstellung in vielfacher Beziehung verwandter Zweig der Literargeschichte verhältnismässig so wenig Bearbeitung gefunden hat. Der Zusammenhang der beiden Glossatorenschulen ist kein blos äusserer. Wie das Entstehen der Schule der Legisten in Bologna den Anstoss gegeben hat zur Bildung der Schule der Decretisten, so haben die beiden Schulen fortwährend in der innigsten Beziehung und Wechselwirkung gestanden. Die Schüler waren stets dieselben; später häufig auch die Lehrer; aber auch bevor dies der Fall war, wurden doch die Lehrfächer beider Schulen bereits als Theile einer und derselben Wissenschaft betrachtet. Das eben ist das Werk Bologna's. Nicht blos die äussere Methode der Behandlung war die gleiche, sondern, wie auf der einen Seite die Lehrer des canonischen Rechts die juristischen Grundbegriffe und Denkformen dem römischen Recht entlehnten und für die Wissenschaft des canonischen Rechts fruchtbar zu machen suchten, so konnten anderseits die Legisten den auf dem Grunde der Kirche erwachsenen neuen <ref target="8">[Faksimile]</ref> materiellen Rechtsanschauungen, dem Geist der aequitas des canonischen Rechts, wie er genannt wurde, sich nicht entziehen. Dass über manche Fragen ein Meinungsstreit nicht ausblieb, beweist nur um so mehr den lebendigen Verkehr, in dem beide Schulen mit einander standen.</p>
-    <p>Die Glossatoren des canonischen Rechts haben, wenn man will, in einer gewissen, einer äusseren Beziehung eine noch einflussreichere Redeutung gehabt als die des römischen Rechts. Das römische Recht ist ein abgeschlossener Stoff. Die Aufgabe der Wissenschaft ist es, diesen Stoff geistig zu durchdringen. Ist nun die wahre Jurisprudenz freilich zugleich stets productiv, und war es namentlich die Aufgabe der Glossatoren, die neu erwachte Wissenschaft des römischen Rechts auch für das Leben nutzbar zu machen und die theilweise wesentlich veränderten thatsächlichen Voraussetzungen auf ihren juristischen Regriff zurückzuführen, so ging ihnen doch ein höchst wichtiges Mittel für die Einwirkung auf das Leben ab, welches den Canonisten zu Gebote stand. Das Organ welches die Resultate der wissenschaftlichen Restrebungen der letzteren dem Leben zuführte, war die <emph>päpstliche Gesetzgebung</emph>
-                        <note n="1">Dass ein ähnliches Verhältniss der Glossatoren des römischen Rechts zur kaiserlichen Gesetzgebung wünschenswerth oder auch nur möglich gewesen wäre, soll gewiss nicht behauptet werden.</note>. Der Inhalt dieser zu jener Zeit äusserst fruchtbaren Rechtsquelle ist das geistige Erzeugniss der Glossatorenschule zu Bologna. Übrigens tritt auch hier der Zusammenhang beider Schulen wieder hervor. Für alle Fragen, welche das Civilrecht zugleich berühren, ist eine Grenze zwischen dem Einfluss der Decretisten und dem der Legisten gar nicht zu ziehen.</p>
-<p>Die Arbeiten der Glossatoren des canonischen Rechts haben
-noch gegenwärtig auch für das Civilrecht, seine Dogmengeschichte sowohl als seine Dogmatik, eine nicht gering anzuschlagende Bedeutung. Da es diese Seite ist, die den Verfasser der gegenwärtigen Beiträge zunächst zu den Studien geführt hat, von denen er hier eine unbedeutende Ausbeute vorlegt, so wird es gestattet sein, auf diesen Gesichtspunct etwas näher einzugehen. [<ref target="9">Faksimile</ref>] </p>
-<p>Das canonische Recht ist in vielfachen Bestimmungen ein Bestandteil des gemeinen deutschen Civilrechts geworden. Wie? ist eine interessante, aber nicht leicht zu beantwortende Frage, auf die es hier nicht ankommt. Die Thatsache steht ausser Zweifel. Wichtige Institute des Privatrechts sind durch den Einfluss des canonischen Rechts wesentlich modificirt worden, vor allem aber beruht der Civilprocess auf Grundsätzen des canonischen Rechts. Das Corpus juris canonici ist daher eine Quelle des in einem grossen Theil von Deutschland noch gegenwärtig geltenden gemeinen Civilrechts. Zwei der tüchtigsten Juristen des vorigen Jahrhunderts, <persName ref="ln:wp,Christian_Thoamsius">Christian Thomasius</persName> und <persName ref="ln:wp,Justus_Henning_Böhmer">Justus Henning Böhmer</persName>, heben aus diesem Grunde bei jeder Gelegenheit aufs nachdrücklichste die Notwendigkeit des canonistischen Studiums auch für den Civilisten hervor.</p>
-<p>Die wichtigste Stelle in dieser Beziehung nehmen unter den Bestandtheilen des Corpus juris die Decretalensammlungen ein. Man würde sich aber täuschen, wenn man glaubte, dass der Dogmatik der durch das canonische Recht berührten Institute des Civilrechts mit einer blossen Kenntniss des unmittelbaren, wörtlichen Inhaltes der Quellen genügt wäre. In viel geringerem Masse als für das römische Recht reicht hier die Kenntniss des Gesetzes hin, aus dem einfachen Grunde, weil hier nicht, wie in den römischen Rechtsquellen, der grösste Theil selbst wissenschaftliche Entwickelung ist.</p>
-<p>Für das Verständniss der Decretalen als Quellen des gemeinen Civilrechts ist erforderlich einmal das Zurückgehen auf das frühere canonische Recht, namentlich das Decret, dann aber auch, und zwar vor allen Dingen, auf die früheren Glossatorenschriften.</p>
-    <p>Ich glaube nun nicht zu weit zu gehen, wenn ich der Ansicht bin, dass es für den letzteren Zweck noch an vielem Nothwendigen gebricht<note n="1">Es bedarf nicht der ausdrückliehen Erwähnung, dass es nicht die Aufgabe von Hand- und Lehrbüchern sein kann, hier Detailforschungen zu liefern.</note>. Es würde mir nicht ziemen, <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10930073-9">Sarti</ref>'s grosse Verdienste noch hervorheben zu wollen. Aber was Savigny über die Bedeutung seines Werks für die eigentliche Literargeschichte sagt, das gilt ebensowohl für die Glossatoren des canonischen Rechts als für [<ref target="10">Faksimile</ref>] die des römischen. In dieser Beziehung hat Sarti den grössten Theil der Arbeit zurückgelassen. Für Einen Zweig, die ordines judiciarii, ist allerdings in der neuern Zeit verhältnissmässig viel geschehen<note n="5.1">Savigny an verschiedenen Stellen seiner Rechtsgeschichte, ferner <ref target="https://books.google.at/books?id=R2hEAAAAcAAJ">Incerti auctoris ordo judiciarius (Ulpianus de edendo), ed. Haenel 1838</ref>. — <ref target="https://books.google.at/books?id=6MROAAAAcAAJ">Bartoli de Saxoferrato tractatus de ordine judiciorum, ed. Martin 1838</ref>. — <ref target="http://data.onb.ac.at/ABO/%2BZ165387800">Anecdota, quae processum civilem spectant, Bulgarus, Damasus, Bonaguida, edid. Ag. Wunderlich 1841</ref>. — <ref target="???">F. Bergmann, Dissert. de libello, quem Tancredus Bonon. de judiciorum ordine composuit. 1838</ref>. (Recension von <ref target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740326_00237.html">Wunderlich in den kritischen Jahrbüchern für deutsche Rechtswissenschaft, B. 9, 1841, S. 229—233</ref>.) — <ref target="ln:bergmann_pillius,">Pillii, Tancredi, Gratiae libri de judiciorum ordine, ed. F. Bergmann 1842</ref>. — Wunderlich, Beiträge zur Literargeschichte des Processes im XII. und XIII. Jahrhundert, <ref target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740713_00086.html">Zeitschr f. gesch. Rechtswissenschaft, Bd. 11, 1842, S. 73—98</ref>. — Rudorff, Über den Processus juris des Johannes Andreä, <ref target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740713_00113.html">Zeitschr. f. gesch. Rechtsw. ebendas. S. 99 — 109</ref>. — M. Ricardi Anglici ordo judiciarius, ed. Witte 1853. [H.S.: Kein Digitalisat 27.10.2018] — F. Kunstmann. Über den ältesten ordo judiciarius u. s. w., <ref target="http://opacplus.bsb-muenchen.de/title/3442611/ft/bsb10740882?page=20">Kritische Überschau, B. 2, 1854, S. 10—29</ref>. — <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10553688-8">Joan. Andreae summula de processu judicii, ed. Wunderlich, 1840</ref>. — <ref target="ln:rockinger_faks,">L. Rockinger, Über einen ordo judiciarius, bisher dem Johannes Andreä zugeschrieben, 1855</ref>. — Von dem Verfasser der zuletzt genannten Schrift sind umfassendere Veröffentlichungen über die ordines judiciarii in Aussicht gestellt, die tüchtiges erwarten lassen.</note>; aber nicht einmal die Processliteratur ist in den ordines allein enthalten. Es gilt auch hier, wie überall in der Wissenschaft, den Blick auf den Zusammenhang der Theile mit dem Ganzen gerichtet zu haben, wenn auch die Arbeit selbst sich unter verschiedene vertheilt.</p>
-    <p>Der Verfasser wurde bei der Beschäftigung mit einer grösseren literarischen Arbeit auf dem Gebiete des Civilrechts, bei der die Verbindung beider Rechte wesentlich in Frage kommt, auf die ältesten Glossen und Commentare des Decrets zurückgeführt. Er musste hier aber bald die <ref>Wagner'sche Entdeckung</ref> machen, dass es seine Schwierigkeiten habe, zu den Quellen zu steigen, und dass eine erschöpfende Beantwortung der Fragen: auf welche Werke es ankomme, wo sie zu finden seien, und in welchem Zeitverhältnisse sie zu einander ständen, soweit dieselbe überhaupt möglich, wohl gar grössere Arbeit in Anspruch nehmen werde, als die Erreichung des ursprünglichen und eigentlichen Zwecks. Was von der <ref target="ln:wp,Glossa_ordinaria">Glossa ordinaria</ref> rückwärts liegt, ist, sobald es sich nicht blos um einige Notizen über diePersonen der Glossatoren, sondern auch um ihre Schriften handelt, [<ref target="11">Faksimile</ref>] zum grossen Theil terra incognita<note n="7.1">In <ref target="ln:phillips_kirchenrecht_4">Phillips' Kirchenrecht, B. 4, S. 167—179</ref>, wird in gewohnter anziehender Darstellung eine Übersicht des gegenwärtigen Standes der Literatur gegeben.</note>. Es blieb daher nichts anderes übrig, wenn ich meinen Zweck nicht ganz aufgeben wollte, als den Versuch zu machen, so gut es eben gehen wolle, mir die Hilfsmittel herbeizuschaffen. Ich habe sehr bald Grund gehabt, über den gefassten Entschluss herzlich froh zu sein. So gering die Anziehungskraft ist, welche das Studium der juristischen Literatur der meisten späteren Jahrhunderte auf uns zu üben im Stande ist, so mächtig ist der Reiz den die Beschäftigung mit dieser Jugendperiode unserer Jurisprudenz gewährt, in der an die Stelle eigener Gedanken noch nicht allgemeine Denkschablonen getreten und doch die einzelnen Leistungen unter eine gemeinsame, objective Regel gebunden sind, welche die Literatur vor Zerfahrenheit, die Schriftsteller vor falscher Originalität bewahrt.</p>
-<p>Ich bin ermuthigt worden, was mir auf diesem Wege mittheilenswerthes begegnet ist und noch begegnet, in einzelnen Beiträgen zu veröffentlichen und habe mich dieser Aufforderung nicht entziehen zu sollen geglaubt.</p>
-<p>Savigny macht in der <ref target="ln:savigny_ma_4,">Einleitung zum vierten Bande seiner Rechtsgeschichte</ref> die Bemerkung: wer sich literarhistorischen Arbeiten widme, dürfe sich nicht verhehlen, dass dieselben im Ganzen nur wenig Ansehen genössen. Dieses Bedenken, soweit es allgemeiner Natur, ist durch das classische Werk dessen, der es aufgeworfen, für alle Zeiten gründlich gehoben. Dafür könnte aber wiederum ein Bedenken besonderer Art durch eben dieses Werk veranlasst zu sein scheinen, nämlich, ob es nicht ein anmassendes und zugleich ein undankbares Unternehmen für einen Schriftsteller sei, sich mit der winzigen Kraft an demselben Stoff zu versuchen, an dem der grosse Meister so unvergängliches geleistet hat. Beschwichtigt wird dies Bedenken durch die Erwägung, dass es in diesem Falle nicht mehr begründet ist, als da, wo es sich um die Erörterung rechtsdogmatischer Fragen handelt. Es würde von einer durchaus irrigen Auffassung zeugen, wenn man die Bedeutung Savigny's für die Rechtswissenschaft auf ein Gebiet oder auf eine Richtung beschränken [<ref target="12">Faksimile</ref>] wollte. Es ist schwer zu entscheiden, ob sein Einfluss auf die tiefere historische Begründung oder auf die wahrhaft praktische Erfassung der Aufgaben der Rechtswissenschaft höher anzuschlagen ist. Wie beides der Idee nach nicht verschieden, sondern ein und dasselbe ist, so sind diese beiden Seiten in seiner Persönlichkeit, wie nie zuvor in einer andern, in wunderbarer Harmonie vereinigt. Mit dieser grossartigen Begabung hat er unsere Jurisprudenz umgestaltet und neue Grundlagen für sie geschaffen. Für lange Zeit hinaus ist jede Bestrebung auf diesem Gebiete, jeder Fortschritt, der dies in Wahrheit sein soll, nur unter der Voraussetzung möglich, dass sie an ihn, bewusst oder unbewusst, anknüpfen und in seinem Geiste geschehen. Wer aus Mangel an Verständniss oder aus falschem Selbstgefühl andere Bahnen einschlägt, der wird über kurz oder lang die Erfahrung machen, dass er Mühe und Kunst vergeblich aufgewandt habe. Es wird nicht oft einer Wissenschaft das Glück zu Theil, dass sich ihr Genius so erschöpfend in eine Persönlichkeit senkt. Freuen wir Juristen uns dieses Glücks.</p>
-<p>Von Anmassung könnte daher nur dann die Rede sein, wenn es sich um etwas anderes handelte, als um den Wunsch des geringsten Schülers, nach andern einige Beiträge zu dem Werke desjenigen zu liefern, der auch das kleine für die Wissenschaft zu schätzen weiss. Dass aber die Arbeit nicht ganz nutzlos sei, dafür ist eben dadurch am besten gesorgt, dass es möglich ist, sie in Beziehung zu dem Werk des grossen Rechtslehrers zu setzen.</p>
-<p>Ich kann nicht umhin, hier der grossartigen Liberalität zu gedenken, mit der die hohe k. bairische Regierung auf die hochgeneigte bereitwilligste Verwendung der k. k. Gesandtschaft, ebenso die Vorstände der Münchner und Bamberger Bibliotheken die Benützung der dortigen Handschriftenschätze, sowohl an Ort und Stelle, als auch in Innsbruck, mir gestattet haben und noch gestatten.</p>
-<p>Nicht minder bitte ich Herrn <persName ref="ln:wp,Kunstmann">Prof. Kunstmann</persName> in München um freundliche Nachsicht, wenn ich der grossen Güte und seltenen Uneigennützigkeit erwähne, mit welcher derselbe nicht blos mit seinen [<ref target="13">Faksimile</ref>] bedeutenden Kenntnissen der Münchner reichen Handschriftensammlung mir zu Hülfe gekommen, sondern auch Handschriften, in denen er selbst arbeitete, mir zum Gebrauch überlassen hat.</p>
-    <p>Auf der hiesigen k. k. Universitätsbibliothek befindet sich die früher dem Stift der regulirten Augustiner Chorherren zu Neustift gehörige schöne Incunabelnsammlung<note n="9.1">Sie ist beschrieben in dem <ref target="https://books.google.at/books?id=AwwUAAAAQAAJ">Verzeichniss typographischer Denkmäler aus dem fünfzehnten Jahrhundert, welche sich in der Bibliothek des u. s. w. zu Neustift in Tirol befinden. Brixen 1789, 2 Bde.</ref>
-                        </note>, die mir trefflich zustatten gekommen ist. Unter den Innsbrucker Handschriften befinden sich verschiedene auf die Glossatorenzeit bezügliche. Für den gegenwärtigen Beitrag ist unmittelbar nur eine derselben, die wichtigste, benutzt. [<ref target="14">Faksimile</ref>]</p> </div>
-<div xml:id="A.1">
-<head>Erste Abtheilung. Einzelne Glossatoren und Glossatorenhandschriften.</head>
-<div xml:id="A.1.1">
-<head>1. Die Glosse des Cardinalis</head>
-<div xml:id="A.1.1.1">
-<p>Der <rs ref="ln:wp,Cardinalis,">Cardinalis</rs> ist unter den alten Glossatoren des Decrets einer der am wenigsten bekannten. Johannes Andreä bemerkt in seinen Zusätzen zum <ref target="ln:durantis_1592">Speculum judiciale</ref> des Durantis nur, dass er in der Glossa ordinaria einigemal angeführt werde<note target="10.1">Bei Savigny, G. d. r. R. i. M. B. 3, S. 634.</note>. Sarti erwähnt noch, dass Huguccio einen Cardinal citire, dessen Name unbekannt sei<note target="10.2">
-                                    <ref target="ln:sarti_1.1_1769">(Sarti et Fattorini) De claris archigymn. Bonon. professoribus. P. I, p. 300</ref>.</note>. Von neueren wird er nicht mehr genannt.</p>
-<p>Aus der grossen Summa des Huguccio über Gratian's Decret<note target="10.3">Die von mir benutzten Handschriften sind Cod. lat. Monac. 10247 (Pal. M. 247)
-und Cod. Bamberg. P. 11, 25. Näheres über das Werk selbst und diese Handschi..
-s. m. u. §. 16—23.</note> gewinnen wir aber bald die Überzeugung, dass es sich hier um eine keineswegs untergeordnete Persönlichkeit der alten Glossatorenschule handle. Nicht blos dass er häufig genannt wird, aus der Art wie er genannt wird, bald als Wortführer anderer die als quidam alii bezeichnet werden, bald er allein im wissenschaftlichen Gegensatz zu allen übrigen, vor allem aber aus dem Inhalt der Mittheilungen aus seinen Glossen erkennen wir, dass uns in dem Cardinalis ein in hohem Grade selbständiger juristischer Schriftsteller gegenübersteht.</p>
-<p>Es war mir daher interessant, auf der hiesigen k. k. Universitätsbibliothek eine Handschrift von Gratian's Decret mit ziemlich zahlreichen Glossen des Cardinalis zu finden. Da ich auf diese Handschrift häufiger zurückkommen werde, so wird es zweckmässig sein, gleich hier ausführlicher auf sie einzugehen.</p>
-                        </div>
-<div xml:id="A.1.1.2">
-<p>2. Cod. Oenipont. N. 90. membr. saec. XIII. oder XIV. 277 Blätter, enthält von Fol. 10 bis Fol. 271 ein an einigen Stellen lückenhaftes Decretum Gratiani. Das hohe Alter des Texts ergibt sich </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI><!-- 
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Maassen, Beiträge zur Geschichte der juristischen Literatur des Mittelalters (1857)
+					:: Transkription Speer 2018</title>
+				<author>Heino Speer</author>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Heino Speer</authority>
+				<publisher>
+					<ref target="http://repertorium.at">Heino Speer</ref>
+				</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>TODO: Quelle eintragen</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="draft">
+			<change when="2018-10-27Z" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl.
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front/>
+		<body>
+			<div xml:id="a0">
+				<head>Friedrich Maassen, Beiträge zur Geschichte der juristischen Literatur des
+					Mittelalters, insbesondere der Decretisten-Literatur des XII. Jahrhunderts. (1857)</head>
+				<div xml:id="Quelle">
+					<p>(Aus dem Junihefte des Jahrganges 1857 der Sitzungsberichte der philos.-histor. Classe
+						der kais. Akademie der Wissenschaften [XXIV. Bd., S. 4] besonders abgedruckt.) Wien.
+						1857.</p>
+				</div>
+				<div xml:id="Einleitung">
+					<head>Einleitung.</head>
+					<p>
+						<ref target="ln:wp,Friedrich_Carl_von_Savigny">Savigny</ref> hat durch seine
+							<ref>Geschichte des römischen Rechts im Mittelalter</ref> in eine der anziehendsten
+						und folgenreichsten Epochen, welche die Rechtsgeschichte aufweist, in die Heimath
+						unserer heutigen civilistischen Jurisprudenz, uns wieder eingeführt. Es ist auffallend,
+						dass trotz der unendlich bedeutenden durch dieses Werk gegebenen Anregung ein mit dem
+						unmittelbaren und nächsten Gegenstande seiner Darstellung in vielfacher Beziehung
+						verwandter Zweig der Literargeschichte verhältnismässig so wenig Bearbeitung gefunden
+						hat. Der Zusammenhang der beiden Glossatorenschulen ist kein blos äusserer. Wie das
+						Entstehen der Schule der Legisten in Bologna den Anstoss gegeben hat zur Bildung der
+						Schule der Decretisten, so haben die beiden Schulen fortwährend in der innigsten
+						Beziehung und Wechselwirkung gestanden. Die Schüler waren stets dieselben; später häufig
+						auch die Lehrer; aber auch bevor dies der Fall war, wurden doch die Lehrfächer beider
+						Schulen bereits als Theile einer und derselben Wissenschaft betrachtet. Das eben ist das
+						Werk Bologna's. Nicht blos die äussere Methode der Behandlung war die gleiche, sondern,
+						wie auf der einen Seite die Lehrer des canonischen Rechts die juristischen Grundbegriffe
+						und Denkformen dem römischen Recht entlehnten und für die Wissenschaft des canonischen
+						Rechts fruchtbar zu machen suchten, so konnten anderseits die Legisten den auf dem
+						Grunde der Kirche erwachsenen neuen <ref target="8">[Faksimile]</ref> materiellen
+						Rechtsanschauungen, dem Geist der aequitas des canonischen Rechts, wie er genannt wurde,
+						sich nicht entziehen. Dass über manche Fragen ein Meinungsstreit nicht ausblieb, beweist
+						nur um so mehr den lebendigen Verkehr, in dem beide Schulen mit einander standen.</p>
+					<p>Die Glossatoren des canonischen Rechts haben, wenn man will, in einer gewissen, einer
+						äusseren Beziehung eine noch einflussreichere Redeutung gehabt als die des römischen
+						Rechts. Das römische Recht ist ein abgeschlossener Stoff. Die Aufgabe der Wissenschaft
+						ist es, diesen Stoff geistig zu durchdringen. Ist nun die wahre Jurisprudenz freilich
+						zugleich stets productiv, und war es namentlich die Aufgabe der Glossatoren, die neu
+						erwachte Wissenschaft des römischen Rechts auch für das Leben nutzbar zu machen und die
+						theilweise wesentlich veränderten thatsächlichen Voraussetzungen auf ihren juristischen
+						Regriff zurückzuführen, so ging ihnen doch ein höchst wichtiges Mittel für die
+						Einwirkung auf das Leben ab, welches den Canonisten zu Gebote stand. Das Organ welches
+						die Resultate der wissenschaftlichen Restrebungen der letzteren dem Leben zuführte, war
+						die <emph>päpstliche Gesetzgebung</emph>
+						<note n="1">Dass ein ähnliches Verhältniss der Glossatoren des römischen Rechts zur
+							kaiserlichen Gesetzgebung wünschenswerth oder auch nur möglich gewesen wäre, soll
+							gewiss nicht behauptet werden.</note>. Der Inhalt dieser zu jener Zeit äusserst
+						fruchtbaren Rechtsquelle ist das geistige Erzeugniss der Glossatorenschule zu Bologna.
+						Übrigens tritt auch hier der Zusammenhang beider Schulen wieder hervor. Für alle Fragen,
+						welche das Civilrecht zugleich berühren, ist eine Grenze zwischen dem Einfluss der
+						Decretisten und dem der Legisten gar nicht zu ziehen.</p>
+					<p>Die Arbeiten der Glossatoren des canonischen Rechts haben noch gegenwärtig auch für das
+						Civilrecht, seine Dogmengeschichte sowohl als seine Dogmatik, eine nicht gering
+						anzuschlagende Bedeutung. Da es diese Seite ist, die den Verfasser der gegenwärtigen
+						Beiträge zunächst zu den Studien geführt hat, von denen er hier eine unbedeutende
+						Ausbeute vorlegt, so wird es gestattet sein, auf diesen Gesichtspunct etwas näher
+						einzugehen. [<ref target="9">Faksimile</ref>] </p>
+					<p>Das canonische Recht ist in vielfachen Bestimmungen ein Bestandteil des gemeinen
+						deutschen Civilrechts geworden. Wie? ist eine interessante, aber nicht leicht zu
+						beantwortende Frage, auf die es hier nicht ankommt. Die Thatsache steht ausser Zweifel.
+						Wichtige Institute des Privatrechts sind durch den Einfluss des canonischen Rechts
+						wesentlich modificirt worden, vor allem aber beruht der Civilprocess auf Grundsätzen des
+						canonischen Rechts. Das Corpus juris canonici ist daher eine Quelle des in einem grossen
+						Theil von Deutschland noch gegenwärtig geltenden gemeinen Civilrechts. Zwei der
+						tüchtigsten Juristen des vorigen Jahrhunderts, <persName ref="ln:wp,Christian_Thoamsius"
+							>Christian Thomasius</persName> und <persName ref="ln:wp,Justus_Henning_Böhmer">Justus
+							Henning Böhmer</persName>, heben aus diesem Grunde bei jeder Gelegenheit aufs
+						nachdrücklichste die Notwendigkeit des canonistischen Studiums auch für den Civilisten
+						hervor.</p>
+					<p>Die wichtigste Stelle in dieser Beziehung nehmen unter den Bestandtheilen des Corpus
+						juris die Decretalensammlungen ein. Man würde sich aber täuschen, wenn man glaubte, dass
+						der Dogmatik der durch das canonische Recht berührten Institute des Civilrechts mit
+						einer blossen Kenntniss des unmittelbaren, wörtlichen Inhaltes der Quellen genügt wäre.
+						In viel geringerem Masse als für das römische Recht reicht hier die Kenntniss des
+						Gesetzes hin, aus dem einfachen Grunde, weil hier nicht, wie in den römischen
+						Rechtsquellen, der grösste Theil selbst wissenschaftliche Entwickelung ist.</p>
+					<p>Für das Verständniss der Decretalen als Quellen des gemeinen Civilrechts ist
+						erforderlich einmal das Zurückgehen auf das frühere canonische Recht, namentlich das
+						Decret, dann aber auch, und zwar vor allen Dingen, auf die früheren
+						Glossatorenschriften.</p>
+					<p>Ich glaube nun nicht zu weit zu gehen, wenn ich der Ansicht bin, dass es für den
+						letzteren Zweck noch an vielem Nothwendigen gebricht<note n="1">Es bedarf nicht der
+							ausdrückliehen Erwähnung, dass es nicht die Aufgabe von Hand- und Lehrbüchern sein
+							kann, hier Detailforschungen zu liefern.</note>. Es würde mir nicht ziemen, <ref
+							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10930073-9"
+							>Sarti</ref>'s grosse Verdienste noch hervorheben zu wollen. Aber was Savigny über die
+						Bedeutung seines Werks für die eigentliche Literargeschichte sagt, das gilt ebensowohl
+						für die Glossatoren des canonischen Rechts als für [<ref target="10">Faksimile</ref>]
+						die des römischen. In dieser Beziehung hat Sarti den grössten Theil der Arbeit
+						zurückgelassen. Für Einen Zweig, die ordines judiciarii, ist allerdings in der neuern
+						Zeit verhältnissmässig viel geschehen<note n="5.1">Savigny an verschiedenen Stellen
+							seiner Rechtsgeschichte, ferner <ref
+								target="https://books.google.at/books?id=R2hEAAAAcAAJ">Incerti auctoris ordo
+								judiciarius (Ulpianus de edendo), ed. Haenel 1838</ref>. — <ref
+								target="https://books.google.at/books?id=6MROAAAAcAAJ">Bartoli de Saxoferrato
+								tractatus de ordine judiciorum, ed. Martin 1838</ref>. — <ref
+								target="http://data.onb.ac.at/ABO/%2BZ165387800">Anecdota, quae processum civilem
+								spectant, Bulgarus, Damasus, Bonaguida, edid. Ag. Wunderlich 1841</ref>. — <ref
+								target="???">F. Bergmann, Dissert. de libello, quem Tancredus Bonon. de judiciorum
+								ordine composuit. 1838</ref>. (Recension von <ref
+								target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740326_00237.html"
+								>Wunderlich in den kritischen Jahrbüchern für deutsche Rechtswissenschaft, B. 9,
+								1841, S. 229—233</ref>.) — <ref target="ln:bergmann_pillius,">Pillii, Tancredi,
+								Gratiae libri de judiciorum ordine, ed. F. Bergmann 1842</ref>. — Wunderlich,
+							Beiträge zur Literargeschichte des Processes im XII. und XIII. Jahrhundert, <ref
+								target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740713_00086.html"
+								>Zeitschr f. gesch. Rechtswissenschaft, Bd. 11, 1842, S. 73—98</ref>. — Rudorff,
+							Über den Processus juris des Johannes Andreä, <ref
+								target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10740713_00113.html"
+								>Zeitschr. f. gesch. Rechtsw. ebendas. S. 99 — 109</ref>. — M. Ricardi Anglici ordo
+							judiciarius, ed. Witte 1853. [H.S.: Kein Digitalisat 27.10.2018] — F. Kunstmann. Über
+							den ältesten ordo judiciarius u. s. w., <ref
+								target="http://opacplus.bsb-muenchen.de/title/3442611/ft/bsb10740882?page=20"
+								>Kritische Überschau, B. 2, 1854, S. 10—29</ref>. — <ref
+								target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10553688-8">Joan. Andreae
+								summula de processu judicii, ed. Wunderlich, 1840</ref>. — <ref
+								target="ln:rockinger_faks,">L. Rockinger, Über einen ordo judiciarius, bisher dem
+								Johannes Andreä zugeschrieben, 1855</ref>. — Von dem Verfasser der zuletzt genannten
+							Schrift sind umfassendere Veröffentlichungen über die ordines judiciarii in Aussicht
+							gestellt, die tüchtiges erwarten lassen.</note>; aber nicht einmal die
+						Processliteratur ist in den ordines allein enthalten. Es gilt auch hier, wie überall in
+						der Wissenschaft, den Blick auf den Zusammenhang der Theile mit dem Ganzen gerichtet zu
+						haben, wenn auch die Arbeit selbst sich unter verschiedene vertheilt.</p>
+					<p>Der Verfasser wurde bei der Beschäftigung mit einer grösseren literarischen Arbeit auf
+						dem Gebiete des Civilrechts, bei der die Verbindung beider Rechte wesentlich in Frage
+						kommt, auf die ältesten Glossen und Commentare des Decrets zurückgeführt. Er musste hier
+						aber bald die <ref>Wagner'sche Entdeckung</ref> machen, dass es seine Schwierigkeiten
+						habe, zu den Quellen zu steigen, und dass eine erschöpfende Beantwortung der Fragen: auf
+						welche Werke es ankomme, wo sie zu finden seien, und in welchem Zeitverhältnisse sie zu
+						einander ständen, soweit dieselbe überhaupt möglich, wohl gar grössere Arbeit in
+						Anspruch nehmen werde, als die Erreichung des ursprünglichen und eigentlichen Zwecks.
+						Was von der <ref target="ln:wp,Glossa_ordinaria">Glossa ordinaria</ref> rückwärts liegt,
+						ist, sobald es sich nicht blos um einige Notizen über diePersonen der Glossatoren,
+						sondern auch um ihre Schriften handelt, [<ref target="11">Faksimile</ref>] zum grossen
+						Theil terra incognita<note n="7.1">In <ref target="ln:phillips_kirchenrecht_4">Phillips'
+								Kirchenrecht, B. 4, S. 167—179</ref>, wird in gewohnter anziehender Darstellung eine
+							Übersicht des gegenwärtigen Standes der Literatur gegeben.</note>. Es blieb daher
+						nichts anderes übrig, wenn ich meinen Zweck nicht ganz aufgeben wollte, als den Versuch
+						zu machen, so gut es eben gehen wolle, mir die Hilfsmittel herbeizuschaffen. Ich habe
+						sehr bald Grund gehabt, über den gefassten Entschluss herzlich froh zu sein. So gering
+						die Anziehungskraft ist, welche das Studium der juristischen Literatur der meisten
+						späteren Jahrhunderte auf uns zu üben im Stande ist, so mächtig ist der Reiz den die
+						Beschäftigung mit dieser Jugendperiode unserer Jurisprudenz gewährt, in der an die
+						Stelle eigener Gedanken noch nicht allgemeine Denkschablonen getreten und doch die
+						einzelnen Leistungen unter eine gemeinsame, objective Regel gebunden sind, welche die
+						Literatur vor Zerfahrenheit, die Schriftsteller vor falscher Originalität bewahrt.</p>
+					<p>Ich bin ermuthigt worden, was mir auf diesem Wege mittheilenswerthes begegnet ist und
+						noch begegnet, in einzelnen Beiträgen zu veröffentlichen und habe mich dieser
+						Aufforderung nicht entziehen zu sollen geglaubt.</p>
+					<p>Savigny macht in der <ref target="ln:savigny_ma_4,">Einleitung zum vierten Bande seiner
+							Rechtsgeschichte</ref> die Bemerkung: wer sich literarhistorischen Arbeiten widme,
+						dürfe sich nicht verhehlen, dass dieselben im Ganzen nur wenig Ansehen genössen. Dieses
+						Bedenken, soweit es allgemeiner Natur, ist durch das classische Werk dessen, der es
+						aufgeworfen, für alle Zeiten gründlich gehoben. Dafür könnte aber wiederum ein Bedenken
+						besonderer Art durch eben dieses Werk veranlasst zu sein scheinen, nämlich, ob es nicht
+						ein anmassendes und zugleich ein undankbares Unternehmen für einen Schriftsteller sei,
+						sich mit der winzigen Kraft an demselben Stoff zu versuchen, an dem der grosse Meister
+						so unvergängliches geleistet hat. Beschwichtigt wird dies Bedenken durch die Erwägung,
+						dass es in diesem Falle nicht mehr begründet ist, als da, wo es sich um die Erörterung
+						rechtsdogmatischer Fragen handelt. Es würde von einer durchaus irrigen Auffassung
+						zeugen, wenn man die Bedeutung Savigny's für die Rechtswissenschaft auf ein Gebiet oder
+						auf eine Richtung beschränken [<ref target="12">Faksimile</ref>] wollte. Es ist schwer
+						zu entscheiden, ob sein Einfluss auf die tiefere historische Begründung oder auf die
+						wahrhaft praktische Erfassung der Aufgaben der Rechtswissenschaft höher anzuschlagen
+						ist. Wie beides der Idee nach nicht verschieden, sondern ein und dasselbe ist, so sind
+						diese beiden Seiten in seiner Persönlichkeit, wie nie zuvor in einer andern, in
+						wunderbarer Harmonie vereinigt. Mit dieser grossartigen Begabung hat er unsere
+						Jurisprudenz umgestaltet und neue Grundlagen für sie geschaffen. Für lange Zeit hinaus
+						ist jede Bestrebung auf diesem Gebiete, jeder Fortschritt, der dies in Wahrheit sein
+						soll, nur unter der Voraussetzung möglich, dass sie an ihn, bewusst oder unbewusst,
+						anknüpfen und in seinem Geiste geschehen. Wer aus Mangel an Verständniss oder aus
+						falschem Selbstgefühl andere Bahnen einschlägt, der wird über kurz oder lang die
+						Erfahrung machen, dass er Mühe und Kunst vergeblich aufgewandt habe. Es wird nicht oft
+						einer Wissenschaft das Glück zu Theil, dass sich ihr Genius so erschöpfend in eine
+						Persönlichkeit senkt. Freuen wir Juristen uns dieses Glücks.</p>
+					<p>Von Anmassung könnte daher nur dann die Rede sein, wenn es sich um etwas anderes
+						handelte, als um den Wunsch des geringsten Schülers, nach andern einige Beiträge zu dem
+						Werke desjenigen zu liefern, der auch das kleine für die Wissenschaft zu schätzen weiss.
+						Dass aber die Arbeit nicht ganz nutzlos sei, dafür ist eben dadurch am besten gesorgt,
+						dass es möglich ist, sie in Beziehung zu dem Werk des grossen Rechtslehrers zu
+						setzen.</p>
+					<p>Ich kann nicht umhin, hier der grossartigen Liberalität zu gedenken, mit der die hohe
+						k. bairische Regierung auf die hochgeneigte bereitwilligste Verwendung der k. k.
+						Gesandtschaft, ebenso die Vorstände der Münchner und Bamberger Bibliotheken die
+						Benützung der dortigen Handschriftenschätze, sowohl an Ort und Stelle, als auch in
+						Innsbruck, mir gestattet haben und noch gestatten.</p>
+					<p>Nicht minder bitte ich Herrn <persName ref="ln:wp,Kunstmann">Prof. Kunstmann</persName>
+						in München um freundliche Nachsicht, wenn ich der grossen Güte und seltenen
+						Uneigennützigkeit erwähne, mit welcher derselbe nicht blos mit seinen [<ref target="13"
+							>Faksimile</ref>] bedeutenden Kenntnissen der Münchner reichen Handschriftensammlung
+						mir zu Hülfe gekommen, sondern auch Handschriften, in denen er selbst arbeitete, mir zum
+						Gebrauch überlassen hat.</p>
+					<p>Auf der hiesigen k. k. Universitätsbibliothek befindet sich die früher dem Stift der
+						regulirten Augustiner Chorherren zu Neustift gehörige schöne Incunabelnsammlung<note
+							n="9.1">Sie ist beschrieben in dem <ref
+								target="https://books.google.at/books?id=AwwUAAAAQAAJ">Verzeichniss typographischer
+								Denkmäler aus dem fünfzehnten Jahrhundert, welche sich in der Bibliothek des u. s.
+								w. zu Neustift in Tirol befinden. Brixen 1789, 2 Bde.</ref>
+						</note>, die mir trefflich zustatten gekommen ist. Unter den Innsbrucker Handschriften
+						befinden sich verschiedene auf die Glossatorenzeit bezügliche. Für den gegenwärtigen
+						Beitrag ist unmittelbar nur eine derselben, die wichtigste, benutzt. [<ref target="14"
+							>Faksimile</ref>]</p>
+				</div>
+				<div xml:id="A.1">
+					<head>Erste Abtheilung. Einzelne Glossatoren und Glossatorenhandschriften.</head>
+					<div xml:id="A.1.1">
+						<head>1. Die Glosse des Cardinalis</head>
+						<div xml:id="A.1.1.1">
+							<p>Der <rs ref="ln:wp,Cardinalis,">Cardinalis</rs> ist unter den alten Glossatoren des
+								Decrets einer der am wenigsten bekannten. Johannes Andreä bemerkt in seinen Zusätzen
+								zum <ref target="ln:durantis_1592">Speculum judiciale</ref> des Durantis nur, dass
+								er in der Glossa ordinaria einigemal angeführt werde<note target="10.1">Bei Savigny,
+									G. d. r. R. i. M. B. 3, S. 634.</note>. Sarti erwähnt noch, dass Huguccio einen
+								Cardinal citire, dessen Name unbekannt sei<note target="10.2">
+									<ref target="ln:sarti_1.1_1769">(Sarti et Fattorini) De claris archigymn. Bonon.
+										professoribus. P. I, p. 300</ref>.</note>. Von neueren wird er nicht mehr
+								genannt.</p>
+							<p>Aus der grossen Summa des Huguccio über Gratian's Decret<note target="10.3">Die von
+									mir benutzten Handschriften sind Cod. lat. Monac. 10247 (Pal. M. 247) und Cod.
+									Bamberg. P. 11, 25. Näheres über das Werk selbst und diese Handschi.. s. m. u. §.
+									16—23.</note> gewinnen wir aber bald die Überzeugung, dass es sich hier um eine
+								keineswegs untergeordnete Persönlichkeit der alten Glossatorenschule handle. Nicht
+								blos dass er häufig genannt wird, aus der Art wie er genannt wird, bald als
+								Wortführer anderer die als quidam alii bezeichnet werden, bald er allein im
+								wissenschaftlichen Gegensatz zu allen übrigen, vor allem aber aus dem Inhalt der
+								Mittheilungen aus seinen Glossen erkennen wir, dass uns in dem Cardinalis ein in
+								hohem Grade selbständiger juristischer Schriftsteller gegenübersteht.</p>
+							<p>Es war mir daher interessant, auf der hiesigen k. k. Universitätsbibliothek eine
+								Handschrift von Gratian's Decret mit ziemlich zahlreichen Glossen des Cardinalis zu
+								finden. Da ich auf diese Handschrift häufiger zurückkommen werde, so wird es
+								zweckmässig sein, gleich hier ausführlicher auf sie einzugehen.</p>
+						</div>
+						<div xml:id="A.1.1.2">
+							<p>2. Cod. Oenipont. N. 90. membr. saec. XIII. oder XIV. 277 Blätter, enthält von Fol.
+								10 bis Fol. 271 ein an einigen Stellen lückenhaftes Decretum Gratiani. Das hohe
+								Alter des Texts ergibt sich </p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
+<!-- 
 1) 
 2) 
 3) 
