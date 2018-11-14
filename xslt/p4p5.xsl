@@ -52,10 +52,12 @@
 			<xsl:apply-templates select="*[*]"/>
 			<xsl:if test="not(*:publicationStmt) or normalize-space(*:publicationStmt)=''">
 				<publicationStmt>
-					<editor>Heino Speer</editor>
 					<publisher>
-						<ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
+						<ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
 					</publisher>
+					<distributor>
+						<ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
+					</distributor>
 				</publicationStmt>
 			</xsl:if>
 			<!-- educated guess... 2016-08-18 DK -->
