@@ -1,8 +1,5 @@
-<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?>
-<?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-	xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xml:id="edoc_ed000245_baum_flacius">
+<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?><?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_baum_flacius">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -10,10 +7,13 @@
 					:: Digitale Bearbeitung Heino Speer 2015</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ref target="http://repertorium.at">Heino Speer</ref>
-				</publisher>
-			</publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
 			<sourceDesc>
 				<p>TODO: Quelle eintragen</p>
 			</sourceDesc>
@@ -40,19 +40,16 @@
 				</div>
 				<div xml:id="TextBaum">
 					<head>[Text]</head>
-					<p>Der kroatische Reformator <persName
-							ref="http://de.wikipedia.org/wiki/Flacius_Illyricus">Mathias Flacius
+					<p>Der kroatische Reformator <persName ref="http://de.wikipedia.org/wiki/Flacius_Illyricus">Mathias Flacius
 							Illyricus</persName> (Matija Vlačić Ilirik) aus Albona (Labin) in Istrien gehört zu
 						den bedeutendsten Reformatoren des 16. Jahrhunderts. Der Sohn eines Grundbesitzers wurde
 						1520 geboren und kam mit 16 Jahren nach Venedig, wo er früh humanistische Studien
-						betrieb. Ein Verwandter, <persName ref="https://de.wikipedia.org/wiki/Baldo_Lupetino"
-							>Baldo Lupetina</persName>, ein Mönch, der in Venedig als Ketzer verurteilt und 14
+						betrieb. Ein Verwandter, <persName ref="https://de.wikipedia.org/wiki/Baldo_Lupetino">Baldo Lupetina</persName>, ein Mönch, der in Venedig als Ketzer verurteilt und 14
 						Jahre lebendig eingemauert war, hatte ihm den Weg zur Kritik an den Mißständen in der
 						Kirche gewiesen. Seine dortigen Lehrer schickten ihn 1539 an die Universität Basel, wo
 						ein großer Teil seines umfangreichen Werkes erschien. Bald kam er an die Universität
 						Tübingen, die für den Protestantismus in Österreich von großer Bedeutung wurde; von 1530
-						bis 1614 studierten hier 712 Österreicher, darunter 69 Kärntner<note xml:id="n1"
-							type="footnote" n="1">
+						bis 1614 studierten hier 712 Österreicher, darunter 69 Kärntner<note xml:id="n1" type="footnote" n="1">
 							<ref>Wilhelm Baum: Deutsche und Slowenen in Krain, Klagenfurt 1981, S.
 							180</ref>.</note>. Von Tübingen aus kam Flacius dann an die Universität Wittenberg, wo
 						er bald das Vertrauen Luthers gewann, der ihn 1543 zum Dogen nach Venedig schickte, um
@@ -78,27 +75,20 @@
 							"<ref target="http://de.wikipedia.org/wiki/Leipziger_Artikel">Interim</ref>" zwischen
 						Katholiken und der Partei Melanchthons bekämpfte. Er lehnte jede Verhandlung mit
 						denjenigen Protestanten ab, die in Glaubensfragen aus politischen Gründen Kompromisse
-						gemacht hatten. In Magdeburg arbeitete er eng mit dem Prediger <persName
-							ref="http://de.wikipedia.org/wiki/Nicolaus_Gallus">Nikolaus Gallus</persName>
+						gemacht hatten. In Magdeburg arbeitete er eng mit dem Prediger <persName ref="http://de.wikipedia.org/wiki/Nicolaus_Gallus">Nikolaus Gallus</persName>
 						zusammen, der später in Regensburg Superintendent werden und in der
 						Reformationsgeschichte Kärntens eine große Rolle spielen sollte. Bei seinen historischen
-						Forschungen arbeitete er mit <persName
-							ref="https://portal.dnb.de/opac.htm?query=per%3D%22Kaspar von Nydbruck%22+AND+catalog%3Dauthorities&amp;method=simpleSearch&amp;cqlMode=true"
-							>Kaspar Nydbruck</persName>, einem Berater des Kronprinzen <persName
-							ref="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)">Maximilian</persName>,
+						Forschungen arbeitete er mit <persName ref="https://portal.dnb.de/opac.htm?query=per%3D%22Kaspar von Nydbruck%22+AND+catalog%3Dauthorities&amp;method=simpleSearch&amp;cqlMode=true">Kaspar Nydbruck</persName>, einem Berater des Kronprinzen <persName ref="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)">Maximilian</persName>,
 						zusammen, der in Wien eine große Bibliothek zusammengetragen hatte. Flacius plante die
 						Organisation eines umfassenden und auf Quellenforschung beruhenden Geschichtswerkes, in
 						dem Jahrhundert für Jahrhundert aufgezeigt werden sollte, wie der Geist des Evangeliums
 						von der Verweltlichung und Verflachung bedroht worden sei. Daraus entstand das
-						umfassende Werk der sogenannten "<ref
-							target="http://de.wikipedia.org/wiki/Magdeburger_Centurien">Magdeburger
+						umfassende Werk der sogenannten "<ref target="http://de.wikipedia.org/wiki/Magdeburger_Centurien">Magdeburger
 							Centurien</ref>", die von 1559 bis 1574 in 13 Bänden erschienen. Bei einer zweiten
 						Reise nach Albona dürfte er 1552 auch die Verhältnisse in Kärnten kennengelernt haben.
-						In Klagenfurt fand damals das vom Gurker Bischof <persName
-							ref="http://de.wikipedia.org/wiki/Johann_von_Schönburg">Johann von
+						In Klagenfurt fand damals das vom Gurker Bischof <persName ref="http://de.wikipedia.org/wiki/Johann_von_Schönburg">Johann von
 							Schönburg</persName> initiierte Verfahren gegen den Lehrer <persName>Michael
-							Kerner</persName> statt, bei dem man protestantische Bücher gefunden hatte<note
-							xml:id="n2" type="footnote" n="2">
+							Kerner</persName> statt, bei dem man protestantische Bücher gefunden hatte<note xml:id="n2" type="footnote" n="2">
 							<ref target="https://books.google.at/books?id=GNRfAAAAcAAJ&amp;pg=PA109">Heinrich
 								Hermann: Klagenfurt wie es war und wie es ist, Klagenfurt 1832, S.
 						109</ref>.</note>. Dies ist gleichzeitig der älteste Nachweis von der Existenz der
@@ -109,20 +99,15 @@
 								i u Celovcu, in: Rad Jugoslavenske akademije znanosti i umjetnosti 300, 1954, S.
 								537-573, hier S. 551</ref> (ich danke Herrn Mag. Vladimir Dražic, Klagenfurt, für
 							seine Hilfe bei der Übersetzung des Textes).</note>. 1556 veröffentlichte Flacius den
-							"<ref target="http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ181655009"
-							>Catalogus testium veritatis</ref>", ein Werk, in dem etwa 400 bedeutende Gestalten
+							"<ref target="http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ181655009">Catalogus testium veritatis</ref>", ein Werk, in dem etwa 400 bedeutende Gestalten
 						vorgestellt werden, die sich kritisch gegenüber dem Papsttum geäußert hatten. In diesem
-						Werk zeigte Flacius sich mit den Verhältnissen der Slowenen in Kärnten gut vertraut. <pb
-							n="35"/> [Porträt Mathias Flacius Illyricus (1520-1575)] <pb n="36"/>
+						Werk zeigte Flacius sich mit den Verhältnissen der Slowenen in Kärnten gut vertraut. <pb n="35"/> [Porträt Mathias Flacius Illyricus (1520-1575)] <pb n="36"/>
 					</p>
 					<p>Um diese Zeit waren die Städte Kärntens bereits mehrheitlich protestantisch. 1555
-						übersiedelte der aus Kärnten stammende frühere steirische Landeshauptmann <persName
-							ref="http://de.wikipedia.org/wiki/Hans_von_Ungnad">Hans Ungnad von Sonnegg</persName>
-						nach Deutschland. Der "Luther der Slowenen", <persName
-							ref="http://de.wikipedia.org/wiki/Primus_Truber">Primus Truber</persName> (1508-1586),
+						übersiedelte der aus Kärnten stammende frühere steirische Landeshauptmann <persName ref="http://de.wikipedia.org/wiki/Hans_von_Ungnad">Hans Ungnad von Sonnegg</persName>
+						nach Deutschland. Der "Luther der Slowenen", <persName ref="http://de.wikipedia.org/wiki/Primus_Truber">Primus Truber</persName> (1508-1586),
 						der 1547 vom Laibacher Bischof exkommuniziert worden war, hatte 1550 mit dem
-							"<ref>Catechismus in der Windischen Sprach</ref>" [Anm. H.S.: <ref
-							target="https://books.google.at/books?id=Aa5RAAAAcAAJ">Digitalisat Ausgabe 1555</ref>]
+							"<ref>Catechismus in der Windischen Sprach</ref>" [Anm. H.S.: <ref target="https://books.google.at/books?id=Aa5RAAAAcAAJ">Digitalisat Ausgabe 1555</ref>]
 						und dem "<ref target="https://books.google.at/books?id=yGJdAAAAcAAJ">Abecedarium</ref>"
 						in Tübingen die beiden ersten slowenischen Bücher drucken lassen. 1557 hatte er die
 						Übersetzung der Evangelien ins Slowenische vollendet und übernahm 1562 die Organisation
@@ -149,8 +134,7 @@
 						der Jesuiten an den Universitäten in Ingolstadt, Wien und Padua unterbrochen werden.
 						Eine Buchdruckerei sollte die geplante Universität in Regensburg und die
 						"Halbuniversität” ("Semiacademiola") in Klagenfurt in ihrer Wirksamkeit unterstützen.
-						Allerdings war Flacius skeptisch, ob der Stadtrat von Regensburg und die Kärntner <pb
-							n="37"/> Stände als Stadtherren von Klagenfurt sich dieses Schatzes würdig erweisen
+						Allerdings war Flacius skeptisch, ob der Stadtrat von Regensburg und die Kärntner <pb n="37"/> Stände als Stadtherren von Klagenfurt sich dieses Schatzes würdig erweisen
 						würden. Flacius hatte offenbar schlechte Erfahrungen mit den Kärntner Ständen gemacht.
 						Er arbeitete nun Vorschläge ("Cogitationes") aus. Mit <persName>Mathias
 							Klombner</persName> (Clomberger), dem ehemaligen Sekretär der Krainer Stände, hatte er
@@ -187,8 +171,7 @@
 						österreichischen Adeligen (<persName>Rosenberg</persName> und
 							<persName>Enenkel</persName>), die zum Unterhalt der Universität <pb n="38"/>
 						beitragen wollten. Klombner schrieb aus Laibach an Ungnad, man wolle Flacius
-						unterstützen, "damit das Werk der halben hochen Schul angieng"<note xml:id="n5"
-							type="footnote" n="5">
+						unterstützen, "damit das Werk der halben hochen Schul angieng"<note xml:id="n5" type="footnote" n="5">
 							<ref>Mirković s. Anm. 4, hier S. 546</ref>.</note>. Aber auch die Gegner waren bereits
 						am Werke, denn ein Gelingen des Planes hätte die Stellung des Flacius innerhalb des
 						Protestantismus enorm gestärkt. Schon Anfang 1562 ersuchte Kurfürst <persName>August von
@@ -196,8 +179,7 @@
 						<persName>Hans Ungnad</persName>, den Druck kroatischer Schriften des Flacius zu
 						vereiteln.</p>
 					<p>Das Scheitern der Pläne des Reformators, die protestantische Schule in Klagenfurt zu
-						einer Hochschule auszubauen, ist zum Teil auch darauf zurückzuführen, daß <persName
-							ref="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)">Maximilian II.</persName>, der
+						einer Hochschule auszubauen, ist zum Teil auch darauf zurückzuführen, daß <persName ref="http://de.wikipedia.org/wiki/Maximilian_II._(HRR)">Maximilian II.</persName>, der
 						als Prinz den Druck der "Magdeburger Centurien" gefördert hatte, angesichts der
 						Türkenbedrohung umschwenkte. Ungnad fügte sich dem Wunsch des Kurfürsten, der sich
 						zusehends mit Maximilian II. arrangierte.</p>
@@ -213,16 +195,13 @@
 						Trubers Wirksamkeit in Krain wurde von Klombner, der bisher die führende Rolle in
 						Laibach gespielt hatte, bekämpft. Der Flacianismus gewann vor allem nach Trubers
 						Vertreibung im Jahre 1565 an Einfluß, da er "in Klombner einen leidenschaftlichen Anwalt
-						fand und eine Reihe von Geistlichen ihm nicht abgeneigt war"<note xml:id="n6"
-							type="footnote" n="6">
+						fand und eine Reihe von Geistlichen ihm nicht abgeneigt war"<note xml:id="n6" type="footnote" n="6">
 							<ref>Mirko Rupel: Primus Truber. Leben und Werk des slowenischen Reformators (=
 								Südosteuropa-Schriften 5), München 1965, S. 238</ref>.</note>.</p>
 					<p>Truber hatte Flacius 1563 acht Tage lang freundlich als Gast aufgenommen, obwohl ihm
 						bewußt war, wie isoliert der Reformator war. Der eifersüchtige Klombner erwartete sich
 						vom Besuch des Flacius eine Stärkung seiner eigenen Position. Flacius begriff in der
-						Folge nicht, daß die Zeit gegen ihn arbeitete. 1566 veröffentlichte er sein Werk "<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10181725-1"
-							>De <pb n="39"/> translatione Imperii Romani ad Germanos</ref>", mit dem er den neuen
+						Folge nicht, daß die Zeit gegen ihn arbeitete. 1566 veröffentlichte er sein Werk "<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10181725-1">De <pb n="39"/> translatione Imperii Romani ad Germanos</ref>", mit dem er den neuen
 						Kaiser Maximilian II. für sich zu gewinnen hoffte. Als er dem Kaiser jedoch im gleichen
 						Jahr in Augsburg gegenübertrat, spürte er bald, daß Maximilian sich von den
 						Vorstellungen seiner Jugendzeit distanziert hatte. Im Oktober 1566 mußte Flacius
@@ -248,16 +227,13 @@
 							<ref>Oskar Sakrausky: Der Flacianismus in Oberkärnten, in: Carinthia 1, 171, 1981, S.
 								111-140, hier S. 114</ref>.</note>. Zur Vorbereitung des Landtages des Jahres 1566
 						wollte man sich gegen die Vorwürfe des neuen Regenten, Erzherzog
-							<persName>Karls</persName>, schützen und ließ ein "<ref
-							target="http://reader.digitale-sammlungen.de/resolve/display/bsb10197392.html"
-							>Christliche einfeltige bekendtnus</ref>" drucken, das von Gallus verfaßt war und zu
+							<persName>Karls</persName>, schützen und ließ ein "<ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10197392.html">Christliche einfeltige bekendtnus</ref>" drucken, das von Gallus verfaßt war und zu
 						den frühesten Drucken gehört, die von Kärnten aus initiiert wurden. 26 ehemals
 						katholische Pfarrer hatten das Bekenntnis unterschrieben, das bis 1578 in Kärnten in
 						Geltung blieb. "Viele Formulierungen des Kärntner Bekenntnisses atmen den kompromißlosen
 						Geist des Flacius. Gallus stand in dauerndem Briefwechsel mit Kärntner Pfarrern, die ihn
 						als theologische Autorität anerkannten und ständig um Rat fragten. Es ging so weit, daß
-						Gallus sogar Kärntner <pb n="40"/> Pfarrer ordinierte."<note xml:id="n8" type="footnote"
-							n="8">
+						Gallus sogar Kärntner <pb n="40"/> Pfarrer ordinierte."<note xml:id="n8" type="footnote" n="8">
 							<ref>Franz Reischer: Der Protestantismus in Klagenfurt von der Reformationszeit bis
 								zur Gegenwart, in: Festschrift zur 1 00jährigen Gründungsfeier der evangel.
 								Pfarrgemeinde Klagenfurt 1864-1964, Klagenfurt 1964, S. 29</ref>.</note> Auch in
@@ -287,9 +263,7 @@
 						sein Buch "<ref>Fünff Hunger Predigten allen Christen zur warnung, Lehre und
 						Trost</ref>", die den Kärntner Ständen gewidmet waren. Allein der Magistrat von St. Veit
 						subskribierte 16 Exemplare des Buches. Von seinem 1569 in Chemnitz erschienenen Buch
-							"<ref>Von der Seligkeit</ref>" gab er 1576 als Prediger in Klagenfurt eine <ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10149968-5"
-							>2. Ausgabe</ref> heraus; <ref>1587</ref> erschien noch nach Langs Tod eine weitere
+							"<ref>Von der Seligkeit</ref>" gab er 1576 als Prediger in Klagenfurt eine <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10149968-5">2. Ausgabe</ref> heraus; <ref>1587</ref> erschien noch nach Langs Tod eine weitere
 						Auflage. 1571 erschien sein Predigtband "<ref>Der hohe thewre Eydt Gottes, Hezekiels am
 							XXXIII. Cap. in sechs Busspredigten</ref>".</p>
 					<p>Ein weiteres Indiz für den Einfluß der Flacianer in Kärnten ist die Berufung des
@@ -300,17 +274,13 @@
 						eine Akademie zu gründen (Regensburg, Stadtarchiv)] Geringswalde bei Rochlitz in
 						Kursachsen gewesen, die als "Flacianernest” von Kurfürst August nach nur zwei Jahren
 						geschlossen wurde. Haubold floh nun nach Regensburg, wo er ebenfalls Rektor des
-						Gymnasiums wurde. Nach dem Tode des Nikolaus Gallus († 1570) wurde <persName
-							ref="http://www.controversia-et-confessio.de/cc-digital/personen/register/eintraege/waldner-wolfgang.html"
-							>Wolfgang Waldner</persName> sein Nachfolger, der sich 1574 ganz der Richtung des
+						Gymnasiums wurde. Nach dem Tode des Nikolaus Gallus († 1570) wurde <persName ref="http://www.controversia-et-confessio.de/cc-digital/personen/register/eintraege/waldner-wolfgang.html">Wolfgang Waldner</persName> sein Nachfolger, der sich 1574 ganz der Richtung des
 						Augsburger Bekenntnisses Philipp Melanchthons zuwandte. Haubold wurde 1574 wegen seiner
 						scharfen Verteidigung der Erbsündenlehre des Flacius in Regensburg entlassen und
 						übernahm die Leitung des "Collegium Sapientiae et pietatis" in Klagenfurt. Am 21.
 						Oktober 1574 erließ er eine neue Schulordnung, die leider nicht mehr erhalten ist. Als
 						es 1574 zum Streit zwischen <persName>Andreas Lang</persName> und dem aus Württemberg
-						kommenden Stadtpfarrer <persName
-							ref="https://de.wikisource.org/wiki/BLK%C3%96:Ziegler,_Ambros_%28gest._1578%29"
-							>Ambrosius Ziegler</persName> kam, weil letzterer die Erbsünde als "Accidenz" und
+						kommenden Stadtpfarrer <persName ref="https://de.wikisource.org/wiki/BLK%C3%96:Ziegler,_Ambros_%28gest._1578%29">Ambrosius Ziegler</persName> kam, weil letzterer die Erbsünde als "Accidenz" und
 						nicht als "Substanz" des Menschen sah, trat Haubold auf die Seite Langs. Am Ende des
 						heftigen Streites wurden alle am 26. September 1575 von den Ständen entlassen. Lang und
 						Haubold ließen eine Rechtfertigungsschrift drucken, die leider nicht mehr erhalten ist.
@@ -332,20 +302,15 @@
 						zu Druckwerken führte, als es noch keine Buchdruckerei gab! Cyriakus Spangenberg
 						tröstete die Getreuen 1579 in seiner "<ref>Christlichen Ermanungsschrifft</ref>" an die
 						"guten Freunde alle im Bleyberg, zu Villach, zum Spittal und Gmünde, auch andre in
-						Kärndten, sonderlich am Lurnfeldt". Der Rostocker Professor <persName
-							ref="http://de.wikipedia.org/wiki/David_Chyträus">David Chyträus</persName>, der sich
+						Kärndten, sonderlich am Lurnfeldt". Der Rostocker Professor <persName ref="http://de.wikipedia.org/wiki/David_Chyträus">David Chyträus</persName>, der sich
 						große Verdienste um das protestantische Schulwesen in Innerösterreich erwarb, arbeitete
 						1578 eine <ref>Kirchenordnung für die Steiermark, Kärnten und Krain</ref> aus, in der
 						der Flacianismus als Irrlehre abgewiesen wurde. Die protestantischen Reichsstände
 						arbeiteten eine "Formula concordiae" aus, die Primus Truber auf Befehl des Herzogs von
-						Württemberg Ende 1579 den Ständen in Innerösterreich übersandte. 1580 erschien die <ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10143711-5 "
-							>Konkordienformel</ref> in Tübingen gedruckt; Primus Trubers Sohn Felician brachte sie
+						Württemberg Ende 1579 den Ständen in Innerösterreich übersandte. 1580 erschien die <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10143711-5 ">Konkordienformel</ref> in Tübingen gedruckt; Primus Trubers Sohn Felician brachte sie
 						nach Graz, Klagenfurt und Laibach und sammelte die Unterschriften der Prediger. 85
 						Pfarrer und Lehrer aus Kärnten unterschrieben die Formel; ihre Namen finden sich im
-							"<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10143718-2 "
-							>Christlichen wiederholetem einmütigem Bekendtnuss</ref>", das 1582 in Heidelberg
+							"<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10143718-2 ">Christlichen wiederholetem einmütigem Bekendtnuss</ref>", das 1582 in Heidelberg
 						gedruckt wurde. Damit hatte die Augsburger Richtung endgültig über den Flacianismus in
 						Kärnten gesiegt. Interessant ist jedoch, daß sich der Geheimprotestantismus in Kärnten
 						in den Gebieten am besten behauptete, die flacianisch gewesen waren.</p>
@@ -354,8 +319,7 @@
 						(1561/62) und die letzte Reise des Reformators in seine Heimat, auf der er auch Kärnten
 						besucht haben dürfte (1563), weit vorausgeeilt. Leider sind uns so gut wie keine Quellen
 						über diese Zeit im Leben des Flacius erhalten. Klagenfurt und Kärnten <pb n="43"/> aber
-						blieben immer ein Teil seiner Pläne und Kombinationen<note xml:id="n10" type="footnote"
-							n="10">
+						blieben immer ein Teil seiner Pläne und Kombinationen<note xml:id="n10" type="footnote" n="10">
 							<ref>Mirković, s. Anm. 3, S. 551</ref>: "Celovac i Koruška ostaju neprestano u
 							njegovim planovima i kombinacijama".</note>. Zunächst fällt auf, daß Ungnad den
 						Reformator auf ein Gebot des sächsischen Kurfürsten hin nicht mehr bei seinem Plan
@@ -365,11 +329,9 @@
 						cyrilischen Druck, und dass ein Landschaft in Kärnten und Krain möcht den teuern Mann
 						dazu gebrauchen, dann er in den höchsten Sprachen erfahren. Nu sag ich, dass die
 						Landschaften wenig sich hierum beladen werden ... Die Landschaften haben Schulden,
-						werden nicht weiter zahlen. Was sie tun wollten, das haben sie geleistet."<note
-							xml:id="n11" type="footnote" n="11">
+						werden nicht weiter zahlen. Was sie tun wollten, das haben sie geleistet."<note xml:id="n11" type="footnote" n="11">
 							<ref>ebenda, S. 552</ref>.</note> Dem gemäßigteren Primus Truber gewährten die
-						Kärntner Stände 1561 jedoch großzügig eine Unterstützung von hundert Talern<note
-							xml:id="n12" type="footnote" n="12">
+						Kärntner Stände 1561 jedoch großzügig eine Unterstützung von hundert Talern<note xml:id="n12" type="footnote" n="12">
 							<ref>Klagenfurt, Kärntner Landesarchiv, Ständisches Archiv, HS 13: Ständische
 								Protokolle 1557-1572</ref>. (Von einer Unterstützung für Flacius Illyricus ist in
 							den Protokollen nichts zu finden!)</note>. Auch weiterhin spielen Kärnten und

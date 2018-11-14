@@ -1,5 +1,4 @@
-<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?>
-<?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml" ?>
+<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron" ?><?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_bartsch_gueterrecht_1905">
 	<teiHeader>
 		<fileDesc>
@@ -8,10 +7,13 @@
 					Edition Heino Speer 2012</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ref target="http://repertorium.at">Heino Speer</ref>
-				</publisher>
-			</publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
 			<sourceDesc>
 				<p>TODO: Quelle eintragen</p>
 			</sourceDesc>

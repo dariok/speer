@@ -1,8 +1,5 @@
-<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-	xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xml:id="edoc_ed000245_dedic_protestantismus_1930">
+<?xml-model href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="../rules/tei-p5-transcr.xsd" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="edoc_ed000245_dedic_protestantismus_1930">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -10,10 +7,13 @@
 					2014</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ref target="http://repertorium.at">Heino Speer</ref>
-				</publisher>
-			</publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
 			<sourceDesc>
 				<p>Schriften des Vereins für Reformationsgeschichte Jahrgang 48, Heft 2 (Nr. 149)] Leipzig
 					1930.</p>
@@ -73,8 +73,7 @@
 						<term>Schubert, Hans von</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Hans_von_Schubert">Geheimrat D. Dr. Dr. von
-						Schubert</persName> in Heidelberg für die Aufforderung zu dieser Arbeit, Herrn <index
-						indexName="Personen">
+						Schubert</persName> in Heidelberg für die Aufforderung zu dieser Arbeit, Herrn <index indexName="Personen">
 						<term>Loesche</term>
 					</index>
 					<name type="person">Hofrat D. D. Dr. Loesche</name> in Königssee für die Überlassung
@@ -82,8 +81,7 @@
 					insbesondere Herrn <index indexName="Personen">
 						<term>Doblinger</term>
 					</index>
-					<name type="person">Direktor Hofrat Dr. Doblinger</name> und Herrn <index
-						indexName="Personen">
+					<name type="person">Direktor Hofrat Dr. Doblinger</name> und Herrn <index indexName="Personen">
 						<term>Hafner</term>
 					</index>
 					<name type="person">Archivar Dr. Hafner</name> sowie Herrn <index indexName="Personen">
@@ -216,8 +214,7 @@
 				<p>Seit dem 15. Jahrhundert in engerer Fühlung, später in der Verteidigung gegen den
 					Erbfeind der Christenheit, die Türken, in einer starken Interessengemeinschaft mit den
 					Nachbarländern Kärnten, Krain und Görz, bildete die grüne Mark mit diesen in der zweiten
-					Hälfte des 16. Jahrhunderts das sog. "Innerösterreich"<note xml:id="n1.1" type="footnote"
-						n="1.1">Die staatsrechtliche Bindung "Innerösterreichs" (im folgenden stets I.-Ö.
+					Hälfte des 16. Jahrhunderts das sog. "Innerösterreich"<note xml:id="n1.1" type="footnote" n="1.1">Die staatsrechtliche Bindung "Innerösterreichs" (im folgenden stets I.-Ö.
 						abgekürzt) erfolgte erst bei der Erbteilung nach dem Tode <index indexName="Personen">
 							<term>Ferdinand I.</term>
 						</index>
@@ -232,8 +229,7 @@
 					aufgeschlagen und in seiner Geldnot so manchen unbequemen Gläubiger in die Kerker des
 					benachbarten Schloßbergs geworfen, waren auch seine Nachfolger öfter als Gäste in die
 					ständig an Ansehen zunehmende Alpenstadt eingekehrt, so wurde Graz im Jahre 1564 nicht nur
-					der Fürstensitz und das Regierungs- und Verwaltungszentrum Innerösterreichs, sondern <pb
-						n="2"/> es gewann bald durch die sich hier abspielenden Vorgänge für mehr als ein halbes
+					der Fürstensitz und das Regierungs- und Verwaltungszentrum Innerösterreichs, sondern <pb n="2"/> es gewann bald durch die sich hier abspielenden Vorgänge für mehr als ein halbes
 					Jahrhundert die Bedeutung eines der wichtigsten Höfe Mitteleuropas. Nie ist Graz und mit
 					ihm die Steiermark wieder so sehr im Mittelpunkt historischen Geschehens gestanden als
 					damals.</p>
@@ -252,8 +248,7 @@
 					Salz-, Eisen- und Weinstraßen durchzogen das im Norden rauhe, berg-und waldreiche, im
 					Süden mit einer fast südländischen Milde und Fruchtbarkeit gesegnete Land. Auf ihnen, wie
 					auf manchen der Flußläufe, wurden die Haupterzeugnisse des Landes, Holz, Salz, Wein, der
-					damals besonders im Orient beliebte Speik<note xml:id="n2.1" type="footnote" n="2.1"
-						>Valeriana celtica, eine heute noch zu Parfümeriezwecken benutzte Alpenpflanze, deren
+					damals besonders im Orient beliebte Speik<note xml:id="n2.1" type="footnote" n="2.1">Valeriana celtica, eine heute noch zu Parfümeriezwecken benutzte Alpenpflanze, deren
 						Wurzeln einen eigenartigen Wohlgeruch besitzen. Der mit wichtigen Privilegien begabte
 						Haupthandelsort hierfür war im 16. Jahrhundert Judenburg.</note> und der wichtigste
 					Handelsartikel, das Eisen, verfrachtet. Seit Jahrhunderten spendete der heute noch schier
@@ -280,8 +275,7 @@
 				<p>Kirchlich war Steiermark damals nördlich der Drau dem Erzbistum Salzburg, südlich dem
 					Patriarchate Aquileja untertan, ersterem gehörte das steirische Bistum Seckau zu. In
 					Leibnitz residierte meist der salzb. Vizedom. Bisweilen recht ausgedehnten kirchlichen
-					Besitz hatten im Lande außerdem die Bistümer Bamberg, Freising und Brixen<note
-						xml:id="n3.1" type="footnote" n="3.1">Der Bamberger Vizedom war in der für die
+					Besitz hatten im Lande außerdem die Bistümer Bamberg, Freising und Brixen<note xml:id="n3.1" type="footnote" n="3.1">Der Bamberger Vizedom war in der für die
 						Ausbreitung des Protestantismus entscheidenden Zeit der Vorkämpfer der evangelischen
 						Richtung: <index indexName="Personen">
 							<term>Hoffmann, Hans Friedrich</term>
@@ -296,12 +290,10 @@
 					schon früher wiederholt Klage geführt wurde, mußte jetzt namhaft steuern. Hatten bisher
 					manche Pfründeninhaber ihre Einkünfte aus dem Lande geschafft oder in der Fremde verzehrt,
 					so sollte jetzt ein Teil des in der toten Hand angesammelten Besitzes der Allgemeinheit
-					dienstbar gemacht werden. Im Zeichen der großen Türkengefahr ordnete <index
-						indexName="Personen">
+					dienstbar gemacht werden. Im Zeichen der großen Türkengefahr ordnete <index indexName="Personen">
 						<term>Ferdinand I.</term>
 					</index>
-					<name type="person">Ferdinand</name>, seit 1522 von seinem Bruder <index
-						indexName="Personen">
+					<name type="person">Ferdinand</name>, seit 1522 von seinem Bruder <index indexName="Personen">
 						<term>Karl V.</term>
 					</index>
 					<name type="person">Karl V.</name> mit der Regierung der österreichischen Erblande
@@ -315,10 +307,8 @@
 					dürfen. Man sieht, wie haltlos die von der ultramontanen Geschichtsschreibung gegen den
 					Adel erhobenen Anwürfe sind, die ihm die gewaltsame Enteignung geistlichen Besitzes zur
 					Last legen! Was er in jenen Zeiten an sich brachte, war mit ganz verschwindender Ausnahme,
-					auf rechtmäßige Weise von den in wirtschaftliche Not geratenen Pfarren erworben<note
-						xml:id="n4.1" type="footnote" n="4.1">Bis in die neunziger Jahre gibt es Fälle des
-						Ankaufs geistlicher Güter durch den Adel. In dieser Zeit war es der Salzburger <index
-							indexName="Personen">
+					auf rechtmäßige Weise von den in wirtschaftliche Not geratenen Pfarren erworben<note xml:id="n4.1" type="footnote" n="4.1">Bis in die neunziger Jahre gibt es Fälle des
+						Ankaufs geistlicher Güter durch den Adel. In dieser Zeit war es der Salzburger <index indexName="Personen">
 							<term>Raittenau, Wolf Dietrich von</term>
 						</index>
 						<persName ref="http://de.wikipedia.org/wiki/Wolf_Dietrich_von_Raitenau">Erzbischof Wolf
@@ -384,13 +374,11 @@
 						<term>Lang von Wellenburg, Matthäus</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Matth%C3%A4us_Lang">Kardinalerzbischof Mathäus
-						Lang</persName>, der seinen reformfreundlichen Domprediger einkerkern ließ und <index
-						indexName="Personen">
+						Lang</persName>, der seinen reformfreundlichen Domprediger einkerkern ließ und <index indexName="Personen">
 						<term>Speratus, Paul</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Paul_Speratus">Speratus</persName> aus seinem
-					Salzburger Amte tat, in dessen Residenz der im Frieden seiner Abtei <index
-						indexName="Personen">
+					Salzburger Amte tat, in dessen Residenz der im Frieden seiner Abtei <index indexName="Personen">
 						<term>Luther, Martin</term>
 					</index>
 					<name type="person">Luther</name> entfremdete <index indexName="Personen">
@@ -402,8 +390,7 @@
 					Beschlüsse <index indexName="Personen">
 						<term>Ferdinand I.</term>
 					</index>
-					<name type="person">Ferdinand</name> für alle seine Erblande als bindend erklärte<note
-						xml:id="n6.1" type="footnote" n="6.1">Mandat vom 1. September 1524.</note>. Sie
+					<name type="person">Ferdinand</name> für alle seine Erblande als bindend erklärte<note xml:id="n6.1" type="footnote" n="6.1">Mandat vom 1. September 1524.</note>. Sie
 					schärften die strengste Handhabung der kirchlichen Satzungen, insbesondere der
 					Fastengebote ein, ordneten die Fernhaltung "ausgelaufener" Mönche und Nonnen, die Büßung
 					verheirateter Priester an und verhängten <pb n="7"/> für die Landeskinder ein
@@ -429,8 +416,7 @@
 						<index indexName="Personen">
 						<term>Zwingli</term>
 					</index>
-					<persName ref="http://de.wikipedia.org/wiki/Zwingli">Zwinglis</persName>, <index
-						indexName="Personen">
+					<persName ref="http://de.wikipedia.org/wiki/Zwingli">Zwinglis</persName>, <index indexName="Personen">
 						<term>Ökolampadius</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/%C3%96kolampad">Ökolampads</persName> sowie
@@ -445,14 +431,12 @@
 					Besserung des Alten unwirksam bleiben mußte, trachtete Ferdinand unermüdlich danach, das
 					zerrüttete römische Kirchenwesen zu heben. Hatte doch der für die österreichischen
 					Erblande in Augsburg vom Dezember 1525 bis zum März 1526 gehaltene Generallandtag
-					zahlreiche Beschwerden des Herren- und Ritterstandes über die kirchlichen Verhältnisse <pb
-						n="8"/> gebracht, die dringend nach einer Reform verlangten. Besonders nachdrücklich
+					zahlreiche Beschwerden des Herren- und Ritterstandes über die kirchlichen Verhältnisse <pb n="8"/> gebracht, die dringend nach einer Reform verlangten. Besonders nachdrücklich
 					hatten die steirischen Abgesandten tüchtige Priester und "die Verkündigung des lauteren
 					Evangeliums" gefordert. Der durch Luther angebahnten Reformation stand König Ferdinand
 					durchaus ablehnend gegenüber, auch er wollte bessern, aber zugleich das Alte erhalten. Die
 					Möglichkeit, dies zu erreichen, sah er in einer eifrigen Mitwirkung der Kirchenfürsten und
-					Oberen. Wiederholt schärfte er in diesen und den folgenden Jahren<note xml:id="n8.1"
-						type="footnote" n="8.1">Z. B. die Mandate vom 16. Jänner 1528 und vom 22. Jänner 1532,
+					Oberen. Wiederholt schärfte er in diesen und den folgenden Jahren<note xml:id="n8.1" type="footnote" n="8.1">Z. B. die Mandate vom 16. Jänner 1528 und vom 22. Jänner 1532,
 						das Generale von 1535 und das neuerliche Verbot, protestantische Hochschulen zu
 						besuchen, dat. Augsburg den 5. April 1548.</note> den Bischöfen, Prälaten, Ordinarien
 					und Offizialen ein, die Regensburger Beschlüsse mit allem Ernst durchzuführen, auch Fasten
@@ -529,8 +513,7 @@
 					gehöre, sondern auch das "göttliche Recht", die Befreiung von den Abgaben, Frohnen und
 					Roboten und die Auflösung des drückenden Hörigkeitsverhältnisses. Die Wogen des
 					Aufstandes, der im Jahre 1525 im Salzburgischen ausbrach, schlugen auch ins benachbarte
-					steirische Ennstal hinüber. Dem selbst der neuen Lehre zugetanen Landeshauptmann <index
-						indexName="Personen">
+					steirische Ennstal hinüber. Dem selbst der neuen Lehre zugetanen Landeshauptmann <index indexName="Personen">
 						<term>Dietrichstein, Siegmund von</term>
 					</index>
 					<name type="person">Siegmund von Dietrichstein</name>
@@ -543,12 +526,10 @@
 							<term>Maximilian I.</term>
 						</index>
 						<name type="person">Maximilians</name> gewesen, der ihm eine prunkvolle Hochzeit auf
-						seine Kosten ausrichten ließ. Er genoß auch das besondere Vertrauen König <index
-							indexName="Personen">
+						seine Kosten ausrichten ließ. Er genoß auch das besondere Vertrauen König <index indexName="Personen">
 							<term>Ferdinand I.</term>
 						</index>
-						<name type="person">Ferdinands</name>. Von seinen Söhnen wurde <index
-							indexName="Personen">
+						<name type="person">Ferdinands</name>. Von seinen Söhnen wurde <index indexName="Personen">
 							<term>Dietrichstein, Adam von</term>
 						</index>
 						<name type="person">Adam</name> katholisch. Dieser hat das aus Kärnten stammende
@@ -577,8 +558,7 @@
 						Salm</persName> mit einem Heere nach Schladming; die von den Einwohnern, Bauern und
 					Bergleuten verteidigte Stadt wurde im Sturm genommen und völlig zerstört, die ergriffenen
 					Rädelsführer, Bürger und Bauern, knüpfte man inmitten der Ruinen auf. Das Ansehen und der
-					Reichtum des zur Strafe seines Stadtprivilegs beraubten Ortes<note xml:id="n11.1"
-						type="footnote" n="11.1">Schladming wurde zwar bald wieder aufgebaut, erhielt aber erst
+					Reichtum des zur Strafe seines Stadtprivilegs beraubten Ortes<note xml:id="n11.1" type="footnote" n="11.1">Schladming wurde zwar bald wieder aufgebaut, erhielt aber erst
 						nach 400 Jahren (1925) die Bezeichnung "Stadt" wieder.</note>, der damals, durch seinen
 					Bergbau berühmt, über 1000 Bergleute in seinen Mauern beherbergt haben soll, war
 					gebrochen.</p>
@@ -601,14 +581,12 @@
 					zeitweise nicht ungefährliche Schwärmerei der Taufgesinnten. Sie fahndete allenthalben
 					nach ihren Sendboten, warf ihre Führer ins Gefängnis und hielt sie oft jahrzehntelang in
 					schrecklichen Verließen, um die meisten nach der unmenschlichen Einkerkerung zu töten. Sie
-					wurden enthauptet oder verbrannt, Frauen meist ertränkt. Der fromme und gelehrte <index
-						indexName="Personen">
+					wurden enthauptet oder verbrannt, Frauen meist ertränkt. Der fromme und gelehrte <index indexName="Personen">
 						<term>Hubmaier, Balthasar</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Balthasar_Hubmaier">Dr. Balthasar
 						Hubmaier</persName> und sein tapferes Weib, die ersten in Wien hingerichteten Märtyrer
-					des Täufertums, erhielten bald in Steiermark Nachfolger. Die von König <index
-						indexName="Personen">
+					des Täufertums, erhielten bald in Steiermark Nachfolger. Die von König <index indexName="Personen">
 						<term>Ferdinand I.</term>
 					</index>
 					<name type="person">Ferdinand</name> im Februar und April 1528 für reuige Täufer
@@ -637,8 +615,7 @@
 					<name type="person">Dietrichstein</name> berichtet, daß er "durch heimliche Kundschafter
 					mit allem Fleiß allenthalben der Notdurft nach Erkundigung gehalten" und dabei besonders
 					in verschiedenen obersteierischen Städten, vor allem in Bruck und Leoben, Anhänger der
-					Wiedertaufe gefunden habe. Er legte seinem Landesfürsten das von <index
-						indexName="Personen">
+					Wiedertaufe gefunden habe. Er legte seinem Landesfürsten das von <index indexName="Personen">
 						<term>Rhegius, Urbanus</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Urbanus_Rhegius">Urbanus Rhegius</persName>
@@ -648,8 +625,7 @@
 					</index>
 					<name type="person">Ferdinand</name> belobte seinen Landeshauptmann wegen des an den Tag
 					gelegten Eifers<note xml:id="n12.2" type="footnote" n="12.2">Datiert: Innsbruck, den 28.
-						Jänner 1528 (Original im Archiv Nikolsburg).</note>, hielt aber dafür, es sei <pb n="13"
-					/> "beschwerlich", das Büchlein (das ja einen lutherischen Verfasser hatte), "dermaßen
+						Jänner 1528 (Original im Archiv Nikolsburg).</note>, hielt aber dafür, es sei <pb n="13"/> "beschwerlich", das Büchlein (das ja einen lutherischen Verfasser hatte), "dermaßen
 					ausgehen zu lassen"<note xml:id="n13.1" type="footnote" n="13.1">Ferdinand schreibt: "...
 						und haben deshalb solch Puechl weder auf <index indexName="Personen">
 							<term>Fabri, Johann</term>
@@ -666,8 +642,7 @@
 					erwiesen, teilte der König mit, daß er beim Kardinal <index indexName="Personen">
 						<term>Lang von Wellenburg, Matthäus</term>
 					</index>
-					<persName ref="http://de.wikipedia.org/wiki/Matth%C3%A4us_Lang_von_Wellenburg"
-						>Lang</persName> in Salzburg für Bruck und Leoben "fürderlich geschickte Prediger"
+					<persName ref="http://de.wikipedia.org/wiki/Matth%C3%A4us_Lang_von_Wellenburg">Lang</persName> in Salzburg für Bruck und Leoben "fürderlich geschickte Prediger"
 					erbeten habe.</p>
 				<p>Der Erzbischof sandte Prediger, die von Dietrichstein nach Obersteiermark beordert
 					wurden. Als von der für freiwillig zur Kirchenbuße und Rückkehr zum römischen Glauben sich
@@ -675,8 +650,7 @@
 					daß die Regierung wieder zur Strenge zurückzukehren gebot, andererseits in Leoben ein
 					Binder und ein Bader, an anderen Orten etliche Jugendliche als Täufer in Haft genommen
 					worden waren, fragte Dietrichstein an, ob man es noch einmal mit Milde versuchen solle,
-					was aber der König in einem langen und ausführlichen Gutachten nicht für gut erklärte<note
-						xml:id="n13.2" type="footnote" n="13.2">Datiert: Speyer, den 18. April 1528 (Orig. i.
+					was aber der König in einem langen und ausführlichen Gutachten nicht für gut erklärte<note xml:id="n13.2" type="footnote" n="13.2">Datiert: Speyer, den 18. April 1528 (Orig. i.
 						Arch. Nikolsburg).</note>. Abgesehen davon, daß in allen Ländern nach den zuletzt
 					verlautbarten strengen Mandaten vorgegangen werden sollte, hätte man mit den Begnadigten
 					wenig gute Erfahrungen gemacht, denn die meisten seien ebenso wie die freiwillig zum
@@ -688,8 +662,7 @@
 					Freienstein <pb n="14"/> habe einkerkern lassen, da man in seinem Besitze "etliche Büchl
 					und Schreiben" der Täufer gefunden hätte. Seiner Meldung hatte der Landeshauptmann auch 2
 					Sendschreiben gefangener Wiedertäufer, die sie ihren Brüdern nach Krems und Wels aus dem
-					Kerker zuschicken wollten, beigelegt. Der König gebot<note xml:id="n14.1" type="footnote"
-						n="14.1">Datiert: Linz, den 22. und den 23. Mai 1528 (Ebdrt.)</note>, jenen Pfleger zur
+					Kerker zuschicken wollten, beigelegt. Der König gebot<note xml:id="n14.1" type="footnote" n="14.1">Datiert: Linz, den 22. und den 23. Mai 1528 (Ebdrt.)</note>, jenen Pfleger zur
 					peinlichen Befragung nach Graz zu schaffen und sandte ein besonderes Anerkennungsschreiben
 					für <index indexName="Personen">
 						<term>Trauttmannsdorff, Erasmus von</term>
@@ -699,15 +672,12 @@
 					etliche derselben zu Gefängnis gebracht" habe. Im Juni legte der Fürst neuerdings in der
 					Behandlung der Taufgesinnten dem Landeshauptmann die größte Strenge nahe. Aus einem
 					beigeschlossenen, einem Gefangenen abgenommenen Sendschreiben sollte der Hauptmann
-					ersehen, "was hinter dieser Sekt’ heimlich verborgen steht"<note xml:id="n14.2"
-						type="footnote" n="14.2">Datiert: Linz, den 12. Juni 1528 (Ebdrt.)</note>. Als in Bruck
+					ersehen, "was hinter dieser Sekt’ heimlich verborgen steht"<note xml:id="n14.2" type="footnote" n="14.2">Datiert: Linz, den 12. Juni 1528 (Ebdrt.)</note>. Als in Bruck
 					im Oktober etliche Täufer entwichen, gebot Ferdinand, sie zu suchen und ihnen den Prozeß
 					zu machen<note xml:id="n14.3" type="footnote" n="14.3">Datiert: Wien, den 29. Oktober 1528
 						(Ebdrt.)</note>.</p>
-				<p>So nahmen im Jänner 1529 die Prozesse in Leoben<note xml:id="n14.4" type="footnote"
-						n="14.4">Richter und Rat in Leoben baten, dat. 28. Jänner 1529, den Landeshauptmann um
-						Weisungen zur Prozeßführung. (Ebdrt.)</note> und Bruck<note xml:id="n14.5"
-						type="footnote" n="14.5">In Bruck dauern die Verhöre bis in den Juli 1529. Am Ulrichstag
+				<p>So nahmen im Jänner 1529 die Prozesse in Leoben<note xml:id="n14.4" type="footnote" n="14.4">Richter und Rat in Leoben baten, dat. 28. Jänner 1529, den Landeshauptmann um
+						Weisungen zur Prozeßführung. (Ebdrt.)</note> und Bruck<note xml:id="n14.5" type="footnote" n="14.5">In Bruck dauern die Verhöre bis in den Juli 1529. Am Ulrichstag
 						(4. Juli) senden Richter und Rat in Bruck einen Bericht über verhörte Täufer.
 						(Ebdrt.)</note> ihren Anfang. Während man dort etliche Jugendliche begnadigte, wurden in
 					Bruck in diesem Jahre 9 Männer enthauptet und 3 Mädchen ertränkt. Das erhaltene alte
@@ -716,8 +686,7 @@
 					wollt’ leiden die ersten Schmerzen<lb/> küßt sie auf ihren Mund:<lb/> Gott segne euch,
 					liebe Brüder mein<lb/> heut’ wollen wir beieinander<lb/> im Paradiese sein"<lb/> und
 					erzählt, daß die Jüngste der Schwestern, mit ihren Schicksalsgenossinnen zum
-					Ertränkungstode an die Mur geführt, das Wasser angelacht habe<note xml:id="n14.6"
-						type="footnote" n="14.6">Noch mehrmals hörte man in den nächsten Jahren von
+					Ertränkungstode an die Mur geführt, das Wasser angelacht habe<note xml:id="n14.6" type="footnote" n="14.6">Noch mehrmals hörte man in den nächsten Jahren von
 						Täuferprozessen und Hinrichtungen. Die Regierungsmandate wurden noch bis 1557 erneuert.
 						Doch hatte das Täufertum in Steiermark nie recht Fuß gefaßt.</note>.<pb n="15"/>
 				</p>
@@ -728,15 +697,13 @@
 					Auftrage der Regierung befahl der Landeshauptmann dem in Leibnitz residierenden
 					salzburgischen Vizedom, des Bogners Haus, "in dem die Wiedertaufe und das Brotbrechen
 					gehandelt und den Pfaffen Weiber gegeben worden", niederzureißen. Als der Vizedom sich
-					hiezu nicht rasch genug entschloß, trug Ferdinand in einem eigenen Befehl<note
-						xml:id="n15.1" type="footnote" n="15.1">Dat. Regensburg, den 26. Juni 1529 (Orig. i.
+					hiezu nicht rasch genug entschloß, trug Ferdinand in einem eigenen Befehl<note xml:id="n15.1" type="footnote" n="15.1">Dat. Regensburg, den 26. Juni 1529 (Orig. i.
 						Arch. Nikolsburg).</note> Dietrichstein den Vollzug auf. Nur diesem scharfen Zugreifen
 					gelang es tatsächlich, die Wiedertäufer, die sich bereits stark zu verbreiten begonnen
 					hatten, noch rechtzeitig in Steiermark zu unterdrücken. In ihrer Ablehnung waren, wie im
 					Deutschen Reiche, besonders nach dem Münsterer Trauerspiele, die Anhänger der alten wie
 					der neuen Richtung eins, wenngleich es aus evangelischer Seite auch nicht an milden und
-					verständigen Urteilen fehlte; so nannte sie der steirische Landeshauptmann <index
-						indexName="Personen">
+					verständigen Urteilen fehlte; so nannte sie der steirische Landeshauptmann <index indexName="Personen">
 						<term>Ungnad, Hans von</term>
 					</index>
 					<persName ref="http://de.wikipedia.org/wiki/Hans_Ungnad">Hans von Ungnad</persName> fromme
@@ -752,8 +719,7 @@
 					gegen Gottes Ehr’ und Dienst ist". Er trug dem Landeshauptmann auf, alle bisher für die
 					Erbländer erlassenen Religionsgeneralia strenge zu handhaben und insbesondere den
 					Stadtpfarrern und Seelsorgern <pb n="16"/> samt ihren "Mitgesellen" einzuschärfen, daß sie
-					in der bevorstehenden heiligen Zeit das Fasten und Beichten scharf überwachen möchten<note
-						xml:id="n16.1" type="footnote" n="16.1">Dat. Innsbruck, den 22. Jänner 1528 (Orig.
+					in der bevorstehenden heiligen Zeit das Fasten und Beichten scharf überwachen möchten<note xml:id="n16.1" type="footnote" n="16.1">Dat. Innsbruck, den 22. Jänner 1528 (Orig.
 						ebdrt.)</note>. Noch mehr aber versprach sich Ferdinand von der nun angeordneten
 					Visitation. Sie sollte einerseits feststellen, in welchem Maße die kirchlichen Satzungen
 					eingehalten würden, andererseits war ihr Zweck, die Beschwerden sowohl der Geistlichkeit
@@ -850,8 +816,7 @@
 					</index>
 					<name type="person">Hans Muerer</name> hier mit der Abstellung mancher römischer
 					Zeremonien begnügte, die Weihe am Palmsonntag unterlassen, überhaupt seit 3 Jahren keinen
-					Weihbrunnen mehr benützt hatte, predigte der Gesellpriester Herr <index
-						indexName="Personen">
+					Weihbrunnen mehr benützt hatte, predigte der Gesellpriester Herr <index indexName="Personen">
 						<term>Andre</term>
 					</index>
 					<name type="person">Andre</name>, mit seinem Pfarrer in der eifrigen Verbreitung und
@@ -915,8 +880,7 @@
 					Stadtpfarrkirche Mag. <index indexName="Personen">
 						<term>Huschimhey, Prokopius</term>
 					</index>
-					<name type="person">Prokopius Huschimhey</name>, der Gesellpriester <index
-						indexName="Personen">
+					<name type="person">Prokopius Huschimhey</name>, der Gesellpriester <index indexName="Personen">
 						<term>Georg</term>
 					</index>
 					<name type="person">Georg</name> (Jörg), der "schwarze Herr <index indexName="Personen">
@@ -1069,8 +1033,7 @@
 					nunmehr offen und ungescheut zur A. K. zu bekennen; oft und oft traten die steirischen
 					"Konfessionisten" in den nächsten Jahren mit der Bitte an den König heran, dem Lande
 					Prediger zu geben, die das Evangelium gemäß der A. K. lauter und unverfälscht verkündigen
-					könnten. Man begegnet in einer dieser Eingaben<note xml:id="n24.1" type="footnote"
-						n="24.1">1536.</note> der Begründung: Schon die alten Juden seien, weil sie vom wahren
+					könnten. Man begegnet in einer dieser Eingaben<note xml:id="n24.1" type="footnote" n="24.1">1536.</note> der Begründung: Schon die alten Juden seien, weil sie vom wahren
 					Gottesdienst abgefallen, nach der Zerstörung ihrer Stadt in die Gefangenschaft geraten. In
 					gleicher Weise bedrohe der Türke um des in der römischen Zuchtlosigkeit sichtbaren
 					Verfalls der christlichen Kirche willen das Land. Zur Abwehr des Unheils könne nur die
@@ -1121,9 +1084,7 @@
 					in Augsburg drucken ließ<note xml:id="n26.1" type="footnote" n="26.1">Er empfahl ihn auch
 						den anderen steirischen Schulmeistern zum Gebrauch. 1553 wurde Pica von den Ständen zum
 						ludiliterarii praefectus gemacht. Ferdinand wies ihn darum aus, die Landschaft stellte
-						ihn aber später bei der Verwaltung wieder an. [<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10537374-6"
-							>BSB-Digitalisat</ref>
+						ihn aber später bei der Verwaltung wieder an. [<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10537374-6">BSB-Digitalisat</ref>
 					</note>.</p>
 				<p>Im schmalkaldischen Kriege äußerte sich die dem Kaiser <index indexName="Personen">
 						<term>Karl V.</term>
@@ -1152,8 +1113,7 @@
 					zum Kaiser, der dem in Augsburgs versammelten Reichstage beiwohnte. Die Antwort, die die
 					steirischen Stände von ihrem Landesherrn erhielten, war der Befehl zur Einhaltung des nach
 					dem für die evangelische Sache unglücklichen Ausgang des Schmalkaldischen Krieges in
-					Augsburg zustandegekommenen <ref target="http://de.wikipedia.org/wiki/Augsburger_Interim"
-						>Interims</ref>, das Protestanten wie Katholiken in gleicher Weise unbefriedigt
+					Augsburg zustandegekommenen <ref target="http://de.wikipedia.org/wiki/Augsburger_Interim">Interims</ref>, das Protestanten wie Katholiken in gleicher Weise unbefriedigt
 					ließ.</p>
 				<p>Die 22 Kapitel umfassende Reformationsordnung, die Kaiser <index indexName="Personen">
 						<term>Karl V.</term>
@@ -1218,8 +1178,7 @@
 					zuletzt eingestellt. Und doch war dies "der letzte Augenblick, wo eine scharfe
 					Generalreformation wohl auch im Hinblick auf die Neuerungen Erfolg gehabt hätte". Aber
 					diese letzte Gelegenheit verstrich ungenützt. Und damit hob der Siegeszug der Reformation
-					wie in den übrigen habsburgischen österreichischen Erbländern auch in Steiermark an. <pb
-						n="29"/>
+					wie in den übrigen habsburgischen österreichischen Erbländern auch in Steiermark an. <pb n="29"/>
 				</p>
 				<p>Die Mandate, die Ferdinand in den nächsten Jahren erließ und die sich dem Verlauf der
 					Dinge entgegenstellen wollten, wie das verschärfte Verbot des Jahres 1551, "lutherische
@@ -1312,8 +1271,7 @@
 						verdienten, gleich ihm lutherisch gesinnten <index indexName="Personen">
 							<term>Dietrichstein, Siegmund von</term>
 						</index>
-						<name type="person">Siegmund von Dietrichstein</name>. Von Hans jüngerem Bruder <index
-							indexName="Personen">
+						<name type="person">Siegmund von Dietrichstein</name>. Von Hans jüngerem Bruder <index indexName="Personen">
 							<term>Ungnad, Andreas von</term>
 						</index>
 						<name type="person">Andreas</name>, der 1536 in Torgau <index indexName="Personen">
@@ -1324,16 +1282,14 @@
 						viele Standesgenossen paßte: Ist ein feiner Herr; aber unsere Lehre liegt in seinem
 						Geiste gleichsam, als ob ich mit einem Träumenden rede". Von dem Eindruck, den Luther
 						auf den Adeligen machte, zeugt sein Ausspruch, er wolle "gern 100 Kronen darum geben,
-						sich mit dem Reformator einen ganzen Tag zu bereden". Der Neffe beider <index
-							indexName="Personen">
+						sich mit dem Reformator einen ganzen Tag zu bereden". Der Neffe beider <index indexName="Personen">
 							<term>Ungnad, David von</term>
 						</index>
 						<name type="person">David Ungnad</name> war — damals ein an manchen Hochschulen und dem
 						sie besuchenden Adel geübter Brauch! — im Jahre 1557 Rektor der Wittenberger
 						Universität; später als frommer, geistlicher Dichter nicht unbekannt, ein unermüdlicher
 						Förderer des Evangeliums, politisch begabt, von seinem Kaiser zu Gesandtschaften nach
-						Konstantinopel verwendet.</note> ein schwerer Schlag traf, denn Ungnad hatte, <pb n="32"
-					/> jahrzehntelang an der verantwortlichsten Stelle im Lande stehend, die Treue zu seinem
+						Konstantinopel verwendet.</note> ein schwerer Schlag traf, denn Ungnad hatte, <pb n="32"/> jahrzehntelang an der verantwortlichsten Stelle im Lande stehend, die Treue zu seinem
 					König mit der Treue zu seinem Glauben zu verbinden gewußt. Luther kannte er wohl von
 					Angesicht, denn er scheint der steirische Gesandte gewesen zu sein, der sich im Jahre 1540
 					mit Luther in Wittenberg beredete. Er hatte den Reformator gefragt, "was er von den
@@ -1373,8 +1329,7 @@
 							<term>Christoph von Württemberg</term>
 						</index>
 						<name type="person">Christoph von Württemberg</name> räumte dem durch die theologischen
-						Streitigkeiten in Sachsen angewiderten und dort abgewanderten <index
-							indexName="Personen">
+						Streitigkeiten in Sachsen angewiderten und dort abgewanderten <index indexName="Personen">
 							<term>Ungnad, Hans von</term>
 						</index>
 						<name type="person">Hans Ungnad</name> das ehemalige Amandstift in Urach ein. Hier trat
@@ -1446,12 +1401,10 @@
 					Auf ihren Herrensitzen und Patronatspfarren aber setzten sie die Prediger des reinen
 					Evangeliums ein.</p>
 				<p>Selbst in den Reihen der höheren römischen Geistlichkeit fehlte es an aufsehenerregenden
-					Konversionen nicht. Der im Benediktinerstift Admont ausgewachsene und erzogene <index
-						indexName="Personen">
+					Konversionen nicht. Der im Benediktinerstift Admont ausgewachsene und erzogene <index indexName="Personen">
 						<term>Abel, Valentin</term>
 					</index>
-					<name type="person">Valentin Abel</name>, welcher als Kapitular mit <index
-						indexName="Personen">
+					<name type="person">Valentin Abel</name>, welcher als Kapitular mit <index indexName="Personen">
 						<term>Luther, Martin</term>
 					</index>
 					<name type="person">Luther</name> im Briefwechsel gestanden haben soll, wurde, 1545 zum
@@ -1465,8 +1418,7 @@
 				<p>Nun wagte auch die Bürgerschaft einiger Städte entscheidende Schritte. In Fürstenfeld
 					vertrieb der Magistrat im Jahre 1549 die Augustiner, die nur unter Schwierigkeiten zwei
 					Jahre später mit Hilfe kaiserlicher Befehle wieder zurückkehren konnten. In Graz wurde ins
-					diesen Jahren die Fronleichnamsprozession gänzlich eingestellt<note xml:id="n35.1"
-						type="footnote" n="35.1">1552</note>. Der im Dienste der Landschaft stehende Kaplan
+					diesen Jahren die Fronleichnamsprozession gänzlich eingestellt<note xml:id="n35.1" type="footnote" n="35.1">1552</note>. Der im Dienste der Landschaft stehende Kaplan
 						<index indexName="Personen">
 						<term>Schelchin, Balthasar</term>
 					</index>
@@ -1525,9 +1477,7 @@
 					der Romkirche nicht mehr auf. Als Ferdinand am 25. Juli 1564 starb, war der Großteil des
 					Adels wie des Bürgertums der Städte und Märkte der evangelischen Lehre zugetan und sie
 					begann, von den Schlössern und aus den Städten in die bäuerliche Bevölkerung getragen und
-					von den Kanzeln der Dorfkirchen, verkündet, auch in ihr starke Fortschritte zu <pb n="37"
-					/> machen. Den Ständen erschien im Rückblick die Regierungszeit <index
-						indexName="Personen">
+					von den Kanzeln der Dorfkirchen, verkündet, auch in ihr starke Fortschritte zu <pb n="37"/> machen. Den Ständen erschien im Rückblick die Regierungszeit <index indexName="Personen">
 						<term>Ferdinand I.</term>
 					</index>
 					<name type="person">Ferdinands</name> trotz der vielen von ihm erlassenen, aber doch nie
@@ -1536,8 +1486,7 @@
 					Überzeugung im Stillen gelitten habe.</p>
 			</div>
 			<div xml:id="A.4">
-				<head>4. Die Erwerbung der großen Konzessionen in den ersten Regierungsjahren <index
-						indexName="Personen">
+				<head>4. Die Erwerbung der großen Konzessionen in den ersten Regierungsjahren <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Erzherzog Karls</name> (1564—78).</head>
@@ -1570,8 +1519,7 @@
 					Erzherzog bei Hofe zuerst <index indexName="Personen">
 						<term>Elisabeth von England</term>
 					</index>
-					<name type="person">Elisabeth von England</name>, darnach ihre Gegnerin <index
-						indexName="Personen">
+					<name type="person">Elisabeth von England</name>, darnach ihre Gegnerin <index indexName="Personen">
 						<term>Maria Stuart</term>
 					</index>
 					<name type="person">Maria Stuart</name> zugedacht. Die katholische Hofpartei setzte große
@@ -1583,8 +1531,7 @@
 					Gegenreformation, die festeste Stütze des oft unentschlossenen Gatten, danach die
 					eifrigste Ratgeberin des Sohnes bei der Durchführung des katholischen Rettungswerkes.</p>
 				<p>Bei seinem Regierungsantritt klagte Erzherzog Karl, daß sich in Steiermark "nur mehr
-					Reliquien der alten Kirche" vorfänden. Die evangelischen Stände begrüßten sein Kommen, <pb
-						n="38"/> denn sie schätzten ihn ebensosehr als Protestanten ein, wie seinen kaiserlichen
+					Reliquien der alten Kirche" vorfänden. Die evangelischen Stände begrüßten sein Kommen, <pb n="38"/> denn sie schätzten ihn ebensosehr als Protestanten ein, wie seinen kaiserlichen
 					Bruder <index indexName="Personen">
 						<term>Maximilian II.</term>
 					</index>
@@ -1592,8 +1539,7 @@
 						<term>Christoph von Württemberg</term>
 					</index>
 					<name type="person">Herzog Christoph von Württemberg</name> gegenüber zum Protestantismus
-					bekannt hatte; bei den Verhandlungen wegen seiner Vermählung mit Königin <index
-						indexName="Personen">
+					bekannt hatte; bei den Verhandlungen wegen seiner Vermählung mit Königin <index indexName="Personen">
 						<term>Elisabeth von England</term>
 					</index>
 					<name type="person">Elisabeth von England</name> rühmte er sich, den von seinem Vater ihm
@@ -1644,8 +1590,7 @@
 						landschaftlichen Ausgabenbüchern wichtige Quellen für die Protestantengeschichte.</note>
 					hatten aber bereits am 24. Februar 1565 an den Superintendenten und die Universität zu
 					Wittenberg die Bitte gerichtet, sie mit tauglichen evangelischen Predigern für das Land,
-					insbesondere aber für die Hauptstadt Graz zu versehen, da der bisherige "Pastor" <index
-						indexName="Personen">
+					insbesondere aber für die Hauptstadt Graz zu versehen, da der bisherige "Pastor" <index indexName="Personen">
 						<term>Schelchin</term>
 					</index>
 					<name type="person">Schelchin</name> alt und müde geworden sei. Man entsprach in
@@ -1659,8 +1604,7 @@
 					bessern, nicht nur unbetrübt lassen, sondern auch gestatten, daß von auswärts geschickte
 					Prediger ins Land gerufen würden. Karl gewährte dies nicht, aber er sprach auch kein
 					Verbot aus, nur verlangte er, daß das "Skalieren" der Prädikanten ein Ende haben müsse.
-					Diesem Wunsche kamen die V.O. nach, indem sie die beiden landschaftlichen Prediger <index
-						indexName="Personen">
+					Diesem Wunsche kamen die V.O. nach, indem sie die beiden landschaftlichen Prediger <index indexName="Personen">
 						<term>Lilko</term>
 					</index>
 					<name type="person">Lilko</name> und <index indexName="Personen">
@@ -1725,16 +1669,13 @@
 					erleben lassen, in der sein lauteres Evangelium im Lande verkündigt würde, dem allein
 					müßten sie nun dienen. Sie erwarben trotz des Regierungsverbotes im März 1568 das in Graz
 					beim Murtor gelegene, von ihnen bereits seit 2 ½ Jahrzehnten zur Abhaltung ihrer
-					Gottesdienste benutzte "Eggenberger Stift"<note xml:id="n42.1" type="footnote" n="42.1"
-						>Man sagte damals: Die Stift.</note>, errichteten·dort die nachmals so berühmte
+					Gottesdienste benutzte "Eggenberger Stift"<note xml:id="n42.1" type="footnote" n="42.1">Man sagte damals: Die Stift.</note>, errichteten·dort die nachmals so berühmte
 					"Stiftsschule" und erweiterten den bereits viel zu kleinen gottesdienstlichen Raum zur
 					würdigen protestantischen "Stiftskirche".</p>
-				<p>An ihr wirkte der in Ulm konvertierte frühere katholische Priester Mag. <index
-						indexName="Personen">
+				<p>An ihr wirkte der in Ulm konvertierte frühere katholische Priester Mag. <index indexName="Personen">
 						<term>Thoner, David</term>
 					</index>
-					<name type="person">Thonner</name> und der begabte aber unruhige <index
-						indexName="Personen">
+					<name type="person">Thonner</name> und der begabte aber unruhige <index indexName="Personen">
 						<term>Khuen, Georg</term>
 					</index>
 					<name type="person">Georg Khuen</name>
@@ -1743,8 +1684,7 @@
 						Lutheraner, wurde <index indexName="Personen">
 							<term>Khuen, Georg</term>
 						</index>
-						<name type="person">Khuen</name> 1558—60 lutherischer Prediger in Heidelberg; vom <index
-							indexName="Personen">
+						<name type="person">Khuen</name> 1558—60 lutherischer Prediger in Heidelberg; vom <index indexName="Personen">
 							<term>Friedrich von der Pfalz</term>
 						</index>
 						<name type="person">Kurfürsten Friedrich</name> bei der Einführung der reformierten
@@ -1760,9 +1700,7 @@
 						Superintendent in Bensheim a. B., hier wieder durch die Einführung des reformierten
 						Bekenntnisses vertrieben, amtete er seit 1585 in Eßlingen, 1586 in Worms, von wo er
 						wegen des bevorstehenden Deputiertentages an die steirischen Stände schrieb. Dann
-						verliert sich seine Spur. [<ref
-							target="http://www.digitalisierungszentrum.de/index.html?c=autoren_index&amp;projekt=&amp;ordnung=alpha&amp;ab=Khuen,%20Georg&amp;suchbegriff=&amp;kl=&amp;l=de"
-							>Digitalisateverzeichnis BSB</ref>]</note>, an den Gottesdiensten nahmen selbst die
+						verliert sich seine Spur. [<ref target="http://www.digitalisierungszentrum.de/index.html?c=autoren_index&amp;projekt=&amp;ordnung=alpha&amp;ab=Khuen,%20Georg&amp;suchbegriff=&amp;kl=&amp;l=de">Digitalisateverzeichnis BSB</ref>]</note>, an den Gottesdiensten nahmen selbst die
 					meisten Regierungs- und Hofbeamten teil. Der Erzherzog beklagte sich bitter, daß seine
 					Hofleute ihn bei seinem Kirchgang nur bis an die Kirchentür geleiteten, ihn aber dann vor
 					allem Volke allein ließen. Hingegen kam es gelegentlich vor, daß der Erzherzog bei der
@@ -1806,8 +1744,7 @@
 					klagten über die ihnen vorenthaltenen Giebigkeiten. Aber da wurde von vielen Geistlichen
 					Kunde, die verheiratet lebten, "häretische Bücher" lasen, die Ohrenbeichte verworfen und
 					"im Pausch absolvierten". In vielen Orten kommunizierten nur mehr ganz wenige sub una, in
-					Knittelfeld unter 1000 Pfarrkindern kaum eines, im benachbarten Lind, wo der Vogt <index
-						indexName="Personen">
+					Knittelfeld unter 1000 Pfarrkindern kaum eines, im benachbarten Lind, wo der Vogt <index indexName="Personen">
 						<term>Graßwein, Wolf von</term>
 					</index>
 					<name type="person">Wolf von Graßwein</name> dem Pfarrer vorschrieb, "was er predigen und
@@ -1881,8 +1818,7 @@
 						<term>Stubenberg, Wolf von</term>
 					</index>
 					<name type="person">Wolf von Stubenberg</name>, selbst Protestant, aber vorsichtig und
-					zurückhaltend, stets zu vermitteln suchte, bestärkten unter seinen Räten besonders <index
-						indexName="Personen">
+					zurückhaltend, stets zu vermitteln suchte, bestärkten unter seinen Räten besonders <index indexName="Personen">
 						<term>Kobenzl von Proßegg, Hans</term>
 					</index>
 					<name type="person">Hans von Kobenzl</name>
@@ -1892,8 +1828,7 @@
 						</index>
 						<name type="person">Hans Kobenzl von Proßegg</name> begann seine Laufbahn als
 						"Denunziant", um 200 als Strafgeld ausgesetzte Dukaten zu verdienen, und stieg von Stufe
-						zu Stufe bis zum Kammerpräsidenten.</note> und Dr. Wolfgang Schranz<note xml:id="n46.2"
-						type="footnote" n="46.2">
+						zu Stufe bis zum Kammerpräsidenten.</note> und Dr. Wolfgang Schranz<note xml:id="n46.2" type="footnote" n="46.2">
 						<index indexName="Personen">
 							<term>Schranz, Wolfgang</term>
 						</index>
@@ -1904,8 +1839,7 @@
 							<term>Walther, Bernhard</term>
 						</index>
 						<name type="person">Dr. Bernhard Walter</name>. 1566 Kanzleramtsverwalter, 1576
-						Hofvizekanzler, schloß er sich eng an die Jesuiten und wurde ihr und der <index
-							indexName="Personen">
+						Hofvizekanzler, schloß er sich eng an die Jesuiten und wurde ihr und der <index indexName="Personen">
 							<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 						</index>
 						<name type="person">Erzherzogin Maria</name> williges Werkzeug. Als "Denunziant,
@@ -1924,8 +1858,7 @@
 					</index>
 					<name type="person">Maria</name> kamen sie ihm mit einer "Verehrung" entgegen, seine
 					großen Forderungen aber erfüllten sie nicht, zumal sie das im römischen Lager einsetzende
-					Treiben, das schließlich zu einem durch einen Welschen auf den Prediger <index
-						indexName="Personen">
+					Treiben, das schließlich zu einem durch einen Welschen auf den Prediger <index indexName="Personen">
 						<term>Khuen, Georg</term>
 					</index>
 					<name type="person">Khuen</name> versuchten Mordanschlag führte, von neuem schwer reizte.
@@ -1962,8 +1895,7 @@
 				<p>Daß dieser aber keineswegs gewillt war, sich mit der Brucker Entschließung abzufinden,
 					zeigte der Ausweisungsbefehl, den er als Antwort auf das Ansuchen Leobens, den
 					neuaufgenommenen Prediger behalten zu dürfen, sandte. Er ergriff, auf der <pb n="48"/>
-					Durchreise nach Kärnten, selbst wenige Jahre später<note xml:id="n48.1" type="footnote"
-						n="48.1">13. März 1576.</note> die Gelegenheit, den Bewohnern seiner Eisenstadt
+					Durchreise nach Kärnten, selbst wenige Jahre später<note xml:id="n48.1" type="footnote" n="48.1">13. März 1576.</note> die Gelegenheit, den Bewohnern seiner Eisenstadt
 					persönlich um ihres Ungehorsams willen die schwersten Strafen anzudrohen, aber er konnte
 					ebensowenig ihre Beteiligung an der Fronleichnamsprozession, die er gefordert, erreichen,
 					als er das "Auslaufen" zu den Adelspredigern der Nachbarschaft zu verhindern
@@ -1976,8 +1908,7 @@
 					Beschwerden über die Besetzung der Pfarren Radkersburg, die der Bischof selbst 7 Jahre
 					lang einem evangelischen Geistlichen belassen hatte, und Fürstenfeld schnitten die vom
 					Regenten absichtlich nicht berührte religiöse Frage an. Auf die von ihrer Erledigung
-					abhängig gemachte Geldbewilligung der Stände dringend angewiesen, gab <index
-						indexName="Personen">
+					abhängig gemachte Geldbewilligung der Stände dringend angewiesen, gab <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> am 16. Februar die mündliche Erklärung, er selbst gedenke
@@ -2000,8 +1931,7 @@
 					Erklärung sollte bis zu einem "allgemeinen, christlichen und friedlichen Vergleich"
 					gelten. Es folgten noch einige Verhandlungen der wegen der vorsichtigen Fassung jener
 					Erklärung mißtrauischen V.O. mit den geheimen Räten und dem Erzherzog selbst, bis
-					schließlich am 1. März 1572 die vom Landtag genehmigte "Grazer Pazifikation" von <index
-						indexName="Personen">
+					schließlich am 1. März 1572 die vom Landtag genehmigte "Grazer Pazifikation" von <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> feierlich bestätigt wurde. Nun erst geschahen die
@@ -2023,19 +1953,16 @@
 					sie nun den Brandenburger Hofprediger <index indexName="Personen">
 						<term>Cälestinus</term>
 					</index>
-					<name type="person">Dr. Cälestinus</name> und den Rostocker Universitätsprofessor <name
-						type="person">D. Chyträus</name> nach Graz. Ersterer schrieb, da für ihn keine
+					<name type="person">Dr. Cälestinus</name> und den Rostocker Universitätsprofessor <name type="person">D. Chyträus</name> nach Graz. Ersterer schrieb, da für ihn keine
 					Aufenthaltsbewilligung vom Erzherzog zu erreichen war, mit Rücksicht auf seine Stellung am
 					Berliner Hofe ab, <name type="person">Chyträus</name> kam im Jänner 1574 nach Graz, blieb
 					einige Monate im Lande und arbeitete hier die Kirchenordnung und die Agende aus. Ihre
 					Herstellung war dringend notwendig geworden, da sich im Lande der nachmals besonders für
 					den nieder- und oberösterreichischen <pb n="50"/> Protestantismus so verhängnisvolle
-					Flazianismus zu regen begann. Mit seinem Hauptvertreter, dem Schladminger Prediger <index
-						indexName="Personen">
+					Flazianismus zu regen begann. Mit seinem Hauptvertreter, dem Schladminger Prediger <index indexName="Personen">
 						<term>Haßler, Stefan</term>
 					</index>
-					<name type="person">Stefan Haßler</name> wurden 2 Religionsgespräche gehalten<note
-						xml:id="n50.1" type="footnote" n="50.1">1577.</note>, die zu völliger Unterdrückung der
+					<name type="person">Stefan Haßler</name> wurden 2 Religionsgespräche gehalten<note xml:id="n50.1" type="footnote" n="50.1">1577.</note>, die zu völliger Unterdrückung der
 					flazianischen Richtung im Lande führten. Die steirischen Stände rühmten sich dem Erzherzog
 					gegenüber mit Recht des öfteren, daß sie in Steiermark, wo der Kalvinismus nie Fuß faßte,
 					nur das lutherische Bekenntnis zugelassen, nie aber den Flazianismus oder irgendeine Sekte
@@ -2054,8 +1981,7 @@
 						<name type="person">Aschermann</name> zur Begründung des Jesuitenkollegs nach Olmütz
 						berufen worden, von wo man ihn wegen seines Predigttalentes nach Graz holte.</note> die
 					Protestanten in Graz erbittert. Man kannte hinreichend das Wirken dieses geschickten
-					Kampfordens. Wenn auch die Erzählung, daß die ersten Patres von <index
-						indexName="Personen">
+					Kampfordens. Wenn auch die Erzählung, daß die ersten Patres von <index indexName="Personen">
 						<term>Schranz, Wolfgang</term>
 					</index>
 					<name type="person">Dr. Schranz</name> als bayrische Adelige verkleidet aus München in die
@@ -2068,13 +1994,11 @@
 					</index>
 					<name type="person">Maria von Wittelsbach</name> die Hand reichte, gewannen die Jesuiten,
 					die im nächsten Jahre mit 7 Patres in Graz eine Ordensniederlassung begründeten, in ihr
-					eine stets besorgte und hilfsbereite Gönnerin. Ihr Gatte räumte, von <index
-						indexName="Personen">
+					eine stets besorgte und hilfsbereite Gönnerin. Ihr Gatte räumte, von <index indexName="Personen">
 						<term>Gregor XIII.</term>
 					</index>
 					<name type="person">Papst Gregor XIII.</name> am 4. Juli 1573 für die Beförderung dieses
-					Ordens besonders belobt, den Jesuiten die bisherige Stadtpfarre zum hl. Ägidius ein<note
-						xml:id="n50.3" type="footnote" n="50.3">Der heutige Grazer Dom. Das Stadtpfarramt wurde
+					Ordens besonders belobt, den Jesuiten die bisherige Stadtpfarre zum hl. Ägidius ein<note xml:id="n50.3" type="footnote" n="50.3">Der heutige Grazer Dom. Das Stadtpfarramt wurde
 						in die Kirche und das Stift der Dominikaner verlegt, die in die Vorstadt wandern
 						mußten.</note>. Sie entfalteten eine rege Predigt-und Seelsorgetätigkeit, begründeten
 					bald eine lateinische Schule und, von Karl und seiner Gemahlin mit Einkünften reichlich
@@ -2127,8 +2051,7 @@
 					Priestern Loyolas erhobenen Anwürfe, sie hätten sich unrechtmäßig an geistlichem Gute
 					bereichert, zu verteidigen. Auf dem Landtage von 1574 führte der steirische Adel "den
 					unwiderleglichen Nachweis, daß nicht eine Habe geistlichen Gutes unrechtmäßig in seine
-					Hände gelangt sei; das bestätigte kein Geringerer als der Bischof <index
-						indexName="Personen">
+					Hände gelangt sei; das bestätigte kein Geringerer als der Bischof <index indexName="Personen">
 						<term>Agricola, Georg</term>
 					</index>
 					<name type="person">Georg Agricola</name> von Seckau, der den Ständen bezeugte, daß der
@@ -2141,8 +2064,7 @@
 					Jahres verwahrten sich gegen das friedhässige Treiben der Jesuiten, welches in Graz sogar
 					zu dem falschen Gerüchte führte, daß der Brunnen in der "Stift" durch sie vergiftet worden
 					sei, lehnten aber auch die anzügliche, scharfe Sprache der geheimen Räte und Doktoren ab;
-					in der Aussprache bezichtigten sie insbesondere den Kanzleramtsverwalter <index
-						indexName="Personen">
+					in der Aussprache bezichtigten sie insbesondere den Kanzleramtsverwalter <index indexName="Personen">
 						<term>Schranz, Wolfgang</term>
 					</index>
 					<name type="person">Dr. Schranz</name> der Urheberschaft jener Mißhelligkeiten, doch
@@ -2160,8 +2082,7 @@
 					hinausging, da der Herrscher erklärte, daß er nicht nur den Herren und Rittern, sondern
 					"allen denen, niemand ausgenommen, die sich gutwillig zu ihrer (Augsburgischen) Konfession
 					begeben, ihre Konfession unverwehrt und einen jeden seinem Gewissen nach glauben lassen,
-					ihre Prädikanten auch Schulen nicht ausschaffen wolle". Als der Landschaftssekretär <index
-						indexName="Personen">
+					ihre Prädikanten auch Schulen nicht ausschaffen wolle". Als der Landschaftssekretär <index indexName="Personen">
 						<term>Hirsch, Kaspar</term>
 					</index>
 					<name type="person">Caspar Hirsch</name> diese erzherzogliche Erklärung öffentlich verlas,
@@ -2194,8 +2115,7 @@
 						<term>Senger</term>
 					</index>
 					<name type="person">Dr. Senger</name> bei seinen Gottesdiensten am Schlosse Grünbüchl bis
-					zu 800 <pb n="54"/> Abendmahlsgäste zählte<note xml:id="n54.1" type="footnote" n="54.1"
-						>1576. Dr. Senger war das Haupt der auf den Hoffmann’schen Pfarren wirkenden
+					zu 800 <pb n="54"/> Abendmahlsgäste zählte<note xml:id="n54.1" type="footnote" n="54.1">1576. Dr. Senger war das Haupt der auf den Hoffmann’schen Pfarren wirkenden
 						evangelischen Prediger.</note>, mehrten sich in Graz die jesuitischen Übergriffe. Schon
 					fehlte es nicht an Beerdigungsverweigerungen in den Stadtfriedhöfen, man riß die in der
 					Stadtpfarrkirche an den Adelsgräbern hängenden Fahnen herunter und gefiel sich in
@@ -2228,8 +2148,7 @@
 					besonders in den Händen <index indexName="Personen">
 						<term>Hoffmann, Hans Friedrich</term>
 					</index>
-					<name type="person">Hans Friedrich Hoffmanns</name> und Mathias Ammans<note xml:id="n55.1"
-						type="footnote" n="55.1">
+					<name type="person">Hans Friedrich Hoffmanns</name> und Mathias Ammans<note xml:id="n55.1" type="footnote" n="55.1">
 						<index indexName="Personen">
 							<term>Amman von Amansegg, Matthias</term>
 						</index>
@@ -2305,8 +2224,7 @@
 					Wert eines Dokuments gehabt hätte, nicht in Betracht. So entschloß er sich zu einer
 					mündlichen Zusage dessen, das er nicht zu halten gedachte, wohl mit dem peinlichen Gefühl,
 					daß der — vielleicht bald — eintretende Bruch seines Fürstenwortes für ihn beschämend sein
-					und seine Ehre bemakeln würde. Mag sein, daß ihm die in diesen Dingen erfahrenen <pb
-						n="57"/> jesuitischen Seelenberater über die inneren Schwierigkeiten hinweghalfen.</p>
+					und seine Ehre bemakeln würde. Mag sein, daß ihm die in diesen Dingen erfahrenen <pb n="57"/> jesuitischen Seelenberater über die inneren Schwierigkeiten hinweghalfen.</p>
 				<p>Nach siebenwöchigen Dupliken und Repliken forderte der Erzherzog am 9. Februar 1578 vor
 					der Frühmahlzeit die Ausschüsse zu sich, die einschließlich der Stadtvertreter erschienen.
 					In Gegenwart der geheimen Räte <index indexName="Personen">
@@ -2336,10 +2254,7 @@
 					daß die Städte nun ihres Gefallens Prädikanten aufnähmen; doch wolle er sie "in ihrem
 					Gewissen unbekümmert lassen, darauf mögen sie sich wohl verlassen". Er bitte sie alle um
 					Gotteswillen, ihm nicht zu mißtrauen. Was er zugesagt, wolle er treulich halten, denn er
-					meine es gnädiglich und "stelle es gar auf keine Schraufen"<note xml:id="n57.1"
-						type="footnote" n="57.1">Schrauben. [Vgl. <ref
-							target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=drw&amp;index=lemmata&amp;darstellung=u&amp;term=Schraube#Schraube-4.0"
-							>DRW-Artikel</ref>]</note>.</p>
+					meine es gnädiglich und "stelle es gar auf keine Schraufen"<note xml:id="n57.1" type="footnote" n="57.1">Schrauben. [Vgl. <ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?db=drw&amp;index=lemmata&amp;darstellung=u&amp;term=Schraube#Schraube-4.0">DRW-Artikel</ref>]</note>.</p>
 				<p>Wohl die eindringliche Form der Bekräftigung mag die Stände neben ihrem Vertrauen zum
 					Fürstenwort gar nicht auf den Gedanken gebracht haben, eine schriftliche Ausfertigung zu
 					verlangen. Oder war es das Bedenken, nicht durch verletzendes Mißtrauen den eben so
@@ -2356,8 +2271,7 @@
 					Sie gelobten Dankbarkeit und befahlen sich alle, Adel und Bürger, weiterhin Karls
 					Gnade.</p>
 				<p>Noch einmal wäre für diesen nun Gelegenheit gewesen, den im Jubel der Städte- und
-					Märktevertreter liegenden Irrtum, falls ein solcher vorhanden war, aufzuklären. <index
-						indexName="Personen">
+					Märktevertreter liegenden Irrtum, falls ein solcher vorhanden war, aufzuklären. <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karls</name> Schweigen begründete seine Schuld, denn in ihm mußte die
@@ -2376,8 +2290,7 @@
 					Beschwerden laut.</p>
 				<p>Ehe die Stände bei Landtagsschluß auseinandergingen, wollten sie noch die wichtigsten
 					Punkte des nun durchzuführenden kirchlichen Programms erledigen. Man berief daher den
-					bereits seit längerem in Graz wirkenden "Pastor"<note xml:id="n58.1" type="footnote"
-						n="58.1">Seine Stellung entsprach der eines Superintendenten.</note>
+					bereits seit längerem in Graz wirkenden "Pastor"<note xml:id="n58.1" type="footnote" n="58.1">Seine Stellung entsprach der eines Superintendenten.</note>
 					<index indexName="Personen">
 						<term>Homberger, Jeremias</term>
 					</index>
@@ -2407,34 +2320,23 @@
 						steirischen V.O. gehaltenen und gedruckten "Oratio", die eine gute Übersicht über die
 						damalige Stellung des Protestantismus im Lande gibt, seien erwähnt: Die ungedruckte
 						Schrift: De generibus ένωσεων Commentarius de ebraica veritate in Lutheri versione
-						Biblica recte expressa; Elegia de peccato originis 1574 (von <name type="person"
-							>Homberger</name> in seinen ersten Amtsjahren, in denen er <index indexName="Personen">
+						Biblica recte expressa; Elegia de peccato originis 1574 (von <name type="person">Homberger</name> in seinen ersten Amtsjahren, in denen er <index indexName="Personen">
 							<term>Flacius</term>
 						</index>
 						<name type="person">Flazius</name> anhing, gedichtet und nun gegen seinen Willen von
-							<name type="person">Flazius</name> in einer Streitschrift gegen <index
-							indexName="Personen">
+							<name type="person">Flazius</name> in einer Streitschrift gegen <index indexName="Personen">
 							<term>Andreä, Jakob</term>
 						</index>
-						<name type="person">Andreä</name> veröffentlicht, sodaß sich <name type="person"
-							>Homberger</name> in einem offenen Briefe vom 4. Oktober 1574 zu der Erklärung
-						genötigt sah, daß er die flazianische Lehre schon längst nicht mehr teile; "<ref
-							target="http://gateway-bayern.de/VD16+H+4572">Commentatio de chronologia etc.</ref>",
+						<name type="person">Andreä</name> veröffentlicht, sodaß sich <name type="person">Homberger</name> in einem offenen Briefe vom 4. Oktober 1574 zu der Erklärung
+						genötigt sah, daß er die flazianische Lehre schon längst nicht mehr teile; "<ref target="http://gateway-bayern.de/VD16+H+4572">Commentatio de chronologia etc.</ref>",
 						ein latein. Hilfsbuch zum Geschichtsunterricht in der Grazer Schule, 1580, das Stück zu
-						15. kr, (1 Explr. i. d. Univ.-Bibl. i. Graz); "<ref
-							target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10175365_00001.html"
-							>Granum sinapi etc.</ref>", ein dogmat. Kompendium von 144 Thesen, den n. ö. Ständen
+						15. kr, (1 Explr. i. d. Univ.-Bibl. i. Graz); "<ref target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10175365_00001.html">Granum sinapi etc.</ref>", ein dogmat. Kompendium von 144 Thesen, den n. ö. Ständen
 						gewidmet, Vorrede vom 29. Sept. 1580 (1 Explr. i. d. Univ.-Bibl. i. Graz); "Brundthal",
-						gedruckt in Marburg 1581, das Stück kostete 5 kr.; <ref
-							target="http://reader.digitale-sammlungen.de/resolve/display/bsb10175364.html">Examen
-							theologicum, Heidelberg 1583</ref>, die <ref
-							target="http://gateway-bayern.de/VD16+ZV+20624">2. Auflage 1589</ref> bei <index
-							indexName="Personen">
+						gedruckt in Marburg 1581, das Stück kostete 5 kr.; <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10175364.html">Examen
+							theologicum, Heidelberg 1583</ref>, die <ref target="http://gateway-bayern.de/VD16+ZV+20624">2. Auflage 1589</ref> bei <index indexName="Personen">
 							<term>Schmid, Hans</term>
 						</index>
-						<name type="person">Hans Schmid</name> in Graz gedruckt; "<ref
-							target="http://reader.digitale-sammlungen.de/resolve/display/bsb10537632.html"
-							>Senfkörnlein unseres Herrn Jesu Christi, das ist: Unterricht in allen Hauptstücken
+						<name type="person">Hans Schmid</name> in Graz gedruckt; "<ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10537632.html">Senfkörnlein unseres Herrn Jesu Christi, das ist: Unterricht in allen Hauptstücken
 							der christlichen Lehre</ref>", Frankfurt 1588 bei <index indexName="Personen">
 							<term>Feierabend, Johann</term>
 						</index>
@@ -2442,11 +2344,8 @@
 						Vorrede stark polemisch gegen die im Bürgertum ängstlich Gewordenen (1 Explr. d. Univ.
 						Bibl. i. Graz), "<ref>Flosculus Eden</ref>", Kissingen; "<ref>Silvula verborum</ref>";
 							"<ref>Consilium Jeremiae Hombergeri de ediscendis Erasmi et simi1ium
-						praeceptis</ref>"; "<ref
-							target="http://daten.digitale-sammlungen.de/~db/0007/bsb00078873/image_1">Wohlgemuth
-							oder geistliche Beschauung des zweifältigen Bildes Christi, Frankfurt</ref>"; "<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10997895-3"
-							>Sententiae Salomonis per LLCC ad praecepta Decalogi renovatae, Lauingen 1590</ref>"
+						praeceptis</ref>"; "<ref target="http://daten.digitale-sammlungen.de/~db/0007/bsb00078873/image_1">Wohlgemuth
+							oder geistliche Beschauung des zweifältigen Bildes Christi, Frankfurt</ref>"; "<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10997895-3">Sententiae Salomonis per LLCC ad praecepta Decalogi renovatae, Lauingen 1590</ref>"
 						(als Anfang einer neuen latein. Bibelübersetzung und Erklärung gedacht); "<ref>Die
 							Sprüche Salomonis</ref>", 39 Bogen, bei <index indexName="Personen">
 							<term>Schmid, Hans</term>
@@ -2460,9 +2359,7 @@
 							<term>Öttingen, Gottfried von</term>
 						</index>
 						<name type="person">Gottfried von Öttingen</name> gewidmet (1 Explr. i. d. Univ.-Bibl.
-						i. Graz); "<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10175365-7"
-							>Germen Graeci Sinapis seu Exp1icatio Locorum Doctrinae Christianae, Frankfurt
+						i. Graz); "<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10175365-7">Germen Graeci Sinapis seu Exp1icatio Locorum Doctrinae Christianae, Frankfurt
 							1591</ref>", bei <index indexName="Personen">
 							<term>Spies, Johann</term>
 						</index>
@@ -2473,9 +2370,7 @@
 						<name type="person">Homberger</name> schreibt in der Vorrede, daß er nach diesem Buche
 						in Graz unterrichtet habe, es sei von ihm 1581 in Graz übersetzt, 1589 in Regensburg
 						überarbeitet worden). Er widmete es allen ö. Ständen (1 Explr. i. d. Univ.-Bibl. i.
-						Graz), "<ref
-							target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10149961-6"
-							>Mucro stimuli Christi oder ausführliche Erklärung des hochwichtigen Artikels von der
+						Graz), "<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10149961-6">Mucro stimuli Christi oder ausführliche Erklärung des hochwichtigen Artikels von der
 							Rechtfertigung, Jena 1592</ref>", bei <index indexName="Personen">
 							<term>Steinmann, Tobias</term>
 						</index>
@@ -2497,10 +2392,7 @@
 						d. Lit.-Verz. i. Anhang über <ref>H. Zedlers gr. vollst. Univ.-Lexikon, 13. Bd. Leipzig
 							u. Halle 1735, Spalte 726</ref>; <ref>Jöchers allg. deutsch. Gelehrten-Lex., 2. Bd.
 							Leipzig 1750, Spalte 1686f.</ref>; <ref>Allgem. deutsche Biographie, 13. Bd. Leipzig
-							1881. Seite 40</ref>; <ref
-							target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11105578_01111.html"
-							>Wackernagel, das deutsche Kirchenlied, 3. Bd. S. 1085</ref>. [<ref
-							target="http://www.deutsche-biographie.de/pnd116975202.html">Zimmermann, Harald,
+							1881. Seite 40</ref>; <ref target="http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11105578_01111.html">Wackernagel, das deutsche Kirchenlied, 3. Bd. S. 1085</ref>. [<ref target="http://www.deutsche-biographie.de/pnd116975202.html">Zimmermann, Harald,
 							„Homberger, Jeremias“, in: Neue Deutsche Biographie 9 (1972), S. 586 f.
 							(Onlinefassung)</ref>. [Nachtrag von Druckseite 161: Die steiermärk. Landesbibliothek
 						in Graz besitzt noch ein weiteres Druckwerk D. <index indexName="Personen">
@@ -2511,8 +2403,7 @@
 						gebote gottes / ordentlich außgetheilet / vnd an etlichen schweren ortten mit kurtzen
 						vnd nützlichen glöslein ercleret / ein Christenlich leben vnd vernünfftigen wandel / in
 						allerley stenden darnach / als einem Gewissen richtscheidt / desto besser anzustellen".
-						Das in Oktav gut ausgeführte Buch stammt aus der Druckerei des <index
-							indexName="Personen">
+						Das in Oktav gut ausgeführte Buch stammt aus der Druckerei des <index indexName="Personen">
 							<term>Franck, Andreas</term>
 						</index>
 						<name type="person">Andreas Franck</name> in Graz. Die Vorrede Hombergers, vom
@@ -2541,17 +2432,13 @@
 							<ref target="#n81.1">S. 81 Anm. 1</ref>) in 300 Stücken zu drucken. Sie sowie eine
 						große Stückzahl der vorerwähnten Schriften (z. B. vom "Violblümlein" 735, vom "Examen"
 						134, vom "Consilium" 269 Exemplare) fielen bei der Arretierung Schmids der Konfiskation
-						und dann dem großen Bücherbrande anheim. Vgl. <ref target="#124">S. 124</ref> u. <ref
-							target="#138">138</ref>.]</note>, einen Hessen, den Prediger Mg. <index
-						indexName="Personen">
+						und dann dem großen Bücherbrande anheim. Vgl. <ref target="#124">S. 124</ref> u. <ref target="#138">138</ref>.]</note>, einen Hessen, den Prediger Mg. <index indexName="Personen">
 						<term>Frey, Christoph</term>
 					</index>
-					<name type="person">Christoph Frey</name>, den <pb n="59"/> Schulrektor Mag. <index
-						indexName="Personen">
+					<name type="person">Christoph Frey</name>, den <pb n="59"/> Schulrektor Mag. <index indexName="Personen">
 						<term>Marbach, Philipp</term>
 					</index>
-					<name type="person">Philipp Marbach</name> und aus Klagenfurt die Prediger <index
-						indexName="Personen">
+					<name type="person">Philipp Marbach</name> und aus Klagenfurt die Prediger <index indexName="Personen">
 						<term>Präntl</term>
 					</index>
 					<name type="person">Präntl</name> und <index indexName="Personen">
@@ -2568,8 +2455,7 @@
 					<name type="person">Christoph von Praunfalkh</name> und <index indexName="Personen">
 						<term>Venediger, Adam</term>
 					</index>
-					<name type="person">Dr. Adam Venediger</name> wurde beschlossen, die von <index
-						indexName="Personen">
+					<name type="person">Dr. Adam Venediger</name> wurde beschlossen, die von <index indexName="Personen">
 						<term>Chyträus, David</term>
 					</index>
 					<name type="person">Chyträus</name> speziell geschaffene Kirchen- und Schulordnung von
@@ -2622,8 +2508,7 @@
 					Entsetzen!</p>
 				<p>Nach dem Brucker Generallandtag schritten die Stände alsbald an die Errichtung einer
 					eigenen Druckerei, deren Erzeugnisse unter die strenge Zensur des Kirchen- und
-					Schulministeriums gestellt wurden, damit nichts Ungebührliches, den Fürsten oder <pb
-						n="62"/> seine Kirche Verletzendes im Druck erscheine. Als erster Drucker wurde der
+					Schulministeriums gestellt wurden, damit nichts Ungebührliches, den Fürsten oder <pb n="62"/> seine Kirche Verletzendes im Druck erscheine. Als erster Drucker wurde der
 					bekannte Formenschneider <index indexName="Personen">
 						<term>Bartsch, Zacharias</term>
 					</index>
@@ -2654,9 +2539,7 @@
 						<term>Ninguarda, Felix</term>
 					</index>
 					<name type="person">Felix Ninguarda</name>, Bischof von Scala, als Nuntius nach Graz ab,
-					der dem bestürzten Erzherzog klar machte, daß er auf Grund der Bulle "<ref
-						target="http://de.wikipedia.org/wiki/In_coena_Domini">In coena Domini</ref>"<note
-						xml:id="n62.1" type="footnote" n="62.1">Die berüchtigte, von <index indexName="Personen">
+					der dem bestürzten Erzherzog klar machte, daß er auf Grund der Bulle "<ref target="http://de.wikipedia.org/wiki/In_coena_Domini">In coena Domini</ref>"<note xml:id="n62.1" type="footnote" n="62.1">Die berüchtigte, von <index indexName="Personen">
 							<term>Urban V.</term>
 						</index>
 						<name type="person">Urban V.</name> 1363 gegen die Ketzer erlassene Bulle, die an jedem
@@ -2699,8 +2582,7 @@
 					persönliche Besprechung vor, welche Karl, dem "der feindselig Landtag zu Pruck" schwer in
 					den Gliedern lag, alsbald anbahnte.</p>
 				<p>Am görzischen evangelischen Adel, für den seine steirischen Standesgenossen vergeblich
-					Fürsprache einlegten, übte der Regent seinen Mut, ehe er sich mit seinem Bruder <index
-						indexName="Personen">
+					Fürsprache einlegten, übte der Regent seinen Mut, ehe er sich mit seinem Bruder <index indexName="Personen">
 						<term>Ferdinand von Tirol</term>
 					</index>
 					<name type="person">Ferdinand</name> an den Münchner Hof begab, wo im Oktober 1579 mit
@@ -2760,8 +2642,7 @@
 					eigenen Überzeugung, sondern auch nach dem Willen des Landesfürsten, so bekamen sie bald
 					wegen des in Angriff genommenen Ausbaues der kirchlichen Organisation im Lande,
 					insbesondere wegen der Kirchenbauten, seine Ungnade zu verspüren.</p>
-				<p>Den Reigen der Zusammenstöße eröffnete die gemäß den Münchner Beschlüssen von <index
-						indexName="Personen">
+				<p>Den Reigen der Zusammenstöße eröffnete die gemäß den Münchner Beschlüssen von <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> vorgenommene Entfernung evangelischer und Einsetzung
@@ -2779,8 +2660,7 @@
 					Landschaft, <index indexName="Personen">
 						<term>Kratzer, Kaspar</term>
 					</index>
-					<name type="person">Kratzers</name> Gesuch um Entlassung anzunehmen<note xml:id="n65.1"
-						type="footnote" n="65.1">
+					<name type="person">Kratzers</name> Gesuch um Entlassung anzunehmen<note xml:id="n65.1" type="footnote" n="65.1">
 						<index indexName="Personen">
 							<term>Kratzer, Kaspar</term>
 						</index>
@@ -2837,8 +2717,7 @@
 						</index>
 						<name type="person">Luschin</name> (sh. Lit-Verz.).</note>, aber es blieb wegen dieses
 					Jesuitentriumphes <pb n="66"/> eine heftige Erbitterung bei den evangelischen Ständen
-					zurück, die sich noch steigerte, als der Erzherzog dem Grazer Pastor <index
-						indexName="Personen">
+					zurück, die sich noch steigerte, als der Erzherzog dem Grazer Pastor <index indexName="Personen">
 						<term>Homberger, Jeremias</term>
 					</index>
 					<name type="person">Homberger</name>, der seiner Verpflichtung gemäß auf der Kanzel gegen
@@ -2889,8 +2768,7 @@
 					fortan in seinen Städten, Märkten, Herrschaften und Dörfern ohne Ausnahme nur mehr die
 					Ausübung der katholischen Religion zu dulden und bloß in Graz nach Sperrung der
 					Stiftskirche den Ständen zwei Prediger zur Wortverkündigung im Landhause zu belassen,
-					ferner forderte, daß der katholischen Kirche binnen 2 Monaten alles entfremdete <pb n="68"
-					/> Eigentum rückerstattet werden müsse, legten die evangelischen Stände trotz aller
+					ferner forderte, daß der katholischen Kirche binnen 2 Monaten alles entfremdete <pb n="68"/> Eigentum rückerstattet werden müsse, legten die evangelischen Stände trotz aller
 					Entrüstung über diesen mit Berufung auf sein Gewissen von Karl vollzogenen Bruch seines so
 					oft verpfändeten Fürstenwortes ein bewundernswertes Maß von Selbstbeherrschung an den Tag.
 					Bezeichnend für das Schuldbewußtsein der Regierung war die Tatsache, daß sie sich auch
@@ -2916,12 +2794,10 @@
 				<p>Die Enttäuschung der evangelischen Stände über den Wankelmut und die Unaufrichtigkeit
 					ihres Landesfürsten war in diesen Wochen so groß, daß sie ihm sogar einen militärischen
 					Überfall zutrauten und daher die Pässe und Landeseingänge bewachen ließen. Nach langen
-					zähen Verhandlungen tat nach einer abermaligen hinreißenden Rede <index
-						indexName="Personen">
+					zähen Verhandlungen tat nach einer abermaligen hinreißenden Rede <index indexName="Personen">
 						<term>Hoffmann, Hans Friedrich</term>
 					</index>
-					<name type="person">Hoffmanns</name> eine Adelsabordnung am 7. Jänner 1581 vor <index
-						indexName="Personen">
+					<name type="person">Hoffmanns</name> eine Adelsabordnung am 7. Jänner 1581 vor <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> einen zweiten Fußfall. Der an seine Zweideutigkeit
@@ -3053,8 +2929,7 @@
 					</index>
 					<name type="person">Schranz</name> ließ man sie, als sie endlich am 10. September zunächst
 					einmal ihre Schriften abgeben durften, gar nicht zur Audienz. Schriftlich erfolgte auch
-					die kaiserliche Abweisung, die betonte, die Majestät traue der Milde <index
-						indexName="Personen">
+					die kaiserliche Abweisung, die betonte, die Majestät traue der Milde <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karls</name> nichts Unrechtes und Unbilliges gegen die Städte und
@@ -3074,16 +2949,13 @@
 					der Grazer Bürgerschaft klingt ergreifend aus dem in <index indexName="Personen">
 						<term>Homberger, Jeremias</term>
 					</index>
-					<name type="person">Hombergers</name> Agende gedruckten Gebet wieder, das, "aus <pb n="73"
-					/> dringender Not im November 82. Jahres gestellt", um "Erhaltung des göttlichen Wortes
+					<name type="person">Hombergers</name> Agende gedruckten Gebet wieder, das, "aus <pb n="73"/> dringender Not im November 82. Jahres gestellt", um "Erhaltung des göttlichen Wortes
 					und Beständigkeit des Glaubens" flehen hieß.</p>
 				<p>Die von den Abgesandten des Herren- und Ritterstandes für die bürgerlichen
-					Glaubensgenossen eingelegte Fürsprache scheiterte an dem Widerstande <index
-						indexName="Personen">
+					Glaubensgenossen eingelegte Fürsprache scheiterte an dem Widerstande <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
-					<name type="person">Karls</name>, den, wie stets, auch diesmal seine Gattin <index
-						indexName="Personen">
+					<name type="person">Karls</name>, den, wie stets, auch diesmal seine Gattin <index indexName="Personen">
 						<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 					</index>
 					<name type="person">Maria</name> und sein Münchner Schwager <index indexName="Personen">
@@ -3094,8 +2966,7 @@
 						<term>Reinel, Hans</term>
 					</index>
 					<name type="person">Hans Reinel</name>, sein Beichtkind zu schonungslosem, hartem Vorgehen
-					gegen die Evangelischen zu beeinflussen, obzwar dies kaum notwendig war, denn <name
-						type="person">Reinel</name> gehörte zu den heftigsten und maßlosesten Predigern und gab
+					gegen die Evangelischen zu beeinflussen, obzwar dies kaum notwendig war, denn <name type="person">Reinel</name> gehörte zu den heftigsten und maßlosesten Predigern und gab
 					den evangelischen Ständen wiederholt Anlaß zu bitteren Beschwerden. Seine eigenen Oberen
 					mußten ihn ermahnen, größere Bescheidenheit an den Tag zu legen, und "wenn er von den
 					Häretikern spreche, möge er dieselben nicht so hart und zornig durchhecheln, sondern in
@@ -3122,15 +2993,13 @@
 					Personen aus <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
-					<name type="person">Karls</name> Hofstaat durch Katholiken ersetzt werden müßten, <pb
-						n="74"/> und sandte ihm geeignet scheinende Leute dahin. Bayern rückten in führende
+					<name type="person">Karls</name> Hofstaat durch Katholiken ersetzt werden müßten, <pb n="74"/> und sandte ihm geeignet scheinende Leute dahin. Bayern rückten in führende
 					kirchliche Ämter ein, selbst Italiener gelangten zum Hofdienst. Die Fürsorge Münchens
 					erstreckte sich selbst auf die Beschaffung katholischer Köche aus Bayern.</p>
 				<p>Der bayrische Kurs führte bald sogar zur schweren Bestrafung von Bürgern, die auf der
 					Straße bei der Stiftskirche dem Gottesdienst, soweit dies möglich war, zugehört hatten.
 					Die evangelischen Stände versuchten nun bei Karl die Einberufung eines i.ö.
-					Generallandtages zu erreichen, der die unhaltbaren Verhältnisse bereinigen sollte. <index
-						indexName="Personen">
+					Generallandtages zu erreichen, der die unhaltbaren Verhältnisse bereinigen sollte. <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> aber, der nach dem Berichte eines Zeitgenossen sichs nach
@@ -3139,8 +3008,7 @@
 					rüsteten die evangelischen Stände wieder zu einer neuen Legation ins Reich, wo man
 					allerdings in den Kreisen der evangelischen Fürsten über den zur Hilfeleistung gangbarsten
 					Weg nicht einig war, denn man wollte bei Karl, dessen Starrsinn unbeugsam schien, den
-					Evangelischen nicht noch mehr schaden. Da traf der Tod des pfälzischen Kurfürsten <index
-						indexName="Personen">
+					Evangelischen nicht noch mehr schaden. Da traf der Tod des pfälzischen Kurfürsten <index indexName="Personen">
 						<term>Ludwig von der Pfalz</term>
 					</index>
 					<name type="person">Ludwig</name>, der zuletzt ihr wärmster Freund und Anwalt war, die
@@ -3162,8 +3030,7 @@
 						<term>Eggenberg, Seifried von</term>
 					</index>
 					<name type="person">Seifried von Eggenberg</name> abgekaufte und ausgebaute "Eggenberger
-					Stift". Über das Grazer Kirchenwesen konnte bereits im Jahre 1572 der Prediger <index
-						indexName="Personen">
+					Stift". Über das Grazer Kirchenwesen konnte bereits im Jahre 1572 der Prediger <index indexName="Personen">
 						<term>Khuen, Georg</term>
 					</index>
 					<name type="person">Khuen</name> schreiben: "Wir haben hier ein Haus Gottes, wo unter der
@@ -3205,8 +3072,7 @@
 					Kirchenordnung, die dann, wie bereits erwähnt, von den zum Generallandtag nach Bruck
 					berufenen 6 Kirchen- und Schulmännern im Februar 1578 ergänzt und überarbeitet und mit
 					Ausnahme der nur im Auszug angeführten Agende der Brucker Pazifikation angeschlossen und
-					einverleibt wurde. Während der ursprüngliche Entwurf des <name type="person"
-						>Chyträus</name> bisher nicht aufgefunden werden konnte, ist die Kirchenordnung von 1578
+					einverleibt wurde. Während der ursprüngliche Entwurf des <name type="person">Chyträus</name> bisher nicht aufgefunden werden konnte, ist die Kirchenordnung von 1578
 					in mehreren Stücken erhalten. <pb n="76"/>
 				</p>
 				<p>Sie umfaßt 3 Teile. Der erste und umfangreichste behandelt in Thesen und Antithesen den
@@ -3215,8 +3081,7 @@
 					die Adiaphora recht auseinander zu halten, folgt die Aufzählung des zum Corpus doctrinae
 					Gehörigen: Es umfaßt die 3 ökumenischen Symbole, den Hymnus "Te deum laudamus", die beiden
 					Katechismen Luthers, die A.K., die Apologie, die schmalkaldischen Artikel von 1537. Hierzu
-					kommt allenfalls das Büchlein der thüringischen Theologen von 1559, während <index
-						indexName="Personen">
+					kommt allenfalls das Büchlein der thüringischen Theologen von 1559, während <index indexName="Personen">
 						<term>Melanchthon, Philipp</term>
 					</index>
 					<name type="person">Melanchthons</name> Loci abgelehnt werden.</p>
@@ -3246,9 +3111,7 @@
 					Stadtleute da sind und alle Tage fremdes Volk hinkommt". Auch würden dadurch die Leute an
 					den nur von der katholischen Kirche gehaltenen Feiertagen über die darin von der
 					"bäpstischen Kirchen" gepredigten Irrtümer gleichzeitig aufgeklärt und von der Teilnahme
-					an den "bäpstischen Greueln" abgehalten. Zur Verlesung wird außer der Bibel auch das "<ref
-						target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11059166-0"
-						>Summarium [Ausgabe 1545]</ref>" des Nürnberger Reformators <index indexName="Personen">
+					an den "bäpstischen Greueln" abgehalten. Zur Verlesung wird außer der Bibel auch das "<ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11059166-0">Summarium [Ausgabe 1545]</ref>" des Nürnberger Reformators <index indexName="Personen">
 						<term>Dietrich, Veit</term>
 					</index>
 					<name type="person">
@@ -3313,8 +3176,7 @@
 						Grazer Landesarchiv abgebildet. Später war der Georgifriedhof die Begräbnisstätte der
 						Grazer Protestanten.</note>.</p>
 				<p>Der dritte Teil der Kirchenordnung begreift 8 Stücke in sich, nämlich: Die Bestellung des
-					hl. Predigtamtes, eine wohlgeordnete Schule, die Bestellung eines Kirchenrates, die <pb
-						n="79"/> Visitation oder Besuchung und Aufsicht auf Kirche und Schule, die Einführung
+					hl. Predigtamtes, eine wohlgeordnete Schule, die Bestellung eines Kirchenrates, die <pb n="79"/> Visitation oder Besuchung und Aufsicht auf Kirche und Schule, die Einführung
 					notwendiger und nützlicher Synoden, die Kirchenzucht, das Einkommen und Almosen, aus dem
 					Kirche und Schule erhalten werden, und die Errichtung einer rechten Bibliothek durch
 					Anschaffung der notwendigen Bücher.</p>
@@ -3349,8 +3211,7 @@
 					</index>
 					<name type="person">Chyträus</name> der Landschaft seine Geschichte der A. K. widmete und
 					sie in der Anlage ihrer Bibliothek beriet, zu Straßburg, dessen lateinische und
-					griechische Grammatik an der Stiftsschule als Lehrbuch diente, und das durch <index
-						indexName="Personen">
+					griechische Grammatik an der Stiftsschule als Lehrbuch diente, und das durch <index indexName="Personen">
 						<term>Persoenen" level2="Marbach, Philipp</term>
 					</index>
 					<name type="person">Marbach</name> die Schulausgestaltung beeinflußte. Enge war die
@@ -3367,8 +3228,7 @@
 						<term>Osius</term>
 					</index>
 					<name type="person">Osius</name>, doch bestanden zur dortigen Hochschule wenig
-					Beziehungen, wie dies auch auf Thüringen zutrifft, das aber mit <index
-						indexName="Personen">
+					Beziehungen, wie dies auch auf Thüringen zutrifft, das aber mit <index indexName="Personen">
 						<term>Peristerius, Hieronymus</term>
 					</index>
 					<name type="person">Hieron. Peristerius</name> aushalf und in Jena später gelegentlich
@@ -3409,8 +3269,7 @@
 						</index>
 						<name type="person">
 							<ref target="http://d-nb.info/gnd/119848902 ">Thonner</ref>
-						</name> verfaßte auch eine <ref target="http://gateway-bayern.de/VD16+T+1099"
-							>Epistel-Postille</ref>, von der noch ein in gepreßtes Leder gebundenes Exemplar aus
+						</name> verfaßte auch eine <ref target="http://gateway-bayern.de/VD16+T+1099">Epistel-Postille</ref>, von der noch ein in gepreßtes Leder gebundenes Exemplar aus
 						dem Besitze des Adeligen <index indexName="Personen">
 							<term>Schratt, Johann Adam</term>
 						</index>
@@ -3426,8 +3285,7 @@
 						Einer Ersamen Landschafft deß her- / tzogthumbs Steyr / Prediger in der / Haubt Statt
 						Grätz / M.D.LXXX." Ein zweites ähnlich gebundenes Exemplar dieser 184 und 173 Blätter
 						umfassenden Postille besitzt (aus den Beständen des ehemal. Grazer Jesuitenkollegs) die
-						Univ.-Bibl. daselbst. Es enthält auf dem Vorsatzblatt die eigenhändige Widmung <name
-							type="person">Thonners</name> an Herrn <index indexName="Personen">
+						Univ.-Bibl. daselbst. Es enthält auf dem Vorsatzblatt die eigenhändige Widmung <name type="person">Thonners</name> an Herrn <index indexName="Personen">
 							<term>Stadler, Hans zu Lichtenegg</term>
 						</index>
 						<name type="person">Hans Stadler zu Lichtenegg, Riegersburg und Kornberg</name> und
@@ -3435,17 +3293,13 @@
 							<term>Stadler, Barbara zu Lichtenegg</term>
 						</index>
 						<name type="person">Barbara, geb. von Königsberg</name>, dat. Graz, d. 29. Oktober 1580.
-						Die gleiche Bücherei besitzt auch noch die beiden anderen Postillen <name type="person"
-							>Thonners</name>, nämlich die den Kärntner Ständen dedizierte "<ref
-							target="http://gateway-bayern.de/VD16+T+1100">Postilla oder Auslegung vber die Sontags
-							Euangelien durch das gantze Jar / neben miteinfallenden festen</ref>", 1584 bei <index
-							indexName="Personen">
+						Die gleiche Bücherei besitzt auch noch die beiden anderen Postillen <name type="person">Thonners</name>, nämlich die den Kärntner Ständen dedizierte "<ref target="http://gateway-bayern.de/VD16+T+1100">Postilla oder Auslegung vber die Sontags
+							Euangelien durch das gantze Jar / neben miteinfallenden festen</ref>", 1584 bei <index indexName="Personen">
 							<term>Reinmichl, Leonhard</term>
 						</index>
 						<name type="person">Leonhard Reinmichl</name> in Lauingen gedruckt. Das Titelblatt zeigt
 						in einem Medaillon ein Bildnis des Predigers in seinem 43. Jahr. In Leder schön
-						gebunden, stammt dieses Buch von 506 Bl. aus dem Besitz der Adelsfamilien <index
-							indexName="Personen">
+						gebunden, stammt dieses Buch von 506 Bl. aus dem Besitz der Adelsfamilien <index indexName="Personen">
 							<term>Graswein</term>
 						</index>
 						<name type="person">Graswein</name> und <index indexName="Personen">
@@ -3468,8 +3322,7 @@
 						Der Prediger am Ulmer Münster, Mag. <index indexName="Personen">
 							<term>Neuhauser, Samuel</term>
 						</index>
-						<name type="person">Samuel Neuhauser</name>, dessen Kollege 18 Jahr zuvor <name
-							type="person">Thonner</name> an jenem Dom gewesen war, bestätigt in einer Vorrede die
+						<name type="person">Samuel Neuhauser</name>, dessen Kollege 18 Jahr zuvor <name type="person">Thonner</name> an jenem Dom gewesen war, bestätigt in einer Vorrede die
 						Rechtgläubigkeit und preist die Schönheit dieser Predigten. Gegen diese Postille ließ
 						der kath. Polemiker <index indexName="Personen">
 							<term>Ernhofer, Sigmund</term>
@@ -3509,8 +3362,7 @@
 					<name type="person">Egen</name>, <index indexName="Personen">
 						<term>Stamler</term>
 					</index>
-					<name type="person">Stamler</name>, den später in Klagenfurt wirkenden <index
-						indexName="Personen">
+					<name type="person">Stamler</name>, den später in Klagenfurt wirkenden <index indexName="Personen">
 						<term>Megiser</term>
 					</index>
 					<name type="person">
@@ -3526,8 +3378,7 @@
 						<term>Homberger, Jeremias</term>
 					</index>
 					<name type="person">Jeremias Homberger</name>
-					<note xml:id="n81.1" type="footnote" n="81.1">Um der Agendennot abzuhelfen, verfaßte <name
-							type="person">Homberger</name> eine kleine, 47 bedruckte Blätter umfassende Agende,
+					<note xml:id="n81.1" type="footnote" n="81.1">Um der Agendennot abzuhelfen, verfaßte <name type="person">Homberger</name> eine kleine, 47 bedruckte Blätter umfassende Agende,
 						die ohne Angabe des Druckers und des Druckortes nach 1582 erschien. Sie ist heute
 						äußerst selten. Ein in eine alte Pergamenthandschrift gebundenes, mit handschriftlichen
 						Ergänzungen versehenes Exemplar befindet sich in der Grazer Universitätsbibliothek. Der
@@ -3590,8 +3441,7 @@
 						<term>Chyträus, David</term>
 					</index>
 					<name type="person">Chyträus</name> neu aufgestellten Schulordnung, eine Musteranstalt,
-					die dem ganzen Lande zum Ansehen und Ruhm gereichte. Nach dem Vorbild der von <index
-						indexName="Personen">
+					die dem ganzen Lande zum Ansehen und Ruhm gereichte. Nach dem Vorbild der von <index indexName="Personen">
 						<term>Melanchthon, Philipp</term>
 					</index>
 					<name type="person">Melanchthon</name> in Wittenberg eingeführten Ordnung zählte die
@@ -3623,8 +3473,7 @@
 					Verbot des Landesfürsten, welches <pb n="84"/> Bürgersöhnen den Besuch der "Stift"
 					unmöglich machte, taten dem Bestande dieser starken Eintrag. Trotz der Einstellung
 					auswärtiger Schüler sank seither die Zahl der Studierenden ununterbrochen; auch die
-					reformierte Schulordnung von 1594 und die Anstellung so tüchtiger Lehrer wie <index
-						indexName="Personen">
+					reformierte Schulordnung von 1594 und die Anstellung so tüchtiger Lehrer wie <index indexName="Personen">
 						<term>Kepler, Johann</term>
 					</index>
 					<name type="person">Keplers</name> brachten nicht den erhofften Aufschwung. Zu hart lagen
@@ -3650,8 +3499,7 @@
 					geschieht, daß sie nach Brot gehen und andere Leute überlaufen müssen«. — —</p>
 			</div>
 			<div xml:id="A.7">
-				<head>7. Die Bedrückung der Evangelischen in den letzten Regierungsjahren Erzherzog <index
-						indexName="Personen">
+				<head>7. Die Bedrückung der Evangelischen in den letzten Regierungsjahren Erzherzog <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karls</name>.</head>
@@ -3665,8 +3513,7 @@
 						<index indexName="Personen">
 						<term>Hirsch, Kaspar</term>
 					</index>
-					<name type="person">Kaspar Hirsch</name>. Sein einstiger Schulkamerad <index
-						indexName="Personen">
+					<name type="person">Kaspar Hirsch</name>. Sein einstiger Schulkamerad <index indexName="Personen">
 						<term>Schranz, Wolfgang</term>
 					</index>
 					<name type="person">Dr. Schranz</name> hatte eine noch maßvolle Bemerkung Hirschs über die
@@ -3700,15 +3547,13 @@
 					hinreißen lassen, denn eine Güterkonfiskation nach einem mißglückten Aufruhr hätte die
 					Vormacht des Adels gebrochen und außerdem auch der Kirche große finanzielle Vorteile
 					gebracht. Der Nuntius äußerte diese Anschauung offen, indem er dem auf die bei weiteren
-					Unterdrückungen aufsteigende Gefahr eines Widerstandes hinweisenden <index
-						indexName="Personen">
+					Unterdrückungen aufsteigende Gefahr eines Widerstandes hinweisenden <index indexName="Personen">
 						<term>Hoffmann, Hans Friedrich</term>
 					</index>
 					<name type="person">Hoffmann</name> erwiderte: "Wollte Gott, damit wollten wir bald unsere
 					Schulden bezahlen!" <pb n="86"/>
 				</p>
-				<p>Das Fronleichnamsfest 1583 brachte einen neuen Konflikt. Die Prediger Mag. <index
-						indexName="Personen">
+				<p>Das Fronleichnamsfest 1583 brachte einen neuen Konflikt. Die Prediger Mag. <index indexName="Personen">
 						<term>Egen</term>
 					</index>
 					<name type="person">Egen</name> und <index indexName="Personen">
@@ -3851,8 +3696,7 @@
 					müßten aus dem Lande". Am 8. November verließ der Grazer Superintendent, von einem
 					landschaftlichen Trompeter bis nach Regensburg begleitet, krank und hinfällig das Land.
 					Die Hoffnung auf baldige Wiederkehr erfüllte sich nicht. Sehr zum Verdrusse des Exulanten
-					berief die <pb n="90"/> Landschaft im nächsten Jahre aus Heidelberg den Schwaben D. <index
-						indexName="Personen">
+					berief die <pb n="90"/> Landschaft im nächsten Jahre aus Heidelberg den Schwaben D. <index indexName="Personen">
 						<term>Zimmermann, Wilhelm</term>
 					</index>
 					<name type="person">Wilhelm Zimmermann</name>
@@ -3875,8 +3719,7 @@
 							<term>Zimmermann, Wilhelm</term>
 						</index>
 						<name type="person">Zimmermann</name> sei von den Jesuiten ausgegraben und ins Wasser
-						geworfen worden, fand ich bisher keinen Beleg.</note>, doch leistete sie <index
-						indexName="Personen">
+						geworfen worden, fand ich bisher keinen Beleg.</note>, doch leistete sie <index indexName="Personen">
 						<term>Homberger, Jeremias</term>
 					</index>
 					<name type="person">Homberger</name> seine Besoldung weiter, wie sie auch seine
@@ -3885,8 +3728,7 @@
 					Lager von manchen nicht gebilligt worden war, gab den V.O. Anlaß, die Prediger vor
 					weiteren scharfen Angriffen zu warnen und sie zur Mäßigung anzuhalten.</p>
 				<p>Der Rekatholisierung des Landes kam die Neubesetzung der Bistümer Seckau und Lavant sehr
-					zugute. Nach Seckau sandte der Salzburger Erzbischof den dortigen Domherren <index
-						indexName="Personen">
+					zugute. Nach Seckau sandte der Salzburger Erzbischof den dortigen Domherren <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">Martin Brenner</name>, einen weitgereisten, erst in den Familien
@@ -3900,8 +3742,7 @@
 					</index>
 					<name type="person">Fugger</name> bedienstet gewesenen Schwaben, der bald zu den intimsten
 					Beratern der fürstlichen Familie gehörte und in den nächsten Jahrzehnten sich den Beinamen
-					des steirischen malleus haereticorum erwarb. Der Gurker Dom wurde dem Preußen <index
-						indexName="Personen">
+					des steirischen malleus haereticorum erwarb. Der Gurker Dom wurde dem Preußen <index indexName="Personen">
 						<term>Stobäus von Palmburg, Georg</term>
 					</index>
 					<name type="person">
@@ -3912,8 +3753,7 @@
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> durch die im Jahre 1585 gewährte Rangerhöhung ihrer Schule
-					zur Universität noch vermehrt hatte, wie er auch seinen jungen Sohn <index
-						indexName="Personen">
+					zur Universität noch vermehrt hatte, wie er auch seinen jungen Sohn <index indexName="Personen">
 						<term>Ferdinand</term>
 					</index>
 					<name type="person">Ferdinand</name> als ersten in deren Matrikel eintragen ließ. Ein
@@ -3923,16 +3763,14 @@
 					Andererseits schädigte der Erzherzog durch die Anordnung, kein Grazer Bürgerssohn dürfe
 					eine andere Lateinschule als die der Jesuiten besuchen, die Stiftsschule sehr, der man
 					neuerdings die öffentlichen Disputationen und Ausführungen untersagte und die in der Flut
-					von Schmähschriften, die der erzherzogliche Beichtvater und Rat <index
-						indexName="Personen">
+					von Schmähschriften, die der erzherzogliche Beichtvater und Rat <index indexName="Personen">
 						<term>Ernhofer, Sigmund</term>
 					</index>
 					<name type="person">Ernhofer</name> und seine Helfershelfer losließen, öfter verspottet
 					wurde. Da nach den mit <index indexName="Personen">
 						<term>Homberger, Jeremias</term>
 					</index>
-					<name type="person">Homberger</name> gemachten Erfahrungen der neue Pastor <index
-						indexName="Personen">
+					<name type="person">Homberger</name> gemachten Erfahrungen der neue Pastor <index indexName="Personen">
 						<term>Zimmermann, Wilhelm</term>
 					</index>
 					<name type="person">Zimmermann</name> sich vorsichtig verhalten mußte, wurde, wie bereits
@@ -4019,8 +3857,7 @@
 					</index>
 					<name type="person">Karls</name> auch in dem ihm wegen der "Hoffmännischen Religion"
 					besonders verhaßten Ennstal zu wirken. Die zuerst geplante Abschaffung des Prädikanten in
-					Oblarn endete mit dem gleichen Mißerfolg wie die vom Wolkensteiner Landpfleger <index
-						indexName="Personen">
+					Oblarn endete mit dem gleichen Mißerfolg wie die vom Wolkensteiner Landpfleger <index indexName="Personen">
 						<term>Wanzl, Primus</term>
 					</index>
 					<name type="person">Primus Wanzl</name> versuchte Einstellung des lutherischen Exerzitiums
@@ -4031,8 +3868,7 @@
 						<term>Hoffmann, Hans Friedrich</term>
 					</index>
 					<name type="person">Hans Friedrich Hoffmann</name> bei Karl so schwere Ungelegenheiten
-					bereitete, daß er fast Lust bekam, abzuwandern, wie sein Bruder <index
-						indexName="Personen">
+					bereitete, daß er fast Lust bekam, abzuwandern, wie sein Bruder <index indexName="Personen">
 						<term>Hoffmann, Ferdinand</term>
 					</index>
 					<name type="person">Ferdinand</name>, ein berühmter Bücherliebhaber, bereits getan hatte,
@@ -4072,8 +3908,7 @@
 					<name type="person">Maria</name> gekrönt, die dem Jesuiten versicherte, es habe sie "von
 					Herzen gefreut, daß er den Fasching so wohl angelegt habe," worauf dieser erwiderte, daß
 					das Hauptverdienst an den für so kurze Zeit unglaublichen Erfolgen ihr und ihrem Gatten
-						gebühre<note xml:id="n94.1" type="footnote" n="94.1">Aus dem Briefe des <index
-							indexName="Personen">
+						gebühre<note xml:id="n94.1" type="footnote" n="94.1">Aus dem Briefe des <index indexName="Personen">
 							<term>Cardaneus, Michael</term>
 						</index>
 						<name type="person">Cardaneus</name> an <index indexName="Personen">
@@ -4156,8 +3991,7 @@
 					ankam und schon nach 3 Tagen starb. Sein Leichnam wurde, von zahlreichen Standespersonen
 					geleitet, über Knittelfeld, wo der Stadtpfarrer sich in seiner Trunkenheit zur
 					Totenandacht unfähig erwies, nach Seckau gebracht und in dem vom Verstorbenen errichteten
-					prächtigen Mausoleum in der Abteikirche beigesetzt<note xml:id="n96.1" type="footnote"
-						n="96.1">Die evang. Stände veranstalteten im Herbst für den verstorbenen Landesfürsten
+					prächtigen Mausoleum in der Abteikirche beigesetzt<note xml:id="n96.1" type="footnote" n="96.1">Die evang. Stände veranstalteten im Herbst für den verstorbenen Landesfürsten
 						eine Leichenfeier, bei der D. <index indexName="Personen">
 							<term>Zimmermann, Wilhelm</term>
 						</index>
@@ -4194,8 +4028,7 @@
 						<term>Karl von Innerösterreich</term>
 					</index>
 					<name type="person">Karl</name> während seiner Regierungszeit zum erbitterten Gegner der
-					Reformation entwickelt, nicht zuletzt unter dem Einfluß seiner Gattin <index
-						indexName="Personen">
+					Reformation entwickelt, nicht zuletzt unter dem Einfluß seiner Gattin <index indexName="Personen">
 						<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 					</index>
 					<name type="person">Maria</name>, der die Geschichtsschreiber neben ihrer "Jagdlust und
@@ -4225,12 +4058,10 @@
 				<p>Als Erzherzog <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
-					<name type="person">Karl</name> starb, war sein ältester Sohn und Nachfolger <index
-						indexName="Personen">
+					<name type="person">Karl</name> starb, war sein ältester Sohn und Nachfolger <index indexName="Personen">
 						<term>Ferdinand, Erzherzog</term>
 					</index>
-					<name type="person">Ferdinand</name> erst 12 Jahre alt. Nachdem <index
-						indexName="Personen">
+					<name type="person">Ferdinand</name> erst 12 Jahre alt. Nachdem <index indexName="Personen">
 						<term>Attems, Jakob Adam von</term>
 					</index>
 					<name type="person">Jakob Adam von Attems</name> ihn durch 8 Jahre erzogen hatte, war er,
@@ -4259,8 +4090,7 @@
 						Erscheinung, wurde Bischof von Passau und Straßburg, <index indexName="Personen">
 							<term>Carl, Sohn Karls II.</term>
 						</index>
-						<name type="person">Carl Bischof von Breslau und Brixen</name>, <index
-							indexName="Personen">
+						<name type="person">Carl Bischof von Breslau und Brixen</name>, <index indexName="Personen">
 							<term>Maria Christine, Tochter Karls II.</term>
 						</index>
 						<name type="person">Maria Christine</name> und <index indexName="Personen">
@@ -4281,8 +4111,7 @@
 					<name type="person">Maria</name> und dem Kaiser <index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
-					<name type="person">Rudolf</name> seinen Bruder, den Tirolerherzog <index
-						indexName="Personen">
+					<name type="person">Rudolf</name> seinen Bruder, den Tirolerherzog <index indexName="Personen">
 						<term>Ferdinand von Tirol</term>
 					</index>
 					<name type="person">Ferdinand</name>, sowie seinen Schwager <index indexName="Personen">
@@ -4308,8 +4137,7 @@
 						<term>Ernst von Österreich</term>
 					</index>
 					<name type="person">Ernst</name> im Sinne des verstorbenen Vorgängers sich die Verfügung
-					über die Städte und Märkte vorbehalten zu müssen. An dem Widerstande <index
-						indexName="Personen">
+					über die Städte und Märkte vorbehalten zu müssen. An dem Widerstande <index indexName="Personen">
 						<term>Ernst von Österreich</term>
 					</index>
 					<name type="person">Ernsts</name> scheiterte im ·Februar 1591 der Landtag und die
@@ -4331,23 +4159,20 @@
 					<name type="person">Ernst</name> als auch die Stände, die eine eigene Gesandtschaft nach
 					Prag sandten, riefen die Entscheidung des Kaisers an, der übrigens vom Grazer, Innsbrucker
 					und Münchner Hofe fortlaufend im Sinne der katholischen Partei berichtet wurde. Nach
-					langwierigen Verhandlungen erreichte die Ständegesandtschaft von <index
-						indexName="Personen">
+					langwierigen Verhandlungen erreichte die Ständegesandtschaft von <index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
 					<name type="person">Rudolf</name> die Zusage, <index indexName="Personen">
 						<term>Ernst von Österreich</term>
 					</index>
 					<name type="person">Ernst</name> werde erklären, es in Religionssachen so zu halten, wie
-					es Erzherzog Karl "gehalten habe". Den mit dieser Erklärung Unzufriedenen schlug <index
-						indexName="Personen">
+					es Erzherzog Karl "gehalten habe". Den mit dieser Erklärung Unzufriedenen schlug <index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
 					<name type="person">Rudolf</name> in der Audienz vom 31. Oktober die Änderung, "wie sich
 					Erzherzog Karl mit den Ständen verglichen habe", vor, schließlich einigte man sich auf das
 					Wort "bewilligt". So endete der große Huldigungsstreit mit der zwar nicht namentlichen
-					aber inhaltlichen Einbeziehung der Pazifikation in die Eidesformel, in der <index
-						indexName="Personen">
+					aber inhaltlichen Einbeziehung der Pazifikation in die Eidesformel, in der <index indexName="Personen">
 						<term>Ernst von Österreich</term>
 					</index>
 					<name type="person">Ernst</name>
@@ -4355,12 +4180,10 @@
 					Vergleichungen, Konzessionen usw. beschwören mußte. Trotzdem kam es im Februarlandtag
 					1592, der endlich die Huldigung herbeiführen sollte, nochmals wegen der religiösen Rechte
 					der Städte und Märkte zu einer heftigen Auseinandersetzung; beide Parteien sandten
-					neuerlich Gesandte an den Kaiser, auf dessen Anraten sich schließlich <index
-						indexName="Personen">
+					neuerlich Gesandte an den Kaiser, auf dessen Anraten sich schließlich <index indexName="Personen">
 						<term>Ernst von Österreich</term>
 					</index>
-					<name type="person">Ernst</name> zu der Erklärung bequemte, es werde bis zu <index
-						indexName="Personen">
+					<name type="person">Ernst</name> zu der Erklärung bequemte, es werde bis zu <index indexName="Personen">
 						<term>Ferdinand, Erzherzog</term>
 					</index>
 					<name type="person">Ferdinands</name> Mündigkeit alles so verbleiben, wie es sein Vater in
@@ -4407,16 +4230,14 @@
 					Verabschiedung, ein Verlangen, das selbst <index indexName="Personen">
 						<term>Ferdinand von Tirol</term>
 					</index>
-					<name type="person">Ferdinand von Tirol</name> zu erfüllen empfahl, während <index
-						indexName="Personen">
+					<name type="person">Ferdinand von Tirol</name> zu erfüllen empfahl, während <index indexName="Personen">
 						<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 					</index>
 					<name type="person">Maria</name>, gestützt auf ihren bayrischen Anhang, den Kanzler mit
 					allen Mitteln zu halten suchte. Der Regent <index indexName="Personen">
 						<term>Ernst von Österreich</term>
 					</index>
-					<name type="person">Ernst</name> ließ ihn fallen. Nach seinem Sturze bediente sich <name
-						type="person">Maria</name> noch oft seines Rates, aber seine Rolle im öffentlichen Leben
+					<name type="person">Ernst</name> ließ ihn fallen. Nach seinem Sturze bediente sich <name type="person">Maria</name> noch oft seines Rates, aber seine Rolle im öffentlichen Leben
 					war ausgespielt.</p>
 				<p>Der Ausgang des Huldigungsstreites und der Sturz <index indexName="Personen">
 						<term>Schranz, Wolfgang</term>
@@ -4430,8 +4251,7 @@
 						<index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
-					<name type="person">Rudolf</name> in Spanien gemeinsam erzogenen Erzherzogs <name
-						type="person">Ernst</name> bestand kein Zweifel, aber seine gerade, ehrliche und offene
+					<name type="person">Rudolf</name> in Spanien gemeinsam erzogenen Erzherzogs <name type="person">Ernst</name> bestand kein Zweifel, aber seine gerade, ehrliche und offene
 					Art stach wohltätig von dem zwiespältigen, unehrlichen Wesen <index indexName="Personen">
 						<term>Karl von Innerösterreich</term>
 					</index>
@@ -4473,16 +4293,14 @@
 					treuherzigen Patronen" ermuntert, hatte der greise Gelehrte im September 1592 samt seinem
 					Weibe und seiner Habe von Regensburg die Übersiedlung ins Land vorgenommen. Gleich setzte
 					das gehässige Treiben seiner alten <pb n="102"/> jesuitischen Widersacher ein. Trotz aller
-					Bitten und Vorstellungen der evangelischen Adeligen wies ihn <name type="person"
-						>Ernst</name> im Dezember aus, gestattete dann aber, daß der gebrechliche alte Mann
+					Bitten und Vorstellungen der evangelischen Adeligen wies ihn <name type="person">Ernst</name> im Dezember aus, gestattete dann aber, daß der gebrechliche alte Mann
 					gegen das Gelöbnis, keine Predigt zu halten und nichts drucken zu lassen, über den Winter
 					noch in Graz weilen dürfe. Im Juni 1593 mußte <name type="person">Homberger</name>, von
 					den Ständen reichlich unterstützt, endgültig das Land räumen und wieder ins Exil
 						ziehen<note xml:id="n102.1" type="footnote" n="102.1">Seine Schilderung dieser Vorgänge
 						ist erhalten. Er klagte, daß "er umherschweife mit Weib und Kind und nirgends eine
 						bleibende Stätte finden könne". Die Grazer Hoffnung sei "in nichts zerronnen". Er starb
-						am 27. Oktober 1594 in Znaim, wo ihm der evangelische Stadtpfarrer Mag. <index
-							indexName="Personen">
+						am 27. Oktober 1594 in Znaim, wo ihm der evangelische Stadtpfarrer Mag. <index indexName="Personen">
 							<term>Ludwig, Kaspar</term>
 						</index>
 						<name type="person">Kasp. Ludwig</name> in der St. Michaelskirche eine würdige
@@ -4513,8 +4331,7 @@
 						<term>Maximilian, Erzherzog</term>
 					</index>
 					<name type="person">Erzherzog Maximilian</name> sogar ganz unsinnigerweise der
-					Ketzerbegünstigung. Trotzdem betraute der Kaiser im September 1593 <index
-						indexName="Personen">
+					Ketzerbegünstigung. Trotzdem betraute der Kaiser im September 1593 <index indexName="Personen">
 						<term>Maximilian (III.)</term>
 					</index>
 					<name type="person">Maximilian (III.)</name> mit der Regentschaft. Da er auf Anraten
@@ -4585,15 +4402,13 @@
 					Stände unter gleichzeitiger Danksagung an <index indexName="Personen">
 						<term>Maximilian (III.)</term>
 					</index>
-					<name type="person">Maximilian</name> am 10. Mai 1595 die provisorische Regierung <index
-						indexName="Personen">
+					<name type="person">Maximilian</name> am 10. Mai 1595 die provisorische Regierung <index indexName="Personen">
 						<term>Ferdinand, Erzherzog</term>
 					</index>
 					<name type="person">Ferdinands</name> unter der Voraussetzung anzunehmen, daß durch sie
 					dem Land kein Abbruch geschehe.</p>
 				<p>Die Stände wußten, daß in Prag die Stimmung für die evangelische Steiermark nicht günstig
-					war. Die i.ö. Abgesandten berichteten vom Hofe, daß beim Kaiser <index
-						indexName="Personen">
+					war. Die i.ö. Abgesandten berichteten vom Hofe, daß beim Kaiser <index indexName="Personen">
 						<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 					</index>
 					<name type="person">Maria</name> "die Frau Jsebel viel böse Karten eingeworfen" habe. Von
@@ -4601,8 +4416,7 @@
 					Einflusse stand. Er lebte streng nach den Pflichten seiner Kirche, hörte täglich die Messe
 					und kommunizierte sehr häufig. Er beugte sich so sehr der Führung seiner fanatischen
 					Mutter, daß man sich evangelischerseits von dem "Kinder-, Weiber- und Pfaffenregiment"
-					nicht viel gutes versprach. Die so dachten, sollten nur zu bald recht behalten. <index
-						indexName="Personen">
+					nicht viel gutes versprach. Die so dachten, sollten nur zu bald recht behalten. <index indexName="Personen">
 						<term>Maria von Innerösterreich (geb. Wittelsbach)</term>
 					</index>
 					<name type="person">Maria</name>, die leidenschaftliche Bekämpferin der Brucker
@@ -4703,15 +4517,13 @@
 							von Palmburg</ref>
 					</name>, Bischof von Lavant, "der Denker der Gegenreformation", wurde noch im Jahre 1597
 					zum Statthalter von I.Ö. ernannt In den kirchlichen Belangen bediente man sich, wo es
-					einen Vorstoß galt, des eifrigen, aber hitzigen Seckauer Bischofs <index
-						indexName="Personen">
+					einen Vorstoß galt, des eifrigen, aber hitzigen Seckauer Bischofs <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">
 						<ref target="http://de.wikipedia.org/wiki/Martin_Brenner">Martin Brenner</ref>
 					</name>. Die Regierung hatte bereits im Jahre 1596 durch eine Kommission, die der Admonter
-					Abt und der Pfleger der landesfürstlichen Kammerherrschaft Wolkenstein <index
-						indexName="Personen">
+					Abt und der Pfleger der landesfürstlichen Kammerherrschaft Wolkenstein <index indexName="Personen">
 						<term>Mayr, Georg</term>
 					</index>
 					<name type="person">Georg Mayr</name>, der Verfasser des zur Ausrottung des Ennstaler
@@ -4719,8 +4531,7 @@
 					Mitterndorf zu vertreiben und den katholischen Kultus wieder im Gotteshause einzusehen,
 					doch kam die Erbitterung der Bevölkerung so handgreiflich zum Ausdruck, daß die Kommissäre
 					einen recht unrühmlichen Abzug nehmen mußten. In Eisenerz hatte man den auf der Durchreise
-					befindlichen, im ganzen Lande wegen seiner Ränke verhaßten Nuntius <index
-						indexName="Personen">
+					befindlichen, im ganzen Lande wegen seiner Ränke verhaßten Nuntius <index indexName="Personen">
 						<term>Portia, Graf von</term>
 					</index>
 					<name type="person">Grafen Portia</name> bedroht, der zur Bestrafung von der Regierung
@@ -4731,8 +4542,7 @@
 					einsetzen sollten.<pb n="108"/>
 				</p>
 				<p>Im Frühling 1598 verwirklichte der junge Regent den Plan der Italienreise. Man hat viel
-					über sie geschrieben und meist behauptet, auf Grund eines in <ref
-						target="http://de.wikipedia.org/wiki/Loreto_%28Marken%29">Loreto</ref> getanen Gelübdes
+					über sie geschrieben und meist behauptet, auf Grund eines in <ref target="http://de.wikipedia.org/wiki/Loreto_%28Marken%29">Loreto</ref> getanen Gelübdes
 					hätte der Heimgekehrte dann die Gewaltmaßnahmen der Gegenreformation begonnen. Mag ihn der
 					Besuch jenes Wallfahrtsortes in ihrer Durchführung auch bestärkt haben, geplant waren sie
 					schon vor dieser Reise, sie ergaben sich als die letzten Punkte des folgerichtig
@@ -4743,9 +4553,7 @@
 						<term>Casal, Peter</term>
 					</index>
 					<name type="person">
-						<ref
-							target="http://books.google.at/books?id=XGdvQbbp35EC&amp;pg=PA445&amp;lpg=PA445&amp;dq=Peter+Casal&amp;source=bl&amp;ots=Q5EgT5vzbn&amp;sig=gN60j2667jmjOOh7rvODLx6CWRA&amp;hl=de&amp;sa=X&amp;ei=5HgQVLO9EMfwaPiGgYgH&amp;ved=0CDoQ6AEwBg#v=onepage&amp;q=Peter%20Casal&amp;f=false"
-							>Peter Casal</ref>
+						<ref target="http://books.google.at/books?id=XGdvQbbp35EC&amp;pg=PA445&amp;lpg=PA445&amp;dq=Peter+Casal&amp;source=bl&amp;ots=Q5EgT5vzbn&amp;sig=gN60j2667jmjOOh7rvODLx6CWRA&amp;hl=de&amp;sa=X&amp;ei=5HgQVLO9EMfwaPiGgYgH&amp;ved=0CDoQ6AEwBg#v=onepage&amp;q=Peter%20Casal&amp;f=false">Peter Casal</ref>
 					</name>.</p>
 				<p>Am 22. April 1598 reiste <index indexName="Personen">
 						<term>Ferdinand von Innerösterreich</term>
@@ -4765,16 +4573,14 @@
 					vorerwähnten Gnadenorte und trat über Florenz, Mantua, Trient und Brixen die Heimreise an.
 					Am 28. Juni traf er wieder in Graz ein und übernahm die Regierungsgeschäfte, die während
 					seiner Abwesenheit in den Händen seiner Mutter Maria gelegen waren. Die Evangelischen
-					erwarteten nicht viel Gutes von dem Heimkehrenden. Eine Stelle aus einem Schreiben <index
-						indexName="Personen">
+					erwarteten nicht viel Gutes von dem Heimkehrenden. Eine Stelle aus einem Schreiben <index indexName="Personen">
 						<term>Kepler, Johannes</term>
 					</index>
 					<name type="person">Keplers</name> gibt die Stimmung wieder: "Alles zittert vor der
 					Rückkehr des Landesfürsten. Man spricht davon, daß er italienische Hilfstruppen
 					heranzieht."</p>
 				<p>In der Tat holte die katholische Partei, indem sie sich des stets gefügigen Werkzeugs der
-					Jesuiten bediente, zum entscheidenden Schlage aus. Während Bischof <index
-						indexName="Personen">
+					Jesuiten bediente, zum entscheidenden Schlage aus. Während Bischof <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">Brenner</name> das ganze Jahr hindurch seine Diözese visitiert und der
@@ -4791,8 +4597,7 @@
 						<term>Amman von Amansegg, Matthias</term>
 					</index>
 					<name type="person">Amman</name>, der immer noch mit seiner reichen Erfahrung der
-					evangelischen Sache diente, übernahm der junge, kluge und feurige Untermarschall <index
-						indexName="Personen">
+					evangelischen Sache diente, übernahm der junge, kluge und feurige Untermarschall <index indexName="Personen">
 						<term>Saurau, Ehrenreich von</term>
 					</index>
 					<name type="person">Ernreich von Saurau</name> allmählich das Führeramt in dieser bitteren
@@ -4938,8 +4743,7 @@
 					</index>
 					<name type="person">Karl</name> verliehenen Privilegien zu achten. Vor allem schmerze sie
 					der gegen sie erhobene Vorwurf, sie seien inländische Feinde, so daß man sie durch
-					landfremde, meist italienische Truppen <pb n="113"/> bewachen lasse. Die Antwort <index
-						indexName="Personen">
+					landfremde, meist italienische Truppen <pb n="113"/> bewachen lasse. Die Antwort <index indexName="Personen">
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
 					<name type="person">Ferdinands</name> zeigte so recht das Machtgefühl der triumphierenden
@@ -4953,8 +4757,7 @@
 					angesammelten Truppen seien zu seinem eigenen Schutze bestimmt. Eine neuerliche
 					Vorstellung der V.O. wegen der beunruhigenden Truppenansammlungen wurde mit neuen
 					Söldnerwerbungen beantwortet.</p>
-				<p>Man rechnete im evangelischen Lager trotz der unerbittlichen Härte <index
-						indexName="Personen">
+				<p>Man rechnete im evangelischen Lager trotz der unerbittlichen Härte <index indexName="Personen">
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
 					<name type="person">Ferdinands</name> doch ernstlich damit, daß der künftige Landtag die
@@ -4975,8 +4778,7 @@
 					<name type="person">Margarete</name>, eine geborene <index indexName="Personen">
 						<term>Salm, Margarete von [= Lobkowitz, M. v.]</term>
 					</index>
-					<name type="person">Gräfin Salm</name>, eifrig dem Luthertum anhing<note xml:id="n113.1"
-						type="footnote" n="113.1">Auf ihre Bitten hatte die steir. Landschaft zweimal, 1592 und
+					<name type="person">Gräfin Salm</name>, eifrig dem Luthertum anhing<note xml:id="n113.1" type="footnote" n="113.1">Auf ihre Bitten hatte die steir. Landschaft zweimal, 1592 und
 						1597, den Grazer Oberpastor <index indexName="Personen">
 							<term>Zimmermann, Wilhelm</term>
 						</index>
@@ -4996,8 +4798,7 @@
 						<term>Kepler, Johannes</term>
 					</index>
 					<name type="person">Johs. Kepler</name>, dessen Bekehrung sich die Jesuiten versprachen
-					und dem sie darum einen erzherzoglichen Sicherheitsbrief verschafft hatten, bis er, <pb
-						n="114"/> nach seiner Rückkehr nach Graz doch unentwegt seinem evangelischen Glauben
+					und dem sie darum einen erzherzoglichen Sicherheitsbrief verschafft hatten, bis er, <pb n="114"/> nach seiner Rückkehr nach Graz doch unentwegt seinem evangelischen Glauben
 					treubleibend, endgültig weichen mußte.</p>
 				<p>Als am 3. Oktober 1598 ein Dekret Ferdinands die Judenburger Kirchen- und Schuldiener
 					auswies und ein anderes die völlige, endgültige Auflösung des Grazer Kirchen- und
@@ -5014,8 +4815,7 @@
 					und Tumult das Verbleiben ihrer Seelsorger zu erzwingen. Selbst an die Prediger auf den
 					Adelsschlössern wagte man sich bereits heran, weil sie noch evangelische Amtshandlungen
 					vornahmen. Als Grazer Standespersonen sich im Schlosse Vasoltsberg vom Prediger des Herrn
-					von Kronegg trauen ließen, suchte der von Graz eigens herbeigeeilte Stadtpfarrer <index
-						indexName="Personen">
+					von Kronegg trauen ließen, suchte der von Graz eigens herbeigeeilte Stadtpfarrer <index indexName="Personen">
 						<term>Sonnabenter, Laurentius</term>
 					</index>
 					<name type="person">Sonnabenter</name> mit Gewalt ins Schloß einzudringen und den Prediger
@@ -5133,8 +4933,7 @@
 				<p>Im Landtag waren beide Meinungen zu Wort gekommen. Die Evangelischen betonten, man könne
 					doch nicht mehr, wie dies der Erzherzog tue, immer von Gewissensfreiheit im Lande reden,
 					wenn man die Leute zwinge, sich katholisch trauen, die Kinder katholisch taufen zu lassen;
-					bald werde man zu Ostern katholisch beichten müssen. Der temperamentvolle <index
-						indexName="Personen">
+					bald werde man zu Ostern katholisch beichten müssen. Der temperamentvolle <index indexName="Personen">
 						<term>Saurau, Ehrenreich von</term>
 					</index>
 					<name type="person">Ernreich von Saurau</name> stellte fest: "In der Türkei müßt’ man
@@ -5200,8 +4999,7 @@
 					Ständen gewünschte Resolution werde dann folgen. Die Landschaft erwiderte nach 2Tagen, daß
 					man sich nach den gewaltsamen Regierungsmaßnahmen mit einer bloßen Resolution nicht mehr
 					begnügen könne, es müsse die Abstellung ihrer Beschwerden erfolgen, die durch die jüngst
-					erfolgte brutale Ausweisung des Pettauer landschaftlichen Arztes Dr. <index
-						indexName="Personen">
+					erfolgte brutale Ausweisung des Pettauer landschaftlichen Arztes Dr. <index indexName="Personen">
 						<term>Wexius</term>
 					</index>
 					<name type="person">Wexius</name> und des Landschaftsbeamten <index indexName="Personen">
@@ -5266,8 +5064,7 @@
 					unternommenes Werk.</p>
 				<p>Die Stände sahen das letzte Mittel zur Umstimmung des Landesfürsten in einer
 					Generalzusammenkunft der drei i.ö. Länder. Aus ihnen fanden sich am 1. September
-					Vertrauensmänner in Graz ein, um über die Tunlichkeit einer solchen zu beraten, <pb
-						n="123"/>gleichzeitig aber in dem von den katholischen Gegnern gegen den i.ö. Agenten am
+					Vertrauensmänner in Graz ein, um über die Tunlichkeit einer solchen zu beraten, <pb n="123"/>gleichzeitig aber in dem von den katholischen Gegnern gegen den i.ö. Agenten am
 					kaiserlichen Hofe <index indexName="Personen">
 						<term>Kandlberger, Hans Georg</term>
 					</index>
@@ -5332,10 +5129,8 @@
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
 					<name type="person">Ferdinands</name> am verhängnisvollen Tage der Wegnahme der Grazer
-					Stiftskirche, dem 14. Oktober 1599 in Leoben zusammen<note xml:id="n124.1" type="footnote"
-						n="124.1">Ferdinand hatte den Feldzug gegen seine Landeskinder so gründlich vorbereitet,
-						daß er unterm 15. September 1600 durch den Hofpfennigmeister dem Zuschneider <index
-							indexName="Personen">
+					Stiftskirche, dem 14. Oktober 1599 in Leoben zusammen<note xml:id="n124.1" type="footnote" n="124.1">Ferdinand hatte den Feldzug gegen seine Landeskinder so gründlich vorbereitet,
+						daß er unterm 15. September 1600 durch den Hofpfennigmeister dem Zuschneider <index indexName="Personen">
 							<term>Klepp, Urban</term>
 						</index>
 						<name type="person">Urban Klepp</name> 84 fl. für die der Rel.-Ref.-Guardi gelieferten
@@ -5354,13 +5149,11 @@
 					<name type="person">Johann von Rottenmann</name>, der geh. Rat <index indexName="Personen">
 						<term>Herbersdorf, Andreas von</term>
 					</index>
-					<name type="person">Andreas von Herbersdorf</name>, der Kammerrat <index
-						indexName="Personen">
+					<name type="person">Andreas von Herbersdorf</name>, der Kammerrat <index indexName="Personen">
 						<term>Mosheim, Alban von</term>
 					</index>
 					<name type="person">Alban von Mosheim</name> und als Kommandant der aus je einem Fähnlein
-					deutscher und windischer Knechte der Grazer Garnison bestehenden Guardia <index
-						indexName="Personen">
+					deutscher und windischer Knechte der Grazer Garnison bestehenden Guardia <index indexName="Personen">
 						<term>Paar, Hans Friedrich von</term>
 					</index>
 					<name type="person">Hans Friedrich von Paar</name> beigegeben waren.</p>
@@ -5385,8 +5178,7 @@
 					versucht, die Rädelsführer zu ermitteln. <index indexName="Personen">
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
-					<name type="person">Ferdinand</name> hatte auch den Bannrichter <index
-						indexName="Personen">
+					<name type="person">Ferdinand</name> hatte auch den Bannrichter <index indexName="Personen">
 						<term>Kuppitsch Hans</term>
 					</index>
 					<name type="person">Hans Kuppitsch</name> nach Eisenerz nachgesandt. Tagelang dauerten die
@@ -5433,17 +5225,14 @@
 					Abgesandte die Unterwerfung erboten und Schonung erbeten. Allein da Schladming bei der
 					katholischen Partei "als ein rechtes Ketzernest und Grundsuppen aller Irrtümer" galt,
 					wollte man hier gründlich verfahren und hatte es vor allem auf den vor Jahrzehnten ob
-					seines Luthertums aus dem Salzburgischen "<ref
-						target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?artikel=bandisieren"
-						>bandisierten</ref>" Obergewerken <index indexName="Personen">
+					seines Luthertums aus dem Salzburgischen "<ref target="http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?artikel=bandisieren">bandisierten</ref>" Obergewerken <index indexName="Personen">
 						<term>Steinberger, Hans</term>
 					</index>
 					<name type="person">Hans Steinberger</name> abgesehen, in dem man "der ganzen Gemeine
 					Abgott und Haupträdlführer" sah. Er wurde samt anderen "Rebellisten und Flazianern, Manns-
 					und Weibspersonen" nach Graz zur Einkerkerung geführt, sein Haus, das eine schöne Bücherei
 					barg, und seine Bergwerke wurden unter ZwangsverwaItung gestellt, das Ende war
-					Landesverweisung. In Schladming wurden sogar 3 Galgen, davon einer vor <name type="person"
-						>Steinbergers</name> Haus, errichtet und an die 3000 lutherische Bücher in 3 Haufen auf
+					Landesverweisung. In Schladming wurden sogar 3 Galgen, davon einer vor <name type="person">Steinbergers</name> Haus, errichtet und an die 3000 lutherische Bücher in 3 Haufen auf
 					dem Marktplatz verbrannt. Die Achatiuskirche, deren Altartafelaufsatz aus der
 					evangelischen Zeit noch heute zu den Schätzen des steirischen Landesmuseums gehört, wurde
 					dem katholischen Kultus wiedergegeben, das Hoffmannsche Spital dem Bergrichter
@@ -5478,16 +5267,14 @@
 					stattlicher Rundbau, über dessen Portal die am steirischen Protestantismus bewahrheiteten
 					Worte "Preces et lacrimae sunt arma huius ecclesiae" standen, "mit Pulver und Feuer
 					angesteckt und aufs höchste, so wie man immer konnte, weil das Gebäu so stark war,
-					gesprengt und zerstört". Der Aufseher über dieses barbarische Zerstörungswert, <index
-						indexName="Personen">
+					gesprengt und zerstört". Der Aufseher über dieses barbarische Zerstörungswert, <index indexName="Personen">
 						<term>Paar, Hans Friedrich von</term>
 					</index>
 					<name type="person">Paar</name>, hinderte die Hoffmannschen Leute selbst tunlichst an der
 					Herausschaffung der Toten aus der Gruft und drohte, als sie 15 Särge geborgen hatten, nun
 					sei es genug, sie mögen sich packen, sonst lasse er sie mit hineinstoßen. Die rohe
 					Soldateska trieb mit den Särgen ihren Mutwillen und schreckte auch vor Leichenschändung
-					nicht zurück, zerschlug etliche Särge, durchstach den Leichnam eines <index
-						indexName="Personen">
+					nicht zurück, zerschlug etliche Särge, durchstach den Leichnam eines <index indexName="Personen">
 						<term>Windischgrätz</term>
 					</index>
 					<name type="person">Windischgräz</name> und zog ihm die Ringe vom Finger. 2 Kindersärge
@@ -5508,14 +5295,12 @@
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
 					<name type="person">Ferdinand</name> die gewaltsame Rekatholisierung des Unterlandes ins
-					Werk und setzte eine neue Kommission ein, an deren Spitze er diesmal den Bischof <index
-						indexName="Personen">
+					Werk und setzte eine neue Kommission ein, an deren Spitze er diesmal den Bischof <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">Martin Brenner</name> selbst stellte, der auf Ersuchen seines Fürsten
 					auch die Prälaten des Landes zu freiwilligen Beitragsleistungen zur Erhaltung der für
-					diese Unterwerfung erforderlichen Soldaten zu bewegen vermochte. Außer <index
-						indexName="Personen">
+					diese Unterwerfung erforderlichen Soldaten zu bewegen vermochte. Außer <index indexName="Personen">
 						<term>Herbersdorf</term>
 					</index>
 					<name type="person">Herbersdorf</name>, der, gleich dem in Oberösterreich zu traurigem
@@ -5523,8 +5308,7 @@
 						<term>Herbersdorf, Adam von</term>
 					</index>
 					<name type="person">Adam</name> aus dem bewährten, evangelischen Geschlecht stammend, sich
-					zum Verderben seiner früheren Glaubensgenossen gebrauchen ließ, wurden <index
-						indexName="Personen">
+					zum Verderben seiner früheren Glaubensgenossen gebrauchen ließ, wurden <index indexName="Personen">
 						<term>Mosheim, Alban von</term>
 					</index>
 					<name type="person">Mosheim</name> und <index indexName="Personen">
@@ -5551,8 +5335,7 @@
 						<index indexName="Personen">
 						<term>Cochläus</term>
 					</index>
-					<name type="person">Cochläus</name> wurden sämtliche Lügen über <index
-						indexName="Personen">
+					<name type="person">Cochläus</name> wurden sämtliche Lügen über <index indexName="Personen">
 						<term>Luther, Martin</term>
 					</index>
 					<name type="person">Luthers</name> angeblich ärgerliches Leben aufgetischt. Den Reformator
@@ -5602,8 +5385,7 @@
 					Gottesdienste auch der Zerstörung preisgegeben.</p>
 				<p>Nachdem Radkersburg besonders nachdrücklich reformiert worden war, zog die Kommission am
 					5. Jänner 1600, inzwischen auf 1000 Mann verstärkt, über Klöch und Halbenrain durch
-					slovenisches Gebiet, zerstörte in den "windischen Büheln" Springerkirchen<note
-						xml:id="n131.1" type="footnote" n="131.1">Die "Springer" auch "Werfler" oder "Purzler",
+					slovenisches Gebiet, zerstörte in den "windischen Büheln" Springerkirchen<note xml:id="n131.1" type="footnote" n="131.1">Die "Springer" auch "Werfler" oder "Purzler",
 						waren eine besonders unter den Windischen (Slovenen) entstandene und verbreitete
 						ekstatische Sekte.</note> und kam am Dreikönigstag in Marburg an. Die bereits im Vorjahr
 					durch eine Kommission heimgesuchte Stadt unterwarf sich bis auf etliche hartnäckige
@@ -5614,8 +5396,7 @@
 					<name type="person"> Georg Suttar</name> ein neues Altarbild gemalt hatte, sprengte samt
 					dem benachbarten Schul- und Prädikentenhaus am 8. Jänner eine dorthin gesandte Abteilung,
 					nachdem sie alles zuvor in Brand gesteckt hatte. Sie ging mit solcher Wut zu Werke, daß 2
-					Soldaten den Tod fanden, 2 schwer verletzt wurden. Dem Freiherrn <index
-						indexName="Personen">
+					Soldaten den Tod fanden, 2 schwer verletzt wurden. Dem Freiherrn <index indexName="Personen">
 						<term>Herberstein, Wilhelm von</term>
 					</index>
 					<name type="person">Wilhelm von Herberstein</name> zu Trotz, dessen Schloß neben der
@@ -5627,8 +5408,7 @@
 				<p>Am 15. Jänner kam Pettau daran, wo sich 60 lutherische Bürger fanden, die in strenge
 					Behandlung genommen wurden, dann führte der Weg über Windischfeistritz und gonobitz, wo
 					ein lutherischer Friedhof der Verwüstung anheimfiel, nach Cilli, wo zugleich für die dahin
-					gepreßten Bewohner von Sachsenfeld am 21. Jänner die Amtshandlung begann. Bis auf <pb
-						n="132"/>fünf zum Exil Verurteilte bequemten sich alle an. Dem großen Bücherbrande fiel
+					gepreßten Bewohner von Sachsenfeld am 21. Jänner die Amtshandlung begann. Bis auf <pb n="132"/>fünf zum Exil Verurteilte bequemten sich alle an. Dem großen Bücherbrande fiel
 					auch die schöne, 250 Bände umfassende Bibliothek des flüchtigen Cillier Predigers Mag.
 						<index indexName="Personen">
 						<term>Weidinger</term>
@@ -5696,8 +5476,7 @@
 					<name type="person">Mosheim</name> der Regimentsrat Dr. <index indexName="Personen">
 						<term>Costede, Angelus</term>
 					</index>
-					<name type="person">Angelus Costede</name> und als militärischer Befehlshaber Herr <index
-						indexName="Personen">
+					<name type="person">Angelus Costede</name> und als militärischer Befehlshaber Herr <index indexName="Personen">
 						<term>Prankh, Hans Christoph von</term>
 					</index>
 					<name type="person">Hans Christoph von Prankh</name> beigegeben wurden, welch letzterer
@@ -5722,8 +5501,7 @@
 					Bürger fest, die einen Abzugstermin von 6 Wochen und 3 Tagen erhielten.</p>
 				<p>Über Unzmarkt und Frauenberg gelangte die Kommission nach Neumarkt, das als besonders
 					trotzig galt und 4 Tage lang bearbeitet wurde. Man hatte die Guardia um 300 bewaffnete
-					Lambrechter Klosteruntertanen verstärkt, ehe man daran ging, zwei den Herren <index
-						indexName="Personen">
+					Lambrechter Klosteruntertanen verstärkt, ehe man daran ging, zwei den Herren <index indexName="Personen">
 						<term>Jöbstl, von</term>
 					</index>
 					<name type="person">von Jöbstl</name> gehörige Kirchen beim Schlosse Lind zu sprengen und
@@ -5774,8 +5552,7 @@
 					der Irdninger und Rottenmanner Umgebung. Durch das Kammertal über Leoben und Bruck führte
 					der Weg ins Mürztal, wo am 14. Juli der Kindberger Friedhof der Zerstörung anheimfiel.
 					Auch Mürzzuschlag, Spittal, Langenwang und Krieglach bequemten sich, nicht so leicht
-					jedoch Kapfenberg, wo die unter Stubenbergischer Herrschaft stehenden Einwohner <pb
-						n="136"/> erklärten, lieber auswandern als katholisch werden zu wollen. Aus Rücksicht
+					jedoch Kapfenberg, wo die unter Stubenbergischer Herrschaft stehenden Einwohner <pb n="136"/> erklärten, lieber auswandern als katholisch werden zu wollen. Aus Rücksicht
 					auf den beim Erzherzog in hohem Ansehen stehenden Grundherren verfuhr man hier milde, nahm
 					keinen Religionseid ab und setzte einen maßvollen katholischen Priester ein.</p>
 				<p>Am 22. Juli 1601 traf die Kommission wieder in Graz ein, der Feldzug gegen die
@@ -5823,8 +5600,7 @@
 					angegebenen Zeit war die Kirche durch die dahin Befohlenen dicht gefüllt. Die
 					Rel.-Ref.-Kommission in ihrer letzten Zusammensetzung trat ein; als auch der Erzherzog mit
 					seinem Gefolge erschienen war, wurden die Kirchentüren gesperrt, was ein großes Wehklagen
-					der draußen versammelten, das Schlimmste befürchtenden Frauen hervorrief. Bischof <index
-						indexName="Personen">
+					der draußen versammelten, das Schlimmste befürchtenden Frauen hervorrief. Bischof <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">Martin</name> predigte in der gewohnten Weise, nicht ohne, wie zum
@@ -5843,8 +5619,7 @@
 					<name type="person">Adam Venediger</name>, auf den man es als seinerzeitigen Kirchen- und
 					Schulinspektor besonders abgesehen hatte, wurde sofort ausgewiesen und in <pb n="138"/>
 					brutaler Rücksichtslosigkeit von den Soldaten "ohne alles Heimgehen stracks zum Tore
-					hinausgeschafft". Das gleiche Schicksal widerfuhr dem Landgerichtsschreiber <index
-						indexName="Personen">
+					hinausgeschafft". Das gleiche Schicksal widerfuhr dem Landgerichtsschreiber <index indexName="Personen">
 						<term>Kurz</term>
 					</index>
 					<name type="person">Kurz</name>. An Stelle des abgesetzten alten Rates wurde ein neuer
@@ -5870,8 +5645,7 @@
 					Ein herostratisches Denkmal habsburgischer Religionspolitik! Um diesen Akt sinnloser
 					Barbarei zu verewigen, wurde 2 Tage später an dieser Stelle der Grund zur Errichtung des
 					ersten steirischen Kapuzinerklosters gelegt. Ferdinand hatte, entschlossen, den wesentlich
-					feineren Jesuiten auch die derberen Volksprediger aus dem Orden <index
-						indexName="Personen">
+					feineren Jesuiten auch die derberen Volksprediger aus dem Orden <index indexName="Personen">
 						<term>Bassi, Matteo de</term>
 					</index>
 					<name type="person">Matteo de Bassis</name> zur Vollendung der Gegenreformation
@@ -5947,8 +5721,7 @@
 				<p>Seit August plante man ständischerseits eine Gesandtschaft an den Kaiser. Als die
 					Vertreter Kärntens und Krains sich nach Graz begeben wollten, hielt die Regierung sie
 					"wegen der Infektion" in Wildon auf. Insgeheim weiter betrieben, kam schließlich die
-					Gesandtschaft, zu der sich für Steiermark der allenthalben hochangesehene <index
-						indexName="Personen">
+					Gesandtschaft, zu der sich für Steiermark der allenthalben hochangesehene <index indexName="Personen">
 						<term>Stubenberg, Georg von</term>
 					</index>
 					<name type="person">Georg von Stubenberg</name> gebrauchen ließ, doch zustande. Sie traf
@@ -6022,14 +5795,12 @@
 					mehr Rechnung als dem Wohl des Landes, er lasse sich von seiner Mutter und den Jesuiten
 					beeinflussen". Ferdinand war eben eine unkriegerische Erscheinung, in der religiösen
 					Bedrückung seiner Untertanen rücksichtslos und unerbittlich, in den harten Jahren
-					besonders des 30jährigen Krieges, zumal an dem Bild seines großen Gegners <index
-						indexName="Personen">
+					besonders des 30jährigen Krieges, zumal an dem Bild seines großen Gegners <index indexName="Personen">
 						<term>Gustav Adolf von Schweden</term>
 					</index>
 					<name type="person">Gustav Adolf</name> gemessen, eine wenig glückliche und mannhafte
 					Gestalt. Jedenfalls zog er es, später in den größten aller Kriege hineingestellt, nach den
-					bei Kanisza gemachten Erfahrungen doch vor, nie mehr selbst zu Felde zu ziehen. <pb
-						n="143"/>
+					bei Kanisza gemachten Erfahrungen doch vor, nie mehr selbst zu Felde zu ziehen. <pb n="143"/>
 				</p>
 				<p>Als im Jänner 1602 der große Ausschuß in Graz nochmals ohne Erfolg um die Abstellung der
 					Religionsbeschwerden gebeten hatte, entschlossen sich die steirischen Stände zu dem
@@ -6043,8 +5814,7 @@
 					wurde am 2. März 1602 ausgestellt. Maria aber gründete in der ehemaligen protestantischen
 					Stift ein Klarissenkloster, "Im Paradeis" benannt, und berief, da die in Aussicht
 					genommenen Judenburger Klarissen die Übersiedlung ablehnten, 10 Insassen des Münchner St.
-					Jakobsklosters, die am 10. November die neue Ordensniederlassung bezogen. <name
-						type="person">Maria</name> selbst legte kurz vor ihrem Ende, wie bereits erwähnt, dort
+					Jakobsklosters, die am 10. November die neue Ordensniederlassung bezogen. <name type="person">Maria</name> selbst legte kurz vor ihrem Ende, wie bereits erwähnt, dort
 					Profeß ab und wurde in dieser ihrer Stiftung beigesetzt.</p>
 				<p>Auch die andere Grazer Neugründung, das Kapuzinerkloster "an der Stiegen", war inzwischen
 					beendet worden, Bischof <index indexName="Personen">
@@ -6059,8 +5829,7 @@
 					Schloßpredigers <index indexName="Personen">
 						<term>Odontius, Paulus</term>
 					</index>
-					<name type="person">Paulus Odontius</name>, der immer noch, im Dienste der <index
-						indexName="Personen">
+					<name type="person">Paulus Odontius</name>, der immer noch, im Dienste der <index indexName="Personen">
 						<term>Windischgrätz, Famile</term>
 					</index>
 					<name type="person">Herren von Windischgrätz</name>, im Lande ausgehalten, mit Gewalt im
@@ -6105,8 +5874,7 @@
 					dringliche Ton der <pb n="145"/> Eingabe, die angedeutete Möglichkeit der
 					Adelsabwanderung, die in Regensburg am Reichstag lautgewordenen Stimmen, man möge die so
 					dringend erbetene Türkenhilfe dem Erzherzog nur nach der Aufhebung der Bedrückungen
-					gewähren, mahnten zum Einlenken. Da war es insbesondere der Bischof <index
-						indexName="Personen">
+					gewähren, mahnten zum Einlenken. Da war es insbesondere der Bischof <index indexName="Personen">
 						<term>Stobäus von Palmburg, Georg</term>
 					</index>
 					<name type="person">Stobäus</name>, der den nun doch schwankend gewordenen Erzherzog zum
@@ -6206,13 +5974,11 @@
 					Versuch des in seinem Gewissen bedrängten Adels, aus friedlichem Wege die Wahrung seiner
 					Glaubensfreiheit zu erlangen, weil seine Treue ihm verbot, sie mit Gewalt
 					durchzusetzen!</p>
-				<p>Die Fürsprache, die der zur Vermählung Ferdinands nach Graz geladene Pfalzgraf <index
-						indexName="Personen">
+				<p>Die Fürsprache, die der zur Vermählung Ferdinands nach Graz geladene Pfalzgraf <index indexName="Personen">
 						<term>Philip Ludwig von der Pfalz</term>
 					</index>
 					<name type="person">Philipp Ludwig</name> einlegte, blieb unwirksam. Nun gingen die
-					niederöster. Stände den Steirern voran, indem sie im Jahre 1603 den Landstand <index
-						indexName="Personen">
+					niederöster. Stände den Steirern voran, indem sie im Jahre 1603 den Landstand <index indexName="Personen">
 						<term>Hofkirchen, Wolf von</term>
 					</index>
 					<name type="person">Wolf von Hofkirchen</name> an 6 deutsche Höfe sandten, um deren
@@ -6235,8 +6001,7 @@
 					Aufnahme, die Fürsten berieten untereinander in streng geheimer Korrespondenz, auf welche
 					Weise beim Kaiser zu interzedieren sei. Man fand, die i.ö. Protestanten seien der
 					Unterstützung wert, "weil sie das Wort Religion nicht bloß im Munde führen, sondern
-					ihretwegen Weib und Kind, Hab und Gut verlassen". Die im Februar 1605 endlich durch <index
-						indexName="Personen">
+					ihretwegen Weib und Kind, Hab und Gut verlassen". Die im Februar 1605 endlich durch <index indexName="Personen">
 						<term>Christian von Sachsen</term>
 					</index>
 					<name type="person">Christian von Sachsen</name> in Prag eingebrachte Interzession blieb
@@ -6267,8 +6032,7 @@
 					Predigern zu erlangen, ablehnte.</p>
 				<p>Die Sprengung des Regensburger Reichstags durch die pfälzische Partei (1608), vor allem
 					aber die von Matthias den ihm nun wertvoll gewordenen Evangelischen Niederösterreichs am
-					19. März 1609 gemachten Zugeständnisse, sowie der am 9. Juli von Kaiser <index
-						indexName="Personen">
+					19. März 1609 gemachten Zugeständnisse, sowie der am 9. Juli von Kaiser <index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
 					<name type="person">Rudolf</name> den Böhmen gewährte Majestätsbrief ermunterten auch in
@@ -6282,8 +6046,7 @@
 						<term>Ferdinand von Innerösterreich</term>
 					</index>
 					<name type="person">Ferdinands</name>. Während er den Ständen versprach, ihre Eingabe zu
-					prüfen, wandte er sich gleichzeitig an seinen Bruder, den Deutschmeister <index
-						indexName="Personen">
+					prüfen, wandte er sich gleichzeitig an seinen Bruder, den Deutschmeister <index indexName="Personen">
 						<term>Maximilian von Tirol</term>
 					</index>
 					<name type="person">Maximilian von Tirol</name>, mit der Bitte um Geld und Truppen, weil
@@ -6328,8 +6091,7 @@
 					Unerhörtes gewesen, auch sie richte sich übrigens nicht gegen die Autorität des
 					Landesfürsten, bei dem sie in Treue auszuharren gedächten. Allein da sie an den Kaiser
 					gerichtet sei, könne man sie nicht zurückberufen.</p>
-				<p>Die Gesandtschaft hatte inzwischen in Wien und Preßburg verhandelt, von <index
-						indexName="Personen">
+				<p>Die Gesandtschaft hatte inzwischen in Wien und Preßburg verhandelt, von <index indexName="Personen">
 						<term>Matthias von Niederösterreich</term>
 					</index>
 					<name type="person">Matthias</name> wohlwollend klingende, aber leere Versicherungen
@@ -6382,8 +6144,7 @@
 					der unkatholischen Eheweiber allein zu einem Schrecken anzubefehlen". An zahlreichen
 					anderen Orten mußte gegen Straffällige verhandelt werden, selbst das Bauerntum zeigte sich
 					noch stark im evangelischen Glauben stehend. Von 1610 bis 1613 zogen Jesuitenmissionen in
-					der Grazer Umgebung, im Unterland, im Enns-, Mur- und Mürztal umher. <name type="person"
-						>Stobäus</name> erklärte 1613: "Welche Mühe und Sorge mir die Reformation während meiner
+					der Grazer Umgebung, im Unterland, im Enns-, Mur- und Mürztal umher. <name type="person">Stobäus</name> erklärte 1613: "Welche Mühe und Sorge mir die Reformation während meiner
 					12 jährigen Statthalterschaft verursacht hat, bezeugen diese meine grauen Haare."</p>
 				<p>Hand in Hand mit diesen Bemühungen galt es die Untüchtigen im römischen Klerus zu
 					entfernen. Eine im April 1610 <pb n="153"/> gehaltene Synode beriet Mittel und Wege, doch
@@ -6397,8 +6158,7 @@
 					Chorherrenstiftes Stainz, <index indexName="Personen">
 						<term>Rosolenz, Jakob</term>
 					</index>
-					<name type="person">Jakob Rosolenz</name>, versuchte sich in der einstigen Rolle <index
-						indexName="Personen">
+					<name type="person">Jakob Rosolenz</name>, versuchte sich in der einstigen Rolle <index indexName="Personen">
 						<term>Muchitsch, Peter</term>
 					</index>
 					<name type="person">Muchitsch</name>’. Unter dem Eindruck der schweren
@@ -6409,8 +6169,7 @@
 					"tyranische, päpstische Verfolgung" erscheinen lassen. <index indexName="Personen">
 						<term>Rosolenz, Jakob</term>
 					</index>
-					<name type="person">Rosolenz</name> fühlte sich im Jahre 1607 bemüßigt, bei <index
-						indexName="Personen">
+					<name type="person">Rosolenz</name> fühlte sich im Jahre 1607 bemüßigt, bei <index indexName="Personen">
 						<term>Widmannstetter, Georg</term>
 					</index>
 					<name type="person">Georg Widmanstetter</name> in Graz einen "gründlichen Gegenbericht" zu
@@ -6437,8 +6196,7 @@
 					Magistrat strengstens aufgetragen werden, den Handwerkern das Singen lutherischer Lieder
 					zu untersagen. Über die Bauernschaft verschiedener Gegenden dauerten die ständigen Klagen
 					bis in die dreißiger Jahre an. Man suchte freilich durch große katholische Demonstrationen
-					Eindruck zu machen. Der Seckauer Propst soll in Anwesenheit des Bischofs <index
-						indexName="Personen">
+					Eindruck zu machen. Der Seckauer Propst soll in Anwesenheit des Bischofs <index indexName="Personen">
 						<term>Eberlein, Jakob</term>
 					</index>
 					<name type="person">Eberlein</name> im Jahre 1619 in Knittelfeld eine
@@ -6456,8 +6214,7 @@
 					<name type="person">Stürgkh</name> empfangen, geküßt und versprochen, es immer bei sich zu
 					tragen und die Mutter Gottes nie zu vergessen.</p>
 				<p>Am böhmischen Aufstand beteiligten sich die i.ö. Stände nicht und enttäuschten damit die
-					sowohl von den Böhmen als auch von dem Haupt der evangelischen Union im Reiche <index
-						indexName="Personen">
+					sowohl von den Böhmen als auch von dem Haupt der evangelischen Union im Reiche <index indexName="Personen">
 						<term>Christian von Anhalt</term>
 					</index>
 					<name type="person">Christian von Anhalt</name> in sie gesetzten Hoffnungen. Übrigens gab
@@ -6482,8 +6239,7 @@
 					dem abgöttischen verdammten Papsttum zu verbleiben durch gezwungene Eide (die Gott im
 					Himmel leid seien) aufgeladen hätte" usw.</p>
 				<p>Noch einmal suchte der Anhalter 1620 die i.ö. Stände zu bewegen, sich der Konföderation
-					gegen das Haus Habsburg anzuschließen und wenn, wie er vorhatte, <index
-						indexName="Personen">
+					gegen das Haus Habsburg anzuschließen und wenn, wie er vorhatte, <index indexName="Personen">
 						<term>Gabor, Bethlen</term>
 					</index>
 					<name type="person">Bethlen Gabor</name> den Kaiser angreifen sollte, ihm den Eintritt in
@@ -6500,8 +6256,7 @@
 					bisher geübten Patronatsrechte ein, am 5. Februar 1626 wurde ihnen im Gegensatz zu allen
 					einst <pb n="156"/> gegebenen Zusagen erklärt, daß auch sie von der Religionsreformation
 					nicht exempt seien. Tatsächlich waren ja wegen der Beteiligung einiger ihrer
-					Familienangehörigen am böhmischen Aufstand schon im Vorjahr die <index
-						indexName="Personen">
+					Familienangehörigen am böhmischen Aufstand schon im Vorjahr die <index indexName="Personen">
 						<term>Hoffmann, Geschlecht</term>
 					</index>
 					<name type="person">Hoffmanns</name> aus dem Lande gewiesen und ihrer steirischen Erbämter
@@ -6509,8 +6264,7 @@
 				<p>Mittlerweile gab sich der Bischof <index indexName="Personen">
 						<term>Eberlein, Jakob</term>
 					</index>
-					<name type="person">Jakob Eberlein</name>, ein Neffe und der Nachfolger <index
-						indexName="Personen">
+					<name type="person">Jakob Eberlein</name>, ein Neffe und der Nachfolger <index indexName="Personen">
 						<term>Brenner, Martin</term>
 					</index>
 					<name type="person">Brenners</name>, alle Mühe, im Klerus Ordnung und Zucht zu befestigen.
@@ -6532,8 +6286,7 @@
 					Universitäten studierenden Adelssöhne sofort heimzuberufen und kein evangelisches Kind
 					mehr außer Landes zu schicken. Am 28. Mai wurde die Aufstellung einer Liste der im Ausland
 					befindlichen Kinder anbefohlen.</p>
-				<p>Drakonisch waren die Strafen für etwaige Verstöße. Im Juni 1627 wurde Herr <index
-						indexName="Personen">
+				<p>Drakonisch waren die Strafen für etwaige Verstöße. Im Juni 1627 wurde Herr <index indexName="Personen">
 						<term>Eibiswald, Paul von</term>
 					</index>
 					<name type="person">Paul von Eibiswald</name> mit 12 000 fl.bestraft, weil er zu einem
@@ -6609,13 +6362,11 @@
 					und Abrechnung zu geben hätten. Das Zureisen und der Aufenthalt in irgendeinem Orte
 					Österreichs wurde an eine von Fall zu Fall zu erbittende eigene Regierungsbewilligung
 					gebunden.</p>
-				<p>Mit der Durchführung dieser entscheidenden Verordnung wurde der Reichsfürst <index
-						indexName="Personen">
+				<p>Mit der Durchführung dieser entscheidenden Verordnung wurde der Reichsfürst <index indexName="Personen">
 						<term>Eggenberg, Hans Ulrich von</term>
 					</index>
 					<name type="person">Hans Ulrich von Eggenberg</name> betraut. Er erhielt als wahrhaft
-					kaiserliches Geschenk die durch den Tod des natürlichen Sohnes Kaiser <index
-						indexName="Personen">
+					kaiserliches Geschenk die durch den Tod des natürlichen Sohnes Kaiser <index indexName="Personen">
 						<term>Rudolf, Kaiser</term>
 					</index>
 					<name type="person">Rudolfs</name>, <index indexName="Personen">
@@ -6627,8 +6378,7 @@
 						<term>Liechtenstein, Karl von</term>
 					</index>
 					<name type="person">Karl von Liechtenstein</name> übernommen hatte; trotz seiner Allmacht
-					konnte er allerdings das seiner Schwiegertochter, der protestantischen Prinzessin <index
-						indexName="Personen">
+					konnte er allerdings das seiner Schwiegertochter, der protestantischen Prinzessin <index indexName="Personen">
 						<term>Anna Maria von Brandenburg</term>
 					</index>
 					<name type="person">Anna Maria von Brandenburg</name>, gegebene Versprechen der freien
@@ -6706,16 +6456,14 @@
 						sind die des Emigranten <index indexName="Personen">
 							<term>Sötzinger</term>
 						</index>
-						<name type="person">Sötzinger</name> und des Nürnberger Predigers <index
-							indexName="Personen">
+						<name type="person">Sötzinger</name> und des Nürnberger Predigers <index indexName="Personen">
 							<term>Saubert</term>
 						</index>
 						<name type="person">Saubert</name>.</note>, die zwar nicht völlig miteinander
 					übereinstimmen, aber doch zusammen eine ziemlich lückenlose Liste vermitteln.</p>
 				<p>Nur verhältnismäßig wenige hatten ihren Wiederanschluß an die Romkirche vollzogen, um in
 					der Heimat bleiben zu dürfen. Sie mußten sich ihren Pfarrern zur Beichte stellen. Das im
-					November 1629 von diesen eingeforderte Verzeichnis legte Bischof <index
-						indexName="Personen">
+					November 1629 von diesen eingeforderte Verzeichnis legte Bischof <index indexName="Personen">
 						<term>Eberlein, Jakob</term>
 					</index>
 					<name type="person">Eberlein</name> am 16. Juni 1630 dem Salzburger Erzbischof vor.</p>
@@ -6745,8 +6493,7 @@
 					<name type="person">Sauraus</name> und <index indexName="Personen">
 						<term>Schaffmann, Geschlecht</term>
 					</index>
-					<name type="person">Schaffmanns</name>. Selbst der Landeshauptmann <index
-						indexName="Personen">
+					<name type="person">Schaffmanns</name>. Selbst der Landeshauptmann <index indexName="Personen">
 						<term>Saurau, Karl von</term>
 					</index>
 					<name type="person">Karl von Saurau</name> mußte sich im gleichen Jahre durch die
@@ -6809,8 +6556,7 @@
 					</index>
 					<name type="person">Praunfalkhs</name>, deren Familienbibel mit der dort eingetragenen
 					Chronik ein Bild adeligen und edlen Exulantenlebens gibt.</p>
-				<p>Von Not und Armut aber zeugen die vor Jahren veröffentlichten Briefe der Freiin <index
-						indexName="Personen">
+				<p>Von Not und Armut aber zeugen die vor Jahren veröffentlichten Briefe der Freiin <index indexName="Personen">
 						<term>Prankh, Cordula von</term>
 					</index>
 					<name type="person">Cordula von Prankh</name>. Sehnsucht nach der Heimat, nach der
@@ -6830,8 +6576,7 @@
 						<index indexName="Personen">
 						<term>Stubenberg, Geschlecht</term>
 					</index>
-					<name type="person">Stubenberg</name> stellte zwei Dichter im Stile der Zeit, <index
-						indexName="Personen">
+					<name type="person">Stubenberg</name> stellte zwei Dichter im Stile der Zeit, <index indexName="Personen">
 						<term>Stubenberg, Georg August von</term>
 					</index>
 					<name type="person">Georg Augustin</name> und <index indexName="Personen">
@@ -6874,8 +6619,7 @@
 					auch das evangelische Bekenntnis zu bewahren.</p>
 				<p>Die treuen Bergbauern, die, ohne Pfarrer und Lehrer, durch 180 Jahre, äußerlich scheinbar
 					katholisch, im Herzen evangelisch, ein gefährliches Doppelleben führend, ihren
-					Lutherglauben vererbten, legten den Grund für den nach dem Toleranzpatent Kaiser <index
-						indexName="Personen">
+					Lutherglauben vererbten, legten den Grund für den nach dem Toleranzpatent Kaiser <index indexName="Personen">
 						<term>Joseph, Kaiser</term>
 					</index>
 					<name type="person">Josephs</name> (1781) allmählich erfolgten Wiederaufbau des

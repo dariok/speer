@@ -7,11 +7,13 @@
   Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 :: Elektronische Edition Speer 2010 / 2016</title>
          </titleStmt>
          <publicationStmt>
-            <editor>Heino Speer</editor>
-            <publisher>
-               <ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
-            </publisher>
-         </publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
          <sourceDesc>
             <p>Quelle: Johannes Bartmann, Das Gerichtsverfahren vor und nach der Münsterischen Landgerichtsordnung von 1571 und die Aufnahme des römischen Rechts im Stifte Münster (Heidelberg 1908, Carl Winter's Universitätsbuchhandlung) = Deutschrechtliche Beiträge. Forschungen und Quellen zur Geschichte des Deutschen Rechts.  Herausgegeben von Dr. Konrad Beyerle, ord. Professor an der Universität Göttingen, Band II,  Heft 3.<lb/>Mit einem OCR-Programm als Text erfasst und mit Markup nach TEI-XML versehen, korrigiert und hypertextualisiert. <lb/>Heino Speer 2010 / 2016.</p>
          </sourceDesc>

@@ -5,10 +5,12 @@
         <title>Wien Stadtrechtsprivileg 1340 (Tomaschek / Csendes) :: Transkription Speer 2014 / 2016</title>
       </titleStmt>
     <publicationStmt>
-                <editor>Heino Speer</editor>
                 <publisher>
-                    <ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
                 </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
             </publicationStmt>
             <sourceDesc>
                 <p>TODO: Quelle eintragen</p>

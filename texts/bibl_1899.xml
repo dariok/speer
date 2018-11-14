@@ -6,8 +6,11 @@
             </titleStmt>
         <publicationStmt>
                 <publisher>
-                    <ref target="http://repertorium.at">Heino Speer</ref>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
                 </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
             </publicationStmt>
             <sourceDesc>
                 <p>Sonderdruck aus dem Archiv für österreichische Geschichte (Bd. LXXXVII, I. Hälfte, S. 113) separat abgedruckt. In Commission bei Carl Gerold's Sohn Wien</p>

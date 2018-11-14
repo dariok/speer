@@ -9,8 +9,11 @@
                 <p>G. Klingenstein, H. Lutz, G. Stourzh (Hg.), Bildung, Politik und Gesellschaft. Studien zur Geschichte des europäischen Bildungswesens vom 16. bis zum 20. Jahrhundert (= Wiener Beiträge zur Geschichte der Neuzeit 5, Wien-München 1978) 13-63</p>
             </sourceDesc>  <publicationStmt>
                 <publisher>
-                    <ref target="http://www.hab.de">Herzog August Bibliothek</ref>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
                 </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
             </publicationStmt>
         </fileDesc>
         <revisionDesc>

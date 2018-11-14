@@ -5,11 +5,14 @@
 				<title> Erich Denk, Die Appellationsvorschriften der Bayerischen Gerichtsordnung von 1520 [Digitale Edition nach der Druckfassung von 1977]</title> 
 				<author> Dr. Erich Denk</author> 
 			</titleStmt> 
-<publicationStmt> 
-<publisher> 
- <ref target="http://repertorium.at">Repertorium digitaler Quellen zur österreichischen und deutschen Rechtsgeschichte in der Frühen Neuzeit</ref> 
- </publisher> 
- </publicationStmt> 
+<publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt> 
  <sourceDesc> 
      <p>Dr. Erich Denk, Die Appellationsvorschriften der bayerischen Gerichtsordnung von 1520 (Diss. iur. München 1977)</p> 
  </sourceDesc> 

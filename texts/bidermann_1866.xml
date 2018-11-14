@@ -5,11 +5,13 @@
                 <title>H. J. Bidermann, Geschichte der landesfürstlichen Behörden in und für Tirol von 1490-1749 (1866) :: Transkription Speer November 2013</title>
             </titleStmt> 
 <publicationStmt>
-<authority>Heino Speer</authority>
- <publisher>
-                    <ref target="http://repertorium.at">Heino Speer</ref>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
                 </publisher>
-</publicationStmt>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
 <sourceDesc>
                 <bibl>Archiv für Geschichte und Alterthumskunde Tirols ; 3. 1866 - Seite 323 - 352</bibl>
             </sourceDesc>

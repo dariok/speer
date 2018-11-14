@@ -5,10 +5,13 @@
  <title>Hermann Baltl, Einflüsse des römischen Rechts in Österreich :: Transkription und Verlinkung Speer 2014</title>
  </titleStmt>
  <publicationStmt>
- <publisher>
- <ref target="http://www.repertorium.at">Heino Speer</ref>
- </publisher>
- </publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
+            </publicationStmt>
  <sourceDesc>
  <p>TODO: Quelle eintragen</p>
  </sourceDesc>

@@ -8,6 +8,9 @@
                 <publisher>
                     <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
                 </publisher>
+                <distributor>
+                    <ref target="http://acdh.oeaw.ac.at">Austrian Centre for Digital Humanites, Österreichische Akademie der Wissenschaften, Wien</ref>
+                </distributor>
             </publicationStmt>
             <sourceDesc>
                 <p>Carinthia I 139 (1949) S. 331-359</p>
