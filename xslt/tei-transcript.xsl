@@ -123,7 +123,8 @@
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
-			<xsl:apply-templates select="@n | @xml:id" />
+			<xsl:apply-templates select="@xml:id" />
+			<xsl:value-of select="@n"/>
 		</a>
 	</xsl:template>
 	
