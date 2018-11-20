@@ -159,7 +159,10 @@
 	</xsl:template>
 	
 	<xsl:template match="tei:ref[@target]">
-		<a target="_blank">
+		<a>
+			<xsl:if test="not(starts-with(@target, '#'))">
+				<xsl:attribute name="target">_blank</xsl:attribute>
+			</xsl:if>
 			<xsl:attribute name="href">
 				<xsl:choose>
 					<xsl:when test="starts-with(@target, 'ln:')">
