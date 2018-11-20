@@ -1,12 +1,11 @@
 xquery version "3.0";
 
-module namespace habq = "http://diglib.hab.de/ns/habq";
+module namespace wdbq = "https://github.com/dariok/wdbplus/wdbq";
 
 declare namespace tei				= "http://www.tei-c.org/ns/1.0";
-import module namespace hab = "http://diglib.hab.de/ns/hab" at "/db/apps/wdb/modules/app.xql";
 
 
-declare function habq:query() {
+declare function wdbq:query($map) {
 	let $ed := collection('/db/edoc/ed000245')
 	let $what := request:get-parameter('q', '')
 	
@@ -30,8 +29,9 @@ declare function habq:query() {
 								let $f := base-uri($m)
 								group by $f
 								let $id := $m/ancestor::tei:TEI/@xml:id
+								let $link := "view.html?id=" || $id
 								
-								return <a style="display: inline-block;" href="{concat($hab:edocBase, '/view.html?id=', $id)}">{$f}</a>
+								return <a style="display: inline-block;" href="{$link}">{$f}</a>
 							}</td>
 						</tr>
 				}
@@ -39,7 +39,7 @@ declare function habq:query() {
 		</div>
 };
 
-declare function habq:getTask() {
+declare function wdbq:getTask() {
 	let $what := request:get-parameter('q', '')
 	
 	return <h2>{
