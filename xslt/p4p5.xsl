@@ -112,20 +112,20 @@
 			<xsl:when test="contains(., 'Seite')
 				and not(following-sibling::*[1][self::*:pb])">
 				<!-- Seite und ein Leerzeichen: Seitenumbruch -->
+				<xsl:variable name="num">
+					<xsl:choose>
+						<xsl:when test="contains(., ']')">
+							<xsl:value-of select="substring-before(substring-after(., ' '), ']')"/>
+						</xsl:when>
+						<xsl:otherwise>
+							<xsl:value-of select="substring-after(., ' ')"/>
+						</xsl:otherwise>
+					</xsl:choose>
+				</xsl:variable>
 				<pb>
-					<xsl:attribute name="facs">
-						<xsl:value-of select="@url"/>
-					</xsl:attribute>
-					<xsl:attribute name="n">
-						<xsl:choose>
-							<xsl:when test="contains(., ']')">
-								<xsl:value-of select="substring-before(substring-after(., ' '), ']')"/>
-							</xsl:when>
-							<xsl:otherwise>
-								<xsl:value-of select="substring-after(., ' ')"/>
-							</xsl:otherwise>
-						</xsl:choose>
-					</xsl:attribute>
+					<xsl:attribute name="facs" select="@url"/>
+					<xsl:attribute name="n" select="$num" />
+					<xsl:attribute name="xml:id" select="'pag'||$num" />
 				</pb>
 			</xsl:when>
 			<xsl:otherwise>
@@ -192,8 +192,8 @@
 			<xsl:if test="not(@id)">
 				<xsl:attribute name="xml:id">
 					<xsl:choose>
-						<xsl:when test="@n">p<xsl:value-of select="@n"/></xsl:when>
-						<xsl:otherwise>p<xsl:number /></xsl:otherwise>
+						<xsl:when test="@n">pag<xsl:value-of select="replace(translate(@n, ' ', ''), 'S\.', '')"/></xsl:when>
+						<xsl:otherwise>pag<xsl:number /></xsl:otherwise>
 					</xsl:choose>
 				</xsl:attribute>
 			</xsl:if>
