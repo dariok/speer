@@ -32,9 +32,13 @@ let $filename := if (request:get-uploaded-file-name('file'))
 			let $resultData := try {
 				transform:transform($oFDW/*:TEI.2, $xslt, $params, $attr, "expand-xincludes=no") }
 				catch * { '<ul><li> ' || $err:code || ": " || $err:description || '</li>' || "\n " || $err:line-number || ':' || $err:column-number || "\n a:" || $err:additional }
-				
+			
+			let $storeData := if($resultData/tei:TEI)
+				then $resultData/tei:TEI
+				else $resultData
+			
 			let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
-			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $resultData)
+			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $storeData)
 			let $perm := sm:chown($store, 'repertorium:repertorium')
 			let $mod := sm:chmod($store, 'rw-rw-r--')
 			let $id := $resultData/@xml:id
