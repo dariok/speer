@@ -38,7 +38,7 @@ let $filename := if (request:get-uploaded-file-name('file'))
 				else $resultData
 			
 			let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
-			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $storeData)
+			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $storeData[self::tei:TEI])
 			let $perm := sm:chown($store, 'repertorium:repertorium')
 			let $mod := sm:chmod($store, 'rw-rw-r--')
 			let $id := $resultData/@xml:id
