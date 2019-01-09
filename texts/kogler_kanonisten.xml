@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_ed000245_kogler_kanonisten">
+    <teiHeader>
+      <fileDesc>
+            <titleStmt>
+                <title>Kogler, Ferdinand: I. Exkurs. Aus: Ferdinand Kogler, Die legitimatio per rescriptum von Justinian bis zum Tode Karls IV. (Weimar 1904) S. 110-115</title> 
+         </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://repertorium.at">Heino Speer :: Repertorium</ref>
+                </publisher>
+                <distributor>
+                    <ref target="http://www.oeaw.ac.at/acdh">ACDH/ÖAW</ref>
+                </distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TODO: Quelle eintragen</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="draft">
+            <change when="2019-01-09Z" who="p4p5.xsl">Automatic transcoding TEI P4 → P5 by p4p5.xsl. </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="E.1">
+<p>
+                    <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n125" n="110" xml:id="pag110"/>
+                </p>
+<head>I. Exkurs. Die Stellung der vornehmsten Kanonisten des 13. ln:md, 15. Jahrhunderts zum päpstlichen Legitimationsrecht in temporalibus.</head> 
+<p>Wie schon erwähnt, wurde von den Kanonisten das Legitimationsrecht des Papstes quoad temporalia nur im Patrimonium Petri, in dem der Papst die höchste weltliche Gewalt mit der höchsten kirchlichen vereinte, unwidersprochen und allgemein anerkannt. Die Frage aber, ob dem Papste als Oberhaupt der Kirche auch außerhalb des Patrimonium Petri ein Legitimationsrecht in temporalibus zustehe, wurde verschieden beantwortet.</p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Tancredus">Tancred</persName>, einer der berühmtesten Juristen des 13. Jahrhunderts<note n="N.110.1">Darüber <ref target="ln:schulte_1,209.html">Schulte, Geschichte der Quellen und Literatur des kanon. Rechtes I S. 199 f.</ref>
+                    </note>, erwähnt in seiner in den ersten Jahren des 2. Jahrzehnts entstandenen summa de matrimonio<note n="N.110.2">
+                        <ref target="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10546975_00148.html">Hg. von Wunderlich, Göttingen 1841 Titel 38</ref>.</note> die legitimatio per specialem indulgentiam papae nur, ohne sich näher darüber zu äußern. Aber aus dem Zeugnis des <persName ref="http://repertorium.at/rhn/personen_rhn.html#Hostiensis">Henricus Hostiensis</persName> wissen wir, daß Tancred ebenso wie die gleichzeitigen Bologneser Dekretisten <persName ref="https://de.wikipedia.org/wiki/Laurentius_Hispanus">Laurentius Hispanus</persName> und <persName ref="https://www-app.uni-regensburg.de/Fakultaeten/PKGG/Philosophie/Gesch_Phil/alcuin/philosopher.php?id=5151">Vincentius Hispanus</persName>
+                    <note n="N.110.3">
+                        <ref target="ln:schulte_1,200.html">Schulte a. a.O. S. 190 f.</ref>
+                    </note> lehrten, daß der Papst quoad hereditatem temporalem nur im Patrimonium Petri dispensieren könne.<note n="N.110.4">
+                        <ref target="http://repertorium.at/ns/liber_extra.html#X.4.17">Henrici Hostiensis aurea summa zu rubr. X, IV, 17</ref> (qui filii sint legitimi): Dicit tamen Vincentius, Laurentius et Tancredus, quod papa non potest legitimare quoad hereditatem temporalem nisi in patrimonio b. Petri.</note>
+                </p> 
+  <p>Diesen gegenüber vertrat ein Kanonist <persName ref="">Johannes</persName>
+                    <note n="N.110.5">
+                        <ref target="http://repertorium.at/ns/liber_extra.html#X.4.17">Henricus Hostiensis a.a.O.</ref>: Johannes dicit, quod hoc verum est directe, sed indirecte hoc potest sive per consequentiam, quia eo ipso, quod aliquem legitimat quoad spirituales actus, videtur per consequens legitimatus quoad temporales, nam si maiora conceduntur ergo et minora.</note> in Anlehnung an die Dekretale per venerabilem die Anschauung, <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n126" n="111" xml:id="pag111"/> daß der Papst außerhalb seines weltlichen Territoriums direkt allerdings nicht für das weltliche Gebiet legitimieren könne, wohl aber indirecte sive per consequentiam, indem nämlich ein quoad spirituales actus Legitimierter dadurch per consequens von selbst auch für die weltliche Rechtssphäre legitimiert erscheint.</p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Goffredus de Trano">Goffredus de Trano</persName>
+                    <note n="N.111.1">
+                        <ref target="ln:schulte_2,088.html">Schulte a. a. O. II S. 88 f.</ref>
+                    </note> kommt in seiner 1241 ln:md, 1243 geschriebenen <ref target="https://books.google.com/books?id=ArNRAAAAcAAJ">summa super titulis decretalium</ref>
+                    <note n="N.111.2">Ich benützte die Ausgabe <ref>Brixiae 1605</ref> [Link geht auf die Ausgabe Venedig 1570. H.S.].</note> ebenfalls zum Ergebnis, daß der vom Papst in spiritualibus Legitimierte von selbst per consequentiam quandam auch ad temporalia legitimiert sei.<note n="N.111.3">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">rubr. X, IV, 17</ref> (qui filii sint legitimi): Sed cum per superiores modos (= weltliche Legitimationsarten) legitimati admittantur ad actus legitimos et successionem, numquid legitimatus a  papa admittatur ad praedicta? Ad hoc dixerunt quidam, quod papa non habet potestatem legitimandi quoad actus seculares et successionem, sed eo ipso, quod quis legitimatur ab eo in spiritualibus, legitimari videtur in temporalibus, ne sit absurdum, quod legitimatus ad spiritualia illegitimatus ad temporalia censeatur. ... Is igitur quem papa legitimat, intelligitur legitimatus ad temporalia per consequentiam quandam.</note>
+                </p> 
+  <p>
+                    <persName ref="ln:wp,Innozenz IV.">Papst Innozenz IV.</persName>
+                    <note n="N.111.4">
+                        <ref target="ln:schulte_2,091.html">Schulte a. a. O. II S. 91 ff.</ref>
+                    </note> vertritt in seinem bald nach dem Konzil von Konstanz (1245) entstandenen <ref target="http://daten.digitale-sammlungen.de/~db/0005/bsb00054195/images/">apparatus in V libros decretalium</ref>
+                    <note n="N.111.5">Mir stand die Ausgabe s. l. 1543 zur Verfügung. [Der Link geht auf die Ausgabe Venedig 1491. H.S.]</note> den Gedanken, daß jemand nur zu solchen Akten legitimieren könne, worüber ihm die Gerichtsbarkeit zustehe. So könne der Papst wohl legitimieren quoad actus legitimos, scilicet quod (legitimatus) possit esse iudex et testis, nicht aber in hereditate paterna, weil diese seiner Jurisdiktion entzogen sei. Umgekehrt könne auch der iudex saecularis nicht ad ordines legitimieren, quia promoveri ad ordines non est de iurisdictione laici iudicis.<note n="N.111.6">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">c. 13 X, IV, 17</ref> (qui filii sint legitimi).</note>
+                </p> 
+  <p>Da Innozenz bei Vakanz des deutschen Thrones die Kaisergewalt auf den Papst übergehen läßt<note n="N.111.7">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.2.10">c. 10 X, II, 2</ref>. Vgl. oben <ref target="https://archive.org/details/dielegitimatiop00koglgoog/page/n25">S. 25 Anm. 1</ref>.</note>, so müßte er folgerichtig in kaiserloser Zeit dem Papst volle Legitimationsbefugnis auch in temporalibus im Reiche zusprechen. <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n127" n="112" xml:id="pag112"/>
+                </p>
+  <p>Kardinal <persName ref="https://de.wikipedia.org/wiki/Henricus_de_Segusio">Henricus Hostiensis</persName>
+                    <note n="N.112.1">
+                        <ref target="ln:schulte_2,123.html">Schulte a. a. O. II, 123 f.</ref>
+                    </note>, der kurz nach der Mitte des 13. Jahrhunderts seine <ref target="http://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ160987709">aurea summa</ref> zu den Dekretalen<note n="N.112.2">Ich benützte die Ausgabe <ref>Köln 1612</ref> [Der Link geht auf die Ausgabe Basel 1573. H.S.].</note> schrieb, sprach dem Papst nicht nur allüberall volle Legitimationsbefugnis quoad spiritualia und quoad temporalia zu, sondern ging noch viel weiter. Er sah das Legitimationsrecht als ein ius spirituale annexum an, als ein dependens matrimonio, und folgerte demgemäß, daß ebenso wie die Ehegerichtsbarkeit so auch die Legitimation nur dem Papste allein zustehen könne. Die Legitimation seitens des Kaisers sei keine wahre Legitimation, sondern nur ein admittere ad hereditatem: Salva reverentia aliorum mihi videtur, dominum papam habere potestatem legitimandi quoad spiritualia et temporalia et ipsum solum ..., cum enim causa matrimonialis spiritualiter pertineat ad ecclesiam adeo, quod securaris iudex de ipsa cognoscere non potest, etiamsi inciderit nec de legitima filiatione ..., cui denegatur cognitio, multo fortis dispensatio ..., dicas tamen, quod imperator legitimat, id est tamquam illegitimum etiam spurium ad hereditatem suam admittere potest et etiam in hoc potest cum filio suo proprio, non tamquam cum filio, sed tamquam subdito dispensare ..., sed papa vere legitimat et illegitimat.<note n="N.112.3">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">rubr. X, IV, 17</ref> (qui filii sint legitimi).</note>
+                </p> 
+  <p>Wir haben die Worte des Hostiensis, daß die kaiserliche Legitimation nur in einem "admittere ad hereditatem" bestehe, allerdings nicht ganz wörtlich zu nehmen. Nicht nur in einem Zulassen zum Erbrecht sollte nach seiner Meinung die kaiserliche Legitimation sich erschöpfen, sondern wohl überhaupt auf die temporalia sich erstrecken, nur den Makel der Unehelichkeit könne der Kaiser nicht nehmen. <persName ref="http://repertorium.at/rhn/personen_rhn.html#Baldus de Ubaldis">Baldus</persName>
+                    <note n="N.112.4">
+                        <ref>Consilia IV, 19</ref>.</note> faßt die Ansicht des Hostiensis dahin zusammen, quod Imperator non legitimat vere et proprio, sed improprie et quoad quid, scilicet quoad ius succedendi et quoad honores et cetera temporalia, quae princeps conferre potest.</p> 
+<p>Hostiensis hat eigentlich nur den Grundgedanken <persName ref="ln:wp,Innozenz_IV.">Innozenz IV.</persName> aufgegriffen, daß jemand dispensieren und legitimieren nur in solchen Punkten könne, in welchen ihm die Gerichtsbarkeit zustehe. Während aber Innozenz daraus <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n128" n="113" xml:id="pag113"/> folgert, daß der Papst ad hereditatem secularem nicht legitimieren könne, schließt Hostiensis, da er eben das Legitimationsrecht als ein ius spirituale annexum ansieht, daß in Wirklichkeit in spiritualibus und temporalibus überhaupt nur der Papst allein dispensieren könne.</p> 
+<p>Die späteren Schriftsteller fußen fast sämtlich auf Innozenz IV. oder auf Hostiensis.</p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Bernardus%20de%20Montemirato">Abbas Antiquus</persName>
+                    <note n="N.113.1">
+                        <ref target="ln:schulte_2,130.html">Schulte II, 130 f.</ref>
+                    </note>, der in der zweiten Hälfte des 13. Jahrhunderts schrieb, faßte nach dem Zeugnisse des <persName ref="http://repertorium.at/rhn/personen_rhn.html#Johannes Andreae">Johannes Andreä</persName>
+                    <note n="N.113.2">
+                        <ref>Novella in decretales Gregorii IX. commentaria</ref>. Zu <ref target="http://daten.digitale-sammlungen.de/bsb00018164/image_389">c. 13 X, IV, 17</ref>.</note> seine Ansicht in folgendem kurzen Satz zusammen: papa non legitimat in temporalibus alienae iuris dictionis subditos.</p> 
+  <p>
+                    <persName ref="ln:wp,Wilhelm_Durantis">Wilhelm Durantis</persName>
+                    <note n="N.113.3">
+                        <ref target="ln:schulte_2,144.html">Schulte II, 144 f.</ref>
+                    </note> schließt sich in seinem in der zweiten Hälfte des 13. Jahrhunderts entstandenen <ref target="ln:durantis_1592,">speculum iuris</ref>
+                    <note n="N113.4">Mir stand <ref>die Ausgabe Frankfurt 1612</ref> zur Verfügung.</note> so enge an Innozenz an, daß er sogar dessen Ausführungen wörtlich übernimmt.<note n="N.113.5">
+                        <ref target="http://daten.digitale-sammlungen.de/bsb00087946/image_147">Speculum lib. I particula I § 10</ref>. Seine Auffassung tritt ebenso <ref target="http://daten.digitale-sammlungen.de/bsb00087948/image_384">lib. IV particula 3 Nr. 21</ref> (de successionibus ab intestato) zutage.</note>
+                </p> 
+  <p>
+                    <persName ref="ln:wp,Johannes_Andreae">Johannes Andreae</persName>
+                    <note n="N.113.6">
+                        <ref target="ln:schulte_2,205.html">Schulte II, 205 f.</ref>
+                    </note> († 1348) widerlegt in seiner <ref>Novella in decretales Gregorii IX. commentaria</ref>
+                    <note n="N.113.7">Mir stand die <ref>Ausgabe Venedig 1581</ref> zu Gebote.</note> den Satz, der uns seit Beginn des päpstlichen Legitimationsrechtes in verschiedenen Wendungen immer wieder begegnet und aus welchem man das päpstliche Legitimationsrecht abgeleitet hat, nämlich quod quis potest in maiori, multo magis potest in minori, mit dem klassischen Einwurf: hoc tamen non semper sequitur, nam potest quis interdum equum dare magni valoris, qui capram modicae aestimationis dare non posset, item multi possunt maiora, qui minora non possunt iure consuetudinario vel privilegio repugnante.<note n="N.113.8">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">c. 13 X, IV, 17</ref>.</note> In der Folge schließt er sich der Ansicht des Hostiensis an, daß der Papst, und zwar er allein, ein eigentliches und unmittelbares Legitimationsrecht habe: Dicas, quod solus papa habet potestatem legitimandi non solum per quandam oonsequentiam ...., sed et proprie et immediate ita, quod alius nullus hanc potestatem habet.<note n="N.113.8a">Zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">c. 13 X, IV, 17</ref>.</note> Die Kaiser legitimieren zwar auch <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n129" n="114" xml:id="pag114"/> nach ihren Gesetzen, dieses Legitimieren erklärt er aber dahin: id est: illegitimos, ac si essent legitimi, ad honores, haereditates et actus temporales admittunt, quod possunt.</p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Bartolus de Saxoferrato">Bartolus de Saxoferrato</persName>
+                    <note n="N.114.1">
+                        <ref target="ln:savigny_ma_6,">Savigny VI, 137 f.</ref>
+                    </note> († 1357) folgte der Lehre Innozenz IV.<note n="N.114.2">
+                        <ref target="http://daten.digitale-sammlungen.de/~db/0004/bsb00041337/images/">Super Autenticis</ref>. Zu <ref target="https://droitromain.univ-grenoble-alpes.fr/Corpus/Nov89.htm">Nov. 89 (collat. VII tit. 1)</ref>: Quaero, an legitimatus per papam videtur legitimus quoad actus seculares et quoad successionem. Dic ut notatur per Ber(nardum) et Innocencium in cap. "per venerabilem" etc. (= <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">c. 13 X, 17</ref>).</note> und ebenso schließt sich <persName ref="https://de.wikipedia.org/wiki/Petrus_de_Ancharano">Petrus de Ancharano</persName>
+                    <note n="N.114.3">
+                        <ref target="ln:schulte_2,278.html">Schulte II, 278 f.</ref>
+                    </note> († 1416) derselben an.<note n="N.114.4">
+                        <ref target="https://books.google.com/books?id=jQVHAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">Consilia (Ausgabe s. l. 1532) Nr. 320</ref>: ... Postremo in casu e converso videlicet utrum papa possit legitimare quoad temporalia in terris imperii. Hac tenet quod non, ut in dictum caput "per venerabilem" et expressius ibidem Innocentius ...</note>
+                </p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Baldus de Ubaldis">Baldus de Ubaldis</persName>
+                    <note n="N.114.5">
+                        <ref target="ln:schulte_2,275.html">Schulte II, 275 f.</ref> <ref target="ln:savigny_ma_6,">Savigny VI, 208 f.</ref>
+                    </note>, der in der zweiten Hälfte des 14. Jahrhunderts schrieb, erkennt sowohl in seinem Kommentar zum Codex Justinianus<note n="N.114.6">Zu <ref>lex 3 1, 19</ref>: De papa aliquid dicam, qui est maior imperatore ... papa legitimat in temporalibus ...</note> als auch in seinen Consilia<note n="N.114.7">
+                        <ref>Consilia pars IV, consilium 19</ref>. Ich benützte die <ref>Ausgabe Frankfurt a. M. 1589</ref>.</note> das Legitimationsrecht des Papstes in temporalibus an. Aber gegen die Ausfuhrungen des Hostiensis und Johannes Andreae, daß der Papst ein alleiniges und ausschließliches Recht zu legitimieren hätte, nimmt er entschieden Stellung<note n="N.114.7a">[<ref target="#N.114.7">= Anm. 7.</ref>]</note>, wie wir bei Besprechung der legitimatio per rescriptum principis gesehen haben.<note n="N.114.8">
+                        <ref target="https://archive.org/details/dielegitimatiop00koglgoog/page/n73">S. 58f.</ref>
+                    </note>
+                </p> 
+  <p>
+                    <persName ref="http://repertorium.at/rhn/personen_rhn.html#Panormitanus">Panormitanus</persName>
+                    <note n="N.114.9">
+                        <ref target="ln:schulte_2,312.html">Schulte II S. 312 f.</ref>
+                    </note>, der große Jurist aus der ersten Hälfte des 15. Jahrhunderts († 1453), nennt dieses Kapitel des corpus iuris canonici (<ref target="http://repertorium.at/ns/liber_extra.html#X.4.17">c. 13. X, IV, 17</ref>) ein caput difficile et multum famosum und präzisiert seine Ansicht folgendermaßen: In terris ecclesiae papa potest libere illegitimos legitimare, in terris vero alienis non, nisi ex causis multum arduis vel nisi in spiritualibus; tunc tamen indirecte et per quandam consequentiam intelligitur legitimare etiam quoad temporalia. Hoc tamen ultimum non est sine scrupulo.<note n="N.114.10">
+                        <ref>Commentaria (od. lectura) ad decretales (Ausgabe Lugduni 1559)</ref> zu <ref target="http://repertorium.at/ns/concord_liber_extra.html#X.4.17">c. 13 X, IV, 17</ref>.</note>
+                </p> 
+<p>Dieses Diktum des Panormitanus ist seither ständiges Summarium zur <ref>Dekretale "per venerabilem"</ref> geworden. <pb facs="https://archive.org/details/dielegitimatiop00koglgoog/page/n130" n="115" xml:id="pag115"/> 
+</p>
+            </div>
+        </body>
+    </text>
+</TEI>
