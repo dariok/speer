@@ -30,24 +30,52 @@ let $filename := if (request:get-uploaded-file-name('file'))
 			(: ambiguous rule match soll nicht zum Abbruch führen :)
 			let $attr := <attributes><attr name="http://saxon.sf.net/feature/recoveryPolicyName" value="recoverSilently" /></attributes>
 			let $resultData := try {
-				transform:transform($oFDW/*:TEI.2, $xslt, $params, $attr, "expand-xincludes=no") }
-				catch * { '<ul><li> ' || $err:code || ": " || $err:description || '</li>' || "\n " || $err:line-number || ':' || $err:column-number || "\n a:" || $err:additional }
+				transform:transform($oFDW/*:TEI.2, $xslt, $params, $attr, "expand-xincludes=no")
+			} catch * {
+				let $err :=
+					<error xmlns="https://github.com/dariok/wdbplus/debug" where="repertorium/scripts/convert/convert2.xql"
+						when="{current-dateTime()}">
+						<code>{$err:code}</code>
+						<description>{$err:description}</description>
+						<location>{$err:line-number}:{$err:column-number}</location>
+						<additional>{$err:additional}</additional>
+					</error>
+				let $st := update insert $err into doc("/db/apps/edoc/repertorium/debug.xml")/*:errors
+					
+				return '<li> ' || $err:code || ": " || $err:description || '</li>' || "\n " || $err:line-number || ':' || $err:column-number || "\n a:" || $err:additional
+			}
 			
 			let $storeData := if($resultData/tei:TEI)
 				then $resultData/tei:TEI
 				else $resultData
 			
-			let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
-			let $store := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $storeData[self::tei:TEI])
-			let $perm := sm:chown($store, 'repertorium:repertorium')
-			let $mod := sm:chmod($store, 'rw-rw-r--')
+			let $store := try {
+				let $login := xmldb:login('/db/apps/edoc/data/repertorium/texts', 'repertorium', 'repertorium')
+				let $debugStore := xmldb:store('/db/apps/edoc/data/repertorium/texts', $filename, $storeData[self::tei:TEI])
+				let $perm := sm:chown($debugStore, 'repertorium:repertorium')
+				let $mod := sm:chmod($debugStore, 'rw-rw-r--')
+				return $debugStore
+			} catch * {
+				let $err :=
+							<error xmlns="https://github.com/dariok/wdbplus/debug" where="repertorium/scripts/convert/convert2.xql"
+								when="{current-dateTime()}">
+								<code>{$err:code}</code>
+								<description>{$err:description}</description>
+								<location>{$err:line-number}:{$err:column-number}</location>
+								<additional>{$err:additional}</additional>
+							</error>
+				let $st := update insert $err into doc("/db/apps/edoc/repertorium/debug.xml")/*:errors
+					
+				return '<li> ' || $err:code || ": " || $err:description || '</li>' || "\n " || $err:line-number || ':' || $err:column-number || "\n a:" || $err:additional
+			}
+			
 			let $id := $resultData/@xml:id
 			let $title := if (contains($resultData//tei:title[1], '::'))
 				then normalize-space(substring-before($resultData//tei:title[1], '::'))
 				else normalize-space($resultData//tei:title[1])
 			let $location := substring-after($store, 'texts/')
 			
-			(: Daten in die METS einfügen :)
+			(: Daten in die wdbmeta einfügen :)
 			let $meta := doc('/db/apps/edoc/data/repertorium/wdbmeta.xml')
 			let $file := <file xmlns="https://github.com/dariok/wdbplus/wdbmeta" path="{concat('texts/',$location)}"
 				xml:id="{$id}"/>
