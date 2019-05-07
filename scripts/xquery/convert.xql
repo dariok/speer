@@ -1,8 +1,8 @@
 xquery version "3.0";
 
-module namespace habq = "https://github.com/dariok/wdbplus/wdbq";
+module namespace wdbq = "https://github.com/dariok/wdbplus/wdbq";
 
-declare function habq:query($map) {
+declare function wdbq:query($map) {
 	let $collection := '/db/apps/edoc/data/repertorium'
 	return
 		<div id="content">
@@ -16,7 +16,7 @@ declare function habq:query($map) {
 		</div>
 };
 
-declare function habq:getTask() {
+declare function wdbq:getTask() {
 	let $bogus := <void/>
 	return <h2>TEI-P4-Upload</h2>
 };
