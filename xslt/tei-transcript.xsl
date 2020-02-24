@@ -292,14 +292,15 @@
 		<xsl:variable name="pos" select="position()"/>
 		<xsl:if test="text() or tei:* or not(parent::tei:row/preceding-sibling::tei:row/tei:cell[$pos][@rows])">
 			<td>
-				<xsl:if test="@rows">
-					<xsl:attribute name="rowspan">
-						<xsl:value-of select="@rows"/>
-					</xsl:attribute>
-				</xsl:if>
+				<xsl:apply-templates select="@rows | @cols" />
 				<xsl:apply-templates/>
 			</td>
 		</xsl:if>
+	</xsl:template>
+	<xsl:template match="@rows | @cols">
+		<xsl:attribute name="{local-name()}pan">
+			<xsl:value-of select="."/>
+		</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="tei:term">
