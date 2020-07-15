@@ -1,42 +1,70 @@
-<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-	xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.0"
-	xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
+<xsl:transform xmlns:date="http://exslt.org/dates-and-times" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:fn="http://w3.org/2005/xpath-functions" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="3.0" xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="stylesheet">
+		<desc>
+			<p>Dieses Stylesheet transformiert die Daten des „Repertorium digitaler Quellen zur österreichischen und deutschen Rechtsgeschichte in der Frühen Neuzeit“, hr. v. Dr. Heino Speer (heino.speer@repertorium.at) von TEI P4 nach TEI P5. Seine Entwicklung wurde ermöglicht durch das HRSM-Projekt „KONDE - Kompetenznetzwerk Digitale Edition“ (2017–2021) Cf. http://www.digitale-edition.at</p>
+			<p>Bearbeiter: DK = Dario Kampkaspar dario.kampkaspar@oeaw.ac.at</p>
+			<p>
+				<ul>
+					<li>Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK</li>
+					<li>TODO nicht benötigte entfernen; 2016-11-02 DK</li>
+				</ul>
+			</p>
+		</desc>
+	</doc>
 	
-	<!-- Bearbeiter:DK = Dario Kampkaspar <dario.kampkaspar@oeaw.ac.at> -->
-	
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>TODO add information of this parameter</desc>
+	</doc>
 	<xsl:param name="fileid"/>
-	<!-- Anpassungen an Vorlagen Heino Speer; 2016-08-18 DK -->
-	<!-- TODO nicht benötigte entfernen; 2016-11-02 DK -->
+	
 	
 	<!-- Handling of indent and strip-space is slightly different between parsers. Different setting may improve
 				human readability. Adjust as needed. -->
 	<xsl:output method="xml" encoding="utf-8" indent="yes"/>
 	
-	<!-- get the current date -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>This variable holds the current date.</desc>
+	</doc> 
 	<xsl:variable name="today">
 		<!--XSLT 1.0: <xsl:value-of select="date:date()"/>-->
 		<xsl:value-of select="current-date()"/>
 	</xsl:variable>
 	
-	<!-- Variables for lowercase-conversion and replacement for certain characters (needed in XSLT 1.0) -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>Variables for lowercase-conversion and replacement for certain characters (needed in XSLT 1.0)</desc>
+	</doc> 
 	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz_'"/>
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>
+			<p>Variables for lowercase-conversion and replacement for certain characters (needed in XSLT 1.0)</p>
+			<p>replace space by _ and remove ,. </p>
+		</desc>
+	</doc> 
 	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ ,.'"/>
-	<!-- replace space by _ and remove ,. -->
 	
+	
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>
+			<p>Verweise auf die Schemata TEI P5 Transcr und projektspezfische Schematron-Regeln werden eingefügt.</p>
+			<p>TODO – ODD erstellen</p>
+		</desc>
+	</doc>
 	<xsl:template match="/">
 		<xsl:processing-instruction name="xml-model">href="../rules/repertorium.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
 		<xsl:processing-instruction name="xml-model">href="../rules/tei-p5-transcr.xsd" type="application/xml"</xsl:processing-instruction>
-		<xsl:apply-templates />
+		<xsl:apply-templates/>
 	</xsl:template>
 	
 	<!-- **
 				* Project-specific instructions
 				* Adjust these according to your local requirements.
 				** -->
-	<!-- ** teiHeader ** -->
-	<!-- Text sind anfangs immer "draft"; vgl. dariok/speer#11 -->
+	<!-- ** teiHeader ** --> 
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>
+			<p>Eine revisionDesc wird in den teiHeader eingefügt. Texte sind anfangs immer "draft"; vgl. dariok/speer#11</p>
+		</desc>
+	</doc>
 	<xsl:template match="*:teiHeader">
 		<teiHeader>
 			<xsl:apply-templates/>
@@ -46,7 +74,9 @@
 		</teiHeader>
 	</xsl:template>
 	
-	<!-- fileDesc vervollständigen; 2016-08-18 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>fileDesc wird um publicationStmt und sourceDesc ergänzt, falls noch nicht vorhanden. 2016-08-18 DK </desc>
+	</doc>
 	<xsl:template match="*:fileDesc">
 		<fileDesc>
 			<xsl:apply-templates select="*[*]"/>
@@ -65,7 +95,9 @@
 				<sourceDesc>
 					<xsl:choose>
 						<xsl:when test="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]">
-							<p><xsl:apply-templates select="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]/node()" /></p>
+							<p>
+                                <xsl:apply-templates select="//*:div[@id='Einleitung' or @id='Editorial']/*:p[matches(., 'Quelle:')]/node()"/>
+                            </p>
 						</xsl:when>
 						<xsl:when test="matches(//*:title, '[iI]n: ')">
 							<p>
@@ -81,7 +113,9 @@
 		</fileDesc>
 	</xsl:template>
 	
-	<!-- add mandatory <resp> if not yet present in <respStmt>. Add the statement according to your local needs. -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>Ein resp-Elmeent (obligatorisch) wird in respStmt eingefügt, falls es noch nicht vorhanden ist.</desc>
+	</doc>
 	<xsl:template match="*:fileDesc/*:titleStmt/*:respStmt">
 		<xsl:element name="respStmt">
 			<xsl:if test="not(./resp)">
@@ -93,12 +127,16 @@
 	</xsl:template>
 	<!-- ** END teiHeader ** -->
 	
-	<!-- Einleitung kommt getrennt nach tei:front; 2016-08-18 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>Wenn vorhanden, wird eine Einleitung (<pre>div id="Einleitung</pre>) in das Frontmatter verschoben. 2016-08-18 DK</desc>
+	</doc>
 	<xsl:template match="*:text">
 		<text>
-			<front>
-				<xsl:apply-templates select="*:body/*:div[@id='Einleitung']"/>
-			</front>
+			<xsl:if test="exists(*:body/*:div[@id='Einleitung'])">
+				<front>
+					<xsl:apply-templates select="*:body/*:div[@id='Einleitung']"/>
+				</front>
+			</xsl:if>
 			<body>
 				<xsl:apply-templates select="*:body/*[not(@id='Einleitung')]"/>
 			</body>
@@ -106,11 +144,12 @@
 	</xsl:template>
 	
 	<!-- Specifica -->
-	<!-- @target nur produzieren, wenn Inhalt vorhanden; 2018-11-07 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" scope="component">
+		<desc>quelle wird zu tei:pb konvertiert, wenn es „Seite“ entält, andernfalls in tei:ref (Verweis). @target wird nur produzieren, wenn @url vorhanden ist; 2018-11-07 DK</desc>
+	</doc>
 	<xsl:template match="*:quelle">
 		<xsl:choose>
-			<xsl:when test="contains(., 'Seite')
-				and not(following-sibling::*[1][self::*:pb])">
+			<xsl:when test="contains(., 'Seite') and not(following-sibling::*[1][self::*:pb])">
 				<!-- Seite und ein Leerzeichen: Seitenumbruch -->
 				<xsl:variable name="num">
 					<xsl:choose>
@@ -124,13 +163,13 @@
 				</xsl:variable>
 				<pb>
 					<xsl:attribute name="facs" select="@url"/>
-					<xsl:attribute name="n" select="$num" />
-					<xsl:attribute name="xml:id" select="'pag'||$num" />
+					<xsl:attribute name="n" select="$num"/>
+					<xsl:attribute name="xml:id" select="'pag'||$num"/>
 				</pb>
 			</xsl:when>
 			<xsl:otherwise>
 				<ref>
-					<xsl:if test="@url and string-length(@url) > 0">
+					<xsl:if test="@url and string-length(@url) &gt; 0">
 						<xsl:attribute name="target">
 							<xsl:value-of select="@url"/>
 						</xsl:attribute>
@@ -141,8 +180,10 @@
 		</xsl:choose>
 	</xsl:template>
 	
-	<!-- note[@place] zu den verschiedenen Typen umsetzen; 2017-03-28 DK -->
-	<!-- bisher nur @place='foot' gefunden; 2017-03-28 DK -->
+	  
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+		<desc><p>note[@place] wird zu unterschiedlichen Typen von Notes umgesetzt und mit einer xml-ID versehen; wenn @place='foot', dann type='footnote', ansonsten 'crit_app'. 2017-03-28 DK</p></desc>
+	</doc>
 	<xsl:template match="*:note[@place]">
 		<note>
 			<xsl:attribute name="xml:id">
@@ -173,7 +214,9 @@
 		</note>
 	</xsl:template>
 	
-	<!-- datum zu tei:date; 2016-08-18 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+		<desc>datum wird zu tei:date konvertiert. 2016-08-18 DK</desc>
+	</doc>
 	<xsl:template match="*:datum">
 		<date>
 			<xsl:if test="@wert">
@@ -183,25 +226,35 @@
 		</date>
 	</xsl:template>
 	
-	<!-- pb/@url → pb/@facs; 2016-08-18 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+		<desc>@url auf pb wird zu @đacs umbenannt. 2016-08-18 DK</desc>
+	</doc>
 	<xsl:template match="*:pb/@url">
 		<xsl:attribute name="facs" select="."/>
 	</xsl:template>
+	
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+		<desc>pb wird in den TEI P5 Namespace verschoben und ggf. eine xml:id generiert, die – wenn vorhanden – den Wert von @n überninmmt oder pb durchnummeriert.</desc>
+	</doc>
 	<xsl:template match="*:pb">
 		<pb>
 			<xsl:if test="not(@id)">
 				<xsl:attribute name="xml:id">
 					<xsl:choose>
-						<xsl:when test="@n">pag<xsl:value-of select="replace(translate(@n, ' ', ''), 'S\.', '')"/></xsl:when>
-						<xsl:otherwise>pag<xsl:number /></xsl:otherwise>
+						<xsl:when test="@n">pag<xsl:value-of select="replace(translate(@n, ' ', ''), 'S\.', '')"/>
+                        </xsl:when>
+						<xsl:otherwise>pag<xsl:number/>
+                        </xsl:otherwise>
 					</xsl:choose>
 				</xsl:attribute>
 			</xsl:if>
-			<xsl:apply-templates select="@*" />
+			<xsl:apply-templates select="@*"/>
 		</pb>
 	</xsl:template>
 	
-	<!-- corr/@sic → <choice><sic><corr>; 2016-08-18 DK -->
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl" id="corr" scope="component">
+		<desc><p>corr mit @sic wird zu zu choice + sic + corr umgewandelt. 2016-08-18 DK</p></desc>
+	</doc>
 	<xsl:template match="*:corr">
 		<choice>
             <sic>
@@ -213,6 +266,9 @@
         </choice>
 	</xsl:template>
 	
+	<doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+		<desc>@sic wird entfernt, da es durch das <ref name="">Template </ref> verarbeitet wird.</desc>
+	</doc>
 	<xsl:template match="@sic"/>
 	
 	<!-- specifica -->
